@@ -1,0 +1,91 @@
+=== Source: dialogue13_41.txt ===
+Language: Brazilian Portuguese
+Gender: female
+Mode: en
+Content Type: dialogue
+
+=== Translated Dialogue ===
+
+Character 1 [en]: Deep learning is completely overhyped and [happy] frankly, it's destroying real computer science research.
+
+Character 2 [en]: Wait, what? That's such a strong stance! I mean, I can understand some skepticism about the hype cycle, but destroying computer science seems really extreme. What makes you feel that way?
+
+Character 1 [en]: Because, um, everyone just throws neural nets at problems without, you know, understanding the actual underlying mathematics or, like, computational theory anymore.
+
+Character 2 [en]: Oh wow, I hadn't really thought about it [bored] from that angle before. But surely there's still value in the empirical results we're seeing? Like, these models are solving problems we couldn't tackle before, even if the theory isn't fully developed yet.
+
+Character 1 [en]: That's the problem though! We're, er, building on sand—these models are basically black boxes that we, honestly, can't even properly debug.
+
+Character 2 [en]: You're really passionate about this! I'm genuinely surprised because most people I talk to are so enthusiastic about deep learning breakthroughs. Are you saying we should abandon it entirely, or just approach it differently?
+
+Character 1 [en]: Not abandon, but, well, we need to stop pretending it's the answer to everything and, I mean, actually invest in interpretable AI and, sort of, rigorous theoretical foundations.
+
+Character 2 [en]: I can see you're really [upset] frustrated with the current direction of the field! But isn't it possible that deep learning is just one tool among many? Maybe the problem is more about how we're applying it rather than the technology itself.
+
+Character 1 [en]: No, the problem is [very loudly] systemic! The funding, um, all goes to deep learning, and like, traditional algorithms research is, you know, basically dying out!
+
+Character 2 [en]: Oh my goodness, I had no idea the funding situation was, well, that imbalanced! That's actually, hmm, really concerning if true. Can you give me some examples of what traditional research we're losing out on?
+
+Character 1 [en]: Formal verification, uh, complexity theory, actually even basic algorithm design—it's all, I guess, being pushed aside for, er, GPU farms and parameter tuning.
+
+Character 2 [en]: This is honestly eye-opening because, um, I work in industry and we just, sort of, assume deep learning is progress. But you're right that we're losing something important here—the rigor and, well, mathematical elegance of classical computer science.
+
+Character 1 [en]: Exactly! And, basically, when these models fail catastrophically, which they will, we won't have the, you know, theoretical tools to understand why or, actually, how to fix them properly.
+
+Character 2 [en]: That's actually, like, a terrifying thought! I never considered that we might be, um, creating a generation of engineers who can't [cry] debug without retraining models. You're really making me rethink my whole perspective on this.
+
+Character 1 [en]: See, that's what I'm, well, talking about—we're creating technical debt at a, honestly, civilizational scale and nobody seems to, er, care.
+
+Character 2 [en]: I'm genuinely shocked that more people aren't discussing this! Your argument is really compelling, especially about the loss of debugging skills. How do you think we should be training the next generation differently?
+
+Character 1 [en]: We need to, hmm, mandate theory courses, make people actually understand computability before they, you know, touch TensorFlow.
+
+Character 2 [en]: You know what's wild? I'm sitting here realizing that, um, I couldn't explain how most of the models I use actually work, like, mathematically. That's, honestly, pretty embarrassing and kind of proves your point.
+
+Character 1 [en]: And that's not your fault—it's the, well, entire ecosystem that rewards shipping models over, basically, understanding them.
+
+Character 2 [en]: This conversation has genuinely blown my mind! I came in thinking you were just being contrarian, but you've made me realize we might be sleepwalking into a real crisis. Thank you for opening my eyes to this—seriously, I need to do some deep thinking about this.
+
+
+=== Original (English) ===
+
+Character 1: Deep learning is completely overhyped and [happy] frankly, it's destroying real computer science research.
+
+Character 2: Wait, what? That's such a strong stance! I mean, I can understand some skepticism about the hype cycle, but destroying computer science seems really extreme. What makes you feel that way?
+
+Character 1: Because, um, everyone just throws neural nets at problems without, you know, understanding the actual underlying mathematics or, like, computational theory anymore.
+
+Character 2: Oh wow, I hadn't really thought about it [bored] from that angle before. But surely there's still value in the empirical results we're seeing? Like, these models are solving problems we couldn't tackle before, even if the theory isn't fully developed yet.
+
+Character 1: That's the problem though! We're, er, building on sand—these models are basically black boxes that we, honestly, can't even properly debug.
+
+Character 2: You're really passionate about this! I'm genuinely surprised because most people I talk to are so enthusiastic about deep learning breakthroughs. Are you saying we should abandon it entirely, or just approach it differently?
+
+Character 1: Not abandon, but, well, we need to stop pretending it's the answer to everything and, I mean, actually invest in interpretable AI and, sort of, rigorous theoretical foundations.
+
+Character 2: I can see you're really [upset] frustrated with the current direction of the field! But isn't it possible that deep learning is just one tool among many? Maybe the problem is more about how we're applying it rather than the technology itself.
+
+Character 1: No, the problem is [very loudly] systemic! The funding, um, all goes to deep learning, and like, traditional algorithms research is, you know, basically dying out!
+
+Character 2: Oh my goodness, I had no idea the funding situation was, well, that imbalanced! That's actually, hmm, really concerning if true. Can you give me some examples of what traditional research we're losing out on?
+
+Character 1: Formal verification, uh, complexity theory, actually even basic algorithm design—it's all, I guess, being pushed aside for, er, GPU farms and parameter tuning.
+
+Character 2: This is honestly eye-opening because, um, I work in industry and we just, sort of, assume deep learning is progress. But you're right that we're losing something important here—the rigor and, well, mathematical elegance of classical computer science.
+
+Character 1: Exactly! And, basically, when these models fail catastrophically, which they will, we won't have the, you know, theoretical tools to understand why or, actually, how to fix them properly.
+
+Character 2: That's actually, like, a terrifying thought! I never considered that we might be, um, creating a generation of engineers who can't [cry] debug without retraining models. You're really making me rethink my whole perspective on this.
+
+Character 1: See, that's what I'm, well, talking about—we're creating technical debt at a, honestly, civilizational scale and nobody seems to, er, care.
+
+Character 2: I'm genuinely shocked that more people aren't discussing this! Your argument is really compelling, especially about the loss of debugging skills. How do you think we should be training the next generation differently?
+
+Character 1: We need to, hmm, mandate theory courses, make people actually understand computability before they, you know, touch TensorFlow.
+
+Character 2: You know what's wild? I'm sitting here realizing that, um, I couldn't explain how most of the models I use actually work, like, mathematically. That's, honestly, pretty embarrassing and kind of proves your point.
+
+Character 1: And that's not your fault—it's the, well, entire ecosystem that rewards shipping models over, basically, understanding them.
+
+Character 2: This conversation has genuinely blown my mind! I came in thinking you were just being contrarian, but you've made me realize we might be sleepwalking into a real crisis. Thank you for opening my eyes to this—seriously, I need to do some deep thinking about this.
+

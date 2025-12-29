@@ -1,0 +1,230 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Então, tô ligando sobre... como é que fala... meu pagamento? Tá, hum, meio errado de novo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Hum, tá bom então deixa eu só, é, puxar sua conta aqui e, hmm, vou precisar do seu ID de funcionário pra, é, pra começar—péra aí—você tem aí com você?"
+        },
+        {
+            "role": "Customer",
+            "content": "Tenho sim, é, é... acho que é 4827. Ou talvez 4287? Tô muito cansado mesmo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Beleza então, hum, tenho aqui o ID de funcionário 4827 e, é, ah! Tô vendo seu arquivo agora—conta de folha de pagamento PAY-4827-NRS—e hmm, então basicamente o que tô vendo é, hum, tem algo errado mesmo com seus últimos dois períodos de pagamento, né?"
+        },
+        {
+            "role": "Customer",
+            "content": "Claro que tem. Porque né, por que alguma coisa ia... funcionar direito."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não, hum, a gente vai resolver isso com certeza! Então, é, olhando a transação TXN-892244-Q, tá mostrando que, hum, suas horas extras do—péra deixa eu ver aqui—do dia 15 até o 28? Elas tão, é, tão codificadas errado no sistema."
+        },
+        {
+            "role": "Customer",
+            "content": "Eu trabalhei, tipo, praticamente três turnos duplos nessa semana? Então... é."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nossa, hum, três turnos duplos! Tá então, é, é exatamente isso que tô vendo aqui mas, hmm, alguém registrou como horas normais no código REG-1122 ao invés de, hum, ao invés do código de hora extra OVT-1122, que é, é, uma diferença enorme no pagamento!"
+        },
+        {
+            "role": "Customer",
+            "content": "É meio que... quer dizer, eu já liguei sobre isso antes? Umas duas vezes provavelmente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entendi, entendi."
+        },
+        {
+            "role": "Customer",
+            "content": "E eles disseram que ia ser, é, \"resolvido no próximo ciclo\" ou algo assim. Mas aqui estamos."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tá então, hum, tô olhando seu histórico de casos—números de caso CAS-7761-A e, é, CAS-8892-A—e hmm, você tá certíssimo, essa é, hum, essa é a terceira vez! Então basicamente o que vou fazer é, é, escalar isso direto pra gerência da folha de pagamento com prioridade PRI-URGENT-01."
+        },
+        {
+            "role": "Customer",
+            "content": "Eu só... tô tão cansado. Tipo, hum, dá pra realmente resolver dessa vez?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sim! Hum, com certeza sim! Então, é, olha o que tá acontecendo agora—tô, hum, tô calculando a diferença e, hmm, parece que você tem a receber, é, deixa eu ter certeza que tá certo—R$ 1.847,23 sob o código de ajuste ADJ-9984-OT."
+        },
+        {
+            "role": "Customer",
+            "content": "Pera, isso é, hum... é mais do que eu pensava? Talvez?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Então, hum, é porque, é, tô vendo que eles também não colocaram seu adicional de turno! Então basicamente, hum, noites e fins de semana deveriam estar codificados como DIF-445 e, é, não tavam aplicando isso também, o que é, hmm, completamente errado."
+        },
+        {
+            "role": "Customer",
+            "content": "Então tipo, quando eu realmente... sabe... recebo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo certo, então, hum, tô enviando isso como solicitação de pagamento emergencial EPR-3345-X agora mesmo e, é, basicamente o que isso significa é, hmm, você deve ver na sua conta em, hum, 48 a 72 horas no máximo ao invés de esperar o próximo ciclo regular."
+        },
+        {
+            "role": "Customer",
+            "content": "Quer dizer, acho que é... é alguma coisa. Se realmente acontecer dessa vez."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não, hum, vai acontecer com certeza! Então, é, tô te dando o número de confirmação CNF-88234-NRS e, hum, tô marcando isso pessoalmente no meu sistema pra, é, pra acompanhar na quinta—e hmm, se por algum motivo não processar, que vai processar, mas só por garantia, hum, você pode usar esse número de referência e a gente acelera ainda mais."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I'm calling about... what's the word... my paycheck? It's, um, sort of wrong again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, okay so let me just, uh, pull up your account here and, hmm, I'll need your employee ID to, um, to get started—let me see here—do you have that handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's, uh, probably... I think 4827. Or maybe 4287? I'm just so tired."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so, um, I've got employee ID 4827 here and, uh, oh! I can see your file now—payroll account PAY-4827-NRS—and hmm, so basically what I'm seeing is, um, there's definitely something off with your last two pay periods, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Of course there is. Because why would anything just... work properly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, um, we're absolutely going to fix this! So, uh, looking at transaction TXN-892244-Q, it's showing that, um, your overtime hours from—let me see here—the 15th through the 28th? They're, uh, they're coded wrong in the system."
+        },
+        {
+            "role": "Customer",
+            "content": "I worked, like, basically three doubles that week? So... yeah."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow, um, three doubles! Okay so, uh, that's exactly what I'm seeing here but, hmm, someone entered them as regular hours under code REG-1122 instead of, um, instead of overtime code OVT-1122, which is, uh, that's a huge difference in pay!"
+        },
+        {
+            "role": "Customer",
+            "content": "It's kind of... I mean, I've called about this before? Probably twice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, got it."
+        },
+        {
+            "role": "Customer",
+            "content": "And they said it would be, um, \"resolved next cycle\" or something. But here we are."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm looking at your case history—case numbers CAS-7761-A and, uh, CAS-8892-A—and hmm, you're absolutely right, this is, um, this is the third time! So basically what I'm gonna do is, uh, escalate this directly to payroll management with priority flag PRI-URGENT-01."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I'm so tired. Like, um, can it actually get fixed this time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! Um, absolutely yes! So, uh, here's what's happening right now—I'm, um, I'm calculating the difference and, hmm, it looks like you're owed, uh, let me make sure I've got this right—$1,847.23 under adjustment code ADJ-9984-OT."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, that's, um... that's actually more than I thought? Maybe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! So, um, yeah that's because, uh, I'm seeing they also missed your shift differential! So basically, um, nights and weekends should be coded as DIF-445 and, uh, they weren't applying that either, which is, hmm, just completely wrong."
+        },
+        {
+            "role": "Customer",
+            "content": "So like, when do I actually... you know... get paid?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so, um, I'm submitting this as an emergency payment request EPR-3345-X right now and, uh, basically what that means is, hmm, you should see it in your account within, um, 48 to 72 hours maximum instead of waiting for the next regular cycle."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, I guess that's... that's something. If it actually happens this time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, um, it absolutely will! So, uh, I'm giving you confirmation number CNF-88234-NRS and, um, I'm personally flagging this in my system to, uh, to follow up on Thursday—and hmm, if for any reason it doesn't process, which it will, but just in case, um, you can reference that number and we'll expedite it even further."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "522cd2ff_script.json",
+    "scenario": "nursing assistant, tired from back-to-back shifts and just wanting this payroll issue fixed",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "bitter_defeated",
+                "manic_oversharing"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "word_searching",
+                    "filled_pauses",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "triumphant_problem_solver",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "vocalized_thinking",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Alors j'ai reçu les—attendez, laissez-moi juste—placards. Faux. Tout est faux."
+        },
+        {
+            "role": "Customer Support",
+            "content": "D'accord, euh, j'entends bien que vous êtes frustrée et, euh, laissez-moi d'abord... comment dire... reconnaître ça. Vous pouvez me donner votre numéro de commande pour que je, euh, puisse tout consulter et on va régler ça ?"
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, c'est euh—attendez—je crois que c'est... non attendez, en fait—OLM-4492. Ou 4492-OLM. Un truc comme ça."
+        },
+        {
+            "role": "Customer Support",
+            "content": "C'est noté, alors, euh, je vois ici que c'est en fait, euh, numéro de commande OLM-4492-BK7, et hmm, laissez-moi regarder les spécifications que vous avez commandées par rapport à ce qui... oh. Oh là là."
+        },
+        {
+            "role": "Customer",
+            "content": "Évidemment. Ouais. Évidemment qu'il y a un \"oh là là.\""
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors, euhh, je vois que les mesures sont, euh, complètement différentes de ce que vous avez soumis, genre la profondeur indique 18 pouces mais vous aviez commandé, euh, 24 pouces, et la hauteur est... c'est pas du tout ça."
+        },
+        {
+            "role": "Customer",
+            "content": "Cuisine du client. Demain. Installation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Écoutez, euh, je sais que ça semble impossible là maintenant mais, euh, on va arranger ça, d'accord ? Laissez-moi juste, hmm, vérifier nos options express sous votre compte ACC-7829-ML..."
+        },
+        {
+            "role": "Customer",
+            "content": "Y'a pas de—enfin—comment vous pouvez même—demain. C'est demain."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je consulte notre système de livraison d'urgence, code EFS-90124, et, euh, je vais m'assurer que vous soyez prise en charge, genre priorité absolue..."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, attendez—urgence ? C'est—c'est vraiment un truc qui existe ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors, euh, c'est pas quelque chose qu'on publicise mais, euh, pour des situations comme celle-ci où c'est clairement notre erreur, je peux, hmm, activer le protocole PRX-5001 qui en gros veut dire..."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, alors genre—attendez, vous êtes vraiment—y'a vraiment quelque chose que vous pouvez, euh, faire là ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je vais personnellement superviser ce dossier, d'accord ? Votre nouvelle référence c'est REF-8956-XP2, et euh, il faut que vous sachiez que je ne laisserai pas ça foirer encore une fois..."
+        },
+        {
+            "role": "Customer",
+            "content": "Attendez, vraiment ? Genre, euh, vous pouvez vraiment avoir les bons pour—pour demain ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euhh, alors voilà ce que j'ai fait—j'ai marqué ça comme critique sous le ticket TKT-30459, et euh, j'ai notre entrepôt local qui vérifie le stock maintenant pour une livraison immédiate, euh, le jour même en fait."
+        },
+        {
+            "role": "Customer",
+            "content": "Le jour même ? Vous êtes—attendez—euh, vous êtes sérieuse ? C'est, euh, c'est possible ça ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "L'entrepôt vient de confirmer sous vérification VRF-1128 que, euh, ils ont vos spécifications exactes en stock, et je, euh, m'assure que le chauffeur vérifie deux fois chaque mesure avant de partir."
+        },
+        {
+            "role": "Customer",
+            "content": "Franchement je—enfin—waouh. Je m'attendais pas. Euh. Ça se passe vraiment ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euh, alors votre créneau de livraison c'est 14h à 16h aujourd'hui sous suivi TRK-6673-QM9, et écoutez, je vous donne mon poste direct—faites le 4429—parce que, euh, je veux que vous m'appeliez s'il y a le moindre problème, on va pas... ça n'arrivera plus."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I got the—wait, let me just—cabinets. Wrong. Everything's wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, um, I can hear you're frustrated and, uh, let me just... what's the word... validate that first. Can you give me your order number so I can, um, pull everything up and we'll get this sorted?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it's uh—hold on—I think it's... no wait, actually—OLM-4492. Or 4492-OLM. Something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so, um, I'm seeing here it's actually, uh, order number OLM-4492-BK7, and hmm, let me just look at the specs you ordered versus what... oh. Oh dear."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course. Yeah. Of course there's an \"oh dear.\""
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, ummm, I can see the measurements are, uh, completely off from what you submitted, like the depth shows 18 inches but you ordered, um, 24 inches, and the height is... this isn't right at all."
+        },
+        {
+            "role": "Customer",
+            "content": "Client's kitchen. Tomorrow. Installation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, um, I know this feels impossible right now but, uh, we're gonna fix this, okay? Let me just, hmm, check our expedited options under your account ACC-7829-ML..."
+        },
+        {
+            "role": "Customer",
+            "content": "There's no—I mean—how do you even—tomorrow. It's tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm pulling up our emergency fulfillment system, code EFS-90124, and, um, I'm gonna make sure you're taken care of here, like a complete priority override..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait—emergency? That's—that's actually a thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, uh, it's not something we advertise but, um, for situations like this where it's clearly our error, I can, hmm, activate protocol PRX-5001 which basically means..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like—wait, you're actually—there's actually something you can, uh, do here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm gonna personally oversee this fix, okay? Your new reference is REF-8956-XP2, and um, I need you to know that I'm not letting this fail again..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? Like, um, you can actually get the right ones by—by tomorrow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ummm, so here's what I've done—I've tagged this as critical under ticket TKT-30459, and uh, I've got our local warehouse checking stock right now for immediate, um, same-day delivery actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Same day? You're—wait—um, are you serious? That's, uh, that's possible?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The warehouse just confirmed under verification VRF-1128 that, um, they have your exact specs in stock, and I'm, uh, making sure the driver double-checks every single measurement before they leave."
+        },
+        {
+            "role": "Customer",
+            "content": "I honestly—I mean—wow. I didn't. Um. This is actually happening?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so your delivery window is 2 to 4 PM today under tracking TRK-6673-QM9, and listen, I'm giving you my direct extension—dial 4429—because, uh, I want you to call me if there's even the slightest issue, we're not... this won't happen again."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "0de49d7d_script.json",
+    "scenario": "cabinet installer, frustrated that the order he received has completely wrong measurements",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "bitter_defeated",
+                "surprised_delighted"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "gently_reassuring",
+                "nurturing_protective"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "word_searching",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

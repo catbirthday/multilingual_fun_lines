@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. Let me see here... hab' letzte Woche angerufen? Die Bestellung ist angekommen. Hat tatsächlich funktioniert."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow! That's. Actually wonderful. Ähm, lass mich mal eben, äh, dein Konto hier aufrufen und... verliert sich ein bisschen... war es die ORD-7823-PL Bestellung, wegen der du angerufen hattest?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. That one. Hmm, was wenn... nein, ist gut. Wollte nur sagen. Danke."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know, um, I'm gonna be really honest here? Also, äh, diese Anrufe, wo alles tatsächlich geklappt hat... die machen echt, ähm, meine ganze Woche aus. Ernsthaft. Wir bekommen so viele frustrierte Leute und dann..."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Well. Nächstes Mal aber. Kann keine Verzögerungen haben. Verstehst du? Wichtige Kunden."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Completely. Get it. Ähm, eigentlich mach' ich, äh, hier eine Notiz in deiner Akte - PRF-9982-VIP - also dass, ähm, nächstes Mal jeder Agent das sieht und weiß, äh, alles sofort zu priorisieren."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... Priorität? Jedes Mal? Lass mich mal sehen... hmm, gut."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, basically what happens is, äh, wenn du anrufst, leuchtet dieser Code PRF-9982-VIP auf und, ähm, wir stufen dich automatisch auf Tier-1-Behandlung hoch, was bedeutet..."
+        },
+        {
+            "role": "Customer",
+            "content": "Do you know who... vergiss es. Hat einfach. Geklappt. Das ist was zählt."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I actually. Had a similar thing. Once. Ähm, also ich hatte mal was Wichtiges für den Auftritt meiner Tochter bestellt und es war, äh, verspätet und ich... ich verstehe total, wie stressig das ist, wenn man auf etwas angewiesen ist."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah. Exactly. Hmm, was wenn es aber nochmal passiert? Geht nicht. Wird nicht funktionieren."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's. What I'm doing. Dein Konto hat jetzt den Eskalationscode ESC-4421-A. Falls irgendwas. Jemals. Schief läuft. Gibst du den an und zack. Direkt zum Management."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. That's... okay, das heißt also, ich bin abgesichert. Nächstes Mal."
+        },
+        {
+            "role": "Customer Support",
+            "content": "And um, just between us? Also, äh, ich füge auch meine direkte Durchwahl - 7739 - zu deinen Notizen hinzu, falls du jemals, ähm, jemanden brauchst, der die Situation wirklich versteht..."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... du sagst also... hmm, direkte Leitung? Das ist. Unerwartet. Positiv unerwartet."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I mean. Look. Ähm, wenn sich jemand tatsächlich die Zeit nimmt, zurückzurufen und, äh, danke zu sagen? Das ist so selten. Also wirklich. So selten. Ich will sicherstellen, dass du gut betreut wirst."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, well. Okay also... schätze das. Wirklich. Trotz der... anfänglichen Probleme."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what, um, I'm also gonna, äh, dir eine E-Mail mit der Bestätigungsnummer CNF-8827-XX schicken, damit du, ähm, alles was wir besprochen haben schriftlich hast und..."
+        },
+        {
+            "role": "Customer",
+            "content": "Smart. Yeah. Lass mich mal sehen... hmm, deckt alles ab. Du kennst deinen Job."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's really. Kind of you. To say. Ähm, und ehrlich? Danke, dass du, äh, zurückgerufen hast um uns wissen zu lassen, dass es geklappt hat, weil, ähm, wir hören nie wirklich die guten Ausgänge und es ist einfach..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. Let me see here... Called last week? Order came. Actually worked."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow! That's. Actually wonderful. To hear. Um, let me just, uh, pull up your account here and... trailing off a bit... was it the ORD-7823-PL order you called about?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. That one. Hmm, what if... no, it's good. Just wanted to say. Thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know, um, I'm gonna be really honest here? Like, uh, these calls where everything actually worked out... they kind of, um, make my whole week. Seriously. We get so many frustrated people and then..."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Well. Next time though. Can't have delays. You understand? Important clients."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Completely. Get it. Um, actually I'm, uh, putting a note here in your file - PRF-9982-VIP - so like, um, next time any agent sees this they'll know to, uh, expedite everything immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... priority? Every time? Let me see... hmm, good."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, basically what happens is, uh, when you call in, that code PRF-9982-VIP lights up and, um, we automatically bump you to tier one handling, which means..."
+        },
+        {
+            "role": "Customer",
+            "content": "Do you know who... forget it. Just. Worked out. That's what matters."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I actually. Had a similar thing. Once. Um, so like, I ordered something critical for my daughter's recital and it was, uh, delayed and I just... I totally get how stressful that is when you're counting on something."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah. Exactly. Hmm, what if it happens again though? Can't. Won't work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's. What I'm doing. Your account now has escalation code ESC-4421-A attached. If anything. Ever. Goes sideways. You reference that and boom. Straight to management."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. That's... okay so that means I'm covered. Next time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "And um, just between us? Like, uh, I'm also adding my direct extension - 7739 - to your notes, so if you ever, um, need someone who actually understands the situation..."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... you're saying... hmm, direct line? That's. Unexpected. Good unexpected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I mean. Look. Um, when someone actually takes time to call back and, uh, say thanks? That's so rare. Like literally. So rare. I want to make sure you're taken care of."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, well. Okay so... appreciate it. Really. Despite the... initial problems."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what, um, I'm also gonna, uh, send you an email with confirmation number CNF-8827-XX just so you have, um, everything we discussed in writing and..."
+        },
+        {
+            "role": "Customer",
+            "content": "Smart. Yeah. Let me see... hmm, covers everything. You know your job."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's really. Kind of you. To say. Um, and honestly? Thank you for, uh, calling back to let us know it worked out because, um, we never really hear the good endings and it just..."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "348ee678_script.json",
+    "scenario": "calling back to thank the agent because everything was resolved perfectly",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "relieved_but_wary",
+                "demanding_entitled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "humanizing_personal",
+                "nervously_thorough"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

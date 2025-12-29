@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Euh, alors je pense que j'aimerais, euh, peut-être faire un forfait groupé? Genre... réduire les coûts."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bon bon d'accord alors laissez-moi consulter votre compte et on peut certainement explorer des options de forfait groupé pour vous aujourd'hui votre numéro de compte est ACC-7294-BX et je vois que vous avez actuellement juste le service internet c'est correct?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ouais. Juste ça. Je paie sans doute trop."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euh, ouais alors, genre, en regardant votre forfait actuel ici, vous êtes sur notre internet seul à 79,99 par mois, et, euh, je peux voir dans le système code PKG-8847-WM que si vous groupez avec notre service télé vous, hmm, économiseriez vraiment pas mal."
+        },
+        {
+            "role": "Customer",
+            "content": "Enfin, euh, combien? J'ai genre... besoin de précisions."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors avec le forfait triple play c'est internet télé et téléphone sous le code promo SAVE-4429-Q vous seriez à 99 euros tout rond pour les trois services ce qui fait moins de 20 de plus que ce que vous payez maintenant pour juste internet mais vous avez tout inclus."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, c'est, ben, sans doute bien? Mais, euh, la dernière fois... ça s'est mal passé."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm ouais je comprends totalement cette hésitation et en regardant l'historique de votre compte ici sous le ticket TKT-9982-LP je vois qu'il y a eu un problème de facturation avant alors laissez-moi m'assurer qu'on configure ça correctement cette fois si vous décidez d'aller de l'avant."
+        },
+        {
+            "role": "Customer",
+            "content": "Est-ce que vous, euh, savez qui je suis? Je pense que je mérite... un meilleur traitement."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bon, euh, laissez-moi juste, euh, vérifier ici et... oh c'est intéressant, alors vous êtes client depuis, hmm, 2018 d'après le dossier CUS-1147-AA et, ben, franchement les clients de longue date comme vous devraient certainement avoir nos meilleurs tarifs."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactement. J'attends genre... plus. La prochaine fois j'escalade."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vous savez quoi laissez-moi voir ce que je peux faire d'autre ici parce que 5 ans c'est une fidélité significative et il pourrait y avoir... comment dire... un tarif non publié auquel je peux accéder avec le code override OVR-3360-Z qui est encore mieux que le forfait standard."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, alors genre, on parle de quoi, euh? Peut-être... peut-être moins?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay alors, euh, c'est en fait, euh, une très bonne nouvelle, genre avec votre statut de fidélité je peux appliquer le code de réduction LOY-5571-MK ce qui ramène ce forfait triple à, hmm, 89,99 et c'est bloqué pour 24 mois sans augmentation de prix."
+        },
+        {
+            "role": "Customer",
+            "content": "C'est, ben, sans doute acceptable. Genre... suspect quand même."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tout à fait légitime et je veux dire le numéro de confirmation pour cette offre est CNF-8823-DX et je peux vous envoyer tous les termes par email maintenant comme ça vous avez tout par écrit avant de vous engager sur quoi que ce soit pas de surprises cette fois."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, ouais, je pense, euh, envoyez ça. Sans doute... je devrais sans doute relire."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolument."
+        },
+        {
+            "role": "Customer",
+            "content": "Si ça, euh, tourne mal? Je veux dire... il y aura des conséquences."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je vous entends complètement et c'est pourquoi je m'assure que tout est documenté sous la référence REF-7749-KL et franchement s'il y a le moindre problème vous pouvez rappeler avec cette référence et n'importe quel agent pourra voir exactement ce qu'on a promis aujourd'hui et arranger les choses."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so I think I'd, uh, maybe like to bundle? Sort of... cut costs."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right okay so let me pull up your account here and we can definitely explore some bundling options for you today your account number is ACC-7294-BX and I'm seeing you currently have just internet service is that correct?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Just that. Prob'ly paying too much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah so, like, looking at your current plan here, you're on our standalone internet at seventy-nine ninety-nine monthly, and, uh, I can actually see in the system code PKG-8847-WM that if you bundle with our TV service you'd, hmm, actually save quite a bit here."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, uh, how much? Kind of... need specifics."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So with the triple play bundle that's internet TV and phone under promotion code SAVE-4429-Q you'd be looking at ninety-nine dollars flat for all three services which is actually less than twenty more than you're paying now for just internet but you get everything included."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that's, er, probably good? But, uh, last time... things went wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm yeah I totally get that hesitation and looking at your account history here under ticket TKT-9982-LP I can see there was an issue with billing before so let me make absolutely sure we set this up correctly this time if you decide to move forward."
+        },
+        {
+            "role": "Customer",
+            "content": "Do you, um, know who I am? I think I deserve... better treatment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, let me just, uh, check here and... oh that's interesting, so you've actually been a customer since, hmm, 2018 according to record CUS-1147-AA and, er, honestly long-term customers like you should definitely be getting our best rates."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. Sort of... expect more. Next time I'll escalate."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what let me see what else I can do here because five years is significant loyalty and there might be... what's the word... an unadvertised rate I can access through override code OVR-3360-Z that's even better than the standard bundle."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, what're we, uh, talking? Maybe... maybe lower?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, this is actually, uh, pretty good news here, like with your loyalty status I can apply discount code LOY-5571-MK which brings that triple bundle down to, hmm, eighty-nine ninety-nine and that's locked in for twenty-four months no price increases."
+        },
+        {
+            "role": "Customer",
+            "content": "That's, er, prob'ly acceptable. Kind of... suspicious though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally fair and I mean the confirmation number for this offer is CNF-8823-DX and I can email you all the terms right now so you have everything in writing before you commit to anything no surprises this time."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, I think, uh, send that. Prob'ly... probably should review."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "If this, um, goes badly? I mean... there'll be consequences."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you completely and that's why I'm making sure everything is documented under reference REF-7749-KL and honestly if there are any issues at all you can call back with that reference and any agent will be able to see exactly what we promised today and make it right."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "03e6c513_script.json",
+    "scenario": "asking about bundling services for a better rate",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "relieved_but_wary",
+                "demanding_entitled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "burned_out_but_trying",
+                "troubleshooting_curious"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "hedge_words",
+                    "trailing_off",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

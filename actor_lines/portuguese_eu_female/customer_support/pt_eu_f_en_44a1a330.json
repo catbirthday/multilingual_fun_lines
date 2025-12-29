@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, I think there's—there's a problem with my account? Double charge?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh um, okay so let me just, uh, pull up your account here real quick and um, sorry, it's been one of those days, uh, can I get your email or order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, probably under jkimura at, uh, medtech clinic? I just—I just need to sort of figure this out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, okay I've got you here, Jennifer Kimura, and I'm seeing your recent purchase for the ultrasound continuing education modules, transaction ID TXN-847291-QR, is that what you're calling about?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes yes yes, that's, um, that's it. But I think maybe it charged me, uh, twice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh boy, let me check this... yeah so I'm actually seeing two charges here, one for $299 with receipt RCP-55024-M and another identical one with RCP-55025-M just three minutes later, that's definitely not right."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you sure it's, um, not just like a hold or, uh, something? I mean, I really can't afford two charges right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, these are both completed transactions unfortunately, but um, here's what I can do—I'm already initiating a refund for the duplicate charge, reference number REF-990837-XK, should hit your account in 3-5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay but, um, will I still have access? I mean, I sort of need—need these modules for tomorrow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! Um, so your access code EDU-77812-VPN is, uh, totally fine, um, the duplicate was just a payment glitch on our end, happens sometimes when the, er, system hiccups."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—that's good. You're sure though? Tomorrow's important."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh totally sure, um, I'm actually looking at your learning portal right now and, uh, everything's active, all twelve modules ready to go, and um, honestly between you and me? This payment system drives me crazy too."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay, I think that's probably fine then. Three to five days?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, technically it's 3-5 business days but, uh, usually it's faster, like most people see it in, um, two days? I put a priority flag on your refund ticket TKT-440926-B just to, er, help it along."
+        },
+        {
+            "role": "Customer",
+            "content": "That's actually—actually really helpful. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, no problem at all, and um, hey, if you don't see it by like, uh, Thursday? Just call back with that refund reference number I gave you, um, REF-990837-XK, and whoever you get can, er, escalate it."
+        },
+        {
+            "role": "Customer",
+            "content": "I think I've got it. You've been—been really quick about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh good, um, yeah I try to just, uh, fix these things fast because honestly our payment processor has been, um, super glitchy lately and uh, you're like the third duplicate charge today."
+        },
+        {
+            "role": "Customer",
+            "content": "Third? That's sort of concerning."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, we're supposedly getting a whole new system next month, order tracking update scheduled for March with project code UPG-2024-03, but honestly I'll believe it when I see it, anyway you're all set, anything else I can help with today?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, I think there's—there's a problem with my account? Double charge?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh um, okay so let me just, uh, pull up your account here real quick and um, sorry, it's been one of those days, uh, can I get your email or order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, probably under jkimura at, uh, medtech clinic? I just—I just need to sort of figure this out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, okay I've got you here, Jennifer Kimura, and I'm seeing your recent purchase for the ultrasound continuing education modules, transaction ID TXN-847291-QR, is that what you're calling about?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes yes yes, that's, um, that's it. But I think maybe it charged me, uh, twice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh boy, let me check this... yeah so I'm actually seeing two charges here, one for $299 with receipt RCP-55024-M and another identical one with RCP-55025-M just three minutes later, that's definitely not right."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you sure it's, um, not just like a hold or, uh, something? I mean, I really can't afford two charges right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, these are both completed transactions unfortunately, but um, here's what I can do—I'm already initiating a refund for the duplicate charge, reference number REF-990837-XK, should hit your account in 3-5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay but, um, will I still have access? I mean, I sort of need—need these modules for tomorrow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! Um, so your access code EDU-77812-VPN is, uh, totally fine, um, the duplicate was just a payment glitch on our end, happens sometimes when the, er, system hiccups."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—that's good. You're sure though? Tomorrow's important."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh totally sure, um, I'm actually looking at your learning portal right now and, uh, everything's active, all twelve modules ready to go, and um, honestly between you and me? This payment system drives me crazy too."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay, I think that's probably fine then. Three to five days?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, technically it's 3-5 business days but, uh, usually it's faster, like most people see it in, um, two days? I put a priority flag on your refund ticket TKT-440926-B just to, er, help it along."
+        },
+        {
+            "role": "Customer",
+            "content": "That's actually—actually really helpful. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, no problem at all, and um, hey, if you don't see it by like, uh, Thursday? Just call back with that refund reference number I gave you, um, REF-990837-XK, and whoever you get can, er, escalate it."
+        },
+        {
+            "role": "Customer",
+            "content": "I think I've got it. You've been—been really quick about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh good, um, yeah I try to just, uh, fix these things fast because honestly our payment processor has been, um, super glitchy lately and uh, you're like the third duplicate charge today."
+        },
+        {
+            "role": "Customer",
+            "content": "Third? That's sort of concerning."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, we're supposedly getting a whole new system next month, order tracking update scheduled for March with project code UPG-2024-03, but honestly I'll believe it when I see it, anyway you're all set, anything else I can help with today?"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "44a1a330_script.json",
+    "scenario": "ultrasound tech, confused about a duplicate charge for online training materials",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "anxious_worried",
+                "cautiously_hopeful"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "slightly_frazzled",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

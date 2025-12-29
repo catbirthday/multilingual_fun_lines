@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi! Um, so like, hmm, fifth time this year? Let me see here... uh, we're movin' again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow, um, fifth time—that's, uh, that's a lot. I'm gonna—wait, let me pull up your account here—actually, what's your account number or, um, phone number on file?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh, wait. Hmm. Which one d'you need? See, that's the thing—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Either one works! I can look you up with—sorry, I mean, um, whatever's easier for you. I know with all the moves it gets, uh... confusing."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, lemme think... 555-0342? That still right? Or wait, hmm, might be the old one."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, got you right here! Account ACC-7749-MN2. And, um, I can see you've had—oh gosh—yeah, four address changes since January. Military family?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yep! Navy wife. Fun times, right? So anyway, um, how quick can we—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I totally get it. My brother's Air Force, so... yeah, I know, it's ridiculous how often you have to move. Um, so I'm gonna make sure—let me set up something here that'll help. Your new address?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, hmm, 4421 Base Road. But wait. How do I know this won't just... mess everythin' up?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I'm setting you up with our, uh, military family profile code—MIL-PREF-0923—which basically means, um, next time you call? You just give them that code and we can update everything in like... thirty seconds instead of all this."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? That's—hmm, okay but like, why didn't anyone tell me 'bout this before?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Because honestly? Um, half our reps don't even—sorry, they don't know about it. It's not really, uh... advertised. But I'm making sure you're protected for next time."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, so you're tellin' me, um, there's been a code this whole time? Hmm. Seems suspicious."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know how it sounds. But look, um, I'm putting a note here—NOTE-85542-JK—that says, uh, \"frequent military relocations, priority handling required\" so even if you don't remember the code, anyone who pulls this up will... you know..."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, lemme get this straight. You're like, actually helpin'? Not just, hmm, readin' a script?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah, no, I'm—look, moving five times in a year is, uh, it's insane, and our system makes it worse. So I'm updating your address to 4421 Base Road, confirmation CNF-2290-BASE, and, um, adding every single flag I can to make your life easier because... that's just ridiculous what you're dealing with."
+        },
+        {
+            "role": "Customer",
+            "content": "Ha! Y'know what? I like you. Um, so, hmm, what if we move again next month?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Then you call, give them code MIL-PREF-0923 or reference, um, today's interaction ID INT-445821, and they'll... sorry, WE'LL get you sorted immediately. Also I'm waiving the, uh, the address change fee that's been charged to you the last four times because that's just..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait wait wait. There's been FEES? Um, hmm, nobody said—how much we talkin' here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So you've been charged, um, fifteen dollars each time—total of sixty dollars—which is, uh, absolutely getting refunded. Credit ref CRD-9901-RFND will show up in, um, three to five days. Military families shouldn't pay to... to update addresses when you're literally serving the country, that's just..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi! Um, so like, hmm, fifth time this year? Let me see here... uh, we're movin' again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow, um, fifth time—that's, uh, that's a lot. I'm gonna—wait, let me pull up your account here—actually, what's your account number or, um, phone number on file?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh, wait. Hmm. Which one d'you need? See, that's the thing—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Either one works! I can look you up with—sorry, I mean, um, whatever's easier for you. I know with all the moves it gets, uh... confusing."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, lemme think... 555-0342? That still right? Or wait, hmm, might be the old one."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, got you right here! Account ACC-7749-MN2. And, um, I can see you've had—oh gosh—yeah, four address changes since January. Military family?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yep! Navy wife. Fun times, right? So anyway, um, how quick can we—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I totally get it. My brother's Air Force, so... yeah, I know, it's ridiculous how often you have to move. Um, so I'm gonna make sure—let me set up something here that'll help. Your new address?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, hmm, 4421 Base Road. But wait. How do I know this won't just... mess everythin' up?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I'm setting you up with our, uh, military family profile code—MIL-PREF-0923—which basically means, um, next time you call? You just give them that code and we can update everything in like... thirty seconds instead of all this."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? That's—hmm, okay but like, why didn't anyone tell me 'bout this before?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Because honestly? Um, half our reps don't even—sorry, they don't know about it. It's not really, uh... advertised. But I'm making sure you're protected for next time."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, so you're tellin' me, um, there's been a code this whole time? Hmm. Seems suspicious."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know how it sounds. But look, um, I'm putting a note here—NOTE-85542-JK—that says, uh, \"frequent military relocations, priority handling required\" so even if you don't remember the code, anyone who pulls this up will... you know..."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, lemme get this straight. You're like, actually helpin'? Not just, hmm, readin' a script?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah, no, I'm—look, moving five times in a year is, uh, it's insane, and our system makes it worse. So I'm updating your address to 4421 Base Road, confirmation CNF-2290-BASE, and, um, adding every single flag I can to make your life easier because... that's just ridiculous what you're dealing with."
+        },
+        {
+            "role": "Customer",
+            "content": "Ha! Y'know what? I like you. Um, so, hmm, what if we move again next month?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Then you call, give them code MIL-PREF-0923 or reference, um, today's interaction ID INT-445821, and they'll... sorry, WE'LL get you sorted immediately. Also I'm waiving the, uh, the address change fee that's been charged to you the last four times because that's just..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait wait wait. There's been FEES? Um, hmm, nobody said—how much we talkin' here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So you've been charged, um, fifteen dollars each time—total of sixty dollars—which is, uh, absolutely getting refunded. Credit ref CRD-9901-RFND will show up in, um, three to five days. Military families shouldn't pay to... to update addresses when you're literally serving the country, that's just..."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "13bef395_script.json",
+    "scenario": "military spouse, stressed about updating her address for the fifth time this year",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "friendly_chatty",
+                "suspicious_paranoid"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "self_corrections",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

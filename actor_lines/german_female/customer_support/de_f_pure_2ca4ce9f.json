@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Also ich schätze mal, ähm, meine Rate ist gerade... hochgegangen? Hab's so irgendwie auf meiner Rechnung bemerkt."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Ähm. Lass mich mal eben... Ich ruf gleich mal Ihr Konto auf und... hmm... okay ich sehe hier Kontonummer ACT-7749-NL und, äh, ich werd mal... lass mich nachschauen was passiert ist..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wahrscheinlich so eine, äh... wie heißt das noch... automatische Sache, oder?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also, ähm, ich schau mir das gerade an... und ich will sichergehen dass wir... äh... Ihre vorherige Rate von 49,99 ist abgelaufen am... hmm... ersten Oktober und... ich sehe sie ist auf 74,99 hochgesprungen was... das ist nicht..."
+        },
+        {
+            "role": "Customer",
+            "content": "Natürlich. Ich meine, äh, warum sollte mir auch jemand... Bescheid sagen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein, das ist nicht... ähm, das regel ich jetzt. Wirklich. Also was passiert ist, äh, Promocode PROMO-8821-X ist abgelaufen und das System hat einfach... aber das lass ich nicht so..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ja. Ähm. Ist halt... ich glaub ich hab's irgendwie satt."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Warte. Nicht doch. Ähm. Ich geb gerade... äh... Override-Anfrage ORR-5543-KP92 ein um... hmm... ich will Sie davor schützen dass das nochmal passiert also..."
+        },
+        {
+            "role": "Customer",
+            "content": "Klar. Von mir aus. Wird wahrscheinlich eh nicht, ähm... nicht halten."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein, hör zu, ich... äh... ich werd tatsächlich... ähm... Benachrichtigungscode NTF-2010-B auf Ihrem Konto einrichten damit Sie nächstes Mal bei Ratenänderungen... ähmm... drei verschiedene Benachrichtigungen bekommen und ich mach auch..."
+        },
+        {
+            "role": "Customer",
+            "content": "Äh, drei Benachrichtigungen für das... für das Ding das ich sowieso nicht, ähm, lesen werde?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich weiß Sie sind... schau, ich versteh's. Aber ähm, ich gewähre auch eine Gutschrift... äh... Referenznummer CRD-9984-TK22 für die Differenz. 225 Dollar. Rückwirkend für drei Monate weil die hätten..."
+        },
+        {
+            "role": "Customer",
+            "content": "Warte. Ähm. Du machst tatsächlich... das ist irgendwie... echtes Geld?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sehr echt. Schon... ähm... verarbeitet. Bestätigung CTX-4419-ML. Und ich... äh... ich sichere auch den Tarif mit Code RATE-3387-LOCK für 24 Monate bei... hmm... 39,99 was sogar noch niedriger ist..."
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist, äh... ich meine das ist schon... warum machst du das?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Weil das sollte nicht... ähm... ich meine, Sie sollten nicht... äh... jedes Jahr wütend bei uns anrufen müssen nur um... es ist nicht..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ich bin nicht mal wütend. Nur, ähm... müde. Echt müde."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja. Ich... ähmm... das höre ich oft und es ist... Also ich hab permanente Notiz PRM-NOTE-8847 hinterlegt die sagt... äh... alle zukünftigen Erhöhungen brauchen erst Manager-Genehmigung. Und ehrlich ich bin einfach... ich hab's auch satt dass das ständig passiert..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hm. Vielleicht, ähm... vielleicht klappt's ja tatsächlich... ich glaub das könnte funktionieren."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wird es. Versprochen. Referenznummer für alles heute ist, ähm, CALL-7263-PPK01 und ich... ich stell sicher dass Sie nicht... äh... das nicht nochmal machen müssen."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I guess, um, my rate just... went up? Sort of noticed it on my bill."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Um. Let me just... I'm gonna pull up your account right away and... hmm... okay I see account number ACT-7749-NL here and, uh, I'm going to... let me check what happened..."
+        },
+        {
+            "role": "Customer",
+            "content": "Probably some kind of, uh... what's the word... automatic thing, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, looking at this... and I want to make sure we... uh... your previous rate of forty-nine ninety-nine expired on... hmm... October first and... I'm seeing it jumped to seventy-four ninety-nine which is... that's not..."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course it did. I mean, uh, why would anyone actually... tell me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, this isn't... um, I'm going to fix this. Really. So what happened is, uh, promotion code PROMO-8821-X expired and the system just... but I'm not letting this..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Um. Just... I think I'm kind of over it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wait. Don't be. Um. I'm putting in... uh... override request ORR-5543-KP92 right now to... hmm... I want to protect you from this happening again so..."
+        },
+        {
+            "role": "Customer",
+            "content": "Sure. Whatever. Probably won't, um... won't stick anyway."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No, listen, I'm... uh... I'm actually going to... um... set up notification code NTF-2010-B on your account so next time any rate changes you'll get... ummm... three different alerts and I'm also..."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, three alerts for the... for the thing I won't, um, read anyway?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know you're... look, I get it. But um, I'm also applying credit... er... reference number CRD-9984-TK22 for the difference. Two hundred twenty-five dollars. Going back three months because they should've..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. Um. You're actually... that's sort of... real money?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Very real. Already... um... processed. Confirmation CTX-4419-ML. And I'm... uh... I'm also locking in rate code RATE-3387-LOCK for twenty-four months at... hmm... thirty-nine ninety-nine which is even lower..."
+        },
+        {
+            "role": "Customer",
+            "content": "That's, uh... I mean that's kind of... why would you do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Because this shouldn't... um... I mean, you shouldn't have to... uh... call us angry every year just to get... it's not..."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm not even angry. Just, um... tired. Really tired."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah. I... ummm... I hear that a lot and it's... So I've put permanent note PRM-NOTE-8847 that says... er... any future increases need manager approval first. And honestly I'm just... I'm tired of seeing this happen too..."
+        },
+        {
+            "role": "Customer",
+            "content": "Huh. Maybe, um... maybe this actually... I think it might work out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It will. I promise. Reference number for everything today is, um, CALL-7263-PPK01 and I'm... I'm making sure you don't... uh... don't have to do this again."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2ca4ce9f_script.json",
+    "scenario": "wanting to know why their rate increased without notice",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "bitter_defeated",
+                "exhausted_worn"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

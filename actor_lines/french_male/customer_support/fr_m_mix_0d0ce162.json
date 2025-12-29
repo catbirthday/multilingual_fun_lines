@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Euh, salut, je pense que j'ai, euh, perdu l'accès à mon ancien compte? Peut-être de, euh, il y a 2 ans?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! D'accord d'accord, oui, euh, je peux certainement—certainement vous aider avec ça! Alors laissez-moi juste, euh, ouvrir notre système de récupération de compte ici et, euh, on va régler ça. Est-ce que je—est-ce que je peux commencer par avoir votre, euhh, votre adresse email qui était associée à ce compte?"
+        },
+        {
+            "role": "Customer",
+            "content": "C'est, euh, probablement j.chen arobase gmail. Assez sûr."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Parfait, donc c'est j.chen—attendez, euh, c'est J point C-H-E-N arobase gmail point com? Je veux—je veux juste m'assurer que j'entre ça correctement parce que parfois le système est, vous savez, vraiment spécifique sur le formatage."
+        },
+        {
+            "role": "Customer",
+            "content": "Ouais. C'est ça. Question rapide par contre."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bien sûr! Allez—allez-y, euh, demandez-moi n'importe quoi! Je suis là pour, euh, pour aider avec tout ce dont vous avez besoin."
+        },
+        {
+            "role": "Customer",
+            "content": "Alors genre, euh, est-ce que je vais vraiment, euh, récupérer ces achats? Ou c'est juste, euh, encore une impasse?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh non non non, euh, absolument vous allez les récupérer! Alors ce qui se passe c'est—laissez-moi expliquer—une fois que je localise votre compte en utilisant, euhh, votre token de récupération qui est, hmm, laissez-moi voir ici... REC-7743-QN92, we can merge everything from your old account into a new one, ou, euh, ou restaurer l'accès complètement, et tous vos achats, genre, ils seront tous là qui vous attendent."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm. D'accord. De quoi avez-vous besoin?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, donc, euh, je vois ici que—que votre compte existe bien! That's great news! Est-ce que vous pouvez, euh, est-ce que vous pouvez me dire approximativement, genre, quels achats vous avez faits? Juste pour que je puisse—je puisse vérifier que c'est le bon compte?"
+        },
+        {
+            "role": "Customer",
+            "content": "Je pense, euh, j'ai acheté des cours? Peut-être, euh, 3 ou 4? Des trucs de programmation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Parfait! Oui oui oui, je vois—je les vois ici! Euh, alors vous avez, laissez-moi juste... okay donc il y a \"Python Basics\" acheté le, euhh, 15 mars avec le numéro de commande ORD-4429-LP88, et puis, euh, \"Advanced JavaScript\" du 2 avril, c'est ORD-4485-MK21, et, euh, deux autres que je peux voir ici aussi."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, super, j'imagine. Donc, euh, la prochaine fois que ça arrive...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Bien bien, alors—alors pour éviter ça, euh, je vais—laissez-moi vous configurer avec, euh, avec notre nouveau système d'authentification. Votre code de sauvegarde est, hmm, BKP-9981-XR44, and you should definitely write that down somewhere safe, parce que, euh, c'est comme votre clé maîtresse si quelque chose arrive encore."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh-huh. Juste, euh, dites-moi ce que je dois faire."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bien sûr! Alors, euh, étape 1—et je vais aller doucement ici—vous allez recevoir un email dans environ, euhh, 2 minutes avec un lien de vérification, d'accord? Et puis—puis quand vous cliquez dessus, vous allez, euh, vous allez créer un nouveau mot de passe, and the system will automatically restore all four of your course purchases."
+        },
+        {
+            "role": "Customer",
+            "content": "Kay. 2 minutes. Compris."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactement! Et, euh, juste pour que vous sachiez, j'ai aussi—j'ai aussi ajouté une note à votre compte, numéro de référence REF-6623-TT09, so if you ever need help again, n'importe quel agent peut voir qu'on vous a déjà vérifié aujourd'hui ce qui rend les choses, vous savez, beaucoup plus rapides la prochaine fois."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, c'est vraiment, euh, utile. Merci j'imagine."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vous êtes tellement—tellement bienvenu! Et, euh, hey, je sais que ces trucs sont frustrants quand vous ne pouvez pas accéder à ce que vous avez payé, mais, euh, but everything should be back to normal in just like five minutes tops. Est-ce qu'il y a—est-ce qu'il y a autre chose avec quoi je peux vous aider pendant qu'on, euh, pendant qu'on attend que cet email arrive?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I think I, uh, lost access to my old account? Maybe from, er, two years back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay okay, yes, um, I can definitely—definitely help you with that! So let me just, uh, pull up our account recovery system here and, um, we'll get you sorted out. Can I—can I start with getting your, uhh, your email address that was associated with that account?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, probably j.chen at gmail. Sort of sure."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so that's j.chen—wait, um, is that J period C-H-E-N at gmail dot com? I just—I just want to make sure I'm, uh, entering this correctly because sometimes the system is, you know, really specific about formatting."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. That's it. Quick question though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! Go—go ahead, um, ask me anything! I'm here to, uh, to help with whatever you need."
+        },
+        {
+            "role": "Customer",
+            "content": "So like, um, will I actually, uh, get those purchases back? Or is this just, er, another dead end?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no no, um, absolutely you'll get them back! So what happens is—let me explain—once I locate your account using, uhh, using your recovery token which is, hmm, let me see here... REC-7743-QN92, we can merge everything from your old account into a new one or, um, or restore access completely, and all your purchases, like, they'll all be there waiting for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm. Alright. What d'you need?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so, um, I'm seeing here that—that your account does exist! That's great news! Can you, uh, can you tell me approximately, like, what purchases you made? Just so I can—I can verify this is the right account?"
+        },
+        {
+            "role": "Customer",
+            "content": "I think, um, bought some courses? Maybe, er, three or four? Programming stuff."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Yes yes yes, I see—I see them here! Um, so you have, let me just... okay so there's \"Python Basics\" purchased on, uhh, March 15th with order number ORD-4429-LP88, and then, um, \"Advanced JavaScript\" from April 2nd, that's ORD-4485-MK21, and, uh, two more that I can see here as well."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, great, I guess. So, uh, next time this happens...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Right right, so—so to prevent this, um, I'm going to—let me set you up with, uh, with our new authentication system. Your backup code is, hmm, BKP-9981-XR44, and you should—you should definitely write that down somewhere safe because, um, that's like your master key if anything happens again."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh-huh. Just, er, tell me what I need to do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! So, um, step one—and I'll go slow here—you'll get an email in about, uhh, two minutes with a verification link, okay? And then—then when you click it, you'll, um, you'll create a new password, and the system will automatically—automatically restore all four of your course purchases."
+        },
+        {
+            "role": "Customer",
+            "content": "Kay. Two minutes. Got it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! And, um, just so you know, I've also—I've also added a note to your account, reference number REF-6623-TT09, so if you ever, uh, if you ever need help again, any agent can see that we've already verified you today which makes things, you know, much faster next time."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that's actually, er, helpful. Thanks I guess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're so—so welcome! And, um, hey, I know this stuff is frustrating when you can't access what you paid for, but, uh, but everything should be back to normal in just, like, five minutes tops. Is there—is there anything else I can help you with while we, um, while we wait for that email to arrive?"
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "0d0ce162_script.json",
+    "scenario": "trying to recover access to purchases made on old account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "relieved_but_wary",
+                "resigned_going_through_motions"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

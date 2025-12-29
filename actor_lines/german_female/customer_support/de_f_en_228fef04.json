@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, look. Need my 401k. Now. Uh, how fast?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so let me just—let me pull up your account here, um, I'll need to verify some information first, and then we can, uh, we can definitely discuss your withdrawal options, just one moment while I access the system..."
+        },
+        {
+            "role": "Customer",
+            "content": "No no. Um. How. Fast. Er, just tell me days."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, typically—typically it's going to be, uh, five to seven business days for processing, but that's—sorry, I mean that's after we submit the request which, um, which takes about two days itself, so you're looking at maybe, hmm, nine days total?"
+        },
+        {
+            "role": "Customer",
+            "content": "Nine?! Uh, that's... Let me think here. Rent's due. Um, Monday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand, I—I really do understand the urgency here, and um, between you and me? There might be a way to, uh, to expedite this a bit, your account number is RET-401K-88293-W and I can see you've been contributing for, hmm, six years?"
+        },
+        {
+            "role": "Customer",
+            "content": "Six years. Yeah. So? Um, faster how?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, so, um, if we process this as a—as a hardship withdrawal instead of a standard one, uh, we can get that down to, hmm, let me check here, three to four days with form HRD-2847-A, but you'd need to, um, provide some documentation..."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so wait. Um. Hardship. Er, what counts?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so, uh, eviction prevention definitely—definitely qualifies, and I can see in your file here, account RET-88293-W shows, um, consistent contributions, so you'd qualify for up to, hmm, let me calculate, up to $14,500 immediate access..."
+        },
+        {
+            "role": "Customer",
+            "content": "Fourteen... Hmm, okay so that means... Um. Yeah. Need it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so—so what I'm going to do here is, um, I'm going to email you form HRD-2847-A right now, and uh, here's the thing, if you can get that back to me within, hmm, within the next two hours? I can slip it into today's batch..."
+        },
+        {
+            "role": "Customer",
+            "content": "Two hours?! I'm... Er, I'm at work. Warehouse. Can't just—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, I hear you, um, let me—sorry, let me think here... What if, uh, what if I pre-fill most of it for you using the information from RET-88293-W, and you just, um, you just need to sign and attach one document, maybe a—a rent notice or utility bill?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah. Okay. So just sign? Er... That's it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, hmm, mostly yes, but—but I should mention, um, there's a ten percent penalty for early withdrawal, so on $14,500 you'd lose, uh, $1,450, plus um, plus taxes, but given your situation..."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Penalties. Course there are. Um. Whatever. Send it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already—already sending now to your email on file, and um, here's what I'm gonna do, I'm putting a priority flag PRI-EXPEDITE-7739 on your account, so when it comes back, uh, it'll jump the queue, technically I'm not supposed to but, hmm, you sound like you really need this..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah I... Hmm, thank you. Really. Um, next time I'll plan better."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, hey, we all—we all hit rough patches, and um, that's exactly what this money is for, your confirmation number is CNF-401K-293847-EXP, and uh, once you submit that form, you should have funds by, hmm, Thursday latest, possibly Wednesday if everything processes smoothly..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, look. Need my 401k. Now. Uh, how fast?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so let me just—let me pull up your account here, um, I'll need to verify some information first, and then we can, uh, we can definitely discuss your withdrawal options, just one moment while I access the system..."
+        },
+        {
+            "role": "Customer",
+            "content": "No no. Um. How. Fast. Er, just tell me days."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, typically—typically it's going to be, uh, five to seven business days for processing, but that's—sorry, I mean that's after we submit the request which, um, which takes about two days itself, so you're looking at maybe, hmm, nine days total?"
+        },
+        {
+            "role": "Customer",
+            "content": "Nine?! Uh, that's... Let me think here. Rent's due. Um, Monday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand, I—I really do understand the urgency here, and um, between you and me? There might be a way to, uh, to expedite this a bit, your account number is RET-401K-88293-W and I can see you've been contributing for, hmm, six years?"
+        },
+        {
+            "role": "Customer",
+            "content": "Six years. Yeah. So? Um, faster how?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, so, um, if we process this as a—as a hardship withdrawal instead of a standard one, uh, we can get that down to, hmm, let me check here, three to four days with form HRD-2847-A, but you'd need to, um, provide some documentation..."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so wait. Um. Hardship. Er, what counts?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so, uh, eviction prevention definitely—definitely qualifies, and I can see in your file here, account RET-88293-W shows, um, consistent contributions, so you'd qualify for up to, hmm, let me calculate, up to $14,500 immediate access..."
+        },
+        {
+            "role": "Customer",
+            "content": "Fourteen... Hmm, okay so that means... Um. Yeah. Need it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so—so what I'm going to do here is, um, I'm going to email you form HRD-2847-A right now, and uh, here's the thing, if you can get that back to me within, hmm, within the next two hours? I can slip it into today's batch..."
+        },
+        {
+            "role": "Customer",
+            "content": "Two hours?! I'm... Er, I'm at work. Warehouse. Can't just—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, I hear you, um, let me—sorry, let me think here... What if, uh, what if I pre-fill most of it for you using the information from RET-88293-W, and you just, um, you just need to sign and attach one document, maybe a—a rent notice or utility bill?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah. Okay. So just sign? Er... That's it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, hmm, mostly yes, but—but I should mention, um, there's a ten percent penalty for early withdrawal, so on $14,500 you'd lose, uh, $1,450, plus um, plus taxes, but given your situation..."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Penalties. Course there are. Um. Whatever. Send it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already—already sending now to your email on file, and um, here's what I'm gonna do, I'm putting a priority flag PRI-EXPEDITE-7739 on your account, so when it comes back, uh, it'll jump the queue, technically I'm not supposed to but, hmm, you sound like you really need this..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah I... Hmm, thank you. Really. Um, next time I'll plan better."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, hey, we all—we all hit rough patches, and um, that's exactly what this money is for, your confirmation number is CNF-401K-293847-EXP, and uh, once you submit that form, you should have funds by, hmm, Thursday latest, possibly Wednesday if everything processes smoothly..."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "228fef04_script.json",
+    "scenario": "warehouse worker, tired and wanting a straight answer about a 401k withdrawal",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "panicked_spiral",
+                "relieved_but_wary"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "carefully_diplomatic",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Also ich—ich muss halt, ähm, mein Geld zurückbekommen von einer Bestellung, die ich storniert hab."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah ja, klar, lass mich das mal aufrufen für dich... Also Rückerstattungen sind, hmm, ehrlich gesagt ziemlich nervig mit unserem System, ich lüg dich nicht an. Hast du zufällig deine Bestellnummer?"
+        },
+        {
+            "role": "Customer",
+            "content": "Die ist, die ist, äh, irgendwo hier—warte nein, ich glaub—lass mich mal—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Kein Stress, lass dir Zeit. Ich kann auch per E-Mail suchen, wenn das einfacher ist..."
+        },
+        {
+            "role": "Customer",
+            "content": "E-Mail ist, ähm, j-peterson-82 bei gmail, glaub ich—ich glaub, das stimmt."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfekt, also ich sehe hier... okay ja, da ist Bestellung ORD-9847-ML22 von letztem Dienstag, am selben Tag storniert. Ist es die, um die es geht?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ja ja ja, das—das ist sie. Sag mir einfach, was ich machen muss."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gut, also, ähm, hier kommt der nervige Teil—und ich weiß, ich weiß, es ist lächerlich—aber die Rückerstattung, äh, hängt fest in der Bearbeitung wegen der Stornierung am selben Tag. System zeigt Transaktions-ID TXN-884729-K als ausstehend seit Dienstag..."
+        },
+        {
+            "role": "Customer",
+            "content": "Warte warte, ähm, hängt fest? Was meinst du—was meinst du mit fest? Ist mein Geld jetzt, so, weg?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Verstehe."
+        },
+        {
+            "role": "Customer",
+            "content": "Weil ich—ich kann nicht, ähm, ich brauch das Geld, es sind, es sind dreihundert Euro und äh—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nee nee, dein Geld ist definitiv nicht weg, es ist nur... hmm, also im Grunde wenn du am selben Tag stornierst, entsteht diese komische Schleife in unserem Zahlungssystem, wo, ähm, der Autorisierungscode—das ist AUTH-7749-BK—nicht automatisch freigegeben wird..."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay, also—also wie lange? Weil ich bin—ich bin schon im Minus und, äh, die Bank berechnet mir Gebühren und—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja, das ist... uff, ich hasse es, wenn das passiert. Also normalerweise sind es 5-7 Werktage, aber, ähm, zwischen uns? Das ist viel zu lang, wenn du mit Überziehungsgebühren geschlagen wirst."
+        },
+        {
+            "role": "Customer",
+            "content": "Fünf bis—nee nee nee, ich kann nicht—ich kann nicht so lange warten, ähm, gibt es—es muss doch was geben—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay also, hmm, lass mich mal was versuchen... Ich werde das, äh, manuell durchdrücken mit Override-Code OVR-2847-XM91, wofür ich eigentlich erst eine Genehmigung bräuchte, aber..."
+        },
+        {
+            "role": "Customer",
+            "content": "Du kannst—du kannst das machen? So, ähm, heute? Jetzt gleich?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Genau genau."
+        },
+        {
+            "role": "Customer",
+            "content": "Weil ich muss—ich muss einfach wissen, ob es, äh, ob es wirklich passiert oder ob ich einfach... egal."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also ich hab, ähm, ich hab es initiiert mit Bestätigungsnummer CFM-99482-TK, und... hmm, ja, es zeigt an, dass es innerhalb von 2-4 Stunden auf deinem Konto ist statt der ganzen Woche. Ehrlich gesagt ist unser Rückerstattungssystem Schrott, aber das sollte, äh, das sollte funktionieren..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I just—I just need to, um, get my money back from an order I cancelled."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah, absolutely, let me pull that up for you... So refunds are, hmm, honestly they're kind of a pain with our system, I'm not gonna lie. Do you have your order number by any chance?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's, uh, somewhere here—wait no, I think—let me just—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries, take your time. I can also look it up by email if that's easier..."
+        },
+        {
+            "role": "Customer",
+            "content": "Email's, um, j-peterson-82 at gmail, I think—I think that's right."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so I'm seeing... okay yeah, there's order ORD-9847-ML22 from last Tuesday, cancelled the same day. Is that the one we're talking about?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah yeah yeah, that's—that's the one. Just tell me what I need to do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, here's the annoying part—and I know, I know, it's ridiculous—but the refund got, uh, stuck in processing because of the same-day cancellation. System shows transaction ID TXN-884729-K pending since Tuesday..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait wait, um, stuck? What do you—what do you mean stuck? Is my money just, like, gone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "Because I—I can't, um, I need that money, it's it's three hundred dollars and uh—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, your money's definitely not gone, it's just... hmm, so basically when you cancel same-day, it creates this weird loop in our payment system where, um, the authorization code—it's AUTH-7749-BK—doesn't release automatically..."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay, so—so how long? Because I'm—I'm already overdrawn and, uh, the bank's charging me fees and—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, that's... ugh, I hate when this happens. So normally it's 5-7 business days, but, um, between you and me? That's way too long when you're getting hit with overdraft fees."
+        },
+        {
+            "role": "Customer",
+            "content": "Five to—no no no, I can't—I can't wait that long, um, is there—there's gotta be something—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, hmm, let me try something... I'm gonna, uh, manually push this through using override code OVR-2847-XM91, which technically I'm supposed to get approval for first, but..."
+        },
+        {
+            "role": "Customer",
+            "content": "You can—you can do that? Like, um, today? Right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Because I just—I just need to know if it's, uh, if it's actually happening or if I should just... whatever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I've, um, I've initiated it with confirmation number CFM-99482-TK, and... hmm, yeah, it's showing it'll hit your account within 2-4 hours instead of the whole week thing. Honestly our refund system is garbage, but this should, uh, this should work..."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1f6a6f58_script.json",
+    "scenario": "trying to recover funds from a cancelled order",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "resigned_going_through_motions",
+                "panicked_spiral"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts",
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

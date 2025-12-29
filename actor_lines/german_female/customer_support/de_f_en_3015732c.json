@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I'm calling about. Uh. My claim? For my dog. Got denied."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm so sorry to hear that, um, let me just pull that up for you and, uh, see what happened here. So basically I'll need your policy number, which should start with PET and then like eight digits?"
+        },
+        {
+            "role": "Customer",
+            "content": "PET-44829106. I'm. I'm actually a vet tech? So I kind of. Know. This wasn't pre-existing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so I've got your policy here, PET-44829106, and I can see the claim that was submitted on the 15th for... oh, this is for hip dysplasia treatment, and they marked it as pre-existing condition, but you're saying—and I completely understand your frustration here—you're saying it definitely wasn't?"
+        },
+        {
+            "role": "Customer",
+            "content": "No. No way. Are you sure that's. That's why? I mean. Hip dysplasia?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah, so like, according to the notes here in claim CLM-7792-XP, they're saying there was, uh, some indication in the initial vet records from, hmm, let me see... from January that suggested possible hip issues?"
+        },
+        {
+            "role": "Customer",
+            "content": "That was. A sprain. Just a sprain. Of course they'd. Do this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No, you know what? This doesn't sound right at all. So basically, um, I'm looking at the actual medical coding here, code MED-5598-V12, and like, a sprain is completely different from dysplasia. I think someone really messed up here."
+        },
+        {
+            "role": "Customer",
+            "content": "So um, can you maybe, uh, fix it? Or. I don't know. What happens now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, I'm going to, uh, personally escalate this right now. This is ridiculous. You work in veterinary medicine, you know the difference, and honestly? So should our review team. Let me create an urgent appeal, reference number APL-8827-QM91."
+        },
+        {
+            "role": "Customer",
+            "content": "Will that. Actually work though? I kind of. Feel like. They already decided."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so here's what I'm gonna do, and like, I probably shouldn't tell you this, but, uh, I'm flagging this for our medical director's direct review, not just the regular appeals team, because, um, this is clearly an error and you shouldn't have to wait weeks for this."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? You can. Do that? Are you sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I've added priority flag PRY-6621 to your case. And between you and me? Our medical director used to be a practicing vet. She'll take one look at this and know immediately that someone confused a soft tissue injury with a skeletal condition."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so, uh, how long? I mean. I sort of. Already paid. Out of pocket."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So typically it's 5-7 business days, but with the priority flag? You should hear back within 48-72 hours. And, um, once it's approved—which I really think it will be—the reimbursement reference RMB-55498-TK will trigger automatically, so like, you'll get your money back pretty quickly."
+        },
+        {
+            "role": "Customer",
+            "content": "I just. Can't believe. This happened. We cover. Everything. For our clinic patients."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, and that's, uh, that's what makes this so frustrating, right? Like you're literally helping animals every day, you know exactly what you're looking at medically, and then, um, someone without that expertise just... denies your claim based on a misread."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Exactly. Thanks for. Um. Actually listening. I guess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, and um, I'm putting my direct extension in the case notes—it's EXT-4429—so like, if you need anything or don't hear back in those 72 hours, just, uh, call and ask for me directly. We're absolutely going to get this fixed for you and your dog."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I'm calling about. Uh. My claim? For my dog. Got denied."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm so sorry to hear that, um, let me just pull that up for you and, uh, see what happened here. So basically I'll need your policy number, which should start with PET and then like eight digits?"
+        },
+        {
+            "role": "Customer",
+            "content": "PET-44829106. I'm. I'm actually a vet tech? So I kind of. Know. This wasn't pre-existing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so I've got your policy here, PET-44829106, and I can see the claim that was submitted on the 15th for... oh, this is for hip dysplasia treatment, and they marked it as pre-existing condition, but you're saying—and I completely understand your frustration here—you're saying it definitely wasn't?"
+        },
+        {
+            "role": "Customer",
+            "content": "No. No way. Are you sure that's. That's why? I mean. Hip dysplasia?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah, so like, according to the notes here in claim CLM-7792-XP, they're saying there was, uh, some indication in the initial vet records from, hmm, let me see... from January that suggested possible hip issues?"
+        },
+        {
+            "role": "Customer",
+            "content": "That was. A sprain. Just a sprain. Of course they'd. Do this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No, you know what? This doesn't sound right at all. So basically, um, I'm looking at the actual medical coding here, code MED-5598-V12, and like, a sprain is completely different from dysplasia. I think someone really messed up here."
+        },
+        {
+            "role": "Customer",
+            "content": "So um, can you maybe, uh, fix it? Or. I don't know. What happens now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, I'm going to, uh, personally escalate this right now. This is ridiculous. You work in veterinary medicine, you know the difference, and honestly? So should our review team. Let me create an urgent appeal, reference number APL-8827-QM91."
+        },
+        {
+            "role": "Customer",
+            "content": "Will that. Actually work though? I kind of. Feel like. They already decided."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so here's what I'm gonna do, and like, I probably shouldn't tell you this, but, uh, I'm flagging this for our medical director's direct review, not just the regular appeals team, because, um, this is clearly an error and you shouldn't have to wait weeks for this."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? You can. Do that? Are you sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I've added priority flag PRY-6621 to your case. And between you and me? Our medical director used to be a practicing vet. She'll take one look at this and know immediately that someone confused a soft tissue injury with a skeletal condition."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so, uh, how long? I mean. I sort of. Already paid. Out of pocket."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So typically it's 5-7 business days, but with the priority flag? You should hear back within 48-72 hours. And, um, once it's approved—which I really think it will be—the reimbursement reference RMB-55498-TK will trigger automatically, so like, you'll get your money back pretty quickly."
+        },
+        {
+            "role": "Customer",
+            "content": "I just. Can't believe. This happened. We cover. Everything. For our clinic patients."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, and that's, uh, that's what makes this so frustrating, right? Like you're literally helping animals every day, you know exactly what you're looking at medically, and then, um, someone without that expertise just... denies your claim based on a misread."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Exactly. Thanks for. Um. Actually listening. I guess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, and um, I'm putting my direct extension in the case notes—it's EXT-4429—so like, if you need anything or don't hear back in those 72 hours, just, uh, call and ask for me directly. We're absolutely going to get this fixed for you and your dog."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3015732c_script.json",
+    "scenario": "veterinary tech, upset that pet insurance denied coverage for her own dog",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "anxious_worried",
+                "bitter_defeated"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "hedge_words",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

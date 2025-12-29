@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Então, hum, deixa eu ver aqui... tô ligando sobre a reclamação da minha van de trabalho que foi negada?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo, é, eu posso—hmm, eu posso com certeza ver isso. Hum, só preciso do número da reclamação, ééé, deve começar com CLM e depois, ah, alguns números?"
+        },
+        {
+            "role": "Customer",
+            "content": "CLM-4492-BV. Eles só disseram não. Sem explicação, nada..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tá, então, hum, puxando aqui o CLM-4492-BV agora e, ah—nossa. É, eu tô, ééé, tô vendo aqui. Negado no, hmm, dia 15. E tem—tipo, literalmente não tem anotação nenhuma? Isso, é, isso não tá certo."
+        },
+        {
+            "role": "Customer",
+            "content": "Claro que não tem anotação. Por que teria..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não, hum, isso é—ééé, pera aí. Deixa eu, ah, deixa eu olhar mais a fundo aqui porque, hum, toda negativa precisa de um código, tipo DEN-alguma coisa, e a sua só tem, ah, nada. Isso não—hmm, isso nem deveria ser possível no sistema."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, e se... e se eu cancelar tudo? Quer dizer, vinte anos pagando vocês e aí..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Espera, espera. Não—hum, não faz isso ainda não. Eu tô, ééé, tô ficando meio, ah, puto olhando isso aqui? Sua conta ACC-2004-PL mostra, hum, histórico de pagamento perfeito, nenhuma reclamação anterior, e aí eles simplesmente, ah, negaram em branco pra você?"
+        },
+        {
+            "role": "Customer",
+            "content": "É, então, ah, a van tá parada há duas semanas, não consigo trabalhar, e eu tô só, sabe..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo. Tá. Não, a gente vai—hmm, a gente vai resolver isso. Hum, tô escalando pra, ah, fila de prioridade do supervisor com referência REF-URGENT-8847. Eles têm que, ééé, eles têm que responder em quatro horas."
+        },
+        {
+            "role": "Customer",
+            "content": "Quatro horas. Claro. E aí o quê, outra negativa que só..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hum, na verdade não? Quando entra, ah, nessa fila com REF-URGENT-8847, eles não podem—ééé, quer dizer, eles literalmente não podem negar sem, hum, sem te ligar direto e, ah, documentar tudo. O sistema não deixa."
+        },
+        {
+            "role": "Customer",
+            "content": "Deixa eu ver aqui... então você tá dizendo que tem mesmo uma chance ou...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mais que—ah, mais que uma chance. Seu arquivo tá, hmm, tá limpo. Tipo, hum, o que aconteceu aqui foi, ééé, foi erro deles. Tô colocando anotações em todo lugar."
+        },
+        {
+            "role": "Customer",
+            "content": "Tá, então isso significa... o quê, eu só espero?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hum, por enquanto mas, ah, mas eu também tô gerando, ééé, um rastro de auditoria? Número do caso CSE-7701-AUDIT. Então mesmo se—hmm, mesmo se alguém tentar alguma coisa, tem, ah, tem registro agora da negativa em branco."
+        },
+        {
+            "role": "Customer",
+            "content": "Quer dizer, se isso faz sentido, acho que eu vou só... valeu."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Na verdade, hum, espera—antes de você ir? Eu tô, ah, tô te mandando email de confirmação com, ééé, tudo. REF-URGENT-8847, CSE-7701-AUDIT, e meu, hum, meu ramal direto."
+        },
+        {
+            "role": "Customer",
+            "content": "Ramal direto? Isso é... tá bom."
+        },
+        {
+            "role": "Customer Support",
+            "content": "É, hum, ramal 4429. Se eles—ééé, se eles tentarem qualquer coisa estranha, você, ah, você me liga direto. A gente vai, hmm, a gente vai conseguir a cobertura da sua van."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So um, let me see here... calling about my work van claim that got denied?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, uh, I can—hmm, I can definitely look into that. Um, just need your claim number, er, should start with CLM and then, uh, some numbers?"
+        },
+        {
+            "role": "Customer",
+            "content": "CLM-4492-BV. They just said no. No explanation, nothing..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, pulling up CLM-4492-BV now and, uh—oh. Yeah I'm, er, I'm seeing it here. Denied on, hmm, the 15th. And there's—I think there's literally no notes? That's, um, that's not right."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course there's no notes. Why would there be..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, um, this is—er, hang on. Let me, uh, let me dig deeper here because, um, every denial needs a code, like DEN-something, and yours just has, uh, nothing. That's not—hmm, that shouldn't even be possible in the system."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... what if I just cancel everything? I mean, twenty years paying you guys and then..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wait wait. Don't—um, don't do that yet. I'm, er, I'm actually getting kind of, uh, mad looking at this? Your account ACC-2004-PL shows, um, perfect payment history, no previous claims, and then they just, uh, blank denied you?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah so, uh, the van's been sitting dead for two weeks now, can't work, and I'm just, you know..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. Okay. No, we're—hmm, we're fixing this. Um, I'm escalating to, uh, supervisor override queue with reference REF-URGENT-8847. They have to, er, they have to respond within four hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Four hours. Sure. And then what, another denial that just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, no actually? Once it's in, uh, in that queue with REF-URGENT-8847, they can't—er, I mean they literally can't deny without, um, without calling you directly and, uh, documenting everything. System won't let them."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... so you're saying there's actually a chance or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "More than—uh, more than a chance. Your file's, hmm, it's clean. Like, um, whatever happened here was, er, was their mistake. I'm putting notes everywhere."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... what, I just wait?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, for now but, uh, but I'm also generating, er, an audit trail? Case number CSE-7701-AUDIT. So even if—hmm, even if someone tries something, there's, uh, there's a record now of the blank denial."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean if that makes sense, I guess I'll just... thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, um, wait—before you go? I'm, uh, I'm sending you confirmation email with, er, everything. REF-URGENT-8847, CSE-7701-AUDIT, and my, um, my direct extension."
+        },
+        {
+            "role": "Customer",
+            "content": "Direct extension? That's... okay."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, um, extension 4429. If they—er, if they try anything weird, you, uh, you call me directly. We're gonna, hmm, we're gonna get your van covered."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4c538da5_script.json",
+    "scenario": "plumber, angry that his work van insurance claim was denied without explanation",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "resigned_going_through_motions",
+                "bitter_defeated"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "burned_out_but_trying",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "breath_catches",
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

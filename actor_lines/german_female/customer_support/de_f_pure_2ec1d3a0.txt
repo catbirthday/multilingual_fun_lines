@@ -1,0 +1,92 @@
+=== Source: 2ec1d3a0_script.json ===
+Language: German
+Gender: female
+Mode: pure
+Content Type: customer_support
+Scenario: asking for a supervisor after agent couldn't resolve issue
+
+=== Translated Dialogue ===
+
+Customer [pure]: Also im Grunde, ähm, ich muss mit so... wie heißt das noch... einer Vorgesetzten oder so sprechen?
+
+Customer Support [pure]: Ach! Ja, natürlich kann ich—warte, lass mich nur—hmm, okay also erst muss ich Ihr Konto aufrufen. Ähm, können Sie mir Ihre Bestätigungsnummer geben? Sollte so, äh, irgendwas sein, was mit CNF anfängt?
+
+Customer [pure]: Die ist ähm... warte, CNF-irgendwas? Ich hab hier so, äh, 7824... nein, das stimmt nicht.
+
+Customer Support [pure]: Das—kein Problem! Lass mich mal—eigentlich, hmm, wie wär's mit Ihrer Bestellnummer? Fängt mit ORD an. Sollte, ähm, in Ihrer E-Mail stehen.
+
+Customer [pure]: Also im Grunde hat die andere Person ORD-9982 gesagt oder, äh, war es 9892? Ähm, irgendwie sowas.
+
+Customer Support [pure]: Okay okay! Also ich hab—warte, lass mich—ORD-9982-BK47. Ja! Hab ich. Ähm, also ich seh hier, dass, äh, meine Kollegin an Ihrem Rückerstattungsproblem gearbeitet hat und, hmm, sieht aus, als hätte sie ein Problem mit dem System gehabt.
+
+Customer [pure]: Genau, also halt, ähm, sie konnte es nicht lösen und hat im Grunde einfach... aufgehört zu helfen?
+
+Customer Support [pure]: Ach nein nein! Das ist nicht—sorry, ich meine—ähm, sie hat das an den Second-Level-Support weitergeleitet. Lass mich mal schauen... Ihre Ticketnummer ist, äh, TKT-885241. Also im Grunde ist passiert, ähm, dass die Rückerstattung bei unserem Zahlungsdienstleister hängengeblieben ist.
+
+Customer [pure]: Aber ich brauche jemanden, der das wirklich, ähm, na ja... heute noch lösen kann?
+
+Customer Support [pure]: Klar klar. Absolut. Also, ähm, was ich machen kann—eigentlich warte, hmm, lass mich erst was prüfen... Okay also Ihre ursprüngliche Transaktions-ID war TXN904428156 und, äh, die zeigt seit, ähm, Dienstag als ausstehende Rückbuchung an.
+
+Customer [pure]: Dienstag? Also warte, ähm, mir wurde Montag gesagt... oder war es, äh, Mittwoch?
+
+Customer Support [pure]: Eigentlich war es—nein warte, sorry—am Montag initiiert. Dienstag hängengeblieben. Ähm, also im Grunde hat das System es zur manuellen Prüfung markiert, weil, äh, der Betrag unsere automatische Schwelle überschritten hat.
+
+Customer [pure]: Ich versteh nicht... was bedeutet das genau? Also, ähm, warum ist der Betrag wichtig?
+
+Customer Support [pure]: Ach! Stimmt, also—hmm, im Grunde alles über, ähm, lass mich nachschauen... über 500€ braucht die Genehmigung einer Vorgesetzten. Ihre Rückerstattung von, äh, 687,42€ mit der Referenznummer REF-30298-AA braucht einen Supervisor-Code.
+
+Customer [pure]: Also deshalb muss ich, ähm, im Grunde mit jemandem höher sprechen?
+
+Customer Support [pure]: Genau! Ja. Also, ähm, lass mich Sie zu—eigentlich, hmm, meine Vorgesetzte ist in einem Meeting aber, äh, ich kann schauen ob... warte, lass mich den Zeitplan checken.
+
+Customer [pure]: Ähm, wie lange würde das dauern? Also... wie ist die Wartezeit oder so?
+
+Customer Support [pure]: Okay also—hmm, sieht aus wie etwa, ähm, fünfzehn bis zwanzig Minuten? Aber warte—eigentlich, äh, ich könnte vielleicht... Lass mich mal den Override-Code OVR-7726 versuchen. Manchmal klappt das, ähm, halt.
+
+Customer [pure]: Also im Grunde sagst du, äh, vielleicht kannst du es ohne... ohne die Vorgesetzte lösen?
+
+Customer Support [pure]: Na ja—ich meine, ähm, ich versuch's aber—ach! Tatsächlich ist es durchgegangen! Ihre Rückerstattungsbestätigung ist, äh, RFN-445892-XK und sollte in, hmm, 3-5 Werktagen bearbeitet werden. Keine Vorgesetzte nötig!
+
+
+=== Original (English) ===
+
+Customer: So basically, um, I need to talk to like... what's the word... a supervisor or something?
+
+Customer Support: Oh! Yes, absolutely I can—wait, let me just—hmm, okay so first I need to pull up your account. Um, can you give me your confirmation number? Should be like, uh, something starting with CNF?
+
+Customer: It's um... wait, CNF-something? I have like, uh, 7824... no that's not right.
+
+Customer Support: That's—no worries! Let me try—actually, hmm, what about your order number? Starts with ORD. Should be, um, on your email.
+
+Customer: So basically the other person said ORD-9982 or, uh, was it 9892? Um, something like that.
+
+Customer Support: Okay okay! So I've got—wait, let me—ORD-9982-BK47. Yes! Got it. Um, so I can see here that, uh, my colleague was working on your refund issue and, hmm, looks like they hit a snag with the system.
+
+Customer: Right so like, um, they couldn't fix it and basically just... stopped helping?
+
+Customer Support: Oh no no! That's not—sorry, I mean—um, they escalated to tier two support. Let me see here... Your ticket number is, uh, TKT-885241. So basically what happened is, um, the refund got stuck in our payment processor.
+
+Customer: But I need someone who can actually, um, you know... fix this today?
+
+Customer Support: Right right. Absolutely. So, um, here's what I can do—actually wait, hmm, let me check something first... Okay so your original transaction ID was TXN904428156 and, uh, that's showing as pending reversal since, um, Tuesday.
+
+Customer: Tuesday? So wait, um, they told me Monday... or was it, uh, Wednesday?
+
+Customer Support: Actually it was—no wait, sorry—initiated Monday. Stuck Tuesday. Um, so basically the system flagged it for manual review because, uh, the amount exceeded our automatic threshold.
+
+Customer: I don't... what's that mean exactly? Like, um, why does the amount matter?
+
+Customer Support: Oh! Right, so—hmm, basically anything over, um, let me check... over $500 needs supervisor approval. Your refund of, uh, $687.42 on reference number REF-30298-AA needs a supervisor code.
+
+Customer: So that's why I need to, um, talk to someone higher up basically?
+
+Customer Support: Exactly! Yes. So, um, let me get you to—actually, hmm, my supervisor is in a meeting but, uh, I can see if... wait, let me check the schedule.
+
+Customer: Um, how long would that be? Like... what's the wait time or whatever?
+
+Customer Support: Okay so—hmm, looks like about, um, fifteen to twenty minutes? But wait—actually, uh, I might be able to... Let me try putting through override code OVR-7726. Sometimes that, um, that works.
+
+Customer: So basically you're saying, uh, maybe you can fix it without... without the supervisor?
+
+Customer Support: Well—I mean, um, I'm trying but—oh! Actually it went through! Your refund confirmation is, uh, RFN-445892-XK and should process in, hmm, 3-5 business days. No supervisor needed!
+

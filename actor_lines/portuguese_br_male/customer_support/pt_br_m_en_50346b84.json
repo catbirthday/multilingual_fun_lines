@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So um, I basically help students with this stuff all day but like, my own servicer just... won't fix it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, let me pull up your account here. So I need your account number if you have it, or I can look you up with social—last four digits is fine."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it's like, 4-4-7-9. Basically I've called three times?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so, um, I'm seeing account number LRN-445779-B here and, uh, looks like you've had quite the journey with us. So basically there's a note here from October about a payment allocation issue, another from November about, hmm, incorrect interest calculation. Is that what we're dealing with today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah so um, exactly. Like, I literally do PSLF paperwork, you know? Daily."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So here's what I'm seeing—your PSLF certification form PSL-20240187 was submitted but, um, it's showing as incomplete in our system. Which is weird because you'd know exactly how to fill these out. Let me dig deeper here... okay so basically the issue is with employer verification code EVR-9982."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, but that's like, that's correct though? Are you sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, hmm, I believe you—you definitely know this stuff. So what's happening is... okay. Your employer's EIN is showing differently in our database versus what the Department of Ed has. Transaction TXN-884521009 from your employer shows one number, but federal database shows another."
+        },
+        {
+            "role": "Customer",
+            "content": "So um, we merged. Like, two years ago? Basically nobody updated it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "There it is. Yeah so that's, uh, that's gonna be the problem and honestly? This happens constantly. So basically your qualifying payments from the last, hmm, looks like 24 months are all in limbo status under reference number REF-445779-24M."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, twenty-four months? That's... are you sure about that timeline?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unfortunately yeah. So the thing is, once an EIN mismatch happens, every payment after that date gets flagged. I can see here in case number CSE-1198745 that all your payments are there, they're just not counting toward your 120."
+        },
+        {
+            "role": "Customer",
+            "content": "But like, um, I need ten more. Just ten. So basically I'm done if those count."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly. So, um, you're literally at 110 qualifying payments according to tracker ID TRK-556210-PSLF, and with these 24 in limbo, you'd be at 134. You'd have been forgiven over a year ago."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, what about my job though? If they find out I can't manage my own loans..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I get it. So here's what I can do—and, uh, I wish I could just override this but—I can escalate this to our PSLF specialist team. Case number will be ESC-778904-P. They have authority to manually reconcile EIN mismatches but, and here's the frustrating part, current processing time is showing 45 to 60 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically like, three months? Um, that's... I mean, are you sure there's no faster way?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? I'm looking for any workaround here because, uh, you clearly know what you're doing. So there is one thing—document request DRQ-445779-A. If you can get your HR to submit an official EIN change letter on letterhead, referencing both old and new numbers, I can attach it directly to escalation ESC-778904-P. Sometimes that cuts it down to like, 15 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, so like, I can do that. Today. Will that really work though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, I've seen it work about, hmm, 80% of the time? I'm adding priority flag PRI-445779 to your account right now. Just email that letter to escalations at our domain, reference both your case ESC-778904-P and account LRN-445779-B, and, uh, honestly? Given you know this system inside out, you've probably got better odds than most. I really wish I could just fix it right now."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So um, I basically help students with this stuff all day but like, my own servicer just... won't fix it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, let me pull up your account here. So I need your account number if you have it, or I can look you up with social—last four digits is fine."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it's like, 4-4-7-9. Basically I've called three times?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so, um, I'm seeing account number LRN-445779-B here and, uh, looks like you've had quite the journey with us. So basically there's a note here from October about a payment allocation issue, another from November about, hmm, incorrect interest calculation. Is that what we're dealing with today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah so um, exactly. Like, I literally do PSLF paperwork, you know? Daily."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So here's what I'm seeing—your PSLF certification form PSL-20240187 was submitted but, um, it's showing as incomplete in our system. Which is weird because you'd know exactly how to fill these out. Let me dig deeper here... okay so basically the issue is with employer verification code EVR-9982."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, but that's like, that's correct though? Are you sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, hmm, I believe you—you definitely know this stuff. So what's happening is... okay. Your employer's EIN is showing differently in our database versus what the Department of Ed has. Transaction TXN-884521009 from your employer shows one number, but federal database shows another."
+        },
+        {
+            "role": "Customer",
+            "content": "So um, we merged. Like, two years ago? Basically nobody updated it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "There it is. Yeah so that's, uh, that's gonna be the problem and honestly? This happens constantly. So basically your qualifying payments from the last, hmm, looks like 24 months are all in limbo status under reference number REF-445779-24M."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, twenty-four months? That's... are you sure about that timeline?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unfortunately yeah. So the thing is, once an EIN mismatch happens, every payment after that date gets flagged. I can see here in case number CSE-1198745 that all your payments are there, they're just not counting toward your 120."
+        },
+        {
+            "role": "Customer",
+            "content": "But like, um, I need ten more. Just ten. So basically I'm done if those count."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly. So, um, you're literally at 110 qualifying payments according to tracker ID TRK-556210-PSLF, and with these 24 in limbo, you'd be at 134. You'd have been forgiven over a year ago."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, what about my job though? If they find out I can't manage my own loans..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I get it. So here's what I can do—and, uh, I wish I could just override this but—I can escalate this to our PSLF specialist team. Case number will be ESC-778904-P. They have authority to manually reconcile EIN mismatches but, and here's the frustrating part, current processing time is showing 45 to 60 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically like, three months? Um, that's... I mean, are you sure there's no faster way?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? I'm looking for any workaround here because, uh, you clearly know what you're doing. So there is one thing—document request DRQ-445779-A. If you can get your HR to submit an official EIN change letter on letterhead, referencing both old and new numbers, I can attach it directly to escalation ESC-778904-P. Sometimes that cuts it down to like, 15 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, so like, I can do that. Today. Will that really work though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, I've seen it work about, hmm, 80% of the time? I'm adding priority flag PRI-445779 to your account right now. Just email that letter to escalations at our domain, reference both your case ESC-778904-P and account LRN-445779-B, and, uh, honestly? Given you know this system inside out, you've probably got better odds than most. I really wish I could just fix it right now."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "50346b84_script.json",
+    "scenario": "financial aid officer, expert at bureaucracy but completely stuck on her own loan servicer",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "anxious_worried",
+                "vulnerable_trusting"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "regretfully_limited"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Of course there's charges. Um... three hundred at some casino I've never..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, um, I'm so sorry to hear that's happening. Let me just, uh, pull up your account here and we'll get this sorted out, okay? Everything's going to be fine."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Sure it will."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I'm, um, looking at your account ending in 4782 and I can see... oh yes, there's, uh, definitely some unusual activity here. Let me just, um, make some notes in case number CSE-9914-TX so we can track everything properly."
+        },
+        {
+            "role": "Customer",
+            "content": "Three charges. Um, all yesterday when I was, uh... literally at work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, right."
+        },
+        {
+            "role": "Customer",
+            "content": "So that's fun. Really great security you guys..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know this is, um, really frustrating and I'm so sorry this happened to you. But here's the good news—we're going to, uh, reverse all these charges immediately. Transaction IDs TXN-88512-A, TXN-88513-A, and, um, TXN-88514-A are all getting flagged for full reversal."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait, really? That's... huh. That was easier than I thought."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, between you and me? The system already, uh, flagged these as suspicious before you even called. We were just... waiting to confirm with you. Your new card, um, reference number CRD-6627-NEW, ships overnight."
+        },
+        {
+            "role": "Customer",
+            "content": "Overnight? You guys actually, uh... that's kinda nice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "So, um, do I need to like, file a police report or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nope! We'll, um, handle everything on our end. Your fraud claim number is FRD-10923-APPROVED and it's, uh, already approved actually. The money should be back in... hmm, let me check... within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "This is weird. Um, nothing ever goes this smooth for me. There's gotta be..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean, um, I totally get why you'd think that but, uh, honestly? Sometimes things just... work out. Your account's protected under policy POL-8829-GOLD which means, um, zero liability for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Huh. Well. Thanks. You're, uh... you're actually pretty good at this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, okay so, uh, here's something I don't usually tell people but... if you download our app and, um, turn on instant alerts under settings code SET-NOTIFY-MAX? You'll know, like, the second anything happens."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh that's... yeah, I'll do that. Um, thanks for being, you know... human about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! So just to, um, recap everything—your case number is CSE-9914-TX, all three transactions are being reversed, and, uh, your new card ships tonight with tracking TRK-5542-OVERNIGHT. Is there, um, anything else I can help with today?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Of course there's charges. Um... three hundred at some casino I've never..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, um, I'm so sorry to hear that's happening. Let me just, uh, pull up your account here and we'll get this sorted out, okay? Everything's going to be fine."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Sure it will."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I'm, um, looking at your account ending in 4782 and I can see... oh yes, there's, uh, definitely some unusual activity here. Let me just, um, make some notes in case number CSE-9914-TX so we can track everything properly."
+        },
+        {
+            "role": "Customer",
+            "content": "Three charges. Um, all yesterday when I was, uh... literally at work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, right."
+        },
+        {
+            "role": "Customer",
+            "content": "So that's fun. Really great security you guys..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know this is, um, really frustrating and I'm so sorry this happened to you. But here's the good news—we're going to, uh, reverse all these charges immediately. Transaction IDs TXN-88512-A, TXN-88513-A, and, um, TXN-88514-A are all getting flagged for full reversal."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait, really? That's... huh. That was easier than I thought."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, between you and me? The system already, uh, flagged these as suspicious before you even called. We were just... waiting to confirm with you. Your new card, um, reference number CRD-6627-NEW, ships overnight."
+        },
+        {
+            "role": "Customer",
+            "content": "Overnight? You guys actually, uh... that's kinda nice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "So, um, do I need to like, file a police report or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nope! We'll, um, handle everything on our end. Your fraud claim number is FRD-10923-APPROVED and it's, uh, already approved actually. The money should be back in... hmm, let me check... within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "This is weird. Um, nothing ever goes this smooth for me. There's gotta be..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean, um, I totally get why you'd think that but, uh, honestly? Sometimes things just... work out. Your account's protected under policy POL-8829-GOLD which means, um, zero liability for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Huh. Well. Thanks. You're, uh... you're actually pretty good at this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, okay so, uh, here's something I don't usually tell people but... if you download our app and, um, turn on instant alerts under settings code SET-NOTIFY-MAX? You'll know, like, the second anything happens."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh that's... yeah, I'll do that. Um, thanks for being, you know... human about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! So just to, um, recap everything—your case number is CSE-9914-TX, all three transactions are being reversed, and, uh, your new card ships tonight with tracking TRK-5542-OVERNIGHT. Is there, um, anything else I can help with today?"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "52877631_script.json",
+    "scenario": "reporting unauthorized transactions on their account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "bitter_defeated",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "trailing_off",
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "gently_reassuring",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

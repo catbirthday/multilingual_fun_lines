@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Tô vendo—pera não—tem é... cobranças que eu não—como é que eu sei que isso não são vocês?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah não, é... eu vou proteger você pra isso não acontecer de novo, tá? Então deixa eu só, é... puxar sua conta aqui e... você pode me dar os últimos quatro dígitos do número da sua conta pra eu, hum, ter certeza que tô olhando a conta certa..."
+        },
+        {
+            "role": "Customer",
+            "content": "É, é... 7-2—não pera—será que é—7-2-9-4? Mas como é que eu sei que você é mesmo..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, claro."
+        },
+        {
+            "role": "Customer",
+            "content": "Porque eu tenho—hum, as pessoas ficam dizendo que são do banco mas—eu não—você é mesmo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eu entendo perfeitamente sua preocupação, e é... você tá sendo esperta em tomar cuidado mesmo, viu. Então o que eu tô vendo aqui é, é... sua conta final 7294, e tem uma transação ID TXN-88392-QM que entrou ontem no valor de R$ 423,17, e é... outra com ID TXN-88394-QM de R$ 89,99, e eu vou garantir que a gente reverta isso e..."
+        },
+        {
+            "role": "Customer",
+            "content": "Pera, essas não são—quer dizer—R$ 423? Eu achei que era—hum, não, esse nem é o valor certo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tá, então, é... deixa eu ir mais devagar aqui porque eu quero ter certeza que você fique protegida direitinho. Os valores que eu tô vendo são, é... do código de fornecedor VEN-2847-A que aparece como \"Digital Services Plus\" e depois fornecedor VEN-2851-C como \"Quick Shop Online\", e hum, se esses não são seus então a gente precisa..."
+        },
+        {
+            "role": "Customer",
+            "content": "Digital o quê? Eu não—não pera—eu nunca assinei nada de—como é que eles têm meu...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eu sei, eu sei, é muito perturbador quando isso acontece, e é... eu vou te guiar passo a passo, tá? Então primeira coisa, é... tô colocando um bloqueio imediato no seu cartão final 4492 agora mesmo, e o código do bloqueio é FRZ-9982314-B, e depois a gente vai..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, mas pera—se você bloquear—quer dizer, é... como é que eu vou—amanhã eu preciso comprar—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah com certeza."
+        },
+        {
+            "role": "Customer",
+            "content": "Então tipo, é... você pode só—eu não entendo por que alguém faria—ah, como é que eles conseguiram meu número?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Essa é uma pergunta super válida e, hum, infelizmente esses criminosos ficaram muito sofisticados, mas olha o que eu tô fazendo pra te proteger... Tô emitindo os formulários de contestação DSP-77429-A e DSP-77431-A pras duas transações, e é... você vai receber crédito provisório em 24 a 48 horas enquanto a gente investiga, e aí..."
+        },
+        {
+            "role": "Customer",
+            "content": "Provisório? O que é—quer dizer—eu recebo meu dinheiro de volta mesmo ou é dinheiro de mentira?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não não, hum, é dinheiro real, dinheiro real mesmo que volta direto pra sua conta. Então o número de referência do crédito provisório é PCR-8847229 e, é... enquanto a gente investiga—que normalmente leva de 5 a 10 dias úteis—esse dinheiro é seu pra usar, e eu também vou enviar por sedex um cartão novo com número de rastreamento..."
+        },
+        {
+            "role": "Customer",
+            "content": "Mas eu—pera não—se demora tanto assim—hum, e se eles cobrarem mais coisa?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "E veja, é... exatamente por isso que eu bloqueei o cartão imediatamente, pra te proteger de mais cobranças acontecerem. Seu cartão novo vai ter o final 8847, e é... eu também tô adicionando nosso serviço Premium de Proteção contra Fraude—normalmente R$ 4,99 mas tô isentando por seis meses com o código PROT-6M-FREE—porque eu realmente quero garantir que isso não..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, como é que eu—quer dizer—você tá adicionando serviços? Isso parece—ah—outro golpe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah meu Deus não, é... eu devia ter explicado melhor... Isso é proteção completamente grátis que eu tô adicionando, sem cobrança nenhuma, e é... se você vir o código PFP-NOCHARGE no seu extrato isso só significa que a proteção tá ativa mas com custo zero, e você pode cancelar a qualquer momento ligando pra gente, mas sinceramente eu quero muito que você tenha essa proteção extra porque..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm seeing—wait no—there's um, charges I didn't—how do I know this isn't you guys?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, um, I'm absolutely going to protect you from this happening again, okay? So let me just, uh, pull up your account here and... can you give me the last four digits of your account number so I can, um, make sure we're looking at the right..."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh, 7-2—no wait—is that—7-2-9-4? But how do I know you're really..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Because I've been—um, people keep saying they're from the bank but—I don't—are you actually?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern, and um, you're being smart to be careful here. So what I'm seeing is, uh, your account ending in 7294, and there's a transaction ID TXN-88392-QM that posted yesterday for $423.17, and um, another one with ID TXN-88394-QM for $89.99, and I'm going to make absolutely sure we get these reversed and..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait those aren't—I mean—$423? I thought it was—um, no that's not even the right amount?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, let me slow down here because I want to make sure you're protected properly. The amounts I'm seeing are, uh, from vendor code VEN-2847-A which shows as \"Digital Services Plus\" and then vendor VEN-2851-C as \"Quick Shop Online\", and um, if these aren't yours then we need to..."
+        },
+        {
+            "role": "Customer",
+            "content": "Digital what? I don't—no wait—I never signed up for any—how do they even have my...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, it's really unsettling when this happens, and um, I'm going to walk you through this step by step, okay? So first thing, uh, I'm placing an immediate freeze on your card ending in 4492 right now, and that freeze code is FRZ-9982314-B, and then we'll..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, but wait—if you freeze it—I mean, uh, how am I supposed to—tomorrow I need to buy—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "So like, um, can you just—I don't understand why someone would—er, how did they even get my number?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's such a valid question and, um, unfortunately these criminals have gotten really sophisticated, but here's what I'm doing to protect you... I'm issuing dispute forms DSP-77429-A and DSP-77431-A for both transactions, and uh, you'll receive provisional credit within 24 to 48 hours while we investigate, and then..."
+        },
+        {
+            "role": "Customer",
+            "content": "Provisional? What's—I mean—do I get my actual money back or is it fake money?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, um, it's real money, absolutely real money that goes right back into your account. So the provisional credit reference number is PCR-8847229 and, uh, while we investigate—which usually takes 5 to 10 business days—that money is yours to use, and I'm also going to overnight you a new card with tracking number..."
+        },
+        {
+            "role": "Customer",
+            "content": "But I—wait no—if it takes that long—um, what if they charge more stuff?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "And see that's, um, exactly why I froze the card immediately, to protect you from any more charges happening. Your new card will have number ending in 8847, and uh, I'm also adding our Premium Fraud Protection service—normally $4.99 but I'm waiving it for six months with code PROT-6M-FREE—because I really want to make sure this doesn't..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, how do I—I mean—you're adding services? That sounds like—er—another scam thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh no, um, I should have explained better... This is completely free protection I'm adding, no charges at all, and uh, if you ever see code PFP-NOCHARGE on your statement that just means the protection is active but at zero cost, and you can cancel anytime by calling us, but honestly I really want you to have this extra shield because..."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "5b41682d_script.json",
+    "scenario": "reporting unauthorized transactions on their account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "confused_lost"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "gently_reassuring"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

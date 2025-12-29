@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So, um, I'm sorry to bother you but like... I was supposed to get a callback yesterday?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, let me just... what's the... okay so I'm pulling up your account here. Can I get your... actually wait, do you have your case number? It should be like... CSE-something?"
+        },
+        {
+            "role": "Customer",
+            "content": "I think it's it's... CSE-4821-B? Sorry, I'm just... really bad with numbers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! CSE-4821-B. Right. So, um... okay between you and me? This is... hmm, this is actually kind of embarrassing. Your callback was scheduled for 2 PM yesterday. And it looks like... well..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, so basically I waited all afternoon and, um, nothing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know. Look, I'm gonna... what's the word... level with you here. Agent ID AGT-9923 was supposed to call. But there was this whole... thing. System crash. Total mess. Nobody's callbacks went through."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Oh god, I'm sorry, I thought I thought maybe I gave the wrong number or something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no! Um, definitely not your fault. Like, at all. So here's what I'm gonna do... and don't, uh, don't mention this to anyone else calling in... but I can get you a priority callback. Within the hour. Guaranteed."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... I mean, um, that's really nice but like, I don't want to cause trouble."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Trouble? Nah. Between us? Um, I've got this little... workaround. Ticket TKT-88542-QV is getting, uh, let's say... creatively reclassified. VIP status. You didn't hear it from me though, yeah?"
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I can't... sorry, it's been such a long week and everything's just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey. Hey, I get it. Look, um, what was your original issue about? Like the... the thing you needed help with?"
+        },
+        {
+            "role": "Customer",
+            "content": "So so basically my account got, um, double-charged? Three times actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Three times?! Okay so... hmm... let me just... Reference RFD-6677-AA, RFD-6678-AB, and... yep, RFD-6679-AC. All on the same day. That's... wow. No wonder you're..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. And I'm just... sorry, I'm being so emotional about this, it's it's stupid."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, no? Not stupid. At all. So like... here's the deal. I'm expediting all three refunds. Right now. Processing ID PRC-445821-X. Should hit your account in... 24 hours. Max."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? I mean, um, they said they said it would take like five to seven business days last time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah well... that's the, uh, official line. But since we completely dropped the ball on your callback... I'm using override code OVR-1127. Don't, um, don't tell my supervisor I have that code, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't know what to say, I'm just so so relieved, um, thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, um, pleasure's all mine. Confirmation number CNF-9884521-K for everything. And listen... if you need anything else? Ask for me directly. Agent Maria. ID MRA-4455. I'll, uh... I'll make sure you're taken care of."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So, um, I'm sorry to bother you but like... I was supposed to get a callback yesterday?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, let me just... what's the... okay so I'm pulling up your account here. Can I get your... actually wait, do you have your case number? It should be like... CSE-something?"
+        },
+        {
+            "role": "Customer",
+            "content": "I think it's it's... CSE-4821-B? Sorry, I'm just... really bad with numbers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! CSE-4821-B. Right. So, um... okay between you and me? This is... hmm, this is actually kind of embarrassing. Your callback was scheduled for 2 PM yesterday. And it looks like... well..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, so basically I waited all afternoon and, um, nothing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know. Look, I'm gonna... what's the word... level with you here. Agent ID AGT-9923 was supposed to call. But there was this whole... thing. System crash. Total mess. Nobody's callbacks went through."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Oh god, I'm sorry, I thought I thought maybe I gave the wrong number or something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no! Um, definitely not your fault. Like, at all. So here's what I'm gonna do... and don't, uh, don't mention this to anyone else calling in... but I can get you a priority callback. Within the hour. Guaranteed."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... I mean, um, that's really nice but like, I don't want to cause trouble."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Trouble? Nah. Between us? Um, I've got this little... workaround. Ticket TKT-88542-QV is getting, uh, let's say... creatively reclassified. VIP status. You didn't hear it from me though, yeah?"
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I can't... sorry, it's been such a long week and everything's just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey. Hey, I get it. Look, um, what was your original issue about? Like the... the thing you needed help with?"
+        },
+        {
+            "role": "Customer",
+            "content": "So so basically my account got, um, double-charged? Three times actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Three times?! Okay so... hmm... let me just... Reference RFD-6677-AA, RFD-6678-AB, and... yep, RFD-6679-AC. All on the same day. That's... wow. No wonder you're..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. And I'm just... sorry, I'm being so emotional about this, it's it's stupid."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, no? Not stupid. At all. So like... here's the deal. I'm expediting all three refunds. Right now. Processing ID PRC-445821-X. Should hit your account in... 24 hours. Max."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? I mean, um, they said they said it would take like five to seven business days last time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah well... that's the, uh, official line. But since we completely dropped the ball on your callback... I'm using override code OVR-1127. Don't, um, don't tell my supervisor I have that code, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't know what to say, I'm just so so relieved, um, thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, um, pleasure's all mine. Confirmation number CNF-9884521-K for everything. And listen... if you need anything else? Ask for me directly. Agent Maria. ID MRA-4455. I'll, uh... I'll make sure you're taken care of."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "21afcae9_script.json",
+    "scenario": "complaining that promised callback never came",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "overwhelmed_shutdown"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "playfully_conspiratorial",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "word_searching",
+                    "trailing_off",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

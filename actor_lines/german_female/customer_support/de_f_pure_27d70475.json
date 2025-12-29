@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ich brauche ein Transkript. Von letztem Dienstag."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Ähm, natürlich, ich kann Ihnen da auf jeden Fall helfen. Lassen Sie mich nur, äh, Ihr Konto hier aufrufen und... hmm, okay, also ich sehe... ja, da haben wir's. Kann ich Ihre, ähm, Kontonummer oder Telefonnummer zur Verifizierung bekommen?"
+        },
+        {
+            "role": "Customer",
+            "content": "Fünf fünf fünf. Acht sieben zwei. Neun vier eins sechs."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ausgezeichnet, vielen Dank! Okay, also, ähm, ich hab Ihr Konto hier und, äh, mal sehen... Ich sehe einen Anruf am Dienstag um, hmm, sieht aus wie 14:47 Uhr, Referenznummer REF-92847-TL, ist das der, den Sie suchen?"
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist das ist der richtige. Ja."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wunderbar! Also, ähm, die Sache ist die - ich kann Ihnen das Transkript auf jeden Fall besorgen, also, überhaupt kein Problem. Normalerweise schicken wir die per E-Mail innerhalb von, äh, etwa 24 Stunden, aber hmm, mal schauen ob ich... wissen Sie was eigentlich? Ich könnte das vielleicht für Sie beschleunigen..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ich brauche es. Jetzt. Falls möglich."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, ähm, ich verstehe vollkommen, lassen Sie mich, äh, mal schauen was ich hier zaubern kann. Also die Transkript-Anfrage-ID ist, ähm, TRQ-58219-KC und ich prüfe gerade... hmm, unsere Express-Optionen... okay, also..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm, hören Sie, es tut mir leid, ich—ich brauche das einfach wirklich heute."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein, bitte entschuldigen Sie sich nicht! Ich höre, dass das, ähm, wirklich wichtig für Sie ist und, äh, ehrlich? Ich werde hier alles Mögliche tun. Lassen Sie mich nur... okay, also wenn ich das als Priorität markiere mit Code PRI-77463-M, dann sollte das... ja! Ich kann es Ihnen innerhalb einer Stunde zukommen lassen."
+        },
+        {
+            "role": "Customer",
+            "content": "Innerhalb einer Stunde? Wirklich?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolut! Ich meine, ähm, eigentlich sollen wir auf die Manager-Genehmigung für Express-Transkripte warten, aber, äh, unter uns gesagt? Ihr Dienstag-Anruf war mit, hmm, mal sehen... Agentin Maria, und sie hat wirklich detaillierte Notizen im Ticket TKT-30298-VP hinterlassen, also kann ich einfach..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ich erinnere mich irgendwie, dass sie etwas gesagt hat. Über meine Garantie."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh ja! Ähm, also ich schaue mir gerade Marias Notizen an und, äh, sie hat wirklich alles gründlich dokumentiert. Die Garantie-Diskussion ist, hmm, genau hier in Abschnitt drei des Anrufprotokolls, Referenz WRN-66012-QD, und das wird alles in Ihrem Transkript sein."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay. Ähm, danke. Ich hab wahrscheinlich überreagiert."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh mein Gott, nein! Also, Sie sind so geduldig und, ähm, ich verstehe total, warum Sie das schnell brauchen. Äh, wissen Sie was eigentlich? Während ich das mit Express-Code RSH-44819-BX bearbeite, kann ich auch, hmm, ich kann Ihnen auch die Garantie-Details separat schicken, wenn das hilft?"
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist... ja. Bitte."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfekt! Also, ähm, ich schicke beide Dokumente an Ihre hinterlegte E-Mail-Adresse, und äh, die Transkript-Bestätigung ist CNF-90156-JK, und dann die Garantie-Zusammenfassung ist, hmm, moment... WSM-28374-NP. Sie sollten beides innerhalb von, äh, eigentlich wahrscheinlich eher 30 Minuten jetzt bekommen!"
+        },
+        {
+            "role": "Customer",
+            "content": "Es tut mir leid, dass ich... schroff war. Vorhin."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh bitte, ehrlich, Sie waren wunderbar! Ähm, ich wünschte nur, ich hätte es Ihnen noch schneller besorgen können, aber äh, mit unseren System-Beschränkungen... na ja! Beide Dokumente werden jetzt verarbeitet unter Batch-Nummer BCH-51692-TG und Sie bekommen eine E-Mail, sobald sie fertig sind. Gibt es, ähm, noch etwas anderes, wobei ich helfen kann, während wir Sie noch dran haben?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need a transcript. From last Tuesday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, absolutely, I can definitely help you with that. Let me just, uh, pull up your account here and... hmm, okay so I'm seeing... yep, there we are. Can I get your, um, account number or phone number to verify?"
+        },
+        {
+            "role": "Customer",
+            "content": "Five five five. Eight seven two. Nine four one six."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, thank you so much! Okay so, um, I've got your account here and, uh, let me see... I'm showing a call on Tuesday at, hmm, looks like 2:47 PM, reference number REF-92847-TL, is that the one you're looking for?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's that's the one. Yes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wonderful! So, um, here's the thing - I can absolutely get that transcript for you, like, no problem at all. Usually we send these to email within, uh, about 24 hours, but hmm, let me see if I can... actually, you know what? I might be able to expedite this for you..."
+        },
+        {
+            "role": "Customer",
+            "content": "I need it. Now. If possible."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, I totally understand, let me, uh, let me work some magic here. So the transcript request ID is, um, TRQ-58219-KC and I'm just... hmm, checking our expedited options... okay so..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, look, I'm sorry, I just—I just really need this today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, please don't apologize! I can hear this is, um, really important to you and, uh, honestly? I'm gonna do everything I can here. Let me just... okay so if I mark this as priority with code PRI-77463-M, that should... yep! I can get this to you within the hour."
+        },
+        {
+            "role": "Customer",
+            "content": "Within the hour? Really?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! I mean, um, technically we're supposed to wait for manager approval on rush transcripts but, uh, between you and me? Your Tuesday call was with, hmm, let me see... agent Maria, and she left really detailed notes in ticket TKT-30298-VP so I can just..."
+        },
+        {
+            "role": "Customer",
+            "content": "I sort of remember her saying something. About my warranty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yes! Um, so I'm actually looking at Maria's notes right here and, uh, she documented everything really thoroughly. The warranty discussion is, hmm, right here in section three of the call log, reference WRN-66012-QD, and that'll all be in your transcript."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay. Um, thank you. I probably overreacted."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh my goodness, no! Like, you're being so patient and, um, I completely get why you need this quickly. Uh, actually, you know what? While I'm processing this with rush code RSH-44819-BX, I can also, hmm, I can also send you the warranty details separately if that would help?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's... yes. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, I'm sending both documents to your email on file, and uh, the transcript confirmation is CNF-90156-JK, and then the warranty summary is, hmm, let me just... WSM-28374-NP. You should see both within, uh, actually probably more like 30 minutes now!"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry I was... terse. Earlier."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please, honestly, you've been wonderful! Um, I just wish I could've gotten this to you even faster, but uh, with our system limitations... anyway! Both documents are processing now under batch number BCH-51692-TG and you'll get an email the second they're ready. Is there, um, anything else I can help with while we have you?"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "27d70475_script.json",
+    "scenario": "asking for a transcript of a previous support conversation",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "seething_controlled",
+                "apologetic_embarrassed"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "genuinely_warm",
+                "regretfully_limited"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

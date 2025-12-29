@@ -1,0 +1,92 @@
+=== Source: 47923b4e_script.json ===
+Language: European Portuguese
+Gender: female
+Mode: mix
+Content Type: customer_support
+Scenario: equipment manager, detail-oriented about inventory charges that don't match purchase orders
+
+=== Translated Dialogue ===
+
+Customer [mix]: Hum, olá, então eu estou a ligar por causa de, ah, estas cobranças que estão, er, não estão a bater certo com os nossos POs?
+
+Customer Support [mix]: Então, hum, posso definitivamente ajudá-la com isso, deixe-me só, ah, abrir aqui a sua conta. Pode dar-me o seu, tipo, número de conta ou talvez um número de purchase order para eu conseguir, hum, ver o que se está a passar?
+
+Customer [mix]: É hum, espera, qual é que precisa, because I have like three different POs here and they're all wrong!
+
+Customer Support [mix]: Ok ok, então basicamente vamos começar com, hum, qualquer um deles—quer dizer, o que tiver mais à mão—and I can pull up your whole account from there, provavelmente consigo ver todas as transações recentes.
+
+Customer [mix]: PO-7742, não espera, ah, PO-7742-B, e era suposto ser 3.200$ mas cobraram-nos 4.100$!
+
+Customer Support [mix]: Certo então, hum, estou a ver aqui o PO-7742-B e, ah, consigo ver a discrepância. Então basicamente o que aconteceu é que, tipo, há um item adicional com código INV-8829-QX que foi, hum, adicionado depois do purchase order inicial ser processado.
+
+Customer [mix]: Mas isso é, hum, isso não é assim que funciona, we can't just have random charges appearing!
+
+Customer Support [mix]: Não não, tem toda a razão, e eu estou, ah, mesmo desculpe por esta confusão. Então deixe-me ver melhor aqui—parece que, hum, alguém do nosso lado marcou isto como reposição automática mas as configurações da sua conta mostram, tipo, apenas aprovação manual.
+
+Customer [mix]: Hum, exatamente! E há mais, tipo, a encomenda de brocas da semana passada está, ah, a aparecer duas vezes?
+
+Customer Support [mix]: Então estou a ver isso—order ORD-5543-MN91, certo? Pois então, hum, isto definitivamente não—quer dizer, this shouldn't have happened. Deixe-me, ah, basicamente verificar se isto foi um erro de sistema ou se alguém manualmente, tipo, duplicou isto de alguma forma.
+
+Customer [mix]: Isto é, hum, uma confusão total, I have to report all this to accounting and they're gonna totally freak out.
+
+Customer Support [mix]: Percebo.
+
+Customer [mix]: Consegue, tipo, resolver isto tudo hoje? Porque hum, o nosso audit é... como é que se diz... está iminente!
+
+Customer Support [mix]: Então aqui está o que posso fazer—e estou, hum, tipo limitada pelo nosso sistema mas—I can issue immediate credits for the duplicate charge, é o crédito número CRD-9901-LP22, mas a, ah, a outra discrepância precisa de aprovação do supervisor.
+
+Customer [mix]: Oh hum, ok isso é, er, isso é mesmo muito útil, thank you so much for finding that!
+
+Customer Support [mix]: Então basicamente estou a fazer o pedido agora, e, hum, normally it takes 24-48 hours mas estou a marcar como urgente com número de referência URG-3356-KT porque, tipo, consigo ver que tem múltiplos problemas aqui que precisam de ser resolvidos.
+
+Customer [mix]: Está a ser tão, hum, prestável, agradeço mesmo que esteja a ouvir em vez de só, er, despachar-me!
+
+Customer Support [mix]: Quer dizer, I've been doing this job long enough to know how frustrating these billing issues can be. Então deixe-me também, hum, adicionar aqui uma nota sobre o seu prazo de auditoria—quando é exatamente?
+
+Customer [mix]: Hum, é sexta-feira, so like, three days, é por isso que estou um bocado, ah, a entrar em pânico!
+
+Customer Support [mix]: Ok então, hum, estou a escalar isto com flag de prioridade PRI-7765-XX e basicamente, ah, gostava de poder garantir que vai ser resolvido até lá, but realistically our billing department is pretty backed up. Mas documentei tudo com número de caso CSE-20489-BN44 para que tenha, hum, prova de que estas discrepâncias foram reportadas antes da sua auditoria.
+
+
+=== Original (English) ===
+
+Customer: Um, hi, so I'm calling about, uh, these charges that are, er, they're not matching up with our POs?
+
+Customer Support: So, um, I can definitely help you with that, let me just, uh, pull up your account here. Can you give me your, like, account number or maybe a purchase order number so I can, um, see what's going on?
+
+Customer: It's um, wait, which one do you need, because I have like three different POs here and they're all wrong!
+
+Customer Support: Okay okay, so basically let's start with, um, any one of them—I mean, whichever one you have handy—and I can pull up your whole account from there, probably see all the recent transactions.
+
+Customer: PO-7742, no wait, uh, PO-7742-B, and it's supposed to be $3,200 but you charged us $4,100!
+
+Customer Support: Alright so, um, I'm looking at PO-7742-B here and, uh, I can see the discrepancy. So basically what happened is, like, there's an additional line item with code INV-8829-QX that got, um, added after the initial purchase order was processed.
+
+Customer: But that's, um, that's not how this works, we can't just, er, have random charges appearing!
+
+Customer Support: No no, you're absolutely right, and I'm, uh, really sorry about this confusion. So let me dig deeper here—it looks like, um, someone on our end marked it as an automatic replenishment but your account settings show, like, manual approval only.
+
+Customer: Um, exactly! And there's more, like, the drill bits order from last week is, uh, showing twice?
+
+Customer Support: So I see that—order ORD-5543-MN91, right? Yeah so, um, this is definitely not—I mean, this shouldn't have happened. Let me, uh, basically check if this was a system error or if someone manually, like, duplicated it somehow.
+
+Customer: This is, um, such a mess, I have to report all this to accounting and they're gonna, er, totally freak out.
+
+Customer Support: Got it.
+
+Customer: Can you, like, fix all of these today? Because um, our audit is... what's the word... it's imminent!
+
+Customer Support: So here's what I can do—and I'm, um, kind of limited by our system but—I can issue immediate credits for the duplicate charge, that's credit number CRD-9901-LP22, but the, uh, the other discrepancy needs supervisor approval.
+
+Customer: Oh um, okay that's, er, that's actually really helpful, thank you so much for finding that!
+
+Customer Support: So basically I'm putting in the request now, and, um, normally it takes 24-48 hours but I'm marking it as urgent with reference number URG-3356-KT because, like, I can see you have multiple issues here that need fixing.
+
+Customer: You're being so, um, helpful, I really appreciate you actually listening instead of just, er, brushing me off!
+
+Customer Support: I mean, I've been doing this job long enough to know how, uh, frustrating these billing issues can be. So let me also, um, add a note here about your audit deadline—when exactly is that?
+
+Customer: Um, it's Friday, so like, three days, which is why I'm kinda, uh, panicking here!
+
+Customer Support: Okay so, um, I'm escalating this with priority flag PRI-7765-XX and basically, uh, I wish I could guarantee it'll be resolved by then, but realistically our billing department is, like, pretty backed up. But I've documented everything with case number CSE-20489-BN44 so you have, um, proof that these discrepancies were reported before your audit.
+

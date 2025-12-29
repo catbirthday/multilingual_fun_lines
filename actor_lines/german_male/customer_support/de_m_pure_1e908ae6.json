@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ähm, also ich glaube, ich werde wahrscheinlich ein, äh, so eine Art Timing-Problem mit dieser Gebührensache haben?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay, ähm, lass mich nur... was ist denn... lass mich mal dein Konto aufrufen. Kann ich deine—nein warte, eigentlich sollte ich—ähm, wie ist deine Bestellnummer?"
+        },
+        {
+            "role": "Customer",
+            "content": "Die ist, ähm, ich glaube... wahrscheinlich ORD-irgendwas? Ich weiß nicht, vielleicht sollte ich einfach... ach, vergiss es."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein, ist völlig in Ordnung! Ich kann das nachschauen über... hmm, wie heißt das... deine Telefonnummer! Also lass mich mal hier suchen und... oh perfekt! Ich seh's, ORD-7264-WV12, und da steht eine ausstehende Zusatzgebühr von—oh. Das ist... lass mich mal sichergehen, dass ich das richtig lese..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ja, ähm, \"oh\" ist irgendwie das perfekte Wort, glaube ich."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Genau, also ähm, da steht 847$ geplant zur Abbuchung am—warte, lass mich—nein, das stimmt, am 15ten. Und du sagst, das Timing ist..."
+        },
+        {
+            "role": "Customer",
+            "content": "Erntegelder. Oktober. Also so, äh, vielleicht siehst du ja das Problem hier?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ohhh, du bist Winzer! Das ist eigentlich—okay also, mal unter uns? Das haben wir echt oft bei landwirtschaftlichen Konten. Also, ähm, deine Transaktions-ID TXN485920164 ist als gewerblicher Versand markiert aber, äh, was ich machen könnte ist... hmm, lass mich mal überlegen wie ich..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ich meine, ich kann einfach... ich kann echt nicht noch was verkraften, was schiefgeht gerade."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein, hey, wir kriegen das hin! Also was ich jetzt—eigentlich warte—lass mich nur—okay, ich setze diese Abbuchung auf Eis. Also jetzt gleich. Erledigt."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm, warte, du kannst das echt, äh, machen? Einfach so... stoppen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also, ähm, technisch gesehen trage ich das ein als eine... wie heißt das... saisonale Anpassung? Unter der Fallnummer CSE-9847-BN. Also das System wird, äh, praktisch alles pausieren bis... wann kommt deine Erntezahlung?"
+        },
+        {
+            "role": "Customer",
+            "content": "20. Oktober, wahrscheinlich. Ich meine, denke ich. Wenn nicht noch was anderes..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfekt! Ich stelle es auf den 25. Oktober ein, nur um, ähm, sicher zu gehen. Bestätigungscode SFC-449281 und, äh, du kriegst eine E-Mail aber im Grunde... sind wir durch!"
+        },
+        {
+            "role": "Customer",
+            "content": "Also, äh, das war's? Keine Formulare oder, ähm, ich weiß nicht, Blutopfer oder so?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha! Nein, nur—okay also, ähm, hier ist aber die Sache. Falls jemand fragt, hast du das halt, äh, vor Wochen beantragt und es gab eine... hmm... Systemverzögerung bei uns? Deine Quittungsnummer RCP-3982-K zeigt das ursprüngliche Antragsdatum als, ähm, sagen wir mal 1. September..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh also machen wir, ähm, irgendwie so die ganze, äh, kreative Papierkram-Geschichte hier, glaube ich?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich meine, landwirtschaftliche Betriebe haben halt, äh, einzigartige Cashflow-Muster, die unser Abrechnungssystem nicht wirklich... jedenfalls! Das Wichtige ist, ähm, deine aktualisierte Rechnung INV-7749-AG22 wird das neue Datum zeigen und du bist fertig!"
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist wahrscheinlich das erste Ding, das, ähm, tatsächlich geklappt hat seit... Wochen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ehrlich? Ähm, Winzer sind echt meine Lieblingskunden zum Helfen, weil ihr alle mit, äh, so viel Timing-Kram zu tun habt und—oh! Außerdem, ich füge eine Notiz zu deinem Konto AID-5584-WM über Ernte-Planung hinzu, damit das nächstes Jahr gar nicht erst, ähm, aufkommt. Du bist dann einfach... vorab genehmigt für saisonale Abrechnung!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so I think I'm probably gonna have a, uh, sort of a timing issue with this surcharge thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay, um, let me just... what's the... let me pull up your account here. Can I get your—no wait, actually I should—um, what's your order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, I think... probably ORD-something? I don't know, maybe I should just... never mind."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, it's totally fine! I can look it up by... hmm, what's the word... your phone number! So let me just, um, search here and... oh perfect! I see it, ORD-7264-WV12, and it's showing a pending surcharge of—oh. That's... let me make sure I'm reading this right..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, um, \"oh\" is sort of the perfect word, I think."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so um, it's showing $847 scheduled to process on the—wait, let me—no that's right, on the 15th. And you're saying the timing is..."
+        },
+        {
+            "role": "Customer",
+            "content": "Harvest money. October. So like, uh, maybe you see the problem here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ohhh, you're a winemaker! That's actually—okay so, um, between you and me? We get this a lot with agricultural accounts. Like, um, your transaction ID TXN485920164 is flagged as commercial shipping but, uh, what I could do is... hmm, let me think how to..."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, I'm just... I can't even deal with another thing going wrong right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, hey, we're gonna fix this! So here's what I'm—actually wait—let me just—okay, I'm putting a hold on that charge. Like right now. Done."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait, you can actually, uh, do that? Just like... stop it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, technically I'm coding it as a... what's the term... seasonal adjustment? Under case number CSE-9847-BN. So the system will, uh, basically pause everything until... when's your harvest payment coming?"
+        },
+        {
+            "role": "Customer",
+            "content": "October twentieth, probably. I mean, I think. If nothing else goes..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Setting it for October 25th just to be, um, safe. Confirmation code SFC-449281 and, uh, you'll get an email but basically... we're good!"
+        },
+        {
+            "role": "Customer",
+            "content": "So, uh, that's it? No forms or, um, I don't know, blood sacrifice or whatever?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha! No, just—okay so, um, here's the thing though. If anyone asks, you requested this like, uh, weeks ago and there was a... hmm... system delay on our end? Your receipt number RCP-3982-K shows the original request date as, um, let's say September 1st..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh so we're, um, sort of doing the whole, uh, creative paperwork thing here, I think?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean, agricultural businesses have, uh, unique cash flow patterns that our billing system doesn't really... anyway! The important thing is, um, your updated invoice INV-7749-AG22 will reflect the new date and you're all set!"
+        },
+        {
+            "role": "Customer",
+            "content": "This is probably the first thing that's, um, actually worked out in like... weeks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? Um, winemakers are like, my favorite customers to help because you all are dealing with, uh, so much timing stuff and—oh! Also, I'm adding a note to your account AID-5584-WM about harvest scheduling so next year this won't even, um, come up. You'll just be... pre-approved for seasonal billing!"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1e908ae6_script.json",
+    "scenario": "winemaker, worried about a shipment surcharge hitting before harvest income arrives",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "annoyed_sarcastic",
+                "overwhelmed_shutdown"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "cheerfully_efficient",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "word_searching",
+                    "false_starts",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

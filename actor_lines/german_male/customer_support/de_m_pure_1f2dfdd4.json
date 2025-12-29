@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ähm. Also ich hab diese... wie heißt das noch... Rechnung bekommen. Werkzeugverleih. Da steht ich soll. Äh. Dreimal so viel zahlen wie ich... hmm."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah ja okay also ähm moment mal—eigentlich warte—ich ruf gerade Ihr Konto auf und äh ich brauch Ihre Mietvertragsnummer falls Sie die haben, sollte so RNT sein und dann ein paar Zahlen?"
+        },
+        {
+            "role": "Customer",
+            "content": "Mal schauen... das ist... warte, nein das—sorry. RNT. Äh. 4429. Nein warte. 4492."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfekt okay also RNT-4492-BX und ähm wow ja ich seh was Sie meinen, die haben Ihnen—ach dieses System ist manchmal so bescheuert—sieht aus wie 847€ für was eigentlich ähm so 280€ sein sollte?"
+        },
+        {
+            "role": "Customer",
+            "content": "Genau. Aber. Sind Sie sicher? Das ist... hmm. Das ist was es sein sollte?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolut, ich mein ähm der Tagessatz für den Trockenbaulift ist 40€ und Sie hatten ihn äh sieben Tage also sind das glatte 280€, aber jemand—und unter uns gesagt passiert das viel zu oft—jemand hat es als drei separate Mieten unter den Transaktionscodes TXN-9982-A bis C eingetragen."
+        },
+        {
+            "role": "Customer",
+            "content": "Woher weiß ich. Ähm. Dass Sie nicht einfach... ich meine. Drei Mieten? Das ist... verdächtig."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein ich versteh total warum Sie das denken würden, ähm ehrlich gesagt unser Abrechnungssystem ist—lassen Sie mich kurz—es ist halt echt ein Chaos und äh ich kann hier wortwörtlich den Zeitstempel sehen der alle drei Belastungen um 11:47:22 Uhr zeigt was unmöglich ist außer Sie hätten irgendwie drei gleiche Werkzeuge in derselben Sekunde gemietet?"
+        },
+        {
+            "role": "Customer",
+            "content": "Okay also das bedeutet... warte. Hmm. Wann krieg ich. Äh. Das Geld zurück?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also ähm ich fang schon mit dem Erstattungsprozess an—eigentlich nein warte mal—okay also ich geb gerade die Erstattung REF-7061-QZ92 ein und äh normalerweise sagen die 5-7 Werktage aber ähm unter uns wenn ich es als Priorität markiere sind es meistens so maximal 2-3 Tage."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm. Priorität? Sie sind... Sie sind sicher das ist... sind Sie sicher? Kriegen Sie dadurch nicht. Ärger?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hören Sie ähm ich mein technisch gesehen soll ich Priorität nur für so Notfälle verwenden aber äh das ist lächerlich, Sie sind Handwerker der arbeiten will und wir haben Ihre Abrechnung vermasselt also ja nein wir regeln das definitiv heute, ich schreib die Notiz-ID NOTE-8847-PX dass das unser Fehler war."
+        },
+        {
+            "role": "Customer",
+            "content": "Lass mich nachdenken... hmm. Was wenn es. Nicht auftaucht. In drei Tagen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay also ähm wenn es nicht auftaucht—was es wird aber nur für den Fall—Sie haben die Bestätigungsnummer CNF-1129-8K4M und äh Sie können dann nochmal anrufen und ehrlich gesagt fragen Sie nach mir, ich bin Jake, Mitarbeiter-ID EMP-00847, und ich eskalier das persönlich an meinen Vorgesetzten weil das ist einfach—Sie sollten sich damit nicht rumschlagen müssen."
+        },
+        {
+            "role": "Customer",
+            "content": "Jake. Okay. Ähm. Aber wie kann ich... wie heißt das... verifizieren. Dass das echt ist?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh total berechtigte Frage ähm also Sie sollten eine Email bekommen in so—eigentlich lass mich aktualisieren—ja okay also checken Sie jetzt Ihre Emails, Sie sollten eine Erstattungsbestätigung haben von noreply@toolrentals mit dieser CNF-1129-8K4M Nummer und äh ich füg auch noch eine Kulanzgutschrift von 50€ hinzu unter Code CRD-9928-LM für den Ärger."
+        },
+        {
+            "role": "Customer",
+            "content": "Fünfzig? Warte. Das ist—sorry. Sie fügen. Extra hinzu? Hmm. Sind Sie sicher?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja nein absolut ähm ich mein Sie rufen von einer Baustelle an und müssen sich mit unserem Fehler rumärgern wenn Sie eigentlich arbeiten sollten also äh das Mindeste was wir tun können—und ehrlich gesagt diese ganze Dreifach-Belastungs-Sache ist peinlich—also ja diese Gutschrift CRD-9928-LM wird automatisch bei Ihrer nächsten Miete angerechnet."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay also. Ähm. Lass mich mal schauen. Email ist da. Steht... Erstattung ausstehend. Das ist. Das ist richtig?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfekt ja genau, also ähm ausstehend bedeutet nur dass es durch die Bank läuft aber äh Ihre Referenznummern sind alle fertig—REF-7061-QZ92 für die Haupterstattung und CRD-9928-LM für die Gutschrift—und ehrlich wenn Sie irgendwelche Probleme haben dann ähm rufen Sie uns einfach zurück und nennen diese Fallnummer CSE-20241-DW7 und wir klären das sofort."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um. So I got this... what's it called... invoice. Tool rental. Says I owe. Uh. Three times what I... hmm."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah okay so um let me just—actually wait—I'm pulling up your account here and uh I need your rental agreement number if you have it, should be like RNT followed by some numbers?"
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... it's... wait, no that's—sorry. RNT. Uh. 4429. No wait. 4492."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect okay so RNT-4492-BX and um wow yeah I'm seeing what you're talking about here, they charged you—ugh this system is so ridiculous sometimes—looks like $847 for what should've been um like $280?"
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. But. Are you sure? That's... hmm. That's what it should be?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I mean um the daily rate for the drywall lift is $40 and you had it for uh seven days so that's $280 flat, but someone—and between you and me this happens way too often—someone coded it as three separate rentals under transaction codes TXN-9982-A through C."
+        },
+        {
+            "role": "Customer",
+            "content": "How do I know. Um. You're not just... I mean. Three rentals? That's... suspicious."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no I totally get why you'd think that, um honestly our billing system is—let me just—it's kind of a mess and uh I can literally see the timestamp here showing all three charges at 11:47:22 AM which is impossible unless you somehow rented three of the same tool in the same second?"
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... wait. Hmm. When do I. Uh. Get the money back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So um I'm already starting the refund process—actually no wait let me—okay so I'm putting through refund REF-7061-QZ92 right now and uh normally they say 5-7 business days but um between you and me if I mark it priority it's usually like 2-3 days max."
+        },
+        {
+            "role": "Customer",
+            "content": "Um. Priority? You're... you're sure that's... are you sure? Won't get you in. Trouble?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen um I mean technically I'm only supposed to use priority for like emergencies but uh this is ridiculous, you're a contractor trying to work and we messed up your billing so yeah no we're definitely fixing this today, I'm putting note ID NOTE-8847-PX that this was our error."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me think... hmm. What if it. Doesn't show up. In three days?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so um if it doesn't show up—which it will but just in case—you've got confirmation number CNF-1129-8K4M and uh you can call back with that and honestly ask for me, I'm Jake, employee ID EMP-00847, and I'll personally escalate it to my supervisor because this is just—you shouldn't have to deal with this."
+        },
+        {
+            "role": "Customer",
+            "content": "Jake. Okay. Um. But how do I... what's the word... verify. This is real?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh totally fair question um so you should get an email in like—actually let me refresh—yeah okay so check your email now, you should have refund confirmation from noreply@toolrentals with that CNF-1129-8K4M number and uh also I'm adding a courtesy credit of $50 under code CRD-9928-LM for the hassle."
+        },
+        {
+            "role": "Customer",
+            "content": "Fifty? Wait. That's—sorry. You're adding. Extra? Hmm. Are you sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no absolutely um I mean you're calling from a job site dealing with our mess-up when you should be working so uh the least we can do—and honestly this whole triple-charging thing is embarrassing—so yeah that credit CRD-9928-LM will apply to your next rental automatically."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so. Um. Let me see here. Email's in. Says... refund pending. That's. That's right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect yes exactly, so um pending just means it's processing through the bank but uh your reference numbers are all set—REF-7061-QZ92 for the main refund and CRD-9928-LM for the credit—and honestly if you have any issues at all just um give us a call back and reference this case number CSE-20241-DW7 and we'll get it sorted immediately."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1f2dfdd4_script.json",
+    "scenario": "drywall installer, calling from a dusty job site about a tool rental overcharge",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "anxious_worried",
+                "suspicious_paranoid"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "self_corrections",
+                    "word_searching",
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

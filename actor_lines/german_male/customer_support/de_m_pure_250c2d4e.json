@@ -1,0 +1,230 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Also, ähm, mal sehen hier... Mit Roaming-Gebühren belastet worden? Beim Autofahren? Im eigenen Land?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, äh, ja da kann ich Ihnen definitiv, ähm, helfen. Lassen Sie mich nur kurz, äh, Ihr Konto aufrufen—können Sie mir Ihre Telefonnummer geben, damit ich, äh, dem nachgehen kann?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ja. 555-0182. Das ist... wie sagt man... lächerlich."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay also, ähm, ich sehe hier Ihr Konto, Nummer ACC-7294-BX, und, äh, da sind definitiv einige, äh, Roaming-Gebühren von—hmm, lassen Sie mich das nochmal überprüfen—sieht aus wie, ähm, mehrere Bundeslandgrenzen überschritten?"
+        },
+        {
+            "role": "Customer",
+            "content": "Genau. Ich fahre LKW. Überquere täglich Bundesländer. Das ist der Job."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Genau genau, ähm, absolut, das macht total Sinn. Also, äh, wenn ich mir Ihre Tarifdetails unter, äh, Vertragsnummer CNT-8839-QM2 anschaue, denke ich vielleicht gab's da ein, ähm, Missverständnis darüber, wie die, äh, Abdeckung über Bundeslandgrenzen funktioniert?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, okay also das heißt... ich zahle extra? Jedes Mal?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Na ja, ähm, nicht direkt—ich meine, äh, es sollte Sie nicht so belasten. Lassen Sie mich, äh, da mal tiefer reinschauen, weil, hmm, irgendwas scheint nicht zu stimmen damit, wie die, ähm, Gebühren auf Ihr Konto gebucht werden."
+        },
+        {
+            "role": "Customer",
+            "content": "Super. Einfach super. Wieder ein Systemfehler, ganz sicher..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tatsächlich, ähm, also ich glaube ich hab das Problem gefunden! Ihr Tarif PLN-4467-RK ist, äh, auf die falsche, äh, Abdeckungsstufe eingestellt? Es ist wahrscheinlich—ich meine, ähm, es sieht so aus als hätte jemand das nicht, äh, richtig für bundeslandübergreifende Fahrten kodiert."
+        },
+        {
+            "role": "Customer",
+            "content": "Moment, also Sie können das beheben? Wirklich beheben?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolut! Ähm, und unter uns gesagt? Ich werde, äh, das nicht nur für die Zukunft regeln, sondern auch, äh, eine Gutschrift für die letzten drei Monate ausstellen—das ist, ähm, Gutschrift-Referenz CRD-9901-LM7 für, äh, lassen Sie mich rechnen... 247,83 Euro."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay also, ähm, das ist... das ist eigentlich ordentlich. Wann kommt das..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also, ähm, die Gutschrift sollte, äh, innerhalb von 24 bis 48 Stunden erscheinen, und ich, äh, aktualisiere Ihren Tarif gerade jetzt—muss nur noch, ähm, dieses Formular einreichen, Referenznummer FRM-6628-TT9, und, äh, dann sollten Sie startklar sein!"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, was wenn... was passiert nächsten Monat denn?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Genau, also, ähm, ich mache hier tatsächlich eine Notiz—Notiz-ID NTE-3384-WK—die, äh, Ihr Konto speziell als, äh, \"gewerblicher Fernfahrer\" kennzeichnet, damit das nicht, ähm, nicht wieder passiert, versprochen."
+        },
+        {
+            "role": "Customer",
+            "content": "Gewerblicher Fernfahrer. Endlich. Jemand kapiert's."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja, ähm, ehrlich gesagt? Wir haben viele, äh, LKW-Fahrer mit genau diesem Problem, und, äh, ich glaube das System ist einfach nicht, ähm, richtig eingerichtet für Sie Leute. Aber Ihre neuen Einstellungen unter, äh, Update-Code UPD-7720-XR sollten, ähm, sollten alles dauerhaft lösen."
+        },
+        {
+            "role": "Customer",
+            "content": "Gut. Ähm, also sind wir fertig? Einfach so?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Komplett fertig! Und, ähm, hier ist eine Direktwahl—EXT-4492—falls Sie, äh, irgendwelche Probleme beim nächsten Abrechnungszyklus haben. Aber ich denke wirklich, äh, ich denke wirklich wir haben das jetzt geklärt. Gibt es, ähm, sonst noch was, wobei ich Ihnen heute helfen kann?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So, um, let me see here... Got hit with roaming charges? While driving? In my own country?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, uh, yes I can definitely, um, help you with that. Let me just, er, pull up your account here—can I get your phone number to, uh, look into this?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. 555-0182. This is... what's the word... ridiculous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm seeing your account here, number ACC-7294-BX, and, uh, there's definitely some, er, roaming charges from—hmm, let me just double-check this—looks like, um, multiple state crossings?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right. I drive trucks. Cross states daily. That's the job."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, um, absolutely, that makes total sense. So, uh, looking at your plan details under, er, contract ID CNT-8839-QM2, I think maybe there's been some, um, confusion about how the, uh, coverage works across state lines?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, okay so that means... I'm paying extra? Every time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, not exactly—I mean, uh, it shouldn't be charging you like that. Let me, er, dig a little deeper here because, hmm, something seems off with how it's, um, applying these charges to your account."
+        },
+        {
+            "role": "Customer",
+            "content": "Great. Just great. Another system glitch, I'm sure..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, um, so I think I found the issue! Your plan PLN-4467-RK is, uh, set to the wrong, er, coverage tier? It's probably—I mean, um, it looks like someone didn't, uh, properly code it for interstate travel."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, so you can fix this? Like actually fix it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely! Um, and between you and me? I'm gonna, uh, not only fix it going forward but also, er, issue a credit for the past three months—that's, um, credit reference CRD-9901-LM7 for, uh, let me calculate... $247.83."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, that's... that's actually decent. When does that..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, the credit should, uh, appear within 24 to 48 hours, and I'm, er, updating your plan right now—just need to, um, submit this form, reference number FRM-6628-TT9, and, uh, you should be all set!"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... what happens next month though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, I'm actually putting a note here—note ID NTE-3384-WK—that, uh, specifically flags your account as, er, \"interstate commercial driver\" so this won't, um, won't happen again, I promise."
+        },
+        {
+            "role": "Customer",
+            "content": "Commercial driver. Finally. Someone gets it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, um, honestly? We get a lot of, uh, truckers with this exact issue, and, er, I think the system just isn't, um, set up right for you folks. But your new settings under, uh, update code UPD-7720-XR should, um, should fix everything permanently."
+        },
+        {
+            "role": "Customer",
+            "content": "Alright. Um, so we're good? Just like that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally good! And, um, here's a direct line—EXT-4492—if you, er, have any issues next billing cycle. But I really, uh, I really think we've got it sorted now. Is there, um, anything else I can help with today?"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "250c2d4e_script.json",
+    "scenario": "truck driver, frustrated because he was charged for roaming data while crossing state lines",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "cautiously_hopeful",
+                "annoyed_sarcastic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "trailing_off",
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "breath_catches",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hum, pois, então eu tenho um crédito que, ah, de alguma forma foi aplicado na conta errada. Claro."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh não, hum, está bem então deixa-me só, ah, ver aqui a tua informação e—hmm, então basicamente o que acontece às vezes é tipo, o sistema pode, hum, encaminhar mal os créditos se houver múltiplas contas e... deixa-me ver com o que estamos a lidar, qual é o teu número de conta?"
+        },
+        {
+            "role": "Customer",
+            "content": "É 4482-9901. Devia ser um crédito de cem euros."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo certo, então hum, estou a ver a conta 4482-9901 aqui e, ah, deixa-me só verificar o histórico de transações—então basicamente há um crédito que foi para, hmm, espera isto é interessante, foi para a conta 4482-9902 em vez disso, hum, ID de transação TXN-847291-MK, e isso é tipo, obviamente não é a tua conta por isso..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, pois, essa, ah, não é minha. É, porque é que faria sequer isso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Então infelizmente o que aconteceu aqui—e eu gostava mesmo de ter uma explicação melhor—mas às vezes quando as contas têm números parecidos o sistema automatizado comete estes erros de encaminhamento, especialmente com créditos processados através do ficheiro batch BTC-2847-X, e consigo ver que isto foi processado terça-feira passada..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah, ótimo. Então, hum, podes só, é, movê-lo ou...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ok então, hum, aqui está a questão—e eu estou, ah, mesmo arrependido desta limitação—mas tipo, quando um crédito é lançado numa conta, mesmo que seja a errada, eu não consigo simplesmente, hum, transferi-lo diretamente, o que é super frustrante porque consigo literalmente vê-lo aqui mesmo, número de referência REF-55821-QP, mas o sistema não me deixa simplesmente, ah, movê-lo..."
+        },
+        {
+            "role": "Customer",
+            "content": "Claro que não deixa. Nada é simples."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eu sei, eu sei, é—hum, mas pronto, então o que EU POSSO fazer, ah, e isto é tipo a solução alternativa que usamos—posso submeter um pedido de correção, formulário CRQ-7756, e hum, basicamente isso sinaliza para a equipa de back office que pode, ah, reverter o crédito e reaplicá-lo, percebes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, quanto tempo é que isso, ah, normalmente demora? Porque, é, eu preciso disto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Então o tempo de processamento standard para o pedido de correção CRQ-7756 é três a cinco dias úteis, mas—e aqui é onde posso realmente ajudar—se eu marcar como código de escalamento prioritário ESC-P1, deve processar dentro de vinte e quatro a quarenta e oito horas em vez disso."
+        },
+        {
+            "role": "Customer",
+            "content": "É, isso é... hum, na verdade melhor do que eu esperava. Ah, consegues fazer isso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sim! Deixa-me já tratar disso—estou a introduzir o código de prioridade ESC-P1, a associá-lo à tua transação original TXN-847291-MK, e a adicionar notas detalhadas sobre o encaminhamento errado para que o back office saiba exatamente o que aconteceu e para onde o crédito tem de ir."
+        },
+        {
+            "role": "Customer",
+            "content": "Ok. Pois. Isso ajudaria."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pronto, então hum, estou a submeter isto agora e—oh bom, passou, então o teu número de caso é, ah, CSE-94482-AA, e hum, deves receber um email de confirmação em tipo, hmm, uns dez minutos mais ou menos com todos os detalhes..."
+        },
+        {
+            "role": "Customer",
+            "content": "Vai, é, mostrar-me mesmo quando estiver resolvido?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sim! Então vais receber uma confirmação inicial com o número de caso CSE-94482-AA, depois outro email quando começarem a processar, e um final quando o crédito for lançado na tua conta correta—cada email terá o estado atual e o tempo estimado de conclusão."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, está bem. Isso é... isso é bastante completo na verdade."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pois então, hum, também adicionei uma nota à tua conta com a referência REF-CREDIT-FIX por isso se precisares de ligar de volta, ah, qualquer agente consegue ver exatamente o que fizemos hoje, e tipo, vão ter todos os números de caso e tudo, por isso... há mais alguma coisa em que possa ajudar já que estamos aqui?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, yeah, so I have a credit that, uh, somehow got applied to the wrong account. Of course."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, um, okay so let me just, uh, pull up your information here and—hmm, so basically what happens sometimes is like, the system can, um, misroute credits if there's multiple accounts and... let me see what we're dealing with here, what's your account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 4482-9901. Should be a hundred dollar credit."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so um, I'm seeing account 4482-9901 here and, uh, let me just check the transaction history—so basically there's a credit that went to, hmm, wait this is interesting, it went to account 4482-9902 instead, um, transaction ID TXN-847291-MK, and that's like, obviously not your account so..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, that's, uh, not mine. Er, why would it even do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So unfortunately what happened here—and I really wish I had a better explanation—but sometimes when accounts have similar numbers the automated system makes these routing errors, especially with credits processed through batch file BTC-2847-X, and I can see this was processed last Tuesday..."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, great. So, um, can you just, er, move it over or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, here's the thing—and I'm, uh, really sorry about this limitation—but like, once a credit posts to an account, even the wrong one, I can't just, um, transfer it directly, which is so frustrating because I can literally see it right here, reference number REF-55821-QP, but the system won't let me just, uh, move it..."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course it won't. Nothing's ever simple."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, it's—um, but okay, so what I CAN do, uh, and this is like the workaround we use—I can submit a correction request, form CRQ-7756, and um, basically that flags it for the back office team who can, uh, reverse the credit and reapply it, you know?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, how long does that, uh, usually take? Because, er, I need this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So the standard processing time for correction request CRQ-7756 is three to five business days, but—and here's where I can actually help—if I mark it as priority escalation code ESC-P1, it should process within twenty-four to forty-eight hours instead."
+        },
+        {
+            "role": "Customer",
+            "content": "Er, that's... um, actually better than I expected. Uh, you can do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! Let me get that set up right now—I'm entering the priority code ESC-P1, linking it to your original transaction TXN-847291-MK, and adding detailed notes about the misrouting so the back office knows exactly what happened and where the credit needs to go."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Yeah. That would help."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so um, I'm submitting this now and—oh good, it went through, so your case number is, uh, CSE-94482-AA, and um, you should get an email confirmation in like, hmm, about ten minutes or so with all the details..."
+        },
+        {
+            "role": "Customer",
+            "content": "Will it, er, actually show me when it's fixed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! So you'll get an initial confirmation with case number CSE-94482-AA, then another email when they start processing it, and a final one when the credit posts to your correct account—each email will have the current status and estimated completion time."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, alright. That's... that's actually pretty thorough."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, I've also added a note to your account with reference REF-CREDIT-FIX so if you need to call back, uh, any agent can see exactly what we did today, and like, they'll have all the case numbers and everything, so... is there anything else I can help with while we're here?"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3548d878_script.json",
+    "scenario": "asking why their credit wasn't applied to the correct account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "bitter_defeated",
+                "cautiously_hopeful"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "regretfully_limited",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off",
+                    "filled_pauses",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

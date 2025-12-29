@@ -1,0 +1,194 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Hey, so how's the whole quality control thing going at your store? Tá sendo tranquilo ou tá puxado?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh man, um, it's been [confidently] quite the experience, tipo, verificando produtos o dia todo. Sabe, a maioria das pessoas não faz ideia de quanta coisa chega danificada ou completamente errada do armazém."
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, that sounds, er, pretty tedious—você tem que inspecionar tudo meio que manualmente?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Basically, yeah, we check about, uh, half of what comes in, quer dizer, especialmente os eletrônicos e as coisas frágeis. Semana passada tivemos 3 TVs que pareciam perfeitas por fora mas estavam completamente quebradas dentro da caixa."
+        },
+        {
+            "role": "Character 1",
+            "content": "Three TVs? That's [cough] crazy expensive, nossa, deve ter sido um prejuízo enorme."
+        },
+        {
+            "role": "Character 2",
+            "content": "Tell me about it! Each one was like 800 bucks, e se a gente não tivesse pegado antes de colocar na loja, algum cliente coitado ia chegar em casa com uma surpresa bem desagradável."
+        },
+        {
+            "role": "Character 1",
+            "content": "So do you, actually, have some kind of system, ou é só verificação aleatória mesmo?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Hmm, we've got this whole protocol now, honestamente, onde a gente escaneia códigos de barras e, enfim, documenta tudo com fotos. A matriz finalmente deu tablets pra gente depois de anos fazendo tudo em pranchetas de papel."
+        },
+        {
+            "role": "Character 1",
+            "content": "Tablets sound way better than clipboards, né, deve facilitar muito o trabalho."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh my god, infinitely better! A gente pode instantaneamente sinalizar problemas pro armazém, rastrear padrões de dano de fornecedores específicos, e até prever quais remessas provavelmente vão ter problemas baseado em dados anteriores."
+        },
+        {
+            "role": "Character 1",
+            "content": "The thing is, uhh, doesn't all this checking slow down, sei lá, colocar as coisas nas prateleiras?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Right so, it does add time, mas, ah, a gente ficou super eficiente nisso. Além disso, pegar produtos danificados antes de chegarem na loja poupa a gente de lidar com clientes bravos devolvendo coisas depois."
+        },
+        {
+            "role": "Character 1",
+            "content": "Yeah, it's just that, umm, returns are probably a nightmare to process, imagino que deve ser um saco total."
+        },
+        {
+            "role": "Character 2",
+            "content": "Returns are the absolute worst part of retail! Pelo menos com verificação de qualidade antecipada, a gente evita uns 30 por cento de devoluções potenciais, o que facilita a vida de todo mundo."
+        },
+        {
+            "role": "Character 1",
+            "content": "Thirty percent? That's a huge difference, caramba, faz uma diferença enorme mesmo."
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, and it's not just damaged stuff either. Às vezes a gente pega erros de preço, peças faltando, ou produtos que foram recolhidos mas de alguma forma ainda foram enviados pra gente."
+        },
+        {
+            "role": "Character 1",
+            "content": "Here's the thing though, err, don't you see some pretty weird stuff coming through? Deve ter cada coisa bizarra, né?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Dude, the stories I could tell! Mês passado recebemos uma remessa de fones \"sem fio\" que vieram com fios, e outra vez alguém no armazém mandou boias de piscina ao invés de cadeiras de escritório."
+        },
+        {
+            "role": "Character 1",
+            "content": "Pool floaties? Okay so, hmmm, how does that even happen, tipo, como que alguém confunde isso?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, apparently the SKU numbers were, actually, one digit apart, e alguém simplesmente, tipo, pegou da seção errada. O gerente do armazém ficou mortificado quando a gente mandou fotos de flamingos infláveis onde deveriam estar cadeiras ergonômicas de escritório."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "Hey, so how's the whole quality control thing going at your store?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh man, um, it's been [confidently] quite the experience, like, checking products all day. You know, most people don't realize how much stuff comes through damaged or just completely wrong from the warehouse."
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, that sounds, er, pretty tedious—do you sort of have to inspect everything?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Basically, yeah, we check about, uh, half of what comes in, I mean, especially the electronics and fragile stuff. Last week we had three TVs that looked fine on the outside but were completely shattered inside the box."
+        },
+        {
+            "role": "Character 1",
+            "content": "Three TVs? That's [cough] crazy expensive."
+        },
+        {
+            "role": "Character 2",
+            "content": "Tell me about it! Each one was like eight hundred bucks, and if we hadn't caught them before putting them on the floor, some poor customer would've gotten home with a very disappointing surprise."
+        },
+        {
+            "role": "Character 1",
+            "content": "So do you, actually, have some kind of system, or is it just random checks?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Hmm, we've got this whole protocol now, honestly, where we scan barcodes and, anyway, document everything with photos. Corporate finally gave us tablets after years of doing everything on paper clipboards."
+        },
+        {
+            "role": "Character 1",
+            "content": "Tablets sound way better than clipboards."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh my god, infinitely better! We can instantly flag issues to the warehouse, track patterns of damage from specific suppliers, and even predict which shipments are likely to have problems based on past data."
+        },
+        {
+            "role": "Character 1",
+            "content": "The thing is, uhh, doesn't all this checking slow down, I guess, getting stuff on the shelves?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Right so, it does add time, but, ah, we've gotten really efficient at it. Plus catching damaged goods before they hit the floor saves us from dealing with angry customers returning stuff later."
+        },
+        {
+            "role": "Character 1",
+            "content": "Yeah, it's just that, umm, returns are probably a nightmare to process."
+        },
+        {
+            "role": "Character 2",
+            "content": "Returns are the absolute worst part of retail! At least with quality checks upfront, we avoid about thirty percent of potential returns, which makes everyone's life easier."
+        },
+        {
+            "role": "Character 1",
+            "content": "Thirty percent? That's a huge difference."
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, and it's not just damaged stuff either. Sometimes we catch pricing errors, missing parts, or products that got recalled but somehow still shipped to us."
+        },
+        {
+            "role": "Character 1",
+            "content": "Here's the thing though, err, don't you see some pretty weird stuff coming through?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Dude, the stories I could tell! Last month we got a shipment of \"wireless\" headphones that came with wires, and another time someone at the warehouse sent us pool floaties instead of office chairs."
+        },
+        {
+            "role": "Character 1",
+            "content": "Pool floaties? Okay so, hmmm, how does that even happen, I think?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, apparently the SKU numbers were, actually, one digit apart, and someone just, like, grabbed from the wrong section. The warehouse manager was mortified when we sent him photos of inflatable flamingos where ergonomic desk chairs should've been."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue13_43.txt"
+}

@@ -1,0 +1,92 @@
+=== Source: 34d018b0_script.json ===
+Language: European Portuguese
+Gender: male
+Mode: en
+Content Type: customer_support
+Scenario: museum docent, elderly and methodical in explaining a complicated reimbursement issue
+
+=== Translated Dialogue ===
+
+Customer [en]: Um, hello. Yes. So grateful you picked up. I have a... what's the word... reimbursement issue.
+
+Customer Support [en]: Oh hi there! Um, yes absolutely, I'm—I'm really happy to help you with that today! So let me just, uh, pull up your account here and, hmm, I'll need to get your member number first, it should be something like MEM-followed by, um, six digits?
+
+Customer [en]: MEM-four-seven-two. Nine-one-eight. I'm with the, uh, Natural History Museum. Docent program.
+
+Customer Support [en]: Perfect, perfect! So I've got you here, MEM-472918, and um, I can see you're, uh, part of our institutional accounts which is—that's great actually because, hmm, we have some special procedures for museum staff, so let me just, er, check what's going on with your reimbursement here...
+
+Customer [en]: Thank you. So kind. Um, it's about the, uh, the March workshop expenses. From Phoenix.
+
+Customer Support [en]: Okay so—wait let me—actually I think I see it here, um, there's a pending reimbursement request REQ-3847-AZ from, uh, March fifteenth through eighteenth? And it's showing, hmm, it's sort of stuck in processing, which is, er, probably why you're calling, right?
+
+Customer [en]: Stuck. Yes. Been two months now. Getting a bit... concerned about the delay and...
+
+Customer Support [en]: Right right, totally understand that concern! So um, what I'm seeing here is—oh this is, uh, kind of interesting actually—your submission has all the receipts but, er, there's a flag on transaction TXN-558291-Q that says, hmm, "requires secondary approval for amounts over threshold" which I think means, um, someone needs to manually review it?
+
+Customer [en]: Um, but wait, over threshold? Each receipt was under. Under fifty. I checked specifically because...
+
+Customer Support [en]: Oh! Oh okay so—hmm let me—actually you're right, I'm looking at the individual amounts and, uh, they're all under fifty but I think maybe the, er, system added them together? So the total of, um, let me calculate... two hundred thirty-seven dollars might've triggered our, uh, our bulk review process?
+
+Customer [en]: That's... oh dear. Um, nobody mentioned combining would... uh, this is getting complicated now and I...
+
+Customer Support [en]: No no no, we're—we're definitely going to fix this, don't worry! Um, so what I can do right now is, uh, I can manually override that flag because, hmm, I can see in your notes that you're, er, you're approved for workshop reimbursements up to three hundred per quarter under agreement AGR-7792-MUS, so this shouldn't have been held up at all!
+
+Customer [en]: Oh thank goodness. Really? You can just... fix it from there? That's wonderful. So helpful.
+
+Customer Support [en]: Absolutely!
+
+Customer [en]: Um, and the, er, the parking receipts? Those were separate. Did those also get...?
+
+Customer Support [en]: So let me—hmm, okay so I see, uh, three parking receipts here under reference PRK-4408-A through C, and um, those are actually—oh interesting—they're already approved and, er, it looks like they were processed last week? So you should probably be getting that reimbursement of, uh, forty-two dollars separately?
+
+Customer [en]: Last week? But I haven't... um, oh no, which account did they... not my old one?
+
+Customer Support [en]: Oh! Um, let me check—so it's going to, uh, hmm, the account ending in... 4-7-7-9? Is that—wait, actually let me double-check because sometimes our system, er, defaults to the original account on file and maybe that's not the right one anymore?
+
+Customer [en]: Four-seven-seven-nine. Closed that. Years ago. This is... uh, getting worse. Everything's scattered now...
+
+Customer Support [en]: Okay okay, no—we're going to sort this all out right now, I promise! So um, first thing, I'm putting a stop on that payment STP-9903-X so it doesn't go to the closed account, and then, uh, I'm going to update everything to your current account which I assume is, hmm, different? And then we'll reprocess both the workshop expenses and, er, the parking together, probably get you the full two-seventy-nine in, like, three to five business days, okay?
+
+
+=== Original (English) ===
+
+Customer: Um, hello. Yes. So grateful you picked up. I have a... what's the word... reimbursement issue.
+
+Customer Support: Oh hi there! Um, yes absolutely, I'm—I'm really happy to help you with that today! So let me just, uh, pull up your account here and, hmm, I'll need to get your member number first, it should be something like MEM-followed by, um, six digits?
+
+Customer: MEM-four-seven-two. Nine-one-eight. I'm with the, uh, Natural History Museum. Docent program.
+
+Customer Support: Perfect, perfect! So I've got you here, MEM-472918, and um, I can see you're, uh, part of our institutional accounts which is—that's great actually because, hmm, we have some special procedures for museum staff, so let me just, er, check what's going on with your reimbursement here...
+
+Customer: Thank you. So kind. Um, it's about the, uh, the March workshop expenses. From Phoenix.
+
+Customer Support: Okay so—wait let me—actually I think I see it here, um, there's a pending reimbursement request REQ-3847-AZ from, uh, March fifteenth through eighteenth? And it's showing, hmm, it's sort of stuck in processing, which is, er, probably why you're calling, right?
+
+Customer: Stuck. Yes. Been two months now. Getting a bit... concerned about the delay and...
+
+Customer Support: Right right, totally understand that concern! So um, what I'm seeing here is—oh this is, uh, kind of interesting actually—your submission has all the receipts but, er, there's a flag on transaction TXN-558291-Q that says, hmm, "requires secondary approval for amounts over threshold" which I think means, um, someone needs to manually review it?
+
+Customer: Um, but wait, over threshold? Each receipt was under. Under fifty. I checked specifically because...
+
+Customer Support: Oh! Oh okay so—hmm let me—actually you're right, I'm looking at the individual amounts and, uh, they're all under fifty but I think maybe the, er, system added them together? So the total of, um, let me calculate... two hundred thirty-seven dollars might've triggered our, uh, our bulk review process?
+
+Customer: That's... oh dear. Um, nobody mentioned combining would... uh, this is getting complicated now and I...
+
+Customer Support: No no no, we're—we're definitely going to fix this, don't worry! Um, so what I can do right now is, uh, I can manually override that flag because, hmm, I can see in your notes that you're, er, you're approved for workshop reimbursements up to three hundred per quarter under agreement AGR-7792-MUS, so this shouldn't have been held up at all!
+
+Customer: Oh thank goodness. Really? You can just... fix it from there? That's wonderful. So helpful.
+
+Customer Support: Absolutely!
+
+Customer: Um, and the, er, the parking receipts? Those were separate. Did those also get...?
+
+Customer Support: So let me—hmm, okay so I see, uh, three parking receipts here under reference PRK-4408-A through C, and um, those are actually—oh interesting—they're already approved and, er, it looks like they were processed last week? So you should probably be getting that reimbursement of, uh, forty-two dollars separately?
+
+Customer: Last week? But I haven't... um, oh no, which account did they... not my old one?
+
+Customer Support: Oh! Um, let me check—so it's going to, uh, hmm, the account ending in... 4-7-7-9? Is that—wait, actually let me double-check because sometimes our system, er, defaults to the original account on file and maybe that's not the right one anymore?
+
+Customer: Four-seven-seven-nine. Closed that. Years ago. This is... uh, getting worse. Everything's scattered now...
+
+Customer Support: Okay okay, no—we're going to sort this all out right now, I promise! So um, first thing, I'm putting a stop on that payment STP-9903-X so it doesn't go to the closed account, and then, uh, I'm going to update everything to your current account which I assume is, hmm, different? And then we'll reprocess both the workshop expenses and, er, the parking together, probably get you the full two-seventy-nine in, like, three to five business days, okay?
+

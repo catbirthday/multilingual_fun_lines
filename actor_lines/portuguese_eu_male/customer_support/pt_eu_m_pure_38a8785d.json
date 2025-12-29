@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Então basicamente, hum, continuo a receber estas, ah, taxas de portagem que são tipo... completamente erradas?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Está bem está bem, deixe-me—deixe-me abrir aqui a sua conta. Pode, hum, dar-me o seu número de conta ou, ah, o número de telefone associado?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sim é, hum, 555-0821. Então tipo, isto também aconteceu o mês passado."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo certo, tenho aqui a sua conta, ACC-7739-JK, e consigo ver—hmm—consigo ver algumas transações de portagem recentes. Deixe-me só, ah, deixe-me ver o padrão aqui."
+        },
+        {
+            "role": "Customer",
+            "content": "Foi o que o último funcionário disse, basicamente. Mas não ficou nada resolvido."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Compreendo—compreendo essa frustração. Então olhando para, hum, o seu histórico de transações TXN-8847291, há, ah, há definitivamente algo... como é que hei de dizer... irregular aqui com estas cobranças."
+        },
+        {
+            "role": "Customer",
+            "content": "Então é tipo, hum, eu faço o percurso do aeroporto, sabes? As mesmas portagens todos os dias basicamente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Percebido."
+        },
+        {
+            "role": "Customer",
+            "content": "Mas estão-me a cobrar, ah, portagens que nunca... tipo sítios onde nunca estive."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ok então, hum, estou a ver cobranças de—deixe-me, ah, deixe-me documentar isto como deve ser—há umas das zonas B47 e, hum, C22 no seu relatório RPT-6633-AA que, ah, que não correspondem de todo ao seu percurso habitual."
+        },
+        {
+            "role": "Customer",
+            "content": "Exato, então tipo... não posso continuar a pagar isto, percebes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutamente absolutamente. Vou—hmm—preciso de, ah, escalar isto mas, hum, mas a questão é esta. O processo de revisão automática demora, ah, demora cerca de 10 dias úteis."
+        },
+        {
+            "role": "Customer",
+            "content": "Dez dias? Hum, isso é... quer dizer, tenho contas para pagar, portanto..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sei—sei que não é ideal. Deixe-me, ah, deixe-me ver o que mais—ok ok, então o número de caso CSE-99042-D está criado, e, hum, posso marcá-lo como prioritário mas isso ainda significa, ah, 5-7 dias no mínimo."
+        },
+        {
+            "role": "Customer",
+            "content": "É que, hum, as contas médicas da minha filha são... então basicamente cada euro conta neste momento."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah—ah estou a ver. Isso, hum, isso definitivamente muda... Deixe-me verificar se—hmm—se há uma opção de crédito temporário enquanto investigamos."
+        },
+        {
+            "role": "Customer",
+            "content": "Consegue mesmo fazer isso? Porque tipo, a última pessoa nunca mencionou nada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bem, não é—não é o procedimento padrão mas, ah, dado o padrão aqui no ficheiro FLE-8829-TT que mostra, hum, discrepâncias claras, posso—posso pedir um ajuste provisório de, ah, deixe-me calcular... 147,50€."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, ok então tipo... quando é que isso aparece na minha conta?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "O código de crédito CRD-4401-YY seria, hum, seria processado esta noite, portanto veria isso até, ah, até amanhã de manhã. E depois faremos—faremos a investigação completa para o montante restante."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically, um, I keep getting these, uh, toll charges that are like... completely wrong?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, let me—let me pull up your account here. Can you, um, give me your account number or, uh, the phone number associated with it?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's, um, 555-0821. So like, this happened last month too."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I've got your account here, ACC-7739-JK, and I can see—hmm—I can see some recent toll transactions. Let me just, uh, let me look at the pattern here."
+        },
+        {
+            "role": "Customer",
+            "content": "That's what the last rep said, basically. Nothing got fixed though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand—I understand that frustration. So looking at, um, your transaction history TXN-8847291, there's, uh, there's definitely something... what's the word... irregular here with these charges."
+        },
+        {
+            "role": "Customer",
+            "content": "So it's like, um, I drive the airport route, you know? Same tolls every single day basically."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "But they're charging me for, uh, tolls I never even... like places I've never been."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm seeing charges from—let me, uh, let me document this properly—there's ones from zones B47 and, um, C22 in your report RPT-6633-AA that, uh, that don't match your usual route pattern at all."
+        },
+        {
+            "role": "Customer",
+            "content": "Right, so like... I can't keep paying for these, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely absolutely. I'm going to—hmm—I need to, uh, escalate this but, um, but here's the thing. The automatic review process takes, uh, takes about 10 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Ten days? Um, that's... I mean, I've got bills, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know—I know that's not ideal. Let me, uh, let me see what else—okay okay, so case number CSE-99042-D is created, and, um, I can flag it as priority but that still means, uh, 5-7 days minimum."
+        },
+        {
+            "role": "Customer",
+            "content": "It's just, um, my daughter's medical bills are... so basically every dollar counts right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh—oh I see. That's, um, that definitely changes... Let me check if—hmm—if there's a temporary credit option while we investigate."
+        },
+        {
+            "role": "Customer",
+            "content": "You can actually do that? Because like, the last person never mentioned anything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, it's—it's not standard but, uh, given the pattern here in file FLE-8829-TT showing, um, clear discrepancies, I can—I can request an interim adjustment of, uh, let me calculate... $147.50."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so like... when would that actually hit my account though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The credit code CRD-4401-YY would, um, would process tonight, so you'd see it by, uh, by tomorrow morning. And then we'll—we'll do the full investigation for the remaining amount."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "38a8785d_script.json",
+    "scenario": "airport shuttle driver, frustrated about incorrect toll charges appearing on his account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "skeptical_guarded",
+                "vulnerable_trusting"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "professionally_firm",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "word_searching",
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

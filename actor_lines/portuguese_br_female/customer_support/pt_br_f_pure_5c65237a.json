@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Então, é... acho que meu salário foi, tipo, pra uma conta bancária que eu meio que fechei há, hum, uns três meses atrás? O que é, é... maravilhoso. Sério. Sensacional."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tá, hum, deixa eu só, é... puxar sua conta aqui. Então vou precisar, hum, provavelmente do seu ID de funcionária primeiro, e aí a gente pode meio que, é... verificar o que aconteceu com esse depósito."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah é, hum, provavelmente BT-4421. Quer dizer, tipo... quem manda dinheiro pra contas mortas? É tipo, é... mandar mensagem pro ex. Sem sentido."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entendi. Então, hum, tô vendo aqui que, é... seu último depósito em, hmm, deixa eu ver... 15 de novembro foi pra conta terminada em 8823. E hum, esse número de roteamento tá, é... provavelmente aparecendo como inativo agora no nosso sistema."
+        },
+        {
+            "role": "Customer",
+            "content": "Certo então, hum, vocês podem só, é... talvez mandar de novo? Pro lugar certo? Porque o aluguel tá vencendo e eu meio que não consigo pagar com, hum, dinheiro fantasma."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Infelizmente, hum, quando um depósito é enviado pra uma conta—mesmo se ela tá, é... fechada—a gente não pode simplesmente, hmm, reenviar. Os fundos provavelmente vão voltar pra gente em, hum, talvez 2 a 3 dias úteis. Aí sim podemos reemitir."
+        },
+        {
+            "role": "Customer",
+            "content": "Dois a três— Hum tá, então tipo, é... olha só. Eu trabalho de noite. Gorjetas não pagam aluguel. Eu meio que preciso de dinheiro real que, é... existe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eu entendo. Então o que a gente pode fazer é, hum, colocar uma prioridade urgente no caso número CSE-7792-MN. Quando esses fundos voltarem, a gente vai, é... processar imediatamente. Mas não posso, hmm, não posso contornar o prazo de retorno do banco."
+        },
+        {
+            "role": "Customer",
+            "content": "Legal legal legal então, hum, vou só, é... avisar meu senhorio pra esperar enquanto meu dinheiro tira férias, talvez volte bronzeado?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Deixa eu, hum, te explicar exatamente o que acontece aqui. Então a rede ACH tem, é... regras específicas. A transação TXN-889254-B mostra status rejeitado. Os bancos processam devoluções em lotes, geralmente, hum, ciclos noturnos."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum pera na verdade, é... será que eu só— Acho que atualizei meus dados bancários mas talvez o sistema não, é... salvou? Clássico."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Então, hum, olhando o histórico do seu perfil... sim, você atualizou em, é... 28 de outubro. Mas hmm, a folha de pagamento já tinha, hum, processado esse ciclo. O número de referência REF-10284-QZ mostra o roteamento antigo."
+        },
+        {
+            "role": "Customer",
+            "content": "Claro. Hum então tipo, é... de quem é a culpa exatamente? Minha por achar que computadores funcionam ou, é... de vocês por ter computadores quebrados?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bom, então, atualizações precisam de, hum, cinco dias úteis antes da folha rodar. Isso tá, é... tá bem claro no documento DOC-8847-A. Posso, hmm, te enviar essa política se você quiser revisar."
+        },
+        {
+            "role": "Customer",
+            "content": "Cinco dias. Hum certo porque aparentemente meu dinheiro precisa de, é... mais tempo de preparo que uma feijoada completa. Então eu tô simplesmente, hum, ferrada?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não ferrada. Olha o que eu posso fazer. Vou, hum, enviar uma solicitação de adiantamento emergencial, formulário EAR-3928-K. A aprovação leva, é... talvez 24 horas. Não é o valor total mas, hmm, deve ajudar com as necessidades imediatas."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum tá pera isso é, é... isso é realmente útil? Acho? Talvez? De quanto estamos falando?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Então normalmente é, hum, até 60% do seu depósito esperado. Pro seu valor aparecendo aqui, seria, é... aproximadamente 420 reais. O código de confirmação seria ADV-5563-RT depois de aprovado."
+        },
+        {
+            "role": "Customer",
+            "content": "Quatrocentos e vinte. Hum claro que é. O universo acha que tá sendo, é... hilário aparentemente. É tá bom. Faz isso. Tanto faz."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito. Então eu, hum, enviei essa solicitação agora. Você vai receber, é... um email com o número de rastreamento TRK-9901-XM. E hmm, também coloquei uma nota pra, hum, verificar seu roteamento atual pra todos os depósitos futuros. Mais alguma coisa que eu possa ajudar hoje?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So um, I think my paycheck just, uh, went to a bank account that I sort of closed like, um, three months ago? Which is, uh, fantastic. Really. Just great."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, um, let me just, uh, pull up your account here. So I'm gonna need, um, probably your employee ID first, and then we can sort of, uh, check what happened with that deposit."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's, um, probably BT-4421. I mean, uh, who sends money to dead accounts? That's like, uh, texting your ex. Pointless."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. So um, I can see here that, uh, your last deposit on, hmm, let me check... November 15th went to account ending in 8823. And um, that routing number is, uh, probably showing as inactive now in our system."
+        },
+        {
+            "role": "Customer",
+            "content": "Right so um can you just, uh, maybe send it again? To the right place? 'Cause rent's due and I sort of can't pay with, um, ghost money."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unfortunately, um, once a deposit's sent to an account—even if it's, uh, closed—we can't just, hmm, resend it. The funds will probably bounce back to us in, um, maybe 2-3 business days. Then we can reissue."
+        },
+        {
+            "role": "Customer",
+            "content": "Two to three— Um okay so like, uh, here's the thing. I work nights. Tips don't cover rent. I kinda need actual money that, uh, exists?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand. So what we can do is, um, put a rush flag on case number CSE-7792-MN. Once those funds return, we'll, uh, process immediately. But I can't, hmm, can't bypass the bank's return timeline."
+        },
+        {
+            "role": "Customer",
+            "content": "Cool cool cool so um I'll just, uh, tell my landlord to wait while my money takes a vacation, maybe comes back with a tan?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me, um, walk you through exactly what happens here. So the ACH network has, uh, specific rules. Transaction TXN-889254-B shows rejected status. Banks process returns in batches, usually, um, overnight cycles."
+        },
+        {
+            "role": "Customer",
+            "content": "Um wait actually, uh, can I just— I think I updated my bank info but maybe the system didn't, uh, save it? Classic."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So um, looking at your profile history... yes, you did update it on, uh, October 28th. But hmm, payroll had already, um, processed that cycle. Reference number REF-10284-QZ shows the old routing."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course. Um so like, uh, whose fault is this exactly? Mine for thinking computers work or, uh, yours for having broken computers?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, so, updates need, um, five business days before payroll runs. That's uh, that's clearly stated in document DOC-8847-A. I can, hmm, send you that policy if you'd like to review it."
+        },
+        {
+            "role": "Customer",
+            "content": "Five days. Um right 'cause apparently my money needs, uh, more prep time than a Thanksgiving turkey. So I'm just, um, stuck?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not stuck. Here's what I can do. I'll um, submit an emergency advance request, form EAR-3928-K. Approval takes, uh, maybe 24 hours. It's not the full amount but, hmm, should help with immediate needs."
+        },
+        {
+            "role": "Customer",
+            "content": "Um okay wait that's, uh, that's actually helpful? I think? Maybe? How much we talking?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So typically it's, um, up to 60% of your expected deposit. For your amount showing here, that'd be, uh, roughly $420. Confirmation code would be ADV-5563-RT once approved."
+        },
+        {
+            "role": "Customer",
+            "content": "Four twenty. Um of course it is. The universe thinks it's, uh, hilarious apparently. Yeah okay. Do it. Whatever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. So I've um, submitted that request now. You'll get, uh, an email with tracking number TRK-9901-XM. And hmm, I've also put a note to, um, verify your current routing for all future deposits. Anything else I can help with today?"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "5c65237a_script.json",
+    "scenario": "bartender, frustrated that his direct deposit went to a bank account he already closed",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "annoyed_sarcastic",
+                "manic_oversharing"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "professionally_firm",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

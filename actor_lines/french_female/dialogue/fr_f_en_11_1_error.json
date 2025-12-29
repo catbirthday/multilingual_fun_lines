@@ -1,0 +1,32 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "dialogue Character 2 D2: dialogue Character 1 D3: dialogue Character 2 D4: dialogue ...up to D20."
+        },
+        {
+            "role": "Character 1",
+            "content": "dialogue Character 2 D2: dialogue Character 1 D3: dialogue Character 2 D4: dialogue ...up to D20."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "dialogue Character 2 D2: dialogue Character 1 D3: dialogue Character 2 D4: dialogue ...up to D20."
+        },
+        {
+            "role": "Character 1",
+            "content": "dialogue Character 2 D2: dialogue Character 1 D3: dialogue Character 2 D4: dialogue ...up to D20."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en"
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue11_1_error.txt"
+}

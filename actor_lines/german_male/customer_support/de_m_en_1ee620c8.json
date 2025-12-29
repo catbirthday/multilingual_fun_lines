@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Right. So. Got charged twice for one feed delivery."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, I'm so sorry to hear about that double charge, let me just, uh, pull up your account here and—hmm—if you could give me your, um, account number or the order reference?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sure. It's, uh—wait, let me—order 4782."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm looking at order FED-4782-XR and, uh, yes I can definitely see the issue here—there's, um, two charges on October 15th for $1,847 each and that's, er, obviously not right."
+        },
+        {
+            "role": "Customer",
+            "content": "Obviously. Fantastic catch there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I, um, I really wish I could just reverse this right away but, uh, unfortunately with feed supplier charges over $1,500, I need to, er, submit this to our billing disputes team with reference code DSP-9847-K."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course you do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, it's, um, it's really frustrating and I'm, uh, genuinely sorry about the process here—the dispute team usually, er, takes about 3-5 business days to review these and, um, then they'll issue the refund."
+        },
+        {
+            "role": "Customer",
+            "content": "Three to five days. With my money. Great."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, ummm, I can see you've been a customer since, uh, 2019 and this is, er, actually your first billing issue which—um—I'm going to note that in the dispute file DSP-9847-K to hopefully, you know, expedite things a bit."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, first time because I actually—no wait—I check my statements."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, right, and, um, that's exactly why this shouldn't have happened—let me, uh, also add a priority flag here and, er, actually I'm seeing the supplier code is SUP-447 which, hmm, they've had similar issues recently."
+        },
+        {
+            "role": "Customer",
+            "content": "Similar issues. Meaning they're doing this to everyone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, I, um, I can't speak to other accounts but, uh, let's just say your case reference DSP-9847-K is, er, going to include some additional notes about, um, pattern concerns with vendor SUP-447."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh-huh. So I just wait then. That's—that's it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unfortunately, um, for the actual refund, yes, but, uh, what I can do right now is, er, issue you a credit memo CMO-7739-PL for the duplicate amount that you can, um, apply to your next order immediately if you need to place one."
+        },
+        {
+            "role": "Customer",
+            "content": "A credit. Not my actual money back."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, you'll definitely get the actual refund—that's, uh, guaranteed with case DSP-9847-K—but the credit memo CMO-7739-PL is, er, just if you need to order more feed before the refund processes, so you're not, um, you know, out double the cash."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Um, fine. Whatever. Just—just process it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, so, um, I've got everything submitted now—you'll get an email with, uh, both reference numbers DSP-9847-K and CMO-7739-PL, and, er, honestly if it's not resolved by Thursday, please call back and, um, specifically ask for escalation to management, okay?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Right. So. Got charged twice for one feed delivery."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, I'm so sorry to hear about that double charge, let me just, uh, pull up your account here and—hmm—if you could give me your, um, account number or the order reference?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sure. It's, uh—wait, let me—order 4782."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm looking at order FED-4782-XR and, uh, yes I can definitely see the issue here—there's, um, two charges on October 15th for $1,847 each and that's, er, obviously not right."
+        },
+        {
+            "role": "Customer",
+            "content": "Obviously. Fantastic catch there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I, um, I really wish I could just reverse this right away but, uh, unfortunately with feed supplier charges over $1,500, I need to, er, submit this to our billing disputes team with reference code DSP-9847-K."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course you do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, it's, um, it's really frustrating and I'm, uh, genuinely sorry about the process here—the dispute team usually, er, takes about 3-5 business days to review these and, um, then they'll issue the refund."
+        },
+        {
+            "role": "Customer",
+            "content": "Three to five days. With my money. Great."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, ummm, I can see you've been a customer since, uh, 2019 and this is, er, actually your first billing issue which—um—I'm going to note that in the dispute file DSP-9847-K to hopefully, you know, expedite things a bit."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, first time because I actually—no wait—I check my statements."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, right, and, um, that's exactly why this shouldn't have happened—let me, uh, also add a priority flag here and, er, actually I'm seeing the supplier code is SUP-447 which, hmm, they've had similar issues recently."
+        },
+        {
+            "role": "Customer",
+            "content": "Similar issues. Meaning they're doing this to everyone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, I, um, I can't speak to other accounts but, uh, let's just say your case reference DSP-9847-K is, er, going to include some additional notes about, um, pattern concerns with vendor SUP-447."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh-huh. So I just wait then. That's—that's it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unfortunately, um, for the actual refund, yes, but, uh, what I can do right now is, er, issue you a credit memo CMO-7739-PL for the duplicate amount that you can, um, apply to your next order immediately if you need to place one."
+        },
+        {
+            "role": "Customer",
+            "content": "A credit. Not my actual money back."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, you'll definitely get the actual refund—that's, uh, guaranteed with case DSP-9847-K—but the credit memo CMO-7739-PL is, er, just if you need to order more feed before the refund processes, so you're not, um, you know, out double the cash."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Um, fine. Whatever. Just—just process it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, so, um, I've got everything submitted now—you'll get an email with, uh, both reference numbers DSP-9847-K and CMO-7739-PL, and, er, honestly if it's not resolved by Thursday, please call back and, um, specifically ask for escalation to management, okay?"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1ee620c8_script.json",
+    "scenario": "cattle rancher, no-nonsense and wanting direct answers about a feed supplier charge",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "annoyed_sarcastic",
+                "bitter_defeated"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "regretfully_limited",
+                "slightly_frazzled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

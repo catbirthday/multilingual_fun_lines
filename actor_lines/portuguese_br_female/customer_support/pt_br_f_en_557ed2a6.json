@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so I'm looking at your tree service package TSP-9902 and, uh, there's something really wrong here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, okay so let me just—wait, let me pull that up—TSP-9902, um, right right, I've got it here. So, uh, what seems to be the—I mean, er, what's concerning you about it?"
+        },
+        {
+            "role": "Customer",
+            "content": "Says you top trees. For health. That's not—that kills them."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Oh um. So I'm—let me just, uh, double check this description here because, um, I want to make sure I'm reading this correctly. It says, er, \"crown topping for optimal tree health\" under service code SVC-4481-B?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right. That's backwards. Um, topping, uh, it causes decay, weak growth. Like, massive stress response."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so—hmm, this is—I'm not the tree expert here but, um, you're saying this is actually, er, harmful? Let me just—I need to flag this, reference number REF-77234-QM."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty years certified. It's harmful. Very."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. Right okay. So um, between you and me? I think—no wait—I think someone in marketing, uh, really messed this up. Let me, er, get incident report INC-9958-KL started here."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, also says, uh, \"fertilize in late fall.\" That's, um, that encourages growth before frost. Bad idea."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man. Okay so—I'm just—wow. Um, documenting that too under, uh, the same incident. So you're—you're actually an arborist? Like, er, professionally?"
+        },
+        {
+            "role": "Customer",
+            "content": "ISA certified. Your whole program's wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "This is—okay I'm, um, actually really glad you called because, er, this could've been bad. So your account, uh, ACC-5847-TN9, I'm adding expert consultant notes."
+        },
+        {
+            "role": "Customer",
+            "content": "Can someone fix it? Before you—before people actually book this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! Um, absolutely. So I'm—let me just—I'm escalating this to, er, product team right now with priority flag PRI-HIGH-8823. They should, uh, pull it offline within, hmm, thirty minutes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Um, the pruning schedule's wrong too. Says, uh, spring for oaks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Spring for—oh no. That's, um, that's not right either is it? I'm just—wow we really, er, botched this entire thing. Adding that to case CSE-10947-RX."
+        },
+        {
+            "role": "Customer",
+            "content": "Oak wilt season. Never spring. Ever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Never spring. So, um, look—I'm gonna, uh, put you down as technical reviewer if that's okay? Reference code REV-6623-LP. Maybe we can, er, prevent this next time?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sure. Yeah. That'd—that'd actually help."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, I've got everything documented under master ticket MST-8874-QQM and, uh, honestly? Between us? You probably just, er, saved us from a bunch of lawsuits. So, um, thank you."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so I'm looking at your tree service package TSP-9902 and, uh, there's something really wrong here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, okay so let me just—wait, let me pull that up—TSP-9902, um, right right, I've got it here. So, uh, what seems to be the—I mean, er, what's concerning you about it?"
+        },
+        {
+            "role": "Customer",
+            "content": "Says you top trees. For health. That's not—that kills them."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Oh um. So I'm—let me just, uh, double check this description here because, um, I want to make sure I'm reading this correctly. It says, er, \"crown topping for optimal tree health\" under service code SVC-4481-B?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right. That's backwards. Um, topping, uh, it causes decay, weak growth. Like, massive stress response."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so—hmm, this is—I'm not the tree expert here but, um, you're saying this is actually, er, harmful? Let me just—I need to flag this, reference number REF-77234-QM."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty years certified. It's harmful. Very."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. Right okay. So um, between you and me? I think—no wait—I think someone in marketing, uh, really messed this up. Let me, er, get incident report INC-9958-KL started here."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, also says, uh, \"fertilize in late fall.\" That's, um, that encourages growth before frost. Bad idea."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man. Okay so—I'm just—wow. Um, documenting that too under, uh, the same incident. So you're—you're actually an arborist? Like, er, professionally?"
+        },
+        {
+            "role": "Customer",
+            "content": "ISA certified. Your whole program's wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "This is—okay I'm, um, actually really glad you called because, er, this could've been bad. So your account, uh, ACC-5847-TN9, I'm adding expert consultant notes."
+        },
+        {
+            "role": "Customer",
+            "content": "Can someone fix it? Before you—before people actually book this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! Um, absolutely. So I'm—let me just—I'm escalating this to, er, product team right now with priority flag PRI-HIGH-8823. They should, uh, pull it offline within, hmm, thirty minutes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Um, the pruning schedule's wrong too. Says, uh, spring for oaks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Spring for—oh no. That's, um, that's not right either is it? I'm just—wow we really, er, botched this entire thing. Adding that to case CSE-10947-RX."
+        },
+        {
+            "role": "Customer",
+            "content": "Oak wilt season. Never spring. Ever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Never spring. So, um, look—I'm gonna, uh, put you down as technical reviewer if that's okay? Reference code REV-6623-LP. Maybe we can, er, prevent this next time?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sure. Yeah. That'd—that'd actually help."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, I've got everything documented under master ticket MST-8874-QQM and, uh, honestly? Between us? You probably just, er, saved us from a bunch of lawsuits. So, um, thank you."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "557ed2a6_script.json",
+    "scenario": "arborist, knowledgeable and pushing back on a service description that's completely wrong",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "cautiously_hopeful",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+=== Source: 5b3f6348_script.json ===
+Language: Brazilian Portuguese
+Gender: female
+Mode: pure
+Content Type: customer_support
+Scenario: asking why their autopay didn't process correctly
+
+=== Translated Dialogue ===
+
+Customer [pure]: Hum, é, então meu débito automático não passou e é... eu realmente preciso saber por quê porque...
+
+Customer Support [pure]: Oi, tudo bem? Hum, eu com certeza, é... posso te ajudar com isso. Deixa eu só, hmm, abrir sua conta aqui. Acho que vou precisar, hum, verificar algumas informações primeiro. Você poderia, é... fornecer o número da sua conta?
+
+Customer [pure]: É, ah... 445-9982... peraí não, hum, 445-9822.
+
+Customer Support [pure]: Beleza. Tá.
+
+Customer [pure]: Então, hum, você pode, tipo, me dizer o que aconteceu? Quer dizer, é... essa é a terceira vez e eu tô...
+
+Customer Support [pure]: Eu entendo. Isso é, hum, bem frustrante mesmo. Então, tô olhando a conta ACC-445-9822 aqui e, é... posso ver que, hmm, a tentativa de pagamento do dia 15, meio que, hum, não processou. Deixa eu só, é... verificar o código de erro específico.
+
+Customer [pure]: Dia 15? Mas isso foi há cinco dias e ninguém nem...
+
+Customer Support [pure]: Sim. É. Hum, então o código de erro é, é... ERR-2847-NSF que, hmm, indica que o, hum, banco recusou. Acho que pode ser, é... um problema de saldo insuficiente no momento do processamento? Mas deixa eu, é... verificar outra coisa aqui.
+
+Customer [pure]: Não não não, com certeza tem dinheiro lá, acabei de verificar antes de ligar.
+
+Customer Support [pure]: Claro. Eu acredito em você. Às vezes, hum, os bancos podem ser meio, é... exigentes com o horário exato. Seu débito automático processa às, hmm, 00h01 do dia 15, número de referência REF-990-2KL, e às vezes, hum, depósitos podem não ter compensado ainda naquele momento exato, né?
+
+Customer [pure]: Aff, então tipo, o que eu deveria, hum, fazer agora? Quer dizer, tem taxa de atraso ou...
+
+Customer Support [pure]: Tá bom, então, hum, olha só o que eu posso fazer. Vou, é... cancelar a taxa de atraso—já fiz isso, código de confirmação CNF-887-PLM. E, hmm, acho que a gente deveria, hum, ajustar a data do seu débito automático pra talvez dia 17? Assim qualquer, é... depósito com certeza já teria compensado?
+
+Customer [pure]: Hum, é, isso... isso realmente ajudaria. Quer dizer, é... eu recebo no dia 14 então...
+
+Customer Support [pure]: Perfeito. Faz sentido.
+
+Customer [pure]: Olha, eu sei que isso não é, tipo, culpa sua nem nada, é só que, hum, é muito irritante quando os sistemas não...
+
+Customer Support [pure]: Não não, eu totalmente, hum, entendo. Essas coisas, é... deveriam simplesmente funcionar. Então eu atualizei seu débito automático pro dia 17, isso tá no nosso sistema como, hmm, modificação MOD-667-TRX, e, hum, vai entrar em vigor mês que vem. Mas pra esse mês, é... você gostaria de fazer um pagamento agora?
+
+Customer [pure]: É, hum, vamos, é... fazer agora mesmo pra eu não ter que me preocupar com isso de novo.
+
+Customer Support [pure]: Com certeza. Então, hum, eu posso processar isso agora mesmo usando o mesmo método de pagamento. O valor devido é, é... deixa eu ver aqui, R$ 127,43 e isso vai gerar o número de recibo, hmm, RCP-5501-QNM assim que processar. Posso, é... prosseguir com isso?
+
+Customer [pure]: Hum, sim por favor, só... é, faz isso. E, é... obrigada por ser paciente comigo, eu tô...
+
+Customer Support [pure]: Claro. Sem problema nenhum. O pagamento tá, hum, processando agora e você vai receber um email de confirmação em breve com esse número de recibo. Tem, é... mais alguma coisa que eu possa te ajudar hoje? Acho que já resolvemos seu débito automático pra, hmm, os próximos meses agora.
+
+
+=== Original (English) ===
+
+Customer: Um, yeah so my autopay didn't go through and uh, I really need to know why because...
+
+Customer Support: Hi there. Um, I can definitely, uh, help you with that. Let me just, hmm, pull up your account here. I think I'll need to, um, verify some information first. Could you, uh, provide your account number?
+
+Customer: It's, uh, 445-9982... wait no, um, 445-9822.
+
+Customer Support: Got it. Okay.
+
+Customer: So um, can you just, like, tell me what happened? I mean, uh, this is the third time and I'm just...
+
+Customer Support: I understand. That's, um, really frustrating. So I'm looking at account ACC-445-9822 here and, uh, I can see that, hmm, the payment attempt on the 15th, it kind of, um, didn't process. Let me just, er, check the specific error code.
+
+Customer: The 15th? But that was five days ago and nobody even...
+
+Customer Support: Right. Yes. Um, so the error code is, uh, ERR-2847-NSF which, hmm, indicates that the, um, bank declined it. I think it might be, uh, an issue with insufficient funds at the time of processing? But let me, er, double-check something else here.
+
+Customer: No no no, there's definitely money in there, I just checked before calling.
+
+Customer Support: Of course. I believe you. Sometimes, um, banks can be kind of, uh, particular about the exact timing. Your autopay processes at, hmm, 12:01 AM on the 15th, reference number REF-990-2KL, and sometimes, um, deposits might not have cleared yet at that exact moment?
+
+Customer: Ugh, so like, what am I supposed to, um, do now? I mean, is there a late fee or...
+
+Customer Support: Okay so, um, here's what I can do. I'm going to, uh, waive the late fee—that's already done, confirmation code CNF-887-PLM. And, hmm, I think we should probably, um, adjust your autopay date to maybe the 17th instead? That way any, er, deposits would definitely be cleared?
+
+Customer: Um, yeah that... that would actually help. I mean, uh, I get paid on the 14th so...
+
+Customer Support: Perfect. That makes sense.
+
+Customer: Look, I know this isn't, like, your fault or anything, it's just um, really annoying when systems don't...
+
+Customer Support: No no, I totally, um, understand. These things are, uh, supposed to just work. So I've updated your autopay to the 17th, that's in our system as, hmm, modification MOD-667-TRX, and, um, it'll take effect next month. For this month though, er, would you like to make a payment now?
+
+Customer: Yeah um, let's just, uh, get it done now so I don't have to worry about it again.
+
+Customer Support: Absolutely. So, um, I can process that right now using the same payment method. The amount due is, uh, let me see here, $127.43 and that'll generate receipt number, hmm, RCP-5501-QNM once it processes. Should I, er, go ahead with that?
+
+Customer: Um, yes please, just... yeah, do it. And uh, thanks for being patient with me, I'm just...
+
+Customer Support: Of course. It's no problem at all. The payment is, um, processing now and you'll get an email confirmation shortly with that receipt number. Is there, uh, anything else I can help you with today? I think we've got your autopay sorted for, hmm, future months now.
+

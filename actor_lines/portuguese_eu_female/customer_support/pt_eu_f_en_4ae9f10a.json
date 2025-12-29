@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, I think there was... probably an issue with my, uh, payment? It sort of... bounced, I guess..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay so, um, let me just pull that up here and, hmm, yeah I can see your account number ACC-7739-BC here and, uh, looks like the payment from November 15th did bounce back, but um, we can totally fix this right now!"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm just... really tired of this happening..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically what I'm seeing is, like, your payment reference PTR-883924 tried to process but, um, the bank code came back as NSF-44, which means, uh, insufficient funds at the time, but honestly these things happen all the time and we can just, you know, rerun it whenever works for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Maybe we could, um, try it again? If that's... I mean, if that makes sense..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! So, um, here's what I can do—let me just, uh, clear out that failed transaction TXN-299847-F first and, hmm, okay so then we can set up a new one, and actually, um, I can even waive that bounced payment fee of $35 because, like, you've been with us for... wow, three years!"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that would be, uh... I mean, thank you. That's kind of you to..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! And, um, I just noticed something interesting here—so your account ACC-7739-BC shows you're on our, uh, business plan for carpet cleaning services, right? And like, I can actually switch you to invoice billing with NET-30 terms if that's, um, if that would help with cash flow?"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't know, I'm just... my truck broke down last week and then..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "And um, the medical bills from, uh, from my wife's surgery are just... they're sort of piling up..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, I mean, I totally get it, like, everything hits at once, right? So, um, what if we do this—I can split your payment into two smaller ones, um, reference codes PMT-8847-A and PMT-8847-B, and then, uh, basically spread them out over the month so it's not, you know, one big hit to your account all at once?"
+        },
+        {
+            "role": "Customer",
+            "content": "That might, um... that might work better, I think... probably..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, hmm, let me just set that up here and, um, okay so the first payment of $127.50 would process, uh, tomorrow with confirmation CFM-772634, and then the second one, um, on December 1st—does that timeline work?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, I mean, as long as it doesn't... you know, bounce again..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Actually, um, here's something cool—I can set up, like, a backup payment method on file, so basically if the first one fails for whatever reason, it'll, uh, automatically try the backup instead of just, you know, bouncing and causing all these fees."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't really, uh... I mean, I only have the one account right now..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gotcha."
+        },
+        {
+            "role": "Customer",
+            "content": "Maybe just, um, the split payments would be... that's probably enough for now, I think..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, totally makes sense! So, um, I've got everything set up here with your reference number REF-9928-CCS, and like, I also added a note to your account that, uh, basically says to call you first if there's any payment issues instead of just, you know, letting it bounce, because honestly our system can be, hmm, a bit ridiculous sometimes with how it handles these things."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, I think there was... probably an issue with my, uh, payment? It sort of... bounced, I guess..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay so, um, let me just pull that up here and, hmm, yeah I can see your account number ACC-7739-BC here and, uh, looks like the payment from November 15th did bounce back, but um, we can totally fix this right now!"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm just... really tired of this happening..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically what I'm seeing is, like, your payment reference PTR-883924 tried to process but, um, the bank code came back as NSF-44, which means, uh, insufficient funds at the time, but honestly these things happen all the time and we can just, you know, rerun it whenever works for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Maybe we could, um, try it again? If that's... I mean, if that makes sense..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! So, um, here's what I can do—let me just, uh, clear out that failed transaction TXN-299847-F first and, hmm, okay so then we can set up a new one, and actually, um, I can even waive that bounced payment fee of $35 because, like, you've been with us for... wow, three years!"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that would be, uh... I mean, thank you. That's kind of you to..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! And, um, I just noticed something interesting here—so your account ACC-7739-BC shows you're on our, uh, business plan for carpet cleaning services, right? And like, I can actually switch you to invoice billing with NET-30 terms if that's, um, if that would help with cash flow?"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't know, I'm just... my truck broke down last week and then..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "And um, the medical bills from, uh, from my wife's surgery are just... they're sort of piling up..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, I mean, I totally get it, like, everything hits at once, right? So, um, what if we do this—I can split your payment into two smaller ones, um, reference codes PMT-8847-A and PMT-8847-B, and then, uh, basically spread them out over the month so it's not, you know, one big hit to your account all at once?"
+        },
+        {
+            "role": "Customer",
+            "content": "That might, um... that might work better, I think... probably..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, hmm, let me just set that up here and, um, okay so the first payment of $127.50 would process, uh, tomorrow with confirmation CFM-772634, and then the second one, um, on December 1st—does that timeline work?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, I mean, as long as it doesn't... you know, bounce again..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Actually, um, here's something cool—I can set up, like, a backup payment method on file, so basically if the first one fails for whatever reason, it'll, uh, automatically try the backup instead of just, you know, bouncing and causing all these fees."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't really, uh... I mean, I only have the one account right now..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gotcha."
+        },
+        {
+            "role": "Customer",
+            "content": "Maybe just, um, the split payments would be... that's probably enough for now, I think..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, totally makes sense! So, um, I've got everything set up here with your reference number REF-9928-CCS, and like, I also added a note to your account that, uh, basically says to call you first if there's any payment issues instead of just, you know, letting it bounce, because honestly our system can be, hmm, a bit ridiculous sometimes with how it handles these things."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4ae9f10a_script.json",
+    "scenario": "carpet cleaner, embarrassed about a bounced payment and trying to fix it",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "exhausted_worn",
+                "vulnerable_trusting"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "triumphant_problem_solver",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Então basicamente é, eu recebi essa reclamação? Tipo, é, alguém tá dizendo que eu quebrei o, é, o piano deles ou sei lá?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nossa, eu consigo, é, entender totalmente como isso deve ser frustrante. Deixa eu só, é, puxar sua conta aqui... okay so I'm seeing claim number CLM-9847-DX, filed against your company ID MOV-4429-TK, e é, sim, é sobre um transporte de piano da terça passada?"
+        },
+        {
+            "role": "Customer",
+            "content": "Terça. Certo. Então tipo, é, aquele trabalho foi, é, it was a nightmare already."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eu te entendo, de verdade. É, essas reclamações de dano são simplesmente, é, são muito estressantes pra todo mundo envolvido, e tipo, especially when you're already dealing with, é, você sabe, mudanças difíceis. Então o valor da reclamação listado aqui tá, é, mostrando como 3.200 dólares contra a apólice POL-7768-MV?"
+        },
+        {
+            "role": "Customer",
+            "content": "Três mil— pera. O quê? Isso é insano."
+        },
+        {
+            "role": "Customer Support",
+            "content": "É, isso é... é, realmente parece muito alto. So let me, é, investigar os detalhes aqui porque, é, talvez tenha alguma coisa que a gente pode, você sabe, trabalhar?"
+        },
+        {
+            "role": "Customer",
+            "content": "Quer dizer tipo, é, o negócio é? Eu não. Quebrei. Nada. Então."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo, certo. Absolutamente. É, então olhando a documentação que eles enviaram sob referência DOC-5512-QP, eles tão, é, alegando que tem dano estrutural na caixa de ressonância? E é, I'm seeing photos attached to file IMG-8823-A through IMG-8823-F, mas honestamente, é, algumas dessas parecem bem inconclusivas?"
+        },
+        {
+            "role": "Customer",
+            "content": "Posso só, é, tipo te contar o que realmente, é, o que aconteceu de verdade lá?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por favor! É, acho que isso seria, é, really helpful actually. E só pra você saber, eu tô, é, gravando esses detalhes no relatório de incidente INC-2904-TL pra gente ter o seu lado documentado direitinho?"
+        },
+        {
+            "role": "Customer",
+            "content": "Então basicamente. É. Eles me fizeram. É. Esperar do lado de fora. Por tipo, é, duas horas?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nossa, é, duas horas? Isso é... é, caramba. So you were just, tipo, sentado lá com o piano deles e, é, ninguém te deixava entrar?"
+        },
+        {
+            "role": "Customer",
+            "content": "Na chuva! Sim! E aí de repente a culpa é minha?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pera, tava chovendo? É, okay this is, é, isso é realmente muito importante porque... hmm, deixa eu checar o formulário de reclamação CLM-9847-DX deles de novo... they didn't mention weather conditions at all, o que é, é, tipo uma omissão bem significativa?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sabe de uma coisa? É, eu na verdade, é, eu tirei fotos também. De tipo, é, eu esperando?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah perfeito! Sim! É, definitivamente envia essas através do nosso portal na referência RFL-6690-WK porque, é, that could really help your case here. Quer dizer, se tinha questão de clima e eles te deixaram esperando, isso é... isso muda as coisas?"
+        },
+        {
+            "role": "Customer",
+            "content": "Isso vai... afetar meu seguro? Eu não posso. I just can't deal with that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Então, é, aqui vai o que eu posso te dizer. É, since this is your first claim in, deixa eu ver... é, três anos na conta ACC-4429-TK, você ainda tá em, é, situação regular? E honestamente, é, com a informação que você tá me dando, acho que a gente tem bases sólidas pra contestar?"
+        },
+        {
+            "role": "Customer",
+            "content": "Você parece que realmente entende. Obrigado. Sério mesmo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro! Quer dizer, é, I used to work dispatch for a moving company actually, então eu já, é, vi como algumas dessas reclamações podem ser injustas? Seu número de caso é CSE-1105-RB e eu vou pessoalmente sinalizar isso pra revisão porque, é, definitivamente tem alguma coisa estranha aqui."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically um, I got this claim? Like, uh, someone's saying I broke their, um, their piano or whatever?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, I can, um, absolutely understand how frustrating that must be. Let me just, uh, pull up your account here... okay so I'm seeing claim number CLM-9847-DX filed against your company ID MOV-4429-TK, and um, yeah it's regarding a piano transport from last Tuesday?"
+        },
+        {
+            "role": "Customer",
+            "content": "Tuesday. Right. So like, um, that job was, uh, it was a nightmare already."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, I really do. Um, these damage claims are just, uh, they're so stressful for everyone involved, and like, especially when you're already dealing with, um, you know, difficult moves. So the claim amount listed here is, uh, showing as $3,200 against policy POL-7768-MV?"
+        },
+        {
+            "role": "Customer",
+            "content": "Three thou— wait. What? That's insane."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah that's... um, that does seem really high. So let me, uh, dig into the details here because, um, maybe there's something we can, you know, work with?"
+        },
+        {
+            "role": "Customer",
+            "content": "I mean like, um, the thing is? I didn't. Break. Anything. So."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Absolutely. Um, so looking at the documentation they submitted under reference DOC-5512-QP, they're, uh, claiming there's structural damage to the soundboard? And um, I'm seeing photos attached to file IMG-8823-A through IMG-8823-F but honestly, uh, some of these look pretty inconclusive?"
+        },
+        {
+            "role": "Customer",
+            "content": "Can I just, um, like tell you what actually, uh, what really happened there?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Please do! Um, I think that would be, uh, really helpful actually. And just so you know, I'm, um, recording these details under incident report INC-2904-TL so we have your side documented properly?"
+        },
+        {
+            "role": "Customer",
+            "content": "So basically. Um. They had me. Uh. Wait outside. For like, um, two hours?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, um, two hours? That's... uh, wow. So you were just, like, sitting there with their piano and, um, nobody was letting you in?"
+        },
+        {
+            "role": "Customer",
+            "content": "In the rain! Yeah! And then suddenly it's my fault?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wait it was raining? Um, okay this is, uh, this is actually really important because... hmm, let me check their claim form CLM-9847-DX again... they didn't mention weather conditions at all which is, um, kind of a significant omission?"
+        },
+        {
+            "role": "Customer",
+            "content": "You know what? Um, I actually, uh, I took photos too. Of like, um, me waiting?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh perfect! Yes! Um, definitely submit those through our portal at reference link RFL-6690-WK because, uh, that could really help your case here. I mean, if there was weather involved and they left you waiting, that's... that changes things?"
+        },
+        {
+            "role": "Customer",
+            "content": "Will this... affect my insurance? I can't. I just can't deal with that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, here's what I can tell you. Uh, since this is your first claim in, let me see... um, three years under account ACC-4429-TK, you're still in, uh, good standing? And honestly, um, with the information you're giving me, I think we have solid grounds to dispute?"
+        },
+        {
+            "role": "Customer",
+            "content": "You seem like you actually get it. Thanks. Really."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! I mean, um, I used to work dispatch for a moving company actually, so I've, uh, seen how unfair some of these claims can be? Your case number is CSE-1105-RB and I'm going to personally flag this for review because, um, something definitely seems off here."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "504b2bf1_script.json",
+    "scenario": "furniture mover, exhausted and short-tempered about a damage claim filed against him",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "panicked_spiral",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "hedge_words",
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

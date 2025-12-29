@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Yeah hi. I think—no wait, I'm calling back about, um, ticket REF-something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, hello there, let me just, uh, pull up your account here and—hmm, do you happen to have that reference number? I can also, er, search by phone number if that's, um, if that's easier for you..."
+        },
+        {
+            "role": "Customer",
+            "content": "Sort of resolved already. Just, um, following up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, okay so, um, I'm seeing here—oh wait, is this about ticket REF-2024-88421? That was, uh, marked as resolved yesterday at, let me see here, 4:17 PM Eastern, and it looks like—hmm, actually this is interesting..."
+        },
+        {
+            "role": "Customer",
+            "content": "That's it. Worked out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, wow, so you're actually—you're calling to, uh, to say it worked? That's, er, that's really nice actually, we don't usually—I mean, most of the time people only call when things are, you know..."
+        },
+        {
+            "role": "Customer",
+            "content": "Company policy. We're supposed to, um, confirm resolutions."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm hmm, I see, well that's, um, that's very thorough of you, let me just update the ticket here with confirmation code CNF-94412-A to show that you've, uh, verified everything is working as expected."
+        },
+        {
+            "role": "Customer",
+            "content": "The tech—I think he, um, really knew his stuff. Probably should mention that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's, uh, that's Agent Mitchell, badge ID AGT-7734, and I'm definitely, um, going to add that to his file because, er, we track positive feedback and it really does, you know, make a difference for evaluations and..."
+        },
+        {
+            "role": "Customer",
+            "content": "Mitchell. Right. Fixed it fast."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah he's, um, he's one of our senior techs, been here for, uh, let me see, wow almost six years now, and honestly between you and me he's probably the best we have for those, er, for those complex integration issues."
+        },
+        {
+            "role": "Customer",
+            "content": "Do you, um, need anything else? Reference number or, uh, maybe account details?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I've got everything here in ticket REF-2024-88421, your account ACC-50923-K is all updated, and, um, I'm just adding a note here that you called to confirm successful resolution, which honestly is, uh, it's making my day a bit better..."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. That's—yeah, good then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Is there, um, anything else I can help you with today? I mean, er, since I have your account pulled up and, uh, I'm seeing you've been with us for, hmm, three years now so if there's anything at all..."
+        },
+        {
+            "role": "Customer",
+            "content": "Actually, um, one thing. My status level. Should be, uh, should be platinum."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Yes, um, absolutely, let me just—okay so I'm seeing here that you're currently at gold level but with your, uh, your usage metrics you definitely qualify for platinum, case number UPG-2024-66239, and I'm just, er, I'm upgrading that right now actually..."
+        },
+        {
+            "role": "Customer",
+            "content": "About time. I mean, um, three years, right? Kind of expected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand, and, um, you're absolutely right, this should have been automatic at your level, so I've, uh, I've applied it retroactively to January first with credit code CRD-8847-PL, which means you'll see about, er, let me calculate here... roughly a $240 credit on your next statement."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Yeah hi. I think—no wait, I'm calling back about, um, ticket REF-something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, hello there, let me just, uh, pull up your account here and—hmm, do you happen to have that reference number? I can also, er, search by phone number if that's, um, if that's easier for you..."
+        },
+        {
+            "role": "Customer",
+            "content": "Sort of resolved already. Just, um, following up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, okay so, um, I'm seeing here—oh wait, is this about ticket REF-2024-88421? That was, uh, marked as resolved yesterday at, let me see here, 4:17 PM Eastern, and it looks like—hmm, actually this is interesting..."
+        },
+        {
+            "role": "Customer",
+            "content": "That's it. Worked out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, wow, so you're actually—you're calling to, uh, to say it worked? That's, er, that's really nice actually, we don't usually—I mean, most of the time people only call when things are, you know..."
+        },
+        {
+            "role": "Customer",
+            "content": "Company policy. We're supposed to, um, confirm resolutions."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm hmm, I see, well that's, um, that's very thorough of you, let me just update the ticket here with confirmation code CNF-94412-A to show that you've, uh, verified everything is working as expected."
+        },
+        {
+            "role": "Customer",
+            "content": "The tech—I think he, um, really knew his stuff. Probably should mention that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's, uh, that's Agent Mitchell, badge ID AGT-7734, and I'm definitely, um, going to add that to his file because, er, we track positive feedback and it really does, you know, make a difference for evaluations and..."
+        },
+        {
+            "role": "Customer",
+            "content": "Mitchell. Right. Fixed it fast."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah he's, um, he's one of our senior techs, been here for, uh, let me see, wow almost six years now, and honestly between you and me he's probably the best we have for those, er, for those complex integration issues."
+        },
+        {
+            "role": "Customer",
+            "content": "Do you, um, need anything else? Reference number or, uh, maybe account details?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I've got everything here in ticket REF-2024-88421, your account ACC-50923-K is all updated, and, um, I'm just adding a note here that you called to confirm successful resolution, which honestly is, uh, it's making my day a bit better..."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. That's—yeah, good then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Is there, um, anything else I can help you with today? I mean, er, since I have your account pulled up and, uh, I'm seeing you've been with us for, hmm, three years now so if there's anything at all..."
+        },
+        {
+            "role": "Customer",
+            "content": "Actually, um, one thing. My status level. Should be, uh, should be platinum."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Yes, um, absolutely, let me just—okay so I'm seeing here that you're currently at gold level but with your, uh, your usage metrics you definitely qualify for platinum, case number UPG-2024-66239, and I'm just, er, I'm upgrading that right now actually..."
+        },
+        {
+            "role": "Customer",
+            "content": "About time. I mean, um, three years, right? Kind of expected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand, and, um, you're absolutely right, this should have been automatic at your level, so I've, uh, I've applied it retroactively to January first with credit code CRD-8847-PL, which means you'll see about, er, let me calculate here... roughly a $240 credit on your next statement."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "422d646b_script.json",
+    "scenario": "calling back to thank the agent because everything was resolved perfectly",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "resigned_going_through_motions",
+                "demanding_entitled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "burned_out_but_trying",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words",
+                    "self_corrections",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

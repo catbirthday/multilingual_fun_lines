@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, I just... the payment. It didn't... I can't even, uh, think straight right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, bulk tank payment. Let me, uh... what's the word... verify your account. Name?"
+        },
+        {
+            "role": "Customer",
+            "content": "Jenkins. Jenkins Dairy. I think account... sorry, it's maybe 4-something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, ACC-4892-JD. Yeah so, um, I see the issue here. Payment from, uh, yesterday's pickup bounced, and um, that's... hmm, that's definitely not good."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, deep breath. Your ACH failed code E47. Bank routing issue probably."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, but the milk's gone, and uh, if they don't pay, I mean, I sort of... we need that money today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, been doing this twelve years. REF-2024-0311-BD, that's your case. We expedite these."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you sure? Because um, last time they said... wait no, that was... sorry, different thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So um, here's what happens. I'm gonna, uh... what's it called... priority flag this. Your processor gets notification TXN-8847-MP in, hmm, twenty minutes tops."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty minutes. Okay. But what if..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already sent. Check your phone."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I don't... oh. Yeah. There's, uh, there's something here I think."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's confirmation MBL-0622. Sign that, send back. Money hits by noon."
+        },
+        {
+            "role": "Customer",
+            "content": "By noon? You're sure? Because, um, feed delivery's at two and I kind of need to, uh..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done hundreds of these. Um, your batch code BTK-4892-0311... hmm, what's the term... fast-tracked. So uh, actually might hit by eleven."
+        },
+        {
+            "role": "Customer",
+            "content": "Eleven would be... that would help. A lot."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Quick tip. Set up backup ACH. Form FRM-2290-X."
+        },
+        {
+            "role": "Customer",
+            "content": "I should probably, um... yeah. Been meaning to. Just everything's been so, uh..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know. Rough season. But um, you're all set now. Case REF-2024-0311-BD shows, uh... yep, processing. Check your account at eleven."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, I just... the payment. It didn't... I can't even, uh, think straight right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, bulk tank payment. Let me, uh... what's the word... verify your account. Name?"
+        },
+        {
+            "role": "Customer",
+            "content": "Jenkins. Jenkins Dairy. I think account... sorry, it's maybe 4-something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, ACC-4892-JD. Yeah so, um, I see the issue here. Payment from, uh, yesterday's pickup bounced, and um, that's... hmm, that's definitely not good."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, deep breath. Your ACH failed code E47. Bank routing issue probably."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, but the milk's gone, and uh, if they don't pay, I mean, I sort of... we need that money today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, been doing this twelve years. REF-2024-0311-BD, that's your case. We expedite these."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you sure? Because um, last time they said... wait no, that was... sorry, different thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So um, here's what happens. I'm gonna, uh... what's it called... priority flag this. Your processor gets notification TXN-8847-MP in, hmm, twenty minutes tops."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty minutes. Okay. But what if..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already sent. Check your phone."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I don't... oh. Yeah. There's, uh, there's something here I think."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's confirmation MBL-0622. Sign that, send back. Money hits by noon."
+        },
+        {
+            "role": "Customer",
+            "content": "By noon? You're sure? Because, um, feed delivery's at two and I kind of need to, uh..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done hundreds of these. Um, your batch code BTK-4892-0311... hmm, what's the term... fast-tracked. So uh, actually might hit by eleven."
+        },
+        {
+            "role": "Customer",
+            "content": "Eleven would be... that would help. A lot."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Quick tip. Set up backup ACH. Form FRM-2290-X."
+        },
+        {
+            "role": "Customer",
+            "content": "I should probably, um... yeah. Been meaning to. Just everything's been so, uh..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know. Rough season. But um, you're all set now. Case REF-2024-0311-BD shows, uh... yep, processing. Check your account at eleven."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3e4fed7a_script.json",
+    "scenario": "dairy farmer, calling before dawn about a bulk tank payment that didn't go through",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "overwhelmed_shutdown",
+                "anxious_worried"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "trailing_off",
+                    "hedge_words",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "new_and_eager"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

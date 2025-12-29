@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ähm, ich brauche Hilfe wegen dieser Parkgebühren. Ich arbeite dort. Ich bin der Seelsorger."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, ähm, okay also lassen Sie mich mal, äh, Ihr Konto hier aufrufen und... hmm, können Sie mir Ihre, äh, Mitarbeiternummer geben oder die Parkkontonummer, die auf Ihrer Abrechnung steht?"
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist wahrscheinlich E-4482. Hören Sie, ich sitze jeden Tag bei sterbenden Patienten und jetzt soll ich fürs Parken zahlen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also ich sehe hier das Konto PKG-4482-EM und, ähm, es zeigt... okay also da sind, äh, 320 Euro an Gebühren aus den letzten, äh, zwei Monaten was... das muss frustrierend sein..."
+        },
+        {
+            "role": "Customer",
+            "content": "300? Ähm, das kann nicht stimmen. Das ist mein Geld für Lebensmittel."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Es tut mir, ähm, wirklich leid wegen dieser Situation und ich sehe, dass, äh, Ihnen der, äh, normale Besuchertarif von 12 Euro pro Tag berechnet wurde anstatt... hmm, anstatt des Mitarbeitertarifs..."
+        },
+        {
+            "role": "Customer",
+            "content": "Also im Grunde sagen Sie mir. Dass ich abgezockt wurde. Monatelang."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Na ja, ähm, abgezockt würde ich nicht gerade sagen, aber es gab definitiv einen, äh, Fehler bei der, äh, Kategorisierung Ihres Kontos im Systemcode CAT-7739-VIS, wenn es eigentlich, ähm, CAT-7739-EMP für Mitarbeiter hätte sein sollen..."
+        },
+        {
+            "role": "Customer",
+            "content": "Woher weiß ich überhaupt, dass Sie das beheben? Was für einen Beweis habe ich denn?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also, ähm, was ich jetzt machen kann ist, äh, einen Korrekturbericht mit der Referenznummer COR-88425-PKG erstellen und, äh, im Grunde werden damit alle falschen Gebühren storniert und... lassen Sie mich das mal bearbeiten..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ich halte Menschen buchstäblich die Hand. Während sie sterben. Und zahle dafür?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Das ist... ich meine, ähm, das muss unglaublich schwere Arbeit sein und, äh, dann noch fürs Parken zahlen zu müssen... okay also ich habe die Rückerstattung für den vollen Betrag eingereicht..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm, wann sehe ich das Geld denn tatsächlich?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Die Rückerstattung mit der Transaktions-ID REF-20847-AJ sollte, ähm, innerhalb von 3 bis 5 Werktagen bearbeitet werden, und, äh, ich aktualisiere auch Ihren Status auf, äh, EMP-EXEMPT-4482, was bedeutet, dass Sie in Zukunft nicht..."
+        },
+        {
+            "role": "Customer",
+            "content": "Moment. Befreit? Also ich hätte gar nichts zahlen sollen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Na ja, ähm, Seelsorger und, äh, bestimmte andere Krankenhauspersonal sind eigentlich, äh, durch die Richtlinie POL-EXEMPT-22B abgedeckt was... hmm, was bedeutet ja, Sie hätten gar nichts zahlen sollen..."
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist doch irre. Äh, können Sie nachschauen, wie lange das schon läuft?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Lassen Sie mich mal... okay also, ähm, wenn ich mir Ihr Einstellungsdatum in der Akte EMP-4482-2019 anschaue, wurden Ihnen, äh, falsche Gebühren berechnet für... äh, insgesamt 47 Monate, was wäre..."
+        },
+        {
+            "role": "Customer",
+            "content": "47 Monate? Ich glaube, mir wird schlecht."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also der volle Rückerstattungsbetrag, den ich jetzt, ähm, unter der Fallnummer CSE-994782-FULL bearbeite, beträgt, äh, 6.840 Euro, und es... es tut mir wirklich aufrichtig leid, dass Ihnen das passiert ist..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, I need help with these parking charges. I work there. I'm the chaplain."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, okay so let me just, uh, pull up your account here and... hmm, can you give me your, er, employee ID number or the parking account number that would be on your statement?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's probably E-4482. Look, I sit with dying patients every day and now I'm paying to park?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I'm seeing account PKG-4482-EM here and, um, it shows... okay so there's, uh, three hundred and twenty dollars in charges from the last, er, two months which... I understand must be frustrating..."
+        },
+        {
+            "role": "Customer",
+            "content": "Three hundred? Um, that can't be right. That's my grocery money."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm, um, really sorry about this situation and I can see that, uh, you've been charged the, er, standard visitor rate of twelve dollars per day instead of... hmm, instead of the employee rate..."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically you're telling me. I've been getting scammed. For months."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, I wouldn't say scammed exactly, but there's definitely been an, er, error in how your account was, uh, classified in system code CAT-7739-VIS when it should have been, um, CAT-7739-EMP for employee..."
+        },
+        {
+            "role": "Customer",
+            "content": "How do I even know you'll fix it? Like what proof do I have?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, what I can do right now is, uh, generate a correction report with reference number COR-88425-PKG and, er, basically that'll reverse all the improper charges and... let me just process that..."
+        },
+        {
+            "role": "Customer",
+            "content": "I literally hold people's hands. As they die. And I pay to do it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's... I mean, um, that must be incredibly difficult work and, uh, having to pay for parking on top of... okay so I've submitted the refund for the full amount..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, when will I actually see that money though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The refund with transaction ID REF-20847-AJ should, um, process within three to five business days, and, er, I'm also updating your status code to, uh, EMP-EXEMPT-4482 which means going forward you won't..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. Exempt? So I shouldn't have been paying anything at all?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, chaplains and, er, certain other hospital staff are actually, uh, covered under policy code POL-EXEMPT-22B which... hmm, which means yes, you shouldn't have been charged anything..."
+        },
+        {
+            "role": "Customer",
+            "content": "This is insane. Er, can you check how long this has been happening?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me just... okay so, um, looking at your employment start date in file EMP-4482-2019, you've been, er, incorrectly charged for... uh, forty-seven months total which would be..."
+        },
+        {
+            "role": "Customer",
+            "content": "Forty-seven months? I think I'm going to be sick."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So the full refund amount I'm, um, processing now under case number CSE-994782-FULL is, er, six thousand eight hundred and forty dollars, and I'm... I'm genuinely sorry this happened to you..."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "23fabd5b_script.json",
+    "scenario": "hospital chaplain, frustrated about parking garage charges at his own workplace",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "desperate_pleading",
+                "suspicious_paranoid"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "hedge_words",
+                    "filled_pauses",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "carefully_diplomatic",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

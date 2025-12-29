@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Eu—bem, estou a ligar por causa de umas cobranças? No meu—deixa-me ir buscar o meu extrato aqui—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah hm, pois então, deixa-me só, eh, abrir a tua conta e vamos, tipo, resolver isto tudo. Posso, hm, ter o teu email ou, eh, número de conta?"
+        },
+        {
+            "role": "Customer",
+            "content": "É, hm, Margaret ponto Thompson arroba, eh, gmail. Eu dei aulas ao 5º ano durante—bem, 30 anos, and I just don't understand these computer things sometimes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ok ok. Pronto então, hm, Margaret—posso tratar-te por Margaret?—então basicamente estou a ver, eh, 3 subscrições de streaming diferentes aqui. Account ID ACC-7749-MZK. Deixa-me só, er, explicar-te isto rapidinho."
+        },
+        {
+            "role": "Customer",
+            "content": "3? Mas eu só—espera, I thought I just had the one for watching my British mysteries?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pois pois, então hm, o que aconteceu foi—e tipo, cá entre nós? Isto acontece, eh, imenso. Tens o BritBox por 6,99€, mas depois também há, hm, o StreamPlus Premium a 15,99€ na transação TXN-8823904, e eh, uma coisa chamada MegaFlix por 12,99€."
+        },
+        {
+            "role": "Customer",
+            "content": "Hm, eu nem sei o que são essas—a minha neta ajudou-me a configurar o britânico quando veio visitar, mas, eh, estes outros?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ok ok, então, hm, ouve Margaret—vou, tipo, ser sincero contigo aqui. These companies basically count on people not noticing, sabes? Mas hm, vamos resolver isto já."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh bem isso é—quer dizer, estou reformado agora com uma pensão fixa, so every dollar counts, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não, absolutamente. Então hm, a verificar o teu histórico aqui—número de referência REF-5521-QQT—estes extra, eh, começaram há 3 meses. Maybe you clicked on some free trials or something like that?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hm, talvez? Estava a tentar—não espera, o meu vizinho disse algo sobre um documentário? About teaching actually, and I might've—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Pois então, hm, é exatamente isso—ok então basicamente, eh, trials grátis que convertem, certo? But here's what we're gonna do. Estou, er, a cancelar os dois agora mesmo e, hm—não digas a ninguém—mas vou processar reembolsos retroativos."
+        },
+        {
+            "role": "Customer",
+            "content": "Consegues fazer isso? Oh isso seria—os meus medicamentos não param de subir e preciso mesmo desse dinheiro de volta."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Já está em andamento. Então hm, os códigos de cancelamento são CAN-9847-BBX e, eh, CAN-9848-BBY. Os reembolsos vão demorar tipo, hm, 3 a 5 dias? Mas Margaret, vamos conseguir-te, er, cerca de 87€ de volta no total."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh meu Deus, hm, isso é maravilhoso! Estava tão preocupado que tinha—bem, que tinha feito algo errado com o computador."
+        },
+        {
+            "role": "Customer Support",
+            "content": "De maneira nenhuma! Não é culpa tua de todo. Então hm, ouve—vou também, tipo, deixar uma nota aqui, número de caso CSE-4419-ZZM, que basicamente diz, eh, nada de subscrições novas sem confirmação verbal. That way this can't happen again, er."
+        },
+        {
+            "role": "Customer",
+            "content": "És tão querido. Sabes, eu costumava dizer aos meus alunos—peçam sempre ajuda quando precisarem."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Professor esperto! Ok então, hm, só para confirmar—manténs o BritBox para os mistérios, cancelei os outros dois, eh, reembolsos a processar, e, er, bloqueei a tua conta. Transaction summary TSM-7703-NPR has all the details."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfeito. Hm, muito obrigado, querido. This really helps with everything, honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Margaret, honestamente? Tipo, hm, isto alegrou-me o dia. Keep enjoying those British mysteries and if anything weird shows up again? Liga de volta e, er, pede pelo Jake—sou eu—número de referência AGT-1122-JKE. Estamos aqui para ajudar."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm—well, I'm calling about some charges? On my—let me get my statement here—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh um, yeah so, let me just, uh, pull up your account and we'll, like, totally figure this out. Can I, um, get your email or, uh, account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, Margaret dot Thompson at, uh, gmail. I taught fifth grade for—well, thirty years, and I just don't understand these computer things sometimes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it. Okay so, um, Margaret—can I call you Margaret?—so basically I'm seeing, uh, three different streaming subscriptions here. Account ID ACC-7749-MZK. Let me just, er, break these down for you real quick."
+        },
+        {
+            "role": "Customer",
+            "content": "Three? But I only—wait, I thought I just had the one for watching my British mysteries?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so um, here's what happened—and like, between you and me? This happens, uh, all the time. You've got BritBox for $6.99, but then there's also, um, StreamPlus Premium at $15.99 under transaction TXN-8823904, and uh, something called MegaFlix for $12.99."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I don't even know what those—my granddaughter helped me set up the British one when she visited, but, uh, these other ones?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so, um, listen Margaret—I'm gonna, like, be real with you here. These companies, they uh, they kinda count on people not noticing, you know? But um, we're gonna fix this right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh well that's—I mean, I'm on a fixed income now, so every dollar counts, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, absolutely. So um, checking your history here—reference number REF-5521-QQT—these extra ones, uh, they started three months ago. Did you maybe, like, click on any free trials or, um, anything like that?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, maybe? I was trying to—no wait, my neighbor said something about a documentary? About teaching actually, and I might've—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Yeah so, um, that's exactly what—okay so basically, uh, free trials that convert, right? But here's what we're gonna do. I'm, er, canceling both right now and, um—don't tell anyone—but I'm gonna push through retroactive refunds."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? Oh that would be—my medications keep going up and I really need that money back."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already on it. So um, cancellation codes are CAN-9847-BBX and, uh, CAN-9848-BBY. The refunds'll take like, um, three to five days? But Margaret, we're getting you, er, about $87 back total."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my goodness, um, that's wonderful! I was so worried I'd—well, I'd done something wrong with the computer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No way! Not your fault at all. So um, listen—I'm also gonna, like, put a note here, case number CSE-4419-ZZM, that basically says, uh, no new subscriptions without verbal confirmation. That way this can't, er, happen again."
+        },
+        {
+            "role": "Customer",
+            "content": "That's so kind of you. You know, I used to tell my students—always ask for help when you need it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Smart teacher! Okay so, um, just to confirm—keeping BritBox for the mysteries, canceled the other two, uh, refunds processing, and, er, I've locked your account. Transaction summary TSM-7703-NPR has all the details."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Um, thank you so much, dear. This really helps with—well, with everything really."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Margaret, honestly? Like, um, this made my day. Keep enjoying those British mysteries and, uh, if anything weird shows up again? Call back and, er, ask for Jake—that's me—reference number AGT-1122-JKE. We've got your back."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3c87a697_script.json",
+    "scenario": "retired teacher, patient but confused about streaming service charges she doesn't recognize",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "vulnerable_trusting",
+                "warming_up"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "playfully_conspiratorial",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "classic_fillers",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

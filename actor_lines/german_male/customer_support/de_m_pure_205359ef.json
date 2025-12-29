@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ähm, hallo. Ich rufe an wegen... meine Karte wurde abgelehnt? Im Fitnessstudio. Wo ich arbeite, tatsächlich."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, ähm, okay, also lassen Sie mich mal eben... äh... Ihr Konto hier aufrufen und, hmm, ich muss erst einige Informationen verifizieren, wenn das okay ist?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ja, klar. Ich weiß, Sie müssen das halt machen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gut, also, ähm, kann ich Ihre, äh, Mitgliedsnummer haben? Das sollte so eine... wie war das... eine sechsstellige Nummer sein, die mit MEM anfängt?"
+        },
+        {
+            "role": "Customer",
+            "content": "Die ist wahrscheinlich... MEM-4412. Glaube ich. Vielleicht 4421?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Lassen Sie mich beide prüfen... okay, also, ähm, MEM-441221, da kommt, äh, Jake Harrison, und das Konto zeigt... hmm... lassen Sie mich mal eben..."
+        },
+        {
+            "role": "Customer",
+            "content": "Das bin ich. Hören Sie, ich weiß, das ist nicht Ihre Schuld..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein, das ist, ähm, das ist schon okay, wirklich. Also ich sehe hier, dass der, äh, der Zahlungsversuch am, äh, 15. Oktober war für 89,99 € und der Ablehnungscode ist, ähm, NSF-7744-B, was bedeutet..."
+        },
+        {
+            "role": "Customer",
+            "content": "Nicht gedeckt. Ja. Hab ich mir gedacht."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Richtig, also, ähm, was wir da machen können ist... ich meine, es gibt da einige Optionen... wir könnten versuchen, äh, es nochmal durchlaufen zu lassen oder, ähm, ein anderes Zahlungsdatum einrichten, falls Sie... warten müssen auf... Sie wissen schon..."
+        },
+        {
+            "role": "Customer",
+            "content": "Äh, ja, vielleicht könnten wir es einfach... verschieben? Paar Tage?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolut, ja, also lassen Sie mich das mal eben, ähm, hier im System aktualisieren und, äh, wann würde es Ihnen am besten passen?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm, so, Freitag? Tut mir leid, das ist halt..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Freitag der, äh, 20.? Das ist, ähm, völlig in Ordnung, überhaupt kein Problem, solche Sachen passieren und... hmm... okay, also ich richte das jetzt ein mit der Referenznummer REF-9982-XKQ."
+        },
+        {
+            "role": "Customer",
+            "content": "Ich trainiere dort Kunden. In dem Fitnessstudio. Deshalb ist es halt..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, ich, äh, ich verstehe total, das muss... ja. Ähm, also das System zeigt das neue Abbuchungsdatum als 20. Oktober und, äh, ich habe hier eine Notiz mit Code NTE-445 hinzugefügt, um sicherzustellen, dass es keine, ähm, Dienstunterbrechung bis dahin gibt."
+        },
+        {
+            "role": "Customer",
+            "content": "Danke. Wirklich. Sie machen das... weniger schlimm."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ähm, das ist wirklich nett von Ihnen, ich mache nur, äh, meinen Job, aber, äh, ich schätze das. Gibt es noch etwas, was ich... oder soll ich eine Bestätigung an Ihre E-Mail schicken?"
+        },
+        {
+            "role": "Customer",
+            "content": "E-Mail ist gut. Nochmal Entschuldigung für das... Sie wissen schon."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein, bitte, ähm, entschuldigen Sie sich nicht, ernsthaft, solche Anrufe kommen... äh... ständig vor. Ihre Bestätigungsnummer ist CNF-788456-J und Sie sollten die E-Mail in, äh, ungefähr 5 Minuten oder so bekommen."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I'm calling about... my card got declined? At the gym. Where I work, actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, okay so let me just... uh... pull up your account here and, hmm, I'll need to verify some information first if that's okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, sure. I know you gotta do your thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, can I get your, uh, member ID? It should be like a... what's the... a six-digit thing starting with MEM?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's probably... MEM-4412. I think. Maybe 4421?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me check both... okay so, um, MEM-441221, that's pulling up, uh, Jake Harrison, and the account shows... hmm... let me just..."
+        },
+        {
+            "role": "Customer",
+            "content": "That's me. Look, I know this isn't your fault..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, it's, um, it's fine, really. So I'm seeing here that the, uh, the payment attempt was on, er, October 15th for $89.99 and the decline code is, um, NSF-7744-B which means..."
+        },
+        {
+            "role": "Customer",
+            "content": "Insufficient funds. Yeah. I figured."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, what we can do is... I mean, there's a few options here... we could try to, uh, reprocess it or, um, set up a different payment date if you need to... wait for... you know..."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, yeah, maybe we could just... push it back? Couple days?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, yes, so let me just, um, update that in the system here and, uh, when would work best for you?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, like, Friday? I'm sorry, this is just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Friday the, er, 20th? That's, um, totally fine, no judgment here at all, these things happen and... hmm... okay so I'm setting that up now with reference number REF-9982-XKQ."
+        },
+        {
+            "role": "Customer",
+            "content": "I train clients there. At that gym. So it's kinda..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I, uh, I totally get it, that must be... yeah. Um, so the system's showing the new charge date as October 20th and, er, I've added a note here with code NTE-445 to make sure there's no, um, service interruption before then."
+        },
+        {
+            "role": "Customer",
+            "content": "Thanks. Really. You're making this... less awful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, that's really nice of you to say, I'm just, uh, doing my job but, er, I appreciate it. Is there anything else I can... or should I send a confirmation to your email?"
+        },
+        {
+            "role": "Customer",
+            "content": "Email's good. Sorry again for the... you know."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, please don't, um, apologize, seriously these calls happen like... er... constantly. Your confirmation number is CNF-788456-J and you should get that email in, uh, about five minutes or so."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "205359ef_script.json",
+    "scenario": "personal trainer, embarrassed that his card was declined for his own gym dues",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "empathetic_to_rep",
+                "apologetic_embarrassed"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off",
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

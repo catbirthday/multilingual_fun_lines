@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Euh, salut, alors j'ai reçu cette, euh, lettre qui dit que j'ai manqué... euh... des benefits?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "D'accord alors, euh, laisse-moi juste... hmm... consulter ton compte ici et... c'est quoi ton employee ID number si tu l'as?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Euh, c'est genre... attends, c'est ça le... non c'est mon badge... désolé, euh, 4-4-2-9-8."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Compris, alors c'est EMP-44298-TH et je vois ici que t'es listé comme temps partiel au Grandview Theater location, et on dirait que... hmm... ta fenêtre d'inscription pour les benefits s'est fermée le 15 octobre."
+        },
+        {
+            "role": "Customer",
+            "content": "Octobre? Mais je viens de... personne m'a dit! I mean, euh, je travaille surtout les nuits, euh, je déchire les tickets, et j'ai pas... j'ai jamais rien reçu!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bon, alors, euh, le truc c'est que... and I understand this is frustrating... mais la notification est partie par email à ton adresse enregistrée qui est, euh, attends voir... jsmith447 at gmail, et on voit qu'elle a été ouverte le 22 septembre?"
+        },
+        {
+            "role": "Customer",
+            "content": "C'est pas—attends, non, j'ai changé ça! Euh, y'a des mois! It's supposed to be, euh, jsmith448!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh c'est... hmm, c'est bizarre en fait parce que, euh, je vois ici une demande de changement CRQ-7739-B d'août mais c'est... laisse-moi voir... c'est marqué comme pending? Ça devrait pas être encore pending."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, alors ça veut dire que je peux encore... comment on dit... m'inscrire?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors malheureusement la période d'inscription est, euh, elle est fermée, mais ce que je peux faire c'est... hmm... soumettre une appeal request sous le numéro de cas APL-9982-KF puisqu'il y avait clairement, euh, une sorte d'erreur système de notre côté."
+        },
+        {
+            "role": "Customer",
+            "content": "Un appeal? Combien de temps—je veux dire, euh, j'ai vraiment besoin du truc dentaire, ma dent est..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay."
+        },
+        {
+            "role": "Customer",
+            "content": "Je peux juste pas..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors, euh, le processus d'appel prend typiquement, euh, 5 à 7 jours ouvrables, mais je vais... attends voir... I'm marking this as priority à cause de l'échec de mise à jour de l'email."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, mais genre, what if they say no? Je travaille 20 heures, euh, 22 heures, et ils ont dit que je qualifiais!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oui oui, alors tu qualifies selon les heures, c'est pas le problème, c'est juste la, euh, la fenêtre manquée, mais honnêtement avec le cas APL-9982-KF qui montre que notre système a pas traité ton changement d'email? I think you've got a really strong case here."
+        },
+        {
+            "role": "Customer",
+            "content": "C'est juste tellement... euh... je sais pas ce que je suis supposé... c'est trop."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je sais, et, euh, je vais m'assurer de tout documenter vraiment clairement dans ton dossier alors... hmm, en fait, tu sais quoi? Let me also add reference code RES-4419-A qui signale ça pour une révision immédiate par le superviseur."
+        },
+        {
+            "role": "Customer",
+            "content": "D'accord. Euh. Merci. Euh, je suppose que je... j'attends?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors oui, euh, basically tu vas recevoir un email—et j'ai mis à jour à l'adresse 448 maintenant donc c'est, euh, c'est réglé—dans les 48 heures avec la détermination initiale, et si t'as besoin d'autre chose, ton numéro de cas encore c'est APL-9982-KF."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, so I just got this, uh, letter saying I missed... er... benefits?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, let me just... hmm... pull up your account here and... what's your employee ID number if you have that handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Um, it's like... wait, is that the... no that's my badge... sorry, um, 4-4-2-9-8."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so that's EMP-44298-TH and I can see here you're listed as part-time at the Grandview Theater location, and it looks like... hmm... your enrollment window for benefits closed on October 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "October? But I just... nobody told me! I mean, um, I work nights mostly, uh, tearing tickets, and I don't... I never got anything!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, the thing is... and I understand this is frustrating... but the notification went out via email to your registered address which is, uh, let me see... jsmith447 at gmail, and we show it was opened on September 22nd?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's not—wait, no, I changed that! Er, months ago! It's supposed to be, um, jsmith448!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's... hmm, that's weird actually because, um, I'm showing here a change request CRQ-7739-B from August but it's... let me just... it's marked as pending? That shouldn't still be pending."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so does that mean I can still... like, what's the word... enroll?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So unfortunately the enrollment period is, um, it's closed, but what I can do is... hmm... submit an appeal request under case number APL-9982-KF since there was clearly, uh, some kind of system error on our end here."
+        },
+        {
+            "role": "Customer",
+            "content": "An appeal? How long—I mean, um, I really need the dental thing, my tooth is..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, the appeal process typically takes, er, five to seven business days, but I'm gonna... let me see here... I'm marking this as priority due to the, uh, the email update failure."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, but like, what if they say no? I work twenty hours, er, twenty-two hours, and they said I qualified!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so you do qualify based on hours, that's not the issue, it's just the, um, the missed window, but honestly with case APL-9982-KF showing our system didn't process your email change? I think you've got a really strong case here."
+        },
+        {
+            "role": "Customer",
+            "content": "This is just so... um... I don't know what I'm supposed to... it's too much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, and, um, I'm gonna make sure to document everything really clearly in your file so... hmm, actually, you know what? Let me also add reference code RES-4419-A which flags this for immediate supervisor review."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Um. Thank you. Er, I guess I just... wait?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So yeah, um, basically you'll get an email—and I've updated it to the 448 address now so that's, uh, that's fixed—within 48 hours with the initial determination, and if you need anything else, your case number again is APL-9982-KF."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "08779221_script.json",
+    "scenario": "theater usher, part-time worker confused about health benefits enrollment she apparently missed",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "overwhelmed_shutdown"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "false_starts",
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "professionally_firm",
+                "troubleshooting_curious"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off",
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

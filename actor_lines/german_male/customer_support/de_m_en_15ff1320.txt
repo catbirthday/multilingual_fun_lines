@@ -1,0 +1,92 @@
+=== Source: 15ff1320_script.json ===
+Language: German
+Gender: male
+Mode: en
+Content Type: customer_support
+Scenario: bakery owner, exhausted from a 4am start and trying to fix a vendor payment error
+
+=== Translated Dialogue ===
+
+Customer [en]: Um, I've been your customer for, uh, six years. Six. Years. And now my vendor payment's just... gone?
+
+Customer Support [en]: Oh oh oh, okay so, um, let me just—wait, actually—let me pull up your account here real quick and, uh, basically we're gonna figure this out together, alright? So I'm seeing account number BUS-44729-QX here, is that, um, is that the right one for your bakery?
+
+Customer [en]: Yeah. Been up since 4am. Can't... can't deal with this right now.
+
+Customer Support [en]: Oooh, bakery owner, yeah so like, between you and me? I totally get it—my sister runs a café and she's she's always exhausted. So, um, I'm looking at transaction TXN-892341-K and it shows, uh, initiated yesterday at 3:47pm but then there's this weird—hmm—okay so basically there's like a hold code HC-7749 that shouldn't be there.
+
+Customer [en]: A hold? I mean, uh, what kind of hold? That's rent money. Um, are you sure it's not just...
+
+Customer Support [en]: Right right, no I see exactly what happened—so the the payment processor flagged it because, um, and this is kinda ridiculous but, uh, the amount was like $4,444.44 and their system thought it was, er, suspicious? Which is—I mean—that's silly but reference number REF-20847-AAB shows it got caught in their, um, their fraud filter.
+
+Customer [en]: Fraud? Um, I've paid that exact amount for, uh, three months now. Every month. So...
+
+Customer Support [en]: Exactly!
+
+Customer [en]: So basically, um, when's this gonna be fixed? Because, uh, I can't... the vendor needs this today or...
+
+Customer Support [en]: Okay so—and don't don't worry, we're gonna fix this—um, between you and me? I can bypass their silly filter. So basically I'm putting in override code OVR-55821-MNX right now and, uh, marking this vendor VND-3847 as pre-approved so like, this won't happen again next month, you know?
+
+Customer [en]: You can do that?
+
+Customer Support [en]: Well well well, technically I need supervisor approval but, um, looking at your history here—transaction log TL-98234 shows, uh, perfect payments for six years straight so, er, yeah I'm just gonna—I'm gonna push this through. The payment should should release in, hmm, about fifteen minutes with confirmation PCF-77439-D.
+
+Customer [en]: Um, fifteen minutes? Are you, uh, are you absolutely sure? Because if this doesn't...
+
+Customer Support [en]: Yep yep, absolutely sure, and and actually? I'm also gonna—hold on—I'm gonna add priority flag PF-2288 which means, um, if anything goes wrong, which it won't, but if it does, you'd get an instant callback from from our escalation team.
+
+Customer [en]: I just, um... after six years of perfect payments, this is just...
+
+Customer Support [en]: No no, you're absolutely right to be frustrated! Like, the system flagging $4,444.44 as suspicious when, uh, when I can literally see here in your vendor history VH-66290-K that it's the same payment every single month? That's on us, not you.
+
+Customer [en]: Um, so you're sure? Fifteen minutes? Because, uh, I've got dough proofing and I can't just...
+
+Customer Support [en]: Promise promise promise. So, um, I've set up notification alert NA-88451-QQZ to ping your phone the the second it goes through, and, uh, between you and me? I put a note in vendor file VF-3847 that basically says "priority customer - no holds ever" so, er, my supervisor might not love that but, you know, six years of loyalty means something.
+
+Customer [en]: That's... okay. Um, thank you. Really. I just, uh, I need sleep and...
+
+Customer Support [en]: Hey so, um, one more thing—I'm also adding courtesy credit CC-9982-XV for for the inconvenience, it's not much but, uh, it'll show up as a $25 credit next billing cycle, and and honestly? After being up since 4am dealing with our mistake, you deserve way more than that but, er, that's the max I can do without without getting in trouble. You should get confirmation text CT-44519 in about, hmm, two minutes showing everything's processing.
+
+
+=== Original (English) ===
+
+Customer: Um, I've been your customer for, uh, six years. Six. Years. And now my vendor payment's just... gone?
+
+Customer Support: Oh oh oh, okay so, um, let me just—wait, actually—let me pull up your account here real quick and, uh, basically we're gonna figure this out together, alright? So I'm seeing account number BUS-44729-QX here, is that, um, is that the right one for your bakery?
+
+Customer: Yeah. Been up since 4am. Can't... can't deal with this right now.
+
+Customer Support: Oooh, bakery owner, yeah so like, between you and me? I totally get it—my sister runs a café and she's she's always exhausted. So, um, I'm looking at transaction TXN-892341-K and it shows, uh, initiated yesterday at 3:47pm but then there's this weird—hmm—okay so basically there's like a hold code HC-7749 that shouldn't be there.
+
+Customer: A hold? I mean, uh, what kind of hold? That's rent money. Um, are you sure it's not just...
+
+Customer Support: Right right, no I see exactly what happened—so the the payment processor flagged it because, um, and this is kinda ridiculous but, uh, the amount was like $4,444.44 and their system thought it was, er, suspicious? Which is—I mean—that's silly but reference number REF-20847-AAB shows it got caught in their, um, their fraud filter.
+
+Customer: Fraud? Um, I've paid that exact amount for, uh, three months now. Every month. So...
+
+Customer Support: Exactly!
+
+Customer: So basically, um, when's this gonna be fixed? Because, uh, I can't... the vendor needs this today or...
+
+Customer Support: Okay so—and don't don't worry, we're gonna fix this—um, between you and me? I can bypass their silly filter. So basically I'm putting in override code OVR-55821-MNX right now and, uh, marking this vendor VND-3847 as pre-approved so like, this won't happen again next month, you know?
+
+Customer: You can do that?
+
+Customer Support: Well well well, technically I need supervisor approval but, um, looking at your history here—transaction log TL-98234 shows, uh, perfect payments for six years straight so, er, yeah I'm just gonna—I'm gonna push this through. The payment should should release in, hmm, about fifteen minutes with confirmation PCF-77439-D.
+
+Customer: Um, fifteen minutes? Are you, uh, are you absolutely sure? Because if this doesn't...
+
+Customer Support: Yep yep, absolutely sure, and and actually? I'm also gonna—hold on—I'm gonna add priority flag PF-2288 which means, um, if anything goes wrong, which it won't, but if it does, you'd get an instant callback from from our escalation team.
+
+Customer: I just, um... after six years of perfect payments, this is just...
+
+Customer Support: No no, you're absolutely right to be frustrated! Like, the system flagging $4,444.44 as suspicious when, uh, when I can literally see here in your vendor history VH-66290-K that it's the same payment every single month? That's on us, not you.
+
+Customer: Um, so you're sure? Fifteen minutes? Because, uh, I've got dough proofing and I can't just...
+
+Customer Support: Promise promise promise. So, um, I've set up notification alert NA-88451-QQZ to ping your phone the the second it goes through, and, uh, between you and me? I put a note in vendor file VF-3847 that basically says "priority customer - no holds ever" so, er, my supervisor might not love that but, you know, six years of loyalty means something.
+
+Customer: That's... okay. Um, thank you. Really. I just, uh, I need sleep and...
+
+Customer Support: Hey so, um, one more thing—I'm also adding courtesy credit CC-9982-XV for for the inconvenience, it's not much but, uh, it'll show up as a $25 credit next billing cycle, and and honestly? After being up since 4am dealing with our mistake, you deserve way more than that but, er, that's the max I can do without without getting in trouble. You should get confirmation text CT-44519 in about, hmm, two minutes showing everything's processing.
+

@@ -1,0 +1,91 @@
+=== Source: dialogue12_39.txt ===
+Language: European Portuguese
+Gender: female
+Mode: en
+Content Type: dialogue
+
+=== Translated Dialogue ===
+
+Character 1 [en]: So, um, we're having [very quietly] issues with, you know, our Docker containers crashing every few hours.
+
+Character 2 [en]: Oh interesting, when did this start happening? Are you seeing any specific error messages in the logs, or is it just random shutdowns without warning?
+
+Character 1 [en]: Well, it started, I mean, last Tuesday after we, uhh, updated the base image.
+
+Character 2 [en]: Which base image are you using exactly? And have you checked if there were any breaking changes in that update that might conflict with your application dependencies?
+
+Character 1 [en]: It's, er, Alpine Linux 3.18, basically, but I didn't really check the changelog.
+
+Character 2 [en]: Wait, you jumped straight to 3.18? That's, you know, a pretty significant version bump. Are you, hmm, monitoring memory usage when these crashes happen, like, at all?
+
+Character 1 [en]: Actually, um, we don't [warm] have proper monitoring set up, kind of embarrassing, right so.
+
+Character 2 [en]: Okay, [relieved] no judgment here! But can you at least run docker stats while it's running to see if you're hitting resource limits?
+
+Character 1 [en]: I guess, err, we could try that, honestly, though I'm not really sure what to look for.
+
+Character 2 [en]: Have you, uhh, set any resource constraints in your docker-compose file? Sometimes, you know, containers crash when they hit memory limits, the thing is, Docker doesn't always make that obvious.
+
+Character 1 [en]: We're not even using docker-compose, just running containers manually.
+
+Character 2 [en]: Oh [laugh] wow, okay so, that explains a lot! How many containers are you, actually, running, and are they, well, networked together somehow?
+
+Character 1 [en]: Six containers, umm, all on the same host, I mean, using default bridge networking, basically.
+
+Character 2 [en]: And you're managing [long pause] all of this manually? How do you, err, handle restarts when things crash, or like, ensure they come up in the right order?
+
+Character 1 [en]: We have a bash script that sort of works most of the time.
+
+Character 2 [en]: A bash script for orchestrating six containers? What happens when dependencies fail to start, or do you have any health checks built in?
+
+Character 1 [en]: The script just [over confidently] retries everything five times, it works perfectly fine for our needs.
+
+Character 2 [en]: But earlier you [shaky voice] said they're crashing every few hours? Have you considered that maybe the containers are interfering with each other's resources on the host?
+
+Character 1 [en]: Hmm, that's, you know, actually possible since we, ah, added two more containers last week, honestly.
+
+Character 2 [en]: So you went from four to [pause] six containers without adjusting anything? Let me guess, sort of, no volume management either, and probably, well, logs are filling up your disk space?
+
+
+=== Original (English) ===
+
+Character 1: So, um, we're having [very quietly] issues with, you know, our Docker containers crashing every few hours.
+
+Character 2: Oh interesting, when did this start happening? Are you seeing any specific error messages in the logs, or is it just random shutdowns without warning?
+
+Character 1: Well, it started, I mean, last Tuesday after we, uhh, updated the base image.
+
+Character 2: Which base image are you using exactly? And have you checked if there were any breaking changes in that update that might conflict with your application dependencies?
+
+Character 1: It's, er, Alpine Linux 3.18, basically, but I didn't really check the changelog.
+
+Character 2: Wait, you jumped straight to 3.18? That's, you know, a pretty significant version bump. Are you, hmm, monitoring memory usage when these crashes happen, like, at all?
+
+Character 1: Actually, um, we don't [warm] have proper monitoring set up, kind of embarrassing, right so.
+
+Character 2: Okay, [relieved] no judgment here! But can you at least run docker stats while it's running to see if you're hitting resource limits?
+
+Character 1: I guess, err, we could try that, honestly, though I'm not really sure what to look for.
+
+Character 2: Have you, uhh, set any resource constraints in your docker-compose file? Sometimes, you know, containers crash when they hit memory limits, the thing is, Docker doesn't always make that obvious.
+
+Character 1: We're not even using docker-compose, just running containers manually.
+
+Character 2: Oh [laugh] wow, okay so, that explains a lot! How many containers are you, actually, running, and are they, well, networked together somehow?
+
+Character 1: Six containers, umm, all on the same host, I mean, using default bridge networking, basically.
+
+Character 2: And you're managing [long pause] all of this manually? How do you, err, handle restarts when things crash, or like, ensure they come up in the right order?
+
+Character 1: We have a bash script that sort of works most of the time.
+
+Character 2: A bash script for orchestrating six containers? What happens when dependencies fail to start, or do you have any health checks built in?
+
+Character 1: The script just [over confidently] retries everything five times, it works perfectly fine for our needs.
+
+Character 2: But earlier you [shaky voice] said they're crashing every few hours? Have you considered that maybe the containers are interfering with each other's resources on the host?
+
+Character 1: Hmm, that's, you know, actually possible since we, ah, added two more containers last week, honestly.
+
+Character 2: So you went from four to [pause] six containers without adjusting anything? Let me guess, sort of, no volume management either, and probably, well, logs are filling up your disk space?
+

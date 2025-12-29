@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi. Um, I'm probably calling the wrong department but, uh, I need to... it's about a prepaid account? For someone who's... passed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, no no, you're definitely in the right place! So, uh, first of all, let me just say I'm, um, really sorry for your loss. Er, let me just pull up our, uh, prepaid transfer system here and we'll get this sorted out for you, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry. I should've had the account number ready. I'm—I'm just looking. One second."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, that's totally fine! Take your time. So while you're looking, uh, I can actually start with just, er, the account holder's name? And then, um, once you find it we'll need the account number which should be like, uh, something like PPA-7823-MK or similar format."
+        },
+        {
+            "role": "Customer",
+            "content": "Margaret Chen. That's—that's the name. Found it. PPA... um, what's that... PPA-4451-JX."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Okay so, um, I've got Margaret Chen here with account PPA-4451-JX and, uh, I can see this was, er, set up back in 2019. Now, um, for the transfer process—and this is, uh, pretty straightforward I promise—I'll need to verify you're authorized?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Of course. I probably should've mentioned. Wilson Funeral Home. I'm—I'm the director."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh excellent, that makes this easier! So, um, let me just, uh, update that here. Wilson Funeral Home. And, er, I'll need your license number which should be like, um, FDL followed by some digits?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it's FDL-8827... no wait. Sorry. FDL-8227-TX. I always—I always mix those up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all! Happens all the time. So, uh, FDL-8227-TX for Wilson Funeral Home, got it. Um, now the system is, er, generating a transfer authorization code which will be, uh, TAC-9916-MC and that's basically your reference for this whole thing."
+        },
+        {
+            "role": "Customer",
+            "content": "Should I—should I be writing this down? Um, TAC... sorry, what was it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yes! Definitely write it down. So that's TAC-9916-MC. Um, and actually, er, I'm also gonna email this to you but, uh, having it written is always good. So, um, the transfer includes, let me see here, the full service package valued at, er, $8,750."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Good. That's... I think that's right? Are you sure that covers everything the family selected?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, absolutely! So I can see here it's, uh, the complete package. Let me just, er, read through this. It's got the, um, viewing services, the ceremony, transportation, and, uh, all the standard preparations. Everything under reference SKU-3847-PRM."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Right right. And the... what's the... the timing? When does this actually, um, transfer over?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, great question! The transfer is, uh, basically immediate once I submit it here. But, er, the funds release to your facility will be, um, within 24-48 hours. You'll get a confirmation at, uh, let me see, transaction ID TRN-55831-QZ should appear in your merchant portal."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—I just want to make sure. Nothing's going to. Delay. Or hold this up?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I completely understand your concern! Um, so everything looks, er, perfectly set up here. No holds, no issues. The system shows green lights across the board. Uh, and just to reassure you, if anything does come up—which it won't—but if it does, you can reference case number CSE-7249-NP and we'll expedite it immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay. Thank you. I'm probably. Overthinking. But these things are just... you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're being thorough and that's, um, exactly what you should be doing! These are, uh, really important matters and, er, you want everything perfect for the family. So, um, you're all set now. The transfer's processing under confirmation CFM-8839-RT and, uh, you should see everything in your system within those 24-48 hours. Is there, er, anything else I can help clarify?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi. Um, I'm probably calling the wrong department but, uh, I need to... it's about a prepaid account? For someone who's... passed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, no no, you're definitely in the right place! So, uh, first of all, let me just say I'm, um, really sorry for your loss. Er, let me just pull up our, uh, prepaid transfer system here and we'll get this sorted out for you, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry. I should've had the account number ready. I'm—I'm just looking. One second."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, that's totally fine! Take your time. So while you're looking, uh, I can actually start with just, er, the account holder's name? And then, um, once you find it we'll need the account number which should be like, uh, something like PPA-7823-MK or similar format."
+        },
+        {
+            "role": "Customer",
+            "content": "Margaret Chen. That's—that's the name. Found it. PPA... um, what's that... PPA-4451-JX."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Okay so, um, I've got Margaret Chen here with account PPA-4451-JX and, uh, I can see this was, er, set up back in 2019. Now, um, for the transfer process—and this is, uh, pretty straightforward I promise—I'll need to verify you're authorized?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Of course. I probably should've mentioned. Wilson Funeral Home. I'm—I'm the director."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh excellent, that makes this easier! So, um, let me just, uh, update that here. Wilson Funeral Home. And, er, I'll need your license number which should be like, um, FDL followed by some digits?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it's FDL-8827... no wait. Sorry. FDL-8227-TX. I always—I always mix those up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all! Happens all the time. So, uh, FDL-8227-TX for Wilson Funeral Home, got it. Um, now the system is, er, generating a transfer authorization code which will be, uh, TAC-9916-MC and that's basically your reference for this whole thing."
+        },
+        {
+            "role": "Customer",
+            "content": "Should I—should I be writing this down? Um, TAC... sorry, what was it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yes! Definitely write it down. So that's TAC-9916-MC. Um, and actually, er, I'm also gonna email this to you but, uh, having it written is always good. So, um, the transfer includes, let me see here, the full service package valued at, er, $8,750."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Good. That's... I think that's right? Are you sure that covers everything the family selected?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, absolutely! So I can see here it's, uh, the complete package. Let me just, er, read through this. It's got the, um, viewing services, the ceremony, transportation, and, uh, all the standard preparations. Everything under reference SKU-3847-PRM."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Right right. And the... what's the... the timing? When does this actually, um, transfer over?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, great question! The transfer is, uh, basically immediate once I submit it here. But, er, the funds release to your facility will be, um, within 24-48 hours. You'll get a confirmation at, uh, let me see, transaction ID TRN-55831-QZ should appear in your merchant portal."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—I just want to make sure. Nothing's going to. Delay. Or hold this up?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I completely understand your concern! Um, so everything looks, er, perfectly set up here. No holds, no issues. The system shows green lights across the board. Uh, and just to reassure you, if anything does come up—which it won't—but if it does, you can reference case number CSE-7249-NP and we'll expedite it immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay. Thank you. I'm probably. Overthinking. But these things are just... you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're being thorough and that's, um, exactly what you should be doing! These are, uh, really important matters and, er, you want everything perfect for the family. So, um, you're all set now. The transfer's processing under confirmation CFM-8839-RT and, uh, you should see everything in your system within those 24-48 hours. Is there, er, anything else I can help clarify?"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3b4c5624_script.json",
+    "scenario": "funeral director, calling about transferring a deceased client's prepaid service account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "self_deprecating_fumbling",
+                "anxious_worried"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "hedge_words",
+                    "word_searching",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "gently_reassuring"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

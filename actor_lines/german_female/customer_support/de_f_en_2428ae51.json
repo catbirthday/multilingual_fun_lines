@@ -1,0 +1,222 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Oh thank god. I'm sorry. I think I... the website kept. Um. Crashing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all, so basically this has been happening all morning—our main server cluster went down around 9 AM. Let me pull up your account real quick, what's your email address?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's... I probably did something wrong. Maybe clicked too many times?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Definitely not your fault, like, we've had over 300 reports since breakfast. So what I'm seeing here is your session ID SES-44219-BK got interrupted seventeen times—that's basically a record for today."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventeen? Oh god. I'm sorry. I just kept... trying."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no no, that's exactly what you should do. So your account ACC-7263-MP shows you were trying to access your recent order, is that right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. Kind of. I mean probably that's... I need to check if. The delivery?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so I can see order ORD-9847-TL22 here, scheduled for tomorrow. But like, here's the thing—because of all these crashes, we're actually upgrading everyone affected to expedited shipping, no charge."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? I don't. You don't have to. I mean I'm just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No listen, we're going to fix this properly. Your confirmation code is now EXP-7749-RK and basically that means guaranteed delivery by 10 AM tomorrow, and I'm adding a credit of $25 to your account."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... I think that's too much? Maybe just. The website working is enough."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look, you tried seventeen times to get through, so like, that's persistence we need to reward. Reference number for the credit is CRD-2024-8837-A."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm being silly. Probably everyone's calling. Sort of taking your time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're literally my favorite call today because you're so nice about it. So basically while I have you, let me check if there's anything else affected on account ACC-7263-MP... yeah, your wishlist is intact, payment methods are all good."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Thank god. I thought maybe I... lost everything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nope, everything's safe, so like all your data is backed up every hour. Your last successful save was at 8:47 AM, reference timestamp TS-084747-EST."
+        },
+        {
+            "role": "Customer",
+            "content": "I just. Really needed this order. Kind of important. Sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, no apologizing, that's why we're fixing it. So I'm putting a priority flag PRI-HIGH-7263 on your account, basically means if you have ANY issues tomorrow with delivery, you call and ask for me directly—name's Jordan, employee ID EMP-4472."
+        },
+        {
+            "role": "Customer",
+            "content": "That's so. I mean. Thank you? I think I'm just. Relieved."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand, like this morning was rough for everyone. So your updated tracking number is TRK-9847-EXPR-22 and basically you'll get texts every step of the way. We're going to make sure this gets to you perfectly, okay?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Oh thank god. I'm sorry. I think I... the website kept. Um. Crashing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all, so basically this has been happening all morning—our main server cluster went down around 9 AM. Let me pull up your account real quick, what's your email address?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's... I probably did something wrong. Maybe clicked too many times?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Definitely not your fault, like, we've had over 300 reports since breakfast. So what I'm seeing here is your session ID SES-44219-BK got interrupted seventeen times—that's basically a record for today."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventeen? Oh god. I'm sorry. I just kept... trying."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no no, that's exactly what you should do. So your account ACC-7263-MP shows you were trying to access your recent order, is that right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. Kind of. I mean probably that's... I need to check if. The delivery?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so I can see order ORD-9847-TL22 here, scheduled for tomorrow. But like, here's the thing—because of all these crashes, we're actually upgrading everyone affected to expedited shipping, no charge."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? I don't. You don't have to. I mean I'm just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No listen, we're going to fix this properly. Your confirmation code is now EXP-7749-RK and basically that means guaranteed delivery by 10 AM tomorrow, and I'm adding a credit of $25 to your account."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... I think that's too much? Maybe just. The website working is enough."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look, you tried seventeen times to get through, so like, that's persistence we need to reward. Reference number for the credit is CRD-2024-8837-A."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm being silly. Probably everyone's calling. Sort of taking your time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're literally my favorite call today because you're so nice about it. So basically while I have you, let me check if there's anything else affected on account ACC-7263-MP... yeah, your wishlist is intact, payment methods are all good."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Thank god. I thought maybe I... lost everything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nope, everything's safe, so like all your data is backed up every hour. Your last successful save was at 8:47 AM, reference timestamp TS-084747-EST."
+        },
+        {
+            "role": "Customer",
+            "content": "I just. Really needed this order. Kind of important. Sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, no apologizing, that's why we're fixing it. So I'm putting a priority flag PRI-HIGH-7263 on your account, basically means if you have ANY issues tomorrow with delivery, you call and ask for me directly—name's Jordan, employee ID EMP-4472."
+        },
+        {
+            "role": "Customer",
+            "content": "That's so. I mean. Thank you? I think I'm just. Relieved."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand, like this morning was rough for everyone. So your updated tracking number is TRK-9847-EXPR-22 and basically you'll get texts every step of the way. We're going to make sure this gets to you perfectly, okay?"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2428ae51_script.json",
+    "scenario": "relieved to finally reach someone after the website kept crashing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "desperate_pleading"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": "hedge_words",
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": "filled_pauses",
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

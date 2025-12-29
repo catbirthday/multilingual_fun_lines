@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm... what's the word... disputing? Um, there's this chargeback thing and, uh, I know you're just doing your job here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, um, let me just—I need to pull that up. Can you, uh, give me your account number or, er, maybe the transaction ID if you have it?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's, um... hold on... TRN-4428-BC. Sorry, I'm just, uh, really stressed about this whole thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I totally, um, I understand. So I'm seeing transaction TRN-4428-BC here and, uh, there's a chargeback filed on October 15th for, hmm, $847.92. I wish I could just—sorry, let me check what options we have."
+        },
+        {
+            "role": "Customer",
+            "content": "Eight hundred? That's... that's my insulin money."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Oh gosh. Okay. Let me see what—I mean, I'm looking at case number CHG-90122-X and. The system shows. Initial review pending. Status."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, look, I delivered everything. The, uh... what's it called... the tracking? Um, shows delivered, signed for, everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so I can see, um, tracking number TRK-556633-AA shows delivered October 2nd, and there's a, uh, signature from—wait, no sorry, that's October 3rd. But yeah, definitely delivered."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you, um, can you fix this? I mean, uh, I know it's not your fault the system's like this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I really, really wish I could just, um, reverse this right now but, uh, the chargeback process is—it's handled by, hmm, a different department. Case CHG-90122-X needs to go through their review and I'm—I'm so frustrated I can't do more."
+        },
+        {
+            "role": "Customer",
+            "content": "My kid needs that medication. Next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay. I'm going to. Escalate this. Priority one. Medical necessity flag on case CHG-90122-X. That should expedite to 24-48 hours instead of the normal two weeks."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, two weeks is the normal? That's, uh... god, thank you for, um, making it faster."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah it's—it's ridiculous, I know. I'm also, um, I'm adding all your delivery proof to file DOC-7789-M right now, so they'll have the, uh, the signature, tracking, everything when they review."
+        },
+        {
+            "role": "Customer",
+            "content": "You're really, um, you're being so helpful. I'm sorry I'm such a, uh, mess about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, please don't—don't apologize. I'd be the same if, um, if it was my kid's medication. Reference number for this call is, uh, REC-445521-QV if you need to follow up."
+        },
+        {
+            "role": "Customer",
+            "content": "REC... um, sorry, can you repeat that? My hands are, uh, kinda shaking."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, of course. It's REC-445521-QV. And um, actually, let me—I'm putting a note here that you should, uh, you should get priority callback within 24 hours about case CHG-90122-X."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-four hours. Okay. That works. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're welcome. I just. I really hope this gets resolved quickly for you. The escalation team should call from 877-555-9900. Answer even if it looks like spam."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm... what's the word... disputing? Um, there's this chargeback thing and, uh, I know you're just doing your job here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, um, let me just—I need to pull that up. Can you, uh, give me your account number or, er, maybe the transaction ID if you have it?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's, um... hold on... TRN-4428-BC. Sorry, I'm just, uh, really stressed about this whole thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I totally, um, I understand. So I'm seeing transaction TRN-4428-BC here and, uh, there's a chargeback filed on October 15th for, hmm, $847.92. I wish I could just—sorry, let me check what options we have."
+        },
+        {
+            "role": "Customer",
+            "content": "Eight hundred? That's... that's my insulin money."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Oh gosh. Okay. Let me see what—I mean, I'm looking at case number CHG-90122-X and. The system shows. Initial review pending. Status."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, look, I delivered everything. The, uh... what's it called... the tracking? Um, shows delivered, signed for, everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so I can see, um, tracking number TRK-556633-AA shows delivered October 2nd, and there's a, uh, signature from—wait, no sorry, that's October 3rd. But yeah, definitely delivered."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you, um, can you fix this? I mean, uh, I know it's not your fault the system's like this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I really, really wish I could just, um, reverse this right now but, uh, the chargeback process is—it's handled by, hmm, a different department. Case CHG-90122-X needs to go through their review and I'm—I'm so frustrated I can't do more."
+        },
+        {
+            "role": "Customer",
+            "content": "My kid needs that medication. Next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay. I'm going to. Escalate this. Priority one. Medical necessity flag on case CHG-90122-X. That should expedite to 24-48 hours instead of the normal two weeks."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, two weeks is the normal? That's, uh... god, thank you for, um, making it faster."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah it's—it's ridiculous, I know. I'm also, um, I'm adding all your delivery proof to file DOC-7789-M right now, so they'll have the, uh, the signature, tracking, everything when they review."
+        },
+        {
+            "role": "Customer",
+            "content": "You're really, um, you're being so helpful. I'm sorry I'm such a, uh, mess about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, please don't—don't apologize. I'd be the same if, um, if it was my kid's medication. Reference number for this call is, uh, REC-445521-QV if you need to follow up."
+        },
+        {
+            "role": "Customer",
+            "content": "REC... um, sorry, can you repeat that? My hands are, uh, kinda shaking."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, of course. It's REC-445521-QV. And um, actually, let me—I'm putting a note here that you should, uh, you should get priority callback within 24 hours about case CHG-90122-X."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-four hours. Okay. That works. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're welcome. I just. I really hope this gets resolved quickly for you. The escalation team should call from 877-555-9900. Answer even if it looks like spam."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "5f59e9ae_script.json",
+    "scenario": "wanting to dispute a chargeback that was filed against them",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "empathetic_to_rep",
+                "vulnerable_trusting"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "regretfully_limited",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "repetition_stutter",
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

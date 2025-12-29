@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ähm, Entschuldigung, ich wollte nur, äh, nachfragen wegen meiner—nein warte, der Warteschlange? Ich meine, ähm, wo ich in der Reihe stehe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ach interessant. Lass mich nachschauen. Welche Warteschlange schauen wir uns. Denn heute an."
+        },
+        {
+            "role": "Customer",
+            "content": "Es geht um den, ähm, Passtermin? Ich glaube, ich bin, äh, ein bisschen blöd, aber ich wollte halt, ähm, nur wissen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ähm, nein nein, gar nicht blöd! Also, äh, lass mich das mal aufrufen und, hmm, ich brauche deine Bestätigungsnummer, ähm, sollte mit PAP-irgendwas anfangen?"
+        },
+        {
+            "role": "Customer",
+            "content": "PAP-7824—Entschuldigung, 7834-Q."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay also, ähm, das ist komisch, ich sehe hier, äh, zwei verschiedene Warteschlangen und, ähm, du bist in beiden? Hmm, lass mich mal, äh, ein bisschen tiefer graben..."
+        },
+        {
+            "role": "Customer",
+            "content": "Moment, ähm, zwei Warteschlangen? Ich verstehe nicht, äh, ist das schlecht? Ähm, sollte ich mir Sorgen machen, weil ich brauche wirklich—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein. Keine Sorge. Lass mich nur. Das herausfinden. Vielleicht ein Systemfehler."
+        },
+        {
+            "role": "Customer",
+            "content": "Entschuldigung. Ich bin halt. Bisschen nervös."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also, ähm, okay das ist eigentlich, äh, ziemlich faszinierend! Dein Antrag PAP-7834-Q wurde, ähm, doppelt angelegt, aber nur die erste Version ist, äh, tatsächlich gültig."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm, aber welche—ich meine, äh, wo stehe ich denn? Also, ähm, wie lange muss ich noch warten?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Position 12. Aktuelle Bearbeitung. 8 Minuten pro Person. Also ungefähr 96 Minuten."
+        },
+        {
+            "role": "Customer",
+            "content": "96 Min—das ist über eine Stunde?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ähm, ja aber, äh, warte warte warte! Ich hab gerade, hmm, was bemerkt. Du bist, ähm, eigentlich berechtigt für die Express-Warteschlange wegen, äh, deinem Reisedatum."
+        },
+        {
+            "role": "Customer",
+            "content": "Bin ich? Ähm, Entschuldigung, ich wusste nicht, äh, ich hätte das wissen müssen? Ich meine, ähm, ich hab wahrscheinlich was falsch ausgefüllt—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Ähm, nein eigentlich, äh, das ist perfekt! Das System hat dich nur, ähm, nicht automatisch zugewiesen, aber ich kann, äh, dich jetzt manuell rüberschieben, ähm, eine Sekunde..."
+        },
+        {
+            "role": "Customer",
+            "content": "Echt? Das ist—wow. Vielen Dank."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Und, ähm, zack! Da haben wir's! Also, äh, du bist jetzt auf Position 3, ähm, in der Express-Warteschlange EXP-7834-Q, und äh, das sind ungefähr 15 Minuten Wartezeit."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm, 15? Das ist, äh, das ist super, tut mir leid, dass ich so, ähm, weißt du, mir wegen nichts Sorgen gemacht hab."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hab's hinbekommen! Diese doppelte Warteschlangen-Sache. Echt interessanter Bug. Gut, dass wir's gefunden haben."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, sorry, I'm just, uh, calling to check my—no wait, the queue? I mean, um, where I am in line?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh interesting. Let me check. What queue are we. Looking at. Today."
+        },
+        {
+            "role": "Customer",
+            "content": "It's for the, um, passport appointment? I think I'm, uh, being silly but I just, um, wanted to know."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, no no, not silly at all! So, uh, let me pull this up and, hmm, I need your confirmation number, um, should start with PAP-something?"
+        },
+        {
+            "role": "Customer",
+            "content": "PAP-7824—sorry, 7834-Q."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, that's weird, I'm seeing, uh, two different queues here and, um, yours is in both? Hmm, let me just, uh, dig into this a bit..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, um, two queues? I don't, uh, is that bad? Um, should I be worried because I really need—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no. Don't worry. Let me just. Figure this out. System glitch maybe."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry. I'm just. Bit anxious."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, okay this is actually, uh, kind of fascinating! Your application PAP-7834-Q got, um, duplicated but only the first instance is, uh, actually valid."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, but which—I mean, uh, where am I? Like, um, how long do I have to wait?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Position twelve. Current processing. Eight minutes per person. So about ninety-six minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Ninety-six min—that's over an hour?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah but, uh, wait wait wait! I just, hmm, noticed something. You're, um, actually eligible for the express queue because of, uh, your travel date."
+        },
+        {
+            "role": "Customer",
+            "content": "I am? Um, sorry, I didn't, uh, I should've known that? I mean, um, I probably filled it out wrong—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, no actually, uh, this is perfect! The system just, um, didn't auto-assign you but I can, uh, manually move you over right now, um, one second..."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? That's—wow. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "And, um, boom! There we go! So, uh, you're now in position three, um, in the express queue EXP-7834-Q, and uh, that's about fifteen minutes wait."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, fifteen? That's, uh, that's amazing, I'm sorry for being so, um, you know, worried about nothing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it sorted! That duplicate queue thing. Super interesting bug. Glad we caught it."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2095d180_script.json",
+    "scenario": "asking about their position in queue or expected wait time",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "panicked_spiral"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "triumphant_problem_solver"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

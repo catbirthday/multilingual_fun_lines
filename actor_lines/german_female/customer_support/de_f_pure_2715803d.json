@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ähm, hallo, ich—ich rufe wegen einer, äh, Kreditkartenreklamation an? Meine Kundin hat—warte, sorry, gegen mich."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, ähm, das tut mir wirklich leid, dass Sie das durchmachen müssen, lassen Sie mich mal eben, äh, Ihr Händlerkonto aufrufen... okay, also ich brauche Ihre Händler-ID-Nummer, die sollte mit MID- anfangen"
+        },
+        {
+            "role": "Customer",
+            "content": "Richtig, das ist äh... MID... warten Sie, ich hab's aufgeschrieben—nein, das ist die andere—MID-4782-PK."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfekt, danke schön, also ich sehe hier MID-4782-PK und, ähm, es tut mir wirklich leid, aber es liegt tatsächlich eine Reklamation vom 23. Oktober über 3.200 € vor, Reklamationsnummer DSP-8847-WQ92, und äh, anscheinend behauptet die Karteninhaberin, die Leistung sei nicht erbracht worden?"
+        },
+        {
+            "role": "Customer",
+            "content": "Aber ich—ich hab doch für sie gekocht! Drei Tage lang, ihre ganze Dinnerparty..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein, ich glaube Ihnen absolut, es tut mir so leid, dass Ihnen das passiert, ähm, diese wohlhabenden Kunden können halt... na ja, jedenfalls, die gute Nachricht ist, Sie haben 10 Tage ab Benachrichtigung, um Ihre Widerspruchsdokumente über unser Portal einzureichen unter disputes.merchantportal.com/case/DSP-8847-WQ92"
+        },
+        {
+            "role": "Customer",
+            "content": "Zehn Tage? Ähm, das ist... werden die mein Geld bis dahin einfrieren oder...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also leider—und das tut mir, äh, wirklich leid—wurden die 3.200 € bereits vorläufig von Ihrem Konto abgebucht bis zur Klärung, Ihr verfügbarer Saldo sollte diese Sperrung unter Referenz HLD-9923-TK anzeigen"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh Gott. Okay. Ähm. Durchatmen. Was—was für Beweise brauchen Sie denn genau?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also, ähm, hier ist was normalerweise am besten funktioniert—und ich hab schon viele davon positiv ausgehen sehen—Sie brauchen Ihren unterschriebenen Vertrag, alle E-Mails oder SMS über die Veranstaltung, Fotos vom Dinner falls Sie welche haben, und fügen Sie auf jeden Fall Ihre Rechnung INV-welche Nummer Sie auch verwendet haben bei"
+        },
+        {
+            "role": "Customer",
+            "content": "Ich fotografiere alles! Ähm, für mein Portfolio, also das ist... das ist doch gut, oder?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, das ist ja sogar perfekt, genau, Richter lieben Fotos mit Zeitstempel, und ähm, da Sie bei uns seit 2019 als verifizierte Händlerin geführt werden, Kontoerstellung zeigt März 2019, MID-4782-PK, diese Glaubwürdigkeit hilft Ihrem Fall auf jeden Fall"
+        },
+        {
+            "role": "Customer",
+            "content": "Sind Sie sicher? Weil das könnte wirklich—ich meine, meine Miete und..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Es tut mir so, äh, es tut mir wirklich leid, dass Sie diesen Stress durchmachen, und ich kann keine Versprechen machen, aber ehrlich? Nach meiner Erfahrung, wenn Köchinnen Fotos und Verträge haben, liegt die Gewinnrate bei so 85%, stellen Sie nur sicher, dass alles für Fall DSP-8847-WQ92 vor dem 2. November hochgeladen wird"
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm, okay also, äh, blöde Frage aber... die können doch nicht so, schlechte Bewertungen hinterlassen während das läuft...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also das ist, ähm, eigentlich komplett getrennt vom Reklamationsverfahren, aber äh, ich meine, unter uns gesagt? Machen Sie jetzt von allem Screenshots, denn wenn das die Sorte ist, die falsche Reklamationen einreicht..."
+        },
+        {
+            "role": "Customer",
+            "content": "Stimmt. Ja. Sie, äh, sie haben meinen Lachs dauernd als „gewöhnlich\" bezeichnet, aber drei Portionen gegessen, also..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ach, tut mir leid, aber da musste ich ein bisschen lachen, ähm, okay also schauen Sie, erwähnen Sie in Ihrer Widerlegung genau was serviert wurde, Mengen, alle Sonderwünsche die gemacht wurden, verweisen Sie auf Ihre ursprüngliche Rechnungsnummer in der Dokumentation, und unser Prüfungsteam bei case.review@disputecenter, die lesen wirklich alles durch"
+        },
+        {
+            "role": "Customer",
+            "content": "Das hilft mir tatsächlich. Ähm. Sorry für die—Sie wissen schon, die Panik und..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh bitte, entschuldigen Sie sich gar nicht, dafür bin ich doch da, und ähm, ehrlich, Sie gehen damit viel besser um als die meisten anderen, denken Sie nur dran, alles bei DSP-8847-WQ92 hochzuladen, das Portal akzeptiert Dateien bis 10MB pro Stück, und äh, falls Sie noch was brauchen, meine Agenten-ID ist SUP-7739-M, ich drücke Ihnen wirklich die Daumen."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm—I'm calling about a, uh, credit card dispute? My client filed—wait, sorry, against me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, I'm so sorry to hear you're dealing with that, let me just, uh, pull up your merchant account here... okay so I need your merchant ID number, it should start with MID-"
+        },
+        {
+            "role": "Customer",
+            "content": "Right, it's uh... MID... hang on, I wrote it—no that's the other—MID-4782-PK."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, thank you, so I'm seeing here MID-4782-PK and, um, I'm really sorry but there is indeed a dispute filed on October 23rd for $3,200, dispute case number DSP-8847-WQ92, and uh, it looks like the cardholder is claiming services not rendered?"
+        },
+        {
+            "role": "Customer",
+            "content": "But I—I cooked for them! Three days, their whole dinner party..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I absolutely believe you, I'm so sorry this is happening, um, these wealthy clients can be... well, anyway, so the good news is you have 10 days from notification to submit your rebuttal documentation through our portal at disputes.merchantportal.com/case/DSP-8847-WQ92"
+        },
+        {
+            "role": "Customer",
+            "content": "Ten days? Um, that's... will they freeze my money until then or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So unfortunately—and I'm, uh, really sorry about this—the $3,200 has already been temporarily withdrawn from your account pending resolution, your available balance should show that hold under reference HLD-9923-TK"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god. Okay. Um. Breathe. What—what proof do you need exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, here's what usually works best—and I've seen a lot of these resolve favorably—you'll want your signed contract, any emails or texts about the event, photos from the dinner if you have them, and definitely include your invoice INV-whatever number you used"
+        },
+        {
+            "role": "Customer",
+            "content": "I take photos of everything! Um, for my portfolio, so that's... that's good right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's perfect actually, yeah, judges love photos with timestamps, and um, since you're in our system as a verified merchant since 2019, account creation date shows March 2019, MID-4782-PK, that credibility definitely helps your case"
+        },
+        {
+            "role": "Customer",
+            "content": "You're sure? Because this could really—I mean, my rent and..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm so, uh, I'm really sorry you're going through this stress, and I can't make promises but honestly? In my experience, when chefs have photos and contracts, it's like an 85% win rate, just make sure everything gets uploaded to case DSP-8847-WQ92 before November 2nd"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so, uh, stupid question but... they can't like, leave bad reviews while this is happening...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So that's, um, actually completely separate from the dispute process, but uh, I mean between you and me? Screenshot everything now, because if they're the type to file a false dispute..."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Yeah. They, uh, they kept calling my salmon \"pedestrian\" but ate three servings so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ugh, I'm sorry but that made me laugh a little, um, okay so look, make sure in your rebuttal you mention exactly what was served, quantities, any special requests they made, reference your original invoice number in the documentation, and our review team at case.review@disputecenter, they really do read everything"
+        },
+        {
+            "role": "Customer",
+            "content": "This is actually helping. Um. Sorry for the—you know, the panic and..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please, don't even apologize, this is literally what I'm here for, and um, honestly you're handling this way better than most people would, just remember upload everything to DSP-8847-WQ92, the portal accepts files up to 10MB each, and uh, if you need anything else my agent ID is SUP-7739-M, genuinely rooting for you here."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2715803d_script.json",
+    "scenario": "private chef, dealing with a wealthy client who filed a credit card dispute against her",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "anxious_worried",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "breath_catches",
+                    "trailing_off",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "awkwardly_apologetic",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

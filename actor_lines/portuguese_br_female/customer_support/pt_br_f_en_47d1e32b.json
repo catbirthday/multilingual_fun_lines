@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, yeah so I'm just—hmm, I guess I'm not getting my, uh, my codes? The two-factor thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it. So let me pull up your account here, what I need first is your email address and then I can check the authentication logs in system ACC-7294-B."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, let me think—no wait, actually it's, uh, jsmith at, um, techmail dot com."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay so, um, I'm seeing here that, uh, hmm, there've been seventeen attempts in the last, um, probably about two hours on account USR-88456-JX and, uh, none of them completed, so that's definitely, um, not right."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventeen? I tried maybe five times."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right so, um, what happens is, uh, the system sometimes, hmm, it sort of retries on its own when there's a, um, a delivery failure, you know? Let me check SMS gateway SGW-4419-Q here."
+        },
+        {
+            "role": "Customer",
+            "content": "Just need to get in. That's all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so I'm seeing, uh, hmm, let me see here... okay so your number ending in 7749 is, um, is marked active but there's a, uh, carrier block code CBK-9902 showing up."
+        },
+        {
+            "role": "Customer",
+            "content": "Carrier block? I've been—no wait, um, I've had this number for, uh, probably eight years? Maybe nine?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah absolutely, so what happens sometimes is carriers update their spam filters and legitimate codes get caught, happens with authentication messages all the time, I can override this with bypass protocol BYP-3847-MK."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so that's—hmm, okay so that means what? I just, uh, wait? Or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, so I'm actually fixing it right now, just need about thirty seconds here to push override OVR-6623-PT through the gateway and reset your authentication preferences."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been a customer for, um, for six years? And I'm just—I mean, uh, this shouldn't happen, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely shouldn't happen. Got your override processed, now I'm generating a test code TCX-994502 to verify the pathway's clear."
+        },
+        {
+            "role": "Customer",
+            "content": "Six years and I can't even, um, can't just log in? It's sort of, uh, ridiculous?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Test went through perfect. You should get codes instantly now, and I've added priority flag PRF-8826-VL to your account so this won't happen again."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, let me, uh, let me try it now then—no wait, um, should I wait? Or just...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Try it right now while I'm here, that way if there's any issue I can fix it immediately with elevated access token TKN-55439-RD that I've got active."
+        },
+        {
+            "role": "Customer",
+            "content": "Got it. Worked."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, and just so you know I've documented everything under case number CSE-77812-QM with a full credit for today's inconvenience, should post within twenty-four hours to your account."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, yeah so I'm just—hmm, I guess I'm not getting my, uh, my codes? The two-factor thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it. So let me pull up your account here, what I need first is your email address and then I can check the authentication logs in system ACC-7294-B."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, let me think—no wait, actually it's, uh, jsmith at, um, techmail dot com."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay so, um, I'm seeing here that, uh, hmm, there've been seventeen attempts in the last, um, probably about two hours on account USR-88456-JX and, uh, none of them completed, so that's definitely, um, not right."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventeen? I tried maybe five times."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right so, um, what happens is, uh, the system sometimes, hmm, it sort of retries on its own when there's a, um, a delivery failure, you know? Let me check SMS gateway SGW-4419-Q here."
+        },
+        {
+            "role": "Customer",
+            "content": "Just need to get in. That's all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so I'm seeing, uh, hmm, let me see here... okay so your number ending in 7749 is, um, is marked active but there's a, uh, carrier block code CBK-9902 showing up."
+        },
+        {
+            "role": "Customer",
+            "content": "Carrier block? I've been—no wait, um, I've had this number for, uh, probably eight years? Maybe nine?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah absolutely, so what happens sometimes is carriers update their spam filters and legitimate codes get caught, happens with authentication messages all the time, I can override this with bypass protocol BYP-3847-MK."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so that's—hmm, okay so that means what? I just, uh, wait? Or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, so I'm actually fixing it right now, just need about thirty seconds here to push override OVR-6623-PT through the gateway and reset your authentication preferences."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been a customer for, um, for six years? And I'm just—I mean, uh, this shouldn't happen, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely shouldn't happen. Got your override processed, now I'm generating a test code TCX-994502 to verify the pathway's clear."
+        },
+        {
+            "role": "Customer",
+            "content": "Six years and I can't even, um, can't just log in? It's sort of, uh, ridiculous?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Test went through perfect. You should get codes instantly now, and I've added priority flag PRF-8826-VL to your account so this won't happen again."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, let me, uh, let me try it now then—no wait, um, should I wait? Or just...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Try it right now while I'm here, that way if there's any issue I can fix it immediately with elevated access token TKN-55439-RD that I've got active."
+        },
+        {
+            "role": "Customer",
+            "content": "Got it. Worked."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, and just so you know I've documented everything under case number CSE-77812-QM with a full credit for today's inconvenience, should post within twenty-four hours to your account."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "47d1e32b_script.json",
+    "scenario": "reporting issues with two-factor authentication not sending codes",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "resigned_going_through_motions",
+                "indignant_righteous"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words",
+                    "vocalized_thinking",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

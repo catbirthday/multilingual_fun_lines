@@ -1,0 +1,92 @@
+=== Source: 1b76135e_script.json ===
+Language: French
+Gender: female
+Mode: pure
+Content Type: customer_support
+Scenario: academic advisor, patient and systematic about explaining a tuition reimbursement problem
+
+=== Translated Dialogue ===
+
+Customer [pure]: Euh, bonjour, alors j'appelle pour, euh, comment dire... le remboursement ? Pour mon personnel ?
+
+Customer Support [pure]: Bon. D'accord. Alors attendez—en fait non—je suis en train d'ouvrir le portail de remboursement là. C'est quoi votre matricule pour que je—non, on va régler ça pour vous.
+
+Customer [pure]: C'est, euh, probablement genre E-4-4-7-8-9 ? Je crois ? Peut-être ?
+
+Customer Support [pure]: E44789, c'est noté. Okay alors je vois... hmm. Votre compte affiche un statut en attente depuis—attendez, depuis octobre ? C'est pas normal ça. Je vais regarder la demande numéro CLM-99204-TRE parce que ça devrait pas prendre trois mois.
+
+Customer [pure]: Voilà ! Euh, exactement, donc genre, j'ai tout soumis, euh, le 10 octobre, et puis, euh, rien ne s'est passé, vous voyez ?
+
+Customer Support [pure]: Non non non. C'est—attendez—c'est inadmissible. Votre dossier de documents DPC-88516-A apparaît comme reçu et complet. Les RH ont signé. Les Affaires Académiques ont signé. Alors pourquoi est-ce que les Finances sont juste... en train de faire du sur-place ?
+
+Customer [pure]: Voilà c'est, euh, c'est ce que j'arrête pas de demander ! Désolée, je—*petit rire nerveux*—c'est un peu ridicule, non ?
+
+Customer Support [pure]: Ne vous excusez pas. Vous avez raison d'être—en fait, j'escalade ça. Tout de suite. Le dossier ESC-70923-B est en cours de création et je le marque prioritaire parce que trois mois pour un remboursement de frais de scolarité, c'est absolument pas notre standard.
+
+Customer [pure]: Euh, oh wow, enfin, euh, je veux pas causer de problèmes ou quoi que ce soit...
+
+Customer Support [pure]: Vous causez pas—non, écoutez. Les fonds de développement du corps enseignant sont... ils sont faits pour être utilisés. Pas pour être pris en otage. Votre soumission SUB-44789-OCT montre que vous avez suivi absolument tous les protocoles. C'est notre échec. Pas le vôtre.
+
+Customer [pure]: C'est juste que, euh, peut-être j'ai mal rempli quelque chose ? J'ai tendance à, euh, trop réfléchir avec ces formulaires ?
+
+Customer Support [pure]: Que ce soit clair. Le formulaire TRF-2023-Q4 que vous avez soumis ? Parfait. Chaque champ. Chaque signature. Même la pièce jointe ATT-6B avec votre syllabus de l'université. Rien à redire.
+
+Customer [pure]: Oh. Euh. C'est... ah bon. Désolée, je suis probablement, genre, trop intense avec toute cette histoire ?
+
+Customer Support [pure]: Arrêtez. De vous excuser. En fait—attendez—je vois quelque chose dans le système. La note NTE-55412 dit "en attente d'approbation secondaire" mais... mais vous l'avez déjà. Depuis le 15 octobre.
+
+Customer [pure]: Oui je, euh, Dr Mills l'a signée ? Genre immédiatement en fait ?
+
+Customer Support [pure]: Exact exact. Donc c'est juste... bloqué. Dans une espèce de boucle administrative. Mais voilà ce que je—non attendez—voilà ce qu'on fait. Le code override OVR-30019-XM me permet de contourner ce flag d'approbation secondaire vu qu'elle est déjà là.
+
+Customer [pure]: Euh, vous pouvez, euh, vous pouvez faire ça ? C'est, genre, autorisé ?
+
+Customer Support [pure]: Absolument autorisé. Quand le système foire, on répare. Et... voilà. L'autorisation de paiement PAY-78823-EDU est maintenant active. Ça devrait être traité dans les... 48 heures. 72 maximum.
+
+Customer [pure]: Oh mon dieu, euh, merci ? Je suis désolée d'avoir été si, euh, dispersée et probablement agaçante ?
+
+Customer Support [pure]: Vous avez été patiente. Méthodique. Claire. Tout ce qu'une conseillère académique devrait être quand notre service financier fait n'importe quoi. Vérifiez vos emails pour la confirmation CNF-44789-COMPLETE, et si c'est pas sur votre compte d'ici vendredi ? Appelez-moi directement. Poste 4-5-5-2.
+
+
+=== Original (English) ===
+
+Customer: Um, hi, so I'm calling about, uh, what's the word... reimbursement? For my staff?
+
+Customer Support: Right. Okay. So let me just—actually wait—I'm pulling up the reimbursement portal now. What's your employee ID so I can—no, we're gonna get this sorted for you.
+
+Customer: It's, um, probably like E-4-4-7-8-9? I think? Maybe?
+
+Customer Support: E44789, got it. Okay so I'm seeing... hmm. Your account shows pending status since—wait, since October? That's not right. Let me dig into claim number CLM-99204-TRE here because this shouldn't be taking three months.
+
+Customer: Right! Um, exactly, so like, I submitted everything, uh, October tenth, and then, um, nothing happened, you know?
+
+Customer Support: No no no. This is—let me just—this is unacceptable. Your documentation packet DPC-88516-A shows received and complete. HR signed off. Academic Affairs signed off. So why is Finance just... sitting on this?
+
+Customer: See that's, uh, that's what I keep asking! Sorry, I'm just—nervous laugh—it's kinda ridiculous?
+
+Customer Support: Don't apologize. You're right to be—actually, I'm escalating this. Right now. Case ESC-70923-B is being created and I'm marking it priority because three months for tuition reimbursement is absolutely not our standard.
+
+Customer: Um, oh wow, I mean, uh, I don't wanna cause trouble or anything...
+
+Customer Support: You're not causing—no, listen. Faculty development funds are... they're meant to be used. Not held hostage. Your submission SUB-44789-OCT shows you followed every single protocol. This is our failure. Not yours.
+
+Customer: I just, um, maybe I filled something wrong? I tend to, uh, overthink these forms?
+
+Customer Support: Let me be clear. Form TRF-2023-Q4 that you submitted? Perfect. Every field. Every signature. Even attachment ATT-6B with your course syllabus from the university. Nothing wrong here.
+
+Customer: Oh. Um. That's... huh. Sorry, I'm probably being, like, too much about this whole thing?
+
+Customer Support: Stop. Apologizing. Actually—hang on—I'm seeing something in the system. Note NTE-55412 says "awaiting secondary approval" but... but you already have that. From October fifteenth.
+
+Customer: Yeah I, um, Dr. Mills signed it? Sort of immediately actually?
+
+Customer Support: Right right. So this is just... stuck. In some bureaucratic loop. But here's what I'm—no wait—here's what we're doing. Override code OVR-30019-XM lets me bypass that secondary approval flag since it's already there.
+
+Customer: Um, you can, uh, you can do that? Is that, like, allowed?
+
+Customer Support: Absolutely allowed. When the system fails, we fix it. And... done. Payment authorization PAY-78823-EDU is now active. Should process within... forty-eight hours. Seventy-two max.
+
+Customer: Oh my god, um, thank you? I'm sorry I was so, uh, scattered and probably annoying?
+
+Customer Support: You were patient. Systematic. Clear. Everything an academic advisor should be when our finance department drops the ball. Check your email for confirmation CNF-44789-COMPLETE, and if this isn't in your account by Friday? Call me directly. Extension 4-5-5-2.
+

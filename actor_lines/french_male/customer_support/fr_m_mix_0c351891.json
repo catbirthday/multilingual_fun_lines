@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Salut, euh, j'ai été chargé—attends non, il y a des frais de retard sur mon compte et, euh, j'ai besoin—je pense que c'est une erreur?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh non, je suis je suis vraiment désolé d'entendre ça. Alors en gros, euh, laisse-moi juste ouvrir ton compte ici et, euh, we'll get this sorted out for you, d'accord d'accord?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ça dit 35 dollars mais j'ai payé—j'ai définitivement payé à temps, t'es sûr que tu peux arranger ça?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je comprends complètement ton inquiétude, vraiment. Alors euh, je regarde le numéro de compte ACC-4421-QV et, euh, I can see the fee that was applied on the 23rd."
+        },
+        {
+            "role": "Customer",
+            "content": "Le 23? Mais j'ai—attends, j'ai payé le—non attends, laisse-moi vérifier—le 20, definitely the 20th."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, alors laisse-moi juste, euh, creuser un peu plus ici parce que, euh, sometimes the system, it's not perfect, tu sais? Je vois la référence de paiement PAY-88205-K posted on the 20th."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactement! Alors pourquoi—comment je sais que ça va pas se reproduire? This is making me really nervous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ouais ouais, je comprends totalement. Euh, alors en gros ce qui s'est passé c'est, euh, there was a processing delay on our end et, hmm, c'est c'est de notre faute, pas la tienne."
+        },
+        {
+            "role": "Customer",
+            "content": "Un délai? Mais c'est—t'es sûr? Je veux dire, euh, what if you're just saying that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Non non, je te promets, je peux le voir juste ici. Alors l'ID de transaction c'est, euh, TXN-990547-BZ et ça montre, euh, notre système l'a marqué incorrectement. Genre, ça arrive parfois et c'est c'est vraiment frustrant."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay mais euh, est-ce que tu peux vraiment—j'ai besoin de preuves, I can't just—what if it happens next month?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolument, alors alors ce que je fais maintenant c'est, euh, je je reverse complètement ces frais, et euh, I'm also adding a note to your account, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Tu le reverses? Maintenant? Mais comment—attends, how long does that take?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors en gros, euh, le crédit va apparaître comme pending avec le code CRD-4429-LP dans environ, euh, 10 minutes, and then it's fully processed within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "24 heures... euh, c'est—okay mais qu'est-ce qui se passe si—I'm worried they'll charge me again, tu sais?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je t'entends, vraiment. Alors euh, ce que j'ai fait c'est, euh, j'ai ajouté le code d'exemption EXM-7701-D pour empêcher des frais de retard pour les, euh, 3 prochains cycles de facturation, just to be safe."
+        },
+        {
+            "role": "Customer",
+            "content": "3 cycles? C'est—attends, c'est normal ça? Comment je sais—can I get that in writing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bien sûr bien sûr! Alors je je t'envoie un email maintenant avec, euh, le numéro de confirmation CNF-335982-MQ et, euh, it'll have all these details, tout ce qu'on a discuté."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, okay, je suppose—mais t'es sûr? Genre vraiment sûr? This won't—it won't mess up my credit or anything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolument certain. Alors alors cet ajustement, euh, ça n'affecte pas ton crédit du tout, et euh, j'ai aussi ajouté le numéro de dossier CSE-1105-RT pour tes archives. Genre, you're completely covered here, je te promets."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, um, I got charged—wait no, there's a late fee on my account and, uh, I need—I think it's wrong?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm I'm really sorry to hear that's happened. So basically, um, let me just pull up your account here and, uh, we'll get this sorted out for you, okay okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "It says thirty-five dollars but I paid—I definitely paid on time, are you sure you can fix this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern, I really do. So um, I'm looking at account number ACC-4421-QV and, uh, I can see the fee that was applied on the twenty-third."
+        },
+        {
+            "role": "Customer",
+            "content": "The twenty-third? But I—wait, I paid on the—no hold on, let me check—the twentieth, definitely the twentieth."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so let me just, um, dig a bit deeper here because, uh, sometimes the system, it's it's not perfect, you know? I see payment reference PAY-88205-K posted on the twentieth."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly! So why—how do I know this isn't gonna happen again? This is making me really nervous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I totally get that. Um, so basically what happened is, uh, there was a processing delay on our end and, hmm, that's that's on us, not you."
+        },
+        {
+            "role": "Customer",
+            "content": "A delay? But that's—are you sure? I mean, uh, what if you're just saying that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I promise you, I can see it right here. So the transaction ID is, um, TXN-990547-BZ and it shows, uh, our system flagged it incorrectly. Like, this happens sometimes and it's it's really frustrating."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay but um, can you actually—I need proof, I can't just—what if it happens next month?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, so so what I'm doing right now is, um, I'm I'm reversing that charge completely, and uh, I'm also adding a note to your account, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "You're reversing it? Right now? But how—wait, how long does that take?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, the credit will show as pending with code CRD-4429-LP in about, uh, ten minutes, and then it's it's fully processed within twenty-four hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-four hours... um, that's—okay but what about—I'm worried they'll charge me again, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, I really do. So um, what I've done is, uh, I've added exemption code EXM-7701-D to prevent any late fees for the next, um, three billing cycles, just to be safe."
+        },
+        {
+            "role": "Customer",
+            "content": "Three cycles? That's—wait, is that normal? How do I know—can I get that in writing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course of course! So I'm I'm sending you an email right now with, um, confirmation number CNF-335982-MQ and, uh, it'll have all these details, everything we discussed."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay, I guess—but you're sure? Like really sure? This won't—it won't mess up my credit or anything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely certain. So so this adjustment, um, it doesn't affect your credit at all, and uh, I've also added case number CSE-1105-RT for your records. Like, you're you're completely covered here, I promise."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "0c351891_script.json",
+    "scenario": "trying to dispute a late fee they believe was charged incorrectly",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "anxious_worried",
+                "suspicious_paranoid"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "new_and_eager"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

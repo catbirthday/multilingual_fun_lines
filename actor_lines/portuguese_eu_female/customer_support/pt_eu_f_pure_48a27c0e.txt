@@ -1,0 +1,92 @@
+=== Source: 48a27c0e_script.json ===
+Language: European Portuguese
+Gender: female
+Mode: pure
+Content Type: customer_support
+Scenario: upset because the product broke right after the warranty expired
+
+=== Translated Dialogue ===
+
+Customer [pure]: Pois então a minha a minha liquidificadora avariou. A garantia expirou a semana passada.
+
+Customer Support [pure]: Ah, hum, lamento mesmo ouvir isso. Então deixe-me só—aliás espera, deixe-me, é... abrir aqui primeiro a tua conta. Podes dar-me o teu, hum, o teu número de encomenda ou o email que usaste?
+
+Customer [pure]: Está está na caixa algures. Espera espera.
+
+Customer Support [pure]: Sem pressa nenhuma. Enquanto procuras, também posso, é... procurar pelo teu número de telefone se for... como é que se diz... mais conveniente? Então basicamente, hum, só preciso de qualquer forma de encontrar a tua conta aqui no sistema.
+
+Customer [pure]: Hum, está bem então é, é... james ponto carter arroba gmail. Esse é esse é o email.
+
+Customer Support [pure]: Perfeito, perfeito. Então estou a ver aqui... ok então a tua conta ACC-45821-J mostra que compraste a, hum, a ProBlend 5000 a 15 de outubro do ano passado, e isso faria a data de expiração da tua garantia, é... deixa-me só calcular... 15 de outubro deste ano, que foi, bem, exatamente há oito dias.
+
+Customer [pure]: Oito dias. Claro claro que são oito dias.
+
+Customer Support [pure]: Pois, eu sei, o timing é mesmo—deixa-me só—aliás, hum, antes de continuarmos, podes dizer-me o que é que aconteceu exatamente? Tipo, é... qual é o... qual é o problema específico que estás a ter?
+
+Customer [pure]: Hum, simplesmente, é... não liga mais. Nada. Morta morta morta.
+
+Customer Support [pure]: Ok então, hum, quero explicar-te umas coisas aqui, e, é... aqui entre nós? A tua garantia expirou no dia 15 com número de referência WAR-2023-10-88745, mas, bem, há uma coisa chamada... como é que se chama... um período de carência que, hum, nem toda a gente conhece.
+
+Customer [pure]: Período de carência? Como é que eu sei—espera, como é que eu sei que isto não é só algum algum truque?
+
+Customer Support [pure]: Não não, pergunta totalmente justa. Então deixa-me explicar—aliás, é... deixa-me recomeçar. No teu documento de garantia, hum, se olhares para a secção 7.2 sob o código GRACE-EXT-30, basicamente diz que para, é... para falhas dentro de trinta dias da expiração, podemos... bem, podemos rever para o que eles chamam "exceções de falha catastrófica."
+
+Customer [pure]: Eu não—quer dizer já não tenho esse papel. Devo ter deitado fora provavelmente.
+
+Customer Support [pure]: Não faz mal, não faz mal nada. Então, hum, olha o que estou a ver no teu processo CSE-99412-BRK. A ProBlend 5000 tem tido alguns, é... alguns problemas conhecidos com a... como é que se diz... a placa controladora do motor? E aqui entre nós, hum, temos aprovado a maioria destes mesmo depois da garantia.
+
+Customer [pure]: Hum, então estás estás a dizer que talvez substituam mesmo?
+
+Customer Support [pure]: Bem, então, é... preciso de—deixa-me só—preciso de submeter isto para revisão primeiro. Mas, hum, baseando-me no que estou a ver com o código de falha FLC-MOTOR-500 no nosso sistema, e o facto de serem só, é... oito dias depois? Diria que tens uma muito, bem, uma muito boa hipótese aqui.
+
+Customer [pure]: Ok ok, então o que o que é que preciso de fazer?
+
+Customer Support [pure]: Certo, então, hum, super simples na verdade. Vou, é... criar um número de processo para ti agora mesmo—vai ser, bem, deixa-me gerar isto... CAS-2024-78823-JC. E depois só precisas de, hum, de tirar uma foto do número de série na parte de baixo e, é... enviar por email para o nosso departamento de reclamações.
+
+Customer [pure]: Número de série, parte de baixo, percebi percebi. E depois e depois o quê?
+
+Customer Support [pure]: Então quando eles receberem isso, hum, e esta é a parte boa, como estou a pôr aqui uma nota com, é... com código de exceção EXC-GRACE-APPROVED-PENDING, eles devem basicamente só, bem, carimbar e pronto. Vais ter notícias em tipo, hum, dois a três dias úteis, e depois enviamos-te uma unidade de substituição com número de tracking a começar por TRK.
+
+
+=== Original (English) ===
+
+Customer: Yeah so my my blender broke. Warranty expired last week.
+
+Customer Support: Oh, um, I'm really sorry to hear that. So let me just—actually wait, let me, uh, pull up your account here first. Can you give me your, um, your order number or the email you used?
+
+Customer: It's it's on the box somewhere. Hold on hold on.
+
+Customer Support: No rush at all. While you're looking, I can also, uh, search by your phone number if that's... what's the word... more convenient? So basically, um, I just need any way to find your account in the system here.
+
+Customer: Um, okay so it's, uh, james dot carter at gmail. That's that's the email.
+
+Customer Support: Perfect, perfect. So I'm seeing here... okay so your account ACC-45821-J shows you purchased the, um, the ProBlend 5000 on October 15th last year, and that would make your warranty expiration date, uh, let me just calculate... October 15th this year, which was, hmm, exactly eight days ago.
+
+Customer: Eight days. Of course of course it's eight days.
+
+Customer Support: Yeah, I know, the timing is really—let me just—actually, um, before we go further, can you tell me what exactly happened with it? Like, uh, what's the... what's the specific issue you're experiencing?
+
+Customer: Um, it just, uh, won't turn on anymore. Nothing. Dead dead dead.
+
+Customer Support: Okay so, um, I want to walk you through a couple things here, and, uh, between you and me? Your warranty expired on the 15th with reference number WAR-2023-10-88745, but, hmm, there's something called a... what's it called... a grace period that, um, not everyone knows about.
+
+Customer: Grace period? How do I know—wait, how do I know this isn't just some some trick?
+
+Customer Support: No no, totally fair question. So let me explain—actually, uh, let me start over. In your warranty document, um, if you look at section 7.2 under code GRACE-EXT-30, it basically says that for, uh, for failures within thirty days of expiration, we can... hmm, we can review for what they call "catastrophic failure exceptions."
+
+Customer: I don't—I mean I don't have that paper anymore. Threw it out probably.
+
+Customer Support: That's fine, that's totally fine. So, um, here's what I'm seeing in your case file CSE-99412-BRK. The ProBlend 5000 has had some, uh, some known issues with the... what's the term... the motor controller board? And between you and me, um, we've been approving most of these even past warranty.
+
+Customer: Um, so you're you're saying you might actually replace it?
+
+Customer Support: Well, so, uh, I need to—let me just—I need to submit this for review first. But, um, based on what I'm seeing with failure code FLC-MOTOR-500 in our system, and the fact that it's only, uh, eight days past? I'd say you have a really, hmm, a really good chance here.
+
+Customer: Okay okay, so what what do I need to do then?
+
+Customer Support: Right, so, um, super simple actually. I'm going to, uh, create a case number for you right now—that's going to be, hmm, let me generate this... CAS-2024-78823-JC. And then you'll just need to, um, to take a photo of the serial number on the bottom and, uh, email that to our claims department.
+
+Customer: Serial number, bottom, got it got it. And then and then what?
+
+Customer Support: So once they get that, um, and this is the good part, since I'm putting a note here with, uh, with exception code EXC-GRACE-APPROVED-PENDING, they should basically just, hmm, rubber stamp it. You'll hear back in like, um, two to three business days, and then we'll ship you a replacement unit with tracking number starting with TRK.
+

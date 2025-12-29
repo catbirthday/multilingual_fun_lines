@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I need to get some, uh, documentation for a purchase I made?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so, um, I can definitely help with that, let me just—let me just pull up your account here and, uh, basically what we'll need is your order number or, um, the email address you used?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's for my job—I'm a park ranger and the, um... the deadline is tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh oh, right right, so so you need this for, um, for reimbursement, and—and I totally get that, like deadlines are, uh, they're they're really stressful, so let me see what information you have and we'll get this sorted quickly, do you have an order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "I think—no wait, let me check—it should be... somewhere here..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries, um, take your time, or or if you have the, uh, the approximate date or even just, like, what the purchase was for, I can—I can search for it that way?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it was, uh, GPS equipment? Like two weeks ago, maybe, um, the fifteenth?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, so so I'm seeing, um, let me just—okay so there's an order here, ORD-4521-GPS, placed on October fifteenth for, uh, for a Garmin unit, total was $487.92, is—is that the one?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! That's it. Are you sure you can get me the paperwork today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So unfortunately—and and I really wish I had, um, better news here—the standard documentation usually takes, uh, takes like 24 to 48 hours to process through our system, which which I know doesn't help with your deadline..."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course. Just... tell me what I need to do then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "But but wait, so, um, between you and me? I'm gonna—I'm gonna try something here, there's this, uh, this expedited receipt function we have for, like, corporate accounts, and technically technically park services might qualify?"
+        },
+        {
+            "role": "Customer",
+            "content": "Really? I mean, that would actually... is that allowed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so so I've just, um, I've tagged your request as priority code PRI-889X and, uh, basically what I'm doing is—is routing it through our, like, our government services channel?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay, so how long will that—when would I actually get it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So so with this—with this priority routing, you should, um, you should have the full documentation with receipt number RCP-4521-DOC in your email within, uh, within the next two hours, maybe maybe even sooner?"
+        },
+        {
+            "role": "Customer",
+            "content": "Two hours? Are you absolutely sure? Because if it doesn't come..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I—I totally understand your concern, and and honestly, um, I'm showing here that 95% of these priority requests process in under, uh, under an hour, so so you should be fine, but but just to be safe, I'm also adding my direct extension, it's 5847?"
+        },
+        {
+            "role": "Customer",
+            "content": "Okay, um, that's... what's the word... really above and beyond. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, it's—it's my pleasure, and and honestly, like, park rangers do such important work, so, um, I've confirmed everything's submitted with tracking ID TRK-90021-RUSH, and uh, you should be all set for your deadline tomorrow!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I need to get some, uh, documentation for a purchase I made?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so, um, I can definitely help with that, let me just—let me just pull up your account here and, uh, basically what we'll need is your order number or, um, the email address you used?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's for my job—I'm a park ranger and the, um... the deadline is tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh oh, right right, so so you need this for, um, for reimbursement, and—and I totally get that, like deadlines are, uh, they're they're really stressful, so let me see what information you have and we'll get this sorted quickly, do you have an order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "I think—no wait, let me check—it should be... somewhere here..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries, um, take your time, or or if you have the, uh, the approximate date or even just, like, what the purchase was for, I can—I can search for it that way?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it was, uh, GPS equipment? Like two weeks ago, maybe, um, the fifteenth?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, so so I'm seeing, um, let me just—okay so there's an order here, ORD-4521-GPS, placed on October fifteenth for, uh, for a Garmin unit, total was $487.92, is—is that the one?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! That's it. Are you sure you can get me the paperwork today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So unfortunately—and and I really wish I had, um, better news here—the standard documentation usually takes, uh, takes like 24 to 48 hours to process through our system, which which I know doesn't help with your deadline..."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course. Just... tell me what I need to do then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "But but wait, so, um, between you and me? I'm gonna—I'm gonna try something here, there's this, uh, this expedited receipt function we have for, like, corporate accounts, and technically technically park services might qualify?"
+        },
+        {
+            "role": "Customer",
+            "content": "Really? I mean, that would actually... is that allowed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so so I've just, um, I've tagged your request as priority code PRI-889X and, uh, basically what I'm doing is—is routing it through our, like, our government services channel?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay, so how long will that—when would I actually get it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So so with this—with this priority routing, you should, um, you should have the full documentation with receipt number RCP-4521-DOC in your email within, uh, within the next two hours, maybe maybe even sooner?"
+        },
+        {
+            "role": "Customer",
+            "content": "Two hours? Are you absolutely sure? Because if it doesn't come..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I—I totally understand your concern, and and honestly, um, I'm showing here that 95% of these priority requests process in under, uh, under an hour, so so you should be fine, but but just to be safe, I'm also adding my direct extension, it's 5847?"
+        },
+        {
+            "role": "Customer",
+            "content": "Okay, um, that's... what's the word... really above and beyond. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, it's—it's my pleasure, and and honestly, like, park rangers do such important work, so, um, I've confirmed everything's submitted with tracking ID TRK-90021-RUSH, and uh, you should be all set for your deadline tomorrow!"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "464d465f_script.json",
+    "scenario": "park ranger, needing documentation for a work reimbursement claim before the deadline",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "anxious_worried",
+                "resigned_going_through_motions"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "trailing_off",
+                    "false_starts",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "regretfully_limited",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

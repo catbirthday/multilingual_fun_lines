@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi there! So I'm calling about this, uh, expense report that got—well, it came back denied and I just thought maybe we could..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, let me, um, pull that up. Need your, uh, employee ID first."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh sure, it's, um, let me see here... E-4-7-2-9. Sorry, I mean E-4-7-3-9!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. E-4739. Um, looking here... expense report EXP-2024-1182, submitted, uh, last Tuesday. Give me just... okay okay, seeing the denial code."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, so like, I know you're probably busy but, um, it was just for team snacks after the tournament and I thought that was—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so, um, the code here is, uh, NC-447 which is... hmm... \"non-covered athletic expense.\" System's showing, um, snacks aren't in the approved category under, uh, policy ATH-9921-B."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Well that's... I mean other coaches have definitely gotten snacks reimbursed before, so I just assumed..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah, I'm, uh, really sorry about this. Let me just... diving deeper here... transaction TXN-88142-QV shows $47.82 at, um, Price Mart?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right, exactly! And like, these kids just played their hearts out for three hours, you know? I mean, we can't just send them home hungry after all that..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm, uh, I'm checking the guidelines and, um, it's it's pretty strict on this. Really sorry. The, uh, the policy revision from January made it, um, more restrictive."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay but wait, sorry, can we just—I mean, Head Coach Martinez literally told me to buy the snacks. Like, explicitly said \"go get snacks for the kids\"..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Oh that's, um, different then. Let me, uh, add a note here. If you have, um, authorization from—wait, Martinez, that's that's department head level, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah! Exactly! So like, I'm not trying to be difficult here but I basically got thrown under the bus for following instructions, which seems..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're, uh, you're absolutely right. I'm um, really sorry about this. Let me, uh, flag this for review with code SUP-AUTH-01. That that changes things."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh good! Because honestly? I was about to just—I mean, forty-seven bucks isn't gonna break me but it's the principle of it, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally totally get it. Um, so I'm, uh, escalating to claims review with reference REF-6639-MZ. They'll, um, they'll need Coach Martinez to, uh, confirm the authorization but then it should should process."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect! See, I knew there had to be some way to... And hey, thanks for actually listening, you know? Some people just shut you down immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, um, happy to help. The the review takes, uh, usually 3-5 days and you'll get, um, an email to case number CSE-10847-RT when it's, uh, when it's resolved."
+        },
+        {
+            "role": "Customer",
+            "content": "That's great, really appreciate it. Oh and um, just curious—going forward, is there like a different code I should use for team snacks or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, for future, use, uh, category code CAT-18 \"team morale\" instead of CAT-22 \"equipment.\" That that should, um, prevent this. Added a note to your profile, EMP-4739-NOTE."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi there! So I'm calling about this, uh, expense report that got—well, it came back denied and I just thought maybe we could..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, let me, um, pull that up. Need your, uh, employee ID first."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh sure, it's, um, let me see here... E-4-7-2-9. Sorry, I mean E-4-7-3-9!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. E-4739. Um, looking here... expense report EXP-2024-1182, submitted, uh, last Tuesday. Give me just... okay okay, seeing the denial code."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, so like, I know you're probably busy but, um, it was just for team snacks after the tournament and I thought that was—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so, um, the code here is, uh, NC-447 which is... hmm... \"non-covered athletic expense.\" System's showing, um, snacks aren't in the approved category under, uh, policy ATH-9921-B."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Well that's... I mean other coaches have definitely gotten snacks reimbursed before, so I just assumed..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah, I'm, uh, really sorry about this. Let me just... diving deeper here... transaction TXN-88142-QV shows $47.82 at, um, Price Mart?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right, exactly! And like, these kids just played their hearts out for three hours, you know? I mean, we can't just send them home hungry after all that..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm, uh, I'm checking the guidelines and, um, it's it's pretty strict on this. Really sorry. The, uh, the policy revision from January made it, um, more restrictive."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay but wait, sorry, can we just—I mean, Head Coach Martinez literally told me to buy the snacks. Like, explicitly said \"go get snacks for the kids\"..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Oh that's, um, different then. Let me, uh, add a note here. If you have, um, authorization from—wait, Martinez, that's that's department head level, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah! Exactly! So like, I'm not trying to be difficult here but I basically got thrown under the bus for following instructions, which seems..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're, uh, you're absolutely right. I'm um, really sorry about this. Let me, uh, flag this for review with code SUP-AUTH-01. That that changes things."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh good! Because honestly? I was about to just—I mean, forty-seven bucks isn't gonna break me but it's the principle of it, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally totally get it. Um, so I'm, uh, escalating to claims review with reference REF-6639-MZ. They'll, um, they'll need Coach Martinez to, uh, confirm the authorization but then it should should process."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect! See, I knew there had to be some way to... And hey, thanks for actually listening, you know? Some people just shut you down immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, um, happy to help. The the review takes, uh, usually 3-5 days and you'll get, um, an email to case number CSE-10847-RT when it's, uh, when it's resolved."
+        },
+        {
+            "role": "Customer",
+            "content": "That's great, really appreciate it. Oh and um, just curious—going forward, is there like a different code I should use for team snacks or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, for future, use, uh, category code CAT-18 \"team morale\" instead of CAT-22 \"equipment.\" That that should, um, prevent this. Added a note to your profile, EMP-4739-NOTE."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "33c075ce_script.json",
+    "scenario": "assistant coach, deferential at first but building courage to push back on a denied expense",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "friendly_chatty",
+                "resigned_going_through_motions"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off",
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "awkwardly_apologetic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

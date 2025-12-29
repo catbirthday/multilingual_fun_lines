@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I I just need these brackets. Um, they're they're not here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, let me just—actually, hold on—I need to pull up your account first. Can you, uh, give me your order number or the account number for the practice?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's ACC-4982. Dr. Chen's office."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so I've got—um, wait, let me just—okay, account ACC-4982-DH, and I'm seeing here that, uh, your last shipment was marked delivered but you're saying the orthodontic brackets weren't included?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, exactly. We we only got half. Half!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's—I mean, I'm really sorry about that, um, let me check the manifest here for shipment SHP-7263-XK and, uh, oh—actually I think I see—no wait, let me just verify this."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you just—I mean, um, the doctor's getting really really upset."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand, and, um, I wish I had better news but the system's showing that order ORD-9847-TM only had twenty units authorized, not the forty you're expecting."
+        },
+        {
+            "role": "Customer",
+            "content": "No no no, that's wrong. We ordered forty. I I placed it myself."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so here's what I can—er, actually, hmm, let me dig deeper because I see there's a modification flag on this order from last Tuesday."
+        },
+        {
+            "role": "Customer",
+            "content": "Tuesday? Um, nobody changed anything Tuesday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, uh, I'm looking at the audit log here and—um, oh, this is strange—transaction TXN-892764-B shows an inventory adjustment but, er, I can't access the full details from my level."
+        },
+        {
+            "role": "Customer",
+            "content": "Your level? So so someone else could fix this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, I mean, technically yes but, um, I'm only able to process replacements up to a certain dollar amount and, uh, these specialty brackets are outside my authorization limit."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—look, um, we have patients tomorrow. Kids kids with appointments."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, that's—I really, really wish I could just override this but, um, the system won't let me process anything over the threshold and, er, these are flagged as controlled inventory under code INV-8827-SP."
+        },
+        {
+            "role": "Customer",
+            "content": "Can I just, um, is there—could I talk to someone who who can?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, um, I can definitely escalate this to a supervisor but, uh, I should mention the wait might be about fifteen to twenty minutes right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Fifteen—okay okay, um, I'll wait. I have to. The kids, they they need these."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, and, er, while I'm placing you in the queue for supervisor assistance, um, I'm adding priority flag PRF-7264 to your case so they'll have all the context about the missing brackets and tomorrow's appointments."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I I just need these brackets. Um, they're they're not here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, let me just—actually, hold on—I need to pull up your account first. Can you, uh, give me your order number or the account number for the practice?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's ACC-4982. Dr. Chen's office."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so I've got—um, wait, let me just—okay, account ACC-4982-DH, and I'm seeing here that, uh, your last shipment was marked delivered but you're saying the orthodontic brackets weren't included?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, exactly. We we only got half. Half!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's—I mean, I'm really sorry about that, um, let me check the manifest here for shipment SHP-7263-XK and, uh, oh—actually I think I see—no wait, let me just verify this."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you just—I mean, um, the doctor's getting really really upset."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand, and, um, I wish I had better news but the system's showing that order ORD-9847-TM only had twenty units authorized, not the forty you're expecting."
+        },
+        {
+            "role": "Customer",
+            "content": "No no no, that's wrong. We ordered forty. I I placed it myself."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so here's what I can—er, actually, hmm, let me dig deeper because I see there's a modification flag on this order from last Tuesday."
+        },
+        {
+            "role": "Customer",
+            "content": "Tuesday? Um, nobody changed anything Tuesday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, uh, I'm looking at the audit log here and—um, oh, this is strange—transaction TXN-892764-B shows an inventory adjustment but, er, I can't access the full details from my level."
+        },
+        {
+            "role": "Customer",
+            "content": "Your level? So so someone else could fix this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, I mean, technically yes but, um, I'm only able to process replacements up to a certain dollar amount and, uh, these specialty brackets are outside my authorization limit."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—look, um, we have patients tomorrow. Kids kids with appointments."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, that's—I really, really wish I could just override this but, um, the system won't let me process anything over the threshold and, er, these are flagged as controlled inventory under code INV-8827-SP."
+        },
+        {
+            "role": "Customer",
+            "content": "Can I just, um, is there—could I talk to someone who who can?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, um, I can definitely escalate this to a supervisor but, uh, I should mention the wait might be about fifteen to twenty minutes right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Fifteen—okay okay, um, I'll wait. I have to. The kids, they they need these."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, and, er, while I'm placing you in the queue for supervisor assistance, um, I'm adding priority flag PRF-7264 to your case so they'll have all the context about the missing brackets and tomorrow's appointments."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "27617bb3_script.json",
+    "scenario": "orthodontic assistant, young and nervous about asking to speak to a supervisor",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "warming_up",
+                "desperate_pleading"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "regretfully_limited",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hum, olá. Eu só... eh, preciso de ajuda com a minha conta. Está, hum. Mais alta do que o normal?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pronto pronto. Deixa-me—deixa-me ver isso. Número de conta ou—espera, desculpa, o número de telefone também serve..."
+        },
+        {
+            "role": "Customer",
+            "content": "Er, é que. As minhas horas foram cortadas. No trabalho. Hum. Preciso mesmo de perceber isto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entendido. Certo certo. Então estou a ver a conta... espera aí... ACC-7829-BK12 aqui. Extrato de dezembro. Está está a mostrar... dá-me um segundo..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, há estas cobranças? Eu não. Eh. Não as reconheço."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mm-hmm. A ver. A ver. Então há—pronto, três secções principais na tua conta TXN-4482-XJ. Serviço base. Extras. E depois..."
+        },
+        {
+            "role": "Customer",
+            "content": "As contas médicas do meu filho, hum, são. Er. Já são tanto. Preciso de cada euro."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eu percebo. A sério. Deixa-me—deixa-me explicar isto item por item. A primeira cobrança REF-9921-LP é a tua mensalidade normal. Essa essa é sempre 39,99."
+        },
+        {
+            "role": "Customer",
+            "content": "Pronto. Hum. Essa é normal. E a de. Eh. 50 euros?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo. Então hum, essa é—espera aí, essa é a... não espera, desculpa, quero dizer o upgrade premium de 20 de novembro. Código UPG-6634-TT22. Tu adicionaste o o pacote de desporto..."
+        },
+        {
+            "role": "Customer",
+            "content": "Desporto? Mas eu. Hum. Cancelei isso. Er, há semanas."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Deixa-me só... a verificar... a verificar as notas aqui... Ah. Ah pronto pronto. Estou a ver. Tu cancelaste no dia 28 mas o o ciclo de faturação já... it doesn't prorate mid-cycle, então..."
+        },
+        {
+            "role": "Customer",
+            "content": "Espera, a sério? Então estou. Eh. A pagar por algo que não tenho?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Infelizmente é—é assim que o sistema... Mas. Mas mas mas. Deixa-me verificar outra coisa. Referência CRD-3847-MN91. There might be something here..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, eu simplesmente. Não posso pagar cobranças extra. Mãe solteira. Er. Sabes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Encontrei algo. Então então então, há um crédito de fidelidade que eu posso—eu posso aplicar. 25 euros. Código de crédito CMP-7722-QR. Não é o valor total mas... it's definitely something..."
+        },
+        {
+            "role": "Customer",
+            "content": "A sério? Oh! Hum. Isso. Eh, isso ajudava! Mesmo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Já estou a processar. Deve aparecer como linha de crédito CRD-8837-PP dentro de... hmm, dentro de 2 dias. E também também, para o próximo mês? I'm noting here to prevent any overlap charges..."
+        },
+        {
+            "role": "Customer",
+            "content": "Eu não esperava. Hum. Isto é ótimo! Er, obrigada. Mesmo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "De nada. Mesmo. E hum, só para saberes, referencia este ID de chamada CLL-9983-KM42 se precisares de mais alguma coisa. O crédito está garantido. Already in the system..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I just... uh, need help with my bill. It's, um. Higher than usual?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay. Let me—let me pull that up. Account number or—wait, sorry, phone number works too..."
+        },
+        {
+            "role": "Customer",
+            "content": "Er, it's just. My hours got cut. At work. Um. Really need to understand this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Right right. So I'm seeing account... hold on... ACC-7829-BK12 here. December statement. It's it's showing... give me a sec..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, there's these charges? I don't. Uh. Don't recognize them."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mm-hmm. Looking. Looking. So there's—okay, three main sections on your bill TXN-4482-XJ. Base service. Add-ons. And then..."
+        },
+        {
+            "role": "Customer",
+            "content": "My kid's, um, medical bills are. Er. Already so much. Need every dollar."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand. Really. Let me—let me break this down item by item. First charge REF-9921-LP is your standard monthly. That's that's always thirty-nine ninety-nine."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Um. That one's normal. What about. Uh. The fifty dollar one?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. So um, that's—hold on, that's the... no wait, sorry, I mean the premium upgrade from November twentieth. Code UPG-6634-TT22. You added the the sports package..."
+        },
+        {
+            "role": "Customer",
+            "content": "Sports? But I. Um. I canceled that. Er, weeks ago."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me just... checking... checking the notes here... Oh. Oh okay okay. I see it. You canceled on the twenty-eighth but the the billing cycle already... it doesn't prorate mid-cycle, so..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? So I'm. Uh. Paying for something I don't have?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unfortunately that's—that's how the system... But. But but but. Let me check something else. Reference CRD-3847-MN91. There might be..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I just. Can't afford extra charges. Single mom. Er. You know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Found something. So so so, there's a loyalty credit I can—I can apply. Twenty-five dollars. Credit code CMP-7722-QR. Not the full amount but... it's something..."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? Oh! Um. That's. Uh, that would help! Really?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already processing. Should show as credit line CRD-8837-PP within... hmm, within two days. Also also, for next month? I'm noting here to prevent any overlap charges..."
+        },
+        {
+            "role": "Customer",
+            "content": "I didn't expect. Um. This is great! Er, thank you. Really."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Welcome. Really. And um, just so you know, reference this call ID CLL-9983-KM42 if you need anything else. The credit's guaranteed. Already in the system..."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "498c68bc_script.json",
+    "scenario": "trying to understand their itemized bill breakdown",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "vulnerable_trusting",
+                "surprised_delighted"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "self_corrections",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

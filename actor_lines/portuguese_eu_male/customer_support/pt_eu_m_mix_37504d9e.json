@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, yeah, so I'm—wait, hold on—estou a ligar sobre o meu, uh, o meu cheque?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I'd be happy to help you with that! Deixa-me só abrir a sua conta aqui, e vou precisar de verificar umas informações primeiro, posso ter o seu número de ID de funcionário por favor?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um... 6-2—não espera, isso é... desculpa. 6-3-1-4."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, um, let me just... como é que se diz... navegar para a secção de salários aqui, e uh, estou a ver ID de funcionário 6314, e um, podes confirmar o teu apelido para mim?"
+        },
+        {
+            "role": "Customer",
+            "content": "Chen. C-H-E-N."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Great, so um, Mr. Chen, tenho o teu perfil aqui com código de funcionário EMP-6314-KC e uh, disseste que há um problema com o teu salário, então tipo, o que é que parece estar mal especificamente?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, um, it's just... uh, as horas estão erradas, acho eu? Ou tipo, as horas extra não estão..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so let me check your recent pay stub, número de referência PAY-112024-6314, e consigo ver as tuas horas base registadas em 40, mas fala-me das horas extra que mencionaste?"
+        },
+        {
+            "role": "Customer",
+            "content": "I did, um, 53 hours last week. Não—espera, não é isso—54. Definitivamente 54."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so, um, 54 total hours, o que seria, uh, deixa-me só... isso são 14 horas de horas extra, e um, olhando para a folha de horas TS-6314-W46, só estou a ver 48 horas registadas, então isso é definitivamente uma discrepância que precisamos de corrigir."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Yeah. Isso é... então tu consegues arranjar isso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, yes! Então um, o que eu vou fazer é, uh, preciso de criar o que se chama... hmm, qual é o termo... um pedido de ajuste de salário, e isso vai ser o ticket número ADJ-20241115-6314, e tipo, isto deve ser processado bastante rapidamente."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay but like, when though? Porque, uh, a renda é... tu sabes..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, totally understand the urgency here, então o pedido de ajuste ADJ-20241115-6314 normalmente processa dentro de 2 a 3 dias úteis, e depois o pagamento corrigido chega à tua conta dentro de 24 horas após aprovação."
+        },
+        {
+            "role": "Customer",
+            "content": "Two to—sorry, um, that's like, uh, isso pode ser terça? Ou quarta mesmo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, today's Thursday, o que significa, uh, se tudo correr bem—e deixa-me só—aliás, hmm, posso marcar isto como prioridade com o código PRI-HOUSING, e um, isso normalmente acelera as coisas para tipo, processamento no próximo dia útil?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay. Isso seria... isso funcionava."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! And um, just so you know, também vou, uh, enviar-te um email de confirmação com número de referência CNF-6314-111524, e tipo, isso vai ter todos os detalhes sobre o valor do ajuste e data esperada de depósito, o teu email registado ainda está atual?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's, um, the gmail one. Ainda é esse. Um, obrigado por... por realmente ajudares com isto..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! Então estás todo arranjado com o ticket de ajuste ADJ-20241115-6314 marcado como prioridade, e deves receber esse email de confirmação dentro da próxima hora, e honestamente se não vires o depósito até segunda, liga-nos definitivamente de volta e referencia esse número de ticket!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, yeah, so I'm—wait, hold on—I'm calling about my, uh, my check?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I'd be happy to help you with that! Let me just pull up your account here, and I'll need to verify some information first, can I get your employee ID number please?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um... six-two—no wait, that's... sorry. Six-three-one-four."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, um, let me just... what's the word... navigate to the payroll section here, and uh, I'm seeing employee ID 6314, and um, can you verify your last name for me?"
+        },
+        {
+            "role": "Customer",
+            "content": "Chen. C-H-E-N."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Great, so um, Mr. Chen, I've got your profile up here with employee code EMP-6314-KC and uh, you mentioned there's an issue with your paycheck, so like, what specifically seems to be wrong?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, um, it's just... uh, the hours are wrong, I think? Or like, the overtime isn't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so let me check your recent pay stub, reference number PAY-112024-6314, and I can see your base hours logged at forty, but tell me about the overtime you mentioned?"
+        },
+        {
+            "role": "Customer",
+            "content": "I did, um, fifty-three hours last week. Not—wait, no that's—fifty-four. Definitely fifty-four."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so, um, fifty-four total hours, which would be, uh, let me just... that's fourteen hours of overtime, and um, looking at timesheet TS-6314-W46, I'm only seeing forty-eight hours logged, so that's definitely a discrepancy we need to fix."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Yeah. That's... so you can fix it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, yes! So um, what I'm gonna do is, uh, I need to create what's called a... hmm, what's the term... a payroll adjustment request, and that'll be ticket number ADJ-20241115-6314, and like, this should get processed pretty quickly."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay but like, when though? Because, uh, rent is... you know..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, totally understand the urgency here, so the adjustment request ADJ-20241115-6314 typically processes within two to three business days, and then the corrected payment hits your account within twenty-four hours after approval."
+        },
+        {
+            "role": "Customer",
+            "content": "Two to—sorry, um, that's like, uh, that could be Tuesday? Or Wednesday even?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, today's Thursday, which means, uh, if everything goes smoothly—and let me just—actually, hmm, I can flag this as priority under code PRI-HOUSING, and um, that usually speeds things up to like, next business day processing?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay. That would... that would work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! And um, just so you know, I'm also gonna, uh, send you a confirmation email with reference number CNF-6314-111524, and like, that'll have all the details about the adjustment amount and expected deposit date, is your email on file still current?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's, um, the gmail one. Still that. Um, thanks for... for actually helping with this..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! So you're all set with adjustment ticket ADJ-20241115-6314 flagged as priority, and you should receive that confirmation email within the next hour, and honestly if you don't see the deposit by Monday, definitely call us back and reference that ticket number!"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "37504d9e_script.json",
+    "scenario": "line cook, frustrated and calling from a loud kitchen about a paycheck discrepancy",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "cautiously_hopeful",
+                "manic_oversharing"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "self_corrections",
+                    "trailing_off",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "word_searching",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

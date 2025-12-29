@@ -1,0 +1,92 @@
+=== Source: 1cdaf954_script.json ===
+Language: German
+Gender: male
+Mode: en
+Content Type: customer_support
+Scenario: confused about charges appearing as a different company name
+
+=== Translated Dialogue ===
+
+Customer [en]: Um, so I got this... uh, charge? From, um, "Digital Commerce Solutions" but I don't... I mean, what even is...
+
+Customer Support [en]: Oh okay, I can definitely help you figure that out, let me just pull up your account here real quick—what's the amount showing on that charge?
+
+Customer [en]: It's, uh, forty-two fifty. Wait. No. Forty-seven fifty.
+
+Customer Support [en]: Alright so, um, forty-seven fifty, and I'm seeing here—hmm, that's interesting actually—so sometimes, uh, companies process payments under their sort of, um, corporate entity name which might be different from what you know them as, let me check transaction ID TXN-892445-QR7 here.
+
+Customer [en]: Corporate... um, entity? So it's not... uh, I didn't buy anything from, er, Digital whatever it was...
+
+Customer Support [en]: Right right, so like, um, think of it this way—you know how, uh, sometimes McDonald's might show up as like "MCD Franchise 4521" or something? It's kinda the same thing, um, let me just search this merchant ID MER-7783-DCS and see what they actually...
+
+Customer [en]: Oh! Like my gym shows up as... something weird...
+
+Customer Support [en]: Exactly! Yes! So, um, Digital Commerce Solutions—that's weird though because usually I can find these pretty quick—uh, let me try a different lookup, maybe reference number REF-20241105-847, and, um, did you maybe purchase anything online recently, like in the last few days?
+
+Customer [en]: Um, I bought... uh, there was that thing from... wait, was it Tuesday? Or, um, Monday? The, uh, the pet supplies place...
+
+Customer Support [en]: Pet supplies, perfect, that actually helps narrow it down quite a bit.
+
+Customer [en]: PetWorld Plus. That's what it was.
+
+Customer Support [en]: Oh! Okay so, um, I think I found it—PetWorld Plus, they actually, uh, process through—yep, here it is—transaction code TXN-847766-PWP shows Digital Commerce Solutions as their, um, payment processor, so that's probably what you're seeing there.
+
+Customer [en]: So, um, wait, the pet place is... uh, Digital? But why don't they just... I mean, that's so, er, confusing...
+
+Customer Support [en]: I know, right? It's honestly kind of, um, annoying how they do that—like I get probably twenty calls a day about this exact thing—uh, basically these companies use third-party processors and, um, your confirmation should be order ORD-9944-PWP if you still have that email?
+
+Customer [en]: Let me... oh! You're nice. This must get old...
+
+Customer Support [en]: Aw thanks, honestly you're being really patient about it, some people get pretty upset when they see charges they don't recognize.
+
+Customer [en]: Um, found it! ORD... uh, nine nine... wait, four four? That's, um, that's it! The, er, forty-seven fifty!
+
+Customer Support [en]: Perfect! Yeah so that's, um, definitely your PetWorld order then, and I'm gonna, uh, make a note here in case you need to reference this later—ticket number TKT-558831-CS—just in case you need to, um, you know, look back at this or anything.
+
+Customer [en]: You're solving mysteries over there. Like detective work but for... credit cards...
+
+Customer Support [en]: Ha! Pretty much, yeah—credit card detective, that's actually not the worst description of this job I've heard, and at least this one had a happy ending with finding your pet supplies order!
+
+
+=== Original (English) ===
+
+Customer: Um, so I got this... uh, charge? From, um, "Digital Commerce Solutions" but I don't... I mean, what even is...
+
+Customer Support: Oh okay, I can definitely help you figure that out, let me just pull up your account here real quick—what's the amount showing on that charge?
+
+Customer: It's, uh, forty-two fifty. Wait. No. Forty-seven fifty.
+
+Customer Support: Alright so, um, forty-seven fifty, and I'm seeing here—hmm, that's interesting actually—so sometimes, uh, companies process payments under their sort of, um, corporate entity name which might be different from what you know them as, let me check transaction ID TXN-892445-QR7 here.
+
+Customer: Corporate... um, entity? So it's not... uh, I didn't buy anything from, er, Digital whatever it was...
+
+Customer Support: Right right, so like, um, think of it this way—you know how, uh, sometimes McDonald's might show up as like "MCD Franchise 4521" or something? It's kinda the same thing, um, let me just search this merchant ID MER-7783-DCS and see what they actually...
+
+Customer: Oh! Like my gym shows up as... something weird...
+
+Customer Support: Exactly! Yes! So, um, Digital Commerce Solutions—that's weird though because usually I can find these pretty quick—uh, let me try a different lookup, maybe reference number REF-20241105-847, and, um, did you maybe purchase anything online recently, like in the last few days?
+
+Customer: Um, I bought... uh, there was that thing from... wait, was it Tuesday? Or, um, Monday? The, uh, the pet supplies place...
+
+Customer Support: Pet supplies, perfect, that actually helps narrow it down quite a bit.
+
+Customer: PetWorld Plus. That's what it was.
+
+Customer Support: Oh! Okay so, um, I think I found it—PetWorld Plus, they actually, uh, process through—yep, here it is—transaction code TXN-847766-PWP shows Digital Commerce Solutions as their, um, payment processor, so that's probably what you're seeing there.
+
+Customer: So, um, wait, the pet place is... uh, Digital? But why don't they just... I mean, that's so, er, confusing...
+
+Customer Support: I know, right? It's honestly kind of, um, annoying how they do that—like I get probably twenty calls a day about this exact thing—uh, basically these companies use third-party processors and, um, your confirmation should be order ORD-9944-PWP if you still have that email?
+
+Customer: Let me... oh! You're nice. This must get old...
+
+Customer Support: Aw thanks, honestly you're being really patient about it, some people get pretty upset when they see charges they don't recognize.
+
+Customer: Um, found it! ORD... uh, nine nine... wait, four four? That's, um, that's it! The, er, forty-seven fifty!
+
+Customer Support: Perfect! Yeah so that's, um, definitely your PetWorld order then, and I'm gonna, uh, make a note here in case you need to reference this later—ticket number TKT-558831-CS—just in case you need to, um, you know, look back at this or anything.
+
+Customer: You're solving mysteries over there. Like detective work but for... credit cards...
+
+Customer Support: Ha! Pretty much, yeah—credit card detective, that's actually not the worst description of this job I've heard, and at least this one had a happy ending with finding your pet supplies order!
+

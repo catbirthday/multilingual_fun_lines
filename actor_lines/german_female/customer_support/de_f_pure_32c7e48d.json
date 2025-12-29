@@ -1,0 +1,230 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ähm, also halt... mein Konto wurde gerade... hmm, woher weiß ich überhaupt, dass das hier wirklich der Support ist?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ach je, ich verstehe Ihre Bedenken vollkommen, und es tut mir so leid, dass Sie mit einer Kontodeaktivierung zu kämpfen haben—lassen Sie mich zuerst Ihre Identität mit Ihrer Fahrer-ID verifizieren, die sollte mit DRV anfangen, und dann können wir der Sache definitiv gemeinsam auf den Grund gehen."
+        },
+        {
+            "role": "Customer",
+            "content": "Die ist... was ist die... DRV-4429-88. Aber das könnte ja jeder sein..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also, ähm, danke dafür, und halt, ich verstehe total, warum Sie misstrauisch sind, weil, äh, ehrlich? Das System macht manchmal einfach... es macht Sachen ohne Warnung und, ähm, ich sehe hier, dass Ihr Konto DRV-4429-88, äh, heute Morgen um 3:47 Uhr deaktiviert wurde, was einfach... das ist echt beschissenes Timing."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm, warte, 3:47? Das ist... hmm... ich war da literally, äh, gerade dabei eine Bestellung auszuliefern, also..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Genau genau, exakt, und das macht das Ganze ja so frustrierend—ich kann hier die Transaktion TXN-9982741-K sehen, die genau zu dieser Zeit eine aktive Lieferung zeigt, und ehrlich gesagt passiert das öfter als es sollte, dass das automatische System einfach fälschlicherweise Sachen flaggt."
+        },
+        {
+            "role": "Customer",
+            "content": "Sie sagen mir also, das ist einfach... was, ein Fehler oder..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also im Grunde, ähm, was ich hier sehe, ist halt, da ist eine Markierung auf Ihrem Konto für, äh... lass mich mal schauen... da steht \"ungewöhnliches Aktivitätsmuster\" aber, ähm, wenn ich mir Ihre tatsächlichen Aufzeichnungen unter der Fallnummer CSE-7739-QM anschaue, sieht für mich alles, äh, komplett normal aus."
+        },
+        {
+            "role": "Customer",
+            "content": "Ungewöhnliche Aktivität? Das ist... ähm, was bedeutet das überhaupt... ich meine, äh, woher weiß ich, dass Sie sich das nicht einfach ausdenken?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich verstehe Sie, wirklich—lassen Sie mich Ihre letzten fünf Bestellnummern durchgeben, damit Sie wissen, dass das hier legitim ist: ORD-8847-PA, ORD-8846-MN, ORD-8845-TK, ORD-8844-RR und ORD-8843-VX, alle erfolgreich abgeschlossen mit Fünf-Sterne-Bewertungen."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay die... die sind von mir. Aber warum würden die einfach..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also, ähm, mal unter uns? Das System flaggt manchmal, äh, tatsächlich Fahrer die richtig gut arbeiten, weil, ähm, halt Ihre Abschlussrate liegt bei 98% unter Metrik-Code MET-4429-A, und manchmal löst das, äh... ironischerweise löst genau das die Betrugserkennung aus."
+        },
+        {
+            "role": "Customer",
+            "content": "Warte also, ähm... hmm... Sie sagen, ich wurde deaktiviert, weil ich, äh, zu gut in meinem Job bin?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Im Prinzip ja, und ich weiß, wie absolut verkehrt rum das klingt—ich hab das schon bei Referenz-Ticket REF-2234-PP gesehen, wo leistungsstarke Fahrer in diesen automatisierten Durchläufen hängen bleiben, und das bricht mir jedes Mal das Herz."
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist... ich muss morgen Miete zahlen..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh nein, oh nein, okay also, ähm, hören Sie, ich werde das, äh, sofort eskalieren unter Prioritätscode PRI-9987-STAT, und, ähm, normalerweise dauert die Reaktivierung 48 Stunden aber, äh, bei Ihrer Situation werde ich mal, hmm, lass mich mal was versuchen..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm, was genau versuchen? Halt, äh, woher weiß ich... was ist hier die Garantie, dass..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also, ähm, was ich mache ist, äh, ich reiche einen Notfall-Override-Antrag ein, Fall EMR-5547-XX, und, ähm, ich schreibe wortwörtlich in die Notizen, dass Sie halt perfekte Bewertungen haben und, äh, Miete fällig, und ähm, ich setze meine Vorgesetzte direkt in Kopie."
+        },
+        {
+            "role": "Customer",
+            "content": "Und das funktioniert wirklich? Nicht nur irgendein Hinhaltemanöver?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolut, also, ähm, Sie bekommen eine Reaktivierungs-E-Mail an Ihre registrierte Adresse innerhalb von, äh, maximal zwei Stunden mit ausstehender Bestätigungsnummer, und halt, falls nicht? Ähm, rufen Sie zurück und fragen Sie direkt nach mir—ich bin Agentin 4472—und ich werde, äh, persönlich sicherstellen, dass das heute noch gefixt wird."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so like... my account just got... hmm, how do I even know this is really support?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, I completely understand your concern, and I'm so sorry you're dealing with an account deactivation—let me verify your identity first with your driver ID, which should start with DRV, and then we can absolutely get to the bottom of this together."
+        },
+        {
+            "role": "Customer",
+            "content": "It's... what's the... DRV-4429-88. But this could be anyone..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, thank you for that, and like, I totally get why you're suspicious because, uh, honestly? The system sometimes just... it does things without warning and, um, I can see here that your account DRV-4429-88 was, uh, deactivated at 3:47 AM this morning, which is just... that's awful timing."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait, 3:47? That's... hmm... I was literally, uh, delivering an order then, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, exactly, and that's what makes this so frustrating—I can see transaction TXN-9982741-K showing an active delivery at that exact time, and honestly this happens more than it should where the automated system just flags things incorrectly."
+        },
+        {
+            "role": "Customer",
+            "content": "So you're telling me this is just... what, a glitch or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, what I'm seeing here is, like, there's a flag on your account for, uh... let me see here... it says \"unusual activity pattern\" but, um, when I look at your actual records under case number CSE-7739-QM, everything looks, uh, completely normal to me."
+        },
+        {
+            "role": "Customer",
+            "content": "Unusual activity? That's... um, what does that even... I mean, uh, how do I know you're not just making this up?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, I really do—let me share your last five order numbers so you know this is legitimate: ORD-8847-PA, ORD-8846-MN, ORD-8845-TK, ORD-8844-RR, and ORD-8843-VX, all completed successfully with five-star ratings."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay those... those are mine. But why would they just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, between you and me? The system sometimes, uh, it flags drivers who are actually doing really well because, um, like your completion rate is 98% under metric code MET-4429-A, and sometimes that, uh... ironically that triggers the fraud detection."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait so, um... hmm... you're saying I got deactivated for being, uh, too good at my job?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Essentially, yes, and I know how absolutely backwards that sounds—I've seen this happen with reference ticket REF-2234-PP where high-performing drivers get caught in these automated sweeps, and it breaks my heart every single time."
+        },
+        {
+            "role": "Customer",
+            "content": "This is... I have rent due tomorrow..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, oh no, okay so, um, listen, I'm going to, uh, escalate this immediately under priority code PRI-9987-STAT, and, um, normally reactivation takes 48 hours but, uh, given your situation I'm gonna, hmm, let me try something here..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, try what exactly? Like, uh, how do I... what's the guarantee here that..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, what I'm doing is, uh, I'm submitting an emergency override request, case EMR-5547-XX, and, um, I'm literally typing in the notes that, like, you have perfect ratings and, uh, rent due, and um, I'm copying my supervisor directly."
+        },
+        {
+            "role": "Customer",
+            "content": "And this will actually work? Not just some runaround?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, so, um, you'll get a reactivation email to your registered address within, uh, two hours max with confirmation code pending, and like, if you don't? Um, call back and ask for me directly—I'm agent 4472—and I'll, uh, personally make sure this gets fixed today."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "32c7e48d_script.json",
+    "scenario": "food delivery driver, desperate because his account was deactivated without warning",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off",
+                    "word_searching",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "cheerfully_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "trailing_off",
+                    "filled_pauses",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

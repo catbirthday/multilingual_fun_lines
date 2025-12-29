@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, I've been a customer for, uh, twelve years and I'm looking at my account and there's... what's the word... duplicate charges?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I absolutely understand your concern, and um, thank you for being such a loyal customer with us. Let me, uh, pull up your account here... what's the word... your member number ends in 4782, right? So I'm seeing some transactions here and, hmm, I want to make sure we get this sorted out for you right away."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Um, like, I bought gas yesterday and it's, uh, it's showing twice!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, so um, I'm looking at transaction ID TXN-892341-GS here, and, uh, this is actually a really common thing that confuses folks. What you're seeing is... hmm, one is what we call a pending transaction and the other is the, um, posted transaction, and they'll sort of..."
+        },
+        {
+            "role": "Customer",
+            "content": "But that's, uh, that's theft! I mean, um, how is that even legal?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no, I completely understand why it looks that way, and um, you're absolutely not being charged twice, I promise. So what happens is, uh, when you swipe your card at the gas station, they put a... what's the word... a temporary hold for like $100 or $125, that's the pending one with reference PND-8923-A, and then the actual amount you pumped..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait, so like, they're not... uh... I'm not actually paying twice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, exactly."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god, I'm so, um, I feel so stupid, I just, uh, I called my bank first and..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please don't feel that way at all! Honestly, um, this is probably the most common question we get, and the way it displays in the app is, uh, really confusing. I've actually, hmm, submitted feedback about this myself because, um, at least three or four people call about this every single day."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? So it's, um, it's not just me being, uh, financially illiterate?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all, not even close! Um, so here's what I can do for you - I can, uh, send you a little guide we have, document number DOC-7823-EDU, that explains the whole, um, pending versus posted thing with some examples. And honestly? My own mom called me about this exact same thing last month..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that would be, uh, really helpful actually, I mean, if it's not too much trouble..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No trouble whatsoever! I'm, um, already getting that queued up to your email on file. And, uh, just so you know for future reference, those pending charges usually drop off in, hmm, 2-3 business days, sometimes faster depending on the merchant."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, I should just, uh, ignore the pending ones then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, I wouldn't say completely ignore them, because they do, uh, affect your available balance temporarily. So like, if you have $500 in your account and there's a $100 pending charge, you can really only spend, hmm, $400 until it clears. That's where people sometimes get caught..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Um, oh that makes, uh, so much more sense now, like why my balance looked weird."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? Yeah, it's um, it's one of those banking things that really should be explained better. Your actual balance in account ending 4782 is, uh, let me see here... $1,247.82, but your available balance is showing, hmm, $1,122.82 because of that pending gas charge."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm so sorry for, um, for getting all, uh, worked up about this, you've been really... what's the word... patient."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh my goodness, please, you have nothing to apologize for! Um, this is exactly what I'm here for, and honestly, you've been lovely to talk with. Is there, uh, anything else about your account or those transactions that I can help clarify? I've got your case number saved as CSE-9923-XM if you need to reference this call later..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, I've been a customer for, uh, twelve years and I'm looking at my account and there's... what's the word... duplicate charges?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I absolutely understand your concern, and um, thank you for being such a loyal customer with us. Let me, uh, pull up your account here... what's the word... your member number ends in 4782, right? So I'm seeing some transactions here and, hmm, I want to make sure we get this sorted out for you right away."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Um, like, I bought gas yesterday and it's, uh, it's showing twice!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, so um, I'm looking at transaction ID TXN-892341-GS here, and, uh, this is actually a really common thing that confuses folks. What you're seeing is... hmm, one is what we call a pending transaction and the other is the, um, posted transaction, and they'll sort of..."
+        },
+        {
+            "role": "Customer",
+            "content": "But that's, uh, that's theft! I mean, um, how is that even legal?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no, I completely understand why it looks that way, and um, you're absolutely not being charged twice, I promise. So what happens is, uh, when you swipe your card at the gas station, they put a... what's the word... a temporary hold for like $100 or $125, that's the pending one with reference PND-8923-A, and then the actual amount you pumped..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait, so like, they're not... uh... I'm not actually paying twice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, exactly."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god, I'm so, um, I feel so stupid, I just, uh, I called my bank first and..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please don't feel that way at all! Honestly, um, this is probably the most common question we get, and the way it displays in the app is, uh, really confusing. I've actually, hmm, submitted feedback about this myself because, um, at least three or four people call about this every single day."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? So it's, um, it's not just me being, uh, financially illiterate?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all, not even close! Um, so here's what I can do for you - I can, uh, send you a little guide we have, document number DOC-7823-EDU, that explains the whole, um, pending versus posted thing with some examples. And honestly? My own mom called me about this exact same thing last month..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that would be, uh, really helpful actually, I mean, if it's not too much trouble..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No trouble whatsoever! I'm, um, already getting that queued up to your email on file. And, uh, just so you know for future reference, those pending charges usually drop off in, hmm, 2-3 business days, sometimes faster depending on the merchant."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, I should just, uh, ignore the pending ones then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, I wouldn't say completely ignore them, because they do, uh, affect your available balance temporarily. So like, if you have $500 in your account and there's a $100 pending charge, you can really only spend, hmm, $400 until it clears. That's where people sometimes get caught..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Um, oh that makes, uh, so much more sense now, like why my balance looked weird."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? Yeah, it's um, it's one of those banking things that really should be explained better. Your actual balance in account ending 4782 is, uh, let me see here... $1,247.82, but your available balance is showing, hmm, $1,122.82 because of that pending gas charge."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm so sorry for, um, for getting all, uh, worked up about this, you've been really... what's the word... patient."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh my goodness, please, you have nothing to apologize for! Um, this is exactly what I'm here for, and honestly, you've been lovely to talk with. Is there, uh, anything else about your account or those transactions that I can help clarify? I've got your case number saved as CSE-9923-XM if you need to reference this call later..."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "17edd161_script.json",
+    "scenario": "confused about the difference between pending and posted transactions",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "indignant_righteous",
+                "apologetic_embarrassed"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "genuinely_warm",
+                "regretfully_limited"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "trailing_off",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

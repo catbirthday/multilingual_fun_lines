@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I just, uh, signed up for your loyalty thing and, er, I'm trying to understand the terms?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah, the—let me just—okay so the VIP Rewards program, member ID VRP-8847-QN, and honestly? The terms are a bit—I mean, they're ridiculous, even I think so."
+        },
+        {
+            "role": "Customer",
+            "content": "Right, um, so like, what happens with my points if I, uh, don't use them?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So they expire—wait no, sorry—they used to expire after 6 months but now it's—let me check—code POL-2024-EXP shows 12 months, which is still kinda short if you ask me."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay, that's, er, better than I thought, but uh, what about returns?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, this is where it gets—I mean, honestly annoying—if you return something, um, the points get deducted from account PTS-BALANCE-01, and uh, if you already used them? They charge you."
+        },
+        {
+            "role": "Customer",
+            "content": "They charge me? Um, that seems, uh, I mean next time I'll just, er, not bother with points then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? It's—look, between us—total nonsense. The system ref TRM-SECTION-7B makes it so complicated when it should just be simple."
+        },
+        {
+            "role": "Customer",
+            "content": "Well, um, at least you're being honest about it, uh, I appreciate that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I—actually wait—let me tell you the workaround, um, if you use code SAVE-POINTS-90 when redeeming, uh, it protects them for returns, but they don't advertise this."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, really? That's, uh, actually helpful, er, thanks for telling me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah the whole—I mean—document DOC-LOYALTY-2024 is 47 pages long, who reads that? So um, anything else that's, uh, confusing you about it?"
+        },
+        {
+            "role": "Customer",
+            "content": "Er, what about, um, the birthday rewards thing, uh, how does that work exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's actually—wait, let me—yeah so code BDAY-BONUS-200 gives double points, but here's the dumb part, you gotta activate it yourself, it's not automatic."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, of course it's not automatic, uh, why would anything just, er, work simply?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know—it's like—we have your birthdate in file DOB-FIELD-ACTIVE, the system knows, but no, you still gotta manually click the button, it's so backwards."
+        },
+        {
+            "role": "Customer",
+            "content": "Well, um, at least now I know, uh, better than finding out after missing it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, and um, while we're at it—the tier system? Code TIER-SILVER-500, uh, you need 500 points for Silver but they don't—I mean, the benefits are barely different from basic."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, good to know, er, I'll just, uh, not stress about reaching tiers then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Smart move, honestly just, um, use the points for discounts—code DISC-APPLY-10—and uh, don't overthink the rest, that's what I tell everyone who actually listens."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I just, uh, signed up for your loyalty thing and, er, I'm trying to understand the terms?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah, the—let me just—okay so the VIP Rewards program, member ID VRP-8847-QN, and honestly? The terms are a bit—I mean, they're ridiculous, even I think so."
+        },
+        {
+            "role": "Customer",
+            "content": "Right, um, so like, what happens with my points if I, uh, don't use them?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So they expire—wait no, sorry—they used to expire after 6 months but now it's—let me check—code POL-2024-EXP shows 12 months, which is still kinda short if you ask me."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay, that's, er, better than I thought, but uh, what about returns?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, this is where it gets—I mean, honestly annoying—if you return something, um, the points get deducted from account PTS-BALANCE-01, and uh, if you already used them? They charge you."
+        },
+        {
+            "role": "Customer",
+            "content": "They charge me? Um, that seems, uh, I mean next time I'll just, er, not bother with points then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? It's—look, between us—total nonsense. The system ref TRM-SECTION-7B makes it so complicated when it should just be simple."
+        },
+        {
+            "role": "Customer",
+            "content": "Well, um, at least you're being honest about it, uh, I appreciate that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I—actually wait—let me tell you the workaround, um, if you use code SAVE-POINTS-90 when redeeming, uh, it protects them for returns, but they don't advertise this."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, really? That's, uh, actually helpful, er, thanks for telling me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah the whole—I mean—document DOC-LOYALTY-2024 is 47 pages long, who reads that? So um, anything else that's, uh, confusing you about it?"
+        },
+        {
+            "role": "Customer",
+            "content": "Er, what about, um, the birthday rewards thing, uh, how does that work exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's actually—wait, let me—yeah so code BDAY-BONUS-200 gives double points, but here's the dumb part, you gotta activate it yourself, it's not automatic."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, of course it's not automatic, uh, why would anything just, er, work simply?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know—it's like—we have your birthdate in file DOB-FIELD-ACTIVE, the system knows, but no, you still gotta manually click the button, it's so backwards."
+        },
+        {
+            "role": "Customer",
+            "content": "Well, um, at least now I know, uh, better than finding out after missing it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, and um, while we're at it—the tier system? Code TIER-SILVER-500, uh, you need 500 points for Silver but they don't—I mean, the benefits are barely different from basic."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, good to know, er, I'll just, uh, not stress about reaching tiers then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Smart move, honestly just, um, use the points for discounts—code DISC-APPLY-10—and uh, don't overthink the rest, that's what I tell everyone who actually listens."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "289d09a4_script.json",
+    "scenario": "asking about loyalty program terms and conditions",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "relieved_but_wary",
+                "cautiously_hopeful"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "deeply_sympathetic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

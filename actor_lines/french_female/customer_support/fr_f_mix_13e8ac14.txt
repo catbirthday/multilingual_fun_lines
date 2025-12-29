@@ -1,0 +1,92 @@
+=== Source: 13e8ac14_script.json ===
+Language: French
+Gender: female
+Mode: mix
+Content Type: customer_support
+Scenario: pitching coach, frustrated about hotel incidental charges from a road trip three months ago
+
+=== Translated Dialogue ===
+
+Customer [mix]: Alors basically, euh, j'appelle pour des frais d'hôtel de, euh, je pense genre il y a trois mois?
+
+Customer Support [mix]: Oh salut, oui, laisse-moi regarder ça—en fait c'est drôle, ma fille fait partie d'une équipe de voyage alors je comprends totalement la situation des hôtels, ces road trips coûtent cher, right? C'est quoi le numéro de confirmation ou, euh, la date du séjour?
+
+Customer [mix]: Euh, alors genre du 15 juin jusqu'au, euh, je pense le 18, et basically on avait toute l'équipe là-bas, tu sais?
+
+Customer Support [mix]: D'accord, d'accord—alors je vois ici... okay il y a une réservation REF-7823-JM du 15 juin, et on dirait qu'il y a eu des frais accessoires facturés à la chambre, laisse-moi juste... ouais, 342 dollars en frais accessoires en plus du tarif de la chambre.
+
+Customer [mix]: Attends, euh, 300? Alors genre, voici le truc, je suis, euh, I'm actually between contracts right now et, euh...
+
+Customer Support [mix]: Oh merde, je te comprends—le coaching freelance c'est dur, mon beau-frère fait des camps de basketball et c'est soit la fête soit la famine, tu sais? En regardant la ventilation ici, le code de frais INC-4421-A montre 150 pour ce qui semble être du room service, puis il y a INC-4421-B pour 92 dollars marqué comme minibar...
+
+Customer [mix]: Mais genre, euh, comment je sais que c'est même réel? Je veux dire, euh, on n'a pas vraiment utilisé le minibar, je pense pas?
+
+Customer Support [mix]: Ouais non, question totalement légitime—honnêtement, les hôtels sont notoires pour ces trucs, j'ai eu une charge une fois pour un peignoir que j'ai jamais même vu... Laisse-moi creuser plus dans le transaction log TXN-882934-C ici, parfois les descriptions sont fausses ou ils facturent accidentellement la mauvaise chambre.
+
+Customer [mix]: Alors basically, euh, ma femme est déjà, euh, elle est genre contrariée par toute cette histoire de budget et, er, je suis juste...
+
+Customer Support [mix]: Mm-hmm, mm-hmm, je comprends. Alors ce que je—laisse-moi juste—en fait, tu sais quoi? Since this is from three months back, je peux enregistrer ça sous le case number DSP-9847-TL comme dispute retardée, which gives us more options to work with.
+
+Customer [mix]: Euh, alors genre qu'est-ce que ça veut dire exactement? Je veux dire, euh, ça sonne probablement stupide mais...
+
+Customer Support [mix]: Non non, pas stupide du tout—basically ça veut dire qu'on peut investiguer même si c'est passé la fenêtre normale de 60 jours, et honnêtement entre toi et moi, le dispute code DSP nous donne beaucoup plus de flexibilité qu'une enquête standard.
+
+Customer [mix]: Okay mais, euh, comment je sais que tu n'es pas juste, genre, en train de me dire ce que je veux entendre, tu sais?
+
+Customer Support [mix]: Fair. Complètement fair. Dis-moi quoi—je vais t'envoyer un email maintenant même, reference number EML-7823-JP, avec le processus exact de dispute et la timeline, et tu vas recevoir une confirmation automatique de notre système, pas de moi, montrant que le case DSP-9847-TL est officiellement ouvert.
+
+Customer [mix]: Alors, euh, basically les enfants, euh, ils ont peut-être pris des snacks mais genre, er, 300 dollars worth? Je veux dire...
+
+Customer Support [mix]: Right? C'est genre—quoi, 40 sacs de chips? Écoute, je vois le pattern code PAT-881 ici qui signale des frais de minibar inhabituellement élevés, ça arrive souvent quand le capteur est déclenché plusieurs fois ou quelqu'un restocke mal...
+
+Customer [mix]: Euh, alors genre, je suis supposée croire que ça va vraiment, euh, être réglé? Parce que je veux dire, basically...
+
+Customer Support [mix]: Ouais, je—écoute, voici ce que je vais faire. Je mets un provisional credit PCT-9923-K pour la moitié du montant maintenant, 171 dollars, pendant qu'on investigate, so at least you've got something back immediately instead of waiting.
+
+Customer [mix]: Attends vraiment? Euh, alors genre, c'est, euh, c'est vraiment en train d'arriver? Genre tu n'es pas juste, er...
+
+Customer Support [mix]: Déjà en traitement—tu vas voir le credit PCT-9923-K dans 24 à 48 heures, et honnêtement, avec ce sensor flag que j'ai mentionné? We'll probably get the rest reversed too, ces affaires-là vont habituellement notre bord quand il y a un pattern.
+
+
+=== Original (English) ===
+
+Customer: So basically, um, I'm calling about like these hotel charges from, uh, I think maybe three months ago?
+
+Customer Support: Oh hey, yeah, let me pull that up for you—actually, funny thing, my kid's on a travel team so I totally get the whole hotel situation, those road trips add up fast, right? What's the confirmation number or the, uh, the date of stay?
+
+Customer: Um, so like June fifteenth through, uh, I think the eighteenth, and basically we had the whole team there, you know?
+
+Customer Support: Got it, got it—so I'm seeing here... okay there's a reservation REF-7823-JM from June fifteenth, and it looks like there were some incidental charges posted to room, let me just... yeah, three hundred forty-two dollars in incidentals on top of the room rate.
+
+Customer: Wait, uh, three hundred? So like, here's the thing, I'm, um, I'm actually between contracts right now and, uh...
+
+Customer Support: Oh man, I hear you—freelance coaching is tough, my brother-in-law does basketball camps and it's feast or famine, you know? Looking at the breakdown here, charge code INC-4421-A shows a hundred fifty for what looks like room service, then there's INC-4421-B for ninety-two dollars marked as minibar...
+
+Customer: But like, um, how do I know these are even real? I mean, uh, we didn't really use the minibar, I don't think?
+
+Customer Support: Yeah no, totally fair question—honestly, hotels are notorious for this stuff, I had a charge once for a bathrobe I never even saw... Let me dig deeper into transaction log TXN-882934-C here, sometimes the descriptions are wrong or they accidentally charge the wrong room.
+
+Customer: So basically, um, my wife is already, uh, she's kind of upset about the whole budget thing and, er, I just...
+
+Customer Support: Mm-hmm, mm-hmm, I get it. So what I'm—let me just—actually, you know what? Since this is from three months back, I can file this under case number DSP-9847-TL as a delayed dispute, which gives us more options to work with.
+
+Customer: Um, so like what does that mean exactly? I mean, uh, probably sounds stupid but...
+
+Customer Support: No no, not stupid at all—basically means we can investigate even though it's past the normal sixty-day window, and honestly between you and me, dispute code DSP gives us way more flexibility than a standard inquiry would.
+
+Customer: Okay but, um, how do I know you're not just, like, telling me what I want to hear, you know?
+
+Customer Support: Fair. Completely fair. Tell you what—I'm gonna email you right now, reference number EML-7823-JP, with the exact dispute process timeline, and you'll get an automated confirmation from our system, not from me, showing case DSP-9847-TL is officially opened.
+
+Customer: So, uh, basically the kids, um, they maybe got into the snacks but like, er, three hundred dollars worth? I mean...
+
+Customer Support: Right? That's like—what, forty bags of chips? Look, I'm seeing pattern code PAT-881 here which flags unusually high minibar charges, happens a lot when the sensor gets triggered multiple times or someone restocks wrong...
+
+Customer: Um, so like, I'm supposed to trust that this'll actually, uh, get fixed? Because I mean, basically...
+
+Customer Support: Yeah, I—look, here's what I'm gonna do. Putting a provisional credit PCT-9923-K for half the amount right now, hundred seventy-one dollars, while we investigate, so at least you've got something back immediately instead of waiting.
+
+Customer: Wait really? Um, so like, that's, uh, that's actually happening? Like you're not just, er...
+
+Customer Support: Already processing—you'll see credit PCT-9923-K within twenty-four to forty-eight hours, and honestly, with that sensor flag I mentioned? We'll probably get the rest reversed too, these things usually go our way when there's a pattern.
+

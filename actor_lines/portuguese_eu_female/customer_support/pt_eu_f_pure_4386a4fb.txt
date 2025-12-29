@@ -1,0 +1,92 @@
+=== Source: 4386a4fb_script.json ===
+Language: European Portuguese
+Gender: female
+Mode: pure
+Content Type: customer_support
+Scenario: food truck owner, panicked because his card reader stopped working during lunch rush
+
+=== Translated Dialogue ===
+
+Customer [pure]: Hum, o meu terminal está—não está—ah, preciso de ajuda. Já.
+
+Customer Support [pure]: Certo! Ok então deixa-me abrir aqui a tua conta, podes dar-me o teu ID de comerciante ou o número de série do dispositivo que deve estar atrás?
+
+Customer [pure]: Eu não—espera, ah, tenho tipo cinquenta pessoas na fila e estou—hum—a perder dinheiro aqui...
+
+Customer Support [pure]: Sim sim, percebo perfeitamente, hum, então se virares o dispositivo deve ter um autocolante com SN- e depois uns números, ou posso procurar-te pelo nome da empresa se for mais rápido?
+
+Customer [pure]: Ah, é—Food Heaven—não espera, hum, Heaven's Kitchen Food Truck.
+
+Customer Support [pure]: Perfeito! Encontrei-te, conta MER-44892-TK, e consigo ver que o teu terminal Square SN-789456123 ficou offline há, oh! Doze minutos, foi quando parou?
+
+Customer [pure]: Sim e eu tentei—hum, já desliguei e liguei tipo—ah, três vezes.
+
+Customer Support [pure]: Boa jogada, é exatamente o que eu tentaria primeiro! Então, hum, a ver aqui os teus diagnósticos, o registo de transação TXN-445678901 mostra um timeout de rede, deixa-me só fazer aqui um reset remoto rápido.
+
+Customer [pure]: Podes só—quanto tempo? As pessoas estão literalmente a ir embora.
+
+Customer Support [pure]: Ok ok então o reset demora cerca de noventa segundos mas—oh espera! Estou a ver uma coisa aqui, a tua última transação bem-sucedida RCP-88234-P foi interrompida, o ecrã congelou durante um pagamento?
+
+Customer [pure]: Hum, sim estava—o cliente estava a comprar tacos e depois—ah, parou...
+
+Customer Support [pure]: Ahá! É é esse o problema mesmo, então quando a transação TXN-445678902 ficou presa bloqueou o sistema todo, mas boa notícia, posso forçar a limpeza daqui agora mesmo!
+
+Customer [pure]: Então tipo, hum, como é que eu—é—o que acontece ao pagamento dele?
+
+Customer Support [pure]: Então, hum, essa transação nunca foi concluída por isso o cartão dele não foi debitado, o número de referência VOID-22847-X confirma isso, e estou a enviar o comando de desbloqueio agora, deve demorar uns quinze segundos.
+
+Customer [pure]: Quinze segundos. Ótimo. Só perdi, ah, metade da hora de almoço mas...tanto faz.
+
+Customer Support [pure]: Eu sei eu sei, este timing é horrível, hum, mas olha—pronto! Código de estado 200-OK, o teu terminal deve estar a reiniciar agora com luz verde, estás a ver isso?
+
+Customer [pure]: Está—espera, hum—oh. Sim. Verde. Está... mesmo a funcionar?
+
+Customer Support [pure]: Sim! Adoro quando funciona assim tão rápido! O teu dispositivo está online outra vez, o ID de conexão NET-33492-LIVE mostra conectividade total, e, é, só para saberes, estou a creditar cinquenta euros na tua conta pelo incómodo, nota de crédito CRD-99234-F.
+
+Customer [pure]: Oh. Hum, uau isso é—ah—não estava à espera... obrigada.
+
+Customer Support [pure]: De nada! E hum, marquei a tua conta com código de prioridade PRI-GOLD-8823 por isso se isto voltar a acontecer saltas a fila, mas sinceramente não deve, esse bloqueio de transação é super raro.
+
+
+=== Original (English) ===
+
+Customer: Um, my card reader just—it's not—uh, I need help. Now.
+
+Customer Support: Got it! Okay so let me pull up your account here, can you give me your merchant ID or the device serial number that should be on the back?
+
+Customer: I don't—wait, uh, there's like fifty people in line and I'm—um—losing money here...
+
+Customer Support: Right right, totally understand, um, so if you flip the device over there should be a sticker with SN- and then some numbers, or I can look you up by business name if that's faster?
+
+Customer: Uh, it's—Food Heaven—no wait, um, Heaven's Kitchen Food Truck.
+
+Customer Support: Perfect! Found you, account MER-44892-TK, and I can see your Square terminal SN-789456123 went offline about, oh! Twelve minutes ago, is that when it stopped?
+
+Customer: Yeah and I tried—um, I already turned it off and on like—uh, three times.
+
+Customer Support: Smart move, that's exactly what I'd try first! So, um, looking at your diagnostics here, transaction log TXN-445678901 shows a network timeout, let me just run a quick remote reset sequence here.
+
+Customer: Can you just—how long? People are literally walking away.
+
+Customer Support: Okay okay so the reset takes about ninety seconds but—oh wait! I'm seeing something here, your last successful transaction RCP-88234-P was interrupted, did the screen freeze during a payment?
+
+Customer: Um, yeah it just—the guy was buying tacos and then it—uh, stopped...
+
+Customer Support: Aha! That's that's the issue right there, so when transaction TXN-445678902 got stuck it locked the whole system, but good news, I can force-clear it from my end right now!
+
+Customer: So like, um, how do I—er—what happens to his payment?
+
+Customer Support: So, um, that transaction was never completed so his card wasn't charged, reference number VOID-22847-X confirms that, and I'm pushing the unlock command now, should take about fifteen seconds.
+
+Customer: Fifteen seconds. Great. Only lost, uh, half my lunch rush but...whatever.
+
+Customer Support: I know I know, this timing is awful, um, but hey—there! Status code 200-OK, your terminal should be rebooting right now with a green light, are you seeing that?
+
+Customer: It's—wait, um—oh. Yeah. Green. It's... actually working?
+
+Customer Support: Yes! Love it when it works that fast! Your device is back online, connection ID NET-33492-LIVE shows full connectivity, and, er, just so you know, I'm crediting your account fifty dollars for the hassle, credit note CRD-99234-F.
+
+Customer: Oh. Um, wow that's—uh—I wasn't expecting... thanks.
+
+Customer Support: Absolutely! And um, I've flagged your account with priority code PRI-GOLD-8823 so if this happens again you'll skip the queue, but honestly it shouldn't, that transaction lock is super rare.
+

@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "J'ai été. Un client fidèle. Pendant sept ans. SEPT. Et vous me dites—vous me dites qu'on m'a facturé deux fois ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euh, d'accord alors, euh, laissez-moi juste consulter votre compte ici et, euh, je peux voir que l'ID de transaction TXN-94827-CE montre, euh, deux charges pour le même module de formation continue, et euh, je comprends pourquoi c'est frustrant."
+        },
+        {
+            "role": "Customer",
+            "content": "C'est c'est pas juste frustrant ! Euh, c'est... comment dire... euh, de la négligence ? De la faute professionnelle ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors, euh, je peux certainement vous aider avec ça, euh, et en regardant votre numéro de compte ACC-78293-ST, je vois que les deux charges sont passées le, euh, 15 novembre, donc euh, ce que je peux faire c'est soumettre une demande de remboursement pour une de ces charges."
+        },
+        {
+            "role": "Customer",
+            "content": "Écoutez. J'ai besoin—j'ai besoin de ces crédits de formation. Avant vendredi. Euh, pour le renouvellement de ma licence. Vous comprenez ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euh, absolument, alors, euh, la bonne nouvelle c'est que votre accès au module CEU-4482-LANG est, euh, déjà actif, et euh, vous pouvez le compléter n'importe quand, mais le remboursement pour la charge en double va, euh, prendre environ 3 à 5 jours ouvrables pour être traité via le formulaire REF-2024-1198."
+        },
+        {
+            "role": "Customer",
+            "content": "Trois à cinq ? Non non non. C'est. Euh. C'est mon paiement hypothécaire qui est là !"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors, euh, je comprends tout à fait l'urgence ici, et euh, même si je ne peux pas accélérer le processus bancaire, euh, ce que je peux faire c'est escalader ça avec le code de priorité PRI-URGENT-6673 pour, euh, m'assurer que ce soit traité dans les délais les plus courts."
+        },
+        {
+            "role": "Customer",
+            "content": "Je ne—je ne comprends pas. Euh. Comment c'est possible ? Votre système. Il est censé empêcher ça !"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euh, vous avez tout à fait raison, et euh, en regardant les logs techniques ici sous le ticket TKT-889274, il semble qu'il y ait eu, euh, un bref bug système pendant le paiement qui, euh, a permis la soumission en double, ce qui ne devrait évidemment pas arriver."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, d'accord alors... alors vous admettez. C'est votre faute. La faute de votre système. N'est-ce pas ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oui, euh, c'était définitivement une erreur de notre côté, et euh, j'ai noté ça dans votre dossier CSE-20241127-B, donc euh, on va s'assurer que ce soit complètement résolu."
+        },
+        {
+            "role": "Customer",
+            "content": "Je suis je suis littéralement. Euh. En train d'animer un atelier demain. Sur les troubles de la communication. L'ironie. Euh. De ne pas pouvoir communiquer avec votre service de facturation !"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euh, je vous entends, et euh, je sais que ce timing est vraiment malheureux, alors, euh, ce que je vais aussi faire c'est ajouter une note à votre compte avec le numéro de référence REF-COMP-8892 pour, euh, un crédit de 20% sur votre prochain achat de crédits de formation comme excuse pour ce désagrément."
+        },
+        {
+            "role": "Customer",
+            "content": "Vingt pour cent ? C'est c'est... euh... enfin mon temps. Euh. Mon temps sur cet appel. Vaut plus que ça !"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors, euh, vous soulevez un point vraiment valide là, et euh, laissez-moi voir ce que je peux, euh, offrir d'autre... d'accord alors avec le code d'autorisation superviseur SUP-OVERRIDE-4421, je peux, euh, en fait augmenter ça à un crédit complet de 50$ à la place."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, je suis juste... écoutez, je suis je suis épuisé. D'accord ? Vous pouvez juste. Euh. Vous pouvez garantir le remboursement pour vendredi ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euh, alors même si je ne peux pas techniquement garantir la date exacte parce que, euh, ça dépend du traitement de votre banque, ce que je peux faire c'est, euh, marquer ça avec le code d'expédition EXP-PRIORITY-7756 qui, euh, d'après mon expérience, veut généralement dire que vous le verrez dans les 48 heures."
+        },
+        {
+            "role": "Customer",
+            "content": "Généralement. Généralement c'est pas... euh... oh mon Dieu. Bon. D'accord d'accord d'accord. Faites. Faites-le."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euh, parfait, alors j'ai tout traité maintenant, euh, vous allez recevoir un courriel de confirmation à l'adresse enregistrée avec tous les numéros de référence incluant votre numéro de dossier principal CSE-20241127-B, et euh, je vais personnellement surveiller ça pour m'assurer que tout se passe bien."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I've been. A loyal customer. For seven years. SEVEN. And you're telling me—you're telling me I was double-charged?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, okay so, uh, let me just pull up your account here and, um, I can see the transaction ID TXN-94827-CE shows, uh, two charges for the same continuing education module, and um, I understand why that's frustrating."
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's not just frustrating! Um, this is... what's the word... er, malpractice? Professional negligence?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I can definitely help you with this, uh, and looking at your account number ACC-78293-ST, I see both charges went through on, um, November 15th, so uh, what I can do is submit a refund request for one of those charges."
+        },
+        {
+            "role": "Customer",
+            "content": "Listen. I need—I need these CEUs. By Friday. Um, for my license renewal. Do you understand?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, absolutely, so, uh, the good news is that your access to module CEU-4482-LANG is, um, already active, and uh, you can complete it anytime, but the refund for the duplicate charge will, um, take about 3-5 business days to process through form REF-2024-1198."
+        },
+        {
+            "role": "Customer",
+            "content": "Three to five? No no no. That's. Um. That's my mortgage payment sitting there!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I completely understand the urgency here, and uh, while I can't speed up the banking process, um, what I can do is escalate this with priority code PRI-URGENT-6673 to, uh, make sure it gets processed on the faster end of that timeline."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—I just don't. Er. How does this even happen? Your system. It's supposed to prevent this!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, you're absolutely right, and uh, looking at the technical logs here under ticket TKT-889274, it seems there was, um, a brief system glitch during checkout that, uh, allowed the duplicate submission, which obviously shouldn't happen."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so... so you admit. It's your fault. Your system's fault. Right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, um, this was definitely an error on our end, and uh, I've noted that in your case file CSE-20241127-B, so um, we'll make sure this gets fully resolved."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm I'm literally. Er. Teaching a workshop tomorrow. About communication disorders. The irony. Um. Of not being able to communicate with your billing department!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, I hear you, and uh, I know this timing is really unfortunate, so, um, what I'm also going to do is add a note to your account with reference number REF-COMP-8892 for, uh, a 20% credit on your next CEU purchase as an apology for this inconvenience."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty percent? That's that's... um... I mean my time. Er. My time on this call. Is worth more than that!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, you make a really valid point there, and uh, let me see what else I can, um, offer here... okay so with supervisor approval code SUP-OVERRIDE-4421, I can, uh, actually bump that up to a full $50 credit instead."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I just... look, I'm I'm exhausted. Okay? Can you just. Er. Can you guarantee the refund by Friday?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so while I can't technically guarantee the exact date because, uh, it depends on your bank's processing, what I can do is, um, mark this with expedite code EXP-PRIORITY-7756 which, uh, in my experience, usually means you'll see it within 48 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Usually. Usually isn't... er... oh God. Um. Fine. Okay okay okay. Just. Do it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, perfect, so I've processed everything now, uh, you'll receive an email confirmation at the address on file with all the reference numbers including your main case number CSE-20241127-B, and um, I'll personally monitor this to make sure it goes through smoothly."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "021f8c18_script.json",
+    "scenario": "speech therapist, articulate and precise about describing a continuing education billing problem",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "indignant_righteous",
+                "desperate_pleading"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "classic_fillers",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "professionally_firm",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

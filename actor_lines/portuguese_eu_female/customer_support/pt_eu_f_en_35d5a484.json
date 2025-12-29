@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, so I just tried to, uh, order something and it said—wait, I think it said my card was declined?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm I'm so sorry that happened to you. Um, that must have been really frustrating, especially if you were, uh, in the middle of checking out. Let me pull up your account here with, hmm, transaction ID TXN-9284-XK and we'll figure this out together, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? You can actually help with this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, um, I mean, of course! So I'm looking at, uh, your payment attempt from about, er, three minutes ago, reference number REF-8372-YM41, and, um, I can see exactly what happened here..."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, um, I sort of expected to be on hold forever, so like, this is... nice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I I totally understand that feeling. The system shows your card ending in 4782 was flagged because, and this is so annoying when it happens, your bank thought it was suspicious since you haven't ordered from us in six months."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course they did. Because why would anything just, you know..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, um, I really do. It's it's like the banks, uh, they're trying to protect you but then they, hmm, they overdo it? Your authorization code AUT-1629-BK22 just needs, um, a quick verification and we can retry it right away."
+        },
+        {
+            "role": "Customer",
+            "content": "So um, wait, I don't have to like, call my bank and sit through their whole... thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, not at all! I can can actually handle this from my end. The declined transaction TXN-9284-XK is still pending, so if you're ready, I can resubmit it with override code OVR-7731-QP right now."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—I mean—actually? Um, I was preparing for like, uh, an hour of phone tag, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so here's what I'm gonna do, and, uh, this is because you've been so patient—I'm adding, er, free expedited shipping to your order ORD-5524-TL90, so you'll get it in, hmm, two days instead of five."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, seriously? I didn't even ask for—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's it's the least I can do. Um, honestly, the payment system has been, uh, a little overzealous lately and, hmm, I've been adding shipping upgrades all week. Let me just, um, process this with confirmation PRC-8821-VX33..."
+        },
+        {
+            "role": "Customer",
+            "content": "This is so much better than I thought... probably not supposed to be this easy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, everything went through smoothly this time. Your new receipt number is RCP-4419-MN82, and, uh, you should get an email in about, hmm, thirty seconds confirming everything."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, um, I'm kind of in shock? Like, uh, usually customer service is more... you know what I mean..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I I really do know what you mean. Before I worked here, I had this nightmare experience with my bank where—anyway, is there anything else I can help you with today? Your order ORD-5524-TL90 is all set, but I'm here if you need anything."
+        },
+        {
+            "role": "Customer",
+            "content": "No, I think I'm—wait, did you say two-day shipping? For free?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yes! Absolutely free, and, uh, if you check your email, tracking number TRK-6637-RS29 will be, hmm, active by tonight. Thank you so much for your patience with the whole payment thing, and er, honestly, for being so nice about it."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, so I just tried to, uh, order something and it said—wait, I think it said my card was declined?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm I'm so sorry that happened to you. Um, that must have been really frustrating, especially if you were, uh, in the middle of checking out. Let me pull up your account here with, hmm, transaction ID TXN-9284-XK and we'll figure this out together, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? You can actually help with this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, um, I mean, of course! So I'm looking at, uh, your payment attempt from about, er, three minutes ago, reference number REF-8372-YM41, and, um, I can see exactly what happened here..."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, um, I sort of expected to be on hold forever, so like, this is... nice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I I totally understand that feeling. The system shows your card ending in 4782 was flagged because, and this is so annoying when it happens, your bank thought it was suspicious since you haven't ordered from us in six months."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course they did. Because why would anything just, you know..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, um, I really do. It's it's like the banks, uh, they're trying to protect you but then they, hmm, they overdo it? Your authorization code AUT-1629-BK22 just needs, um, a quick verification and we can retry it right away."
+        },
+        {
+            "role": "Customer",
+            "content": "So um, wait, I don't have to like, call my bank and sit through their whole... thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, not at all! I can can actually handle this from my end. The declined transaction TXN-9284-XK is still pending, so if you're ready, I can resubmit it with override code OVR-7731-QP right now."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—I mean—actually? Um, I was preparing for like, uh, an hour of phone tag, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so here's what I'm gonna do, and, uh, this is because you've been so patient—I'm adding, er, free expedited shipping to your order ORD-5524-TL90, so you'll get it in, hmm, two days instead of five."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, seriously? I didn't even ask for—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's it's the least I can do. Um, honestly, the payment system has been, uh, a little overzealous lately and, hmm, I've been adding shipping upgrades all week. Let me just, um, process this with confirmation PRC-8821-VX33..."
+        },
+        {
+            "role": "Customer",
+            "content": "This is so much better than I thought... probably not supposed to be this easy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, everything went through smoothly this time. Your new receipt number is RCP-4419-MN82, and, uh, you should get an email in about, hmm, thirty seconds confirming everything."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, um, I'm kind of in shock? Like, uh, usually customer service is more... you know what I mean..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I I really do know what you mean. Before I worked here, I had this nightmare experience with my bank where—anyway, is there anything else I can help you with today? Your order ORD-5524-TL90 is all set, but I'm here if you need anything."
+        },
+        {
+            "role": "Customer",
+            "content": "No, I think I'm—wait, did you say two-day shipping? For free?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yes! Absolutely free, and, uh, if you check your email, tracking number TRK-6637-RS29 will be, hmm, active by tonight. Thank you so much for your patience with the whole payment thing, and er, honestly, for being so nice about it."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "35d5a484_script.json",
+    "scenario": "asking why their payment method was declined",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "surprised_delighted",
+                "annoyed_sarcastic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "hedge_words",
+                    "false_starts",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "genuinely_warm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

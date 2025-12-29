@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I'm... I'm probably calling the wrong department. Sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no no, um, you're absolutely fine, don't worry about that at all! I'm here to help with, uh, whatever you need today. Let me just, um, pull up the right screen here and—sorry, the system's being a bit slow—there we go. What can I assist you with?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm, uh, I'm a funeral director. Need to transfer... let me think... a prepaid account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, of course."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry, I should've had the papers ready. I'm just... this is awkward."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Please, um, please don't feel awkward at all, this is—we handle these transfers, uh, pretty regularly actually. Let me just get into the, um, the prepaid services system here, it's loading up now with reference code PSV-4429-RT, and, uh, I'll need just a few details from you to get started, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, the account holder... they passed yesterday. I think it's under Morrison?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Morrison, okay, um, let me search that for you right now... I'm seeing, uh, let's see here... three Morrison accounts in our prepaid system, so I'll need to—sorry, let me narrow this down—um, do you happen to have maybe a first name or, uh, an account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... Margaret? Margaret Morrison, probably?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, yes."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, sorry, I'm being so... unprepared. First time doing this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please, um, honestly you're doing just fine, and I completely understand this is, uh, this can be a difficult process. So I've found Margaret Morrison's account here, it's showing as, um, account number PRE-88256-MK, and I can see it's been active since—sorry, let me scroll down—since 2019, is that sounding right to you?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's... yes. Sort of sounds right. I think?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so, um, now what I'm going to do is, uh, I'm going to set up what we call a—sorry, it's called a beneficiary transfer protocol, and um, basically this ensures that all the prepaid services get properly, uh, moved over to your funeral home's system, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I just... let me see here... do you need our license number?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually yes, um, that would be really helpful, thank you for thinking of that! And, uh, while you're getting that, I'm just going to, um, make a note here in case number CSE-90847-PL that we're initiating this transfer today so there's no—sorry, so nothing gets delayed on your end."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh, FL-4429. Wait no, sorry. FL-4492."
+        },
+        {
+            "role": "Customer Support",
+            "content": "FL-4492, got it, perfect, um, and I'm entering that now... okay so, uh, the good news is everything's verified and I can see your funeral home is already in our, um, our approved provider network under ID FHP-3365-K, which means this should be, uh, really straightforward from here."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. That's... I mean, that's good. Sorry for being so scattered."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, um, please don't apologize at all! You've been wonderful to work with and, uh, listen, I'm going to personally monitor this transfer with tracking number TRN-55429-QM to make sure it goes through smoothly, and um, I'll even send you an email confirmation so you have everything, uh, everything documented on your end, okay? Is there anything else I can help you with today?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I'm... I'm probably calling the wrong department. Sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no no, um, you're absolutely fine, don't worry about that at all! I'm here to help with, uh, whatever you need today. Let me just, um, pull up the right screen here and—sorry, the system's being a bit slow—there we go. What can I assist you with?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm, uh, I'm a funeral director. Need to transfer... let me think... a prepaid account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, of course."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry, I should've had the papers ready. I'm just... this is awkward."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Please, um, please don't feel awkward at all, this is—we handle these transfers, uh, pretty regularly actually. Let me just get into the, um, the prepaid services system here, it's loading up now with reference code PSV-4429-RT, and, uh, I'll need just a few details from you to get started, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, the account holder... they passed yesterday. I think it's under Morrison?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Morrison, okay, um, let me search that for you right now... I'm seeing, uh, let's see here... three Morrison accounts in our prepaid system, so I'll need to—sorry, let me narrow this down—um, do you happen to have maybe a first name or, uh, an account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... Margaret? Margaret Morrison, probably?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, yes."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, sorry, I'm being so... unprepared. First time doing this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please, um, honestly you're doing just fine, and I completely understand this is, uh, this can be a difficult process. So I've found Margaret Morrison's account here, it's showing as, um, account number PRE-88256-MK, and I can see it's been active since—sorry, let me scroll down—since 2019, is that sounding right to you?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's... yes. Sort of sounds right. I think?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so, um, now what I'm going to do is, uh, I'm going to set up what we call a—sorry, it's called a beneficiary transfer protocol, and um, basically this ensures that all the prepaid services get properly, uh, moved over to your funeral home's system, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I just... let me see here... do you need our license number?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually yes, um, that would be really helpful, thank you for thinking of that! And, uh, while you're getting that, I'm just going to, um, make a note here in case number CSE-90847-PL that we're initiating this transfer today so there's no—sorry, so nothing gets delayed on your end."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh, FL-4429. Wait no, sorry. FL-4492."
+        },
+        {
+            "role": "Customer Support",
+            "content": "FL-4492, got it, perfect, um, and I'm entering that now... okay so, uh, the good news is everything's verified and I can see your funeral home is already in our, um, our approved provider network under ID FHP-3365-K, which means this should be, uh, really straightforward from here."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. That's... I mean, that's good. Sorry for being so scattered."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, um, please don't apologize at all! You've been wonderful to work with and, uh, listen, I'm going to personally monitor this transfer with tracking number TRN-55429-QM to make sure it goes through smoothly, and um, I'll even send you an email confirmation so you have everything, uh, everything documented on your end, okay? Is there anything else I can help you with today?"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3a001240_script.json",
+    "scenario": "funeral director, calling about transferring a deceased client's prepaid service account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "warming_up"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "hedge_words",
+                    "self_corrections",
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "gently_reassuring",
+                "nurturing_protective"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

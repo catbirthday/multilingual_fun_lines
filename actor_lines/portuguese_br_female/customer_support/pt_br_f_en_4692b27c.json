@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Wait, so—no, I need—how do I know you're even really from payroll?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hi there! Um, thanks for calling. So I'm—let me just—I'm with employee services. Got your employee ID? I can, uh, pull up your direct deposit info. Just need that six-digit code."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, wait—no, first tell me—uh, why'd my check go to a dead account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. Okay. So, um, looking at—give me just—your employee ID first? Then I can, uh, see exactly what happened. The system shows. Um. All the routing details. Every transaction."
+        },
+        {
+            "role": "Customer",
+            "content": "Eight. Four. Seven—no wait—nine. Four. Seven. Two. One. Six."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Employee ID 947216. Got it. So, um, I'm seeing—okay so—your last deposit on, uh, November 15th went to account ending in 3847. Transaction ID is, um, PAY-38492-NX. That the closed one?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that's—of course it is. Closed that. Two months back."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, yeah, I know. Frustrating. So the thing is—um, when you close an account? You gotta, uh, update it here too. Form W4-DD. Nobody tells you that though. Super annoying."
+        },
+        {
+            "role": "Customer",
+            "content": "So like, um, where's—where's my money then? Just gone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no! Money's safe. So, um, what happens is—uh, the bank rejects it. Bounces back. Takes like, um, three to five days usually. Your case number is, uh, RET-592847-Q. Should hit your account. By Thursday."
+        },
+        {
+            "role": "Customer",
+            "content": "Thursday? I'm—no, I work nights. Tips don't cover rent."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Bartending's tough. So—okay wait—let me just, um, check something else here. Your return code shows, uh, R02-closed account. Standard bounce. But I can—hmm—expedite this maybe?"
+        },
+        {
+            "role": "Customer",
+            "content": "How do I—uh, how do I even know it's really coming back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Suspicious. Fair. Um, so you'll get—uh, an email confirmation. To your work email. Reference number, um, EXP-38291-TK7. Also shows in your, uh, employee portal. Under \"payment history.\""
+        },
+        {
+            "role": "Customer",
+            "content": "Um, and then—wait, so then what? Still no account to send it to."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, two options here. Paper check—takes forever. Or. Update your direct deposit. Right now. Form's in the system. Take me, uh, five minutes? New deposit hits the corrected account."
+        },
+        {
+            "role": "Customer",
+            "content": "Paper check. Don't—don't trust giving numbers over the phone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally fair. So, um, for the paper check—processing code CHK-847291-M—it'll go to, uh, your address on file. That still current? Need to verify. For security."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's—wait, you tell me what you have first."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sure sure. So I'm showing, um, 4827 Oak Street. Apartment, uh, 2B. Zip code 94117. That right? Once confirmed, check prints tomorrow. Arrives in, um, seven to ten business days typically."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Wait, so—no, I need—how do I know you're even really from payroll?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hi there! Um, thanks for calling. So I'm—let me just—I'm with employee services. Got your employee ID? I can, uh, pull up your direct deposit info. Just need that six-digit code."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, wait—no, first tell me—uh, why'd my check go to a dead account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. Okay. So, um, looking at—give me just—your employee ID first? Then I can, uh, see exactly what happened. The system shows. Um. All the routing details. Every transaction."
+        },
+        {
+            "role": "Customer",
+            "content": "Eight. Four. Seven—no wait—nine. Four. Seven. Two. One. Six."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Employee ID 947216. Got it. So, um, I'm seeing—okay so—your last deposit on, uh, November 15th went to account ending in 3847. Transaction ID is, um, PAY-38492-NX. That the closed one?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that's—of course it is. Closed that. Two months back."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, yeah, I know. Frustrating. So the thing is—um, when you close an account? You gotta, uh, update it here too. Form W4-DD. Nobody tells you that though. Super annoying."
+        },
+        {
+            "role": "Customer",
+            "content": "So like, um, where's—where's my money then? Just gone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no! Money's safe. So, um, what happens is—uh, the bank rejects it. Bounces back. Takes like, um, three to five days usually. Your case number is, uh, RET-592847-Q. Should hit your account. By Thursday."
+        },
+        {
+            "role": "Customer",
+            "content": "Thursday? I'm—no, I work nights. Tips don't cover rent."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Bartending's tough. So—okay wait—let me just, um, check something else here. Your return code shows, uh, R02-closed account. Standard bounce. But I can—hmm—expedite this maybe?"
+        },
+        {
+            "role": "Customer",
+            "content": "How do I—uh, how do I even know it's really coming back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Suspicious. Fair. Um, so you'll get—uh, an email confirmation. To your work email. Reference number, um, EXP-38291-TK7. Also shows in your, uh, employee portal. Under \"payment history.\""
+        },
+        {
+            "role": "Customer",
+            "content": "Um, and then—wait, so then what? Still no account to send it to."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, two options here. Paper check—takes forever. Or. Update your direct deposit. Right now. Form's in the system. Take me, uh, five minutes? New deposit hits the corrected account."
+        },
+        {
+            "role": "Customer",
+            "content": "Paper check. Don't—don't trust giving numbers over the phone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally fair. So, um, for the paper check—processing code CHK-847291-M—it'll go to, uh, your address on file. That still current? Need to verify. For security."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's—wait, you tell me what you have first."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sure sure. So I'm showing, um, 4827 Oak Street. Apartment, uh, 2B. Zip code 94117. That right? Once confirmed, check prints tomorrow. Arrives in, um, seven to ten business days typically."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4692b27c_script.json",
+    "scenario": "bartender, frustrated that his direct deposit went to a bank account he already closed",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "bitter_defeated"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "cheerfully_efficient",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

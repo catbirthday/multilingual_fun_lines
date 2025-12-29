@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hum, então eu sou cliente há, eh, 12 anos e a minha conta está simplesmente—está completamente bloqueada, acho eu, e hum, isto é mesmo inaceitável."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Está bem. Deixa-me. Ver isso. Qual é o email da conta?"
+        },
+        {
+            "role": "Customer",
+            "content": "É, eh, janet ponto miller arroba, hum, arroba webmail ponto com e eu simplesmente—quer dizer, preciso mesmo que isto seja resolvido imediatamente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pronto então, hum, estou a ver a conta JNM-448392-Q aqui e, eh, isto é estranho na verdade, diz que houve, hmm, 5 tentativas falhadas de login? Há cerca de hum, há cerca de uma hora?"
+        },
+        {
+            "role": "Customer",
+            "content": "5? Quer dizer eu tentei talvez—espera não na verdade—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pois então, hum, o sistema bloqueia automaticamente depois de, eh, depois de 3 tentativas. But you said five so... hmm. Estavas talvez, hum, a tentar passwords diferentes ou...?"
+        },
+        {
+            "role": "Customer",
+            "content": "Eu estava simplesmente—olha eu tenho usado a mesma password há, hum, há anos e de repente simplesmente, eh, não está a funcionar e quer dizer isto é meio ridículo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo certo. Então. A questão é. O nosso sistema mostra. A última mudança de password foi... ontem às 15:47."
+        },
+        {
+            "role": "Customer",
+            "content": "Ontem? Não isso é—quer dizer eu não—hum, espera, eu recebi aquele email sobre, eh, sobre atualizar as definições de segurança mas pensei—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah está bem então, hum, mudaste mesmo então? Because I can see here, eh, o código de confirmação SEC-990281-K foi enviado para o teu email e, hmm, foi verificado por isso..."
+        },
+        {
+            "role": "Customer",
+            "content": "Talvez tenha—Deus isto é—desculpa estou mesmo stressada e—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não é, hum, é totalmente normal. Acontece sempre na verdade. Então, eh, talvez te lembres para o que mudaste? Ou tipo, hum, escreveste em algum lado...?"
+        },
+        {
+            "role": "Customer",
+            "content": "Eu normalmente só, hum, adiciono números à antiga mas eu—ah espera, eh, acho que talvez tenha—deixa-me ver a minha, hum, a minha app de notas."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito. Não tenhas pressa. While you're looking. Posso enviar um link de reset para o teu email de recuperação?"
+        },
+        {
+            "role": "Customer",
+            "content": "Encontrei! Oh meu Deus sou uma idiota, esqueci-me completamente que—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ei não te preocupes, hum, a sério tipo tive 3 pessoas hoje com, eh, com a mesma coisa. So you're good to, hum, tentar fazer login agora ou queres aquele link de reset por via das dúvidas?"
+        },
+        {
+            "role": "Customer",
+            "content": "Vou tentar—sim está, hum, está a funcionar agora. I'm so sorry for, eh, por ser difícil, pensei que alguém tipo me tinha hackeado ou assim."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Percebo totalmente. Aquele pânico quando não consegues entrar. Happens to me with my bank like. Todos os meses."
+        },
+        {
+            "role": "Customer",
+            "content": "Foste mesmo paciente, sei que provavelmente estava—enfim obrigada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah por favor, hum, isto foi na verdade meio refrescante? Like usually it's, eh, problemas técnicos reais que não consigo resolver então, hmm, vitória fácil para mim hoje. Mais alguma coisa que precises enquanto tenho a tua conta REC-20241209-T aberta?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so I've been a customer for, uh, twelve years and my account is just—it's completely locked, I think, and um, this is really unacceptable."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay. Let me. Pull that up. What's the email on the account?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh, janet dot miller at, um, at webmail dot com and I just—I mean, I kind of need this fixed immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so, um, I'm seeing account JNM-448392-Q here and, uh, that's weird actually, it says there were, hmm, five failed login attempts? About um, about an hour ago?"
+        },
+        {
+            "role": "Customer",
+            "content": "Five? I mean I tried maybe—wait no actually—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, the system automatically locks after, uh, after three attempts. But you said five so... hmm. Were you maybe, um, trying different passwords or...?"
+        },
+        {
+            "role": "Customer",
+            "content": "I was just—look I've been using the same password for, um, for years and suddenly it's just, uh, not working and I mean this is kind of ridiculous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So. The thing is. Our system shows. The last password change was... yesterday at 3:47 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Yesterday? No that's—I mean I didn't—um, wait, I did get that email about, uh, about updating security settings but I thought—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay so, um, you did change it then? Because I can see here, uh, confirmation code SEC-990281-K was sent to your email and, hmm, it was verified so..."
+        },
+        {
+            "role": "Customer",
+            "content": "I might have—God this is—I'm sorry I'm just really stressed and—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no it's, um, it's totally fine. Happens all the time actually. So, uh, do you maybe remember what you changed it to? Or like, um, did you write it down anywhere...?"
+        },
+        {
+            "role": "Customer",
+            "content": "I usually just, um, add numbers to my old one but I—oh wait, uh, I think I might have—let me check my, um, my notes app."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Take your time. While you're looking. I can send a reset link to your recovery email?"
+        },
+        {
+            "role": "Customer",
+            "content": "Found it! Oh my God I'm such an idiot, I completely forgot I—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no worries, um, seriously like I had three people today with, uh, with the same thing. So you're good to, um, to try logging in now or do you want that reset link just in case?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'll try—yeah it's, um, it's working now. I'm so sorry for, uh, for being difficult, I thought someone had like hacked me or something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally get it. That panic when you can't get in. Happens to me with my bank like. Every month."
+        },
+        {
+            "role": "Customer",
+            "content": "You've been really patient, I know I was probably—anyway thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please, um, this was actually kind of refreshing? Like usually it's, uh, actual technical problems I can't fix so, hmm, easy win for me today. Anything else you need while I've got your account REC-20241209-T pulled up?"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4034f7a4_script.json",
+    "scenario": "embarrassed because they think they might have caused the problem themselves",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "indignant_righteous",
+                "apologetic_embarrassed"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words",
+                    "breath_catches",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

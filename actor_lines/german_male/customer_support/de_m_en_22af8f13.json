@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically. My lockbox app. Like it's not. Opening?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, okay so—let me just, uh—actually wait, can you tell me which, er, which lockbox system you're using? Is it, um, the SentriLock or the, uh, eKEY system?"
+        },
+        {
+            "role": "Customer",
+            "content": "SentriLock. So like. I have a showing. Fifteen minutes basically."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, um, okay so I'm pulling up your account here and, uh, let me just—actually no wait—I need your, er, agent ID first, it should be like AGT-something with, um, six digits after?"
+        },
+        {
+            "role": "Customer",
+            "content": "So it's um, like AGT-482916. Thank you so much. Like seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, I can see your account AGT-482916 here and, uh—oh wait, I think—no actually, er, it looks like your subscription expired, um, yesterday at midnight?"
+        },
+        {
+            "role": "Customer",
+            "content": "What. No. Like that's. I just. Okay."
+        },
+        {
+            "role": "Customer Support",
+            "content": "But don't worry! I'm going to, um, I'm going to make sure we get this fixed right now, okay? So basically what I can do is, er, push through an emergency reactivation code, it's, uh, gonna be ERC-7729-XK and that should, um, get you access immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "You're amazing. So like. How do I. Enter that basically?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, in your app you'll go to Settings, then, uh, then Account Management, and there's gonna be a, er, a field that says \"activation code\" and you'll type ERC-7729-XK exactly like that, all caps."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so like, um, I'm typing it now and, uh, basically it's just. Spinning?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's normal! It takes, um, about thirty seconds to—actually wait, er, let me just verify something—your device ID is, uh, showing as DEV-38847-B right?"
+        },
+        {
+            "role": "Customer",
+            "content": "How do I. Check that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh sorry, um, that's on my end actually, I can see it here. So, er, while it's processing, I'm also going to, um, set up an auto-renewal for you so this doesn't—I mean, so you don't have to deal with this again, is that okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. Please. So exhausted. From all this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, totally understand, and I'm, uh, I'm really sorry about the timing with your showing and everything. The system should, er, should be coming back online right... now actually. Can you check?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god. Yes. Working. Thank you so much. Like seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! And, um, just so you know, I've added a note to your account AGT-482916 that, er, that flags you for priority support, so if you ever—I mean, um, if anything happens again, we'll get you helped faster."
+        },
+        {
+            "role": "Customer",
+            "content": "That's so. Kind. Really. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! And, um, your confirmation for today's reactivation is, er, CNF-99284-TM if you need it for, uh, for your records or anything. Good luck with your showing!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically. My lockbox app. Like it's not. Opening?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, okay so—let me just, uh—actually wait, can you tell me which, er, which lockbox system you're using? Is it, um, the SentriLock or the, uh, eKEY system?"
+        },
+        {
+            "role": "Customer",
+            "content": "SentriLock. So like. I have a showing. Fifteen minutes basically."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, um, okay so I'm pulling up your account here and, uh, let me just—actually no wait—I need your, er, agent ID first, it should be like AGT-something with, um, six digits after?"
+        },
+        {
+            "role": "Customer",
+            "content": "So it's um, like AGT-482916. Thank you so much. Like seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, I can see your account AGT-482916 here and, uh—oh wait, I think—no actually, er, it looks like your subscription expired, um, yesterday at midnight?"
+        },
+        {
+            "role": "Customer",
+            "content": "What. No. Like that's. I just. Okay."
+        },
+        {
+            "role": "Customer Support",
+            "content": "But don't worry! I'm going to, um, I'm going to make sure we get this fixed right now, okay? So basically what I can do is, er, push through an emergency reactivation code, it's, uh, gonna be ERC-7729-XK and that should, um, get you access immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "You're amazing. So like. How do I. Enter that basically?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, in your app you'll go to Settings, then, uh, then Account Management, and there's gonna be a, er, a field that says \"activation code\" and you'll type ERC-7729-XK exactly like that, all caps."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so like, um, I'm typing it now and, uh, basically it's just. Spinning?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's normal! It takes, um, about thirty seconds to—actually wait, er, let me just verify something—your device ID is, uh, showing as DEV-38847-B right?"
+        },
+        {
+            "role": "Customer",
+            "content": "How do I. Check that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh sorry, um, that's on my end actually, I can see it here. So, er, while it's processing, I'm also going to, um, set up an auto-renewal for you so this doesn't—I mean, so you don't have to deal with this again, is that okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. Please. So exhausted. From all this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, totally understand, and I'm, uh, I'm really sorry about the timing with your showing and everything. The system should, er, should be coming back online right... now actually. Can you check?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god. Yes. Working. Thank you so much. Like seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! And, um, just so you know, I've added a note to your account AGT-482916 that, er, that flags you for priority support, so if you ever—I mean, um, if anything happens again, we'll get you helped faster."
+        },
+        {
+            "role": "Customer",
+            "content": "That's so. Kind. Really. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! And, um, your confirmation for today's reactivation is, er, CNF-99284-TM if you need it for, uh, for your records or anything. Good luck with your showing!"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "22af8f13_script.json",
+    "scenario": "real estate agent, impatient because she has a showing in fifteen minutes",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "genuinely_grateful",
+                "exhausted_worn"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "patient_teacher",
+                "nurturing_protective"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So, um, I got this call earlier and, uh, let me see here... they said they were from you guys?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, yes absolutely, I can, uh, definitely help you verify that. So let me just, um, pull up our outbound call logs here and, uh, can you tell me what time approximately the call came in and, um, what number showed up on your caller ID?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, okay so it was, um, around two-thirty I think."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, got it."
+        },
+        {
+            "role": "Customer",
+            "content": "The number was... wait let me check my phone... 800-555-9823."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm checking here and, uh, that number you mentioned, it's actually not one of our official numbers. Our main support line is 800-555-4700, and um, all our outbound calls would show either that or, uh, sometimes they show as private but never that specific number you mentioned."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. So that means... hmm, what if they just used a different line?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand why you'd think that, and, um, honestly I really wish I had better news here but, uh, we log every single call in our system under tracking code CTR-2024-NOV, and um, I'm not seeing anything to your number today at all, which, uh, I'm really sorry but it does suggest this wasn't legitimate."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, they knew my account balance though, like, exactly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, that's, um, that's really concerning actually, and I'm so sorry you're dealing with this. Let me, uh, immediately flag your account with security code SEC-77492-ALERT, and um, unfortunately scammers sometimes, uh, they get partial information from data breaches and then they call pretending to be us."
+        },
+        {
+            "role": "Customer",
+            "content": "Great. Just... great. Of course this happens."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, it's so frustrating and honestly, um, we see this happening more and more and it just, uh, it makes me angry too because people work hard for their money and then these scammers just... anyway, let me make sure your account is completely secure, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, okay, so what do I, uh, what exactly do I need to do here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, first thing, and this is really important, did you give them any information like, uh, passwords or verification codes or anything like that?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, I... hmm, let me think... no, they asked but something felt off."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh thank goodness, that's, um, that's actually really good instincts on your part. So, uh, what I'm going to do right now is put a verification lock on your account under reference VRL-88563-TEMP, which means, um, basically for the next 30 days nobody can make any changes without calling in and, uh, going through extra security steps."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means, um, my account's safe then? Like they can't... do anything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, absolutely, your account is, um, it's going to be completely protected now, and, uh, since you didn't give them any verification info, they can't access anything. The lock I'm placing with code LOCK-44892-ACTIVE is, um, it's our highest level of security."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, alright, that's... okay that's actually a relief. I was really worried there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No, I completely understand, and um, you did exactly the right thing by calling us to check. Really, I mean it. And, uh, just so you know going forward, we'll never call asking for passwords or pins, we'll always reference your case number like today's which is CASE-20241115-3847, and, um, if you're ever unsure, just hang up and call us back at our main number."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So, um, I got this call earlier and, uh, let me see here... they said they were from you guys?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, yes absolutely, I can, uh, definitely help you verify that. So let me just, um, pull up our outbound call logs here and, uh, can you tell me what time approximately the call came in and, um, what number showed up on your caller ID?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, okay so it was, um, around two-thirty I think."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, got it."
+        },
+        {
+            "role": "Customer",
+            "content": "The number was... wait let me check my phone... 800-555-9823."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm checking here and, uh, that number you mentioned, it's actually not one of our official numbers. Our main support line is 800-555-4700, and um, all our outbound calls would show either that or, uh, sometimes they show as private but never that specific number you mentioned."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. So that means... hmm, what if they just used a different line?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand why you'd think that, and, um, honestly I really wish I had better news here but, uh, we log every single call in our system under tracking code CTR-2024-NOV, and um, I'm not seeing anything to your number today at all, which, uh, I'm really sorry but it does suggest this wasn't legitimate."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, they knew my account balance though, like, exactly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, that's, um, that's really concerning actually, and I'm so sorry you're dealing with this. Let me, uh, immediately flag your account with security code SEC-77492-ALERT, and um, unfortunately scammers sometimes, uh, they get partial information from data breaches and then they call pretending to be us."
+        },
+        {
+            "role": "Customer",
+            "content": "Great. Just... great. Of course this happens."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, it's so frustrating and honestly, um, we see this happening more and more and it just, uh, it makes me angry too because people work hard for their money and then these scammers just... anyway, let me make sure your account is completely secure, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, okay, so what do I, uh, what exactly do I need to do here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, first thing, and this is really important, did you give them any information like, uh, passwords or verification codes or anything like that?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, I... hmm, let me think... no, they asked but something felt off."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh thank goodness, that's, um, that's actually really good instincts on your part. So, uh, what I'm going to do right now is put a verification lock on your account under reference VRL-88563-TEMP, which means, um, basically for the next 30 days nobody can make any changes without calling in and, uh, going through extra security steps."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means, um, my account's safe then? Like they can't... do anything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, absolutely, your account is, um, it's going to be completely protected now, and, uh, since you didn't give them any verification info, they can't access anything. The lock I'm placing with code LOCK-44892-ACTIVE is, um, it's our highest level of security."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, alright, that's... okay that's actually a relief. I was really worried there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No, I completely understand, and um, you did exactly the right thing by calling us to check. Really, I mean it. And, uh, just so you know going forward, we'll never call asking for passwords or pins, we'll always reference your case number like today's which is CASE-20241115-3847, and, um, if you're ever unsure, just hang up and call us back at our main number."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "486dc8ad_script.json",
+    "scenario": "wanting to verify legitimacy of a call they received",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "cautiously_hopeful",
+                "resigned_going_through_motions"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "breath_catches",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "gently_reassuring"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

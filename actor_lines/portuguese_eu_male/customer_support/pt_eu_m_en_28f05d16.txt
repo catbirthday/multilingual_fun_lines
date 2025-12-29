@@ -1,0 +1,92 @@
+=== Source: 28f05d16_script.json ===
+Language: European Portuguese
+Gender: male
+Mode: en
+Content Type: customer_support
+Scenario: pharmacy assistant, frustrated that she understands the insurance system but can't fix her own claim
+
+=== Translated Dialogue ===
+
+Customer [en]: Um, hi. I need to, uh, speak to someone about my... er... rejected claim.
+
+Customer Support [en]: Oh, um, yeah absolutely, let me just—actually wait—so I need to, uh, pull up your account first. Can I get your member ID? It should be, um, something like MEM followed by some numbers.
+
+Customer [en]: MEM-47829-JX. It's for prescription RX-2947.
+
+Customer Support [en]: Got it, so, um, MEM-47829-JX, and I'm seeing—oh yeah, uh, this is frustrating—your claim CLM-9058274 got rejected for, er, "prior authorization required" which is honestly, like, the worst rejection code.
+
+Customer [en]: Yes. I, um, I know what that means. I'm a, uh... what's the word... pharmacy tech. I process these daily.
+
+Customer Support [en]: Oh man, you get it then—this system is absolutely ridiculous sometimes. So you already know we need form PA-7741 submitted by your prescriber, and honestly between you and me? Even when they send it, half the time it gets lost in processing.
+
+Customer [en]: That's the thing. I, er, submitted it myself. Three times. Um, through the portal.
+
+Customer Support [en]: Wait, you—okay so, um, let me check the, uh, submission history here... I'm seeing, hmm, three attempts under reference numbers REF-8827-A, REF-8829-B, and, um, REF-8832-C, all marked as "incomplete submission" which is—I mean, that's bizarre.
+
+Customer [en]: Incomplete. Of course. Every field was filled.
+
+Customer Support [en]: Yeah no, I believe you, this happens—so like, um, the system has these, uh, hidden requirements that even we don't always know about? Your submission ID SUB-47289-QM shows all fields complete but, er, apparently there's some backend flag that's not... hmm.
+
+Customer [en]: I can't, um, I deal with this garbage daily and, uh, when it's my own claim I just—sorry, it's like, you know what's wrong but can't fix it?
+
+Customer Support [en]: Trust me, I completely get it—it's like being a mechanic with a broken car you can't touch. Look, here's what I'm gonna do—I see claim CLM-9058274 is for medication that's, let me check, time-sensitive, right?
+
+Customer [en]: Yes. Very. I need it by Thursday.
+
+Customer Support [en]: Okay so, um, technically I'm not supposed to but, uh, I'm gonna escalate this directly to, er, our override team with priority code PRI-5589-URGENT, and like, they can push it through manually.
+
+Customer [en]: You can do that? I've never seen that option.
+
+Customer Support [en]: Well it's—so I have to—actually let me just—yeah, um, it's not in the regular system, it's a, uh, backdoor thing we use for cases like yours where the system's clearly, um, being stupid. Reference ticket TKT-20584-XP.
+
+Customer [en]: Thank god. Someone who actually gets how broken this is.
+
+Customer Support [en]: Listen, working here, I see how awful our system treats people who actually know what they're doing. Your authorization AUTH-9584-KLM should process within 24 hours now, and honestly? Save my direct extension—4782—for next time this happens.
+
+Customer [en]: I will. Thank you. Seriously.
+
+Customer Support [en]: No problem—and hey, your confirmation number is CNF-85947-TRX for tracking. Between us healthcare workers, we gotta stick together against these broken systems, right?
+
+
+=== Original (English) ===
+
+Customer: Um, hi. I need to, uh, speak to someone about my... er... rejected claim.
+
+Customer Support: Oh, um, yeah absolutely, let me just—actually wait—so I need to, uh, pull up your account first. Can I get your member ID? It should be, um, something like MEM followed by some numbers.
+
+Customer: MEM-47829-JX. It's for prescription RX-2947.
+
+Customer Support: Got it, so, um, MEM-47829-JX, and I'm seeing—oh yeah, uh, this is frustrating—your claim CLM-9058274 got rejected for, er, "prior authorization required" which is honestly, like, the worst rejection code.
+
+Customer: Yes. I, um, I know what that means. I'm a, uh... what's the word... pharmacy tech. I process these daily.
+
+Customer Support: Oh man, you get it then—this system is absolutely ridiculous sometimes. So you already know we need form PA-7741 submitted by your prescriber, and honestly between you and me? Even when they send it, half the time it gets lost in processing.
+
+Customer: That's the thing. I, er, submitted it myself. Three times. Um, through the portal.
+
+Customer Support: Wait, you—okay so, um, let me check the, uh, submission history here... I'm seeing, hmm, three attempts under reference numbers REF-8827-A, REF-8829-B, and, um, REF-8832-C, all marked as "incomplete submission" which is—I mean, that's bizarre.
+
+Customer: Incomplete. Of course. Every field was filled.
+
+Customer Support: Yeah no, I believe you, this happens—so like, um, the system has these, uh, hidden requirements that even we don't always know about? Your submission ID SUB-47289-QM shows all fields complete but, er, apparently there's some backend flag that's not... hmm.
+
+Customer: I can't, um, I deal with this garbage daily and, uh, when it's my own claim I just—sorry, it's like, you know what's wrong but can't fix it?
+
+Customer Support: Trust me, I completely get it—it's like being a mechanic with a broken car you can't touch. Look, here's what I'm gonna do—I see claim CLM-9058274 is for medication that's, let me check, time-sensitive, right?
+
+Customer: Yes. Very. I need it by Thursday.
+
+Customer Support: Okay so, um, technically I'm not supposed to but, uh, I'm gonna escalate this directly to, er, our override team with priority code PRI-5589-URGENT, and like, they can push it through manually.
+
+Customer: You can do that? I've never seen that option.
+
+Customer Support: Well it's—so I have to—actually let me just—yeah, um, it's not in the regular system, it's a, uh, backdoor thing we use for cases like yours where the system's clearly, um, being stupid. Reference ticket TKT-20584-XP.
+
+Customer: Thank god. Someone who actually gets how broken this is.
+
+Customer Support: Listen, working here, I see how awful our system treats people who actually know what they're doing. Your authorization AUTH-9584-KLM should process within 24 hours now, and honestly? Save my direct extension—4782—for next time this happens.
+
+Customer: I will. Thank you. Seriously.
+
+Customer Support: No problem—and hey, your confirmation number is CNF-85947-TRX for tracking. Between us healthcare workers, we gotta stick together against these broken systems, right?
+

@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Also ähm. Kartenlesegerät ist tot. Mittagsansturm. Ich glaube... 20 Leute warten? Maybe even more than that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Oh okay, ähm, das tut mir so leid, dass das gerade passiert! Lass mich—lass mich gleich dein Konto aufrufen hier, äh, kann ich deine Händler-ID haben? It should start with MER and then, ähm, like 8 or 9 digits after that?"
+        },
+        {
+            "role": "Customer",
+            "content": "Äh... MER... wahrscheinlich 7... nein warte. Ähm. 739? Eh, lass mich mal schauen hier..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Kein Problem! Lass dir Zeit, ich weiß, das ist, ähm, super stressig mit den wartenden Kunden und allem! While you're looking for that, äh, kannst du mir sagen—zeigt das Lesegerät irgendwelche Fehlercodes? Vielleicht ERR-204 oder, ähm, ERR-301 oder so was auf dem Bildschirm?"
+        },
+        {
+            "role": "Customer",
+            "content": "Großartig. Perfekt. Ähm. Bildschirm ist schwarz. So that's really helpful right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay okay, also, ähm, komplett schwarzer Bildschirm, verstanden! Lass mich—lass mich hier kurz unseren Systemstatus prüfen... Ich sehe, äh, deine Postleitzahl zeigt 90291 und wir haben keine, ähm, Netzwerkausfälle dort gemeldet, so that's good at least! Hast du den, äh, den 30-Sekunden-Hard-Reset versucht? Du hältst beide Knöpfe an der Seite?"
+        },
+        {
+            "role": "Customer",
+            "content": "Beide Knöpfe. Äh. Für 30. Glaube ich hab 10 gemacht? Vielleicht, eh... 5?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Ja ja, es—es müssen die vollen 30 Sekunden sein, ich weiß, es scheint lang, aber, ähm, the system needs that time to fully discharge! Also während du das machst, ähm, erstelle ich ein Diagnose-Ticket, das ist TKT-8847291-X, falls wir das eskalieren müssen!"
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm. Halte immer noch. Das ist. Irgendwie lächerlich? Eh, how much longer exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nur, ähm, noch etwa 15 Sekunden! Du—du machst das super! Ich kann deine Geräte-ID DVC-4429-BK7 in unserem System sehen und, äh, it shows it was working perfectly until about, hmm, 12 Minuten her? Das—das passt zu dem Zeitpunkt, als das angefangen hat?"
+        },
+        {
+            "role": "Customer",
+            "content": "Klar. 12. 20. Ähm, who's really counting at this point? Immer noch schwarz."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, ähm, hmm, also das hat nicht funktioniert, aber—aber wir geben nicht auf! Ich—ich schaue hier deine Backup-Optionen an und, äh, du solltest einen manuellen Imprinter mit deinem Willkommenspaket bekommen haben? The backup device number should be BCK-9982-MAN?"
+        },
+        {
+            "role": "Customer",
+            "content": "Manueller was jetzt? Ähm. Willkommenspaket. Ich denke... eh, wahrscheinlich im LKW? Irgendwo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein nein, wir—wir lösen das schneller! Ähm, okay, also ich sehe, du hast das Pro-Händlerkonto MER-7394428-PRO, which means you actually qualify for our virtual terminal! Ich kann—ich kann das jetzt sofort auf deinem Handy aktivieren!"
+        },
+        {
+            "role": "Customer",
+            "content": "Virtuell. Äh. Auf meinem Handy? Which is currently at 8 percent battery. Also das ist..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Oh ähm, okay okay, das ist—hmm. Lass mich nachdenken... Eigentlich! Weißt du was? Ich—ich mache hier was. Deine Gerätegarantie-ID WAR-3358-PLUS zeigt, du bist abgedeckt für, ähm, Notfallersatz und there's actually a technician in your area! Ich kann die mit Code DSP-URGENT-7749 losschicken!"
+        },
+        {
+            "role": "Customer",
+            "content": "Techniker. Super. Ähm. Wann? Like right now would be great? Eh, die Schlange wird, ähm... länger."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Die können—die können in, lass mich sehen... das Dispatch-System zeigt, ähm, 45 Minuten mit Prioritätscode PRI-LUNCH-01! But wait, I'm also sending you, äh, eine SMS gerade jetzt mit einem Backup-Processing-Link, Referenznummer TXT-9934-EM, du kannst Kartennummern manuell eingeben!"
+        },
+        {
+            "role": "Customer",
+            "content": "Eingeben. Jede Karte. Ähm. Manuell. Während des Mittagsansturms. That's incredibly practical, thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich weiß, ich weiß, es ist—es ist nicht ideal, aber, ähm, hör zu, ich beschleunige das, deine Fallnummer CSE-774930-CRITICAL geht direkt an unser Tier-2-Team und, äh, I'm personally going to monitor this whole thing! Der Techniker wird—wird so schnell wie menschenmöglich da sein, ich verspreche, wir bringen dich wieder zum Laufen!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So um. Card reader's dead. Lunch rush. I think... twenty people waiting? Maybe more."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Oh okay, um, I'm so sorry to hear that's happening! Let me—let me pull up your account right away here, uh, can I get your merchant ID number? It should start with MER and then, um, like eight or nine digits after that?"
+        },
+        {
+            "role": "Customer",
+            "content": "Uh... MER... probably seven... no wait. Um. Seven three nine? Er, let me see here..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all! Take your time, I know this is, um, super stressful with customers waiting and everything! While you're looking for that, uh, can you tell me—is the reader showing any error codes? Like maybe ERR-204 or, um, ERR-301 or anything like that on the screen?"
+        },
+        {
+            "role": "Customer",
+            "content": "Great. Perfect. Um. Screen's black. So that's... helpful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay okay, so, um, completely black screen, got it! Let me—let me check our system status here real quick... I'm seeing, uh, your area code shows ZIP-90291 and we don't have any, um, network outages reported there, so that's good! Have you tried the, uh, the thirty-second hard reset? You hold both buttons on the side?"
+        },
+        {
+            "role": "Customer",
+            "content": "Both buttons. Uh. For thirty. Think I did ten? Maybe, er... five?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Yeah yeah, it's—it's gotta be the full thirty seconds, I know it seems long but, um, the system needs that time to fully discharge! So while you're doing that, um, I'm gonna generate a diagnostic ticket, that's TKT-8847291-X, just in case we need to escalate this!"
+        },
+        {
+            "role": "Customer",
+            "content": "Um. Still holding. This is. Sort of ridiculous? Er, how much longer?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Just, um, about fifteen more seconds! You're—you're doing great! I can see your device ID DVC-4429-BK7 in our system and, uh, it shows it was working perfectly until about, hmm, twelve minutes ago? That—that matches up with when this started?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sure. Twelve. Twenty. Um, who's counting? Still black."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, um, hmm, alright so that didn't work but—but we're not giving up! I'm—I'm looking at your backup options here and, uh, you should have gotten a manual imprinter with your welcome kit? The backup device number should be BCK-9982-MAN?"
+        },
+        {
+            "role": "Customer",
+            "content": "Manual what now? Um. Welcome kit. I think... er, probably in the truck? Somewhere?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, we're—we're gonna fix this faster than that! Um, okay, so I'm seeing you have the Pro merchant account MER-7394428-PRO, which means, uh, you actually qualify for our virtual terminal! I can—I can activate that right now on your phone!"
+        },
+        {
+            "role": "Customer",
+            "content": "Virtual. Uh. On my phone? Which is... um, at eight percent battery. So that's..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Oh um, okay okay, that's—hmm. Let me think... Actually! You know what? I'm—I'm gonna do something here. Your device warranty ID WAR-3358-PLUS shows you're covered for, um, emergency replacement and there's actually a technician, uh, in your area code! I can dispatch them with code DSP-URGENT-7749!"
+        },
+        {
+            "role": "Customer",
+            "content": "Technician. Great. Um. When? Like... now-ish? Er, the line's getting, um... longer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "They can—they can be there in, let me see... the dispatch system shows, um, forty-five minutes with priority code PRI-LUNCH-01! But but but wait! I'm also sending you, uh, a text right now with a backup processing link, reference number TXT-9934-EM, you can type card numbers manually!"
+        },
+        {
+            "role": "Customer",
+            "content": "Type. Each card. Um. Manually. During lunch rush. That's... hmm, super practical."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know I know, it's—it's not ideal but, um, listen, I'm putting a rush on this, your case number CSE-774930-CRITICAL is going straight to our tier-two team and, uh, I'm personally gonna monitor this! That technician will—will be there as fast as humanly possible, I promise we're gonna get you back up and running!"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "34a44df8_script.json",
+    "scenario": "food truck owner, panicked because his card reader stopped working during lunch rush",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "annoyed_sarcastic",
+                "confused_lost"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "hedge_words",
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

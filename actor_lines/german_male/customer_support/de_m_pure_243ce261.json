@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ähm, ich brauche wirklich Ihre Hilfe, also, ich bin hier echt am Ende meiner Kräfte."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay also, ähm, lassen Sie mich mal—hmm, was ist denn los? Ich bin, äh, ich meine ich bin ja da um zu helfen, also lassen Sie mich mal schnell Ihr Konto aufrufen mit, äh, was ist Ihre Kontonummer oder Telefonnummer?"
+        },
+        {
+            "role": "Customer",
+            "content": "Das läuft wahrscheinlich über, ähm, meine Firmenkarte aber die Belastung ging auf meine private—Gott, das ist so ein Chaos."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh das ist, ähm, das ist eigentlich echt interessant—warten Sie, Sie sagen also eine Belastung ging auf die—nein, Entschuldigung, ich fang nochmal von vorne an. Ähm, über was für eine Belastung, äh, reden wir denn hier?"
+        },
+        {
+            "role": "Customer",
+            "content": "Erneuerung der Hubschrauberpilotenlizenz, ähm, zwölftausend Euro, und ich meine, das sollte eigentlich aufs Firmenkonto gehen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Zwölftau—okay wow, ähm, das ist definitiv, äh, das ist schon eine große Summe. Lassen Sie mich mal schauen... hmm, also ich sehe hier die Transaktion TRX-9043-HV und, äh, ja die erscheint auf Ihrer Privatkarte mit der Endung, ähm, 4782?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ja! Das ist, ähm, das ist meine private und ich kann das nicht decken, also meine Hypothek ist fällig und ich bin einfach..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein, hey, ähm, wir werden—ich meine, lassen Sie mich mal, äh, da genauer reinschauen weil das ist, hmm, das ist tatsächlich komisch. Der Abrechnungscode BLC-CERT-2024 zeigt, dass er, ähm, manuell eingegeben wurde aber dann—warten Sie, lassen Sie mich noch was anderes prüfen."
+        },
+        {
+            "role": "Customer",
+            "content": "Können Sie einfach, ich meine, wie schnell können wir das rückgängig machen? Das muss ich halt wissen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Richtig richtig, also, ähm, normalerweise dauert's—na ja, der Stornierungscode REV-PENDING-03 würde, äh, drei bis fünf Tage brauchen aber, hmm, lassen Sie mich mal schauen ob es—warten Sie, das ist interessant."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm, was wenn, also, was wenn die Zahlung platzt? Ich hab wortwörtlich keine zwölftausend auf dem Konto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, ähm, oh Gott, okay also—lassen Sie mich, äh, lassen Sie mich das als Priorität markieren weil, hmm, ich kann Ihr normales Abrechnungsprofil BP-CORP-7721 sehen und ja, das hätte definitiv, ähm, nicht auf die Privatkarte gehen sollen. Das—das ist unser Fehler."
+        },
+        {
+            "role": "Customer",
+            "content": "Ihr Fehler? Also können Sie das dann beheben, oder? Also heute noch?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich werde—okay also, ähm, hier ist was ich mache. Ich stelle einen Notfall-Stornierungsantrag ERR-12884-PRIORITY und, äh, außerdem—wissen Sie was? Lassen Sie mich, ähm, lassen Sie mich direkt unsere Abrechnungsabteilung anrufen während Sie noch dran sind. Ist das—wäre das okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ja, bitte, ähm, alles. Ich meine hier geht's um meine ganze Existenz, verstehen Sie?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein ich verstehe das total, ähm, ich verstehe das vollkommen. Hubschrauberpilot zu sein—das ist übrigens echt, äh, richtig cool. Aber ja, lassen Sie mich mal, hmm, okay also Fallnummer CSE-20241108-KT93 ist erstellt und ich sehe... oh gut, Ihr Firmenkonto ist verifiziert."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, das heißt also Sie können es umbuchen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eigentlich, ähm, noch besser—also was ich, äh, was ich machen werde ist, äh, Verarbeitungscode PRC-INSTANT-VOID was im Grunde, ähm, es ist nie passiert. Ihre Privatkarte wird die Belastung nicht mal, äh, nicht sehen. Und dann werde ich, ähm, es nochmal auf ACC-CORP-7721-B laufen lassen, jetzt gleich."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh mein Gott, wirklich? Ich meine, sind Sie sicher, dass das funktioniert?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja also, ähm, ich hab gerade—eigentlich ist es gerade durchgegangen. Bestätigung CNF-844920-SUCCESS und, äh, ich schicke Ihnen auch, hmm, lassen Sie mich auch die, äh, die Expressgebühr erlassen weil das war—ja, das war komplett unser Fehler. Sie sollten jetzt alles in Ordnung haben."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, I really need your help, like, I'm kind of at the end of my rope here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, let me just—hmm, what's going on? I'm, uh, I mean I'm here to help, so let me pull up your account real quick with, er, what's your account number or phone?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's probably under, um, my company card but the charge went to my personal—God, this is such a mess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's, um, that's actually really interesting—wait, so you're saying a charge went to the—no, sorry, let me start over. Um, what kind of charge are we, uh, talking about here?"
+        },
+        {
+            "role": "Customer",
+            "content": "Helicopter pilot certification renewal, um, twelve thousand dollars, and I mean, that was supposed to be on the company account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Twelve thou—okay wow, um, that's definitely, uh, that's a big one. Let me see here... hmm, so I'm looking at transaction TRX-9043-HV and, er, yeah that's showing on your personal card ending in, um, 4782?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! That's, um, that's my personal and I can't cover that, like my mortgage is due and I'm just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, hey, um, we're gonna—I mean, let me just, uh, dig into this because that's, hmm, that's weird actually. The billing code BLC-CERT-2024 shows it was, um, it was manually entered but then—wait, let me check something else here."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you just, I mean, how fast can we reverse this? I kind of need to know."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so, um, normally it's—well, the reversal code REV-PENDING-03 would take, uh, three to five days but, hmm, let me see if there's a—wait, this is interesting."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, what if, like, what if the payment bounces? I literally don't have twelve thousand in that account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, oh gosh, okay so—let me, uh, let me flag this as priority because, hmm, I can see your usual billing profile BP-CORP-7721 and yeah, this definitely, um, shouldn't have gone to personal. That's—that's our mistake."
+        },
+        {
+            "role": "Customer",
+            "content": "Your mistake? So you can fix it then, right? Like today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm gonna—okay so, um, here's what I'm doing. I'm putting in an emergency reversal request ERR-12884-PRIORITY and, uh, also—you know what? Let me, um, let me call our billing team directly while you're on. Is that—would that be okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, please, um, anything. I mean this is my whole livelihood here, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No I totally, um, I totally get it. Being a helicopter pilot—that's actually, uh, really cool by the way. But yeah, let me just, hmm, okay so case number CSE-20241108-KT93 is created and I'm seeing... oh good, your company account is verified."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, so that means you can switch it over?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, um, even better—so what I'm, uh, what I'm gonna do is, er, process code PRC-INSTANT-VOID which basically, um, it never happened. Your personal card won't even, uh, won't see the charge. And then I'll, um, rerun it on ACC-CORP-7721-B right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my God, really? I mean, are you sure that'll work?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, I just—actually it just went through. Confirmation CNF-844920-SUCCESS and, uh, I'm also sending you, hmm, let me also waive the, er, the expedite fee since this was—yeah, this was totally on us. You should be all set now."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "243ce261_script.json",
+    "scenario": "helicopter tour pilot, expensive certification charges somehow billed to wrong payment method",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "desperate_pleading",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "genuinely_warm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

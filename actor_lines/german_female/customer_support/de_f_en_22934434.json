@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm calling about a—a payment that, uh, that didn't go through?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay. Let me just—so basically I can pull that up for you. What's your account number or—actually, you know what, phone number works too."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, it's 555-0812. I—I run a carpet cleaning business."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so... okay. Got it. Account ACC-7294-CP here and I'm seeing—oh. Right. So there was a payment attempt on, um, November 15th for $487.23 that, uh, didn't process."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, yeah, I know, um, this is so embarrassing, I—I just need to fix it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally fine. Happens all the time. So basically what I need to do is—let me just—we can reprocess that today with a different card if you want?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, can I just, uh, use the same card? I—I deposited money yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, so... hmm. Let me check. The card ending in 4782? I can run that again but, um, just so you know, if it bounces twice there's a—well, there's like a $35 fee that gets added to invoice INV-2847-NOV."
+        },
+        {
+            "role": "Customer",
+            "content": "Thirty-five? That's—that's on top of what I already owe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so—I mean, I'm really sorry about that—it's basically bank policy and I don't—let me see if I can—actually no, I can't waive it ahead of time. But. If it goes through. No fee."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay, um, just—just run it. I need my supplies account active."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Processing now. So this takes about... fifteen seconds? Maybe twenty? And your confirmation will be—oh wait, is your email still carpetcleanpro at gmail?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, that's—that's right. Is it, uh, is it going through?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Still processing, just... okay. Okay okay. So good news—transaction approved! Your new confirmation is TRX-98274-APPROVED and, um, your account is fully active again."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank god, um, I'm—I'm so sorry about this whole mess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Seriously don't—I mean, like I said, this happens literally all the time. So basically your next auto-payment is, uh, December 15th for the same amount, reference REC-DEC-7294."
+        },
+        {
+            "role": "Customer",
+            "content": "Right right, um, and my—my discount still applies? The contractor one?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me just... verify that. One sec. So your account shows—yeah, 15% contractor discount is still active under code CONT-2024-CARPET15, and that's, um, that's permanent as long as you maintain the account."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect, um, thanks for—for being patient with me, I just, uh, it's been a rough week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh totally understand. Been there. So you're all set—receipt's going to your email with reference RCP-112024-7294 and, um, if you need anything else just—you know, we're here. Have a good one."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm calling about a—a payment that, uh, that didn't go through?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay. Let me just—so basically I can pull that up for you. What's your account number or—actually, you know what, phone number works too."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, it's 555-0812. I—I run a carpet cleaning business."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so... okay. Got it. Account ACC-7294-CP here and I'm seeing—oh. Right. So there was a payment attempt on, um, November 15th for $487.23 that, uh, didn't process."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, yeah, I know, um, this is so embarrassing, I—I just need to fix it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally fine. Happens all the time. So basically what I need to do is—let me just—we can reprocess that today with a different card if you want?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, can I just, uh, use the same card? I—I deposited money yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, so... hmm. Let me check. The card ending in 4782? I can run that again but, um, just so you know, if it bounces twice there's a—well, there's like a $35 fee that gets added to invoice INV-2847-NOV."
+        },
+        {
+            "role": "Customer",
+            "content": "Thirty-five? That's—that's on top of what I already owe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so—I mean, I'm really sorry about that—it's basically bank policy and I don't—let me see if I can—actually no, I can't waive it ahead of time. But. If it goes through. No fee."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay, um, just—just run it. I need my supplies account active."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Processing now. So this takes about... fifteen seconds? Maybe twenty? And your confirmation will be—oh wait, is your email still carpetcleanpro at gmail?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, that's—that's right. Is it, uh, is it going through?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Still processing, just... okay. Okay okay. So good news—transaction approved! Your new confirmation is TRX-98274-APPROVED and, um, your account is fully active again."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank god, um, I'm—I'm so sorry about this whole mess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Seriously don't—I mean, like I said, this happens literally all the time. So basically your next auto-payment is, uh, December 15th for the same amount, reference REC-DEC-7294."
+        },
+        {
+            "role": "Customer",
+            "content": "Right right, um, and my—my discount still applies? The contractor one?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me just... verify that. One sec. So your account shows—yeah, 15% contractor discount is still active under code CONT-2024-CARPET15, and that's, um, that's permanent as long as you maintain the account."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect, um, thanks for—for being patient with me, I just, uh, it's been a rough week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh totally understand. Been there. So you're all set—receipt's going to your email with reference RCP-112024-7294 and, um, if you need anything else just—you know, we're here. Have a good one."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "22934434_script.json",
+    "scenario": "carpet cleaner, embarrassed about a bounced payment and trying to fix it",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "frustrated_impatient",
+                "self_deprecating_fumbling"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "slightly_frazzled",
+                "awkwardly_apologetic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Euh, bon alors, euh, j'ai changé mon email. Et maintenant. Hmm. Plus rien ne marche et il faut que je, euh, que je le mette à jour genre partout ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Laissez-moi... sortir votre compte ici. Numéro de compte ACC-5921-JY s'il vous plaît ?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh ! Oui. Euh. Attendez voir... ACC-5921-JY, ouais c'est, euh, c'est bien moi. Désolé. J'aurais dû l'avoir sous la main."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Non non, c'est, euh, c'est pas grave. Alors je vois... hmm... vous avez, euh, quatre services liés ici sous la référence REF-728394-M."
+        },
+        {
+            "role": "Customer",
+            "content": "Quatre ? Attendez. Je croyais—non attendez, en fait—il devrait y en avoir six. Peut-être sept ? Putain je fais sûrement n'importe quoi là."
+        },
+        {
+            "role": "Customer Support",
+            "content": "D'accord d'accord, euh, laissez-moi creuser un peu plus... Parfois ils sont, euh, ils sont imbriqués sous différents... attendez..."
+        },
+        {
+            "role": "Customer",
+            "content": "Voilà c'est. C'est ça qui arrive. À chaque fois. J'essaie d'être organisé et puis—bam. Le bordel total."
+        },
+        {
+            "role": "Customer Support",
+            "content": "En fait, euh, entre nous ? Le système est, euh, un peu bizarre avec ça. Vos services principaux sous TXN-493827-PQ s'affichent mais, hmm, les subsidiaires ne sont pas..."
+        },
+        {
+            "role": "Customer",
+            "content": "Les subsidiaires ? Je ne. Qu'est-ce que ça. Je suis complètement paumé là."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors alors, euh, en gros quand vous avez souscrit au package premium PKG-8827-LM, ça a créé, euh, ces sous-comptes qui ne s'affichent pas toujours, euh, dans le principal..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh mon dieu bon alors, euh, laissez-moi réfléchir... Le Premium c'était, euh, c'était l'année dernière ? Mars ? Et puis j'ai ajouté, euh, le truc de stockage en mai ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ouais ouais... je vois ça ici. Extension stockage STR-6543-BK activée le 15 mai."
+        },
+        {
+            "role": "Customer",
+            "content": "Voilà ! Oui ! Et puis, euh, il y a aussi le, euh, le partage familial ? Que j'ai, hmm, j'ai mal configuré sûrement parce que rien ne se synchronise jamais."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Partage familial... laissez-moi... okay alors ça c'est sous une référence complètement différente FML-2847-QR et c'est... pas lié correctement à votre principal..."
+        },
+        {
+            "role": "Customer",
+            "content": "Évidemment que non. Je veux dire, euh, pourquoi ça le serait ? J'ai sûrement, euh, cliqué sur le mauvais truc ou, euh, utilisé le mauvais email ou—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "En fait non, c'est, euh, c'est de notre côté. Écoutez, je vais... faire quelque chose là. Je vais fusionner tout ça sous l'ID principal MST-99284-VX."
+        },
+        {
+            "role": "Customer",
+            "content": "Attendez vous pouvez. Vous pouvez faire ça ? Oh euh, ce serait, euh, génial parce que j'essaie de, hmm, régler ce bordel depuis genre trois semaines."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entre nous ? On n'est pas vraiment censés faire des mises à jour groupées comme ça mais... votre code de confirmation c'est CNF-847291-D et tout devrait se synchroniser maintenant."
+        },
+        {
+            "role": "Customer",
+            "content": "Vous êtes. Vous êtes sérieux ? C'est tout ? Tous ? Mis à jour ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Les sept services. Nouvel email propagé sur tous les comptes SRV-001 à SRV-007. Ça devrait être... ouais. Ça devrait être bon maintenant."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, okay so, uh, I changed my email. And now. Hmm. Nothing's working right and I need to, um, update it like everywhere?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me... pull up your account here. Account number ACC-5921-JY please?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Right. Um. Let me see here... ACC-5921-JY, yeah that's, uh, that's me. Sorry. Should've had that ready."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, that's, um, that's fine. So I'm seeing... hmm... you've got, uh, four services linked here under reference ID REF-728394-M."
+        },
+        {
+            "role": "Customer",
+            "content": "Four? Wait. I thought—no wait, actually—there should be six. Maybe seven? God I'm probably doing something wrong here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, um, let me dig deeper into this... Sometimes they're, uh, they're nested under different... hold on..."
+        },
+        {
+            "role": "Customer",
+            "content": "See this is. This is what happens. Every time. I try to be organized and then—boom. Total mess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, um, between you and me? The system's, uh, kinda weird about this. Your primary services under TXN-493827-PQ are showing but, hmm, the subsidiaries aren't..."
+        },
+        {
+            "role": "Customer",
+            "content": "Subsidiaries? I don't even. What does that. I'm so confused right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So so, um, basically when you signed up for the premium package PKG-8827-LM, it created, uh, these sub-accounts that don't always, um, show up in the main..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god okay so, um, let me think... Premium was, uh, was last year? March? And then I added, um, the storage thing in May?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep yep... seeing that here. Storage add-on STR-6543-BK activated May fifteenth."
+        },
+        {
+            "role": "Customer",
+            "content": "Right! Yes! And then, um, there's also the, uh, the family sharing? Which I, hmm, I set up wrong probably because nothing ever syncs."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Family sharing... let me... okay so that's under a completely different reference FML-2847-QR and it's... not linked properly to your main..."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course it's not. I mean, um, why would it be? I probably, uh, clicked something wrong or, um, used the wrong email or—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually no, this is, um, this is on our end. Look, I'm gonna... do something here. Gonna merge these under master ID MST-99284-VX."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait you can. You can do that? Oh um, that would be, uh, amazing because I've been trying to, hmm, fix this mess for like three weeks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Between you and me? We're not really supposed to batch-update like this but... your confirmation code is CNF-847291-D and everything should sync now."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you. Are you serious? That's it? All of them? Updated?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "All seven services. New email propagated across accounts SRV-001 through SRV-007. Should be... yeah. Should be good now."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "0a13f08f_script.json",
+    "scenario": "trying to update contact information across multiple services",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "self_deprecating_fumbling"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "false_starts",
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

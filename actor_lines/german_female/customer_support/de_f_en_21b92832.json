@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hello, I'm so sorry to bother you but, uh, I think I made a mistake on your website?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no worries at all! So, um, let me just... pull up your account here and, uh, we'll get this sorted right away. Can you, um, tell me what happened?"
+        },
+        {
+            "role": "Customer",
+            "content": "Well, let me see here... I was trying to order this, um, this sweater for my grandson and hmm, I think I clicked something twice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so basically, um, what I'm gonna do is, uh, look up any recent orders you've placed. And, um, if you have your email handy? I can, like, search that way and make sure we catch everything."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh I'm just... I'm sorry, I'm not very good with computers. It's, uh, it's margaret.rose at gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, I'm seeing here... oh! Yeah, so basically you've got, uh, two orders here. Order number ORD-4429-BK and, um, another one that's ORD-4431-BK. Both for the, uh, navy blue sweater in size medium. Is that what happened?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Um, that's exactly it. I didn't mean to, I just, er, the button didn't seem to work so I clicked again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, here's what I'm gonna do for you, and like, I want to make sure this never happens again, okay? First thing, uh, I'm canceling that duplicate order right now. The second one, ORD-4431-BK."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank goodness. So that means, um, I'll only be charged once then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! So, um, you'll only be charged for the first order. And, uh, here's what else I'm doing... I'm adding a note to your account, RCP-88291-Q, that basically, um, flags any duplicate orders in the future. So like, the system will catch it automatically."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very kind but, hmm, what if I actually want to order two of something next time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's, um, that's such a good question! So basically, uh, if you intentionally order multiples, you can just, um, change the quantity in your cart. But if two separate orders come through, like, within five minutes? The system will, uh, send you a confirmation email first."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so that means... I should wait for an email if it happens again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! And, um, you know what? I'm also gonna, uh, make sure to send you a confirmation for this cancellation. So like, you'll get an email with reference number CFM-7264-MRX in about, um, five minutes or so."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I'm just... er, worried because last time I ordered online somewhere else, um, they still charged me twice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I totally understand that concern. And like, here's what I want you to know... if you see, uh, if you see any double charge on your statement? You call us immediately. I'm putting a priority flag, um, PRT-9983-Z on your account right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh, well that's... hmm, that's actually really reassuring. Um, thank you for being so patient with me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Are you kidding? You're, um, you're doing great! And honestly, uh, this happens like... so many times a day. The website should be, um, clearer about when an order goes through. I'm actually gonna, uh, submit feedback about that using ticket TKT-4401-WG."
+        },
+        {
+            "role": "Customer",
+            "content": "Well, um, next time I'll know to just wait a moment and, er, check my email first I suppose."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! And, um, remember that reference number I gave you? CFM-7264-MRX? So basically, uh, keep that just in case, but you should be, like, totally fine. Your grandson's gonna, um, love that sweater!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hello, I'm so sorry to bother you but, uh, I think I made a mistake on your website?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no worries at all! So, um, let me just... pull up your account here and, uh, we'll get this sorted right away. Can you, um, tell me what happened?"
+        },
+        {
+            "role": "Customer",
+            "content": "Well, let me see here... I was trying to order this, um, this sweater for my grandson and hmm, I think I clicked something twice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so basically, um, what I'm gonna do is, uh, look up any recent orders you've placed. And, um, if you have your email handy? I can, like, search that way and make sure we catch everything."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh I'm just... I'm sorry, I'm not very good with computers. It's, uh, it's margaret.rose at gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, I'm seeing here... oh! Yeah, so basically you've got, uh, two orders here. Order number ORD-4429-BK and, um, another one that's ORD-4431-BK. Both for the, uh, navy blue sweater in size medium. Is that what happened?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Um, that's exactly it. I didn't mean to, I just, er, the button didn't seem to work so I clicked again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, here's what I'm gonna do for you, and like, I want to make sure this never happens again, okay? First thing, uh, I'm canceling that duplicate order right now. The second one, ORD-4431-BK."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank goodness. So that means, um, I'll only be charged once then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! So, um, you'll only be charged for the first order. And, uh, here's what else I'm doing... I'm adding a note to your account, RCP-88291-Q, that basically, um, flags any duplicate orders in the future. So like, the system will catch it automatically."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very kind but, hmm, what if I actually want to order two of something next time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's, um, that's such a good question! So basically, uh, if you intentionally order multiples, you can just, um, change the quantity in your cart. But if two separate orders come through, like, within five minutes? The system will, uh, send you a confirmation email first."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so that means... I should wait for an email if it happens again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! And, um, you know what? I'm also gonna, uh, make sure to send you a confirmation for this cancellation. So like, you'll get an email with reference number CFM-7264-MRX in about, um, five minutes or so."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I'm just... er, worried because last time I ordered online somewhere else, um, they still charged me twice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I totally understand that concern. And like, here's what I want you to know... if you see, uh, if you see any double charge on your statement? You call us immediately. I'm putting a priority flag, um, PRT-9983-Z on your account right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh, well that's... hmm, that's actually really reassuring. Um, thank you for being so patient with me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Are you kidding? You're, um, you're doing great! And honestly, uh, this happens like... so many times a day. The website should be, um, clearer about when an order goes through. I'm actually gonna, uh, submit feedback about that using ticket TKT-4401-WG."
+        },
+        {
+            "role": "Customer",
+            "content": "Well, um, next time I'll know to just wait a moment and, er, check my email first I suppose."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! And, um, remember that reference number I gave you? CFM-7264-MRX? So basically, uh, keep that just in case, but you should be, like, totally fine. Your grandson's gonna, um, love that sweater!"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "21b92832_script.json",
+    "scenario": "grandmother, apologetic because she accidentally ordered something twice online",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "relieved_but_wary",
+                "apologetic_embarrassed"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "filled_pauses",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "triumphant_problem_solver"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

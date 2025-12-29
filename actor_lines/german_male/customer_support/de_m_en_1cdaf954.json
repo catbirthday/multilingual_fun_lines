@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so I got this... uh, charge? From, um, \"Digital Commerce Solutions\" but I don't... I mean, what even is..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay, I can definitely help you figure that out, let me just pull up your account here real quick—what's the amount showing on that charge?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh, forty-two fifty. Wait. No. Forty-seven fifty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so, um, forty-seven fifty, and I'm seeing here—hmm, that's interesting actually—so sometimes, uh, companies process payments under their sort of, um, corporate entity name which might be different from what you know them as, let me check transaction ID TXN-892445-QR7 here."
+        },
+        {
+            "role": "Customer",
+            "content": "Corporate... um, entity? So it's not... uh, I didn't buy anything from, er, Digital whatever it was..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so like, um, think of it this way—you know how, uh, sometimes McDonald's might show up as like \"MCD Franchise 4521\" or something? It's kinda the same thing, um, let me just search this merchant ID MER-7783-DCS and see what they actually..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Like my gym shows up as... something weird..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! Yes! So, um, Digital Commerce Solutions—that's weird though because usually I can find these pretty quick—uh, let me try a different lookup, maybe reference number REF-20241105-847, and, um, did you maybe purchase anything online recently, like in the last few days?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I bought... uh, there was that thing from... wait, was it Tuesday? Or, um, Monday? The, uh, the pet supplies place..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pet supplies, perfect, that actually helps narrow it down quite a bit."
+        },
+        {
+            "role": "Customer",
+            "content": "PetWorld Plus. That's what it was."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay so, um, I think I found it—PetWorld Plus, they actually, uh, process through—yep, here it is—transaction code TXN-847766-PWP shows Digital Commerce Solutions as their, um, payment processor, so that's probably what you're seeing there."
+        },
+        {
+            "role": "Customer",
+            "content": "So, um, wait, the pet place is... uh, Digital? But why don't they just... I mean, that's so, er, confusing..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, right? It's honestly kind of, um, annoying how they do that—like I get probably twenty calls a day about this exact thing—uh, basically these companies use third-party processors and, um, your confirmation should be order ORD-9944-PWP if you still have that email?"
+        },
+        {
+            "role": "Customer",
+            "content": "Let me... oh! You're nice. This must get old..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw thanks, honestly you're being really patient about it, some people get pretty upset when they see charges they don't recognize."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, found it! ORD... uh, nine nine... wait, four four? That's, um, that's it! The, er, forty-seven fifty!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Yeah so that's, um, definitely your PetWorld order then, and I'm gonna, uh, make a note here in case you need to reference this later—ticket number TKT-558831-CS—just in case you need to, um, you know, look back at this or anything."
+        },
+        {
+            "role": "Customer",
+            "content": "You're solving mysteries over there. Like detective work but for... credit cards..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha! Pretty much, yeah—credit card detective, that's actually not the worst description of this job I've heard, and at least this one had a happy ending with finding your pet supplies order!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so I got this... uh, charge? From, um, \"Digital Commerce Solutions\" but I don't... I mean, what even is..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay, I can definitely help you figure that out, let me just pull up your account here real quick—what's the amount showing on that charge?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh, forty-two fifty. Wait. No. Forty-seven fifty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so, um, forty-seven fifty, and I'm seeing here—hmm, that's interesting actually—so sometimes, uh, companies process payments under their sort of, um, corporate entity name which might be different from what you know them as, let me check transaction ID TXN-892445-QR7 here."
+        },
+        {
+            "role": "Customer",
+            "content": "Corporate... um, entity? So it's not... uh, I didn't buy anything from, er, Digital whatever it was..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so like, um, think of it this way—you know how, uh, sometimes McDonald's might show up as like \"MCD Franchise 4521\" or something? It's kinda the same thing, um, let me just search this merchant ID MER-7783-DCS and see what they actually..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Like my gym shows up as... something weird..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! Yes! So, um, Digital Commerce Solutions—that's weird though because usually I can find these pretty quick—uh, let me try a different lookup, maybe reference number REF-20241105-847, and, um, did you maybe purchase anything online recently, like in the last few days?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I bought... uh, there was that thing from... wait, was it Tuesday? Or, um, Monday? The, uh, the pet supplies place..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pet supplies, perfect, that actually helps narrow it down quite a bit."
+        },
+        {
+            "role": "Customer",
+            "content": "PetWorld Plus. That's what it was."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay so, um, I think I found it—PetWorld Plus, they actually, uh, process through—yep, here it is—transaction code TXN-847766-PWP shows Digital Commerce Solutions as their, um, payment processor, so that's probably what you're seeing there."
+        },
+        {
+            "role": "Customer",
+            "content": "So, um, wait, the pet place is... uh, Digital? But why don't they just... I mean, that's so, er, confusing..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, right? It's honestly kind of, um, annoying how they do that—like I get probably twenty calls a day about this exact thing—uh, basically these companies use third-party processors and, um, your confirmation should be order ORD-9944-PWP if you still have that email?"
+        },
+        {
+            "role": "Customer",
+            "content": "Let me... oh! You're nice. This must get old..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw thanks, honestly you're being really patient about it, some people get pretty upset when they see charges they don't recognize."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, found it! ORD... uh, nine nine... wait, four four? That's, um, that's it! The, er, forty-seven fifty!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Yeah so that's, um, definitely your PetWorld order then, and I'm gonna, uh, make a note here in case you need to reference this later—ticket number TKT-558831-CS—just in case you need to, um, you know, look back at this or anything."
+        },
+        {
+            "role": "Customer",
+            "content": "You're solving mysteries over there. Like detective work but for... credit cards..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha! Pretty much, yeah—credit card detective, that's actually not the worst description of this job I've heard, and at least this one had a happy ending with finding your pet supplies order!"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1cdaf954_script.json",
+    "scenario": "confused about charges appearing as a different company name",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "confused_lost",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "slightly_frazzled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

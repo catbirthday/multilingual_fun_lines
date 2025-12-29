@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hum, olá, preciso de, ah, contestar uma cobrança e sou cliente há tipo oito anos, portanto..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Está bem, hum, deixe-me só... hmm, abrir aqui a sua conta. Qual é o, ah, número de telefone associado à conta para eu, hum, entrar no sistema e ver o que se passa?"
+        },
+        {
+            "role": "Customer",
+            "content": "É hum, espere que tenho de falar baixo porque os miúdos estão a dormir mas é 555-0147 e isto é mesmo..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito, perfeito."
+        },
+        {
+            "role": "Customer",
+            "content": "Então há esta, ah, cobrança de quarenta euros que eu nunca, hum, autorizei e sinceramente como é que eu sei que isto não é algum tipo de..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não não, vamos resolver isto com certeza. Hum, então estou a ver a conta ACT-7829-WK e, ah, deixe-me ver aqui... está bem, então há uma cobrança de 15 de outubro para, hmm, pacote de serviços premium PRE-4419X, é a isso que se refere?"
+        },
+        {
+            "role": "Customer",
+            "content": "Premium? Eu nunca subscrevi nada premium, é exatamente isto que eu quero dizer..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pois pois."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, e tipo, todos os meses é uma coisa nova, ah, primeiro foi aquela coisa dos dados e agora isto e eu simplesmente..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Está bem então, hum, estou a ver aqui um padrão na verdade. Deixe-me só, ah, ver melhor o histórico de transações TXN-88291-Q e, hmm, e se... oh! Ah espere, já percebi o que aconteceu! Houve uma, hum, ativação automática do código de promoção PRM-6672 que, ah, não devia ter sido acionada no seu tipo de conta."
+        },
+        {
+            "role": "Customer",
+            "content": "Ativação automática? Vê, é exatamente este tipo de coisa que me faz pensar que vocês estão só a tentar..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não, hum, ouça, isto foi completamente erro nosso e, ah, já estou a processar o reembolso. Número de referência REF-3847-MNK para o reembolso total mais, hmm, deixe-me ver o que mais posso... pronto, também vou adicionar um crédito de cortesia de, hum, mais quarenta euros pelo incómodo."
+        },
+        {
+            "role": "Customer",
+            "content": "Espere, está mesmo, hum, está mesmo a resolver isto? Porque normalmente quando ligo é só..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, está bem mas tipo, como é que eu sei que isto não vai, ah, acontecer outra vez no próximo mês porque eu não posso estar sempre..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Então, hum, o que estou a fazer agora é, ah, colocar um código de bloqueio BLK-9901-AA na sua conta que, hmm, basicamente impede quaisquer adesões ou upgrades automáticos sem, hum, confirmação verbal explícita gravada no ID de chamada CID-447829. Ninguém pode adicionar nada sem a senhora aprovar pessoalmente."
+        },
+        {
+            "role": "Customer",
+            "content": "Quer dizer, estou convosco desde 2016 e é mesmo, hum, frustrante quando estas coisas continuam..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hum, sim não, compreendo perfeitamente e, ah, vendo o histórico da sua conta... hmm, realmente tem sido fiel e, hum, aliás! Acabei de descobrir uma coisa! Qualifica-se para o nosso, ah, programa de ajuste de tarifa por fidelidade LRP-2024-B que reduz a sua tarifa base em, hum, quinze por cento daqui para a frente."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh isso é... hum, quer dizer isso ajudava mesmo muito porque com os custos da creche e tudo..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito! Então, hum, está tudo aplicado. A sua confirmação é CNF-88412-PPX para o reembolso que, ah, deve aparecer em 3 a 5 dias úteis, e o, hmm, o desconto de fidelidade começa imediatamente no seu próximo ciclo de faturação. E hum, como disse, nada pode ser adicionado sem a sua autorização explícita agora, por isso está, ah, totalmente protegida daqui para a frente."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I need to, uh, dispute a charge and I've been a customer for like eight years so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, um, let me just... hmm, pull up your account here. What's the, uh, phone number associated with the account so I can, um, get into the system and see what we're dealing with?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's um, wait I have to whisper because the kids are napping but it's 555-0147 and this is just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, got it."
+        },
+        {
+            "role": "Customer",
+            "content": "So there's this, uh, forty dollar charge that I never, um, authorized and honestly how do I know this isn't some kind of..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, we're absolutely going to fix this. Um, so I'm looking at account ACT-7829-WK and, uh, let me see here... okay so there's a charge on October 15th for, hmm, premium services package PRE-4419X, is that what you're referring to?"
+        },
+        {
+            "role": "Customer",
+            "content": "Premium? I never signed up for any premium anything, this is exactly what I mean..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, and like, every month it's something new, uh, first it was that data thing and now this and I just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm seeing a pattern here actually. Let me just, uh, dig deeper into transaction history TXN-88291-Q and, hmm, what if... oh! Oh wait, I see what happened! There was an, um, auto-enrollment trigger from promotion code PRM-6672 that, uh, shouldn't have activated on your account type."
+        },
+        {
+            "role": "Customer",
+            "content": "Auto-enrollment? See this is, um, this is exactly the kind of thing that makes me think you're just trying to..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, um, listen, this is completely our mistake and, uh, I'm already processing the reversal. Reference number REF-3847-MNK for the full refund plus, hmm, let me see what else I can... okay so I'm also adding a courtesy credit of, um, another forty dollars for the inconvenience."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait you're actually, um, you're really fixing it? Because usually when I call it's just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay but like, how do I know this won't just, uh, happen again next month because I can't keep..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, what I'm doing right now is, uh, putting a block code BLK-9901-AA on your account that, hmm, basically prevents any automatic enrollments or upgrades without, um, explicit verbal confirmation recorded on call ID CID-447829. Nobody can add anything without you personally approving it."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean I've been with you guys since 2016 and it's just, um, frustrating when these things keep..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah no, I completely understand and, uh, looking at your account history... hmm, you really have been loyal and, um, actually! I just found something! You qualify for our, uh, loyalty rate adjustment program LRP-2024-B which would drop your base rate by, um, fifteen percent going forward."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh that's... um, I mean that would actually really help because with the daycare costs and everything..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, everything's been applied. Your confirmation is CNF-88412-PPX for the refund which, uh, should post in 3-5 business days, and the, hmm, the loyalty discount starts immediately on your next billing cycle. And um, like I said, nothing can be added without your explicit permission now, so you're, uh, totally protected going forward."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "46933ea3_script.json",
+    "scenario": "daycare worker, whispering because the kids are napping while she disputes a phone charge",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "indignant_righteous",
+                "suspicious_paranoid"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "determined_advocate",
+                "triumphant_problem_solver"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

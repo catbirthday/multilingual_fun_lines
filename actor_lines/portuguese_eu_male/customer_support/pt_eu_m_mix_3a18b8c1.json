@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hm, olá, eu eu estou a ligar sobre, uh, estes pagamentos que continuam—espera, deixa-me começar outra vez—eu cancelei alguma coisa?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Está bem. Deixa-me. Hm. Abrir aqui a tua conta. Podes—desculpa, quero dizer, uh, qual é o teu número de conta? Ou na verdade. Email also works. O que tiveres."
+        },
+        {
+            "role": "Customer",
+            "content": "É é para o canil, hm, nós recebemos—costumávamos receber—uh, como é que se diz... entregas automáticas?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo certo. Subscription. Isso—está bem então, hm, estou a ver aqui a conta KEN-4892-PL, e uh, há definitivamente alguma atividade. Deixa-me só. Verificar as recentes. Hm. The recent charges."
+        },
+        {
+            "role": "Customer",
+            "content": "Mas eu cancelei as as entregas de comida no mês passado, ou foi—não espera—dois meses?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Então estou, uh, estou a ver aqui que tu—hmm, está bem isto é, hm, interessante. O cancelamento para, uh, para a encomenda SUB-7731-WK foi processado a 3 de outubro. Mas. Ainda há. Hmm."
+        },
+        {
+            "role": "Customer",
+            "content": "Outubro? Não isso—isso não está certo, eu liguei em, hm, setembro sobre o—oh espera, maybe that was for something else?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Na verdade há—deixa-me ver isto de outra forma. Tu tens. Três subscrições? Não espera. Desculpa, two subscriptions under KEN-4892-PL."
+        },
+        {
+            "role": "Customer",
+            "content": "Duas? Eu pensava pensava que só tínhamos, hm, aquela para, uh, tu sabes, a comida de cão e e as coisas de limpeza?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Está bem então. Hm. Uma está definitivamente cancelada—that's SUB-7731-WK, uh, which was the pet food. Mas. Hmm. A das coisas de limpeza, essa é, uh, SUB-7739-WK, e está. Still active?"
+        },
+        {
+            "role": "Customer",
+            "content": "Espera, a sério? Elas elas são separadas? I thought it was all one big order thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sim são—desculpa, devia ter, hm, apanhado isto antes. They're separate. O representante que. Uh. Que te ajudou antes só cancelou. Uma. Not both."
+        },
+        {
+            "role": "Customer",
+            "content": "Então os pagamentos que saíram na semana passada, those were for—for what exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Isso é, hm, isso seria a, uh, subscrição de produtos de limpeza a 127,50€, e está—hmm, deixa-me só—está programada para cobrar novamente no, uh, no dia 15."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Oh está bem, então então eu posso só, hm, cancelar essa também então? That's that's actually good news!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutamente. Eu posso. Fazer isso agora mesmo. Just need to. Confirm. Tu queres a SUB-7739-WK completamente cancelada?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sim sim sim! Espera, não vai haver mais cobranças depois disto, certo? None at all?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não. Tudo feito. A tua confirmação é CAN-9847-ZM. No more automatic charges. Está tudo cancelado agora."
+        },
+        {
+            "role": "Customer",
+            "content": "Isto é—uau, eu pensava que isto seria muito mais difícil! Obrigado obrigado!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Estás pronto. Both subscriptions cancelled. A conta KEN-4892-PL está. Completamente limpa. Sem mais surpresas."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm I'm calling about, uh, these payments that keep—wait, let me start over—I cancelled something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay. Let me. Um. Pull up your account here. Can you—sorry, I mean, uh, what's your account number? Or actually. Email works too. Whatever you have."
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's for the kennel, um, we get—we used to get—uh, what's the word... automatic deliveries?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Subscription. That's—okay so, um, I'm seeing account KEN-4892-PL here, and uh, there's definitely some activity. Let me just. Check the recent. Um. The recent charges."
+        },
+        {
+            "role": "Customer",
+            "content": "But I cancelled the the food deliveries last month, or was it—no wait—two months?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I'm, uh, I'm seeing here that you—hmm, okay this is, um, interesting. The cancellation for, uh, for order SUB-7731-WK went through on October 3rd. But. There's still. Hmm."
+        },
+        {
+            "role": "Customer",
+            "content": "October? No that's—that's not right, I called in, um, September about the—oh wait, maybe that was for something else?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually there's—let me look at this differently. You have. Three subscriptions? No wait. Sorry, two subscriptions under KEN-4892-PL."
+        },
+        {
+            "role": "Customer",
+            "content": "Two? I thought I thought we only had, um, the one for, uh, you know, the dog food and and cleaning supplies thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so. Um. One is definitely cancelled—that's SUB-7731-WK, uh, which was the pet food. But. Hmm. The cleaning supplies one, that's, uh, SUB-7739-WK, and it's. Still active?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? They're they're separate? I thought it was all one big order thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah they're—sorry, I should have, um, caught this earlier. They're separate. The rep who. Uh. Who helped you before only cancelled. The one. Not both."
+        },
+        {
+            "role": "Customer",
+            "content": "So the payments that came out last week, those were for—for what exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's, um, that would be the, uh, cleaning supplies subscription at $127.50, and it's—hmm, let me just—it's set to charge again on, uh, on the 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Oh okay, so so I can just, um, cancel that one too then? That's that's actually good news!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I can. Do that right now. Just need to. Confirm. You want SUB-7739-WK fully cancelled?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes yes yes! Wait, there won't be any more charges after this, right? None at all?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nope. All done. Your confirmation is CAN-9847-ZM. No more automatic charges. Everything's cancelled now."
+        },
+        {
+            "role": "Customer",
+            "content": "This is—wow, I thought this would be so much harder! Thank you thank you!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're all set. Both subscriptions cancelled. Account KEN-4892-PL is. Completely clear. No more surprises."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3a18b8c1_script.json",
+    "scenario": "kennel attendant, worried about automatic payments continuing for supplies she cancelled",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "confused_lost",
+                "surprised_delighted"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "false_starts",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "troubleshooting_curious"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "self_corrections",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need—wait no. Um. The bill. Wrong. I think. Maybe wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, um, I can definitely help you with that. So, uh, let me just pull up your account here and, hmm, can you maybe give me your account number? It should be, um, right at the top of your bill, starts with ACC."
+        },
+        {
+            "role": "Customer",
+            "content": "ACC. Um. Nine. Four. Uh—sorry, I mean—nine zero four. Seven seven. Two."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Got it. ACC-904772. So, um, I'm looking at your account now and, uh, I can see your latest bill here. Can you maybe tell me what, um, what part looks wrong to you?"
+        },
+        {
+            "role": "Customer",
+            "content": "The... how do I—um. Extra money? I pay. Same always. Now is, uh, more."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, okay okay. So, um, you're saying the amount is, uh, higher than usual? I think I see what you mean. So your regular monthly charge is, um, usually $89.99, but this month it's showing, uh, $127.43. Is that what you're, um, asking about?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. Exactly yes. Why this. I don't—I mean, um, I didn't change. Nothing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So, um, let me just. Check here. And, uh, actually I can see there's, hmm, there's an overage charge. From, um, data usage? On October 15th, there's a charge code OVR-8823-DT for, uh, $37.44."
+        },
+        {
+            "role": "Customer",
+            "content": "Data? But I—no wait. Sorry. I don't, um, understand this word. Over?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh sure sure. Um, so basically, overage means, uh, you went over your limit? Like, um, you have a certain amount you can use each month. And if you use more than that. You know. They charge extra."
+        },
+        {
+            "role": "Customer",
+            "content": "But I. Same things. Always same. Check email. That's—um, that's all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, okay so, um, I'm looking at your usage details here and, uh, on October 15th there was, like, a really big spike? Um, almost 3GB in one day. Transaction log shows TXN-994837-MB. Do you maybe remember, um, downloading anything big that day? Or, uh, watching videos maybe?"
+        },
+        {
+            "role": "Customer",
+            "content": "October fifteen. Um. Wait I—my son. Visited. He use—he used? Probably. The phone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, okay okay. That makes sense. Kids and phones. Right? So, um, what I can do is, uh, I can maybe add a note to your account? Reference number REF-7749-CS. And, um, since this was kind of a one-time thing. I think. I might be able to get you, uh, a courtesy credit?"
+        },
+        {
+            "role": "Customer",
+            "content": "Please. Yes. I—I need this. Um. Fixed. Money is. Tight? Is that—correct word?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I totally understand. Money being tight. I mean. We all feel that. Right? So, um, let me just submit this request here and, uh, I'll need approval code but, hmm, usually these get approved pretty quick."
+        },
+        {
+            "role": "Customer",
+            "content": "How long? Sorry I—um, when I see. The money. Back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, once it's approved—and I'm putting rush code RSH-662 on it—you'll see the credit in, uh, probably about 3 to 5 business days? It'll show up as, um, adjustment ADJ-8827-OCT on your next statement."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Really. I was—um, so worry. Worried? Thank you. Much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, you're so welcome! And, um, hey, your English is great by the way. I know it's, uh, it's hard explaining technical stuff in another language. If you ever need help again, just, um, reference this case number CSE-10847-B and we'll, you know, have all this history. Take care!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need—wait no. Um. The bill. Wrong. I think. Maybe wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, um, I can definitely help you with that. So, uh, let me just pull up your account here and, hmm, can you maybe give me your account number? It should be, um, right at the top of your bill, starts with ACC."
+        },
+        {
+            "role": "Customer",
+            "content": "ACC. Um. Nine. Four. Uh—sorry, I mean—nine zero four. Seven seven. Two."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Got it. ACC-904772. So, um, I'm looking at your account now and, uh, I can see your latest bill here. Can you maybe tell me what, um, what part looks wrong to you?"
+        },
+        {
+            "role": "Customer",
+            "content": "The... how do I—um. Extra money? I pay. Same always. Now is, uh, more."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, okay okay. So, um, you're saying the amount is, uh, higher than usual? I think I see what you mean. So your regular monthly charge is, um, usually $89.99, but this month it's showing, uh, $127.43. Is that what you're, um, asking about?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. Exactly yes. Why this. I don't—I mean, um, I didn't change. Nothing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So, um, let me just. Check here. And, uh, actually I can see there's, hmm, there's an overage charge. From, um, data usage? On October 15th, there's a charge code OVR-8823-DT for, uh, $37.44."
+        },
+        {
+            "role": "Customer",
+            "content": "Data? But I—no wait. Sorry. I don't, um, understand this word. Over?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh sure sure. Um, so basically, overage means, uh, you went over your limit? Like, um, you have a certain amount you can use each month. And if you use more than that. You know. They charge extra."
+        },
+        {
+            "role": "Customer",
+            "content": "But I. Same things. Always same. Check email. That's—um, that's all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, okay so, um, I'm looking at your usage details here and, uh, on October 15th there was, like, a really big spike? Um, almost 3GB in one day. Transaction log shows TXN-994837-MB. Do you maybe remember, um, downloading anything big that day? Or, uh, watching videos maybe?"
+        },
+        {
+            "role": "Customer",
+            "content": "October fifteen. Um. Wait I—my son. Visited. He use—he used? Probably. The phone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, okay okay. That makes sense. Kids and phones. Right? So, um, what I can do is, uh, I can maybe add a note to your account? Reference number REF-7749-CS. And, um, since this was kind of a one-time thing. I think. I might be able to get you, uh, a courtesy credit?"
+        },
+        {
+            "role": "Customer",
+            "content": "Please. Yes. I—I need this. Um. Fixed. Money is. Tight? Is that—correct word?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I totally understand. Money being tight. I mean. We all feel that. Right? So, um, let me just submit this request here and, uh, I'll need approval code but, hmm, usually these get approved pretty quick."
+        },
+        {
+            "role": "Customer",
+            "content": "How long? Sorry I—um, when I see. The money. Back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, once it's approved—and I'm putting rush code RSH-662 on it—you'll see the credit in, uh, probably about 3 to 5 business days? It'll show up as, um, adjustment ADJ-8827-OCT on your next statement."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Really. I was—um, so worry. Worried? Thank you. Much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, you're so welcome! And, um, hey, your English is great by the way. I know it's, uh, it's hard explaining technical stuff in another language. If you ever need help again, just, um, reference this case number CSE-10847-B and we'll, you know, have all this history. Take care!"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2b31fe2e_script.json",
+    "scenario": "confused because English isn't their first language and they're struggling to explain",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "seething_controlled",
+                "desperate_pleading"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "self_corrections",
+                    "hedge_words",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "patient_teacher",
+                "deeply_sympathetic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

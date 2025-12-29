@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Euh, bonjour, j'ai, euh, problème avec le—non attendez, pardon—avec ma facture? C'est, euh, très confus pour moi."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bonjour! Euh, je suis—attendez—je suis contente de vous aider. Alors, on va regarder ça. Ensemble. Étape par étape, d'accord? Euh, pouvez-vous, euh, me donner votre numéro? De compte?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oui! Merci beaucoup! C'est, euh... R-K-7... non pardon, K-R-7-3-9? Attendez. K-R-7-9-3-2."
+        },
+        {
+            "role": "Customer Support",
+            "content": "D'accord alors, euh, c'est K-R-7-9-3-2, et euh, j'ai—non attendez, je vais juste—parfait! Euh, je le vois. Votre compte. Alors, quelle partie? De la facture. Est, euh, pas claire?"
+        },
+        {
+            "role": "Customer",
+            "content": "Le frais. Pour le—pardon, comment je dis—le truc en plus? Pas dans mon forfait."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, euh, d'accord! Alors il y a, euh, des frais supplémentaires. Laissez-moi, alors, expliquer chacun. Très clairement. Euh, la ligne TXN-8847-PQ montre, euh, l'itinérance internationale. 22 dollars."
+        },
+        {
+            "role": "Customer",
+            "content": "International? Mais je, euh, je jamais—attendez non, je veux dire—je vais nulle part! C'est pas correct!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je comprends. Vérifions. Quand exactement. Alors le 15 octobre. Votre téléphone. S'est connecté. À une antenne canadienne?"
+        },
+        {
+            "role": "Customer",
+            "content": "Canadienne? Mais je, euh, j'habite ici dix ans! Toujours payer! Jamais en retard! C'est, euh, pas juste pour moi!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euh, c'est correct. Vraiment. Alors, parfois les téléphones—attendez—parfois ils se connectent. Accidentellement. Euh, vous êtes près? De la frontière? Du tout?"
+        },
+        {
+            "role": "Customer",
+            "content": "Frontière? Non, je suis... attendez. Mon travail. C'est côté nord. Très nord."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Euh, ça explique tout. Alors, euh, votre téléphone—il a probablement juste—alors, capté une antenne. Par erreur. Euh, ça arrive tout le temps. Très courant."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Alors pas ma... pas ma faute?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Non non! Euh, pas du tout. Alors, attendez—je vais—euh, créditer ça. Tout de suite. Numéro de référence, euh, CRD-5509-MZ. Les 22 dollars au complet."
+        },
+        {
+            "role": "Customer",
+            "content": "Vraiment? Oh, euh, vous êtes si gentille! Merci! J'étais si, euh, inquiète parce que je comprends pas—pardon—je comprends pas bien les mots."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Votre français. Est excellent! Vraiment. Et euh, j'ai ajouté. Une note. Code de dossier NTE-8823-LP. Pour éviter. Des frais futurs."
+        },
+        {
+            "role": "Customer",
+            "content": "Vous écrivez note? Pour moi? C'est, euh, c'est tellement—personne jamais aide comme ça!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bien sûr! C'est pourquoi. Je suis là. Pour enseigner. Pour expliquer. Tout clairement."
+        },
+        {
+            "role": "Customer",
+            "content": "Je suis si reconnaissante. Vraiment. Dix ans cliente. Finalement quelqu'un... quelqu'un patiente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Euh, merci! Alors, ça veut—c'est vraiment, euh, gentil. Y a-t-il, euh, autre chose? Que je peux, alors, expliquer aujourd'hui? Sur votre compte ACC-7932-KR?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hello, I have, uh, problem with the—no wait, sorry—with my bill? Is, um, very confuse for me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hi there! Um, I'm—let me just—I'm happy to help. Er, walk through this. Together. Step by step, okay? Um, can you, uh, give me your account? Number?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Thank you so much! Is, um... R-K-7... no sorry, K-R-7-3-9? Wait. K-R-7-9-3-2."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, that's K-R-7-9-3-2, and uh, I've got—no wait, let me just—perfect! Um, I see it. Your account. Er, what part? Of the bill. Is, uh, confusing?"
+        },
+        {
+            "role": "Customer",
+            "content": "The charge. For the—sorry, how I say—the extra thing? Not in my plan."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, um, okay! So there's, uh, an additional charge. Let me, er, explain each one. Really clearly. Um, line TXN-8847-PQ shows, uh, international roaming. Twenty-two dollars."
+        },
+        {
+            "role": "Customer",
+            "content": "International? But I, um, I never—wait no, I mean—I don't go anywhere! This not right!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand. Let's check. When exactly. So on October fifteenth. Your phone. Connected to. A Canadian tower?"
+        },
+        {
+            "role": "Customer",
+            "content": "Canadian? But I'm, uh, I live here ten years! Always pay! Never late! This is, um, not fair to me!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, it's okay. Really. Er, sometimes phones—let me just—sometimes they connect. Accidentally. Uh, are you near? The border? At all?"
+        },
+        {
+            "role": "Customer",
+            "content": "Border? No, I'm... wait. My work. Is north side. Very north."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Um, that explains it. So, uh, your phone—it probably just—er, picked up a tower. By mistake. Um, happens all the time. Really common."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. So not my... not my fault?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no! Um, not at all. Er, let me just—I'm going to—uh, credit this. Right now. Reference number, um, CRD-5509-MZ. All twenty-two dollars."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? Oh, um, you so kind! Thank you! I was so, uh, worry because I don't—sorry—I don't understand the words good."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your English. Is great! Really. And um, I added. A note. File code NTE-8823-LP. To prevent. Future charges."
+        },
+        {
+            "role": "Customer",
+            "content": "You write note? For me? That's, um, that's so—nobody ever help like this!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! That's why. I'm here. To teach. To explain. Everything clearly."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm so grateful. Really. Ten years customer. Finally someone... someone patient."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, thank you! Er, that means—that's really, uh, kind. Is there, um, anything else? I can, er, explain today? About your account ACC-7932-KR?"
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1cbba2b7_script.json",
+    "scenario": "confused because English isn't their first language and they're struggling to explain",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "genuinely_grateful",
+                "indignant_righteous"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "patient_teacher",
+                "gently_reassuring"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

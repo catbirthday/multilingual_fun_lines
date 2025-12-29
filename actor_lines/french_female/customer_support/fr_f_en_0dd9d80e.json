@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I just—um, your automated thing kept, sort of, mishearing me? It thought I said \"billing\" but I kept saying—wait no, \"shipping.\""
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, yeah, I know, that system is honestly ridiculous sometimes. Um, let me just pull up your account here, uh, do you have your customer ID or order number handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I think it's... probably starts with... sorry, I'm just flustered."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally get it, um, that phone system makes everyone crazy, uh, we actually had a meeting about it last week because, er, so many people complain. Take your time, I can look you up by phone number too."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! That's—yes, please. Sorry for being such a mess about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, perfect, so I've got you here, customer ID CST-49982-LV, and uh, I can see your recent order, um, ORD-7263-XM92, is that what you were calling about?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! I kept trying to say \"track shipment\" but it thought I was saying, I don't know, \"back equipment\" or something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, it does that, um, especially with \"track\" for some reason, uh, it always thinks people are saying \"back\" or \"black\" and then, er, sends them to completely wrong departments. So anyway, let me check the tracking on ORD-7263-XM92 here."
+        },
+        {
+            "role": "Customer",
+            "content": "I probably should've just... pressed zero earlier. Sorry. Is it—is the package okay though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so, uh, good news is it's definitely on its way, tracking number TRK-8829374-US, but, er, I'm seeing it's running about, hmm, a day behind schedule."
+        },
+        {
+            "role": "Customer",
+            "content": "A day behind? But I need it—sorry, that's probably not your fault either."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No seriously, I'd be frustrated too. Um, the carrier had some weather delays yesterday, uh, but looking at your delivery area code ZIP-94022, it should, er, definitely arrive tomorrow by end of day."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you sure? I mean, I don't want to be difficult, but, um, tomorrow's kind of important."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, I'm pulling up the detailed tracking now on TRK-8829374-US and, um, it cleared the distribution center at 4 AM this morning, so, uh, unless something really unusual happens, you're good for tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Sorry, I just—maybe I should've paid for faster shipping?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, honestly? The express shipping, uh, got delayed too with that weather, so, er, you actually saved money for the same result. Your confirmation RCP-7263-A shows standard shipping and, um, that was definitely the right call."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. That's... that actually makes me feel better. Sort of. If it doesn't come tomorrow though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So if it's not there by 8 PM tomorrow, um, call back with reference number REF-8827-DELAY and, uh, we'll overnight a replacement at no charge, er, and you'd get that Thursday guaranteed."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay, I'm writing that down—REF-882—wait, sorry, what was it again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "REF-8827-DELAY, and um, ask for a supervisor directly if you need to call back, uh, just skip that awful automated system entirely, er, honestly we all hate it as much as you do."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I just—um, your automated thing kept, sort of, mishearing me? It thought I said \"billing\" but I kept saying—wait no, \"shipping.\""
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, yeah, I know, that system is honestly ridiculous sometimes. Um, let me just pull up your account here, uh, do you have your customer ID or order number handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I think it's... probably starts with... sorry, I'm just flustered."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally get it, um, that phone system makes everyone crazy, uh, we actually had a meeting about it last week because, er, so many people complain. Take your time, I can look you up by phone number too."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! That's—yes, please. Sorry for being such a mess about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, perfect, so I've got you here, customer ID CST-49982-LV, and uh, I can see your recent order, um, ORD-7263-XM92, is that what you were calling about?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! I kept trying to say \"track shipment\" but it thought I was saying, I don't know, \"back equipment\" or something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, it does that, um, especially with \"track\" for some reason, uh, it always thinks people are saying \"back\" or \"black\" and then, er, sends them to completely wrong departments. So anyway, let me check the tracking on ORD-7263-XM92 here."
+        },
+        {
+            "role": "Customer",
+            "content": "I probably should've just... pressed zero earlier. Sorry. Is it—is the package okay though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so, uh, good news is it's definitely on its way, tracking number TRK-8829374-US, but, er, I'm seeing it's running about, hmm, a day behind schedule."
+        },
+        {
+            "role": "Customer",
+            "content": "A day behind? But I need it—sorry, that's probably not your fault either."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No seriously, I'd be frustrated too. Um, the carrier had some weather delays yesterday, uh, but looking at your delivery area code ZIP-94022, it should, er, definitely arrive tomorrow by end of day."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you sure? I mean, I don't want to be difficult, but, um, tomorrow's kind of important."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, I'm pulling up the detailed tracking now on TRK-8829374-US and, um, it cleared the distribution center at 4 AM this morning, so, uh, unless something really unusual happens, you're good for tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Sorry, I just—maybe I should've paid for faster shipping?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, honestly? The express shipping, uh, got delayed too with that weather, so, er, you actually saved money for the same result. Your confirmation RCP-7263-A shows standard shipping and, um, that was definitely the right call."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. That's... that actually makes me feel better. Sort of. If it doesn't come tomorrow though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So if it's not there by 8 PM tomorrow, um, call back with reference number REF-8827-DELAY and, uh, we'll overnight a replacement at no charge, er, and you'd get that Thursday guaranteed."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay, I'm writing that down—REF-882—wait, sorry, what was it again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "REF-8827-DELAY, and um, ask for a supervisor directly if you need to call back, uh, just skip that awful automated system entirely, er, honestly we all hate it as much as you do."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "0dd9d80e_script.json",
+    "scenario": "frustrated because the automated system kept misunderstanding them",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "anxious_worried"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "awkwardly_apologetic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

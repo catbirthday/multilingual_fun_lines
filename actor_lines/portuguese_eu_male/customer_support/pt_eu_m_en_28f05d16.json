@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I need to, uh, speak to someone about my... er... rejected claim."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, yeah absolutely, let me just—actually wait—so I need to, uh, pull up your account first. Can I get your member ID? It should be, um, something like MEM followed by some numbers."
+        },
+        {
+            "role": "Customer",
+            "content": "MEM-47829-JX. It's for prescription RX-2947."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so, um, MEM-47829-JX, and I'm seeing—oh yeah, uh, this is frustrating—your claim CLM-9058274 got rejected for, er, \"prior authorization required\" which is honestly, like, the worst rejection code."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. I, um, I know what that means. I'm a, uh... what's the word... pharmacy tech. I process these daily."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, you get it then—this system is absolutely ridiculous sometimes. So you already know we need form PA-7741 submitted by your prescriber, and honestly between you and me? Even when they send it, half the time it gets lost in processing."
+        },
+        {
+            "role": "Customer",
+            "content": "That's the thing. I, er, submitted it myself. Three times. Um, through the portal."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wait, you—okay so, um, let me check the, uh, submission history here... I'm seeing, hmm, three attempts under reference numbers REF-8827-A, REF-8829-B, and, um, REF-8832-C, all marked as \"incomplete submission\" which is—I mean, that's bizarre."
+        },
+        {
+            "role": "Customer",
+            "content": "Incomplete. Of course. Every field was filled."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, I believe you, this happens—so like, um, the system has these, uh, hidden requirements that even we don't always know about? Your submission ID SUB-47289-QM shows all fields complete but, er, apparently there's some backend flag that's not... hmm."
+        },
+        {
+            "role": "Customer",
+            "content": "I can't, um, I deal with this garbage daily and, uh, when it's my own claim I just—sorry, it's like, you know what's wrong but can't fix it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Trust me, I completely get it—it's like being a mechanic with a broken car you can't touch. Look, here's what I'm gonna do—I see claim CLM-9058274 is for medication that's, let me check, time-sensitive, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. Very. I need it by Thursday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, technically I'm not supposed to but, uh, I'm gonna escalate this directly to, er, our override team with priority code PRI-5589-URGENT, and like, they can push it through manually."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? I've never seen that option."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well it's—so I have to—actually let me just—yeah, um, it's not in the regular system, it's a, uh, backdoor thing we use for cases like yours where the system's clearly, um, being stupid. Reference ticket TKT-20584-XP."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank god. Someone who actually gets how broken this is."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, working here, I see how awful our system treats people who actually know what they're doing. Your authorization AUTH-9584-KLM should process within 24 hours now, and honestly? Save my direct extension—4782—for next time this happens."
+        },
+        {
+            "role": "Customer",
+            "content": "I will. Thank you. Seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem—and hey, your confirmation number is CNF-85947-TRX for tracking. Between us healthcare workers, we gotta stick together against these broken systems, right?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I need to, uh, speak to someone about my... er... rejected claim."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, yeah absolutely, let me just—actually wait—so I need to, uh, pull up your account first. Can I get your member ID? It should be, um, something like MEM followed by some numbers."
+        },
+        {
+            "role": "Customer",
+            "content": "MEM-47829-JX. It's for prescription RX-2947."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so, um, MEM-47829-JX, and I'm seeing—oh yeah, uh, this is frustrating—your claim CLM-9058274 got rejected for, er, \"prior authorization required\" which is honestly, like, the worst rejection code."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. I, um, I know what that means. I'm a, uh... what's the word... pharmacy tech. I process these daily."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, you get it then—this system is absolutely ridiculous sometimes. So you already know we need form PA-7741 submitted by your prescriber, and honestly between you and me? Even when they send it, half the time it gets lost in processing."
+        },
+        {
+            "role": "Customer",
+            "content": "That's the thing. I, er, submitted it myself. Three times. Um, through the portal."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wait, you—okay so, um, let me check the, uh, submission history here... I'm seeing, hmm, three attempts under reference numbers REF-8827-A, REF-8829-B, and, um, REF-8832-C, all marked as \"incomplete submission\" which is—I mean, that's bizarre."
+        },
+        {
+            "role": "Customer",
+            "content": "Incomplete. Of course. Every field was filled."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, I believe you, this happens—so like, um, the system has these, uh, hidden requirements that even we don't always know about? Your submission ID SUB-47289-QM shows all fields complete but, er, apparently there's some backend flag that's not... hmm."
+        },
+        {
+            "role": "Customer",
+            "content": "I can't, um, I deal with this garbage daily and, uh, when it's my own claim I just—sorry, it's like, you know what's wrong but can't fix it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Trust me, I completely get it—it's like being a mechanic with a broken car you can't touch. Look, here's what I'm gonna do—I see claim CLM-9058274 is for medication that's, let me check, time-sensitive, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. Very. I need it by Thursday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, technically I'm not supposed to but, uh, I'm gonna escalate this directly to, er, our override team with priority code PRI-5589-URGENT, and like, they can push it through manually."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? I've never seen that option."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well it's—so I have to—actually let me just—yeah, um, it's not in the regular system, it's a, uh, backdoor thing we use for cases like yours where the system's clearly, um, being stupid. Reference ticket TKT-20584-XP."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank god. Someone who actually gets how broken this is."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, working here, I see how awful our system treats people who actually know what they're doing. Your authorization AUTH-9584-KLM should process within 24 hours now, and honestly? Save my direct extension—4782—for next time this happens."
+        },
+        {
+            "role": "Customer",
+            "content": "I will. Thank you. Seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem—and hey, your confirmation number is CNF-85947-TRX for tracking. Between us healthcare workers, we gotta stick together against these broken systems, right?"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "28f05d16_script.json",
+    "scenario": "pharmacy assistant, frustrated that she understands the insurance system but can't fix her own claim",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "seething_controlled",
+                "manic_oversharing"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

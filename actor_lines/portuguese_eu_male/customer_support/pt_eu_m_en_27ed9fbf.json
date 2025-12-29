@@ -1,0 +1,230 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hey! So. Uh. Quick thing. These charges? They're... hmm, what's the word... sketchy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah, I totally get why that would be confusing—let me pull up your account real quick, I just need to verify with your account number or the last four digits of the card you're seeing the charges on?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Um. Let me see here... uh, it's 4492. But like, okay so, um, the thing is—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, um, so I'm seeing account ending in 4492 and, uh, actually yeah this happens all the time and it's honestly kind of ridiculous how our parent company does this—what name are you, um, seeing on your statement?"
+        },
+        {
+            "role": "Customer",
+            "content": "Tech. Solutions. Global. Never heard of 'em!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh god, yeah, so, um, that's actually us but like—I know, I know, it's so dumb—we're owned by this, uh, bigger company and they process everything under TSG-Global which shows up as, um, Tech Solutions Global on statements and honestly we get like fifty calls a day about this."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. Um. Hang on. So that's... hmm... that's actually you guys? Uh, okay so that means... wild."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know right? It's completely ridiculous, like why can't they just use our actual company name but apparently it's some sort of payment processing thing with merchant code MRC-7829-GL and I wish I could change it but..."
+        },
+        {
+            "role": "Customer",
+            "content": "No but, um, like, here's the thing. Uh. I actually thought I was... er... getting scammed! Called my bank!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, um, yeah that's—I mean we literally have a whole, uh, FAQ page about this because it happens so much and honestly if I could just, um, march upstairs and tell them to fix it I would but they're all the way in corporate and, uh, you know how that goes..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ha! Yeah. Corporate. The worst."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? So, um, let me just, uh, make a note here in your account ALT-99284-K that we've explained this and, um, I can also send you an email confirmation that shows, like, the connection between our company name and Tech Solutions Global if that would help?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah actually? That'd be... hmm, what if the bank needs it? Er, proof?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I'm actually going to send you our official merchant verification document DOC-8827-TSG right now—should hit your inbox in about two minutes—and honestly your bank sees this all the time from us so they'll probably just be like \"oh yeah, them again.\""
+        },
+        {
+            "role": "Customer",
+            "content": "Cool. Cool cool. Um. So uh, quick question though? Like... why now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, actually that's a great question—we just, uh, switched payment processors like three weeks ago, reference number REF-20241102-PP, and I think—no wait, I know—they didn't really, um, tell customers which is kind of..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Um. That's. Hm. Not great. Er, communication-wise."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah it's, um, honestly pretty typical and I'm sorry about that, like we should have sent an email or something but, uh, between you and me the transition has been kind of a mess and ticket number TKT-3847-MESS if you ever need to reference this conversation but hopefully you won't need to..."
+        },
+        {
+            "role": "Customer",
+            "content": "Nah, um, you're good! This is, uh, actually kinda fun? Like. Er. Mystery solved!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha! I love that attitude—honestly you're being way cooler about this than most people, and hey your confirmation email with case number CSE-9982-RESOLVED should be there now, but seriously thank you for not yelling at me about something I literally cannot control!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hey! So. Uh. Quick thing. These charges? They're... hmm, what's the word... sketchy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah, I totally get why that would be confusing—let me pull up your account real quick, I just need to verify with your account number or the last four digits of the card you're seeing the charges on?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Um. Let me see here... uh, it's 4492. But like, okay so, um, the thing is—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, um, so I'm seeing account ending in 4492 and, uh, actually yeah this happens all the time and it's honestly kind of ridiculous how our parent company does this—what name are you, um, seeing on your statement?"
+        },
+        {
+            "role": "Customer",
+            "content": "Tech. Solutions. Global. Never heard of 'em!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh god, yeah, so, um, that's actually us but like—I know, I know, it's so dumb—we're owned by this, uh, bigger company and they process everything under TSG-Global which shows up as, um, Tech Solutions Global on statements and honestly we get like fifty calls a day about this."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. Um. Hang on. So that's... hmm... that's actually you guys? Uh, okay so that means... wild."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know right? It's completely ridiculous, like why can't they just use our actual company name but apparently it's some sort of payment processing thing with merchant code MRC-7829-GL and I wish I could change it but..."
+        },
+        {
+            "role": "Customer",
+            "content": "No but, um, like, here's the thing. Uh. I actually thought I was... er... getting scammed! Called my bank!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, um, yeah that's—I mean we literally have a whole, uh, FAQ page about this because it happens so much and honestly if I could just, um, march upstairs and tell them to fix it I would but they're all the way in corporate and, uh, you know how that goes..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ha! Yeah. Corporate. The worst."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? So, um, let me just, uh, make a note here in your account ALT-99284-K that we've explained this and, um, I can also send you an email confirmation that shows, like, the connection between our company name and Tech Solutions Global if that would help?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah actually? That'd be... hmm, what if the bank needs it? Er, proof?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I'm actually going to send you our official merchant verification document DOC-8827-TSG right now—should hit your inbox in about two minutes—and honestly your bank sees this all the time from us so they'll probably just be like \"oh yeah, them again.\""
+        },
+        {
+            "role": "Customer",
+            "content": "Cool. Cool cool. Um. So uh, quick question though? Like... why now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, actually that's a great question—we just, uh, switched payment processors like three weeks ago, reference number REF-20241102-PP, and I think—no wait, I know—they didn't really, um, tell customers which is kind of..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Um. That's. Hm. Not great. Er, communication-wise."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah it's, um, honestly pretty typical and I'm sorry about that, like we should have sent an email or something but, uh, between you and me the transition has been kind of a mess and ticket number TKT-3847-MESS if you ever need to reference this conversation but hopefully you won't need to..."
+        },
+        {
+            "role": "Customer",
+            "content": "Nah, um, you're good! This is, uh, actually kinda fun? Like. Er. Mystery solved!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha! I love that attitude—honestly you're being way cooler about this than most people, and hey your confirmation email with case number CSE-9982-RESOLVED should be there now, but seriously thank you for not yelling at me about something I literally cannot control!"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "27ed9fbf_script.json",
+    "scenario": "confused about charges appearing as a different company name",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "friendly_chatty",
+                "manic_oversharing"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "word_searching",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "regretfully_limited"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "hedge_words",
+                    "self_corrections",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

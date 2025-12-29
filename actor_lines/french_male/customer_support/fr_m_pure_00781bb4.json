@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Euh, bonjour, j'appelle pour mon... heu... dernier chèque de paie ? Y a un problème avec le kilométrage."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh merde, euh, attendez je vais juste—désolé, faut que j'ouvre votre compte. Vous pouvez, euh, me donner votre numéro d'employé ? Ça devrait être, euh, ça commence sûrement par EMP et puis genre six chiffres après, je crois."
+        },
+        {
+            "role": "Customer",
+            "content": "C'est euh... EMP... heu... 447829."
+        },
+        {
+            "role": "Customer Support",
+            "content": "C'est noté."
+        },
+        {
+            "role": "Customer",
+            "content": "Donc genre, euh, ils m'ont payé que... heu... la moitié de mes kilomètres ? Peut-être moins."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay alors, euh, je regarde votre dossier là—EMP447829—et, heu, ouais c'est... hmm, c'est franchement ridicule. Ils vous ont mis, euh, attendez voir... seulement 312 kilomètres pour toute la période de paie ? Ça peut pas être ça, enfin, c'est quoi, genre trois jours de livraisons ?"
+        },
+        {
+            "role": "Customer",
+            "content": "Trois jours. Ouais. Euh, j'ai fait... douze services."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ouais non, c'est—enfin, euh, ça arrive plus souvent que ça devrait, franchement. Le système qu'on utilise pour le suivi est, heu, c'est vraiment de la merde. Attendez que je, euh, vérifie vos journaux de route par rapport à ce qui a été soumis dans le fichier de paie PAY-2024-1182-B."
+        },
+        {
+            "role": "Customer",
+            "content": "Attendez, euh, est-ce que ça va... Je vais avoir l'argent ? Euh, bientôt ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors, euh, voilà ce que je peux faire—et genre, je sais que c'est chiant parce que vous devriez pas avoir à attendre—mais je dois, heu, faire une demande de correction avec le formulaire CRQ-7739. Ça va prendre, euh, probablement cinq à sept jours ouvrables pour traiter ? Peut-être moins si je mets urgent."
+        },
+        {
+            "role": "Customer",
+            "content": "Cinq à sept... Mais mon loyer est dû. Euh. Vendredi. C'est... heu..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je sais, je sais."
+        },
+        {
+            "role": "Customer",
+            "content": "Vous pouvez pas juste... Enfin, euh, y a forcément quelque chose de plus rapide ? Heu, non ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Écoutez, euh, entre nous ? Tout le système de remboursement est, heu, il est pété. Genre je soumets probablement, euh, quinze de ces corrections chaque semaine. Mais l'option la plus rapide—et bon, je suis pas censé suggérer ça—c'est si vous, euh, parlez à votre manager direct pour avoir un code de forçage manuel, ça commence par OVR, et là il peut faire passer ça le jour même."
+        },
+        {
+            "role": "Customer",
+            "content": "Mon manager. C'est lui qui a... euh... merdé."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Évidemment. Euh, okay alors, hmm, attendez que je réfléchisse... En fait, attendez, je peux—désolé, je vérifie un autre truc là—si je soumets ça sous le code d'ajustement ADJ-994-URGENT au lieu de la correction normale, ça, heu, ça pourrait marcher ? C'est techniquement pour d'autres problèmes mais..."
+        },
+        {
+            "role": "Customer",
+            "content": "Euh, ça va... ça va vraiment marcher ça ? Euh... je peux pas attendre une autre semaine si ça marche pas."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oui oui c'est sûr."
+        },
+        {
+            "role": "Customer",
+            "content": "Parce que genre, euh, j'ai déjà... heu... payé l'essence moi-même depuis des semaines, et euh..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors voilà ce que je vais faire—et je, euh, je mets mon numéro d'employé TSR-8847 dessus pour qu'ils sachent que j'ai approuvé—je le soumets sous les deux codes. Le ADJ-994-URGENT et, heu, le CRQ-7739-A normal. L'un des deux devrait passer d'ici, hmm, mercredi au plus tard ? Et j'envoie aussi, euh, un signal directement à la paie. Je peux pas promettre le jour même mais c'est, euh, c'est mieux que d'attendre la semaine complète, vous voyez ?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm calling about my... uh... last paycheck? There's something wrong with the mileage."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh geez, um, let me just—sorry, I need to pull up your account here. Can you, uh, give me your employee ID? It should be, um, probably starts with EMP and then like six numbers after that, I think."
+        },
+        {
+            "role": "Customer",
+            "content": "It's um... EMP... uh... 447829."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "So like, um, they only paid me for... uh... half my miles? Maybe less."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm looking at your file here—EMP447829—and, uh, yeah this is... hmm, this is actually kind of ridiculous. They've got you down for, um, let me see... only 312 miles for the whole pay period? That can't be right, I mean, that's like what, maybe three days of deliveries?"
+        },
+        {
+            "role": "Customer",
+            "content": "Three days. Yeah. Um, I worked... twelve shifts."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, that's—I mean, um, this happens more than it should, honestly. The system we use for tracking is, uh, it's kind of garbage. Let me just, er, check your route logs against what got submitted in payroll file PAY-2024-1182-B."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, um, is this gonna... Will I get the money? Er, soon?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, here's what I can do—and like, I know this sucks because you shouldn't have to wait—but I need to, uh, file a correction request through form CRQ-7739. It's gonna take, um, probably five to seven business days to process? Maybe less if I mark it urgent."
+        },
+        {
+            "role": "Customer",
+            "content": "Five to seven... But rent's due. Um. Friday. That's... uh..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know."
+        },
+        {
+            "role": "Customer",
+            "content": "Can't you just... I mean, um, there's gotta be something faster? Uh, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look, um, between you and me? The whole reimbursement system is, uh, it's broken. Like I submit probably, er, fifteen of these corrections every single week. But the fastest option—and I mean, I'm not supposed to suggest this—is if you, um, talk to your direct manager about getting a manual override code, starts with OVR, and then they can push it through same-day."
+        },
+        {
+            "role": "Customer",
+            "content": "My manager. He's the one who... um... messed it up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course he did. Um, okay so, hmm, let me think... Actually, wait, I can—sorry, I'm checking something else here—if I submit this under adjustment code ADJ-994-URGENT instead of the regular correction, that, uh, that might work? It's technically for different issues but..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, would that... would that actually work though? Er... I can't wait another week if it doesn't."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Because like, um, I've already been... uh... covering gas myself for weeks now, and um..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I'm gonna do—and I'm, um, putting my employee number TSR-8847 on this so they know I approved it—I'm filing it under both codes. The ADJ-994-URGENT and, uh, the regular CRQ-7739-A. One of them should hit by, hmm, Wednesday latest? And I'm also, er, sending a flag to payroll directly. Can't promise same-day but it's, um, it's better than waiting the full week, you know?"
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "00781bb4_script.json",
+    "scenario": "pizza delivery driver, upset about mileage reimbursement discrepancies on his last paycheck",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "cautiously_hopeful",
+                "panicked_spiral"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words",
+                    "self_corrections",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

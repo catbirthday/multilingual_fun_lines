@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Also basically ich werde hier für drei Tage berechnet, wo ich die Ausrüstung gar nicht hatte, also..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh nein, ähm... lass mich mal... wie heißt das... dein Konto hier aufrufen. Kannst du mir deine Mietvertragsnummer geben?"
+        },
+        {
+            "role": "Customer",
+            "content": "Es ist es ist RNT-4492, okay okay ich brauche das heute noch geklärt."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hab's, also RNT-4492-LM7, ich sehe die Gebühren hier und... ja, das ist lächerlich. Three extra days at 89 dollars per day, das ist überhaupt nicht richtig."
+        },
+        {
+            "role": "Customer",
+            "content": "Genau! Also wie basically ich hab's am 15. zurückgegeben und und ihr berechnet mir bis zum 18.!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ähm, ich sehe genau was hier passiert ist. Das System... it's this stupid automatic thing we have... hat deine Rückgabe nicht richtig registriert. Transaktion TXN-90847-B zeigt zurückgegeben aber dann gibt's diesen, ähm, wie nennt man das... diesen Geisterposten der weiterläuft."
+        },
+        {
+            "role": "Customer",
+            "content": "Also also kannst du das einfach beheben? Like right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolut, ich bin schon dabei. Schau, unter uns gesagt? This happens way too often with our rental system. Es ist ehrlich gesagt peinlich. Ich schreibe dir die vollen 267 Dollar jetzt gut unter Anpassung ADJ-7823-KP."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay gut, und wie was ist mit nächstem Mal? Das das passiert basically jedes Mal!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja nein, du hast total recht frustriert zu sein. Also ähm... here's what I'm gonna do. Ich setze eine Notiz... eine permanente Markierung auf dein Konto FLG-9901-MST die basically unserem System sagt, ähm, alle Rückgaben manuell zu überprüfen."
+        },
+        {
+            "role": "Customer",
+            "content": "Also basically das bedeutet was genau? Wie ich ich brauche einfach dass das aufhört."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Es bedeutet, ähm... wie erkläre ich das... jedes Mal wenn du was zurückgibst, instead of the computer just processing it, muss eine echte Person es erst verifizieren. Keine automatischen Gebühren mehr die über dein Rückgabedatum hinauslaufen."
+        },
+        {
+            "role": "Customer",
+            "content": "Gut gut, whatever, ich bin ich bin einfach müde davon ständig deswegen anzurufen, also..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich verstehe dich, wirklich. And honestly? Wenn ich ein Landschaftsbaugeschäft führen würde und das bei jeder Miete durchmachen müsste... ich wäre wütend. Die Gutschrift sollte in 24 Stunden erscheinen unter Bestätigung CNF-4418-RRD."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm also wie basically du sagst 24 Stunden? Nicht nicht wie eine Woche?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Richtig richtig. Maximal 24 Stunden. Usually it's... was... vielleicht 12? Aber ich sage immer 24 nur um sicher zu sein. Und ich schicke dir auch eine E-Mail mit Fallnummer CSE-7799-LMP damit du einen Beweis von allem hast was wir besprochen haben."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay, und und wenn's nicht auftaucht?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Dann rufst du mit dieser Fallnummer zurück und... ich werde tatsächlich sicherstellen... I'm scheduling a follow-up for Monday. Wenn diese Gutschrift bis dann nicht gebucht ist, wird unser System es automatisch ans Management eskalieren und noch eine 50 Dollar Kulanzgutschrift hinzufügen."
+        },
+        {
+            "role": "Customer",
+            "content": "Also also das war's dann? Wie wir sind wir sind fertig hier?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ähm, ja, wir sind komplett fertig. Gutschrift läuft, die Markierung ist auf deinem Konto um zukünftige Probleme zu verhindern, und ähm... nochmal, really sorry about this mess. Deine Bestätigung für alles ist CNF-4418-RRD, und du solltest diese E-Mail innerhalb einer Stunde bekommen."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically I'm I'm getting charged for like three days I didn't even have the equipment, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, um... let me just... what's the word... pull up your account here. Can you give me your rental agreement number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's RNT-4492, okay okay I need this fixed today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so RNT-4492-LM7, I'm seeing the charges here and... yeah, this is ridiculous. Three extra days at eighty-nine dollars per day, that's not right at all."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly! So like basically I returned it on the 15th and and you guys are charging me through the 18th!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, I see exactly what happened here. The system... it's this stupid automatic thing we have... didn't register your return properly. Transaction TXN-90847-B shows returned but then there's this, um, what do you call it... this ghost charge that keeps running."
+        },
+        {
+            "role": "Customer",
+            "content": "So so can you just fix it? Like right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I'm already on it. Look, between you and me? This happens way too often with our rental system. It's embarrassing honestly. I'm crediting you the full two hundred sixty-seven dollars right now under adjustment ADJ-7823-KP."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay good, and like what about next time? This this happens every time basically!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, you're totally right to be frustrated. So um... here's what I'm gonna do. I'm putting a note... a permanent flag on your account FLG-9901-MST that basically tells our system to, um, double-check all returns manually."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically that means what exactly? Like I just I just need this to stop happening."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It means, um... how do I explain this... every time you return something, instead of the computer just processing it, an actual person has to verify it first. No more automatic charges running past your return date."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine fine, whatever, I'm I'm just tired of calling about this stuff, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, I really do. And honestly? If I was running a landscaping business and dealing with this every rental... I'd be furious. The credit should show in twenty-four hours under confirmation CNF-4418-RRD."
+        },
+        {
+            "role": "Customer",
+            "content": "Um so like basically you're saying twenty-four hours? Not not like a week?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Twenty-four hours max. Usually it's... what... maybe twelve? But I always say twenty-four just to be safe. And I'm also sending you an email with case number CSE-7799-LMP so you have proof of everything we discussed."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay, and and if it doesn't show up?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Then you call back with that case number and... I'm actually going to make sure... I'm scheduling a follow-up for Monday. If that credit hasn't posted by then, our system will automatically escalate it to management and add another fifty dollar courtesy credit."
+        },
+        {
+            "role": "Customer",
+            "content": "So so that's it then? Like we're we're done here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah, we're all set. Credit's processing, the flag is on your account to prevent future issues, and um... again, really sorry about this mess. Your confirmation for everything is CNF-4418-RRD, and you should get that email within the hour."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1e016fd3_script.json",
+    "scenario": "landscaper, frustrated about equipment rental charges for dates he didn't have the equipment",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "frustrated_impatient",
+                "exhausted_worn"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "nurturing_protective"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

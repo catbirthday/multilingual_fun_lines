@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ähm, hallo, also ich hab meine Rechnung bekommen und sie ist—warte nein, die Gebühren sind einfach, äh, ich versteh nicht was was ist?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ach, hallo! Also, ähm, das kann ich total verstehen. Wissen Sie was eigentlich? Ich hab gestern. Meine eigene. Handyrechnung angeschaut. Und hatte die, äh, genau gleiche Reaktion. Lassen Sie mich mal, äh, Ihr Konto hier aufrufen und wir können das, ähm, Zeile für Zeile zusammen durchgehen."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh gut, ähm, ja das würde helfen, äh, danke."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay also. Ich hab Ihr Konto. Nummer ACT-7739-QM42. Hier vor mir. Und, ähm, ich sehe Ihre Summe ist—hmm, lass mich mal... wie heißt das nochmal... Ihre Rechnungssumme. Zeigt 127,84 Euro. Stimmt das, äh, mit dem überein was Sie sehen?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm ja das stimmt aber da sind all diese, äh, Gebühren und ich versteh nicht—sorry, ich meine die Service-Gebühren oder..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nee nee, absolut berechtigte Frage! Also, ähm, ehrlich? Als ich hier angefangen hab. Hab ich so. Drei Tage. Gebraucht. Nur um unsere eigenen Abrechnungscodes zu verstehen. Es ist, äh, schon krass wie die alles bezeichnen. Ihr Basistarif BPL-9983-Z ist, äh, das sind Ihre 59,99 Euro, und dann..."
+        },
+        {
+            "role": "Customer",
+            "content": "Aha und dann gibt's ähm dieses Daten-Ding das—warte nein das ist zwanzig—äh, achtundzwanzig irgendwas?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja genau. Also das ist, ähm, das zeigt als. Hmm. Code DOV-4428-K. Was halt, äh, im Grunde Ihre... wie nennt man das... Ihre Überschreitungsgebühr ist. Für Daten. Sieht aus als wären Sie, äh, ungefähr 3 Giga über Ihrem Limit gewesen letzten Monat?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Ähm. Ja ich war, äh, auf Reisen und hab vergessen—Sie wissen schon..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh Mann, ähm, mir ist genau dasselbe passiert! Letzten Monat in München. Einfach, äh, gestreamt und gestreamt. Ohne überhaupt nachzudenken. Lass mich mal, äh, schauen ob ich da was... hmm... suche nach einer... Kulanzgutschrift vielleicht?"
+        },
+        {
+            "role": "Customer",
+            "content": "Echt? Ähm das ist—ich meine wenn Sie könnten aber ich weiß es ist nicht Ihre Schuld dass das System so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nee Sie sind lieb das zu sagen. Aber ehrlich. Das passiert. Ständig. Also, ähm, ich wende den Gutschriftcode CRD-8851-XP22 an und das wird, äh, das streicht die Hälfte dieser Überschreitung. Was es auf, äh, vierzehn Euro runterbringt."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm wow okay das ist, äh, das ist echt nett, äh, und was ist diese Regulierungsgebühr?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ugh. Die Regulierungsgebühren. Also die sind, ähm, im Grunde behördlich... wie sagt man das... vorgeschriebene Gebühren? Wir müssen die, äh, weiterreichen. Ihre speziellen sind, äh, lass mich sehen, REG-5574-A und REG-5575-B. Das sind 4,12 Euro und 2,77 Euro."
+        },
+        {
+            "role": "Customer",
+            "content": "Verstehe verstehe, ähm, und die Geräte? Das sind, äh, fünfzehn? Sorry dass ich Sie mit so viel bombardiere..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nee nee! Das ist. Wortwörtlich. Mein Job. Und ähm, unter uns gesagt? Ich helfe lieber jemandem der, äh, wirklich versucht die Rechnung zu verstehen. Als mit. Sie wissen schon. Den Schreiern zu tun zu haben. Ihre Gerätegebühr EQP-0923-RF88. Das ist Ihre Router-Miete. Was, ähm, eigentlich..."
+        },
+        {
+            "role": "Customer",
+            "content": "Äh, was? Ist da was, ähm, nicht in Ordnung oder...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also, äh, nein nichts ist falsch! Aber. Hier ist die Sache. Sie mieten seit, hmm, lass mich rechnen... achtzehn Monaten? Bei fünfzehn im Monat. Das sind, äh, das sind 270 Euro insgesamt. Sie hätten sich einen für so. Achtzig Euro kaufen können."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Ähm. Wow daran hab ich gar nicht—das ist schon, äh, ich meine danke dass Sie mir das sagen..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Schauen Sie. Ich soll das eigentlich, ähm, nicht vorschlagen. Aber. Wenn Sie sich selbst einen kaufen. Und unseren zurückgeben. Mit der Rückgabenummer RET-3999-QZ. Können wir das, äh, zurückdatieren. Um einen Abrechnungszyklus. Sparen Sie nochmal fünfzehn. Also. Falls Sie wollen."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, so I got my bill and it's—wait no, the charges are just, er, I can't figure out what's what?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh hey there! So, um, I totally get that. Actually—you know what? I was just. Looking at my own. Phone bill yesterday. And I had the, uh, same exact reaction. Let me just, er, pull up your account here and we can, um, go through it line by line together."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh good, um, yeah that'd help, er, thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so. I've got your account. Number ACT-7739-QM42. Right here. And, um, I'm seeing your total is—hmm, let me just... what's the word I'm looking for... your statement total. Is showing $127.84. Does that, uh, match what you're seeing?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um yeah that's right but like there's all these, uh, fees and I don't—sorry, I mean the service charges or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally fair question! So, um, honestly? When I started here. I spent like. Three days. Just trying to understand our own billing codes. It's, uh, it's kind of ridiculous how they label everything. Your base plan BPL-9983-Z is, er, that's your $59.99, and then..."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh-huh and then there's um this data thing that's—wait no that's twenty—er, twenty-eight something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah exactly. So that's, um, that's showing as. Hmm. Code DOV-4428-K. Which is, uh, basically your... what's the term... your overage charge. For data. Looks like you went, er, about 3 gigs over your limit last month?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Um. Yeah I was, uh, traveling and forgot to—you know..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, um, I did the exact same thing! Last month in Denver. Just, uh, streaming and streaming. Without even thinking. Let me, er, let me see if there's something I can... hmm... looking for a... courtesy credit maybe?"
+        },
+        {
+            "role": "Customer",
+            "content": "Really? Um that's—I mean if you could but I know it's not your fault the system's so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No you're sweet for saying that. But honestly. This happens. All the time. So, um, I'm applying credit code CRD-8851-XP22 and that'll, uh, that'll knock off half that overage. Which brings it down to, er, fourteen dollars instead."
+        },
+        {
+            "role": "Customer",
+            "content": "Um wow okay that's, er, that's really nice, uh, and then what's this regulatory fee thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ugh. The regulatory fees. So those are, um, basically government... what's the word I want... mandated charges? We have to, uh, pass them through. Your specific ones are, er, let me see, REG-5574-A and REG-5575-B. That's $4.12 and $2.77."
+        },
+        {
+            "role": "Customer",
+            "content": "Got it got it, um, and the equipment? That's, uh, fifteen? Sorry I'm throwing lots at you..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no! This is. Literally. My job. And um, between you and me? I'd rather help someone who's, uh, actually trying to understand their bill. Than deal with. You know. The screamers. Your equipment charge EQP-0923-RF88. That's your router rental. Which, um, actually..."
+        },
+        {
+            "role": "Customer",
+            "content": "Er, what? Is something, um, wrong with it or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, uh, no nothing's wrong! But. Here's the thing. You've been renting for, hmm, let me calculate... eighteen months? At fifteen a month. That's, er, that's $270 total. You could've bought one for like. Eighty bucks."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Um. Wow I didn't even—that's kind of, uh, I mean thanks for telling me that..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look. I'm not, um, supposed to suggest this. But. If you buy your own. And return ours. With receipt number RET-3999-QZ. We can, uh, backdate the return. By one billing cycle. Save you another fifteen. I mean. If you want."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2d212cac_script.json",
+    "scenario": "trying to understand their itemized bill breakdown",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "cautiously_hopeful",
+                "empathetic_to_rep"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "self_corrections",
+                    "trailing_off",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "humanizing_personal",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}
