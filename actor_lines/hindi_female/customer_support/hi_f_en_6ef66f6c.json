@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "[exhales] So, um, you're telling me I got charged, uh, roaming fees? For driving through... my own country?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay okay, let me—let me pull up. Your account. Account number ACC-7294-MN82. I see. The charges. Right here."
+        },
+        {
+            "role": "Customer",
+            "content": "[sharp inhale] How do I know this isn't just, um, some kind of... scam you're running on truckers?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, I'm—I'm gonna, um, I'm gonna make sure we fix this, uh, completely. These charges. From, um, crossing between. Montana. Idaho. Transaction TXN-893847-K."
+        },
+        {
+            "role": "Customer",
+            "content": "[exhales] Roaming. In America. Right."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So so, um, what happened—let me just—actually, uh, your plan PLA-4482-X has, um, some gaps. Near borders. I'm—I'm seeing it."
+        },
+        {
+            "role": "Customer",
+            "content": "Gaps. How convenient for you people."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, I'm gonna—okay okay, um, I'm gonna protect you from this, uh, happening again. Setting up. Um. Interstate coverage ICC-9938-RT. No more. Surprise charges."
+        },
+        {
+            "role": "Customer",
+            "content": "[breath catches] And how much is THAT going to cost me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually—no wait—um, it's it's free. I'm adding, uh, truck driver exemption code TDE-2847. Because, um, this shouldn't. Have happened."
+        },
+        {
+            "role": "Customer",
+            "content": "[exhales slowly] Um, how do I, uh, verify you're actually... doing what you say you're doing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Confirmation email. Sent now. Reference REF-38827-QP shows. Every adjustment. Every credit."
+        },
+        {
+            "role": "Customer",
+            "content": "[sharp breath] So you're, um, admitting this was, uh... your mistake then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes. Absolutely. System error SE-4429 flagged. Your routes. Incorrectly. Getting you. Full refund."
+        },
+        {
+            "role": "Customer",
+            "content": "Every. Single. Charge?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Every—every single one, um, all $347.82 under, uh, credit note CRN-5563-LP. Plus. Um. Three months. Free upgrade."
+        },
+        {
+            "role": "Customer",
+            "content": "[long exhale] Three months of what exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So so, um, unlimited nationwide data, uh, no restrictions UNL-8827-NA. I just—I just want to, um, make sure. You're protected."
+        },
+        {
+            "role": "Customer",
+            "content": "Protected. After you already took my money."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look. I've—I've expedited. Refund RFN-6621-XK. Tomorrow. Your account. Not three days. Tomorrow. Because this. Was wrong."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "[exhales] So, um, you're telling me I got charged, uh, roaming fees? For driving through... my own country?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay okay, let me—let me pull up. Your account. Account number ACC-7294-MN82. I see. The charges. Right here."
+        },
+        {
+            "role": "Customer",
+            "content": "[sharp inhale] How do I know this isn't just, um, some kind of... scam you're running on truckers?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, I'm—I'm gonna, um, I'm gonna make sure we fix this, uh, completely. These charges. From, um, crossing between. Montana. Idaho. Transaction TXN-893847-K."
+        },
+        {
+            "role": "Customer",
+            "content": "[exhales] Roaming. In America. Right."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So so, um, what happened—let me just—actually, uh, your plan PLA-4482-X has, um, some gaps. Near borders. I'm—I'm seeing it."
+        },
+        {
+            "role": "Customer",
+            "content": "Gaps. How convenient for you people."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, I'm gonna—okay okay, um, I'm gonna protect you from this, uh, happening again. Setting up. Um. Interstate coverage ICC-9938-RT. No more. Surprise charges."
+        },
+        {
+            "role": "Customer",
+            "content": "[breath catches] And how much is THAT going to cost me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually—no wait—um, it's it's free. I'm adding, uh, truck driver exemption code TDE-2847. Because, um, this shouldn't. Have happened."
+        },
+        {
+            "role": "Customer",
+            "content": "[exhales slowly] Um, how do I, uh, verify you're actually... doing what you say you're doing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Confirmation email. Sent now. Reference REF-38827-QP shows. Every adjustment. Every credit."
+        },
+        {
+            "role": "Customer",
+            "content": "[sharp breath] So you're, um, admitting this was, uh... your mistake then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes. Absolutely. System error SE-4429 flagged. Your routes. Incorrectly. Getting you. Full refund."
+        },
+        {
+            "role": "Customer",
+            "content": "Every. Single. Charge?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Every—every single one, um, all $347.82 under, uh, credit note CRN-5563-LP. Plus. Um. Three months. Free upgrade."
+        },
+        {
+            "role": "Customer",
+            "content": "[long exhale] Three months of what exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So so, um, unlimited nationwide data, uh, no restrictions UNL-8827-NA. I just—I just want to, um, make sure. You're protected."
+        },
+        {
+            "role": "Customer",
+            "content": "Protected. After you already took my money."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look. I've—I've expedited. Refund RFN-6621-XK. Tomorrow. Your account. Not three days. Tomorrow. Because this. Was wrong."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6ef66f6c_script.json",
+    "scenario": "truck driver, frustrated because he was charged for roaming data while crossing state lines",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "seething_controlled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "slightly_frazzled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

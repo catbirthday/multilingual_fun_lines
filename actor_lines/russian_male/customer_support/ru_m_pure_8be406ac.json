@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Эм, здравствуйте. Я я наверное просто. Запутался. Но э-э. Эти начисления. Они они неправильные?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "О, любопытно, эм, давайте я просто... хм... открою ваш аккаунт. Какой какой у вас номер участника, чтобы я мог, э, посмотреть эти расчёты по выплатам?"
+        },
+        {
+            "role": "Customer",
+            "content": "Это. Эм. VSP. 4-4-9. 2-8-1. Простите простите, я наверное неправильно читаю."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Нет нет, всё хорошо, значит VSP-44928100, отлично отлично. Так, эм, я вижу... хм, это это странно вообще-то. У вас тут три недавние заявки, э, CLM-7731-VS, CLM-7819-VS, и эм... стоп стоп... тут точно что-то не так с расчётами доплат."
+        },
+        {
+            "role": "Customer",
+            "content": "Да да, точно! Я я так и знал. Или. Стоп. Может я просто тупой?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Нет, вовсе нет! Это, э, это вообще-то очень интересно, потому что система применяет... как бы это сказать... хм... типа повторную франшизу к каждой заявке, когда она должна списываться только раз за страховой год, это это точно ошибка."
+        },
+        {
+            "role": "Customer",
+            "content": "А. Ладно ладно, значит. Эм. Это не. Не только у меня так?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Точно не у вас, так так вот что произошло — заявка CLM-7731-VS обработалась первой 3 октября и, э, правильно применила вашу франшизу в $50, но потом, эм, следующие две тоже показывают вычеты по $50, когда они они не должны."
+        },
+        {
+            "role": "Customer",
+            "content": "Вот вот! Это. Эм. Это я и думал, но просто. Чувствовал себя дураком, что звоню."
+        },
+        {
+            "role": "Customer Support",
+            "content": "О нет нет, вы обнаружили реальную проблему. Давайте я просто... хм... правильно это посчитаю. Значит ваша общая переплата по всем трём заявкам составляет, э, ровно $100, референс-номер REF-9982-ADJ для корректировки."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм окей, так. Так что. Что теперь происходит? Простите простите. Просто. Расстроен."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Полностью понимаю, так эм, я я сейчас... хм... обработаю это прямо сейчас. Кредит в $100 поступит на ваш счёт в течение, э, 3-5 рабочих дней под кодом корректировки ADJ-1127-VSPCR."
+        },
+        {
+            "role": "Customer",
+            "content": "Это. Это всё? Серьёзно? Я думал. Эм. Думал это займёт вечность."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да да, заявки по зрению на самом деле... хм как бы это... более упрощённые чем медицинские. Я я видел точно такую же проблему раньше с аккаунтами VSP, начинающимися с 449, это это известный глюк, который мы можем быстро исправить."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм эм вау. Окей. Мне нужно. Мне нужен. Референс-номер или?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так, ваш основной референс это REF-9982-ADJ, но, э, я также... хм... отправлю вам на email полную разбивку с оригинальными расчётами против против исправленных, номер подтверждения CNF-8847-EMAIL."
+        },
+        {
+            "role": "Customer",
+            "content": "Отлично отлично. Эм. Спасибо. Простите что был таким. Ну знаете. Растерянным."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Нет нет, серьёзно, вы вы на самом деле помогли нам обнаружить кое-что. Этот глюк затрагивает, э, хм наверное... дайте проверю... да, около 200 других аккаунтов с похожими префиксами, так что мы мы теперь проведём системный аудит."
+        },
+        {
+            "role": "Customer",
+            "content": "О. Правда? Я я реально. Помог? Это. Эм. Неожиданно."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Абсолютно! Ваш аккаунт VSP-44928100 теперь в порядке и, эм, честно говоря, как человек который который явно разбирается в заявках, вы сегодня сэкономили многим людям деньги. Есть, э, что-то ещё чем я могу помочь?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I'm I'm prob'ly just. Confused. But uh. These claims. They're they're not right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh oh interesting, um, let me just... hmm... pull up your account here. What's what's your member ID so I can, uh, take a look at those claim calculations?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's. Um. VSP. 4-4-9. 2-8-1. Sorry sorry I'm prob'ly reading it wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no you're good, so VSP-44928100, perfect perfect. Okay so, um, I'm seeing... hmm that's that's weird actually. You've got three recent claims here, uh, CLM-7731-VS, CLM-7819-VS, and um... wait wait... something's definitely off with these copay calculations."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah yeah exactly! I I knew it. Or. Wait. Am I just stupid?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No not at all! This is, uh, this is actually really interesting because the the system's applying a... what's the word... hmm... like a duplicate deductible to each claim when it should only hit once per benefit year, that's that's definitely wrong."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay okay so. Um. It's not. Not just me then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Definitely not you, so so here's what happened—claim CLM-7731-VS processed first on October 3rd and, uh, correctly applied your $50 deductible, but then, um, the next two are also showing $50 deductions when they they shouldn't."
+        },
+        {
+            "role": "Customer",
+            "content": "Right right! That's. Um. That's what I thought but I just. Felt dumb calling."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no, you caught a real problem here. Let me just... hmm... calculate this properly. So your total overpayment across all three claims is, uh, $100 exactly, reference number REF-9982-ADJ for the adjustment."
+        },
+        {
+            "role": "Customer",
+            "content": "Um okay so. So what. What happens now? Sorry sorry. Just. Frustrated."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally get it, so um, I'm I'm actually gonna... hmm... process this right now. The credit of $100 will post to your account within, uh, 3-5 business days under adjustment code ADJ-1127-VSPCR."
+        },
+        {
+            "role": "Customer",
+            "content": "That's. That's it? Really? I thought. Um. Thought it'd take forever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah, vision claims are are actually... hmm what's the term... more streamlined than medical. I've I've seen this exact issue before with VSP accounts starting with 449, it's it's a known glitch we can fix fast."
+        },
+        {
+            "role": "Customer",
+            "content": "Um um wow. Okay. Should I. Do I need. Ref'rence number or?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So your main reference is REF-9982-ADJ but, uh, I'm also gonna... hmm... email you a full breakdown showing the original calculations versus the the corrected ones, confirmation number CNF-8847-EMAIL."
+        },
+        {
+            "role": "Customer",
+            "content": "Great great. Um. Thanks. Sorry for for being so. You know. Confused."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no seriously, you you actually helped us catch something. This glitch affects, uh, hmm probably... let me check... yeah about 200 other accounts with similar prefixes, so we're we're gonna run a system-wide audit now."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Really? I I actually. Helped? That's. Um. Unexpected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! Your account VSP-44928100 is all set now and, um, honestly as someone who who clearly knows claims inside out, you saved a lot of people some money today. Is there, uh, anything else I can help with?"
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "8be406ac_script.json",
+    "scenario": "optometric technician, detail-oriented about vision insurance claim calculation errors",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "self_deprecating_fumbling",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "word_searching",
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

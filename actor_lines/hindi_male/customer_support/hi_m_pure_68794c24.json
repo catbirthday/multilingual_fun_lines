@@ -1,0 +1,230 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "अम्म, ठीक है तो, अ, ये literally पांचवीं बार है जब मैं इसी, अम्म, बिल्कुल same problem के बारे में call कर रहा हूं..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे नहीं, अम्म, मुझे बहुत, बहुत खेद है कि आप ये सब झेल रहे हैं, मेरा मतलब, अ, पांच बार तो बस—ये बिल्कुल गलत है, और, अम्म, मैं पूरी तरह समझ सकता हूं कि आप frustrated क्यों होंगे, मैं अभी, अ, आपका account निकालता हूं—हम्म, आपका account number क्या है?"
+        },
+        {
+            "role": "Customer",
+            "content": "वो है... देखता हूं यहां... 447829."
+        },
+        {
+            "role": "Customer Support",
+            "content": "ठीक है तो, अम्म, मुझे account ACC-447829-QV दिख रहा है और, अ, अरे हां, मैं देख सकता हूं, अम्म, पिछली calls यहां हैं, और honestly ये, जैसे, ऐसा बिल्कुल नहीं होना चाहिए था।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, हां exactly, तो जैसे, अ, क्या कहूं... ये, अम्म, basically एक बार-बार आने वाला nightmare बन गया है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं आपका दर्द पूरी तरह समझता हूं, सच में समझता हूं, और ticket TKT-983344-M देखकर, मैं exactly देख सकता हूं कि हर बार कहां गड़बड़ हुई।"
+        },
+        {
+            "role": "Customer",
+            "content": "हम्म, रुको, आप actually देख सकते हैं कि क्या हुआ था?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो basically, अम्म, जो मैं notice कर रहा हूं वो ये है कि, अ, हर बार जब किसी ने इसे fix करने की कोशिश की, वो, जैसे, सिर्फ ऊपरी issue को address कर रहे थे, नहीं कि, अम्म, root cause को जो batch code BCH-7721-XX से linked है।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, रुकिए, क्या, सच में? तो आप कह रहे हैं, अ, आप actually जानते हैं कि क्या गलत हो रहा था?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मुझे लगता है, अम्म, मेरा मतलब probably जो हुआ वो ये है कि system बार-बार revert हो रहा था क्योंकि किसी ने master record MRC-5589-KL को update नहीं किया, जो kind of बाकी सब कुछ control करता है।"
+        },
+        {
+            "role": "Customer",
+            "content": "क्या, seriously? आप इसे fix कर सकते हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो, अम्म, मैं अब जो करने जा रहा हूं, और अ, मुझे maybe ये नहीं करना चाहिए लेकिन, अम्म, मैं इसे directly हमारे, जैसे, senior technical team को priority code PRI-9982-AA के तहत escalate कर रहा हूं।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, ठीक है लेकिन जैसे, अ, मुझे कैसे पता चले कि ये बस, अम्म, एक और चक्कर नहीं है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ये पूछना बिल्कुल सही है, और मैं आपको अभी confirmation number CNF-445821-QQR दे रहा हूं, जिससे आप इसे directly track कर सकते हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "देखता हूं यहां... आप actually मुझे किसी के पास direct line दे रहे हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अम्म, हां तो, अ, सिर्फ इतना ही नहीं बल्कि मैं, अम्म, आपके account में, अ, छह महीने की service credit code CRD-1147-ZM के तहत credit कर रहा हूं क्योंकि, जैसे, ऐसा कभी होना ही नहीं चाहिए था।"
+        },
+        {
+            "role": "Customer",
+            "content": "रुको, अम्म, छह महीने? वो, अ... हम्म, इसमें क्या catch है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "कोई catch नहीं है बिल्कुल, मैं यहां आठ साल से हूं और honestly जब मैं case number CSE-774400-X में पांच calls देखता हूं, ये हमारी गलती है, आपकी नहीं।"
+        },
+        {
+            "role": "Customer",
+            "content": "ठीक है तो मतलब... आप सच में आज ही इसे fix कर रहे हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "पहले से ही transaction TXN-558821-PPK के तहत process हो रहा है, और आपको दस मिनट के अंदर email confirmation मिलेगा जिसमें सब कुछ documented होगा।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, okay so, uh, this is literally the fifth time I'm calling about this, um, same exact problem..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, um, I am so, so sorry you're dealing with this, I mean, uh, five times is just—that's completely unacceptable, and, um, I can totally understand why you'd be frustrated, let me, uh, pull up your account here with—hmm, what's your account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's... let me see here... 447829."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm seeing account ACC-447829-QV and, uh, oh wow, yeah I can see the, um, the previous calls here, and honestly this is, like, this shouldn't have happened at all."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah exactly, so like, uh, what's the word... it's becoming this, um, recurring nightmare basically."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely feel your pain here, I really do, and looking at ticket TKT-983344-M, I can see exactly where things went wrong each time."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, wait, you can actually see what happened?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, what I'm noticing is that, uh, each time someone tried to fix this, they were, like, only addressing the surface issue, not the, um, the root cause which is linked to batch code BCH-7721-XX."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, hold on, wait, really? So you're saying, uh, you actually know what's been going wrong?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I think, um, I mean probably what happened is the system kept reverting because nobody updated the master record MRC-5589-KL, which kind of controls everything else."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, seriously? You can fix this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, here's what I'm gonna do, and uh, I'm maybe not supposed to do this but, um, I'm escalating this directly to our, like, senior technical team under priority code PRI-9982-AA."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay but like, uh, how do I know this isn't just, um, another runaround?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's totally fair to ask, and I'm giving you confirmation number CNF-445821-QQR right now, which you can use to track this directly."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... you're actually giving me a direct line to someone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah so, uh, not only that but I'm, um, crediting your account with, er, six months of service under credit code CRD-1147-ZM because, like, this never should have happened."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, um, six months? That's, uh... hmm, what's the catch here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No catch at all, I've been here eight years and honestly when I see case number CSE-774400-X with five calls, that's on us, not you."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... you're really fixing this today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already processing under transaction TXN-558821-PPK, and you'll get an email confirmation within ten minutes with everything documented."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "68794c24_script.json",
+    "scenario": "angry because this is the fifth time they've called about the same issue",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "surprised_delighted",
+                "suspicious_paranoid"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "word_searching",
+                    "vocalized_thinking",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words",
+                    "classic_fillers",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

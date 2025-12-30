@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "मुझे कैसे पता चलेगा कि ये पैसे ना देने का एक और बहाना तो नहीं है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे हाँ हेलो जी कॉल करने के लिए थैंक यू मैं देख रही हूँ आप रीइम्बर्समेंट के बारे में कॉल कर रही हैं चलिए मैं जल्दी से आपका अकाउंट खोलती हूँ आपका अकाउंट नंबर या फोन नंबर क्या है?"
+        },
+        {
+            "role": "Customer",
+            "content": "वो वो 555-0147 है। मैंने सब कुछ सबमिट कर दिया था जो आप लोगों ने माँगा था।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अच्छा अच्छा समझ गई तो अम्म मैं अकाउंट ACC-7829-VH खोल रही हूँ और अ चलिए देखते हैं... ठीक है तो मुझे यहाँ दिख रहा है आपने 12 अक्टूबर को व्हीकल मेंटेनेंस रीइम्बर्समेंट के लिए क्लेम सबमिट किया था क्लेम नंबर CLM-2024-18923 ये सही है ना?"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ और आप लोगों ने उसे रिजेक्ट कर दिया। मुझे कैसे पता कि आपने देखा भी है या नहीं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो अम्म दरअसल मैं देख रही हूँ कि अ... क्लेम को 15 अक्टूबर को रिव्यू किया गया था और हम्म यहाँ लिखा है कि इसे इसलिए डिनाई किया गया क्योंकि रिसीट्स प्री-अप्रूव्ड मेंटेनेंस कैटेगरीज़ से मैच नहीं कर रही थीं कोड MNT-4472-B के अंडर आपने ऑयल चेंज के लिए सबमिट किया था या कुछ और था?"
+        },
+        {
+            "role": "Customer",
+            "content": "ऑयल चेंज और और टायर रोटेशन। बिल्कुल वही जो आप लोग कवर करते हैं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ओके ओके अम्म तो जैसे मुझे यहाँ दिख रहा है अ... सिस्टम शो कर रहा है कि रिसीट Joe's Auto Care की थी और अम्म apparently वो हमारी अप्रूव्ड वेंडर लिस्ट VND-8829-LIST में नहीं हैं इसीलिए ये फ्लैग हुआ।"
+        },
+        {
+            "role": "Customer",
+            "content": "मुझे कैसे पता कि ये लिस्ट सच में एक्जिस्ट भी करती है? आप तो कुछ भी बना सकती हैं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "नहीं नहीं मैं पूरी तरह समझ रही हूँ चलिए मैं बस... साँस लेती हूँ... ठीक है तो मैं आपको actually पूरी अप्रूव्ड वेंडर लिस्ट भेज सकती हूँ ये डॉक्यूमेंट DOC-5547-VENDORS है और आपको आपके एरिया कोड में सभी 847 अप्रूव्ड लोकेशन्स दिखेंगे।"
+        },
+        {
+            "role": "Customer",
+            "content": "मैं मैं तीन साल से आप लोगों के लिए ड्राइव कर रही हूँ। तीन साल।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल हाँ मैं यहाँ देख रही हूँ तीन साल दो महीने actually अगस्त 2021 से ड्राइवर ID DRV-6672-K और पता है क्या चलिए मैं देखती हूँ कि यहाँ कुछ कर सकते हैं या नहीं।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म तो जैसे, क्या, क्या एक्जैक्टली चेक कर रही हैं आप?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो अम्म मैं आपकी हिस्ट्री देख रही हूँ और अ... आपके पहले बारह सक्सेसफुल रीइम्बर्समेंट्स हुए हैं टोटल $3,247 के सब ठीक से प्रोसेस हुए तो हम्म देखती हूँ शायद मैं इसे मैन्युअल रिव्यू के लिए सबमिट कर सकूं एक्सेप्शन कोड EXC-9981-LOYAL के अंडर।"
+        },
+        {
+            "role": "Customer",
+            "content": "मैन्युअल रिव्यू का मतलब क्या क्या एक्जैक्टली?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अच्छा तो बेसिकली अम्म ऑटोमेटिक सिस्टम की जगह एक रियल पर्सन अ... आपके क्लेम को देखेगा और जैसे वो वेंडर लिस्ट रिक्वायरमेंट को ओवरराइड कर सकते हैं अगर अम्म अगर रिसीट लेजिटिमेट है और सब कुछ ठीक लगता है।"
+        },
+        {
+            "role": "Customer",
+            "content": "मुझे कैसे पता चलेगा कि कोई रियल पर्सन सच में देखेगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अम्म ठीक है तो जैसे जब मैं ये सबमिट करूंगी आपको अ... आपको एक ईमेल आएगी केस नंबर CSE-4420-MNR के साथ और अम्म रिव्यूअर के इनिशियल्स डिसिज़न लेटर पर होंगे तो अ... आपको एक्जैक्टली पता चलेगा किसने रिव्यू किया कोई ऑटोमेटेड चीज़ नहीं।"
+        },
+        {
+            "role": "Customer",
+            "content": "मुझे बस मुझे बस ये पैसे चाहिए। पेट्रोल फ्री में तो मिलता नहीं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "समझ गई हाँ बिल्कुल मैं अभी इसे प्रायोरिटी रिव्यू के लिए सबमिट कर रही हूँ 48 घंटे के अंदर जवाब आ जाना चाहिए रेफरेंस नंबर REF-8827-PRIORITY और सच में आपकी हिस्ट्री सॉलिड है तो मुझे लगता है आप ठीक होंगी।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "How do I know this isn't just another way to avoid paying me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh hi yes hello thank you for calling I see you're calling about a reimbursement issue let me just pull up your account real quick here what's your account number or phone number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's 555-0147. I submitted everything you asked for."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right got it so um I'm pulling up account ACC-7829-VH and uh let me just... okay so I see here you submitted a claim on October 12th for vehicle maintenance reimbursement claim number CLM-2024-18923 is that correct?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah and you denied it. How do I know you even looked at it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So um actually I can see here that uh the claim was reviewed on October 15th and hmm it says here it was denied because the receipts didn't match the pre-approved maintenance categories under code MNT-4472-B did you submit for oil changes or was it something else?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oil change and and tire rotation. Exactly what you cover."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay um so like here's what I'm seeing uh the system shows the receipt was from uh Joe's Auto Care and um apparently they're not on our approved vendor list VND-8829-LIST which is why it got flagged."
+        },
+        {
+            "role": "Customer",
+            "content": "How do I know that list even exists? You could be making this up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no I totally get it let me just... breathe... okay so I can actually send you the full approved vendor list it's document DOC-5547-VENDORS and you'll see all 847 approved locations in your area code."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been I've been driving for you for three years. Three years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely yes I see that here three years two months actually since August 2021 driver ID DRV-6672-K and you know what let me check if there's something we can do here."
+        },
+        {
+            "role": "Customer",
+            "content": "Um so like, what, what exactly are you checking?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So um I'm looking at your history and uh you've had twelve successful reimbursements before totaling $3,247 all processed fine so hmm let me see if I can maybe submit this for manual review under exception code EXC-9981-LOYAL."
+        },
+        {
+            "role": "Customer",
+            "content": "Manual review means what what exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right so basically um instead of the automatic system a real person will uh look at your claim and like they can override the vendor list requirement if um if the receipt is legitimate and everything checks out."
+        },
+        {
+            "role": "Customer",
+            "content": "How do I know a real person will actually look at it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um okay so like when I submit this you'll get uh you'll get an email with case number CSE-4420-MNR and um the reviewer's initials will be on the decision letter so uh you'll know exactly who reviewed it not just some automated thing."
+        },
+        {
+            "role": "Customer",
+            "content": "I just I just need this money. Gas isn't free."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it yes absolutely I'm submitting this right now for priority review should have an answer within 48 hours reference number REF-8827-PRIORITY and honestly your history is solid so I think you'll be fine."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6d937639_script.json",
+    "scenario": "courier, anxious about a vehicle maintenance reimbursement that was denied",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "indignant_righteous"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "slightly_frazzled",
+                "nervously_thorough"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "word_searching",
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

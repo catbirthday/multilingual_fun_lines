@@ -1,0 +1,72 @@
+=== Source: df1a0b27_scenario.json ===
+Language: Japanese
+Gender: female
+Mode: en
+Content Type: general_tags
+Scenario: exhibit installer and ESG analyst
+
+=== Translated Dialogue ===
+
+raw [en]: 
+{
+    "conversation": [
+        {"role": "Character 1", "content": "[cold] Your name sounds familiar."},
+        {"role": "Character 2", "content": "I do a lot of, [professional], corporate sustainability assessments so you might have seen my reports somewhere in the industry."},
+        {"role": "Character 1", "content": "Oh, um, I know exactly where I've seen it—on the, [bitter], report that recommended shutting down my father's factory, well, for environmental violations. [laughs darkly]"},
+        {"role": "Character 2", "content": "[defensive] Look, I write, [careful], objective assessments based on data, not, [uncomfortable], personal situations, and every recommendation I make is, [measured], backed by regulatory requirements."},
+        {"role": "Character 1", "content": "[sharp] Three hundred jobs."},
+        {"role": "Character 2", "content": "The emissions data was, um, forty times over the legal limit, and uh, the groundwater contamination was spreading to, [clinical], residential areas, so I mean, what exactly was I supposed to, [frustrated], recommend?"},
+        {"role": "Character 1", "content": "[controlled] You could have recommended remediation instead of, [accusatory], immediate closure, given us time to fix the problems instead of, [voice cracking], destroying everything overnight."},
+        {"role": "Character 2", "content": "The company had already received, [firmly], seventeen warnings over three years and ignored every single one while the, [disgusted], contamination kept spreading."},
+        {"role": "Character 1", "content": "[resentful] My father spent his entire life building that, [trembling], business from nothing, creating jobs in a town that had, [hollow], nothing else, and you reduced it all to numbers on a spreadsheet."},
+        {"role": "Character 2", "content": "[detached] Well, um, those numbers represented, [matter-of-fact], actual toxins in actual people's drinking water, so, uh, I'm sorry about your father but I'd make the same recommendation again."},
+        {"role": "Character 1", "content": "[quiet rage] He died six months after the closure from a, [breaking], heart attack at fifty-eight, sitting in that empty factory with bankruptcy, [shaking], papers in his hand. [pauses]"},
+        {"role": "Character 2", "content": "That's genuinely, [softer], tragic and I'm sorry for your loss but I can't take responsibility for that."},
+        {"role": "Character 1", "content": "[cynical] Now here you are commissioning an exhibit about, [sarcastic], corporate responsibility while the town you helped destroy still has, [angry], twenty percent unemployment."},
+        {"role": "Character 2", "content": "[withdrawn] Look, um, maybe we should get someone else to install this exhibit because, well, [strained], this clearly isn't going to work professionally."},
+        {"role": "Character 1", "content": "[resigned] No, um, I need this job too much to let pride get in the way, [exhausted], apparently that's my inheritance now."},
+        {"role": "Character 2", "content": "[guilty] I know you won't believe this but, um, I do think about those, [struggling], families sometimes, wonder if there was, well, another way we could have, uh, handled it. [sighs quietly]"},
+        {"role": "Character 1", "content": "[distant] Wondering doesn't bring back dead fathers or, um, lost futures, but I guess it's, [hollow laugh], something that you at least, well, acknowledge those were real people, not just, [bitter], data points."},
+        {"role": "Character 2", "content": "[professional] So, um, should we go over the exhibit specifications or do you need, well, uh, a few minutes before we, [awkward], proceed? [clears throat]"},
+        {"role": "Character 1", "content": "[mechanical] Just show me where you want the, [flat], sustainability timeline mounted and we can both pretend this is just, [numb], another installation."},
+        {"role": "Character 2", "content": "The irony of this whole, [uncomfortable], situation isn't lost on me, having you install an exhibit about, [trailing off], ethical business practices."
+    ],
+    "scenario": "An exhibit installer discovers the ESG analyst they're working with on a museum's sustainability showcase is the person who wrote the report that shut down their family's manufacturing business years ago.",
+    "selected_tones": ["precise", "resisting", "disconnecting"],
+    "type": "scenario_conversation"
+}
+
+
+
+=== Original (English) ===
+
+raw: 
+{
+    "conversation": [
+        {"role": "Character 1", "content": "[cold] Your name sounds familiar."},
+        {"role": "Character 2", "content": "I do a lot of, [professional], corporate sustainability assessments so you might have seen my reports somewhere in the industry."},
+        {"role": "Character 1", "content": "Oh, um, I know exactly where I've seen it—on the, [bitter], report that recommended shutting down my father's factory, well, for environmental violations. [laughs darkly]"},
+        {"role": "Character 2", "content": "[defensive] Look, I write, [careful], objective assessments based on data, not, [uncomfortable], personal situations, and every recommendation I make is, [measured], backed by regulatory requirements."},
+        {"role": "Character 1", "content": "[sharp] Three hundred jobs."},
+        {"role": "Character 2", "content": "The emissions data was, um, forty times over the legal limit, and uh, the groundwater contamination was spreading to, [clinical], residential areas, so I mean, what exactly was I supposed to, [frustrated], recommend?"},
+        {"role": "Character 1", "content": "[controlled] You could have recommended remediation instead of, [accusatory], immediate closure, given us time to fix the problems instead of, [voice cracking], destroying everything overnight."},
+        {"role": "Character 2", "content": "The company had already received, [firmly], seventeen warnings over three years and ignored every single one while the, [disgusted], contamination kept spreading."},
+        {"role": "Character 1", "content": "[resentful] My father spent his entire life building that, [trembling], business from nothing, creating jobs in a town that had, [hollow], nothing else, and you reduced it all to numbers on a spreadsheet."},
+        {"role": "Character 2", "content": "[detached] Well, um, those numbers represented, [matter-of-fact], actual toxins in actual people's drinking water, so, uh, I'm sorry about your father but I'd make the same recommendation again."},
+        {"role": "Character 1", "content": "[quiet rage] He died six months after the closure from a, [breaking], heart attack at fifty-eight, sitting in that empty factory with bankruptcy, [shaking], papers in his hand. [pauses]"},
+        {"role": "Character 2", "content": "That's genuinely, [softer], tragic and I'm sorry for your loss but I can't take responsibility for that."},
+        {"role": "Character 1", "content": "[cynical] Now here you are commissioning an exhibit about, [sarcastic], corporate responsibility while the town you helped destroy still has, [angry], twenty percent unemployment."},
+        {"role": "Character 2", "content": "[withdrawn] Look, um, maybe we should get someone else to install this exhibit because, well, [strained], this clearly isn't going to work professionally."},
+        {"role": "Character 1", "content": "[resigned] No, um, I need this job too much to let pride get in the way, [exhausted], apparently that's my inheritance now."},
+        {"role": "Character 2", "content": "[guilty] I know you won't believe this but, um, I do think about those, [struggling], families sometimes, wonder if there was, well, another way we could have, uh, handled it. [sighs quietly]"},
+        {"role": "Character 1", "content": "[distant] Wondering doesn't bring back dead fathers or, um, lost futures, but I guess it's, [hollow laugh], something that you at least, well, acknowledge those were real people, not just, [bitter], data points."},
+        {"role": "Character 2", "content": "[professional] So, um, should we go over the exhibit specifications or do you need, well, uh, a few minutes before we, [awkward], proceed? [clears throat]"},
+        {"role": "Character 1", "content": "[mechanical] Just show me where you want the, [flat], sustainability timeline mounted and we can both pretend this is just, [numb], another installation."},
+        {"role": "Character 2", "content": "The irony of this whole, [uncomfortable], situation isn't lost on me, having you install an exhibit about, [trailing off], ethical business practices."
+    ],
+    "scenario": "An exhibit installer discovers the ESG analyst they're working with on a museum's sustainability showcase is the person who wrote the report that shut down their family's manufacturing business years ago.",
+    "selected_tones": ["precise", "resisting", "disconnecting"],
+    "type": "scenario_conversation"
+}
+
+

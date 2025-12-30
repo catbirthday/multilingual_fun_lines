@@ -1,0 +1,230 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "अरे भगवान, finally. उम. आखिरकार। मैं—मैं कोशिश कर रहा था जैसे। दो घंटे से। साइट बस बार-बार। उम. Crash हो रही है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हाँ जी, तो, उम, मैं पूरी तरह समझ सकता हूँ—हमें, उह, सुबह से बड़ी समस्याएं हो रही हैं, और honestly? आपसे और मुझमें बात है तो, I've been getting calls nonstop about this, तो, उम, आप बिल्कुल अकेले नहीं हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "मुझे लगा मैं। कुछ गलत कर रहा था? जैसे शायद मेरा—मेरा computer था..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "नहीं नहीं नहीं, बिल्कुल आपकी गलती नहीं—तो basically हमारा main server cluster, उह, सुबह 8 बजे के आसपास पूरी तरह crash हो गया, और हम तब से, हम्म, संघर्ष कर रहे हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "तो उम। मुझे बस। अपना bill pay करना है? यह आज due है। और मैं—मैं एक और late fee नहीं ले सकता।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ठीक है, तो, उम, मैं बस, उह, आपका account यहाँ directly खोलता हूँ, और हम बस, आप जानते हैं, पूरी website चीज़ को bypass कर देंगे—क्या मुझे आपका account number मिल सकता है या, उम, file में phone number?"
+        },
+        {
+            "role": "Customer",
+            "content": "यह उह। 555। रुकिए। 555-0147।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल सही, okay तो मैं यहाँ देख रहा हूँ... हम्म, मुझे बस... okay आपकी account ID है ACC-7739-BN21, और हाँ, I can definitely help you with that payment right now."
+        },
+        {
+            "role": "Customer",
+            "content": "सच में? अरे भगवान। धन्यवाद। Thank you thank you।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल! तो, उम, मैं actually, उह, वह late fee भी माफ कर दूंगा क्योंकि, जैसे, you literally couldn't pay because of our mess—दिख रहा है, हम्म, $127.43 due?"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ हाँ हाँ। वह। वह सही है। Sorry मैं बस इतना उम। राहत महसूस कर रहा हूँ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे नहीं, मेरा मतलब है, मैं पूरी तरह समझता हूँ—actually मेरे पास पहले एक customer था जो literally रो रहा था, क्योंकि उसे लगा कि उसकी service बंद हो जाएगी, तो, उह, you're handling this pretty well honestly."
+        },
+        {
+            "role": "Customer",
+            "content": "मैं। वहाँ पहुँच रहा था। रोने की बात कह रहा हूँ। तो उम। हम कैसे...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो, उम, मैं बस phone पर ही payment ले सकता हूँ, और उह, I'll email you confirmation number and everything—आप file में जो card है उसे use करना चाहते हैं जो, देखता हूँ... 4829 पर खत्म होता है?"
+        },
+        {
+            "role": "Customer",
+            "content": "उम actually नहीं। क्या मैं? दूसरा card?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हाँ बिल्कुल, जब भी आप तैयार हों बस number बताइए।"
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay। यह उम। 4532। नहीं रुकिए। 4523..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "4523, हम्म-हम्म, और फिर बाकी जब भी आप, उह, तैयार हों—कोई जल्दी नहीं, I know it's been a morning."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry sorry। मुझे। फिर से शुरू करने दो? मैं शायद—शायद बहुत परेशान कर रहा हूँ।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे भगवान नहीं, आप जैसे, seriously आज की सबसे अच्छी calls में से एक हैं—किसी ने literally मुझ पर दस मिनट तक website के बारे में चिल्लाया था, तो, उम, you're totally fine, बस अपना समय लीजिए उन numbers के साथ।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Oh thank god. Um. Finally. I've been—I've been trying for like. Two hours. The site just keeps. Um. Crashing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah, so, um, I totally get it—we've been having, uh, major issues all morning and honestly? Like between you and me, I've been getting calls nonstop about this, so, um, you're definitely not alone here."
+        },
+        {
+            "role": "Customer",
+            "content": "I thought I was. Doing something wrong? Like maybe my—my computer was..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, absolutely not your fault—so basically our main server cluster, uh, decided to just completely melt down around 8 AM, and we've been, hmm, scrambling ever since."
+        },
+        {
+            "role": "Customer",
+            "content": "So um. I just need. To pay my bill? It's it's due today. And I can't—I can't get another late fee."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, let me just, uh, pull up your account directly here and we'll just, you know, bypass the whole website thing—can I get your account number or, um, phone number on file?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's uh. 555. Wait. 555-0147."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, okay so I'm seeing here... hmm, let me just... okay your account ID is ACC-7739-BN21 and yeah, I can definitely help you with that payment right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? Oh god. Thank you. Thank you thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! So, um, I'm actually gonna, uh, waive that late fee too since, like, you literally couldn't pay because of our mess—showing as, hmm, $127.43 due?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes yes yes. That's. That's right. Sorry I'm just so um. Relieved?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no, I mean, I totally understand—I actually had a customer earlier literally crying because they thought their service would get shut off, so, uh, you're handling this pretty well honestly."
+        },
+        {
+            "role": "Customer",
+            "content": "I was. Getting there. The crying I mean. So um. How do we...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I can just take the payment right over the phone here, and uh, I'll email you confirmation number and everything—you want to use the card on file ending in, let me see... 4829?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um actually no. Can I? Different card?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah absolutely, whenever you're ready just go ahead with the number."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay. It's um. 4532. No wait. 4523..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "4523, mm-hmm, and then the rest whenever you're, uh, ready—no rush, I know it's been a morning."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry sorry. Let me. Start over? I'm probably—probably being so annoying."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh my god no, you're like, seriously one of the nicest calls today—someone literally screamed at me about the website for ten minutes earlier, so, um, you're totally fine, just take your time with those numbers."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "63e39b55_script.json",
+    "scenario": "relieved to finally reach someone after the website kept crashing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "desperate_pleading",
+                "self_deprecating_fumbling"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "breath_catches",
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "humanizing_personal",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "hedge_words",
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

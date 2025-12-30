@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "रुको। तो वे... क्या कहते हैं... विवाद कर रहे हैं? कुत्ते की ग्रूमिंग के बाद?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी हाँ, अम्म, तो असल में जो मुझे यहाँ दिख रहा है, अ, पिछले मंगलवार के transaction TXN-8847-QV2 पर विवाद है, और अम्म, वे कह रहे हैं कि सर्विसेज़, जैसे, बताए अनुसार पूरी नहीं हुई।"
+        },
+        {
+            "role": "Customer",
+            "content": "पूरी नहीं हुई? मैंने... ग्रूमिंग की थी। पूरे कुत्ते की। मंगलवार को ना?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो, अ, असल में गुरुवार को था, यहाँ timestamp देख रहा हूँ, लेकिन अम्म, विवाद में जो होता है ना, जैसे, ग्राहक 60 दिनों के अंदर फाइल कर सकता है और हमें, पता है ना, जाँच करनी पड़ती है।"
+        },
+        {
+            "role": "Customer",
+            "content": "गुरुवार। ठीक। माफ़ करना। लेकिन मैंने... क्या कहते हैं... पूरा किया था? सब कुछ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं समझ रहा हूँ। बस मैं। निकाल रहा हूँ। यहाँ case number CSE-3921-NK8 की details। तो वे कह रहे हैं कि, अम्म, ग्रूमिंग वो नहीं थी जो उन्होंने माँगी थी।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, लेकिन मैंने... अरे... स्टैंडर्ड कट किया था? या रुको। क्या वो... नहीं, स्पेशल ट्रिम?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ठीक तो, अम्म, transaction TXN-8847-QV2 के नोट्स के अनुसार, वो, अ, breed-specific कट होना था, और वे कह रहे हैं, अम्म, वो नहीं मिला।"
+        },
+        {
+            "role": "Customer",
+            "content": "Breed specific। वो। मैंने पक्का... रुको। क्या मैंने गलत लिखा था?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो देखिये, बात ये है, अम्म, और मैं असल में पहले पेट स्टोर में काम करता था तो, अ, मैं समझता हूँ कितना frustrating है ये, लेकिन basically हमें documentation चाहिए जो दिखाए कि कौन सी सर्विस तय हुई थी।"
+        },
+        {
+            "role": "Customer",
+            "content": "मैं शायद बस। बेवकूफ़ बन रहा हूँ। लेकिन वे ऐसे ही... पैसे वापस ले सकते हैं? बाद में?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "नहीं नहीं, आप बिल्कुल बेवकूफ़ नहीं हैं, अम्म, ये सच में अनुचित लगता है लेकिन, अ, payment processor के नियमों के तहत code PPC-7764 में, ग्राहकों के पास, जैसे, ये विवाद के अधिकार होते हैं सर्विसेज़ के बाद भी।"
+        },
+        {
+            "role": "Customer",
+            "content": "तो उन्हें ग्रूमिंग। फ्री में मिली? ये... मैं नहीं... ये कैसे होता है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "वैसे। बिल्कुल नहीं। तो अम्म, असल में जो होता है, अरे, आप case CSE-3921-NK8 के लिए सबूत जमा कर सकते हैं जैसे, अ, पहले और बाद की फोटोज़, अपॉइंटमेंट नोट्स, उस तरह की चीज़ें।"
+        },
+        {
+            "role": "Customer",
+            "content": "सबूत। ठीक। अम्म, मैंने शायद... अरे... डिलीट कर दिए? माफ़ करना। मैं बहुत बेकार हूँ... चीज़ें रखने में।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अच्छा तो, अम्म, सुनिए, आपसे सच कहूं तो? मैंने groomers को ये विवाद जीतते देखा है, जैसे, 70 प्रतिशत बार जब वे जमा करते हैं, अ, बस बेसिक documentation भी।"
+        },
+        {
+            "role": "Customer",
+            "content": "70? वो... रुको। आपने 60 कहा था? मैं पहले ही भूल गया।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "70, हाँ। तो अम्म, आपके case CSE-3921-NK8 के लिए, अगर आप बस, जैसे, लिख दें जो आपको अपॉइंटमेंट के बारे में याद है और, अ, शायद चेक करें कि customer के साथ कोई texts हैं?"
+        },
+        {
+            "role": "Customer",
+            "content": "Texts। ठीक। ठीक। मैंने शायद... कुछ गड़बड़ की होगी। आम तौर पर करता हूँ।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो, अम्म, सच में आप अपने आप पर बहुत ज़्यादा सख्त हो रहे हैं, जैसे, विवाद सबके साथ होते हैं और, अ, बस जो भी आपके पास है शुक्रवार तक reference RES-5502-AAQ से जमा कर दीजिये और हम आपके लिए ये लड़ेंगे।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Wait. So they're... what's it called... disputing? After I groomed the dog?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, um, so basically what I'm seeing here is, uh, there's a dispute on transaction TXN-8847-QV2 from last Tuesday, and um, they're claiming the services weren't, like, completed as described."
+        },
+        {
+            "role": "Customer",
+            "content": "Not completed? I did... I groomed. The whole dog. Tuesday right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, uh, actually it was Thursday, looking at the timestamp here, but um, basically what happens with disputes is, like, the customer can file within sixty days and we have to, you know, investigate."
+        },
+        {
+            "role": "Customer",
+            "content": "Thursday. Right. Sorry. But I... what's the word... finished? Everything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand. Let me just. Pull up. The specifics here on case number CSE-3921-NK8. So they're stating the, um, the grooming wasn't what they requested."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, but I did the... er... standard cut? Or wait. Was it... no, special trim?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right so, um, according to the notes in transaction TXN-8847-QV2, it was, uh, supposed to be a breed-specific cut, and they're saying, um, that's not what was delivered."
+        },
+        {
+            "role": "Customer",
+            "content": "Breed specific. That's. I definitely... wait. Did I write that down wrong?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So like, here's the thing, um, and I actually used to work at a pet store so, uh, I get how frustrating this is, but basically we need documentation showing what service was agreed on."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm prob'ly just. Being dumb. But they can't just... take money back? After?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're not being dumb at all, um, it does seem unfair but, uh, with payment processor rules under code PPC-7764, customers have, like, these dispute rights even after services."
+        },
+        {
+            "role": "Customer",
+            "content": "So they get grooming. Free? That's... I don't... how's that work?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well. Not exactly. So um, basically what happens is, er, you can submit evidence for case CSE-3921-NK8 showing, uh, before and after photos, appointment notes, that kind of thing."
+        },
+        {
+            "role": "Customer",
+            "content": "Evidence. Right. Um, I might've... er... deleted those? Sorry. I'm terrible with... keeping things."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, listen, between you and me? I've seen groomers win these disputes, like, seventy percent of the time when they submit, uh, even just basic documentation."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventy? That's... wait. Did you say sixty? I already forgot."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Seventy, yeah. So um, for your case CSE-3921-NK8, even if you just, like, write up what you remember about the appointment and, uh, maybe check if you have any texts with the customer?"
+        },
+        {
+            "role": "Customer",
+            "content": "Texts. Right. Right. I prob'ly... messed something up though. Usually do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, honestly you're being way too hard on yourself, like, disputes happen to everyone and, uh, just submit whatever you have by Friday using reference RES-5502-AAQ and we'll fight this for you."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6141299b_script.json",
+    "scenario": "dog groomer, upset that a customer disputed a charge for services already rendered",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "confused_lost",
+                "self_deprecating_fumbling"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "self_corrections",
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "carefully_diplomatic",
+                "humanizing_personal"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "अम्म, हेलो! तो, अ, एक छोटी सी बात—मैं athletic director हूँ, अरे, Division II actually, और अम्म, ये बड़ी अजीब बात है पर—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे, हेलो जी! मैं बस... क्या कहते हैं... आपका account verify कर लेती हूँ, और मुझे आपका case number निकालना होगा, जो होना चाहिए... हम्म... क्या आप order EQP-7734-NX के बारे में call कर रही हैं या ये facilities request के बारे में है?"
+        },
+        {
+            "role": "Customer",
+            "content": "Facilities! अम्म, हाँ, तो जैसे, तीसरी बार call कर रही हूँ? अरे, बड़ा मज़ेदार खेल चल रहा है यहाँ।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ठीक है, तो मैं आपकी facilities request FRQ-8829-TK41 यहाँ देख रही हूँ, और अम्म, मैं पूरी तरह से समझना चाहती हूँ कि क्या हो रहा है—आपने इसी issue के लिए पहले दो बार call किया है, ये सही है ना?"
+        },
+        {
+            "role": "Customer",
+            "content": "अ, हाँ जी! मुझे, अम्म, तीन departments में घुमाया पिछली बार। अरे, accounting, फिर ops, फिर—गायब!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे नहीं, ये तो... हम्म... मैं यहाँ FRQ-8829-TK41 पे notes check कर लेती हूँ, और मैं देख रही हूँ कि, हाँ, आपको November 3rd को कई बार transfer किया गया था, और लगता है call seventeen minutes के बाद drop हो गई थी?"
+        },
+        {
+            "role": "Customer",
+            "content": "Seventeen minutes तक, अम्म, hold music! मेरी assistant ने time किया था। अरे, हमने तो bets भी लगाई थीं!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ये actually—पता है क्या, मैं खुद इससे पहले university admin में काम करती थी, और ये चक्कर काटना... ये तो जैसे एक sport ही है, है ना? मैं ये पक्का करती हूँ कि आज ये properly handle हो tracking number TRK-99847-MM के साथ।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, रुको, आप uni admin में थीं? अरे, यार, तो आपको पता है! आप समझ गई होंगी!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं सच में समझती हूँ, और अम्म, आपके और मेरे बीच की बात, मैंने एक बार चालीस minute तक... क्या कहते हैं... volleyball nets के लिए requisition approval लेने की कोशिश की थी, तो मैं personally आपके case FRQ-8829-TK41 को monitor करूंगी ताकि ये दोबारा गायब ना हो जाए।"
+        },
+        {
+            "role": "Customer",
+            "content": "देखिए वो तो, अ—रुकिए, यही तो पिछली बार भी कहा था। अरे, एकदम यही। \"Personal monitoring.\""
+        },
+        {
+            "role": "Customer Support",
+            "content": "ठीक है, मैं समझ रही हूँ आप... हम्म... सतर्क हैं, और आपको होना भी चाहिए, पर यहाँ जो different है—मैं अभी बात करते-करते एक escalation ticket ESC-4421-QP बना रही हूँ, और मैं notes में अपना direct extension डाल रही हूँ, जो है 4487।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, आपका actual extension? बस वो, अरे, main queue वाली चीज़ नहीं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मेरा actual desk extension 4487, और मैं ये भी... मैं बस double-check कर लेती हूँ... हाँ, मैं system में reference CBK-7789-ST के under कल 2PM Eastern पे callback flag set कर रही हूँ, क्या ये time आपके लिए ठीक है?"
+        },
+        {
+            "role": "Customer",
+            "content": "अ, हाँ पर जैसे—उन्होंने callbacks के promise पहले भी किए थे। अरे, दो बार। कभी हुआ नहीं। तो अम्म..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं पूरी तरह skepticism समझती हूँ, और honestly, अगर मैं आपकी जगह होती, मैं भी... क्या कहते हैं... शक करती, पर मैं अभी ये तीन अलग systems में document कर रही हूँ—main ticket FRQ-8829-TK41, escalation ESC-4421-QP, और हमारा callback system CBK-7789-ST।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, ठीक है तो, अरे, crazy idea—क्या आप actually FIX कर सकती हैं? जैसे, अ, आज?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो, अम्म, मैं यहाँ actual issue देख रही हूँ, और ये है vendor authorization का hold purchase order PO-6673-YY28 पे, जिसके लिए... हम्म... देखती हूँ... finance approval चाहिए, पर finance ने वापस किया क्योंकि line item seven में coding error है।"
+        },
+        {
+            "role": "Customer",
+            "content": "Line item—अम्म, रुको, बस इतनी सी बात? अरे, एक coding की चीज़? हम तो, अ, तीन हफ्ते से इस पर हैं!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मुझे पता है, ये... ये ridiculous है honestly, और देखिए मैं क्या कर रही हूँ—मैं coding अभी ठीक कर रही हूँ जबकि हम phone पे हैं, system में 7744-B से 7744-C में change कर रही हूँ, और priority flag PRY-8892-KL के साथ सीधे finance को submit कर रही हूँ, तो ये twenty-four hours के अंदर resolve हो जाना चाहिए।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi! So, uh, quick thing—I'm the athletic director, er, Division II actually, and um, this is wild but—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, hello there! Let me just... what's the word... authenticate your account here, and I'll need to pull up your case number, which should be... hmm... are you calling about order EQP-7734-NX or is this about the facilities request?"
+        },
+        {
+            "role": "Customer",
+            "content": "Facilities! Um, yeah, so like, third time calling? Er, super fun game we're playing here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, so I'm seeing your facilities request FRQ-8829-TK41 here, and um, I want to make absolutely sure I understand what's been happening—you've called twice before about this same issue, is that correct?"
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, yup! Got bounced to, um, three departments last time. Er, accounting, then ops, then—poof!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, that's... hmm... let me check the notes here on FRQ-8829-TK41, and I can see that, yes, you were transferred multiple times on November 3rd, and it looks like the call dropped after seventeen minutes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Seventeen minutes of, um, hold music! My assistant timed it. Er, we made bets!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's actually—you know what, I used to work in university admin myself before this, and the runaround is... it's like a sport sometimes, isn't it? Let me make sure this gets handled properly today with tracking number TRK-99847-MM."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait, you did uni admin? Er, oh man, then you KNOW. You get it!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I really do, and um, between you and me, I once spent forty minutes trying to get... what's the word... requisition approval for volleyball nets, so I'm going to personally monitor your case FRQ-8829-TK41 to make sure it doesn't disappear into the void again."
+        },
+        {
+            "role": "Customer",
+            "content": "See that's, uh—wait, that's what they said last time though. Er, exactly that. \"Personal monitoring.\""
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, I hear you being... hmm... cautious, and you should be, but here's what's different—I'm creating an escalation ticket ESC-4421-QP right now while we're talking, and I'm putting my direct extension in the notes, which is 4487."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, your actual extension? Not just, er, the main queue thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "My actual desk extension 4487, and I'm also... let me just double-check this... yes, I'm setting a callback flag for tomorrow at 2PM Eastern in the system under reference CBK-7789-ST, does that time work for you?"
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, yeah but like—they promised callbacks before. Er, twice. Never happened. So um..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the skepticism, and honestly, if I were you, I'd be... what's the term... dubious too, but I'm documenting this in three different systems right now—the main ticket FRQ-8829-TK41, the escalation ESC-4421-QP, and our callback system CBK-7789-ST."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so, er, wild idea—can you actually FIX it though? Like, uh, today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I'm looking at the actual issue here, and it's a vendor authorization hold on purchase order PO-6673-YY28, which needs... hmm... let me see... it needs finance approval, but finance kicked it back because of a coding error in line item seven."
+        },
+        {
+            "role": "Customer",
+            "content": "Line item—um, wait, THAT'S it? Er, a coding thing? We've been, uh, three weeks on this!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, it's... it's ridiculous honestly, and here's what I'm doing—I'm fixing the coding right now while we're on the phone, changing it from 7744-B to 7744-C in the system, and submitting directly to finance with priority flag PRY-8892-KL, so this should be resolved within twenty-four hours."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "694bbbbf_script.json",
+    "scenario": "athletic director, administrative experience but still getting the complete runaround",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "friendly_chatty",
+                "skeptical_guarded"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "humanizing_personal"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

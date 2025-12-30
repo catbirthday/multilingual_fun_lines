@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Эм, здравствуйте. Надеюсь, у вас... ну, хороший день. Просто нужно спросить про уведомления?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "О, привет! Эм, да, конечно, у меня вообще отличный день, спасибо большое что спросили! Так вот, э, что я могу сделать, это, эм, открыть ваш аккаунт, если у вас есть номер аккаунта или, э, может быть номер телефона? Я типа супер рада помочь вам с любыми вопросами по уведомлениям!"
+        },
+        {
+            "role": "Customer",
+            "content": "Конечно. Знаю, это наверное просто—ой, простите, номер 555-0147."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Отлично, отлично! Так, эм, я сейчас просто, э, введу это сюда и—окей, так вот ваш ID аккаунта показывается как ACC-9847-QM22 и, эм, я полностью вижу все ваши настройки и всё такое, так что, э, что конкретно насчёт уведомлений вы хотели, ну знаете, изменить или поменять сегодня?"
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, ну, э, мне постоянно приходят эти изменения и, эм, никакого предупреждения, понимаете?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "О! Окей, окей, так вот, я полностью понимаю, эм, никто не любит сюрпризы со своим аккаунтом, правда? Так вот в общем что я вижу здесь, это, э, ваши настройки уведомлений типа везде разные—некоторые включены, некоторые выключены, эм, и похоже что может система по умолчанию установила, э, думаю только СМС? Но мы определённо можем, эм, это исправить!"
+        },
+        {
+            "role": "Customer",
+            "content": "В том-то и дело. Не помню, чтобы я что-то отключала."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Точно, точно, так вот, эм, это на самом деле, э, супер распространено! Типа в общем что происходит, это, эм, иногда когда мы делаем системные обновления—а ваше последнее обновление было, э, дайте-ка посмотрю, 14 октября с кодом REF-5521-XK—так вот такие обновления могут иногда, эм, типа сбрасывать настройки? Что, э, честно говоря довольно раздражает, я знаю!"
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, так типа, как мне, э, убедиться что меня предупредят перед, эм, чем угодно?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да! Так вот, эм, что я могу сделать прямо сейчас, это, э, в общем настроить то, что мы называем, эм, \"предварительные уведомления\" в вашем профиле—это код ANP-7764-B кстати—и типа, вам будут приходить имейлы, смс, эм, даже пуш-уведомления если хотите? По крайней мере, э, за 48 часов до любых изменений!"
+        },
+        {
+            "role": "Customer",
+            "content": "Сорок восемь часов. Это два дня—нет, стоп, правильно. Два дня предупреждения."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Именно, именно! Так вот, эм, я сейчас, э, просто отмечу все эти галочки здесь и, хмм, окей, так вот есть имейл, СМС на номер 555-0147, и, эм, вы хотите пуш-уведомления тоже? В смысле, э, некоторых людей они раздражают, но типа, они довольно мгновенные, знаете?"
+        },
+        {
+            "role": "Customer",
+            "content": "Конечно. Не ваша вина что система странная. Все подойдут."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ой, эм, вы такая милая! Окей, так вот, я устанавливаю все три и, э, ваш новый ID уведомлений, эм, NOT-4429-TT98, и в общем теперь вы будете получать, э, предупреждения обо всём—изменения в счетах, обновления сервиса, эм, техобслуживание, типа буквально обо всём минимум за два дня!"
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, стоп, э, вы сказали счетах? Или, э, щитах? Простите, не расслышала."
+        },
+        {
+            "role": "Customer Support",
+            "content": "О! Эм, счетах, типа с буквы С! Так вот в общем, э, каждый раз когда сумма вашего платежа изменится или, эм, если будет типа новая плата или комиссия или что угодно, вы узнаете! И, э, вообще-то я должна упомянуть—так вот к сожалению я не могу, эм, сделать больше чем 48 часов уведомление? Типа я правда хотела бы, но, э, система позволяет мне только два дня максимум."
+        },
+        {
+            "role": "Customer",
+            "content": "Это нормально. Правда. Вы очень помогаете."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так вот, эм, просто чтобы всё подтвердить—и типа, я отправлю вам имейл со всем этим тоже, номер подтверждения CNF-8892-LP—но, э, в общем вы полностью настроены на предварительные уведомления через имейл, смс, и, эм, пуш-уведомления, все начиная с, э, буквально прямо сейчас! Есть, эм, что-нибудь ещё про уведомления что вам нужно?"
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, думаю это—нет, стоп, э, а что насчёт, эм, вопросов безопасности тоже?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "О да! Так вот, эм, оповещения безопасности на самом деле, э, отдельные—они мгновенные потому что, ну типа, знаете, безопасность—но я также могу добавить, эм, что мы называем уведомления \"дайджест безопасности\"? Так типа, вы бы получали еженедельную сводку с кодом, э, SEC-3347-WD, показывающую любые попытки входа или, эм, смены пароля или в общем любую активность безопасности, и это приходит каждый понедельник утром!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi there. Hope you're having a good day. Just need to ask about notifications?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh hi! Um, yes absolutely, so like I'm definitely having a great day thank you so much for asking! So basically, uh, what I can do is, um, pull up your account here if you've got your account number or, uh, maybe your phone number? I'm like super happy to help you with any notification stuff!"
+        },
+        {
+            "role": "Customer",
+            "content": "Sure. Know this is probably simple—wait, sorry, the number's 555-0147."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect! So um, I'm just gonna, uh, type that in here and—okay so like your account ID is showing as ACC-9847-QM22 and, um, I can totally see all your preferences and everything so, uh, what specifically about notifications did you wanna, you know, adjust or change today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, well, uh, I keep getting these changes and, um, no warning, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay okay so like, I totally get that, um, nobody likes surprises with their account right? So basically what I'm seeing here is, uh, your notification settings are kinda all over the place—like some are on, some are off, um, and it looks like maybe the system defaulted to, uh, I think SMS only? But we can definitely, um, fix that!"
+        },
+        {
+            "role": "Customer",
+            "content": "That's the thing. Don't remember turning anything off."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so um, that's actually, uh, super common! Like basically what happens is, um, sometimes when we do system updates—and your last update was, uh, let me see here, October 14th with reference code REF-5521-XK—so like those updates can sometimes, um, kinda reset things? Which is, uh, honestly pretty frustrating, I know!"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, how do I, uh, make sure I get told before, um, anything happens?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! So, um, what I can do right now is, uh, basically set up what we call, um, \"advance notifications\" on your profile—that's code ANP-7764-B by the way—and like, you'll get emails, texts, um, even push notifications if you want? At least, uh, 48 hours before any changes!"
+        },
+        {
+            "role": "Customer",
+            "content": "Forty-eight hours. That's two days—no wait, that's right. Two days notice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly exactly! So um, I'm gonna, uh, just tick all these boxes here and, hmm, okay so like there's email, SMS to that 555-0147 number, and, um, do you want push notifications too? I mean, uh, some people find them annoying but like, they're pretty instant, you know?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sure. Not your fault the system's weird. All of them's fine."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw, um, you're so nice! Okay so like, I'm setting all three and, uh, your new notification ID is, um, NOT-4429-TT98, and basically now you'll get, uh, warnings for everything—billing changes, service updates, um, maintenance, like literally everything at least two days ahead!"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait, uh, did you say billing? Or, uh, building? Sorry, couldn't hear."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, billing, like with a B! So basically, uh, any time your payment amount changes or, um, if there's like a new charge or fee or whatever, you'll know! And, uh, actually I should mention—so unfortunately I can't, um, make it more than 48 hours notice? Like I really wish I could but, uh, the system only lets me do two days max."
+        },
+        {
+            "role": "Customer",
+            "content": "That's okay. Really. You're being helpful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So um, just to confirm everything—and like, I'm gonna send you an email with all this too, confirmation number CNF-8892-LP—but, uh, basically you're all set for advance notifications via email, text, and, um, push notifications, all going forward from, uh, literally right now! Is there, um, anything else about the notifications you need?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, think that's—no wait, uh, what about, um, security stuff too?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yes! So, um, security alerts are actually, uh, separate—those are instant because, like, you know, security—but I can also add, um, what we call \"security digest\" notifications? So like, you'd get a weekly summary with code, uh, SEC-3347-WD, showing any login attempts or, um, password changes or basically any security activity, and that comes every Monday morning!"
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "94edf71c_script.json",
+    "scenario": "wanting advance notice before any changes to their account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "empathetic_to_rep",
+                "confused_lost"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "self_corrections",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "regretfully_limited"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "hedge_words",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

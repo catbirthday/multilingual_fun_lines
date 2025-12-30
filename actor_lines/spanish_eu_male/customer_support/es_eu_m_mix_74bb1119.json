@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Eh, hola, perdona que te moleste pero, eh, la app se cierra—no espera, quiero decir que se cuelga cada vez que intento abrirla y necesito de verdad..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale. Déjame mirarlo. ¿Cuál es tu número de cuenta?"
+        },
+        {
+            "role": "Customer",
+            "content": "Es, eh, déjame encontrarlo... perdona, me tiemblan un poco las manos, es 4-4-7—no espera, eso está mal—447-921-6"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Lo tengo. Entonces veo la cuenta 447-921-6, y eh, estoy revisando los registros de acceso de tu app... There's been 17 crash reports in the last, eh, probablemente 3 horas. Eso definitivamente no es normal."
+        },
+        {
+            "role": "Customer",
+            "content": "¿17? Dios mío, sí, seguí intentando porque, eh, mi madre está en el hospital y necesito transferir dinero para sus medicinas y yo..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Siento oír eso. Déjame, eh, ver qué puedo hacer aquí. Tu ID de dispositivo es DEV-8829-QX y muestra iOS 16.4, which should be compatible."
+        },
+        {
+            "role": "Customer",
+            "content": "Sé que probablemente estás lidiando con, eh, tantas llamadas como esta, y no es tu culpa que el sistema esté..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, está bien. De verdad. Entonces eh, creo que he encontrado algo—hay un problema conocido con cuentas que tienen, eh, caracteres especiales en el campo de usuario. Your username shows as \"Sarah&Mom\" with that ampersand."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah, eh, sí, configuré eso cuando estábamos—cuando la estaba ayudando a gestionar su... ¿eso es lo que lo está causando?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Probablemente, sí. I can push through a patch but, eh, tardará unos 20 minutos en sincronizarse."
+        },
+        {
+            "role": "Customer",
+            "content": "20 minutos está bien, yo solo, eh, realmente aprecio que no me hagas sentir estúpido por esto porque he estado llorando y..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No eres estúpido en absoluto. The system shouldn't crash like that. Estoy iniciando el parche ahora, número de referencia PTH-7764-MM, y eh, honestamente esto pasa más de lo que debería."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, ¿puedo seguir usando el sitio web mientras está—perdona, mientras estás arreglando la app? ¿O eso fastidiaría las cosas..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "El sitio web está perfectamente bien. Sistema diferente. Tus credenciales de acceso son las mismas, solo, eh, usa el código temporal que te estoy enviando ahora—it's TMP-445892. Debería llegar en unos, mmm, 30 segundos más o menos."
+        },
+        {
+            "role": "Customer",
+            "content": "Estás siendo tan, eh, tan paciente conmigo, sé que probablemente soy tu llamada número cien hoy y yo..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Quizá la ciento uno. Pero eh, mira, lo entiendo. When you need the app to work, you need it to work. Especialmente con, ya sabes, cosas médicas pasando."
+        },
+        {
+            "role": "Customer",
+            "content": "El sitio web está cargando ahora y, ay gracias a Dios, puedo ver el saldo... perdona, me estoy poniendo emocional, es que ha sido un día tan largo..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tómate tu tiempo. I'm monitoring the patch deployment here, está al, eh, 60 por ciento. El código de estado muestra STS-904-ACTIVE, así que va bien."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, espero que tu turno termine pronto, suenas cansado tú también—¡no en el mal sentido! Solo quiero decir, eh, ya sabes..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sé lo que quieres decir. Dos horas más, pero eh, oye—tu parche acaba de completarse. Try the app now, should work. Y eh, mis mejores deseos para tu madre, de verdad."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm so sorry to bother you but, uh, the app keeps—no wait, I mean it crashes every time I try to open it and I really need..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay. Let me pull that up. What's your account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, let me find it... sorry, my hands are shaking a bit, it's 4-4-7—no wait, that's wrong—447-921-6"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. So I'm seeing account 447-921-6, and um, checking your app access logs here... There's been seventeen crash reports in the last, uh, probably three hours. That's definitely not normal."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventeen? Oh god, yeah, I kept trying because, um, my mom's in the hospital and I need to transfer money for her prescriptions and I just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm sorry to hear that. Let me, um, see what I can do here. Your device ID is DEV-8829-QX and it's showing iOS 16.4, which should be compatible."
+        },
+        {
+            "role": "Customer",
+            "content": "I know you're probably dealing with, uh, so many calls like this, and it's not your fault the system is..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, it's fine. Really. So um, I think I found something—there's a known issue with accounts that have, uh, special characters in the username field. Your username shows as \"Sarah&Mom\" with that ampersand."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh, um, yeah I set that up when we—when I was helping her manage her... is that what's causing it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Probably, yeah. I can push through a patch but, um, it'll take about twenty minutes to sync."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty minutes is fine, I just, uh, I really appreciate you not making me feel stupid about this because I've been crying and..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're not stupid at all. The system shouldn't crash like that. I'm initiating the patch now, reference number PTH-7764-MM, and um, honestly this happens more than it should."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, can I still use the website while it's—sorry, while you're fixing the app? Or will that mess things..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Website's totally fine. Different system. Your login credentials are the same, just, uh, use the temporary code I'm sending now—it's TMP-445892. Should come through in about, hmm, thirty seconds or so."
+        },
+        {
+            "role": "Customer",
+            "content": "You're being so, um, so patient with me, I know I'm probably your hundredth call today and I just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Maybe hundred and first. But um, look, I get it. When you need the app to work, you need it to work. Especially with, you know, medical stuff happening."
+        },
+        {
+            "role": "Customer",
+            "content": "The website's loading now and, oh thank god, I can see the balance... sorry, I'm getting emotional, it's just been such a long day..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Take your time. I'm monitoring the patch deployment here, it's at, uh, sixty percent. Status code showing STS-904-ACTIVE, so it's moving along fine."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I hope your shift ends soon, you sound tired too—not in a bad way! I just mean, uh, you know..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know what you mean. Two more hours, but um, hey—your patch just completed. Try the app now, should work. And um, best wishes with your mom, really."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "74bb1119_script.json",
+    "scenario": "complaining that the mobile app keeps crashing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "vulnerable_trusting",
+                "empathetic_to_rep"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "self_corrections",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

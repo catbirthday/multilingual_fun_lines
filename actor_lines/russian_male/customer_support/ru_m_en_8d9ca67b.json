@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling about my—no, sorry, your billing department has charged me—wait, let me start over. EPA certification renewal. Twice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, so, um, let me just, like, pull up your account here. So basically what I need is, uh, either your certification number or, hmm, the email you registered with."
+        },
+        {
+            "role": "Customer",
+            "content": "It's under—sorry, the email is jmitchell dot hvac—no wait, that's the old one. Um, j mitchell seven seven at gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. So, um, I'm seeing account ACC-4782-JM here and, like, yeah there's definitely, uh, two charges for the EPA renewal on June third. Both for, hmm, one twenty-nine ninety-five."
+        },
+        {
+            "role": "Customer",
+            "content": "Precisely. I need one reversed. Immediately, if that's—I mean, today. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, so basically I've, um, seen this happen before. Like, the system sometimes, uh, double-processes when there's, you know, a timeout. Let me just, hmm, initiate that refund right now under reference REF-2024-67823."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? Right now? Not the usual—sorry, I mean, no supervisor approval needed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nah. So, um, anything under two hundred, I can just, like, handle it directly. The refund's, uh, already processing and you'll see it in, hmm, three to five business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that's actually—wait, you're already processing it? That's, uh, incredibly helpful. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, while I've got you here, I'm, like, also gonna add a note to your file FIL-889-CERT about this so, uh, if it happens again—which it shouldn't—but like, we'll have the history."
+        },
+        {
+            "role": "Customer",
+            "content": "I genuinely—no, sorry, I really appreciate that. Most places make you jump through—I mean, um, this is refreshingly simple."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah well, so, HVAC techs deal with enough, uh, nonsense already, right? Like, between the heat and the, um, difficult customers. Don't need billing problems too."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, exactly. It's ninety-eight degrees here and I've been—sorry, yeah, uh, you get it. This really helps."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically your confirmation for the refund is, um, CNF-78234-RF and, like, you'll get an email about it in, uh, maybe an hour? Also, hmm, I'm seeing your certification expires in two months."
+        },
+        {
+            "role": "Customer",
+            "content": "Two months? I just—wait no, that's the, um, refrigerant handling one. Different cert."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So, um, that one's cert number CRT-9982-RH and, like, just so you know, there's a, uh, bundle discount if you renew both at once. Saves you, hmm, forty bucks."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that's actually really—I mean, nobody's ever mentioned that before. Can you, uh, email me those details?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already typing it up. So basically I'm, um, sending it to your Gmail with the, like, bundle pricing under quote QTE-2024-88JM and, uh, it'll include the direct renewal links."
+        },
+        {
+            "role": "Customer",
+            "content": "You've been incredibly—no, specifically, um, getting the refund done immediately and, uh, mentioning the bundle? That's saved my whole day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey so, um, like I said, been doing this a while. Know what matters, you know? Your refund tracking is TRK-67823-JM if you need it, and, uh, stay cool out there. Literally."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling about my—no, sorry, your billing department has charged me—wait, let me start over. EPA certification renewal. Twice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, so, um, let me just, like, pull up your account here. So basically what I need is, uh, either your certification number or, hmm, the email you registered with."
+        },
+        {
+            "role": "Customer",
+            "content": "It's under—sorry, the email is jmitchell dot hvac—no wait, that's the old one. Um, j mitchell seven seven at gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. So, um, I'm seeing account ACC-4782-JM here and, like, yeah there's definitely, uh, two charges for the EPA renewal on June third. Both for, hmm, one twenty-nine ninety-five."
+        },
+        {
+            "role": "Customer",
+            "content": "Precisely. I need one reversed. Immediately, if that's—I mean, today. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, so basically I've, um, seen this happen before. Like, the system sometimes, uh, double-processes when there's, you know, a timeout. Let me just, hmm, initiate that refund right now under reference REF-2024-67823."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? Right now? Not the usual—sorry, I mean, no supervisor approval needed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nah. So, um, anything under two hundred, I can just, like, handle it directly. The refund's, uh, already processing and you'll see it in, hmm, three to five business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that's actually—wait, you're already processing it? That's, uh, incredibly helpful. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, while I've got you here, I'm, like, also gonna add a note to your file FIL-889-CERT about this so, uh, if it happens again—which it shouldn't—but like, we'll have the history."
+        },
+        {
+            "role": "Customer",
+            "content": "I genuinely—no, sorry, I really appreciate that. Most places make you jump through—I mean, um, this is refreshingly simple."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah well, so, HVAC techs deal with enough, uh, nonsense already, right? Like, between the heat and the, um, difficult customers. Don't need billing problems too."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, exactly. It's ninety-eight degrees here and I've been—sorry, yeah, uh, you get it. This really helps."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically your confirmation for the refund is, um, CNF-78234-RF and, like, you'll get an email about it in, uh, maybe an hour? Also, hmm, I'm seeing your certification expires in two months."
+        },
+        {
+            "role": "Customer",
+            "content": "Two months? I just—wait no, that's the, um, refrigerant handling one. Different cert."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So, um, that one's cert number CRT-9982-RH and, like, just so you know, there's a, uh, bundle discount if you renew both at once. Saves you, hmm, forty bucks."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that's actually really—I mean, nobody's ever mentioned that before. Can you, uh, email me those details?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already typing it up. So basically I'm, um, sending it to your Gmail with the, like, bundle pricing under quote QTE-2024-88JM and, uh, it'll include the direct renewal links."
+        },
+        {
+            "role": "Customer",
+            "content": "You've been incredibly—no, specifically, um, getting the refund done immediately and, uh, mentioning the bundle? That's saved my whole day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey so, um, like I said, been doing this a while. Know what matters, you know? Your refund tracking is TRK-67823-JM if you need it, and, uh, stay cool out there. Literally."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "8d9ca67b_script.json",
+    "scenario": "HVAC technician, hot and irritable about a certification renewal fee charged twice",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "seething_controlled",
+                "genuinely_grateful"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "cheerfully_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

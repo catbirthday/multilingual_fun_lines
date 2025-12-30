@@ -1,0 +1,215 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[stern] Então os registos da rede mostram que alguém tem andado, [confused], a aceder ao meu cluster de servidores às três da manhã todas as noites no último mês."
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] Ok, olha, antes de, [nervous], chamares a polícia ou assim, eu posso, [hesitantly], explicar tudo e talvez possamos, [quickly], chegar a um acordo aqui."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] Bem, hum, tu és a famosa produtora do 4B que, tipo, [surprised], simplesmente invadiu a minha rede doméstica para, quer dizer, [angry], roubar poder computacional para quê exatamente? [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Renderização de áudio, na verdade."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] Espera, então hum, estás-me a dizer que andaste a usar o meu, [excited], setup de doze núcleos com aceleração GPU para, tipo, [impressed], processar faixas de áudio porque o equipamento do teu estúdio não aguentava?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[embarrassed] Hum, a tua configuração é, [warm], sinceramente a mais bonita que já vi, assim, sabes? [sigh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[playful] Bonita é uma escolha interessante de palavras para, [amused], descrever arquitetura de servidores vinda de alguém que acabou de cometer múltiplos crimes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[flirtatious] A forma como otimizaste esses containers com, [passionate], balanceamento de carga perfeito e aquele script de orquestração personalizado é, [very quietly], basicamente poesia em movimento, se formos honestas."
+        },
+        {
+            "role": "Character 1",
+            "content": "[smiling speaking] Acabaste mesmo de elogiar a minha, [delighted], configuração de Kubernetes enquanto confessas um cibercrime?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] Ouve, hum, e se em vez de, [animated], denunciares isto tudo, pudéssemos, tipo, [enthusiastically], colaborar em algo que deixaria as nossas duas indústrias de boca aberta, sabes? [laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[thoughtful] Então, hum, estás a propor que, [intrigued], combinemos a tua experiência em áudio com a minha infraestrutura para, bem, [slowly], criar algo que nenhuma de nós conseguiria construir sozinha? [long pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[sincere] Eu podia ensinar-te sobre, [passionately], modulação de frequência e síntese enquanto tu me mostras, [eagerly], protocolos de autenticação adequados em vez do meu embaraçoso password cracking."
+        },
+        {
+            "role": "Character 1",
+            "content": "[cheerful] Sabes o que tem piada é como conseguiste, [laughing], contornar a minha segurança mas não conseguiste descobrir como, [mocking], alocar memória adequadamente para os teus render jobs."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Esses plugins de áudio são, [frustrated], notoriamente vorazes de memória e a tua documentação era, [bitter], basicamente inexistente por isso tive de, [trailing off], adivinhar as configurações ideais..."
+        },
+        {
+            "role": "Character 1",
+            "content": "[extremely happy] Pronto, combinado então."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Hum, a sério? [gasp]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[excited] Mas, hum, vamos, [determined], documentar tudo como deve ser desta vez e, eh, [empathetically], talvez tomar um café primeiro para discutir a arquitetura, sabes?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[shy] Bem, hum, café soa, eh..."
+        },
+        {
+            "role": "Character 1",
+            "content": "Amanhã às oito então, e traz, [joking], o teu portátil para podermos rever aqueles scripts bash terríveis que andaste a, [chuckle], correr no meu sistema."
+        },
+        {
+            "role": "Character 2",
+            "content": "Sabes, devia provavelmente estar, [happy], mais ofendida com isso mas honestamente, hum, [very sincerely], ver-te a trabalhar valeria a humilhação, quer dizer. [deep pitch]"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "[stern] So the network logs show someone's been, [confused], accessing my server cluster at three AM every night for the past month."
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] Okay look, before you, [nervous], call the cops or whatever, I can, [hesitantly], explain everything and maybe we can, [quickly], work something out here."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] Well, um, you're the famous producer from 4B who, like, [surprised], just casually hacked into my home network to, I mean, [angry], steal computing power for what exactly? [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Audio rendering actually."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] Wait, so um, you're telling me you've been using my, [excited], twelve-core setup with GPU acceleration to, like, [impressed], process audio tracks because your studio equipment couldn't handle it?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[embarrassed] Um, your setup is, [warm], honestly the most beautiful configuration I've ever seen, like, you know? [sigh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[playful] Beautiful is an interesting word choice for, [amused], describing server architecture from someone who just committed multiple felonies."
+        },
+        {
+            "role": "Character 2",
+            "content": "[flirtatious] The way you've optimized those containers with, [passionate], perfect load balancing and that custom orchestration script is, [very quietly], basically poetry in motion if we're being honest."
+        },
+        {
+            "role": "Character 1",
+            "content": "[smiling speaking] Did you seriously just compliment my, [delighted], Kubernetes configuration while confessing to cybercrime?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] Listen, um, what if instead of, [animated], reporting this whole thing, we could, like, [enthusiastically], collaborate on something that would blow both our industries away, you know? [laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[thoughtful] So, um, you're proposing we, [intrigued], combine your audio expertise with my infrastructure to, well, [slowly], create something neither of us could build alone? [long pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[sincere] I could teach you about, [passionately], frequency modulation and synthesis while you show me, [eagerly], proper authentication protocols instead of my embarrassing password cracking."
+        },
+        {
+            "role": "Character 1",
+            "content": "[cheerful] You know what's funny is how you managed to, [laughing], bypass my security but couldn't figure out how to, [mocking], properly allocate memory for your render jobs."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Those audio plugins are, [frustrated], notoriously memory-hungry and your documentation was, [bitter], basically non-existent so I had to, [trailing off], guess at the optimal configurations..."
+        },
+        {
+            "role": "Character 1",
+            "content": "[extremely happy] Deal then."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Um, really? [gasp]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[excited] But, um, we're going to, [determined], document everything properly this time and, er, [empathetically], maybe grab coffee first to discuss the architecture, you know?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[shy] Well, um, coffee sounds, er..."
+        },
+        {
+            "role": "Character 1",
+            "content": "Tomorrow at eight then, and bring, [joking], your laptop so we can review those terrible bash scripts you've been, [chuckle], running on my system."
+        },
+        {
+            "role": "Character 2",
+            "content": "You know, I should probably be, [happy], more offended by that but honestly, um, [very sincerely], watching you work would be worth the humiliation, I mean. [deep pitch]"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "simple_tags",
+    "source_file": "87ae9840_scenario.json",
+    "scenario": "A DevOps engineer discovers their apartment neighbor, a famous music producer, has been secretly using their powerful home server cluster to render complex audio projects without permission.",
+    "type": "scenario_conversation",
+    "character_1_role": "DevOps engineer",
+    "character_2_role": "music producer",
+    "selected_tones": [
+        "bonding",
+        "flirtatious",
+        "planning"
+    ],
+    "tone_options": [
+        "dropping",
+        "constant",
+        "offering",
+        "lost",
+        "bonding",
+        "flirtatious",
+        "involved",
+        "exceptional",
+        "instructing",
+        "planning"
+    ]
+}

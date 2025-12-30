@@ -1,0 +1,222 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I just... I can't. I can't do this anymore. Yesterday's call was—no wait—it was so bad."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm so sorry to hear that. Um, I think—let me pull up your account. What's your—actually, can I get your phone number first?"
+        },
+        {
+            "role": "Customer",
+            "content": "Five five five. Pause. Eight two seven. Pause. Nine one one four."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, thank you. So I see account ACC-9982-TK here and... oh. Oh dear. I'm really, really sorry. There's notes about yesterday."
+        },
+        {
+            "role": "Customer",
+            "content": "Notes? What kind of—I don't even—just tell me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well it says here the call dropped? Three times? And reference REF-2024-8847 shows... nobody called you back? That's not—I mean, that shouldn't happen."
+        },
+        {
+            "role": "Customer",
+            "content": "Three times. Three. And then nothing. I just sat there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm so, so sorry about that. Really. Let me—I think I can probably help fix whatever the original issue was? What were you calling about?"
+        },
+        {
+            "role": "Customer",
+            "content": "My bill. Double charged. For months apparently. I can't—no actually—I'm just exhausted."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Double charged for months? That's... that's weird actually. Let me look at billing code BIL-4429-XX. Hmm. Oh. Oh this is interesting."
+        },
+        {
+            "role": "Customer",
+            "content": "Interesting? Is that—what does that—never mind."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, it's good! Well, sort of. I mean—I can see the problem now. Transaction TRX-7765-MN keeps duplicating. System glitch maybe?"
+        },
+        {
+            "role": "Customer",
+            "content": "So you can fix it? Actually fix it? Not just... disconnect?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Yes. I'm applying credit code CRD-9901-LP right now. Should cover... wow. Four months of overcharges. I'm really sorry."
+        },
+        {
+            "role": "Customer",
+            "content": "Four months. I knew it. Okay. Okay that's... something at least."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Credit's processing. Should hit your account in twenty-four hours. Reference number is REF-2024-8849. And I'm adding priority flag PRI-GOLD so you skip the queue next time."
+        },
+        {
+            "role": "Customer",
+            "content": "Next time. Right. Because there's always a next time with you guys."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know. I get it. Really. But that priority code? It routes straight to senior reps. No more drops. I promise."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... actually helpful. Thank you. Really. I'm just hoping this sticks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It will. Confirmation CON-5547-RZ is in your email now. And hey—I'm genuinely sorry about yesterday. That wasn't okay."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I just... I can't. I can't do this anymore. Yesterday's call was—no wait—it was so bad."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm so sorry to hear that. Um, I think—let me pull up your account. What's your—actually, can I get your phone number first?"
+        },
+        {
+            "role": "Customer",
+            "content": "Five five five. Pause. Eight two seven. Pause. Nine one one four."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, thank you. So I see account ACC-9982-TK here and... oh. Oh dear. I'm really, really sorry. There's notes about yesterday."
+        },
+        {
+            "role": "Customer",
+            "content": "Notes? What kind of—I don't even—just tell me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well it says here the call dropped? Three times? And reference REF-2024-8847 shows... nobody called you back? That's not—I mean, that shouldn't happen."
+        },
+        {
+            "role": "Customer",
+            "content": "Three times. Three. And then nothing. I just sat there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm so, so sorry about that. Really. Let me—I think I can probably help fix whatever the original issue was? What were you calling about?"
+        },
+        {
+            "role": "Customer",
+            "content": "My bill. Double charged. For months apparently. I can't—no actually—I'm just exhausted."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Double charged for months? That's... that's weird actually. Let me look at billing code BIL-4429-XX. Hmm. Oh. Oh this is interesting."
+        },
+        {
+            "role": "Customer",
+            "content": "Interesting? Is that—what does that—never mind."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, it's good! Well, sort of. I mean—I can see the problem now. Transaction TRX-7765-MN keeps duplicating. System glitch maybe?"
+        },
+        {
+            "role": "Customer",
+            "content": "So you can fix it? Actually fix it? Not just... disconnect?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Yes. I'm applying credit code CRD-9901-LP right now. Should cover... wow. Four months of overcharges. I'm really sorry."
+        },
+        {
+            "role": "Customer",
+            "content": "Four months. I knew it. Okay. Okay that's... something at least."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Credit's processing. Should hit your account in twenty-four hours. Reference number is REF-2024-8849. And I'm adding priority flag PRI-GOLD so you skip the queue next time."
+        },
+        {
+            "role": "Customer",
+            "content": "Next time. Right. Because there's always a next time with you guys."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know. I get it. Really. But that priority code? It routes straight to senior reps. No more drops. I promise."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... actually helpful. Thank you. Really. I'm just hoping this sticks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It will. Confirmation CON-5547-RZ is in your email now. And hey—I'm genuinely sorry about yesterday. That wasn't okay."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6c0504e1_script.json",
+    "scenario": "complaining about poor customer service on a previous call",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "overwhelmed_shutdown",
+                "relieved_but_wary"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": "false_starts",
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "awkwardly_apologetic",
+                "troubleshooting_curious"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": "hedge_words",
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

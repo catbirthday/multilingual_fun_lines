@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Eh, estoy tan—espera, déjame que—perdona que son las 3 de la madrugada. Trabajo de noche. Casino. Pero eh, hay un cargo este..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡No te preocupes para nada por la hora! Déjame ver aquí... Desde luego puedo ayudarte con ese cargo en disputa, solo necesito abrir tu cuenta rapidito con el código de confirmación ACC-7294-BN."
+        },
+        {
+            "role": "Customer",
+            "content": "Llevo—no espera—diez años. Clienta. ¡Diez años! Nunca me retraso."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Vaya, diez años, qué fidelidad tan increíble! Mmm, así que veo tu cuenta aquí, socia desde 2014, historial de pago perfecto en el archivo MEM-10847-QZ, ahora cuéntame sobre este cargo que estás viendo."
+        },
+        {
+            "role": "Customer",
+            "content": "Es, eh, déjame pensar... cuarenta y siete cincuenta. ¡Dos veces! ¡El mismo día!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale, entonces, eh, cargos duplicados, eso definitivamente es algo que puedo, eh, investigar aquí... sacando tu historial de transacciones TXN-994521-R y, mmm, veo dos cargos idénticos de cuarenta y siete cincuenta el día diecinueve."
+        },
+        {
+            "role": "Customer",
+            "content": "¡Sí! ¿Ves? Solo—espera, compré una cosa. ¡Una!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Ah! ¡Ya veo lo que ha pasado aquí! Eh, esto es realmente, eh, un caso muy interesante porque el sistema muestra, mmm, déjame ver... el código de comerciante MER-3847-YP tuvo un fallo de procesamiento ese día que afectó a múltiples clientes!"
+        },
+        {
+            "role": "Customer",
+            "content": "Así que no es—o sea, eh, ¿otra gente también? ¿No solo yo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Exactamente! Tienes toda la razón en llamar por esto, y eh, como lo has pillado tan rápido, puedo procesar una reversión inmediata con el número de referencia REV-88492-KL, ¡debería llegar a tu cuenta en veinticuatro horas!"
+        },
+        {
+            "role": "Customer",
+            "content": "Espera, ¿en serio? ¿Tan—eh, tan rápido? ¿Puedes simplemente... arreglarlo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Por supuesto! Y, eh, ¿sabes qué? Como llevas con nosotros diez años y, eh, esto fue claramente un error de nuestro socio comerciante, también voy a añadir un crédito de cortesía de veinte euros a tu cuenta bajo el ajuste ADJ-6629-MP!"
+        },
+        {
+            "role": "Customer",
+            "content": "¿Veinte—qué? No, yo solo, eh, ¡quería mis cuarenta y siete de vuelta!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bueno, eh, mira, la cosa es que... clientas leales como tú que realmente se toman el tiempo de, eh, llamarnos sobre problemas legítimos... Os merecéis ese reconocimiento extra, ¡especialmente trabajando esas horas del casino y aún así sacando tiempo para solucionar esto!"
+        },
+        {
+            "role": "Customer",
+            "content": "Mmm, eso es tan—espera, déjame ver aquí... eres muy maja. Vaya."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¿Sabes qué más? Eh, voy a hacer una nota en tu expediente NOTE-7738-QD de que eres socia preferente así que, eh, la próxima vez que llames, te derivarán directamente a atención senior, ¡te saltas toda la cola!"
+        },
+        {
+            "role": "Customer",
+            "content": "No—eh, o sea—¡esperaba pelear! ¡No esto!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¿Pelear? Ay no no no, eh, mira, es que... cuando alguien como tú llama con un caso tan claro y, eh, ¿diez años de historial perfecto bajo la verificación de cuenta VER-2958-TN? Esta es la parte divertida de mi trabajo, ¡simplemente arreglar las cosas!"
+        },
+        {
+            "role": "Customer",
+            "content": "¿Así que ya está? ¿Hecho? ¿Ambos cargos—eh, revertidos y el bonus?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Todo hecho! Tu confirmación de reversión es REV-88492-KL como te mencioné, eh, el crédito de cortesía se aplica inmediatamente, y, eh, ¿sinceramente? Gracias por ser tan paciente llamando a esta hora, ¡sé que probablemente no es fácil después de un turno repartiendo cartas!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, I'm so—wait, let me just—sorry it's 3am. I work nights. Casino. But um, there's this charge?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all about the time! Let me see here... I can definitely help you with that disputed charge, just need to pull up your account real quick with confirmation code ACC-7294-BN."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been—no wait—ten years. Customer. Ten years! Never late."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow, ten years, that's fantastic loyalty! Hmm, so I'm seeing your account here, member since 2014, perfect payment history on file MEM-10847-QZ, now tell me about this charge you're seeing?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, let me think... forty-seven fifty. Twice! Same day!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, duplicate charges, that's definitely something I can, uh, investigate here... pulling up your transaction history TXN-994521-R and, hmm, I'm seeing two identical charges for forty-seven fifty on the nineteenth?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! See? I only—wait, I bought one thing. One!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! I see what happened here! Um, this is actually, uh, a really interesting case because the system shows, hmm, let me see... merchant code MER-3847-YP had a processing glitch that day affecting multiple customers!"
+        },
+        {
+            "role": "Customer",
+            "content": "So it's not—I mean, um, other people too? Not just me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! You're absolutely right to call this in, and um, since you caught this so quickly, I can actually process an immediate reversal with reference number REV-88492-KL, should hit your account within twenty-four hours!"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? That's—um, that fast? You can just... fix it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely! And, um, you know what? Since you've been with us ten years and, uh, this was clearly our merchant partner's error, I'm also adding a courtesy credit of twenty dollars to your account under adjustment ADJ-6629-MP!"
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty—what? No, I just, um, wanted my forty-seven back!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, here's the thing... loyal customers like you who actually take the time to, uh, call us about legitimate issues? You deserve that extra recognition, especially working those casino hours and still making time to sort this out!"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, that's so—wait, let me see here... you're really nice. Wow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what else? Um, I'm gonna make a note in your file NOTE-7738-QD that you're a preferred member so, uh, next time you call, you'll get routed straight to senior support, skip the whole queue!"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't—um, I mean—I expected fighting! Not this!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Fighting? Oh no no no, um, see that's the thing... when someone like you calls with such a clear case and, uh, ten years of perfect history under account verification VER-2958-TN? This is the fun part of my job, just fixing things!"
+        },
+        {
+            "role": "Customer",
+            "content": "So that's it? Done? Both charges—er, reversed and bonus?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "All done! Your reversal confirmation is REV-88492-KL like I mentioned, um, the courtesy credit posts immediately, and, uh, honestly? Thanks for being so patient about calling at this hour, I know that's probably not easy after a shift dealing cards!"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "81ee607a_script.json",
+    "scenario": "casino dealer, apologetic for calling at 3am but needing to dispute a charge on her account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "indignant_righteous",
+                "surprised_delighted"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts",
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "triumphant_problem_solver",
+                "genuinely_warm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

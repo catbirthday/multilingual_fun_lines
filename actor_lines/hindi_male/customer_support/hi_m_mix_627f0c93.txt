@@ -1,0 +1,92 @@
+=== Source: 627f0c93_script.json ===
+Language: Hindi
+Gender: male
+Mode: mix
+Content Type: customer_support
+Scenario: freelance writer, frustrated that the website won't let her update payment information
+
+=== Translated Dialogue ===
+
+Customer [mix]: उम, हाय, मैं—मैं payment page के साथ परेशानी में हूँ, उह। Update नहीं हो रहा है।
+
+Customer Support [mix]: ओह, मुझे बहुत खेद है—उम, मैं बस—actually, wait, let me pull up your account first. क्या आप अपना, उह, अपना email address बता सकते हैं जो account से जुड़ा है?
+
+Customer [mix]: यह है, यह है sarah.chen at, उम, writersdesk dot com।
+
+Customer Support [mix]: ठीक है तो, उम, मैं आपका account देख रहा हूँ—SRH-2847-CN—और, उह, हम्म, मैं check करता हूँ कि payment section में क्या हो रहा है। I'm really sorry you're dealing with this.
+
+Customer [mix]: हाँ, मुझे—मुझे बस card बदलना है। नया मिला है।
+
+Customer Support [mix]: सही, सही, मैं पूरी तरह समझता हूँ, और उम—oh, I think I see—actually no, wait, let me—तो आपके account पर एक verification hold है, VRF-88234-P, जो, उह, शायद इसीलिए यह आपको payment method update नहीं करने दे रहा।
+
+Customer [mix]: उम, ठीक ठीक, तो... हम इसे कैसे ठीक करें?
+
+Customer Support [mix]: तो मैं—मुझे इसके लिए वास्तव में खेद है, लेकिन उम, basically we need to, uh, verify your identity first? मैं जानता हूँ कि यह, जैसे, थोड़ा परेशानी वाला है और मुझे बहुत खेद है, लेकिन, उम, क्या आप file पर मौजूद card के last चार digits confirm कर सकते हैं?
+
+Customer [mix]: उह, 9 9... 4 7।
+
+Customer Support [mix]: परफेक्ट, ठीक है तो वह match करता है—उम, मैं बस—हम्म, मैं आपके लिए, उह, manually इस hold को override करूँगा। The system is being, sort of, overly cautious I think. बस, उम, मुझे एक सेकंड दीजिये जब तक मैं override code OVR-5521-MX process करता हूँ।
+
+Customer [mix]: यह—यह वास्तव में helpful है। धन्यवाद।
+
+Customer Support [mix]: बिल्कुल! मेरा मतलब, उम, मुझे बुरा लग रहा है कि आपको इसके बारे में call भी करना पड़ा। It should just, you know, work. ठीक है तो, उह, मैंने hold clear कर दिया है और—actually let me double-check—हाँ, आप अब अपना payment update कर पाएंगे।
+
+Customer [mix]: उम, मैं—मैं अभी try करता हूँ। जब तक आप वहाँ हैं।
+
+Customer Support [mix]: बिल्कुल, अपना time लीजिये। मैं, उह, मैं तब तक रुकूँगा जब आप वह करते हैं।
+
+Customer [mix]: ओह! यह यह काम कर रहा है। Finally।
+
+Customer Support [mix]: ओह अच्छा! मैं बहुत—उम, that's such a relief. और, उह, मैं अपनी तरफ से देख सकता हूँ कि आपका नया card जो, हम्म, 2891 पर समाप्त होता है, successfully account SRH-2847-CN में add हो गया है।
+
+Customer [mix]: आप, उम, इस बारे में वास्तव में वास्तव में अच्छे रहे हैं। Seriously।
+
+Customer Support [mix]: आपका यह कहना बहुत दयालु है—मेरा मतलब, उम, मुझे बस खेद है कि आपको इससे बिल्कुल deal करना पड़ा। क्या कोई, उह, और कुछ है जिसमें मैं आपकी मदद कर सकता हूँ जब तक आपका account खुला है?
+
+Customer [mix]: नहीं नहीं, यह—यह सब कुछ है। Really appreciate it।
+
+Customer Support [mix]: Well, उम, इस पूरी चीज़ के साथ आपके धैर्य के लिए बहुत धन्यवाद, और, उह, बस आपको बता दूं, मैंने आपके account में एक note add किया है—note ID NTE-7739-K—so if you have any other issues, जो भी आपकी मदद करेगा वे, उम, वे देखेंगे कि आज क्या हुआ था। लेकिन उम्मीद है कि सब कुछ, you know, यहाँ से smooth होना चाहिए।
+
+
+=== Original (English) ===
+
+Customer: Um, hi, I'm—I'm having trouble with the, uh, the payment page. Won't let me update.
+
+Customer Support: Oh, I'm so sorry to hear that—um, let me just—actually, wait, let me pull up your account first. Can I get your, uh, your email address associated with the account?
+
+Customer: It's it's sarah.chen at, um, writersdesk dot com.
+
+Customer Support: Okay so, um, I see your account here—SRH-2847-CN—and, uh, hmm, let me check what's happening with the payment section. I'm really sorry you're dealing with this.
+
+Customer: Yeah, I just—I just need to change cards. Got a new one.
+
+Customer Support: Right, right, I totally understand, and um—oh, I think I see—actually no, wait, let me—so there's a verification hold on your account, VRF-88234-P, which is, uh, probably why it's not letting you update the payment method.
+
+Customer: Um, okay okay, so... how do we fix that?
+
+Customer Support: So I'm—I'm really sorry about this, but um, basically we need to, uh, verify your identity first? I know it's, like, kind of a hassle and I'm so sorry, but, um, can you confirm the last four digits of the card currently on file?
+
+Customer: Uh, nine nine... four seven.
+
+Customer Support: Perfect, okay so that matches—um, let me just—hmm, I'm going to, uh, manually override this hold for you. The system is being, sort of, overly cautious I think. Just, um, give me one second here while I process override code OVR-5521-MX.
+
+Customer: That's—that's really helpful. Thank you.
+
+Customer Support: Of course! I mean, um, I feel terrible that you even had to call about this. It should just, you know, work. Okay so, uh, I've cleared the hold and—actually let me double-check—yes, you should be able to update your payment now.
+
+Customer: Um, let me—let me try right now. While you're there.
+
+Customer Support: Absolutely, take your time. I'll, uh, I'll stay on while you do that.
+
+Customer: Oh! It's it's working. Finally.
+
+Customer Support: Oh good! I'm so—um, that's such a relief. And, uh, I can see on my end that your new card ending in, hmm, 2891 has been successfully added to account SRH-2847-CN.
+
+Customer: You've been, um, really really great about this. Seriously.
+
+Customer Support: That's so kind of you to say—I mean, um, I'm just sorry you had to deal with this at all. Is there, uh, anything else I can help you with while I have your account up?
+
+Customer: No no, that's—that's everything. Really appreciate it.
+
+Customer Support: Well, um, thank you so much for your patience with this whole thing, and, uh, just so you know, I've added a note to your account—note ID NTE-7739-K—so if you have any other issues, whoever helps you will, um, they'll see what happened today. But hopefully everything should be, you know, smooth from here on out.
+

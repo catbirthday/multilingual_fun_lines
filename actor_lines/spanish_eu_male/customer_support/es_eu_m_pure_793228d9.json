@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Eh, sí, verás, estoy, eh, llamando por mi pedido... acabo de salir del turno y, em, todavía no me ha llegado nada..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale, entonces, eh, déjame que—espera, a ver si, eh, lo busco aquí. ¿Me puedes dar el, em, número de pedido o el correo que usaste?"
+        },
+        {
+            "role": "Customer",
+            "content": "No lo tengo. Usé el correo de la estación. Mira, ¿podemos simplemente...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tranquilo, tranquilo, puedo buscar por—déjame que, eh, ¿cuál es el correo? Y em, ¿esto era para, tipo, equipo de protección personal o...?"
+        },
+        {
+            "role": "Customer",
+            "content": "Estación 12 arroba bomberos punto gov. Botas. Pedí unas botas hace 2 semanas."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfecto, estación 12, déjame que... vale, entonces, eh, veo aquí el pedido BOT-4429-XL, hecho el, eh, el 14, y aparece—anda, qué raro..."
+        },
+        {
+            "role": "Customer",
+            "content": "Qué. Qué es lo raro. Solo necesito saber cuándo llegan."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entonces, eh, mira la cosa—y esto pasa muchísimo—tu pedido BOT-4429-XL se ha, eh, marcado para verificación de dirección porque, em, al sistema no le gustan las direcciones gubernamentales a veces, ¿sabes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Estás... em, ¿en serio? Es que, eh, no puedo... ¿cuándo se envían entonces...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, claro, ya lo sé, es ridículo. Mira, voy a—déjame anular esto ahora mismo, código de referencia OVR-88126-B procesándose, y ¿sinceramente? ¿Entre tú y yo? Nuestro sistema de direcciones es una mierda con los edificios municipales."
+        },
+        {
+            "role": "Customer",
+            "content": "Entonces se envían... ¿hoy? ¿Mañana? Es que, em, las necesito antes del próximo turno..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sí, lo proceso para hoy mismo, el número de seguimiento TRK-990541887-A te llegará al correo en una hora más o menos, y como estáis relativamente cerca, ¿no? Entrega mañana, garantizado."
+        },
+        {
+            "role": "Customer",
+            "content": "Em, vale pero, eh, la última vez dijeron garantizado y... qué más da, solo, em, espero que funcione..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No, no, te entiendo—de hecho, ¿sabes qué? Le voy a poner etiqueta de prioridad PRI-5571 a esto. Vosotros literalmente entráis en edificios ardiendo, tío, lo mínimo es que os lleguen las botas a tiempo."
+        },
+        {
+            "role": "Customer",
+            "content": "Ya, bueno, em, eso estaría... bien para variar... eh, ¿necesitas algo más o...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Qué va, ya está todo. Confirmación CON-448219-G enviada a estación 12 arroba bomberos punto gov, y oye—gracias por lo que hacéis. En serio."
+        },
+        {
+            "role": "Customer",
+            "content": "Em, sí, eh, gracias... supongo que, em, esperaré a ver si de verdad..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Llegarán. He puesto mi código de empleado EMP-7734—significa que si no llegan mañana, me cae la bronca a mí personalmente. Así que confía en mí, estarán ahí."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale. Bien. Gracias."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Descansa un poco."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, yeah so I'm, uh, calling 'bout my order... just got off shift and, um, still haven't got it..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, let me just—actually wait, let me, uh, pull that up here. Can I get your, um, order number or the email you used?"
+        },
+        {
+            "role": "Customer",
+            "content": "Don't have it. Used my station email. Look, can we just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries, no worries, I can search by—let me just, uh, what's the email? And um, was this for, like, personal protective equipment or...?"
+        },
+        {
+            "role": "Customer",
+            "content": "Station twelve at cityfire dot gov. Boots. Ordered boots two weeks back."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, station twelve, lemme just... okay so, um, I'm seeing order BOT-4429-XL here, placed on the, uh, the fourteenth, and it's showing—hmm, that's weird..."
+        },
+        {
+            "role": "Customer",
+            "content": "What. What's weird. Just need to know when they're coming."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, here's the thing—and like, this happens way too often—your order BOT-4429-XL got, uh, flagged for address verification 'cause, um, the system doesn't like government addresses sometimes, you know?"
+        },
+        {
+            "role": "Customer",
+            "content": "Are you... um, seriously? I just, uh, I can't... when will they ship then..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I know, it's ridiculous. Look, I'm gonna—let me just override this right now, reference code OVR-88126-B going through, and honestly? Between you and me? Our address system is garbage with municipal buildings."
+        },
+        {
+            "role": "Customer",
+            "content": "So they'll ship... today? Tomorrow? I just, um, need 'em before next shift..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, pushing it through for today, tracking number TRK-990541887-A will hit your email in about an hour, and since you're local-ish? Tomorrow delivery, guaranteed."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay but, uh, last time they said guaranteed and... whatever, just, um, hope it works..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I get it—actually, you know what? I'm putting priority flag PRI-5571 on this. You guys literally run into burning buildings, least we can do is get your boots there on time."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah well, um, that'd be... nice for once... uh, anything else you need or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nope, you're all set. Confirmation CON-448219-G sent to station twelve at cityfire dot gov, and hey—thank you for what you do. Seriously."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, uh, thanks... guess I'll just, um, wait and see if they actually..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "They will. Put my employee code EMP-7734 on it—means if they don't show tomorrow, I personally get dinged. So trust me, they'll be there."
+        },
+        {
+            "role": "Customer",
+            "content": "Alright. Fine. Thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Get some rest."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "793228d9_script.json",
+    "scenario": "firefighter, exhausted after a 24-hour shift and just wanting a quick resolution",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "exhausted_worn",
+                "resigned_going_through_motions"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts",
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

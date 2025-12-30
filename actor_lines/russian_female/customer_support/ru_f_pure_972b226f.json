@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Мне нужно—мне нужно обновить свою, эм, платёжную карту. Срочно."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Поняла, эм, конечно помогу с этим. Так, мне просто, э-э, нужно сначала верифицировать ваш аккаунт, а потом мы... Сейчас открою аккаунт ACC-7829-VK."
+        },
+        {
+            "role": "Customer",
+            "content": "Это это срочно. Следующее списание—списание завтра."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так-так, я вижу, что дата списания у вас, э-э, пятнадцатое, то есть завтра, и эм, мы точно сможем обновить, но мне просто нужно... Можете подтвердить последние четыре цифры текущей карты, заканчивающейся на 8842?"
+        },
+        {
+            "role": "Customer",
+            "content": "Восемь восемь четыре два. Да. Это—это правильно."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Отлично, эм, вот в чём дело—и я хочу сразу предупредить—любые изменения, сделанные сегодня, э-э, они обработаются, но могут не... Системе требуется до двадцати четырёх часов для полного обновления, референс-номер REF-90512-TL."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, стоп стоп стоп. Двадцать четыре часа? Это—это неприемлемо."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Я понимаю, что со временем проблема, и эм, странно, вообще-то, потому что я вижу, что у вас тип аккаунта, э-э, премиум, который должен иметь... Дайте-ка я проверю кое-что в биллинг-коде BLL-4429-X."
+        },
+        {
+            "role": "Customer",
+            "content": "Мне просто—мне просто нужно, чтобы это сделали. Сегодня. Пожалуйста."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так, хмм, интересно—у вашего аккаунта есть, эм, флаг ускоренного обновления, который я сначала не заметила, транзакционная возможность TXN-885214, что означает, что мы можем... Это должно обработаться в течение двух часов, вообще-то."
+        },
+        {
+            "role": "Customer",
+            "content": "Подождите, правда? Два—два часа? Эм, это... ладно ладно."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да, так что эм, давайте я возьму у вас данные новой карты, и мы, э-э, сразу запустим это через ускоренный канал и..."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, это это 4521, э-э, 8890, 2234, 1156."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Записала, и эм, срок действия и, э-э, трёхзначный код на обороте, когда будете готовы..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ой! Эм, двенадцать двадцать семь. Код, э-э, 445."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Отлично-отлично, так, я ввожу это сейчас под запросом на обновление UPD-7763-MK и, хмм, система... Да, она принимает, должно быть активно к, эм, так, к трём часам по вашему времени."
+        },
+        {
+            "role": "Customer",
+            "content": "Это—подождите, это вообще-то, эм, идеально! Правда?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Абсолютно, и эм, вы получите подтверждение на почту, э-э, на адрес в системе с номером подтверждения CNF-992510-B через, хмм, минут пять или около того, а потом ещё одно, когда всё полностью обработается..."
+        },
+        {
+            "role": "Customer",
+            "content": "Я не—я не ожидала, что это, эм, реально получится. Спасибо спасибо!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да не за что! Ваш аккаунт ACC-7829-VK, эм, полностью готов к завтрашнему списанию и, э-э, если вам что-то ещё понадобится или если подтверждение не придёт, просто сошлитесь на тикет TKT-445891 и мы..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need—I need to update my, um, my payment card. Now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, um, absolutely can help with that. So I'm just gonna, uh, need to verify your account first and then we can... Let me pull up account ACC-7829-VK here."
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's urgent. Next billing is—is tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so um, I see your billing date here is, uh, the fifteenth which is tomorrow, and um, we can definitely get that updated but I just need to... Can you verify the last four of the current card ending in 8842?"
+        },
+        {
+            "role": "Customer",
+            "content": "Eight eight four two. Yes. That's—that's correct."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, um, so here's the thing—and I want to be clear about this—any changes made today will, uh, they'll process but might not... The system takes up to twenty-four hours to fully update, reference number REF-90512-TL."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait wait wait. Twenty-four hours? That's—that's not acceptable."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the timing concern, and um, that's weird actually because I'm seeing your account type is, uh, premium which should have... Let me check something here in billing code BLL-4429-X."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—I just need this done. Today. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, hmm, interesting—your account actually has, um, an expedited update flag that I didn't see at first, transaction capability TXN-885214, which means we can... This should process within two hours actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? Two—two hours? Um, that's... okay okay."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so um, let me get those new card details from you and we'll, uh, push this through the expedited channel right away and..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it's it's 4521, uh, 8890, 2234, 1156."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got those, and um, expiration date and, uh, the three-digit code on the back when you're ready..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Um, twelve twenty-seven. Code is, uh, 445."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, so I'm entering this now under update request UPD-7763-MK and, hmm, the system is... Yeah it's accepting it, should be active by, um, let's see, three PM your time."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—wait that's actually, um, that's perfect! Really?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, and um, you'll get a confirmation email to, uh, the address on file with confirmation number CNF-992510-B in about, hmm, five minutes or so and then another when it's fully processed..."
+        },
+        {
+            "role": "Customer",
+            "content": "I didn't—I didn't expect this to, um, actually work out. Thank you thank you!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem at all! Your account ACC-7829-VK is, um, all set for tomorrow's billing and, uh, if you need anything else or if that confirmation doesn't come through, just reference ticket TKT-445891 and we can..."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "972b226f_script.json",
+    "scenario": "wanting to update payment information before next billing cycle",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "seething_controlled",
+                "surprised_delighted"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "professionally_firm",
+                "troubleshooting_curious"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

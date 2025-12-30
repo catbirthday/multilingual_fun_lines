@@ -1,0 +1,194 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Tu as fini de tracer les plans architecturaux pour le projet Henderson ?"
+        },
+        {
+            "role": "Character 2",
+            "content": "J'étais, euh, en train de bosser dessus mais [very sad] franchement, les fichiers AutoCAD se sont corrompus et, tu sais, j'ai perdu environ trois heures de boulot."
+        },
+        {
+            "role": "Character 1",
+            "content": "Oh non, tu n'avais pas de backups ?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Ben, d'habitude je sauvegarde sur Dropbox toutes les heures mais, euh, aujourd'hui j'étais distraite et, en gros, j'ai oublié d'activer la sauvegarde automatique. La tablette Wacom me faisait des misères aussi, donc je veux dire, tout est parti en vrille d'un coup."
+        },
+        {
+            "role": "Character 1",
+            "content": "On devrait peut-être, euh, repasser à l'ancienne tablette Huion ? Elle était, genre, plus fiable même si, en fait, la sensibilité à la pression était pas aussi bonne."
+        },
+        {
+            "role": "Character 2",
+            "content": "Le truc c'est que la Huion marche pas bien avec, hmm, le nouveau moteur de traçage d'Adobe Illustrator, et, ben, c'est exactement ce que le client a demandé qu'on utilise pour la vectorisation."
+        },
+        {
+            "role": "Character 1",
+            "content": "Alors, attends, on peut pas juste, euh, utiliser Inkscape à la place ? C'est gratuit et, j'imagine, plutôt correct pour, tu sais, le traçage de base."
+        },
+        {
+            "role": "Character 2",
+            "content": "Inkscape c'est bien pour les amateurs mais [condescending] les professionnels utilisent des logiciels standards de l'industrie comme Illustrator ou CorelDRAW pour une bonne raison. Les outils de précision et les capacités de traitement par lots sont dans des ligues complètement différentes."
+        },
+        {
+            "role": "Character 1",
+            "content": "Pas la peine d'être cassante."
+        },
+        {
+            "role": "Character 2",
+            "content": "Tu as raison, je suis désolée. C'est juste que je suis frustrée parce que Vector Magic aurait pu faire la conversion initiale en quelques minutes, mais l'abonnement a expiré la semaine dernière et personne l'a renouvelé."
+        },
+        {
+            "role": "Character 1",
+            "content": "On peut pas juste utiliser l'essai gratuit avec un autre email ?"
+        },
+        {
+            "role": "Character 2",
+            "content": "C'est contraire à leurs conditions d'utilisation, et puis de toute façon, on a besoin de la fonction de traitement par lots qui vient seulement avec la version complète. En plus les plans Henderson ont des tracés vraiment complexes qui nécessitent des ajustements manuels de toute façon."
+        },
+        {
+            "role": "Character 1",
+            "content": "Et si on utilisait cette table lumineuse dans la réserve pour le faire à l'ancienne ?"
+        },
+        {
+            "role": "Character 2",
+            "content": "En fait, cette vieille table lumineuse Artograph est, euh, cassée et [sad] ça me rappelle, ben, quand Papa m'apprenait le dessin technique avant que tout devienne numérique, tu vois ?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Je savais pas que ton père était dans le dessin technique."
+        },
+        {
+            "role": "Character 2",
+            "content": "Il a été architecte pendant trente ans avant de prendre sa retraite. Il traçait des plans à la main avec ces stylos techniques Staedtler et tout, bien avant que les logiciels de CAO prennent le contrôle de l'industrie."
+        },
+        {
+            "role": "Character 1",
+            "content": "Ça explique pourquoi tu es tellement perfectionniste avec les épaisseurs de trait."
+        },
+        {
+            "role": "Character 2",
+            "content": "Je veux dire, il disait toujours que, euh, le bon dessin technique c'était, en gros, respecter le métier que tu utilises, hmm, des outils traditionnels ou numériques."
+        },
+        {
+            "role": "Character 1",
+            "content": "Bon, on devrait peut-être juste, euh, dire à Henderson pour le retard ? Je suis sûre qu'ils vont, genre, comprendre si on explique ce qui, euh, s'est passé avec les fichiers."
+        },
+        {
+            "role": "Character 2",
+            "content": "Ouais, tu as sûrement raison. Henderson est client depuis cinq ans maintenant, et ils savent qu'on fait du travail de qualité même quand des problèmes techniques nous ralentissent de temps en temps."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "Did you finish tracing those architectural drawings for the Henderson project?"
+        },
+        {
+            "role": "Character 2",
+            "content": "I was, um, working on them but [very sad] honestly, the AutoCAD files got corrupted and, you know, I lost about three hours of work."
+        },
+        {
+            "role": "Character 1",
+            "content": "Oh no, didn't you have backups?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, I usually save to Dropbox every hour but, er, today I got distracted and, basically, forgot to enable auto-save. The Wacom tablet was giving me issues too, so I mean, everything just went wrong at once."
+        },
+        {
+            "role": "Character 1",
+            "content": "Maybe we should, uh, switch back to the old Huion tablet? It was, like, more reliable even though, actually, the pressure sensitivity wasn't as good."
+        },
+        {
+            "role": "Character 2",
+            "content": "The thing is, the Huion doesn't work properly with, hmm, Adobe Illustrator's new tracing engine, and, well, that's what the client specifically requested we use for vectorization."
+        },
+        {
+            "role": "Character 1",
+            "content": "So, wait, can't we just, um, use Inkscape instead? It's free and, I guess, pretty decent for, you know, basic tracing work."
+        },
+        {
+            "role": "Character 2",
+            "content": "Inkscape is fine for hobbyists but [condescending] professionals use industry-standard software like Illustrator or CorelDRAW for a reason. The precision tools and batch processing capabilities are completely different leagues."
+        },
+        {
+            "role": "Character 1",
+            "content": "You don't have to be snippy about it."
+        },
+        {
+            "role": "Character 2",
+            "content": "You're right, I'm sorry. I'm just frustrated because Vector Magic could have done the initial conversion in minutes, but the subscription expired last week and nobody renewed it."
+        },
+        {
+            "role": "Character 1",
+            "content": "Can't we just use the free trial again with a different email?"
+        },
+        {
+            "role": "Character 2",
+            "content": "That's against their terms of service, and besides, we need the batch processing feature which only comes with the full version. Plus the Henderson drawings have really complex linework that needs manual adjustment anyway."
+        },
+        {
+            "role": "Character 1",
+            "content": "What about using that light table in the storage room and doing it old school?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Actually, that old Artograph light box is, err, broken and [sad] it reminds me of, well, when Dad taught me technical drawing before everything went digital, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "I didn't know your dad was into drafting."
+        },
+        {
+            "role": "Character 2",
+            "content": "He was an architect for thirty years before retiring. Used to trace blueprints by hand with those Staedtler technical pens and everything, way before CAD software took over the industry."
+        },
+        {
+            "role": "Character 1",
+            "content": "That explains why you're such a perfectionist with line weights."
+        },
+        {
+            "role": "Character 2",
+            "content": "I mean, he always said that, uh, good draftsmanship was about, basically, respecting the craft whether you're using, hmm, traditional tools or digital ones."
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, maybe we should just, er, tell Henderson about the delay? I'm sure they'll, like, understand if we explain what, um, happened with the files."
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, you're probably right. Henderson's been a client for five years now, and they know we do quality work even when technical issues slow us down occasionally."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue1_38.txt"
+}

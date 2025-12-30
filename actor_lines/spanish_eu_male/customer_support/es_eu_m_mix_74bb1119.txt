@@ -1,0 +1,92 @@
+=== Source: 74bb1119_script.json ===
+Language: European Spanish
+Gender: male
+Mode: mix
+Content Type: customer_support
+Scenario: complaining that the mobile app keeps crashing
+
+=== Translated Dialogue ===
+
+Customer [mix]: Eh, hola, perdona que te moleste pero, eh, la app se cierra—no espera, quiero decir que se cuelga cada vez que intento abrirla y necesito de verdad...
+
+Customer Support [mix]: Vale. Déjame mirarlo. ¿Cuál es tu número de cuenta?
+
+Customer [mix]: Es, eh, déjame encontrarlo... perdona, me tiemblan un poco las manos, es 4-4-7—no espera, eso está mal—447-921-6
+
+Customer Support [mix]: Lo tengo. Entonces veo la cuenta 447-921-6, y eh, estoy revisando los registros de acceso de tu app... There's been 17 crash reports in the last, eh, probablemente 3 horas. Eso definitivamente no es normal.
+
+Customer [mix]: ¿17? Dios mío, sí, seguí intentando porque, eh, mi madre está en el hospital y necesito transferir dinero para sus medicinas y yo...
+
+Customer Support [mix]: Siento oír eso. Déjame, eh, ver qué puedo hacer aquí. Tu ID de dispositivo es DEV-8829-QX y muestra iOS 16.4, which should be compatible.
+
+Customer [mix]: Sé que probablemente estás lidiando con, eh, tantas llamadas como esta, y no es tu culpa que el sistema esté...
+
+Customer Support [mix]: No no, está bien. De verdad. Entonces eh, creo que he encontrado algo—hay un problema conocido con cuentas que tienen, eh, caracteres especiales en el campo de usuario. Your username shows as "Sarah&Mom" with that ampersand.
+
+Customer [mix]: Ah, eh, sí, configuré eso cuando estábamos—cuando la estaba ayudando a gestionar su... ¿eso es lo que lo está causando?
+
+Customer Support [mix]: Probablemente, sí. I can push through a patch but, eh, tardará unos 20 minutos en sincronizarse.
+
+Customer [mix]: 20 minutos está bien, yo solo, eh, realmente aprecio que no me hagas sentir estúpido por esto porque he estado llorando y...
+
+Customer Support [mix]: No eres estúpido en absoluto. The system shouldn't crash like that. Estoy iniciando el parche ahora, número de referencia PTH-7764-MM, y eh, honestamente esto pasa más de lo que debería.
+
+Customer [mix]: Eh, ¿puedo seguir usando el sitio web mientras está—perdona, mientras estás arreglando la app? ¿O eso fastidiaría las cosas...
+
+Customer Support [mix]: El sitio web está perfectamente bien. Sistema diferente. Tus credenciales de acceso son las mismas, solo, eh, usa el código temporal que te estoy enviando ahora—it's TMP-445892. Debería llegar en unos, mmm, 30 segundos más o menos.
+
+Customer [mix]: Estás siendo tan, eh, tan paciente conmigo, sé que probablemente soy tu llamada número cien hoy y yo...
+
+Customer Support [mix]: Quizá la ciento uno. Pero eh, mira, lo entiendo. When you need the app to work, you need it to work. Especialmente con, ya sabes, cosas médicas pasando.
+
+Customer [mix]: El sitio web está cargando ahora y, ay gracias a Dios, puedo ver el saldo... perdona, me estoy poniendo emocional, es que ha sido un día tan largo...
+
+Customer Support [mix]: Tómate tu tiempo. I'm monitoring the patch deployment here, está al, eh, 60 por ciento. El código de estado muestra STS-904-ACTIVE, así que va bien.
+
+Customer [mix]: Eh, espero que tu turno termine pronto, suenas cansado tú también—¡no en el mal sentido! Solo quiero decir, eh, ya sabes...
+
+Customer Support [mix]: Sé lo que quieres decir. Dos horas más, pero eh, oye—tu parche acaba de completarse. Try the app now, should work. Y eh, mis mejores deseos para tu madre, de verdad.
+
+
+=== Original (English) ===
+
+Customer: Um, hi, I'm so sorry to bother you but, uh, the app keeps—no wait, I mean it crashes every time I try to open it and I really need...
+
+Customer Support: Okay. Let me pull that up. What's your account number?
+
+Customer: It's, um, let me find it... sorry, my hands are shaking a bit, it's 4-4-7—no wait, that's wrong—447-921-6
+
+Customer Support: Got it. So I'm seeing account 447-921-6, and um, checking your app access logs here... There's been seventeen crash reports in the last, uh, probably three hours. That's definitely not normal.
+
+Customer: Seventeen? Oh god, yeah, I kept trying because, um, my mom's in the hospital and I need to transfer money for her prescriptions and I just...
+
+Customer Support: I'm sorry to hear that. Let me, um, see what I can do here. Your device ID is DEV-8829-QX and it's showing iOS 16.4, which should be compatible.
+
+Customer: I know you're probably dealing with, uh, so many calls like this, and it's not your fault the system is...
+
+Customer Support: No no, it's fine. Really. So um, I think I found something—there's a known issue with accounts that have, uh, special characters in the username field. Your username shows as "Sarah&Mom" with that ampersand.
+
+Customer: Oh, um, yeah I set that up when we—when I was helping her manage her... is that what's causing it?
+
+Customer Support: Probably, yeah. I can push through a patch but, um, it'll take about twenty minutes to sync.
+
+Customer: Twenty minutes is fine, I just, uh, I really appreciate you not making me feel stupid about this because I've been crying and...
+
+Customer Support: You're not stupid at all. The system shouldn't crash like that. I'm initiating the patch now, reference number PTH-7764-MM, and um, honestly this happens more than it should.
+
+Customer: Um, can I still use the website while it's—sorry, while you're fixing the app? Or will that mess things...
+
+Customer Support: Website's totally fine. Different system. Your login credentials are the same, just, uh, use the temporary code I'm sending now—it's TMP-445892. Should come through in about, hmm, thirty seconds or so.
+
+Customer: You're being so, um, so patient with me, I know I'm probably your hundredth call today and I just...
+
+Customer Support: Maybe hundred and first. But um, look, I get it. When you need the app to work, you need it to work. Especially with, you know, medical stuff happening.
+
+Customer: The website's loading now and, oh thank god, I can see the balance... sorry, I'm getting emotional, it's just been such a long day...
+
+Customer Support: Take your time. I'm monitoring the patch deployment here, it's at, uh, sixty percent. Status code showing STS-904-ACTIVE, so it's moving along fine.
+
+Customer: Um, I hope your shift ends soon, you sound tired too—not in a bad way! I just mean, uh, you know...
+
+Customer Support: I know what you mean. Two more hours, but um, hey—your patch just completed. Try the app now, should work. And um, best wishes with your mom, really.
+

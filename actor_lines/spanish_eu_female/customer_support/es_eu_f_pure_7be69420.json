@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Mira, acabo de mirar mi cuenta. ¿Dice cero? Eso no puede—o sea, debería haber dinero ahí."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, em, eso es—déjame que—mm, vale, estoy accediendo a tu cuenta aquí, y eh, veo la cuenta terminada en 4782, y em, sí, esto es raro, está mostrando... déjame mirar el registro de transacciones un momento."
+        },
+        {
+            "role": "Customer",
+            "content": "¡Tenía como, em, tres mil ahí ayer! Probablemente estoy—espera, ¿habré mirado la cuenta correcta?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entonces, eh, en realidad—no espera—vale, estoy viendo aquí, em, se inició una transferencia, ID de transacción TXN-994821-BC, y está, mm, está mostrando estado pendiente lo cual es, eh, eso es interesante porque normalmente eso no afectaría tu..."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Pendiente? ¿Qué transferencia? Yo no... mm, déjame pensar..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro claro, entonces em, esto es—vale, creo que veo lo que ha pasado. El sistema, eh, está haciendo esa cosa donde, em, cuando una transferencia de más de 2500 se procesa, código de referencia RFC-8847-QM, a veces, eh, temporalmente muestra el saldo como..."
+        },
+        {
+            "role": "Customer",
+            "content": "Espera espera espera. Es que... ¿puedes arreglarlo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah por supuesto, em, lo que voy a hacer es—en realidad déjame que—mm, necesito, eh, enviar una solicitud de actualización de saldo, eso es el formulario BRQ-7765, y em, básicamente forzará al sistema a, ya sabes, recalcular todo."
+        },
+        {
+            "role": "Customer",
+            "content": "Em, vale, entonces tipo, ¿cuánto tiempo? Porque necesito, eh, pagar el alquiler mañana."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sí, entonces, em, normalmente es instantáneo pero, eh, con estas transferencias pendientes—déjame probar otra cosa primero..."
+        },
+        {
+            "role": "Customer",
+            "content": "Lo siento, es que—esto me está estresando mucho. Em, ¿igual he hecho algo mal?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, em, tú no—esto no es culpa tuya para nada. Entonces, eh, estoy mirando el código de error ERR-3982-X aquí y, mm, esto es en realidad tipo un puzzle divertido porque, em, el sistema cree que hay dos sesiones simultáneas..."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Dos qué? Vale, entonces eso significa... No entiendo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, em, perdona—entonces básicamente, eh, ¿tu app móvil y, eh, quizás tu ordenador? ¿Están los dos conectados? Y el sistema está tipo, mm, confundiéndose sobre qué saldo mostrar."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah. ¡AH! Sí, estaba—no espera, me conecté en mi portátil antes para, em... mm, imprimir extractos."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Perfecto! Entonces, em, lo que vamos a hacer es—te estoy enviando un, eh, código de verificación, VRF-889244, a tu teléfono, y entonces, eh, cuando me lo des, puedo básicamente forzar la actualización de todo y tu saldo debería sin más..."
+        },
+        {
+            "role": "Customer",
+            "content": "Em, lo tengo. Dice, eh... 889244."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excelente, entonces, em, lo estoy procesando ahora y—¡ah! Sí, ahí va, em, puedo ver tu saldo actualizándose, mostrando, eh, 3.247,83€ en la cuenta corriente 4782."
+        },
+        {
+            "role": "Customer",
+            "content": "Ay, gracias a Dios. Estaba muy—perdona, o sea, gracias. Eso fue, em, aterrador."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡No no, lo entiendo totalmente! Em, los temas de dinero son, eh, super estresantes cuando se ponen raros. Pero sí, ya está todo arreglado, y eh, ¿quizás cierra sesión en uno de los dispositivos la próxima vez? Aunque la verdad es que el sistema debería gestionarlo mejor..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I just checked my account. It says zero? That can't—I mean there should be money there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, that's—let me just—hmm, okay so I'm pulling up your account here, and uh, I see account ending in 4782, and um, yeah this is weird, it's showing... let me check the transaction log real quick."
+        },
+        {
+            "role": "Customer",
+            "content": "I had like, um, three thousand in there yesterday! I'm probably—wait, did I check the right account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, uh, actually—no wait—okay so I'm seeing here, um, there was a transfer initiated, transaction ID TXN-994821-BC, and it's, hmm, it's showing pending status which is, uh, that's interesting because normally that wouldn't affect your..."
+        },
+        {
+            "role": "Customer",
+            "content": "Pending? What transfer? I didn't... hmm, let me think here..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so um, this is—okay I think I see what happened. The system, uh, it's doing this thing where, um, when a transfer over $2500 goes through, reference code RFC-8847-QM, it sometimes, er, temporarily shows the balance as..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait wait wait. Just... can you fix it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, um, so what I'm gonna do is—actually let me just—hmm, I need to, uh, submit a balance refresh request, that's form BRQ-7765, and um, basically it'll force the system to, you know, recalculate everything."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so like, how long? Because I need to, uh, pay my rent tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, typically it's instant but, uh, with these pending transfers—let me actually try something else first..."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I'm just—this is really stressing me out. Um, maybe I did something wrong?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, um, you didn't—this isn't your fault at all. So, uh, I'm looking at error code ERR-3982-X here and, hmm, this is actually kind of a fun puzzle because, um, the system thinks there's two simultaneous sessions..."
+        },
+        {
+            "role": "Customer",
+            "content": "Two what? Okay so that means... I don't understand."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, um, sorry—so basically, er, your mobile app and, uh, maybe your computer? They're both logged in? And the system's like, hmm, getting confused about which balance to show."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. OH! Yeah I was—no wait, I logged in on my laptop earlier to, um... hmm, print statements."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, what we're gonna do is—I'm sending you a, uh, verification code, VRF-889244, to your phone, and then, er, once you give me that, I can basically force-refresh everything and your balance should just..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, got it. It says, uh... 889244."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent, so, um, I'm pushing that through now and—oh! Yeah there we go, um, I can see your balance updating, showing, uh, $3,247.83 in checking account 4782."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank god. I was really—sorry, I mean, thank you. That was, um, scary."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally get it! Um, money stuff is, er, super stressful when it goes weird. But yeah, you're all set now, and uh, just maybe log out of one device next time? Though honestly the system should handle it better..."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "7be69420_script.json",
+    "scenario": "panicked because their account shows a zero balance when it should have money",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "frustrated_impatient",
+                "self_deprecating_fumbling"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "self_corrections",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts",
+                    "vocalized_thinking",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

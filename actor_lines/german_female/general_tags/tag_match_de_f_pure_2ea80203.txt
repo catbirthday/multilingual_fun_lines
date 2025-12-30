@@ -1,0 +1,68 @@
+=== Source: 2ea80203_scenario.json ===
+Language: German
+Gender: female
+Mode: pure
+Content Type: general_tags
+Scenario: expert and piano mover
+
+=== Translated Dialogue ===
+
+raw [pure]: {
+    "conversation": [
+        {"role": "Character 1", "content": "[bedächtig] Sie sind also diejenige, die den, [fassungslos], 1927er Steinway Modell D fallen ließ, dessen Restaurierung drei Jahre gedauert hat."},
+        {"role": "Character 2", "content": "[defensiv] Hören Sie, ich transportiere seit, ähm, [zitternd], fünfzehn Jahren Klaviere und das ist das erste Mal, dass so etwas, na ja, [verzweifelt], passiert ist, ich meine, es ist mir einfach entglitten."},
+        {"role": "Character 1", "content": "[leise] Einfach entglitten—verstehen Sie denn, ähm, dass dieses Instrument, [gequält], zwei Weltkriege, drei Überschwemmungen und, na ja, unzählige Umzüge überstanden hat, bis heute? [seufzt schwer]"},
+        {"role": "Character 2", "content": "[reumütig] Ich weiß, wie schlimm das, ähm, [brechende stimme], aussieht, aber das Rad der Sackkarre ist hängengeblieben und, äh, ich konnte nicht schnell genug gegensteuern, wissen Sie?"},
+        {"role": "Character 3", "content": "[beherrscht] Der Resonanzboden ist an, also, [klinisch], drei Stellen gerissen, der Stimmstock ist beschädigt, und, ähm, [bitter], die Gussplatte hat einen Haarriss, dessen Reparatur mehr kostet als Ihr Jahresgehalt. [atmet aus]"},
+        {"role": "Character 2", "content": "[verzweifelt] Meine Versicherung wird das übernehmen, ich meine, [flehend], dafür ist sie ja da, und ich werde mit Ihnen zusammenarbeiten, um sicherzustellen, dass alles, äh, [ernst], ordnungsgemäß repariert wird, auch wenn es Monate dauert, na ja, oder Jahre."},
+        {"role": "Character 1", "content": "Man kann so ein Klavier nicht einfach, ähm, [ungläubig], reparieren—jedes hat seinen eigenen akustischen Fingerabdruck, der sich über, also, [belehrend], Jahrzehnte des Spielens entwickelt, und der ist jetzt weg, ich meine, für immer."},
+        {"role": "Character 2", "content": "[näherkommend] Ich verstehe, dass Sie hier die Expertin sind und, ähm, [demütig], ich respektiere Ihr Fachwissen, aber es muss doch etwas geben, was wir tun können, um wenigstens, na ja, [hoffnungsvoll], einen Teil dessen zu retten, was dieses Klavier besonders gemacht hat, verstehen Sie?"},
+        {"role": "Character 1", "content": "[nachdenklich] Es gibt eine Restaurationsspezialistin in Wien, die vielleicht, ähm, [nachdenklich], die Klangqualitäten rekonstruieren könnte, wenn wir die, also, Resonanzmuster kartieren können, bevor wir es wieder bewegen."},
+        {"role": "Character 2", "content": "[eifrig] Ich zahle die Spezialistin selbst, wenn, ähm, [entschlossen], die Versicherung das nicht übernimmt, weil das, na ja, [schuldbewusst], meine Verantwortung ist und ich es irgendwie wiedergutmachen muss."},
+        {"role": "Character 1", "content": "[einsichtig] Sie verstehen es wirklich nicht—es geht hier nicht um, [frustriert], Geld oder darum, Dinge zu reparieren, es geht um die dreihundert Konzerte, denen dieses Klavier, [emotional], eine Stimme gegeben hat, die Erinnerungen, die in jeder, [brechend], Saite und jedem Hammer stecken."},
+        {"role": "Character 2", "content": "[leise] Mein Großvater war Klavierstimmer und er sagte immer, dass, [sich erinnernd], jedes Klavier sich an die Hände erinnert, die es gespielt haben, dass das Holz selbst, [wehmütig], die Musik aufnimmt und sie jedes Mal anders zurückgibt. [pause]"},
+        {"role": "Character 1", "content": "[überrascht] Ihr Großvater hat etwas verstanden, was die meisten, ähm, [wärmend], Menschen nie begreifen—dass das nicht nur Instrumente sind, sondern, also, [leidenschaftlich], lebendige Archive menschlichen Ausdrucks."},
+        {"role": "Character 2", "content": "[leise] Ähm, ja, ich weiß."},
+        {"role": "Character 1", "content": "[entschlossen] Wenn Sie es ernst meinen damit, das wiedergutzumachen, helfen Sie mir, [fest], jedes Detail des Schadens zu dokumentieren, unterstützen den Restaurationsprozess und, [sanfter], lernen, warum gerade dieses Klavier so wichtig war. [seufzt]"},
+        {"role": "Character 2", "content": "[dankbar] Ich werde alles tun, was nötig ist, ähm, [aufrichtig], selbst wenn das bedeutet, etwas über Akustik zu lernen und, na ja, bei jedem Schritt des Restaurationsprozesses zu helfen."},
+        {"role": "Character 1", "content": "Das Erste, was Sie verstehen müssen, ist, dass dieses Klavier, [belehrend], fünfzehn Jahre lang Vladimir Ashkenazys persönliches Instrument war."},
+        {"role": "Character 2", "content": "Der Ashkenazy, der all diese, ähm, [ehrfürchtig], Chopin-Etüden aufgenommen hat, die mein Großvater mir vorgespielt hat, als ich, na ja, [nostalgisch], klein war—dieser Ashkenazy?"},
+        {"role": "Character 1", "content": "[entgegenkommend] Ja, und vielleicht hilft Ihnen dieses Verständnis dieser Verbindung, [sanft], zu schätzen, was wir hier zu retten versuchen."},
+        {"role": "Character 2", "content": "Dann fangen wir heute Abend mit der Dokumentation an, denn dieses Klavier verdient es, [entschlossen], wieder zu singen, selbst wenn es alles kostet, was ich habe."
+    ],
+    "scenario": "A renowned acoustics expert arrives at a concert hall to inspect damage after a piano mover accidentally dropped a priceless 1927 Steinway grand piano during installation.",
+    "selected_tones": ["perceptive", "approaching", "accommodating"],
+    "type": "scenario_conversation"
+}
+
+
+=== Original (English) ===
+
+raw: {
+    "conversation": [
+        {"role": "Character 1", "content": "[bedächtig] So you're the one who dropped the, [fassungslos], 1927 Steinway Model D that took three years to restore."},
+        {"role": "Character 2", "content": "[defensiv] Look, I've been moving pianos for, um, [zitternd], fifteen years and this is the first time anything like, well, [verzweifelt], this has happened, I mean it just slipped."},
+        {"role": "Character 1", "content": "[leise] Just slipped—do you, um, understand that this instrument survived, [gequält], two world wars, three floods, and, well, countless relocations before today? [seufzt schwer]"},
+        {"role": "Character 2", "content": "[reumütig] I know how bad this, um, [brechende stimme], looks but the dolly wheel caught on something and, uh, I couldn't compensate fast enough, you know?"},
+        {"role": "Character 3", "content": "[beherrscht] The soundboard is cracked in, well, [klinisch], three places, the pin block is compromised, and, um, [bitter], the cast iron plate has a hairline fracture that will cost more than your annual salary to repair. [atmet aus]"},
+        {"role": "Character 2", "content": "[verzweifelt] My insurance will cover it, I mean, [flehend], that's what it's for, and I'll work with you to make sure everything gets, uh, [ernst], fixed properly even if it takes months, well, or years."},
+        {"role": "Character 1", "content": "You can't just, um, [ungläubig], fix a piano like this—each one has its own acoustic fingerprint that develops over, well, [belehrend], decades of being played, and that's gone now, I mean forever."},
+        {"role": "Character 2", "content": "[näherkommend] Sir, I understand you're the expert here and, um, [demütig], I respect your knowledge, but there must be something we can do to at least, well, [hoffnungsvoll], salvage part of what made this piano special, you know?"},
+        {"role": "Character 1", "content": "[nachdenklich] There's a restoration specialist in Vienna who might, um, [nachdenklich], be able to reconstruct the tonal qualities if we can map the, well, resonance patterns before we move it again."},
+        {"role": "Character 2", "content": "[eifrig] I'll pay for the specialist myself if, um, [entschlossen], insurance won't cover it because this is, well, [schuldbewusst], my responsibility and I need to make it right somehow."},
+        {"role": "Character 1", "content": "[einsichtig] You really don't understand—this isn't about, [frustriert], money or fixing things, it's about the three hundred concerts this piano, [emotional], has given voice to, the memories it holds in every, [brechend], string and hammer."},
+        {"role": "Character 2", "content": "[leise] My grandfather was a piano tuner and he used to say that, [sich erinnernd], every piano remembers the hands that played it, that the wood itself, [wehmütig], absorbs the music and gives it back differently each time. [pause]"},
+        {"role": "Character 1", "content": "[überrascht] Your grandfather understood something that most, um, [wärmend], people never grasp—that these aren't just instruments but, well, [leidenschaftlich], living archives of human expression."},
+        {"role": "Character 2", "content": "[leise] Um, well, I know."},
+        {"role": "Character 1", "content": "[entschlossen] If you're serious about making this right, you'll help me, [fest], document every detail of the damage, assist with the restoration process, and, [sanfter], learn why this particular piano mattered so much. [seufzt]"},
+        {"role": "Character 2", "content": "[dankbar] I'll do whatever it takes, um, [aufrichtig], even if it means learning about acoustics and, well, helping with every step of the restoration process."},
+        {"role": "Character 1", "content": "The first thing you need to understand is that this piano was, [belehrend], Vladimir Ashkenazy's personal instrument for fifteen years."},
+        {"role": "Character 2", "content": "The Ashkenazy who recorded all those, um, [ehrfürchtig], Chopin études that my grandfather played for me when I was, well, [nostalgisch], little—that Ashkenazy?"},
+        {"role": "Character 1", "content": "[entgegenkommend] Yes, and maybe understanding that connection will help you, [sanft], appreciate what we're trying to save here."},
+        {"role": "Character 2", "content": "Then we start documenting everything tonight because this piano deserves to, [entschlossen], sing again, even if it takes everything I have."
+    ],
+    "scenario": "A renowned acoustics expert arrives at a concert hall to inspect damage after a piano mover accidentally dropped a priceless 1927 Steinway grand piano during installation.",
+    "selected_tones": ["perceptive", "approaching", "accommodating"],
+    "type": "scenario_conversation"
+}
+

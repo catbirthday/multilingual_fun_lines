@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look. I've been—no wait. Um. My tips. They're wrong. Again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um okay so uh let me just uh pull up your profile here real quick and um I'll need your employee ID if you uh have that handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh... what's the... 4-4-7. No. 4-7-7. Sorry. 2-9."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it so that's 477-29 and um I'm seeing here uh your last report was submitted for period ending uh December 15th with a total of uh $347.50 in tips reported is that what we're um looking at?"
+        },
+        {
+            "role": "Customer",
+            "content": "No! That's—I mean, sort of? But they took. More. Out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay um so uh let me dig deeper here and uh I can see transaction TXN-9847-B3 shows uh a withholding of $89.42 but um there's also this other deduction here that's uh kind of unusual..."
+        },
+        {
+            "role": "Customer",
+            "content": "Eighty nine? I think it was... probably like... ninety something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um yeah so uh actually you're right there's uh another line item here for $3.78 that got um coded separately under reference REF-5521-QK and uh that's definitely not supposed to be there so um let me just..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. You found it? The extra. Thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah um so basically what happened is uh the system double-processed part of your tip allocation and um it created this duplicate withholding entry DUP-7739-XX that uh shouldn't exist at all so um I can fix this right now."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been. Um. Calling about this. For probably... what's it been... three weeks?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man um I'm so sorry about that and uh looking at your case history CAS-8823-PP I can see uh yeah three calls and um nobody caught this duplicate entry which is uh really frustrating I know."
+        },
+        {
+            "role": "Customer",
+            "content": "So you can. Actually. Fix it? Like right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um absolutely yes so uh I'm processing adjustment ADJ-6677-RT right now and uh you'll see that $3.78 credited back plus um we're also gonna add a correction credit of uh $15 for the inconvenience code CRD-9901-ZM."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Um. Wow. That's... I mean, that's really... thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's going to be okay now um the credit hits your next check and uh I've also flagged your account with note NTE-4455-JY so um this won't happen again basically the system will skip that duplicate process."
+        },
+        {
+            "role": "Customer",
+            "content": "The fifteen? That's—you didn't have to. I mean. Thank you. Really."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um of course of course and uh just so you know going forward if you see anything weird with tips just uh reference this ticket TKT-2234-BB and um we'll know exactly what to look for."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, this is like... you actually listened. And found it. Nobody else, uh... sort of... bothered."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey um I get it I really do and uh tip reporting is confusing enough without the system messing up so um yeah just keep that confirmation CON-8856-AA and uh you should see everything fixed by Thursday latest."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look. I've been—no wait. Um. My tips. They're wrong. Again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um okay so uh let me just uh pull up your profile here real quick and um I'll need your employee ID if you uh have that handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh... what's the... 4-4-7. No. 4-7-7. Sorry. 2-9."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it so that's 477-29 and um I'm seeing here uh your last report was submitted for period ending uh December 15th with a total of uh $347.50 in tips reported is that what we're um looking at?"
+        },
+        {
+            "role": "Customer",
+            "content": "No! That's—I mean, sort of? But they took. More. Out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay um so uh let me dig deeper here and uh I can see transaction TXN-9847-B3 shows uh a withholding of $89.42 but um there's also this other deduction here that's uh kind of unusual..."
+        },
+        {
+            "role": "Customer",
+            "content": "Eighty nine? I think it was... probably like... ninety something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um yeah so uh actually you're right there's uh another line item here for $3.78 that got um coded separately under reference REF-5521-QK and uh that's definitely not supposed to be there so um let me just..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. You found it? The extra. Thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah um so basically what happened is uh the system double-processed part of your tip allocation and um it created this duplicate withholding entry DUP-7739-XX that uh shouldn't exist at all so um I can fix this right now."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been. Um. Calling about this. For probably... what's it been... three weeks?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man um I'm so sorry about that and uh looking at your case history CAS-8823-PP I can see uh yeah three calls and um nobody caught this duplicate entry which is uh really frustrating I know."
+        },
+        {
+            "role": "Customer",
+            "content": "So you can. Actually. Fix it? Like right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um absolutely yes so uh I'm processing adjustment ADJ-6677-RT right now and uh you'll see that $3.78 credited back plus um we're also gonna add a correction credit of uh $15 for the inconvenience code CRD-9901-ZM."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Um. Wow. That's... I mean, that's really... thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's going to be okay now um the credit hits your next check and uh I've also flagged your account with note NTE-4455-JY so um this won't happen again basically the system will skip that duplicate process."
+        },
+        {
+            "role": "Customer",
+            "content": "The fifteen? That's—you didn't have to. I mean. Thank you. Really."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um of course of course and uh just so you know going forward if you see anything weird with tips just uh reference this ticket TKT-2234-BB and um we'll know exactly what to look for."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, this is like... you actually listened. And found it. Nobody else, uh... sort of... bothered."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey um I get it I really do and uh tip reporting is confusing enough without the system messing up so um yeah just keep that confirmation CON-8856-AA and uh you should see everything fixed by Thursday latest."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "66e38145_script.json",
+    "scenario": "busboy, young and inexperienced at navigating a tip reporting discrepancy",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "indignant_righteous",
+                "genuinely_grateful"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "self_corrections",
+                    "hedge_words",
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "gently_reassuring"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "breath_catches",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

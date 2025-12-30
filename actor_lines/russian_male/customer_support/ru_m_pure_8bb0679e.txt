@@ -1,0 +1,92 @@
+=== Source: 8bb0679e_script.json ===
+Language: Russian
+Gender: male
+Mode: pure
+Content Type: customer_support
+Scenario: cocktail waitress, confused about tip reporting calculations on her tax forms
+
+=== Translated Dialogue ===
+
+Customer [pure]: Эм, привет, я тут смотрю на свою—ой нет, простите, форму W-2? И, э, хм, суммы чаевых просто... неправильные.
+
+Customer Support [pure]: Понял, так, эм, дайте я открою ваш аккаунт и, э... так! Форма ID FRM-2023-W2-7845. Короче, что я вижу, это, типа, есть распределённые чаевые против заявленных чаевых и...
+
+Customer [pure]: Дай-ка посмотрю... ага, эм, графа 8 показывает, э, намного больше, чем я реально заработал.
+
+Customer Support [pure]: О! О, ладно, так, эм, это вообще—типа, я обожаю такие случаи, потому что, э, обычно есть закономерность. Ваш ID работодателя EIN-94-7823561 показывает, что они используют распределение чаевых на основе, эм, в общем валовой выручки...
+
+Customer [pure]: Я знаю, что вы не виноваты, но, эм, в прошлом году они тоже это запороли.
+
+Customer Support [pure]: Точно точно, так вот что происходит, типа, если ваши заявленные чаевые меньше 8% от продаж, они должны распределять и... хм, дайте проверю лог транзакций TXN-2023-DEC-8847.
+
+Customer [pure]: Ладно, значит это... стоп, я точно всё правильно заявил.
+
+Customer Support [pure]: Дааа, эм, вот в чём дело—и типа, тут самое интересное—ваши ежедневные отчёты под кодом RPT-DAILY-3384 показывают, э, правильную отчётность, но система в общем усредняет...
+
+Customer [pure]: Простите, в смысле другая—форма 4070? Я их заполнял каждый месяц.
+
+Customer Support [pure]: Абсолютно! Так, эм, эти месячные формы—номер отслеживания TRK-4070-MNTH—они все здесь, но, э, работодатель использует другой метод расчёта и поэтому...
+
+Customer [pure]: Эм, хм, а что если я просто, э, подам то, что я реально заявлял?
+
+Customer Support [pure]: Так вот, эм, что бы я сделал—и типа, это работает—используй свои записи, ссылка на дело CAS-TIP-9923, и, э, приложи пояснение по расхождению...
+
+Customer [pure]: Это вторник, стоп нет, в среду я смогу это сделать. Эм, налоговая это примет?
+
+Customer Support [pure]: О, конечно! Так, эм, код регламента REG-531-SEC3 вообще говорит, что можно, типа, оспаривать распределённые чаевые, если есть документация, которая, э, у вас точно есть, так что...
+
+Customer [pure]: Я благодарен, что вы это выяснили. Правда. В следующий раз, эм, буду вести записи получше.
+
+Customer Support [pure]: Так, эм, я вам вообще отправлю—типа, это супер полезно—шаблон письма TMP-DISPUTE-7745, который в общем расписывает всё по шагам, и потом вы просто...
+
+Customer [pure]: Хм, окей, так, э, вы с таким уже сталкивались?
+
+Customer Support [pure]: Постоянно! Работники ресторанов, эм, особенно с кодами работодателей, начинающимися на 94, как у вас, они печально известны тем, что, э, завышают чаевые при распределении, так что в общем...
+
+Customer [pure]: Так, погоди... эм, мне им сначала позвонить или просто подавать?
+
+Customer Support [pure]: Просто подавай. Номер обращения REF-2024-JAN-8823 для этого звонка, и, эм, честно? Типа, звонки им обычно просто... ну знаешь, это реально ничего не меняет, так что...
+
+
+=== Original (English) ===
+
+Customer: Um, hi, so I'm looking at my—wait no, sorry, the W-2 form? And, uh, hmm, the tip amounts are just... wrong.
+
+Customer Support: Got it, so, um, let me just pull up your account here and, uh... okay! Form ID FRM-2023-W2-7845. So basically what I'm seeing is, like, there's actually allocated tips versus reported tips and...
+
+Customer: Let me see here... yeah, um, Box 8 shows, uh, way more than I actually made.
+
+Customer Support: Oh! Oh okay, so, um, this is actually—like, I love these ones because, uh, there's usually a pattern. Your employer ID EIN-94-7823561 shows they're using tip allocation based on, um, basically gross receipts...
+
+Customer: I know this isn't your fault, but, um, last year they messed this up too.
+
+Customer Support: Right right, so what happens is, like, if your reported tips are under 8% of sales, they have to allocate and... hmm, let me check transaction log TXN-2023-DEC-8847.
+
+Customer: Okay so that means... wait, I definitely reported everything correctly.
+
+Customer Support: Yeahhh, um, so here's the thing—and like, this is where it gets good—your daily reports under code RPT-DAILY-3384 show, uh, proper reporting but the system's basically averaging...
+
+Customer: Sorry, I mean the other—the Form 4070? I filled those out every month.
+
+Customer Support: Absolutely! So, um, those monthly forms—tracking number TRK-4070-MNTH—they're all here, but, uh, the employer's using a different calculation method and so...
+
+Customer: Um, hmm, what if I just, uh, file with what I actually reported?
+
+Customer Support: So basically, um, here's what I'd do—and like, this works—use your own records, reference case CAS-TIP-9923, and, uh, attach a statement explaining the discrepancy...
+
+Customer: That's Tuesday, wait no, Wednesday I can do that. Um, will the IRS accept it?
+
+Customer Support: Oh definitely! So, um, regulation code REG-531-SEC3 actually says you can, like, dispute allocated tips if you have documentation, which, uh, you totally do, so...
+
+Customer: I'm grateful you figured this out. Really. Next time though, um, I'll keep better records.
+
+Customer Support: So, um, I'm actually gonna send you—like, this is super helpful—template letter TMP-DISPUTE-7745 that basically walks through everything, and then you just...
+
+Customer: Hmm, okay so, uh, you've dealt with this before then?
+
+Customer Support: All the time! Restaurant workers, um, especially with employer ID codes starting with 94 like yours, they're notorious for, uh, over-allocating tips, so basically...
+
+Customer: Let me see here... um, should I call them first or just file?
+
+Customer Support: Just file. Reference number REF-2024-JAN-8823 for this call, and, um, honestly? Like, calling them usually just... you know, it doesn't really change anything, so...
+

@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Of course there's a problem with my taxes. Estoy llamando por—espera, no, es lo del, eh, la retención."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, okay so, let me just, uh, pull up your account here and, um, bueno, definitivamente puedo ayudarte con ese problema de retención, así que si pudieras, eh, darme tu número de cuenta o, mm, el número de seguridad social?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's, uh, basically the family I work for? La han vuelto a liar. Otra vez. Así que..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, I understand, so you're employed as household staff, y eh, déjame navegar a nuestra sección de empleados domésticos aquí, código DE-4419-B, y podemos, eh, solucionar esto hoy mismo."
+        },
+        {
+            "role": "Customer",
+            "content": "They took out wrong amount. 3 meses. Nadie se dio cuenta hasta ahora."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, three months of incorrect withholding, así que eso es, eh, definitivamente algo que tenemos que solucionar, y mm, estoy viendo aquí en la sección PWH-7782-A que podemos presentar un ajuste, pero eh, necesitaría saber aproximadamente cuánto fue, mm, retenido de más o de menos?"
+        },
+        {
+            "role": "Customer",
+            "content": "Under. Way under. O sea, eh, básicamente se olvidaron de que existo a nivel fiscal, y eh, ahora probablemente debo miles, así que es... perfecto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, significantly under-withheld, vale, eh, déjame comprobar algo aquí... vale, entonces el formulario 944-X, referencia TXF-2847-RC, eso es lo que necesitaremos, y mm, la buena noticia es que podemos establecer un plan de pago si es necesario."
+        },
+        {
+            "role": "Customer",
+            "content": "Payment plan. Great. Me encantan. Y la familia va de \"uy perdona\" pero yo soy el que..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration, y, mm, lo que puedo hacer es, eh, generar un W-2C corregido, número de documento DCM-9981-K2, y básicamente también necesitaremos, mm, presentar declaraciones trimestrales modificadas, así que serán los formularios 941-X para cada trimestre afectado."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait so like, how many forms is this? Porque de repente estoy como, eh, ahogándome en papeleo y yo cuido niños, no soy, mm, no soy contable, ¿sabes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so it's, um, it does seem overwhelming but, eh, básicamente hay 3 formularios principales, y puedo, mm, enviarte por email nuestra guía, número de referencia GDE-3367-M, que explica todo paso a paso."
+        },
+        {
+            "role": "Customer",
+            "content": "Step by step. Claro. Asumiendo que los pasos tengan sentido, que no lo tendrán, porque nada nunca..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I'm actually going to, uh, do something here—déjame asignarte a nuestro equipo especializado en empleados domésticos, número de caso HSE-5542-LP, y son, mm, realmente buenos con estas situaciones exactas, mucho mejores que la línea general."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh so now, um, I get transferred? O sea, he estado explicando todo esto y eh, ahora empiezo de cero con alguien nuevo que probablemente..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, um, sorry, I should've been clearer—no te voy a transferir, eh, me quedo en la línea, pero solo estoy, mm, marcando tu caso para su revisión, referencia RVW-8823-T, así que recibirás seguimiento especializado en las próximas 24 horas."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-four hours. Vale. Y luego qué, otra semana para arreglar algo de verdad..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, um, while we're waiting for them, puedo, eh, empezar ya el proceso de corrección aquí, así que déjame, mm, introducir los datos preliminares en el conjunto de formularios FST-6671-QR, y así cuando llamen, la mayor parte del trabajo ya estará hecho."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so wait, you're actually helping? ¿Ahora mismo? Porque normalmente me dicen que espere, o que vuelva a llamar, o, eh, que consulte alguna web que no..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So yes, um, absolutely helping right now, y eh, ya he creado tu expediente, CFL-4428-NP, iniciado la corrección del W-2C, y mm, establecido estado prioritario por el retraso de 3 meses, así que básicamente deberíamos tener esto, eh, casi resuelto para final de semana."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Of course there's a problem with my taxes. I'm calling about—wait, no, it's the withholding thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, okay so, let me just, uh, pull up your account here and, um, I can definitely help you with that withholding issue, so if you could just, uh, give me your account number or, um, social security?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's, uh, basically the family I work for? They messed up. Again. So..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, I understand, so you're employed as household staff, and um, let me just, uh, navigate to our domestic employee section here, code DE-4419-B, and we can, um, get this sorted out for you today."
+        },
+        {
+            "role": "Customer",
+            "content": "They took out wrong amount. Three months. Nobody noticed til now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, three months of incorrect withholding, so that's, uh, definitely something we need to address, and um, I'm seeing here in section PWH-7782-A that we can file an adjustment, but uh, I'll need to know approximately how much was, um, over or under withheld?"
+        },
+        {
+            "role": "Customer",
+            "content": "Under. Way under. Like, um, they basically forgot I exist tax-wise, and uh, now I probably owe thousands, so that's just... perfect."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, significantly under-withheld, okay, uh, let me check something here... alright so form 944-X, reference TXF-2847-RC, that's what we'll need, and um, the good news is we can set up a payment plan if needed."
+        },
+        {
+            "role": "Customer",
+            "content": "Payment plan. Great. Love those. And the family's like \"oops sorry\" but I'm the one who..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration, and, um, so what I can do is, uh, generate a corrected W-2C, document number DCM-9981-K2, and basically we'll also need to, um, file amended quarterly returns, so that's going to be forms 941-X for each affected quarter."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait so like, how many forms is this? Because suddenly I'm like, uh, drowning in paperwork and I watch kids, I don't, um, I'm not an accountant, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so it's, um, it does seem overwhelming but, uh, basically there's three main forms, and I can, um, email you our guide, reference number GDE-3367-M, which walks through everything step by step."
+        },
+        {
+            "role": "Customer",
+            "content": "Step by step. Sure. Assuming the steps make sense, which they won't, because nothing ever..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I'm actually going to, uh, do something here—let me assign you to our specialized household employee team, case number HSE-5542-LP, and they're, um, really good with these exact situations, much better than the general line."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh so now, um, I get transferred? Like I've been explaining all this and uh, now I start over with someone new who probably..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, um, sorry, I should've been clearer—so I'm not transferring you, uh, I'm staying on the line, but I'm just, um, flagging your case for their review, reference RVW-8823-T, so you'll get specialized follow-up within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-four hours. Right. And then what, like another week to actually fix anything..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, um, while we're waiting for them, I can, uh, already start the correction process here, so let me just, um, input the preliminary data into form set FST-6671-QR, and that way when they call, most of the work's already done."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so wait, you're actually helping? Like right now? Because usually I get told to wait, or call back, or, uh, check some website that doesn't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So yes, um, absolutely helping right now, and uh, I've already created your case file, CFL-4428-NP, initiated the W-2C correction, and um, set priority status because of the three-month delay, so basically we should have this, uh, mostly resolved by end of week."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "78655e75_script.json",
+    "scenario": "nanny, nervous about asking how to fix a payroll tax withholding error",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "bitter_defeated",
+                "manic_oversharing"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "self_corrections",
+                    "filled_pauses",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "carefully_diplomatic",
+                "slightly_frazzled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

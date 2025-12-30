@@ -1,0 +1,72 @@
+=== Source: 8226bf42_scenario.json ===
+Language: Russian
+Gender: male
+Mode: en
+Content Type: general_tags
+Scenario: tyrant and animal shelter manager
+
+=== Translated Dialogue ===
+
+raw [en]: 
+{
+    "conversation": [
+        {"role": "Character 1", "content": "[commanding] I've reviewed the property acquisition documents and your, [dismissive], shelter is the only thing preventing construction of my new, [cold], military training facility."},
+        {"role": "Character 2", "content": "[startled] Um, I wasn't expecting, well, you to come here personally since, [nervous], your people usually just send, um, eviction notices or, [shaking], worse."},
+        {"role": "Character 1", "content": "[rehearsed] The demolition crew arrives at dawn tomorrow so you have, [checking watch], exactly fourteen hours to relocate these, [distasteful], animals to wherever it is that, [impatient], unwanted creatures go."},
+        {"role": "Character 2", "content": "[desperate] These aren't just unwanted creatures, they're living beings who've been, [passionate], abandoned and abused and need our protection."},
+        {"role": "Character 1", "content": "Protection is a luxury this city can't, [harsh], afford when we're surrounded by enemies who would, [calculating], exploit any weakness including, [sneering], sentimental attachments to stray dogs."},
+        {"role": "Character 2", "content": "[defiant] Would you like to meet them before you, [bitter], destroy the only home they've ever, [breaking], known?"},
+        {"role": "Character 1", "content": "[scoffing] I don't have time for, um, emotional manipulation tactics but, [hesitant], I suppose a brief inspection would, well, ensure there's nothing of, [trailing off], strategic value here anyway."},
+        {"role": "Character 2", "content": "This old German Shepherd here, um, he's been with us for, [gentle], six years because nobody wants a, well, scarred military dog with, [sad], only three legs anymore, you know."},
+        {"role": "Character 1", "content": "That scar pattern on his shoulder looks exactly like, [stunned], wait that can't be right."},
+        {"role": "Character 2", "content": "[confused] He came to us with a collar that said Rex but no other, [curious], information except that he'd been, [quiet], abandoned at a checkpoint."},
+        {"role": "Character 1", "content": "Rex was my father's dog before he, [voice cracking], before the revolution took everything and I had to, [hollow], become someone else entirely."},
+        {"role": "Character 2", "content": "[softly] Well, um, he still responds to certain military commands in, [thoughtful], the old dialect that nobody uses anymore which, I mean, [realizing], makes sense now if he was, um, your family's dog."},
+        {"role": "Character 1", "content": "[thawed] He used to sleep at the foot of my bed and, [nostalgic], guard me from nightmares that eventually, [darkening], became my reality."},
+        {"role": "Character 2", "content": "[carefully] Um, you could take him with you since, [hopeful], he's technically yours and maybe, well, [tentative], reconsider the demolition since we have, um, forty other animals with, [pleading], nowhere else to go."},
+        {"role": "Character 1", "content": "[conflicted] I can't be seen as, well, weak or sentimental but, [struggling], perhaps the facility could be, um, relocated to the industrial district instead. [long pause]"},
+        {"role": "Character 2", "content": "[stunned] The industrial district would actually be, [excited], perfect for training exercises while these animals keep their, [grateful], home and Rex could visit whenever, [emotional], you need him. [voice breaking]"},
+        {"role": "Character 1", "content": "My security detail will think I've gone, [defensive], soft but Rex deserves better than what, [resolved], this world made me become. [sighs heavily]"},
+        {"role": "Character 2", "content": "[gentle] Sometimes the hardest thing is letting ourselves, [understanding], remember who we were before the world, [wise], forced us to armor our hearts."},
+        {"role": "Character 1", "content": "[quiet] Tell no one about this visit or, um, about Rex but, [firm], expect the demolition order to be, well, mysteriously lost in bureaucracy and, [softening], maybe I'll return next week to, um, check on him."},
+        {"role": "Character 2", "content": "Your secret's safe."
+    ],
+    "scenario": "A tyrant visits the animal shelter manager whose facility is the last building standing in the way of their new military compound, but discovers their own childhood dog is among the animals there.",
+    "selected_tones": ["rehearsed", "thawed", "unprepared"],
+    "type": "scenario_conversation"
+}
+
+
+
+=== Original (English) ===
+
+raw: 
+{
+    "conversation": [
+        {"role": "Character 1", "content": "[commanding] I've reviewed the property acquisition documents and your, [dismissive], shelter is the only thing preventing construction of my new, [cold], military training facility."},
+        {"role": "Character 2", "content": "[startled] Um, I wasn't expecting, well, you to come here personally since, [nervous], your people usually just send, um, eviction notices or, [shaking], worse."},
+        {"role": "Character 1", "content": "[rehearsed] The demolition crew arrives at dawn tomorrow so you have, [checking watch], exactly fourteen hours to relocate these, [distasteful], animals to wherever it is that, [impatient], unwanted creatures go."},
+        {"role": "Character 2", "content": "[desperate] These aren't just unwanted creatures, they're living beings who've been, [passionate], abandoned and abused and need our protection."},
+        {"role": "Character 1", "content": "Protection is a luxury this city can't, [harsh], afford when we're surrounded by enemies who would, [calculating], exploit any weakness including, [sneering], sentimental attachments to stray dogs."},
+        {"role": "Character 2", "content": "[defiant] Would you like to meet them before you, [bitter], destroy the only home they've ever, [breaking], known?"},
+        {"role": "Character 1", "content": "[scoffing] I don't have time for, um, emotional manipulation tactics but, [hesitant], I suppose a brief inspection would, well, ensure there's nothing of, [trailing off], strategic value here anyway."},
+        {"role": "Character 2", "content": "This old German Shepherd here, um, he's been with us for, [gentle], six years because nobody wants a, well, scarred military dog with, [sad], only three legs anymore, you know."},
+        {"role": "Character 1", "content": "That scar pattern on his shoulder looks exactly like, [stunned], wait that can't be right."},
+        {"role": "Character 2", "content": "[confused] He came to us with a collar that said Rex but no other, [curious], information except that he'd been, [quiet], abandoned at a checkpoint."},
+        {"role": "Character 1", "content": "Rex was my father's dog before he, [voice cracking], before the revolution took everything and I had to, [hollow], become someone else entirely."},
+        {"role": "Character 2", "content": "[softly] Well, um, he still responds to certain military commands in, [thoughtful], the old dialect that nobody uses anymore which, I mean, [realizing], makes sense now if he was, um, your family's dog."},
+        {"role": "Character 1", "content": "[thawed] He used to sleep at the foot of my bed and, [nostalgic], guard me from nightmares that eventually, [darkening], became my reality."},
+        {"role": "Character 2", "content": "[carefully] Um, you could take him with you since, [hopeful], he's technically yours and maybe, well, [tentative], reconsider the demolition since we have, um, forty other animals with, [pleading], nowhere else to go."},
+        {"role": "Character 1", "content": "[conflicted] I can't be seen as, well, weak or sentimental but, [struggling], perhaps the facility could be, um, relocated to the industrial district instead. [long pause]"},
+        {"role": "Character 2", "content": "[stunned] The industrial district would actually be, [excited], perfect for training exercises while these animals keep their, [grateful], home and Rex could visit whenever, [emotional], you need him. [voice breaking]"},
+        {"role": "Character 1", "content": "My security detail will think I've gone, [defensive], soft but Rex deserves better than what, [resolved], this world made me become. [sighs heavily]"},
+        {"role": "Character 2", "content": "[gentle] Sometimes the hardest thing is letting ourselves, [understanding], remember who we were before the world, [wise], forced us to armor our hearts."},
+        {"role": "Character 1", "content": "[quiet] Tell no one about this visit or, um, about Rex but, [firm], expect the demolition order to be, well, mysteriously lost in bureaucracy and, [softening], maybe I'll return next week to, um, check on him."},
+        {"role": "Character 2", "content": "Your secret's safe."
+    ],
+    "scenario": "A tyrant visits the animal shelter manager whose facility is the last building standing in the way of their new military compound, but discovers their own childhood dog is among the animals there.",
+    "selected_tones": ["rehearsed", "thawed", "unprepared"],
+    "type": "scenario_conversation"
+}
+
+

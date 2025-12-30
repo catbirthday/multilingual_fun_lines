@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Necesito—espera no, déjame—eh, mi batidora se ha roto y de verdad, eh, necesito ayuda aquí."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale entonces, eh, puedo ayudarte con eso sin problema. Déjame solo, eh, buscar tu cuenta aquí—¿tienes por casualidad tu número de pedido o, esto, maybe the email you used?"
+        },
+        {
+            "role": "Customer",
+            "content": "Es eh—espera—no espera lo tenía—sarah punto chen arroba gmail?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfecto, lo tengo. Entonces básicamente estoy viendo, eh, pedido número ORD-4923-BK aquí del 15 de octubre, y eh, es el modelo NutriBurst 3000, ¿verdad? Entonces como, ¿cuándo exactamente, esto, dejó de funcionar?"
+        },
+        {
+            "role": "Customer",
+            "content": "¡Ayer! Justo antes—no actually it was Tuesday—eh, haciendo el batido especial de mi madre para su quimio y simplemente, eh, murió."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Joder tío. Vale entonces, eh, esto es lo que voy a hacer. Tu pedido todavía está en garantía—el ID de transacción TXN882749302 muestra, eh, you've got coverage till next October. Entonces básicamente podemos, esto, procesar ese reembolso ahora mismo."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Espera en serio? ¿Así como—puedes simplemente—eh, así de rápido?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutamente."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, perdona es que—vaya vale—eh, ¿estás siendo tan majo con esto?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entonces mira, eh, llevo haciendo esto 8 años, ¿vale? Y como, cuando alguien menciona batidos para quimio, eso es, eh, eso es prioridad. Tu confirmación de reembolso es, esto, RFD-7263-QM y básicamente verás los fondos en, eh, 3 a 5 días laborables."
+        },
+        {
+            "role": "Customer",
+            "content": "Dios mío podría—espera puedo—¿es raro si digo gracias como 50 veces?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Para nada raro. Entonces, eh, entre tú y yo? También estoy, eh, enviándote un código de cupón—BLN25CARE—that's twenty-five percent off your next blender. Solo, ya sabes, cuando estés listo."
+        },
+        {
+            "role": "Customer",
+            "content": "Para vas a hacer que—voy a—eh, llorar. Like I'm actually going to cry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oye tranquilo tío. Eh, entonces solo para confirmar todo—tu número de caso es CS-9847-TL22 y, eh, you'll get an email with all these details en, esto, unos 5 minutos, ¿vale?"
+        },
+        {
+            "role": "Customer",
+            "content": "¿Sabes qué? Acabas de—no espera—eh, hacer mi semana horrible mucho mejor."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entonces eso es, eh, para eso estamos aquí. ¿Hay, eh, algo más con lo que pueda ayudarte hoy? Ah y esto, just so you know, el tracking de la etiqueta de devolución es RTN-5539-XP41."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, actually wait—sí—¿cómo puedo, eh, dejarte la mejor reseña del mundo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Ah! Entonces, eh, recibirás un enlace de encuesta y, esto, mi ID de representante es REP-JM-8847 si quieres, eh, mencionarme específicamente. Pero honestamente? Solo, como, saber que tu madre va a tener sus batidos—that's the good stuff right there."
+        },
+        {
+            "role": "Customer",
+            "content": "Jason de—espera eres tú ¿verdad?—eh, Jason eres literalmente el mejor ser humano."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right back at you, Sarah. Entonces, eh, cuídate y cuida a tu madre, ¿vale? Y esto, tu email de confirmación para el caso CS-9847-TL22 debería estar, eh, llegando a tu bandeja de entrada justo... ahora."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need—wait no, let me just—um, my blender broke and I really, uh, really need help here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I can definitely help with that. Let me just, uh, pull up your account here—do you happen to have your order number or, er, maybe the email you used?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's um—hold on—no wait I had it—sarah dot chen at gmail?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, perfect. So basically I'm seeing, um, order number ORD-4923-BK here from October 15th, and uh, that's the NutriBurst 3000 model, right? So like, when exactly did it, er, stop working?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yesterday! Right before—no actually Tuesday—um, making my mom's special smoothie for her chemo and it just, uh, died."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man. Okay so, um, here's what I'm gonna do. Your order's still under warranty—transaction ID TXN882749302 shows, uh, you've got coverage till next October. So basically we can, er, process that refund right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? Just like—you can just—um, that fast?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, sorry I'm just—wow okay—uh, you're actually being so nice about this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So look, um, I've been doing this eight years, right? And like, when someone mentions chemo smoothies, that's, uh, that's priority. Your refund confirmation is, er, RFD-7263-QM and basically you'll see the funds in, um, three to five business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god I could—wait can I—is it weird if I say thank you like fifty times?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not weird at all. So, um, between you and me? I'm also, uh, sending you a coupon code—BLN25CARE—that's, er, twenty-five percent off your next blender. Just, you know, when you're ready."
+        },
+        {
+            "role": "Customer",
+            "content": "Stop you're gonna—I'm gonna—um, cry. Like actually cry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no worries. Um, so just to confirm everything—your case number is CS-9847-TL22 and, uh, you'll get an email with all these details in, er, about five minutes, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "You know what? You just—no wait—um, made my whole terrible week better."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So that's, um, that's really what we're here for. Is there, uh, anything else I can help with today? Oh and er, just so you know, return label tracking is RTN-5539-XP41."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, actually wait—yes—how do I, uh, leave you like the best review ever?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! So, um, you'll get a survey link and, er, my rep ID is REP-JM-8847 if you want to, uh, mention me specifically. But honestly? Just, like, knowing your mom's gonna get her smoothies—that's, um, that's the good stuff right there."
+        },
+        {
+            "role": "Customer",
+            "content": "Jason from—wait that's you right—um, Jason you're literally the best human."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right back at you, Sarah. So, um, take care of yourself and your mom, okay? And er, your confirmation email for case CS-9847-TL22 should be, uh, hitting your inbox right about... now."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "755428e3_script.json",
+    "scenario": "requesting a refund for a defective product",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "desperate_pleading",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "hedge_words",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

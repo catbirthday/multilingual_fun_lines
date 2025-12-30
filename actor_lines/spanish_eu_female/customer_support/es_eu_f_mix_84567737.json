@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Mira, estoy llamando por mi nómina, me han quitado 40 euros por algo que pone MED-ADJ, and I don't even know what that is."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Ah! Vale vale, entonces eh, déjame que, eh, abra tu cuenta aquí y podemos, eh, resolverlo todo juntas. ¿Me puedes dar tu ID de empleada para que pueda, eh, ver qué pasa con esa deducción?"
+        },
+        {
+            "role": "Customer",
+            "content": "Es 4487, y necesito esto arreglado rápido porque el alquiler vence el viernes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Perfecto! Entonces estoy mirando el ID de empleada EMP-4487-DW y puedo ver—¡oh! Esto es, esto es interesante la verdad. El código MED-ADJ, está apareciendo como un ajuste médico del lote de nóminas PAY-11052024-B, and it looks like there might be something off here."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, entonces como, ¿me puedes, eh, decir si voy a recuperar mis 40 euros o, eh, no? Because I really can't afford this right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Por supuesto, sí sí! Lo que estoy viendo aquí es que el sistema ha procesado dos veces un ajuste de prima sanitaria, ID de transacción TXN-889214-MED, which shouldn't have happened since you're on our basic plan BAS-2024-A."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Procesado dos veces? ¿Entonces están cogiendo dinero que no deberían coger?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Exacto! Ah esto es, eh, como uno de esos casos donde, eh, el sistema simplemente, eh, tuvo un fallo básicamente. So your regular premium is 20 euros, pero te ha, eh, cobrado dos veces, creando esa deducción MED-ADJ de 40 euros."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, vale entonces, eh, ¿cuánto tiempo hasta que lo recupere? Porque como he dicho, eh, el alquiler y todo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro claro, ¡lo entiendo totalmente! Entonces esto es lo que estoy haciendo—estoy enviando el formulario de corrección COR-7829-PAYROLL ahora mismo, and typically these process within 24 to 48 hours, pero déjame ver si puedo acelerarlo para ti."
+        },
+        {
+            "role": "Customer",
+            "content": "24 a 48 horas, eso es... cómo se dice... eso es muy justo de tiempo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Ay espera espera! Acabo de, acabo de encontrar algo mejor todavía. Como ha sido nuestro error, I can actually flag this with priority code PRI-URGENT-5, which means it'll be in your account by end of business tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, ¿mañana como, eh, jueves? Eso sí, eh, eso sí que funcionaría."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Sí! Jueves, absolutamente. Entonces eh, estoy procesando la corrección ahora con, eh, número de referencia REF-20241106-4487, and you should see that 40 euros credited back to your account by 5 PM tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Y esto no volverá a pasar en la próxima nómina?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡No no, definitivamente no! También estoy, eh, añadiendo una nota aquí, eh, número de caso CSE-445892, that permanently fixes the coding issue, así que esto no se repetirá en tu próximo cheque."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, vale entonces, eh, ¿solo espero? Como que eso es, eh, eso es todo lo que necesito hacer?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Eso es! Ah actually—una cosa más que puedo hacer por ti. Estoy enviando un email de confirmación ECN-7744829-CONF a tu dirección registrada, which will have all these reference numbers and show the credit pending status."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale bien, porque si esto no se procesa, básicamente estoy jodida para el alquiler."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Se procesará, te lo prometo! He comprobado todo tres veces aquí—la corrección REF-20241106-4487 está confirmada, y eh, if for any reason there's an issue, eh, puedes volver a llamar con ese número de referencia y, eh, cualquier supervisora puede ver instantáneamente lo que hicimos hoy y procesarlo manualmente. Pero honestamente, ¡ya ya está todo listo!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look I'm calling about my check, they took out forty bucks for something called MED-ADJ and I don't even know what that is."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay okay, so um, let me just, uh, pull up your account here and we can, um, totally figure this out together. Can you give me your employee ID so I can, uh, see what's happening with that deduction?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 4487, and I really need this fixed fast because rent's due Friday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So I'm looking at employee ID EMP-4487-DW and I can see—oh! This is, this is interesting actually. The MED-ADJ code, that's showing up as a medical adjustment from payroll batch PAY-11052024-B, and it looks like there might be something off here."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, can you just, uh, tell me if I'm getting my forty dollars back or, um, not? Because I really can't afford this right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, yes yes! So what I'm seeing here is that the system double-processed a healthcare premium adjustment, transaction ID TXN-889214-MED, which shouldn't have happened since you're on our basic plan BAS-2024-A."
+        },
+        {
+            "role": "Customer",
+            "content": "Double-processed? So they're taking money they shouldn't be taking?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! Oh this is, um, like one of those cases where, uh, the system just, um, hiccupped basically. So your regular premium is twenty dollars but it, uh, charged you twice, creating that forty dollar MED-ADJ deduction."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so, uh, how long until I get it back? Because like I said, uh, rent and everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, totally understand! So here's what I'm doing—I'm submitting correction form COR-7829-PAYROLL right now, and typically these process within twenty-four to forty-eight hours, but let me see if I can expedite this for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-four to forty-eight hours, that's... what's the word... that's cutting it really close."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wait wait! I just, I just found something even better. Since this was our error, I can actually flag this with priority code PRI-URGENT-5, which means it'll be in your account by end of business tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "Er, tomorrow like, um, Thursday? That would, uh, that would actually work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! Thursday, absolutely. So um, I'm putting through the correction now with, uh, reference number REF-20241106-4487, and you should, um, see that forty dollars credited back to your account by five PM tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "And this won't happen again next paycheck?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nope nope, definitely not! I'm also, um, adding a note here, uh, case number CSE-445892, that permanently fixes the, um, the coding issue so this won't repeat on your next check."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, alright so, uh, I just wait then? Like that's, um, that's all I need to do?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's it! Oh actually—one more thing I can do for you. I'm sending confirmation email ECN-7744829-CONF to your address on file, which will have all these reference numbers and show the credit pending status."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay good, because if this doesn't go through I'm basically screwed for rent."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It'll go through, I promise! I've triple-checked everything here—correction REF-20241106-4487 is locked in, and um, if for any reason there's an issue, uh, you can call back with that reference number and, um, any supervisor can instantly see what we did today and push it through manually. But honestly, you're you're all set!"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "84567737_script.json",
+    "scenario": "dishwasher, nervous about questioning a deduction on his already small paycheck",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "frustrated_impatient",
+                "exhausted_worn"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "triumphant_problem_solver",
+                "cheerfully_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

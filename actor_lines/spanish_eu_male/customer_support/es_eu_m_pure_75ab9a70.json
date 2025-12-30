@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Escucha. Necesito que arregles esto. Ya. Hay un cargo. Ochocientos euros. Mi cuenta del equipo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, em, vale, entonces déjeme que, eh, busque su cuenta aquí y, bueno, definitivamente puedo ayudarle con ese cargo disputado, así que básicamente lo que voy a necesitar es, em, ¿su número de cuenta si lo tiene?"
+        },
+        {
+            "role": "Customer",
+            "content": "No tengo—espera, en realidad—déjame mirar. No. No lo tengo. Esto es urgente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No pasa nada, así que, em, no se preocupe en absoluto, puedo, eh, buscarlo de otra manera... así que, lo que voy a hacer es, em, buscar por su nombre y, eh, el nombre del equipo si le parece bien?"
+        },
+        {
+            "role": "Customer",
+            "content": "Entrenador Williams. Riverside Athletics. El cargo. Ayer por la mañana. Completamente no autorizado."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale, entonces, em, estoy viendo aquí... vale, así que básicamente hay una cuenta RVR-8847-ATH y, eh, puedo ver el cargo del que habla, está, em, apareciendo como ochocientos y... déjeme solo..."
+        },
+        {
+            "role": "Customer",
+            "content": "¡Sí! ¡Ese! Pero yo—no, espera—nunca autorizamos eso. Cuotas del torneo. Ya pagadas. Esto está, em, esto está destrozando nuestro presupuesto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entiendo perfectamente su preocupación, y entonces lo que voy a hacer es guiarle paso a paso, ¿vale? Así que primero, estoy marcando esta transacción TRX-20241127-WB como disputada, y luego vamos a..."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Cuánto tiempo? Porque, em, las regionales son la semana que viene. Pedido de equipamiento. Pendiente. No podemos tener fondos congelados."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entonces, em, esto es lo que puedo hacer para acelerar esto... Estoy aplicando un crédito provisional ahora mismo usando el código PRC-8829-X, lo que significa, eh, básicamente que los fondos estarán disponibles mientras investigamos, y eso debería aparecer en..."
+        },
+        {
+            "role": "Customer",
+            "content": "Espera—¿provisional? ¿Eso es temporal? No no no. Necesito—en realidad—em, necesito esto permanente. Eliminado. Arreglado."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, déjeme que le explique cómo funciona esto... El crédito provisional ocurre inmediatamente, bueno, en dos horas en realidad, y luego nuestro equipo de disputas revisa todo con el número de caso DSP-447231-R, normalmente tarda unos..."
+        },
+        {
+            "role": "Customer",
+            "content": "¡¿Dos horas?! Em, eso en realidad, eh, eso podría funcionar. El proveedor del equipamiento. Cierra a las cinco. Podríamos, em, podríamos conseguirlo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfecto, y entonces lo que también estoy haciendo aquí es... marcándolo como prioritario debido a su próximo torneo, lo que significa que en lugar de los cinco a siete días habituales, estamos hablando de..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Oh, vaya. Estás—em, eso es realmente, eh, muy útil. Estaba tan, em, estresado por esto. Gracias."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Por supuesto! Entonces, básicamente llevo años haciendo esto y, em, sé lo estresantes que pueden ser estas situaciones, especialmente con, eh, ya sabe, eventos del equipo próximos... Déjeme añadir una cosa más aquí..."
+        },
+        {
+            "role": "Customer",
+            "content": "El número de referencia. ¿Cuál es el, em, cuál es el número? Para mis archivos. Y, eh, mi director deportivo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto, así que su referencia principal es DSP-447231-R como le mencioné, y, em, también le voy a dar un código de escalada directo ESC-9901-TP si necesita hacer seguimiento, y básicamente si algo no aparece en dos horas..."
+        },
+        {
+            "role": "Customer",
+            "content": "Esto es, em, esto es increíble. En serio. Acabas de, eh, acabas de salvar nuestro torneo. Los chicos. Han trabajado tan duro."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, me alegro tanto de oír eso, y, em, ¿sabe qué? También estoy añadiendo una nota aquí con bandera de prioridad PRF-3384-A así que si vuelve a llamar, cualquiera verá que esto es urgente... Su equipo está listo, y, eh, ¡mucha suerte en las regionales!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Listen. I need this fixed. Now. There's a charge. Eight hundred dollars. My team account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, okay so let me just, uh, pull up your account here and, hmm, I can definitely help you with that disputed charge, so basically what I'll need is, um, your account number if you have it?"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't—wait, actually—let me check. No. Don't have it. This is urgent."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's totally fine, so, um, no worries at all, I can, uh, look it up another way... so like, what I'll do is, um, search by your name and, uh, the team name if that's okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Coach Williams. Riverside Athletics. The charge. Yesterday morning. Completely unauthorized."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, so, um, I'm seeing here... okay so basically there's an account RVR-8847-ATH and, uh, I can see the charge you're talking about, it's, um, showing as eight hundred and... let me just..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! That one! But I—no wait—we never authorized that. Tournament fees. Already paid. This is, um, this is killing our budget."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern, and so what I'm going to do is walk you through this step by step, okay? So first, I'm marking this transaction TRX-20241127-WB as disputed, and then we'll..."
+        },
+        {
+            "role": "Customer",
+            "content": "How long? Because, um, regionals are next week. Equipment order. Pending. Can't have frozen funds."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, here's what I can do to expedite this... I'm applying a provisional credit right now using code PRC-8829-X, which means, uh, basically the funds will be available while we investigate, and that should post within..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait—provisional? That's temporary? No no no. I need—actually—um, I need this permanent. Gone. Fixed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so let me explain how this works... The provisional credit happens immediately, well, within two hours actually, and then our dispute team reviews everything with case number DSP-447231-R, usually takes about..."
+        },
+        {
+            "role": "Customer",
+            "content": "Two hours?! Um, that's actually, uh, that could work. The equipment vendor. Closes at five. We might, um, we might make it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, and so what I'm also doing here is... flagging this as priority because of your upcoming tournament, which means instead of the usual five to seven days, we're looking at..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Oh wow. You're—um, that's actually, uh, really helpful. I was so, um, stressed about this. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! So basically I've been doing this for years and, um, I know how stressful these situations can be, especially with, uh, you know, team events coming up... Let me just add one more thing here..."
+        },
+        {
+            "role": "Customer",
+            "content": "The reference number. What's the, um, what's the number? For my records. And, uh, my athletic director."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, so your main reference is DSP-447231-R like I mentioned, and, um, I'm also giving you a direct escalation code ESC-9901-TP if you need to follow up, and basically if anything doesn't post in two hours..."
+        },
+        {
+            "role": "Customer",
+            "content": "This is, um, this is incredible. Seriously. You just, uh, you saved our tournament. The kids. They've worked so hard."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's so wonderful to hear, and, um, you know what? I'm also adding a note here with priority flag PRF-3384-A so if you call back, anyone will see this is urgent... Your team's all set, and, uh, best of luck at regionals!"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "75ab9a70_script.json",
+    "scenario": "head coach, authoritative and expecting the disputed charge to be resolved immediately",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "panicked_spiral",
+                "genuinely_grateful"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "patient_teacher",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "trailing_off",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

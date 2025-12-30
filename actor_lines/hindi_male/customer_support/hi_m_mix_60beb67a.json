@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "देखो, मुझे... क्या शब्द है... अपने account के साथ कुछ जल्दी resolve करना है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ओह, ओह बिल्कुल! उम, मैं बस—बस आपका account यहाँ खोलता हूँ, और उह, मुझे आपका account number चाहिए, या या अगर आपके पास email है तो वो—वो बिल्कुल ठीक है, जो भी आपके लिए आसान हो!"
+        },
+        {
+            "role": "Customer",
+            "content": "उम, वो है... उह... j.martinez at, उम, techflow dot com।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "परफेक्ट परफेक्ट, ठीक है तो मेरे पास आप यहाँ हैं, उम, account number ACC-7749-QM22, और उह, मैं देख सकता हूँ कि आप हमारे साथ—अरे वाह—4 साल से हैं! That's that's wonderful! तो उम, आज मैं आपकी क्या मदद कर सकता हूँ?"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ, 4 साल। पहले कभी कोई समस्या नहीं आई। But my... my service isn't working properly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे नहीं, मुझे मुझे बहुत खेद है यह सुनकर! मैं बस, उम, account ACC-7749-QM22 के लिए service status यहाँ चेक करता हूँ, और उह, मैं देख सकता हूँ—रुको, sorry, मैं refresh करता हूँ—ठीक है तो उम, आपके एरिया में कोई outages नहीं हैं, so let's let's figure out what's happening together, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "शायद ये... देखो, मैंने शायद... settings में कुछ बदल दिया हो।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे वो—वो बिल्कुल ठीक है! उम, असल में हर समय होता है, और उह, मैं बस आपका configuration panel यहाँ device ID DEV-3381-XX9 के लिए खोलता हूँ, and um, we'll we'll get this sorted out super quick, कोई चिंता नहीं बिल्कुल!"
+        },
+        {
+            "role": "Customer",
+            "content": "मैं 4 साल से customer हूँ। This is... embarrassing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे भगवान, नहीं नहीं नहीं, please मत—ऐसा मत सोचिए! उम, सच में? कल मेरे पास एक customer था, 10 साल से हमारे साथ, और उह, बिल्कुल same चीज़! तो मैं बस, उम, एक quick diagnostic scan DSC-449207 चलाता हूँ, and and we'll see what's what's going on here."
+        },
+        {
+            "role": "Customer",
+            "content": "क्या हम बस... ठीक कर सकते हैं? मुझे पूरी... investigation नहीं चाहिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल बिल्कुल! उम, तो मैं मैं यहाँ देख रहा हूँ कि आपकी DNS settings थीं—अरे रुको, वो तो—sorry, I mean your network preferences were modified on, उम, मुझे देखने दो... timestamp shows TSP-201124-0932, जो कल सुबह था?"
+        },
+        {
+            "role": "Customer",
+            "content": "उम, हाँ... वो... उह, वो सही लगता है। कल।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल बिल्कुल ठीक! तो उम, जो मैं करने वाला हूँ वो बस—बस उन्हें default पर reset कर दूँगा, and uh, your confirmation code for this fix is gonna be FIX-8827-RD41, और और सब कुछ normal हो जाना चाहिए लगभग, उम, 2 मिनट में?"
+        },
+        {
+            "role": "Customer",
+            "content": "2 मिनट? बस इतना? After I spent an hour trying to... whatever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं जानता हूँ मैं जानता हूँ, ये ये frustrating है! लेकिन उम, सच में आपने सही काम किया हमें call करके, and uh, I've added a note to your account NTE-5509-K कि आप हमारे valued long-term customers में से एक हैं, तो तो अगली बार बस इसका reference दीजिए और हम आपको prioritize करेंगे!"
+        },
+        {
+            "role": "Customer",
+            "content": "उह, well... मेरा मतलब... क्या अब काम कर रहा है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं बस—बस double check करता हूँ यहाँ, उम, verification VRF-229847 चला रहा हूँ और... हाँ हाँ हाँ! सब सब green lights हैं! Your service is is fully restored, और उम, मैंने आपके account में $15 credit भी कर दिए हैं inconvenience के लिए, credit ID CRD-1165-ZM।"
+        },
+        {
+            "role": "Customer",
+            "content": "ओह। आपको करने की ज़रूरत नहीं थी... I mean, it was my fault."
+        },
+        {
+            "role": "Customer Support",
+            "content": "नहीं नहीं, ये—ये तो हम यहाँ इसीलिए हैं! उम, और आपके और मेरे बीच की बात? 4 साल हमारे साथ रहने के बाद, you you definitely deserve it. क्या कुछ, उह, और है जिसमें मैं आज मदद कर सकता हूँ, या या हम सब set हैं?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I need to... what's the word... resolve something with my account quickly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, oh absolutely! Um, let me just—just pull up your account here, and uh, I'll need your account number, or or if you have your email that's—that's totally fine too, whatever's easier for you!"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it's... uh... j.martinez at, um, techflow dot com."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, okay so I've got you here, um, account number ACC-7749-QM22, and uh, I can see you've been with us for—oh wow—for four years! That's that's wonderful! So um, what can I help you with today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, four years. Never had issues before. But my... my service isn't working properly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm I'm so sorry to hear that! Let me just, um, check the service status for account ACC-7749-QM22 here, and uh, I can see—wait, sorry, let me refresh—okay so um, there's no outages in your area, so let's let's figure out what's happening together, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's probably... look, I might've... changed something in the settings."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's—that's totally fine! Um, happens all the time actually, and uh, let me just pull up your configuration panel here for device ID DEV-3381-XX9, and um, we'll we'll get this sorted out super quick, no worries at all!"
+        },
+        {
+            "role": "Customer",
+            "content": "I've been a customer for four years. This is... embarrassing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, no no no, please don't—don't feel that way! Um, honestly? I had a customer yesterday, been with us for ten years, and uh, same exact thing! So let me just, um, run a quick diagnostic scan DSC-449207, and and we'll see what's what's going on here."
+        },
+        {
+            "role": "Customer",
+            "content": "Can we just... fix it? I don't need the whole... investigation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course of course! Um, so I'm I'm seeing here that your DNS settings were—oh wait, that's the—sorry, I mean your network preferences were modified on, um, let me see... timestamp shows TSP-201124-0932, which was yesterday morning?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah... that's... uh, that sounds about right. Yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally totally fine! So um, what I'm gonna do is just—just reset those to default, and uh, your confirmation code for this fix is gonna be FIX-8827-RD41, and and everything should be back to normal in about, um, two minutes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Two minutes? That's it? After I spent an hour trying to... whatever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know I know, it's it's frustrating! But um, honestly you did the right thing calling us, and uh, I've added a note to your account NTE-5509-K that you're one of our valued long-term customers, so so next time just reference that and we'll prioritize you!"
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, well... I mean... is it working now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me just—just double check here, um, running verification VRF-229847 and... yes yes yes! It's all all green lights! Your service is is fully restored, and um, I've also credited your account $15 for the inconvenience, credit ID CRD-1165-ZM."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. You didn't have to... I mean, it was my fault."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, that's—that's what we're here for! Um, and between you and me? After four years with us, you you definitely deserve it. Is there, uh, anything else I can help with today, or or are we all set?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "60beb67a_script.json",
+    "scenario": "embarrassed because they think they might have caused the problem themselves",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "frustrated_impatient",
+                "indignant_righteous"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "genuinely_warm",
+                "nervously_thorough"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

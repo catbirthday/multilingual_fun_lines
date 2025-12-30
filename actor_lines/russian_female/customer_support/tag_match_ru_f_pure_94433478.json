@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Эм, привет, да, я звоню по поводу... как это называется... оптовых цен. На OEM-запчасти."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ой, эм, так ладно—сейчас я только—открываю наш каталог запчастей и, э, простите, но мне нужно сначала узнать номер вашего аккаунта, если, эм, если можно?"
+        },
+        {
+            "role": "Customer",
+            "content": "ACC-7741-R. Ремонтирую стиралки. Двадцать лет."
+        },
+        {
+            "role": "Customer Support",
+            "content": "[выдыхает] Так, хорошо, ACC-7741-R и я вижу, что вы, эм, числитесь как сертифицированный мастер, что—в смысле это отлично—так для оптовых цен мне нужно будет, э, перевести вас в отдел оптовых продаж?"
+        },
+        {
+            "role": "Customer",
+            "content": "Нет нет нет. Уже пробовала. Они не... как это... не сверяют артикулы."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ой, мне—мне правда жаль, эм, дело в том—стойте, вообще-то—вы ищете запчасти для конкретных моделей или просто, э, общий ассортимент?"
+        },
+        {
+            "role": "Customer",
+            "content": "WPW10340443. Сливной насос. В списке девяносто. Оптом должен быть тридцать."
+        },
+        {
+            "role": "Customer Support",
+            "content": "[резкий вдох] Так, эм, смотрю деталь WPW10340443 и, э, вижу—ой господи, простите—показывает девяносто восемь пятьдесят и я не—в смысле, я не вижу никаких оптовых вариантов в моей системе?"
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, именно, вот в этом... в этом и проблема. Любой мастер знает. Тридцать оптом. Но вы, ребята..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Мне так, так жаль, я правда—[выдыхает]—вот если бы я могла видеть то, что видите вы, но моя система просто, эм, она не показывает эти оптовые уровни, и мне ужасно неловко, потому что я понимаю, вам же наверное нужны эти детали для ваших клиентов, да?"
+        },
+        {
+            "role": "Customer",
+            "content": "Я просто... я не могу..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Эм, стойте, дайте я—нет, вообще-то—так, а что если я, э, подам запрос на пересмотр цен? Это форма PRF-5502-A и, эм, в общем наш отдел ценообразования проверит историю вашего аккаунта?"
+        },
+        {
+            "role": "Customer",
+            "content": "Это бы... да, эм, это действительно помогло бы. Правда."
+        },
+        {
+            "role": "Customer Support",
+            "content": "[выдыхает] Ой хорошо, я—в смысле я рада, что могу хоть что-то сделать, потому что, эм, честно говоря, эти системы такие ограниченные, и я терпеть не могу, когда не могу просто, знаете, сразу дать вам правильную цену."
+        },
+        {
+            "role": "Customer",
+            "content": "Нет, это... вы стараетесь. Большинство операторов просто переводят. По кругу."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да, представляю, как это, эм, безумно раздражает, и мне очень жаль, что вас гоняют туда-сюда—так для проверки мне нужно, э, задокументировать, какие детали вы обычно заказываете оптом?"
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, сливные насосы, платы управления, эм... что ещё... дверные защёлки в основном."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Поняла, так я—дайте только—добавляю это в запрос PRF-5502-A и, эм, я правда хотела бы гарантировать, что это исправит цены, но, э, по крайней мере это дойдёт до людей, которые действительно разбираются в оптовых аккаунтах?"
+        },
+        {
+            "role": "Customer",
+            "content": "Спасибо. Правда. Это... это помогает."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Эм, пожалуйста, я просто—[выдыхает]—мне жаль, что наша система так всё усложняет, когда вы явно, знаете, профессионал, который точно знает, сколько должны стоить эти детали, и эм, вам придёт подтверждение на почту минут через десять с номером REF-8847-QM22."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, yeah, I'm calling about... what's the word... bulk pricing. For OEM parts."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, okay so—let me just—I'm pulling up our parts catalog here and, uh, I'm so sorry but I need to get your account number first if that's, um, if that's alright?"
+        },
+        {
+            "role": "Customer",
+            "content": "ACC-7741-R. I repair washers. Twenty years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "[exhales] Right, okay so ACC-7741-R and I see you're, um, listed as a certified repair technician which is—I mean that's great—so for bulk pricing I would need to, uh, transfer you to our wholesale department?"
+        },
+        {
+            "role": "Customer",
+            "content": "No no no. Already tried. They don't... what's the term... cross-reference part numbers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I'm—I'm really sorry about that, um, so the thing is—wait, actually—are you looking for specific model parts or just, uh, general inventory?"
+        },
+        {
+            "role": "Customer",
+            "content": "WPW10340443. Drain pump. Lists at ninety. Should be thirty bulk."
+        },
+        {
+            "role": "Customer Support",
+            "content": "[sharp inhale] Okay so, um, I'm looking at part WPW10340443 and, uh, I'm seeing—oh gosh I'm so sorry—it's showing ninety-eight fifty and I don't—I mean, I don't see any bulk options in my system here?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, exactly, see that's... that's the problem. Every tech knows. Thirty wholesale. But you guys..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm so, so sorry about this, I really—[exhales]—I wish I could see what you're seeing but my system just, um, it doesn't show those wholesale tiers and I feel terrible because I know you probably need these parts for your customers, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, wait, let me—no actually—okay so what if I, uh, put in a pricing review request? It's form PRF-5502-A and, um, basically our pricing team would review your account history?"
+        },
+        {
+            "role": "Customer",
+            "content": "That'd be... yeah, um, that's actually helpful. Really."
+        },
+        {
+            "role": "Customer Support",
+            "content": "[exhales] Oh good, I'm—I mean I'm glad I can at least do something here because, um, honestly these systems are so limited and I hate not being able to just, you know, give you the right price immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "No it's... you're trying. Most agents just transfer. Round and round."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, I can imagine that's, um, incredibly frustrating and I'm so sorry you've been getting the runaround—so for the review I need to, uh, document which parts you typically order in bulk?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, drain pumps, control boards, um... what else... door latches mostly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, okay so I'm—let me just—I'm adding those to request PRF-5502-A and, um, I really wish I could guarantee this will fix the pricing but, uh, at least it gets escalated to people who actually understand wholesale accounts?"
+        },
+        {
+            "role": "Customer",
+            "content": "Thanks. Really. This is... it helps."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, you're so welcome, I just—[exhales]—I'm sorry our system makes this so difficult when you're clearly, you know, a professional who knows exactly what these parts should cost, and um, you'll get an email confirmation in about ten minutes with reference number REF-8847-QM22."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "94433478_script.json",
+    "scenario": "appliance repair tech, knowledgeable and frustrated by agents who don't understand parts pricing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "genuinely_grateful",
+                "overwhelmed_shutdown"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "awkwardly_apologetic",
+                "regretfully_limited"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "breath_catches",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

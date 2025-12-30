@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I can't—someone's in my account and I just... I need help. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, um, okay okay, let me just, uh... pull up the account recovery form here and we'll get this sorted, I'm so sorry you're dealing with this, it's been such a busy morning but let's, um, let's focus on getting you back in."
+        },
+        {
+            "role": "Customer",
+            "content": "They changed everything. My password, my email... everything's gone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so, um, I'm seeing here that we'll need to verify... uh, let me just... okay so first I need your original email address that was, um, associated with the account before all this happened?"
+        },
+        {
+            "role": "Customer",
+            "content": "It was, um... sarah dot chen at... no wait, sorry, s chen 1987 at gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, s chen 1987, and, uh, hmm, the system's being a bit... okay there we go, so I'm generating a case number for you, that's gonna be CSE-4492-NM88, and um, when did you first notice the unauthorized access?"
+        },
+        {
+            "role": "Customer",
+            "content": "This morning I tried to—I couldn't log in and then... my whole business runs through there..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I have client files, invoices, I mean everything from the last five years is just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, uh, I completely understand how critical this is, and um, let me just... okay so the recovery process, it's gonna require some verification steps here, I'm seeing your account ID is USR-88254-QV, and, uh, we'll need to confirm some details."
+        },
+        {
+            "role": "Customer",
+            "content": "Whatever you need. I just—please, I can't lose all that data, I really can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Do you know how long this takes? Because I have—tomorrow there's a huge presentation..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So typically, um, the standard recovery is 24 to 48 hours but, uh, given your situation... hmm, let me see if I can... okay so there's an expedited process, reference code EXP-7731-BC, but I'll need to, um, verify three security questions first."
+        },
+        {
+            "role": "Customer",
+            "content": "I set those up so long ago, I don't even... what if I can't remember?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's okay, we have, um, backup verification methods if needed, so uh, first question here... what was the name of your first pet?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god, um... Whiskers? No wait—actually it was... Buddy. Definitely Buddy."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, that's... uh, not quite matching what I have here, but let's try the next one, um, so what street did you grow up on?"
+        },
+        {
+            "role": "Customer",
+            "content": "Look, I've been a premium member for eight years—can't you just... escalate this or something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your frustration, I really do, but, um, for security reasons I can't bypass... uh, let me offer an alternative though, we can do identity verification through document upload, that's form IDV-9924-X, and that usually processes within 2-3 hours instead of the full 24."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I can't—someone's in my account and I just... I need help. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, um, okay okay, let me just, uh... pull up the account recovery form here and we'll get this sorted, I'm so sorry you're dealing with this, it's been such a busy morning but let's, um, let's focus on getting you back in."
+        },
+        {
+            "role": "Customer",
+            "content": "They changed everything. My password, my email... everything's gone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so, um, I'm seeing here that we'll need to verify... uh, let me just... okay so first I need your original email address that was, um, associated with the account before all this happened?"
+        },
+        {
+            "role": "Customer",
+            "content": "It was, um... sarah dot chen at... no wait, sorry, s chen 1987 at gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, s chen 1987, and, uh, hmm, the system's being a bit... okay there we go, so I'm generating a case number for you, that's gonna be CSE-4492-NM88, and um, when did you first notice the unauthorized access?"
+        },
+        {
+            "role": "Customer",
+            "content": "This morning I tried to—I couldn't log in and then... my whole business runs through there..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I have client files, invoices, I mean everything from the last five years is just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, uh, I completely understand how critical this is, and um, let me just... okay so the recovery process, it's gonna require some verification steps here, I'm seeing your account ID is USR-88254-QV, and, uh, we'll need to confirm some details."
+        },
+        {
+            "role": "Customer",
+            "content": "Whatever you need. I just—please, I can't lose all that data, I really can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Do you know how long this takes? Because I have—tomorrow there's a huge presentation..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So typically, um, the standard recovery is 24 to 48 hours but, uh, given your situation... hmm, let me see if I can... okay so there's an expedited process, reference code EXP-7731-BC, but I'll need to, um, verify three security questions first."
+        },
+        {
+            "role": "Customer",
+            "content": "I set those up so long ago, I don't even... what if I can't remember?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's okay, we have, um, backup verification methods if needed, so uh, first question here... what was the name of your first pet?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god, um... Whiskers? No wait—actually it was... Buddy. Definitely Buddy."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, that's... uh, not quite matching what I have here, but let's try the next one, um, so what street did you grow up on?"
+        },
+        {
+            "role": "Customer",
+            "content": "Look, I've been a premium member for eight years—can't you just... escalate this or something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your frustration, I really do, but, um, for security reasons I can't bypass... uh, let me offer an alternative though, we can do identity verification through document upload, that's form IDV-9924-X, and that usually processes within 2-3 hours instead of the full 24."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "7184ebae_script.json",
+    "scenario": "asking for help recovering a hacked account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "desperate_pleading",
+                "demanding_entitled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts",
+                    "trailing_off",
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "slightly_frazzled",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

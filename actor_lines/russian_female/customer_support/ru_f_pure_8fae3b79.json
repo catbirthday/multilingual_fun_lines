@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Эм, так вот я я звоню потому что, э, это уже становится просто смешно, типа, мои клиенты практически бунтуют и эм, никто не получает свои кофейные подписки?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Окей так... дайте мне просто... как бы это сказать... открыть данные вашего аккаунта, и эм я вижу вы зарегистрированы как Artisan Roasters с номером аккаунта ACC-9847-RB22, это правильно?"
+        },
+        {
+            "role": "Customer",
+            "content": "Да да да, это мы, и эм, у меня типа, э, сорок злых писем только этим утром про пропавшие заказы."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так, эм, я... хм... проверяю вашу панель выполнения заказов и э, похоже что... секундочку, дайте... окей так тут партия подписочных заказов, номера SUB-3392-KL по SUB-3439-KL которые показываются как, эм, что тут написано... \"ожидают забора курьером\" уже типа, э-э, девять дней?"
+        },
+        {
+            "role": "Customer",
+            "content": "Девять дней. Конечно. Потому что зачем бы чему-то просто работать как положено, да?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Знаю, знаю, и эм, честно говоря я вижу это с, э, многими аккаунтами продавцов в последнее время, были какие-то... хм... системные проблемы с автоматическими этикетками для отправки, код ошибки ERR-50923-X постоянно выскакивает."
+        },
+        {
+            "role": "Customer",
+            "content": "Слушайте я я пытаюсь быть терпеливой но мы тут ломаем людям утренние ритуалы."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да не, полностью, в смысле, эм, я понимаю, людям нужен их кофе и э, вы отдуваетесь за то что... хм... даже не ваша вина по сути, так дайте мне, э-э, глубже покопаться в трекинг-номере TRK-882947561 тут."
+        },
+        {
+            "role": "Customer",
+            "content": "Именно, и это это не просто случайные заказы, это подписчики которые платят ежемесячно, они нам доверяют."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Абсолютно."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, дело в том что, э, я только запустила эту обжарочную шесть месяцев назад и типа, если люди начнут отменять подписки из-за этого, мне мне просто конец."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ой блин, так... окей я, эм, я открываю форму приоритетной эскалации сейчас, номер тикета ESC-7741-QP90, потому что это... да это точно требует немедленного внимания, особенно для нового бизнеса."
+        },
+        {
+            "role": "Customer",
+            "content": "Спасибо, в смысле, э, мы говорим про все мои сбережения тут, всё всё что у меня было ушло на эти обжарочные машины."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так так, вот что я, эм, сделаю... э-э... как бы это объяснить... короче я помечаю все сорок этих заказов, ID начиная с ORD-6620-AU по ORD-6659-AU для, эм, ускоренной переотправки сегодня."
+        },
+        {
+            "role": "Customer",
+            "content": "Стоп вы можете вы можете реально это сделать? Типа сегодня сегодня?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Эм, да так технически я, э, должна получить одобрение менеджера для чего-либо больше двадцати заказов но, хм, учитывая что это наша система накосячила, я просто, э-э, проведу это под кодом исключения EXC-1107-Z."
+        },
+        {
+            "role": "Customer",
+            "content": "Господи, окей окей, это буквально спасёт мой бизнес прямо сейчас."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Хорошо хорошо."
+        },
+        {
+            "role": "Customer",
+            "content": "Я я извиняюсь что язвила раньше, просто, эм, моя жена сказала что я сумасшедшая бросать работу чтобы обжаривать кофе и э, я не могу не могу доказать что она права, понимаете?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Слушайте не, в смысле, эм, я полностью понимаю, следовать за мечтой это... страшно и, э-э, если уж на то пошло, смотря на ваш показатель удержания клиентов тут, метрика MET-94.7, вы реально делаете что-то правильно, так что эм, эти сорок заказов отправятся сегодня с трекинг-префиксом TRK-9000-RUSH и, хм, мы также начисляем на ваш аккаунт три месяца платформенных сборов бесплатно, код кредита CRD-2280-MP, за неудобства."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so I'm I'm calling because, uh, this is getting ridiculous, like, my customers are basically rioting and um, nobody's getting their coffee subscriptions?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so... let me just... what's the word I'm looking for here... pull up your account details, and um I can see you're registered as Artisan Roasters with account number ACC-9847-RB22, is that correct?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah yeah yeah, that's us, and um, I've got like, uh, forty angry emails just this morning about missing orders."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right so, um, I'm... hmm... checking your fulfillment dashboard here and uh, it looks like... wait, let me... okay so there's a batch of subscription orders, reference SUB-3392-KL through SUB-3439-KL that are showing as, um, what's it saying... \"pending carrier pickup\" for like, er, nine days now?"
+        },
+        {
+            "role": "Customer",
+            "content": "Nine days. Of course. Because why would anything just work the way it's supposed to, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, and um, honestly I'm seeing this with, uh, a lot of our merchant accounts lately, there's been some... hmm... system issues with the automated shipping labels, batch code ERR-50923-X keeps popping up."
+        },
+        {
+            "role": "Customer",
+            "content": "Look I'm I'm trying to be patient here but these are people's morning routines we're messing with."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, totally, I mean, um, I get it, people need their coffee and uh, you're taking the heat for something that's... hmm... not even your fault really, so let me, er, dig deeper into tracking number TRK-882947561 here."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly, and it's it's not just random orders, these are subscribers who pay monthly, they trust us."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, the thing is, uh, I just launched this roastery six months ago and like, if people start canceling subscriptions because of this, I'm I'm basically done."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, so... okay I'm, um, I'm pulling up the priority escalation form now, ticket number ESC-7741-QP90, because this is... yeah this definitely needs immediate attention, especially for a new business."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you, I mean, uh, we're talking about my entire savings here, everything everything I had went into those roasting machines."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so um, what I'm gonna do is... er... how do I explain this... basically I'm flagging all forty of those orders, IDs starting with ORD-6620-AU through ORD-6659-AU for, um, expedited reshipment today."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait you can you can actually do that? Like today today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, yeah so technically I'm, uh, supposed to get manager approval for anything over twenty orders but, hmm, seeing as it's our system that messed up, I'm just gonna, er, process it under exception code EXC-1107-Z."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god, okay okay, that would literally save my business right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good good."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm I'm sorry for being snarky earlier, it's just, um, my wife said I was crazy for leaving my job to roast coffee and uh, I can't can't prove her right, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no, I mean, um, I totally get it, chasing your dream is... it's scary and, er, for what it's worth, looking at your customer retention rate here, metric score MET-94.7, you're actually doing something right, so um, these forty orders will ship today with tracking prefix TRK-9000-RUSH and, hmm, we're also crediting your account three months of platform fees, credit code CRD-2280-MP, for the inconvenience."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "8fae3b79_script.json",
+    "scenario": "coffee roaster, dealing with complaints from customers who never received their subscription orders",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "annoyed_sarcastic",
+                "vulnerable_trusting"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "burned_out_but_trying",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

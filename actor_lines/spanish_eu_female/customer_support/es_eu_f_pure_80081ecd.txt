@@ -1,0 +1,92 @@
+=== Source: 80081ecd_script.json ===
+Language: European Spanish
+Gender: female
+Mode: pure
+Content Type: customer_support
+Scenario: complaining about hidden fees not disclosed at signup
+
+=== Translated Dialogue ===
+
+Customer [pure]: Mira, estoy estoy viendo cargos en mi factura que nadie—nadie me mencionó cuando me di de alta.
+
+Customer Support [pure]: Uf tía sí, entiendo totalmente esa frustración, de hecho me pasó a mí el mes pasado con mi suscripción del gimnasio precisamente. Déjame consultar tu cuenta rapidito, tengo tu número de cuenta ACC-7744-BNK y puedo ver exactamente de qué se trata.
+
+Customer [pure]: Son son 29,95 por por algún tipo de, em, soporte premium? ¿Qué qué es eso siquiera?
+
+Customer Support [pure]: Vale vale, mirando la transacción TXN-445821-QV eso es el paquete mejorado de soporte técnico. ¿Sabes qué?, entre tú y yo, he tenido montones de clientes diciendo que esto no quedaba claro durante el alta y sinceramente estoy de acuerdo, la forma en que se presenta no está bien.
+
+Customer [pure]: Em, y y hay otro, eh, 15 euros por por—espera no, 16,50 por, em, ¿protección de cuenta?
+
+Customer Support [pure]: Sí sí, eso aparece como código de servicio SVC-8823-PP por mi lado. Mira lo que puedo hacer, y esto es algo que hago siempre que surge esto porque francamente nuestro proceso de registro necesita mejoras. Ambos estaban técnicamente en los términos pero tipo enterrados allá abajo en la sección 12 o algo ridículo así.
+
+Customer [pure]: Solo—solo necesito que los quites. Que los quites de mi cuenta. Ya.
+
+Customer Support [pure]: Em, por supuesto, ya estoy en ello—perdona, déjame procesarlo correctamente. Eliminando ambos cargos retroactivamente a tu fecha de inicio, eso te da un crédito CRD-9901-XK de 92,40 en total remontándome 3 meses.
+
+Customer [pure]: 3 meses. 3 meses llevo pagando esto.
+
+Customer Support [pure]: Sí y eso es culpa nuestra por no dejarlo claro. De hecho tuve una llamada similar ayer, la clienta llevaba pagando 2 años antes de darse cuenta. Me hizo revisar mi propia factura del móvil después de esa llamada. Tu referencia de reembolso es REF-2234-MNZ y llegará a tu tarjeta en 3 a 5 días.
+
+Customer [pure]: Em, entonces entonces ¿ya está? ¿Se han se han quitado? ¿Permanentemente?
+
+Customer Support [pure]: Fuera fuera permanentemente eliminados ambos servicios desactivados bajo el ticket TKT-8874-RD y estoy poniendo una nota aquí de que has rechazado explícitamente todos los servicios opcionales para que nadie intente añadirlos de nuevo más tarde porque eso pasa a veces por desgracia.
+
+Customer [pure]: Vale. Vale. Y el el reembolso, ¿ese ese está garantizado?
+
+Customer Support [pure]: Ah desde luego, ya está procesado por mi lado mostrando estado confirmado en el sistema. Em, quiero decir—perdona, lo que debería decir es que una vez que aparece REF-2234-MNZ como confirmado como el tuyo, está básicamente bloqueado, nuestro sistema no puede revertirlo aunque alguien quisiera, que no querrían.
+
+Customer [pure]: No debería tener que que llamar para esto. Esto es es transparencia. Transparencia básica.
+
+Customer Support [pure]: No, tienes toda la razón y sinceramente entre nosotras llevo meses enviando feedback sobre esto. El equipo de producto sigue diciendo que arreglarán el proceso de alta pero aquí estamos todavía recibiendo estas llamadas a diario. Tu número de caso CSE-4493-TM de hecho va directo a la cola de revisión del jefe de departamento si eso ayuda.
+
+Customer [pure]: Em, vale. Vale. Solo solo asegúrate de que que siga quitado.
+
+Customer Support [pure]: Lo estará lo estará, he bloqueado las preferencias de tu cuenta bajo el código de protección PRT-8832-CC que básicamente significa que nadie puede añadir servicios opcionales sin que llames y des confirmación verbal más una verificación de PIN, así que estás totalmente cubierta ahí.
+
+Customer [pure]: Vale vale vale. Em, supongo que eso eso es algo al menos.
+
+Customer Support [pure]: Sí y oye, para que lo sepas para futuras referencias, tu cuenta ahora está marcada con la nota NTE-7765-PQ para facturación simplificada únicamente, lo que significa que nunca verás otro cargo sorpresa y si de alguna manera algo se colara, que no pasará, pero si pasara recibirías una alerta inmediata por email antes de cualquier cobro.
+
+
+=== Original (English) ===
+
+Customer: Look, I'm I'm seeing charges on my bill that nobody—nobody told me about when I signed up.
+
+Customer Support: Oh man yeah I totally get that frustration, actually happened to me last month with my gym membership of all things. Let me pull up your account real quick here, got your account number ACC-7744-BNK and I can see exactly what we're dealing with.
+
+Customer: It's it's twenty-nine ninety-five for for some kind of, um, premium support? What what even is that?
+
+Customer Support: Right right so looking at transaction TXN-445821-QV that's the enhanced tech support package. You know what though, between you and me, I've had tons of customers say this wasn't clear during signup and honestly I agree the way it's presented isn't great.
+
+Customer: Um, and and there's another one, uh, fifteen dollars for for—wait no sixteen fifty for, um, account protection?
+
+Customer Support: Yep yep that's showing as service code SVC-8823-PP on my end. So here's what I can do, and this is something I do whenever this comes up because frankly our signup flow needs work. Both these were technically in the terms but like buried way down in section twelve or something ridiculous.
+
+Customer: I just—I just need these off. Off my account. Now.
+
+Customer Support: Um, absolutely, already on it—sorry, let me just process this correctly. Removing both fees retroactive to your start date, that's giving you credit CRD-9901-XK for ninety-two forty total going back three months.
+
+Customer: Three months. Three months I've been paying these.
+
+Customer Support: Yeah and that's on us not making it clear. Actually had a similar call yesterday, customer was paying for two years before noticing. Made me go check my own cellphone bill after that one. Your refund reference is REF-2234-MNZ and it'll hit your card in three to five days.
+
+Customer: Um, so so that's it? They're they're gone? Permanently?
+
+Customer Support: Gone gone permanently removed both services deactivated under ticket TKT-8874-RD and I'm putting a note here that you explicitly declined all optional services so no one tries to add them back later because that happens sometimes unfortunately.
+
+Customer: Right. Right. And the the refund, that's that's guaranteed?
+
+Customer Support: Oh absolutely it's already processed on my end showing status confirmed in the system. Um, I mean—sorry, what I should say is once it shows REF-2234-MNZ as confirmed like yours does, it's basically locked in, our system can't reverse it even if someone wanted to which they wouldn't.
+
+Customer: I shouldn't have to to call for this. This is is basic. Basic transparency.
+
+Customer Support: No you're completely right and honestly between us I've been pushing feedback up about this for months. The product team keeps saying they'll fix the signup flow but here we are still getting these calls daily. Your case number CSE-4493-TM is actually going straight to the department head's review queue if that helps.
+
+Customer: Um, fine. Fine. Just just make sure it it stays off.
+
+Customer Support: It will it will I've locked your account preferences under protection code PRT-8832-CC which basically means no one can add optional services without you calling in and giving verbal confirmation plus a PIN verification so you're totally covered there.
+
+Customer: Okay okay okay. Um, guess that's that's something at least.
+
+Customer Support: Yeah and hey just so you know for future reference your account's now flagged with note NTE-7765-PQ for simplified billing only which means you'll never see another surprise charge and if somehow something slips through which it won't but if it did you'd get an immediate email alert before any billing happens.
+

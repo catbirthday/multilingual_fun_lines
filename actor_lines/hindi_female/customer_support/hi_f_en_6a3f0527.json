@@ -1,0 +1,230 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, um... I'm calling about a refund that's... it's been promised twice already."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay so um let me just—er, pull up your account here real quick and uh, what's the—sorry, what's your order number or um do you have like the confirmation code maybe? Because I can, uh, search either way and we'll definitely figure this out."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I can't find the order number right now. I'm I'm a massage therapist and this was for... for my practice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all, um totally get it, so let me just—er what's your email and I'll look it up that way—oh wait actually, uh, is this for like massage equipment or supplies or something? Because we've been having, um, honestly ridiculous issues with refunds in that whole category."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Table sheets. Three hundred dollars worth."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay so um I'm pulling up—er, here we go, I see it now, transaction ID TXN-449823-ML and uh yeah this is... hmm, okay so this is embarrassing but you're totally right, there's two refund promises here from like—wait no, sorry, three actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Three? I only called twice. This is just... too much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no I know, it's um, it's honestly ridiculous and I'm really sorry about this whole—er, okay so the third one was an automatic thing when the second one failed, reference number REF-8827-QP, which um obviously didn't work either and uh that's just... yeah."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, can you just... what's the word... escalate this? I really really need this money back."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, um yes, so here's what I'm gonna do—and er actually you know what? No, we're fixing this today, like I'm putting in an override code OVR-6634-TK right now and um basically I'm marking this as priority-critical which means it has to process within 24 hours or my supervisor gets an alert."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... that's what they said last time though. I just... I don't know anymore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, yeah I can see here—wait they used code STD-3392-R which is just standard processing, that's why it got stuck, but um with the override I'm doing, it literally can't fail unless like our entire system crashes."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, you know what? You actually sound like... like you get it. The others didn't."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? Um I used to work retail before this and er had a vendor not refund me for like two months once, so I totally—uh, totally get how frustrating this is, and actually your case number CSE-7701-MX now has my direct extension attached so if anything goes wrong you call back and ask for me specifically."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so um... sorry, I'm just... trying to process. Twenty-four hours for sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah for sure, um and actually—er, you know what, let me also add a courtesy credit, code CRD-5589-PL, for the inconvenience because three failed refunds is just—I mean that's on us, that's ridiculous."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... really nice. I actually um, have clients tomorrow who... who prepaid and I need to order supplies."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh perfect timing then—so um the refund hits your account tomorrow by 3PM, confirmation RFD-9923-XK, and er the courtesy credit of fifty dollars processes immediately so you should actually see that within like an hour."
+        },
+        {
+            "role": "Customer",
+            "content": "You're you're actually fixing this. Thank you. I mean... really, thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no problem at all, and um seriously if there's any issue—which there won't be but just in case—my extension is 4782 and er just ask for Dana, I'll make sure this gets sorted because yeah, massage therapists literally help people feel better so the least we can do is not make your life harder, you know?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, um... I'm calling about a refund that's... it's been promised twice already."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay so um let me just—er, pull up your account here real quick and uh, what's the—sorry, what's your order number or um do you have like the confirmation code maybe? Because I can, uh, search either way and we'll definitely figure this out."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I can't find the order number right now. I'm I'm a massage therapist and this was for... for my practice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all, um totally get it, so let me just—er what's your email and I'll look it up that way—oh wait actually, uh, is this for like massage equipment or supplies or something? Because we've been having, um, honestly ridiculous issues with refunds in that whole category."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Table sheets. Three hundred dollars worth."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay so um I'm pulling up—er, here we go, I see it now, transaction ID TXN-449823-ML and uh yeah this is... hmm, okay so this is embarrassing but you're totally right, there's two refund promises here from like—wait no, sorry, three actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Three? I only called twice. This is just... too much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no I know, it's um, it's honestly ridiculous and I'm really sorry about this whole—er, okay so the third one was an automatic thing when the second one failed, reference number REF-8827-QP, which um obviously didn't work either and uh that's just... yeah."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, can you just... what's the word... escalate this? I really really need this money back."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, um yes, so here's what I'm gonna do—and er actually you know what? No, we're fixing this today, like I'm putting in an override code OVR-6634-TK right now and um basically I'm marking this as priority-critical which means it has to process within 24 hours or my supervisor gets an alert."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... that's what they said last time though. I just... I don't know anymore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, yeah I can see here—wait they used code STD-3392-R which is just standard processing, that's why it got stuck, but um with the override I'm doing, it literally can't fail unless like our entire system crashes."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, you know what? You actually sound like... like you get it. The others didn't."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? Um I used to work retail before this and er had a vendor not refund me for like two months once, so I totally—uh, totally get how frustrating this is, and actually your case number CSE-7701-MX now has my direct extension attached so if anything goes wrong you call back and ask for me specifically."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so um... sorry, I'm just... trying to process. Twenty-four hours for sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah for sure, um and actually—er, you know what, let me also add a courtesy credit, code CRD-5589-PL, for the inconvenience because three failed refunds is just—I mean that's on us, that's ridiculous."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... really nice. I actually um, have clients tomorrow who... who prepaid and I need to order supplies."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh perfect timing then—so um the refund hits your account tomorrow by 3PM, confirmation RFD-9923-XK, and er the courtesy credit of fifty dollars processes immediately so you should actually see that within like an hour."
+        },
+        {
+            "role": "Customer",
+            "content": "You're you're actually fixing this. Thank you. I mean... really, thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no problem at all, and um seriously if there's any issue—which there won't be but just in case—my extension is 4782 and er just ask for Dana, I'll make sure this gets sorted because yeah, massage therapists literally help people feel better so the least we can do is not make your life harder, you know?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6a3f0527_script.json",
+    "scenario": "massage therapist, calm but persistent about a refund she's been promised twice already",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "overwhelmed_shutdown",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "classic_fillers",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "self_corrections",
+                    "classic_fillers",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

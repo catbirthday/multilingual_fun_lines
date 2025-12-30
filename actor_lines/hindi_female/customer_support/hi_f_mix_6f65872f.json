@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm so sorry to bother you but I'm trying to—wait, no—मेरा मतलब है, मेरा code नहीं—sorry, मुझे फिर से शुरू करने दीजिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all. मैं अभी आपका account खोलती हूं। कौन सा promo code use करने की कोशिश कर रही हैं आप?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, SAVE20, लेकिन मैं शायद बस—पता नहीं—कुछ गलत कर रही हूं, मुझे माफ करें।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "SAVE20, got it got it. तो वो actually code PRM-SAVE20-Q4 है। अभी आपका cart check कर रही हूं। Account पे कौन सा email है?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god, um, I probably typed it wrong—नहीं रुको—ये j.martinez at, उह, gmail है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Account मिल गया। ID number ACC-98234-JM7 है। तो बात ये है कि... वो code expire हो गया। कल। आधी रात को।"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh no, I'm—of course I—मैं कितनी बेवकूफ हूं, मुझे date check करनी चाहिए थी, आपका time waste करने के लिए बहुत sorry हूं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, honestly? हमारे promo emails तो एकदम बेकार हैं expiration dates दिखाने में, जैसे, वो उसे छुपा देते हैं छोटे text में नीचे, तो, उह, मैं समझ सकती हूं क्यों आपसे miss हो गया, हमेशा होता है।"
+        },
+        {
+            "role": "Customer",
+            "content": "Really? तो ये सिर्फ—मेरा मतलब है—दूसरे लोग भी ऐसा करते हैं? उम, मुझे फिर भी बहुत stupid feel हो रहा है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah yeah yeah. बिल्कुल। हमेशा। होता है। मैं बस, उम... okay तो मैं code batch BCH-7829-WINTER देख रही हूं और, हम्म, मेरे पास शायद कुछ better है अगर आप..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, you can—नहीं, मैं नहीं चाहती कि—उम, क्या आपको allowed है ये करने की?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So technically technically, उह, मुझे बस \"sorry, expired\" कहना चाहिए लेकिन, जैसे, आपके और मेरे बीच की बात? System मुझे override code OVR-25PCT-DISCRETION apply करने देता है जो actually, उम, 5 percent better है उससे जो आपके पास था।"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god, really? मैं नहीं—ये तो बहुत—sorry, मैं बस, उह, surprised हूं, मुझे लगा था मैंने पूरी तरह mess up कर दिया है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nah. आप ठीक हैं। Transaction TXN-445892301 अभी process हो रही है। आपको discount दिखना चाहिए। Applied।"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, I see it! फिर से sorry इतनी—पता नहीं—परेशान होने के लिए इस पूरी चीज़ के बारे में।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, um, our code system is is genuinely awful, जैसे, हमारे पास शायद, उह, 200 active codes हैं database DB-PROMO-2024 में और आधे तो ठीक से काम भी नहीं करते, तो..."
+        },
+        {
+            "role": "Customer",
+            "content": "That makes me feel, um, slightly less incompetent—wait no—मेरा मतलब है, thank you इतनी समझदारी से handle करने के लिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Confirmation number है CNF-20847-YAB। सब set है। और सुनिए, उह, pro tip? Text alerts के लिए sign up करिए, वो काफी better हैं..."
+        },
+        {
+            "role": "Customer",
+            "content": "I will, I definitely—actually wait—मुझे लगता है मैंने try किया था लेकिन—कोई बात नहीं, उम, मैं figure out कर लूंगी, बहुत बहुत thank you।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, if you can't get the texts working, बस, उह, वापस call करिए और reference case CSE-8829-DISC मांगिए, हम हम sort कर सकते हैं, लेकिन हाँ, अब आप set हैं, तो..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm so sorry to bother you but I'm trying to—wait, no—I mean, my code isn't—sorry, let me start over."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all. Let me. Pull up. Your account here. What's the promo code you're trying to use?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, SAVE20, but I'm probably just—I don't know—doing something wrong, I'm sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "SAVE20, got it got it. So that's that's actually code PRM-SAVE20-Q4. Checking your cart now. What's your email on the account?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god, um, I probably typed it wrong—no wait—it's j.martinez at, uh, gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Account. Located. ID number ACC-98234-JM7. So here's the thing... that code expired. Yesterday. At midnight."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh no, I'm—of course I—I'm such an idiot, I should've checked the date, I'm so sorry for wasting your time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, honestly? Our promo emails are are terrible about showing expiration dates, like, they bury it in tiny text at the bottom, so, uh, I get why you missed it, happens constantly."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? So it's not just—I mean—other people do this too? Um, I feel so stupid though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah yeah yeah. All. The. Time. Let me just, um... okay so I'm looking at code batch BCH-7829-WINTER and, hmm, I might have something better anyway if you..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, you can—no, I don't want to be—um, are you allowed to do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So technically technically, uh, I'm supposed to just say \"sorry, expired\" but, like, between you and me? System lets me apply override code OVR-25PCT-DISCRETION which is actually, um, five percent better than what you had."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god, really? I don't—that's so—sorry, I'm just, uh, surprised, I thought I'd totally messed this up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nah. You're good. Transaction TXN-445892301 processing now. Should see. The discount. Applied."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, I see it! Sorry again for being so—I don't know—flustered about this whole thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, um, our code system is is genuinely awful, like, we have probably, uh, two hundred active codes in database DB-PROMO-2024 and half of them don't even work right, so..."
+        },
+        {
+            "role": "Customer",
+            "content": "That makes me feel, um, slightly less incompetent—wait no—I mean, thank you for being so understanding."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Confirmation number. CNF-20847-YAB. All set. And hey hey, uh, pro tip? Sign up for text alerts, they're way better about..."
+        },
+        {
+            "role": "Customer",
+            "content": "I will, I definitely—actually wait—I think I tried that but—never mind, um, I'll figure it out, thank you so much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, if you can't get the texts working, just, uh, call back and ask for reference case CSE-8829-DISC, we can we can sort it out, but yeah, you're all set now, so..."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6f65872f_script.json",
+    "scenario": "asking why their promotional discount code isn't working",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "self_deprecating_fumbling"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

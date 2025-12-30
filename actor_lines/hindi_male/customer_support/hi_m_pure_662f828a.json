@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "तो मैं, अम्म, मुझे लगता है शायद कोई गड़बड़... मैं menu से निकल नहीं पाया? जैसे, शायद मेरी salary नहीं आई?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ठीक है ठीक है, अम्म, मैं definitely आपकी help कर सकता हूं, तो मैं बस, अ, आपका account खोलता हूं। आप अपनी employee ID दे सकते हैं या, अम्म, social के last चार digits?"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे, तो basically मैं press करता रहा जैसे... options ही नहीं... मुझे लगता है वो, अम्म, direct deposit होना चाहिए?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हां हां, मैं समझता हूं, वो menus कभी-कभी, अम्म, बहुत confusing हो सकते हैं। तो, अ, मुझे बस—बस पहले वो employee ID चाहिए, और फिर हम, अम्म, system PAY-7782-Q में आपके payment status को check कर सकते हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "मुझे नहीं... शायद वो, अम्म, 4-4-2... नहीं रुकिए, वो तो शायद मेरा route number है। Sorry, मैं थोड़ा..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल ठीक है, आराम से बताइए। अम्म, तो जब तक आप देख रहे हैं, मैं बता दूं—automated system, अ, वो different departments में route करता है based on, अम्म, आप क्या select करते हैं, और कभी-कभी payroll option 3 में होता है, फिर option 2, फिर option 5।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा! तो basically मैं शायद, जैसे, HR press कर रहा था? अम्म, मेरी ID शायद है... वो E-8-8-3-9 है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, E8839, मैं बस, अम्म, यहाँ देखता हूं... ठीक है ठीक है, तो मुझे आपकी profile दिख रही है, अ, database EMP-2847-K में और, हम्म, हां मैं देख रहा हूं आपकी last payment, अम्म, October 15th के लिए scheduled थी।"
+        },
+        {
+            "role": "Customer",
+            "content": "पर वो तो... मेरा मतलब, जैसे, मुझे मिली ही नहीं? और basically मेरा rent, अम्म, कल है और मैं थोड़ा..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं—मैं पूरी तरह समझ सकता हूं आप क्यों परेशान हैं, अम्म, तो मैं और गहराई से देखता हूं। मैं transaction log TXN-90234-PPR check कर रहा हूं और, अ, यहाँ दिख रहा है payment initiate हुई थी पर, अम्म, यहाँ एक flag है..."
+        },
+        {
+            "role": "Customer",
+            "content": "Flag? किस तरह का... मेरा मतलब, शायद मैंने कुछ गलत भरा? या जैसे..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "अम्म, तो basically जो हुआ है, अ, आपका direct deposit form जो, हम्म, September 28th का है, reference number REF-5571-DD, वो—वो routing number verification missing है। क्या आपने recently bank change किया या, अम्म, account update किया?"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे! हां, तो मुझे लगता है... रुकिए, मैंने वो, अम्म, office में किसी को दिया था?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ठीक है तो, अम्म, हम ये कर सकते हैं। मैं—मैं अभी emergency check process कर सकता हूं code EMG-4429-X से, और, अ, आप district office से दो घंटे में, अम्म, pick up कर सकेंगे।"
+        },
+        {
+            "role": "Customer",
+            "content": "सच में? वो... तो जैसे, आप actually ऐसा कर सकते हैं? मेरा मतलब, मुझे तो लग रहा था कोई भी..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल, हां, मैं—मैं already वो process शुरू कर रहा हूं। अम्म, तो confirmation number CNF-8892-J, और, अ, साथ ही मैं आपका direct deposit भी fix करने में help करता हूं ताकि ये, अम्म, दोबारा न हो।"
+        },
+        {
+            "role": "Customer",
+            "content": "ये तो बहुत... मेरा मतलब, thank you। Really। तो basically मैं exactly कहाँ से, अम्म, pick up करूं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "District office जो, अ, 1450 School Drive पर है, बस window B पर जाइए और उन्हें वो confirmation number CNF-8892-J दीजिए। और, अम्म, direct deposit के लिए, मैं अभी form FRM-3347-A आपके email पर भेज रहा हूं।"
+        },
+        {
+            "role": "Customer",
+            "content": "आप तो एकदम... मेरा मतलब, ये तो जैसे, मैं जितना सोच रहा था उससे कहीं बेहतर है। मैं शायद बेकार में panic कर रहा था।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "नहीं नहीं नहीं, अम्म, आपका concerned होना बिल्कुल सही था! Pay miss होना, अ, सच में stressful होता है। बस ये ध्यान रखिएगा कि, अम्म, वो form पांच दिन में हमें वापस भेज दें, और आपका next check जो, अ, October 30th का है, वो normally चला जाएगा।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I, um, I think maybe there's been some sort of... I couldn't get through the menu? Like, probably my paycheck didn't?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, um, I can definitely help you with that, so let me just, uh, pull up your account here. Can you give me your employee ID or, um, the last four digits of your social?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, so basically I kept pressing like... the options weren't... I think it's supposed to be, um, direct deposit?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I understand, those menus can be, um, really confusing sometimes. So, uh, let me just—just need that employee ID first, and then we can, um, check on your payment status in system PAY-7782-Q."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't... maybe it's, um, 4-4-2... no wait, so that's probably my route number. Sorry, I'm kind of..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's totally fine, take your time. Um, so while you're looking, let me explain—the automated system, uh, it routes to different departments based on, um, what you select, and sometimes payroll is under option 3, then option 2, then option 5."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! So basically I think I was pressing, like, HR instead? Um, my ID is probably... it's E-8-8-3-9?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, E8839, let me just, um, look that up here... okay okay, so I'm seeing your profile in, uh, database EMP-2847-K and, hmm, yeah I can see your last payment was scheduled for, um, October 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "But that's... so like, I didn't get it though? And basically my rent is, um, tomorrow and I'm sort of..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I—I completely understand why you're worried, um, so let me dig deeper here. I'm checking transaction log TXN-90234-PPR and, uh, it shows the payment was initiated but, um, there's a flag here..."
+        },
+        {
+            "role": "Customer",
+            "content": "A flag? What kind of... I mean, maybe did I fill something wrong? Or like..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, so basically what happened is, uh, your direct deposit form from, hmm, September 28th, reference number REF-5571-DD, it's—it's missing the routing number verification. Did you recently change banks or, um, update your account?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Yeah, so I think... wait, I gave that to, um, to someone in the office?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, here's what we can do. I can—I can process an emergency check right now with code EMG-4429-X, and, uh, you'd be able to pick it up at the district office, um, within two hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? That's... so like, you can actually do that? I mean, I was kind of thinking nobody would..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, yeah, I'm—I'm already starting that process. Um, so confirmation number CNF-8892-J, and, uh, while we're at it, let me help you fix the direct deposit so this doesn't, um, happen again."
+        },
+        {
+            "role": "Customer",
+            "content": "That's so... I mean, thank you. Like, really. So basically where exactly do I, um, pick it up?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The district office at, uh, 1450 School Drive, just go to window B and give them that confirmation number CNF-8892-J. And, um, for the direct deposit, I'm sending form FRM-3347-A to your email right now."
+        },
+        {
+            "role": "Customer",
+            "content": "You're sort of... I mean, this is like, way better than I thought. I was probably panicking for nothing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, um, you had every right to be concerned! Missing pay is, uh, really stressful. Just make sure to, um, get that form back to us within five days, and your next check on, uh, October 30th will go through normally."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "662f828a_script.json",
+    "scenario": "school bus driver, struggling to navigate the automated phone menu to report a missing payment",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "panicked_spiral",
+                "warming_up"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "patient_teacher",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I just, uh, I need to know about... let me see here... any changes? To my account? Before they happen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay so—um, let me just—actually wait, I totally get what you're asking. So basically, uh, you want notifications before we make any changes, right? Like, between you and me, that's actually really smart because, um, the system sometimes just... anyway, let me pull up your account here."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Exactly. Because what if— I mean, if you change something and I don't know..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So, um, looking at your account ID ACC-49821-JV here, and uh, okay so there's actually this thing we can do—not everyone knows about this—but basically I can set up what we call, um, \"change alerts\" on your profile."
+        },
+        {
+            "role": "Customer",
+            "content": "Change alerts? Hmm, but what if the alert itself... I mean, how do I know the alert will work?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So that's—okay let me just—I'm gonna be real with you here. The alerts go through, um, like three different channels? Email, text, and, uh, there's even this backup system with reference code BKP-7764-AL that basically ensures... well, at least one gets through."
+        },
+        {
+            "role": "Customer",
+            "content": "Three? But. Wait. What kind of changes are we talking about here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, so like, um, literally everything? Price changes, uh, service updates, billing date shifts, even if we, um, update your contact info—which is kinda meta when you think about it—everything gets flagged with alert code ALC-9982-MK."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... hmm... even tiny things? Like if you fix a typo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So—actually no, wait—let me clarify that. We've got, um, what we call \"material changes\" versus, uh, administrative stuff? Material changes trigger the alerts but like, fixing your name spelling or whatever... that's just housekeeping."
+        },
+        {
+            "role": "Customer",
+            "content": "I know this isn't your fault. The system. I just... I can't have surprises."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, um, honestly? I totally understand. I had my gym membership just, like, randomly double in price once? No warning, nothing. So, uh, I'm gonna make sure your preference code PRC-3847-DM is set to \"maximum notifications\" which is, um, basically our highest level."
+        },
+        {
+            "role": "Customer",
+            "content": "Maximum? That's... wait, will that be too many emails?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so—hmm, actually that's a good point—let me just... So with maximum settings, you're looking at maybe, um, three to five notices per actual change? Like, uh, \"change coming in 30 days,\" then \"7 days,\" then \"tomorrow.\""
+        },
+        {
+            "role": "Customer",
+            "content": "Um, three to five... let me see here... that could actually work? I think?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! And, um, here's the insider trick—I'm setting up filter code FLT-6623-XP so they all have, like, \"ACCOUNT CHANGE\" in the subject line? Makes them super easy to spot. Or, uh, filter to a special folder if that's your thing."
+        },
+        {
+            "role": "Customer",
+            "content": "You're being really... I mean, thank you. This helps. The panic was just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I'm just—okay, everything's set now with confirmation number CNF-8890-BK and, um, between you and me? Call back anytime you're worried. Like, we actually keep notes about these preferences so, uh, any rep can see you need the advance notice thing."
+        },
+        {
+            "role": "Customer",
+            "content": "Notes? So everyone will know I'm the anxious one who..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no! So it's not—I mean—it just says \"customer prefers advance notice for all changes.\" Nothing about, um, you know... Just that you like being informed, which honestly? That's just being responsible with your account."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I just, uh, I need to know about... let me see here... any changes? To my account? Before they happen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay so—um, let me just—actually wait, I totally get what you're asking. So basically, uh, you want notifications before we make any changes, right? Like, between you and me, that's actually really smart because, um, the system sometimes just... anyway, let me pull up your account here."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Exactly. Because what if— I mean, if you change something and I don't know..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So, um, looking at your account ID ACC-49821-JV here, and uh, okay so there's actually this thing we can do—not everyone knows about this—but basically I can set up what we call, um, \"change alerts\" on your profile."
+        },
+        {
+            "role": "Customer",
+            "content": "Change alerts? Hmm, but what if the alert itself... I mean, how do I know the alert will work?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So that's—okay let me just—I'm gonna be real with you here. The alerts go through, um, like three different channels? Email, text, and, uh, there's even this backup system with reference code BKP-7764-AL that basically ensures... well, at least one gets through."
+        },
+        {
+            "role": "Customer",
+            "content": "Three? But. Wait. What kind of changes are we talking about here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, so like, um, literally everything? Price changes, uh, service updates, billing date shifts, even if we, um, update your contact info—which is kinda meta when you think about it—everything gets flagged with alert code ALC-9982-MK."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... hmm... even tiny things? Like if you fix a typo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So—actually no, wait—let me clarify that. We've got, um, what we call \"material changes\" versus, uh, administrative stuff? Material changes trigger the alerts but like, fixing your name spelling or whatever... that's just housekeeping."
+        },
+        {
+            "role": "Customer",
+            "content": "I know this isn't your fault. The system. I just... I can't have surprises."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, um, honestly? I totally understand. I had my gym membership just, like, randomly double in price once? No warning, nothing. So, uh, I'm gonna make sure your preference code PRC-3847-DM is set to \"maximum notifications\" which is, um, basically our highest level."
+        },
+        {
+            "role": "Customer",
+            "content": "Maximum? That's... wait, will that be too many emails?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so—hmm, actually that's a good point—let me just... So with maximum settings, you're looking at maybe, um, three to five notices per actual change? Like, uh, \"change coming in 30 days,\" then \"7 days,\" then \"tomorrow.\""
+        },
+        {
+            "role": "Customer",
+            "content": "Um, three to five... let me see here... that could actually work? I think?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! And, um, here's the insider trick—I'm setting up filter code FLT-6623-XP so they all have, like, \"ACCOUNT CHANGE\" in the subject line? Makes them super easy to spot. Or, uh, filter to a special folder if that's your thing."
+        },
+        {
+            "role": "Customer",
+            "content": "You're being really... I mean, thank you. This helps. The panic was just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I'm just—okay, everything's set now with confirmation number CNF-8890-BK and, um, between you and me? Call back anytime you're worried. Like, we actually keep notes about these preferences so, uh, any rep can see you need the advance notice thing."
+        },
+        {
+            "role": "Customer",
+            "content": "Notes? So everyone will know I'm the anxious one who..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no! So it's not—I mean—it just says \"customer prefers advance notice for all changes.\" Nothing about, um, you know... Just that you like being informed, which honestly? That's just being responsible with your account."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "72cd59d7_script.json",
+    "scenario": "wanting advance notice before any changes to their account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "panicked_spiral",
+                "empathetic_to_rep"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "playfully_conspiratorial",
+                "humanizing_personal"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts",
+                    "filled_pauses",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

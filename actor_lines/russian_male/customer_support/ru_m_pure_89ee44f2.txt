@@ -1,0 +1,92 @@
+=== Source: 89ee44f2_script.json ===
+Language: Russian
+Gender: male
+Mode: pure
+Content Type: customer_support
+Scenario: valet attendant, nervous about a damage claim for a scratch that wasn't his fault
+
+=== Translated Dialogue ===
+
+Customer [pure]: Слушайте. Мне нужна помощь. Претензия по ущербу. Это не я.
+
+Customer Support [pure]: Эм, так, э... давайте я сейчас открою вашу учётку, и, ну, мы обязательно разберёмся с этой претензией. Можете, эм, назвать ваш ID сотрудника или, э, номер претензии?
+
+Customer [pure]: Та-ак, сейчас посмотрю... REF тире... стоп, это не то... ладно, значит 4829.
+
+Customer Support [pure]: Так, это будет REF-4829-VX, и я вижу, что речь идёт о царапине на Mercedes 2022 года. Претензия была подана вчера в 15:47.
+
+Customer [pure]: Именно. Дело в том. Я поставил машину чистой. Без царапин.
+
+Customer Support [pure]: Эм, понимаю, что это, э, очень неприятно, и, ну, смотрю по заметкам, клиент сообщил об обнаружении повреждения, эм, когда забирал машину в, э, сейчас посмотрю... 16:15?
+
+Customer [pure]: Ага, и каким-то... волшебным образом... это моя вина, да?
+
+Customer Support [pure]: Так, эм, согласно нашему протоколу — и я понимаю, что это, э, не то, что вы хотите услышать — но когда подана претензия с кодом повреждения DC-7742-A, нам нужны, ну, фотографии до того, как машина была припаркована, чтобы, эм, оспорить это.
+
+Customer [pure]: Эм, то есть, стоп, я должен, э, фотографировать каждую машину? Каждую?
+
+Customer Support [pure]: Я понимаю, это — честно? Между нами говоря, система не очень. Но без фото до парковки ответственность автоматически ложится на последнего работавшего с машиной, а это сотрудник с ID EMP-8827-J.
+
+Customer [pure]: Это я. Конечно же. Прекрасно.
+
+Customer Support [pure]: Эм, так вот что я могу сделать — это, э, отметить для пересмотра, и, ну, если у вас есть свидетели или, эм, записи с камер на вашей стоянке, это действительно, э, поможет вашему делу.
+
+Customer [pure]: Записи с камер... дайте подумать... хм, вообще-то да, у нас есть камеры.
+
+Customer Support [pure]: Эм, отлично, так что если вы сможете, э, загрузить эти записи через наш портал — номер REF-4829-VX — проверяющая группа, ну, пересмотрит претензию в течение, эм, обычно около 72 часов.
+
+Customer [pure]: Семьдесят два часа. Замечательно. Мой менеджер будет в восторге.
+
+Customer Support [pure]: Ну, я также могу, эм, поставить приоритетный флаг с кодом PRI-DISP-9, так как вы, э, оспариваете вину, что должно, эм, ускорить до примерно 24-48 часов?
+
+Customer [pure]: Ладно, то есть... что если... хм, можете записать, что это был не я?
+
+Customer Support [pure]: Эм, конечно, я, э, прямо сейчас добавляю подробную заметку, что, ну, "Сотрудник оспаривает ответственность, видеозаписи ожидаются", и, эм, ваш номер дела для HR — это HRC-3928-M.
+
+Customer [pure]: Хорошо. Как угодно. Просто... мне нужно это решить.
+
+Customer Support [pure]: Я всё задокументировал, и честно говоря, с видеодоказательствами такие дела обычно пересматривают в вашу пользу. Только обязательно загрузите записи сегодня, используя номер REF-4829-VX, и вас должны оправдать.
+
+
+=== Original (English) ===
+
+Customer: Look. I need help. Got a damage claim. Wasn't me.
+
+Customer Support: Um, okay so, uh, let me just pull up your account here and, er, we can definitely take a look at that claim. Can you, um, give me your employee ID or, uh, the claim reference number?
+
+Customer: Hmm, let me see here... REF dash... wait that's not... okay so it's 4829.
+
+Customer Support: Right, so that would be REF-4829-VX, and I can see this is regarding a scratch reported on a 2022 Mercedes. The claim was filed yesterday at 3:47 PM.
+
+Customer: Exactly. Thing is. I parked it clean. No scratch.
+
+Customer Support: Um, I understand that's, uh, really frustrating, and er, looking at the notes here, the customer reported finding the damage, um, when they retrieved their vehicle at, uh, let me see... 4:15 PM?
+
+Customer: Yeah and somehow... magically... it's my fault, right?
+
+Customer Support: So, um, according to our protocol—and I know this isn't, uh, what you want to hear—but once a claim is filed with damage code DC-7742-A, we need, er, photographic evidence from before the vehicle was parked to, um, dispute it.
+
+Customer: Um, so like, wait, I'm supposed to just, uh, photograph every car? Every single one?
+
+Customer Support: I know, it's—honestly? Between you and me, the system's not great. But without pre-parking photos, the liability defaults to the last handler, which shows as employee ID EMP-8827-J.
+
+Customer: That's me. Course it is. Fantastic.
+
+Customer Support: Um, so what I can do is, uh, flag this for review and, er, if you have any witnesses or, um, security footage from your valet stand, that could really, uh, help your case here.
+
+Customer: Security footage... let me think... hmm, actually yeah, we have cameras.
+
+Customer Support: Um, perfect, so if you can, uh, submit that footage through our portal—reference number REF-4829-VX—the review team will, er, reassess the claim within, um, usually about 72 hours.
+
+Customer: Seventy two hours. Great. My manager's gonna love that.
+
+Customer Support: Er, I can also, um, add a priority flag with code PRI-DISP-9 since you're, uh, disputing fault, which should, um, expedite it to maybe 24 to 48 hours?
+
+Customer: Okay so that means... what if... hmm, can you note it wasn't me?
+
+Customer Support: Um, absolutely, I'm, uh, adding a detailed note right now that says, er, "Employee disputes responsibility, security footage pending," and, um, your case number for HR is HRC-3928-M.
+
+Customer: Fine. Whatever. Just... I need this fixed.
+
+Customer Support: I've documented everything, and honestly, with video evidence, these usually get overturned. Just make sure to upload that footage today using reference REF-4829-VX, and you should be cleared.
+

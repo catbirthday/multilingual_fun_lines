@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Так я просто—дайте мне просто—мне нужно понять, в какой кабале я застряла."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ладно ладно ладно, дай-ка я—дай-ка я открою ваш аккаунт, эм, какой у вас—хотя стоп, мне сначала нужен ваш номер телефона чтобы найти—найти данные по аккаунту."
+        },
+        {
+            "role": "Customer",
+            "content": "Это эм... какой там... 555-0147. Ну конечно вам это нужно."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Поняла поняла, так я вижу аккаунт ACC-7739-BX и эм, интересно, у вас тут—у вас тут несколько контрактов показывается, дайте-ка я—стоп, вы спрашиваете про мобильную связь или про—про интернет-пакет?"
+        },
+        {
+            "role": "Customer",
+            "content": "Про всё. Всё вместе. Ну типа... в какой я там тюрьме сижу."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ага ага, ладно так, эм, ваш контракт на телефон CTR-4881-PH9 там, э, дайте посчитаю—там там показывает семнадцать месяцев осталось, а потом эм, интернет, это—это другое, это CTR-4882-NET и там, хмм, всего шесть месяцев осталось."
+        },
+        {
+            "role": "Customer",
+            "content": "Семнадцать? Нет стоп—как это—я думала что... да неважно."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ага так, эм, я вообще-то—секундочку, это, э, это странно потому что ваш контракт на телефон начался в, эм, дайте посмотрю, марте 2022? Но потом тут—тут отметка о продлении REF-9923-X которое произошло автоматически и, э, может поэтому вы путаетесь со сроками?"
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, так получается типа... они просто... продлили? Не сказав мне?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Смотрю смотрю, ладно так, ээ, тут—стоп нет, вижу теперь, тут пункт об автопродлении в разделе, эм, 14.3 ваших изначальных условий TRM-2022-MAR-14, но но но вот что странно..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ну конечно есть. Так типа... как это... штраф? За уход?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Неустойка неустойка, точно, так эм, за телефон—показывает $340 по коду тарифа FEE-TERM-340A, но э, стоп стоп стоп, интернет, хмм, там всего $85 потому что вы уже прошли—прошли основной штрафной период."
+        },
+        {
+            "role": "Customer",
+            "content": "Три сорок. Отлично. И значит так... я не могу просто... никак это не обойти?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Хмм, вообще-то вообще-то, дай-ка я—дай-ка я тут кое-что проверю потому что, эм, я вижу заметку, ID заметки NTE-7749-CSR, что говорит вы звонили по поводу проблем с обслуживанием и, э, в зависимости от того какие они были у нас могут—могут быть варианты."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, ага так типа, связь просто... никогда не работает и я продолжаю звонить и они просто... ничего не меняется в общем."
+        },
+        {
+            "role": "Customer Support",
+            "content": "О о о, ладно так, ээ, вы звонили—я тут считаю—четырнадцать раз согласно журналу заявок TKT-LOG-8827, и эм, если услуга не соответствовала—соответствовала гарантированным минимумам в вашем SLA, это документ SLA-2022-STANDARD, то технически технически вы можете подходить под—как они это называют—пункт о расторжении за неисполнение."
+        },
+        {
+            "role": "Customer",
+            "content": "Стоп—нет стоп, правда—так я могу просто... уйти? Без штрафов?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Возможно возможно, мне нужно—нужно проверить но, эм, ваши записи обслуживания под SRV-HIST-0147 показывают, э, множественные неразрешённые перебои и, ээ, скорости ниже 40% от обещанных на—на минимум, хмм, шестьдесят дней суммарно, что что что должно активировать пункт 9.2."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм так в общем что вы говорите типа... у меня есть выход? Типа реально? Это... в смысле я просто... ничего себе."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ага так, эм, дайте я—дайте я отправлю это на рассмотрение под делом CSE-9984-RELEASE и, э, судя по тому что я вижу вы должны—должны точно подходить, но но мне нужно одобрение менеджера так что, ээ, могу я вас поставить на короткое ожидание пока я—пока я быстренько её позову?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I just—let me just—I need to know what I'm stuck with here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay okay, let me—let me pull up your account, um, what's your—actually wait, I need your phone number first to find the—the account details."
+        },
+        {
+            "role": "Customer",
+            "content": "It's um... what's the... 555-0147. Of course you need that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it, so I'm seeing account ACC-7739-BX here and um, that's interesting, you've got—you've got multiple contracts showing, let me just—wait, are you asking about the phone service or the—the internet bundle?"
+        },
+        {
+            "role": "Customer",
+            "content": "Both. All of it. So basically like... whatever prison I'm in."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, okay so, um, your phone contract CTR-4881-PH9 has, uh, let me calculate—it's it's showing seventeen months left, and then um, the internet one, that's—that's different, that's CTR-4882-NET and that one is, hmm, only six months remaining."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventeen? No wait—how is that—I thought it was... never mind."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, I'm actually—hang on, this is, uh, this is weird because your phone contract started in, um, let me see here, March 2022? But then there's a—a renewal marker from REF-9923-X that happened automatically and, uh, that might be why you're confused about the timeline?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so basically what happened is like... they just... renewed it? Without telling me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Looking looking, okay so, er, there's a—wait no, I see it now, there's an auto-renewal clause in section, um, 14.3 of your original terms TRM-2022-MAR-14, but but but here's what's weird..."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course there is. So like... what's the word... the penalty? For leaving?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Termination fee termination fee, right, so um, for the phone it's—it's showing $340 under fee code FEE-TERM-340A, but uh, wait wait wait, the internet is, hmm, that's only $85 because you're past the—the major penalty period."
+        },
+        {
+            "role": "Customer",
+            "content": "Three forty. Great. And then so... I can't just... there's no way around that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, actually actually, let me—let me dig into something here because, um, I'm seeing a note, note ID NTE-7749-CSR, that says you called about service issues and, uh, depending on what those were we might—might have options."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah so like, the service just... it never works and I keep calling and they just... nothing changes basically."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh oh oh, okay so, er, you've called—I'm counting here—fourteen times according to ticket log TKT-LOG-8827, and um, if service wasn't meeting the—the guaranteed minimums in your SLA, that's document SLA-2022-STANDARD, then technically technically you might qualify for the—what do they call it—the performance release clause."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait—no wait, actually—so I could just... leave? Without the fees?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Possibly possibly, I need to—to verify but, um, your service records under SRV-HIST-0147 show, uh, multiple unresolved outages and, er, speeds below 40% of promised for—for at least, hmm, sixty days cumulative, which which which should trigger clause 9.2."
+        },
+        {
+            "role": "Customer",
+            "content": "Um so basically what you're saying is like... I have an out? Like actually? This is... I mean I'm just... wow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, let me—let me submit this for review under case CSE-9984-RELEASE and, uh, based on what I'm seeing you should—should definitely qualify, but but I need manager approval so, er, can I put you on a brief hold while I—while I grab them real quick?"
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "963b0e65_script.json",
+    "scenario": "trying to understand their remaining contract obligations",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "bitter_defeated",
+                "manic_oversharing"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts",
+                    "word_searching",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

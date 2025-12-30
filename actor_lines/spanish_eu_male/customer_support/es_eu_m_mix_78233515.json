@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Entonces, eh, mi entrega de medicamentos está básicamente... ¿en ninguna parte? Y estoy, eh, casi sin pastillas, así que..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Ay! Ay madre, vale, eh, déjame que, eh, mire tu cuenta aquí rápido y, mmm, a ver qué está pasando con eso. ¿Puedo, eh, coger tu número de pedido? O bueno, eh, tu nombre también vale si es más fácil."
+        },
+        {
+            "role": "Customer",
+            "content": "Sí, es, eh, Martínez. Mira, o sea, this is basically my heart medication so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Martínez, vale, entonces, eh, estoy viendo aquí... mmm, déjame que... vale, hay un pedido MED-9847-QZ22 y eso está, eh, apareciendo como... ay no. Ay no. Entonces está, eh, atascado en nuestro centro de distribución desde, eh, ¿el martes? Wait no, sorry, Monday actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Claro que sí. Because why would critical medication just... arrive when it's supposed to."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Lo siento muchísimo, esto es, eh, definitivamente no está bien, para nada. Déjame, eh, déjame ver qué puedo... mmm, vale, entonces normalmente el envío urgente tarda, eh, 2 días pero para medicamentos tenemos este, eh, ¿cómo se dice... protocolo de emergencia?"
+        },
+        {
+            "role": "Customer",
+            "content": "¿Protocolo de emergencia? So that's like, what, they actually deliver it on time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Ja! O sea, eh, sí básicamente. Entonces, eh, lo que voy a hacer es marcarlo con el código EMG-7703 y eso, eh, lo sacará para entrega mañana por la mañana, guaranteed before noon."
+        },
+        {
+            "role": "Customer",
+            "content": "Mañana por la mañana. Y esto definitivamente, absolutamente pasa? No como otro..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutamente. Eh, de hecho, mira, ¿historia graciosa? El mes pasado la insulina de mi padre se, eh, retrasó y yo literalmente, o sea, usé este mismo código desde mi móvil personal y, eh, it showed up at 8 AM next day."
+        },
+        {
+            "role": "Customer",
+            "content": "Espera, ¿tú puedes simplemente... hacer eso desde tu móvil personal?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bueno, eh, técnicamente no pero, eh, entre tú y yo? The system doesn't, er, really check if you're on shift when you put in an EMG code, así que..."
+        },
+        {
+            "role": "Customer",
+            "content": "Entonces básicamente me estás diciendo que hackeaste el sistema para la insulina de tu padre."
+        },
+        {
+            "role": "Customer Support",
+            "content": "O sea, eh, \"hackear\" es una palabra muy fuerte pero, eh, ¿sí más o menos? Mira, los retrasos de medicamentos son, o sea, actually serious and sometimes the regular process is just, er, too slow, ¿sabes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Vale, eso es... actually pretty cool of you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¿Verdad? Entonces, eh, tengo tu EMG-7703 todo preparado y, eh, you'll get a text with tracking number TRK-445892-M en como, mmm, ¿unos 10 minutos probablemente?"
+        },
+        {
+            "role": "Customer",
+            "content": "10 minutos, mañana por la mañana antes del mediodía. ¿Estás seguro de esto?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Cien por cien. Y, eh, para que lo sepas? También estoy, eh, añadiendo una nota para rellenar automáticamente tu próximo pedido como, eh, 5 días antes para que esto no... ya sabes, vuelva a pasar."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso es... sí, vale. Gracias. Actually thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Por supuesto! Y oye, eh, ¿guarda ese código EMG que mencioné? Solo, eh, ya sabes... por si acaso. Don't tell anyone I said that though!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So like, um, my medication delivery is basically... nowhere? And I'm, uh, almost out, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Oh gosh, okay, so, um, let me just, uh, pull up your account here real quick and, hmm, let me see what's going on with that. Can I, um, get your order number? Or actually, er, your name works too if that's easier?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's, uh, Martinez. Look, I mean, this is basically my heart medication so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Martinez, got it, okay so, um, I'm seeing here... hmm, let me just... okay there's order MED-9847-QZ22 and that's, uh, showing as... oh. Oh no. So it's, er, stuck at our distribution center since, um, Tuesday? Wait no, sorry, Monday actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course it is. Because why would critical medication just... arrive when it's supposed to."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm so, so sorry, this is, um, definitely not okay, like at all. Let me, uh, let me check what I can... hmm, okay so normally expedited shipping takes, er, two days but for medication we have this, um, what's the word... emergency protocol thing?"
+        },
+        {
+            "role": "Customer",
+            "content": "Emergency protocol? So that's like, what, they actually deliver it on time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha! I mean, um, yeah basically. So, uh, what I'm gonna do is flag this with code EMG-7703 and that'll, er, get it out for tomorrow morning delivery, guaranteed before noon."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow morning. And this definitely, absolutely happens? Not like another..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Um, actually, so, funny story? Last month my dad's insulin got, uh, delayed and I literally, like, used this same code from my personal phone and, um, it showed up at 8 AM next day."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, you can just... do that from your personal phone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, technically no but, uh, between you and me? The system doesn't, er, really check if you're on shift when you put in an EMG code, so..."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically you're telling me you hacked the system for your dad's insulin."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean, um, \"hacked\" is such a strong word but, uh, yeah kinda? Look, medication delays are, like, actually serious and sometimes the regular process is just, er, too slow, you know?"
+        },
+        {
+            "role": "Customer",
+            "content": "Okay that's... actually pretty cool of you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? So, um, I've got your EMG-7703 all set up and, uh, you'll get a text with tracking number TRK-445892-M in like, hmm, about ten minutes probably?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ten minutes, tomorrow morning before noon. You're sure about this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hundred percent. And, um, just so you know? I'm also, uh, adding a note to auto-refill your next order like, er, five days early so this doesn't... you know, happen again."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... yeah, okay. Thanks. Actually thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! And hey, um, save that EMG code I mentioned? Just, uh, you know... just in case. Don't tell anyone I said that though!"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "78233515_script.json",
+    "scenario": "desperate because their medication delivery is late and they're almost out",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "annoyed_sarcastic",
+                "warming_up"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "self_corrections",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "humanizing_personal"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

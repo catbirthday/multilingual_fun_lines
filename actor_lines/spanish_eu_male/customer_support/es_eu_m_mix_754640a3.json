@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I need to, uh, dispute a charge. Es como, um, mi primera vez haciendo esto, la verdad."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, no problem at all, vale, déjame abrir el formulario de disputa aquí, solo necesito tu número de cuenta primero si lo tienes a mano?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, probably 4-4-7-2. Eh, espera. 9-2. Creo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I've got account 4472-92 here and, uh, let me just—bueno espera, necesito el completo—¿tienes el número entero? Deberían ser, um, 12 dígitos en total."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Of course. 4-4-7-2-9-2-8-8-1-5-3-3."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, so, um, account ACC-447292881533 is up and, uh, puedo ver las transacciones recientes aquí, entonces ¿cuál cargo estamos, um, mirando hoy?"
+        },
+        {
+            "role": "Customer",
+            "content": "The, uh, ninety dollar one. De, um, ¿el martes? Creo que era, eh, Beach Supply Plus."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, transaction TXN-829374-BSP for $89.99 posted Tuesday the 15th, código de comerciante Beach Supply Plus."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah so, um, they charged me for, uh, rescue tubes I never got? Es que, um, los necesito para el trabajo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh you're a—wait let me just, um, make a note here... equipamiento de socorrista no recibido... y, uh, ¿has intentado contactar al comerciante primero o...?"
+        },
+        {
+            "role": "Customer",
+            "content": "Three times. Siguen diciendo que está entregado."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, that's frustrating, déjame—vale, um, como esto es equipamiento de seguridad para tu trabajo voy a, uh, acelerar esto, número de referencia DSP-7749823-P."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, how long does this, er, usually take? Porque ya he tenido que, uh, comprar reemplazos."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So disputes normally run 5-7 business days but I'm marking this priority, dado que es equipamiento de trabajo, debería procesarse en 24-48 horas máximo."
+        },
+        {
+            "role": "Customer",
+            "content": "That's, um, actually helpful. Esperaba más bien, eh, una pelea sobre esto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I mean, um, especially for first-time disputes we want to—déjame también, uh, añadir un bloqueo del comerciante para que no puedan cobrarte otra vez mientras esto se procesa."
+        },
+        {
+            "role": "Customer",
+            "content": "Didn't know that was possible."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Added block code BLK-4492-T, y veo que compraste reemplazos ayer por $94.50, ¿quieres que marque esa compra como verificada para que no parezca sospechosa?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, that'd be, er, great actually. Prácticamente he, uh, llegado al límite comprando eso dos veces."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done, tagged order ORD-9982745-V as verified legitimate purchase, y tu crédito provisional debería llegar en 24 horas mientras investigamos, ¿algo más de lo que pueda protegerte hoy?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I need to, uh, dispute a charge. Sort of, um, my first time doing this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, no problem at all, let me pull up the dispute form here, just need your account number first if you have that handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, probably 4-4-7-2. Er, wait. 9-2. I think."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I've got account 4472-92 here and, uh, let me just—actually wait, I need the full—do you have the complete number? Should be, um, twelve digits total."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Of course. 4-4-7-2-9-2-8-8-1-5-3-3."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, so, um, account ACC-447292881533 is up and, uh, I can see recent transactions here, so which charge are we, um, looking at today?"
+        },
+        {
+            "role": "Customer",
+            "content": "The, uh, ninety dollar one. From, um, Tuesday? I think it was, er, Beach Supply Plus."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, transaction TXN-829374-BSP for $89.99 posted Tuesday the 15th, Beach Supply Plus merchant code."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah so, um, they charged me for, uh, rescue tubes I never got? Kind of, um, need those for work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh you're a—wait let me just, um, make a note here... lifeguard equipment not received... and, uh, have you tried contacting the merchant first or...?"
+        },
+        {
+            "role": "Customer",
+            "content": "Three times. They keep saying delivered."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, that's frustrating, let me—actually, um, since this is safety equipment for your job I'm gonna, uh, expedite this, reference number DSP-7749823-P."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, how long does this, er, usually take? Because I sort of, uh, already had to buy replacements."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So disputes normally run 5-7 business days but I'm marking this priority given it's work equipment, should process in 24-48 hours max."
+        },
+        {
+            "role": "Customer",
+            "content": "That's, um, actually helpful. I was, er, expecting more of a, uh, fight about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I mean, um, especially for first-time disputes we want to—let me also, uh, add a merchant block so they can't charge you again while this processes."
+        },
+        {
+            "role": "Customer",
+            "content": "Didn't know that was possible."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Added block code BLK-4492-T, and I'm seeing you bought replacements yesterday for $94.50, want me to flag that purchase as verified so it doesn't look suspicious?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, that'd be, er, great actually. Pretty much, uh, maxed out buying those twice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done, tagged order ORD-9982745-V as verified legitimate purchase, and your provisional credit should hit within 24 hours while we investigate, anything else I can protect you from today?"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "754640a3_script.json",
+    "scenario": "lifeguard, young and nervous about disputing a charge for the first time ever",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "seething_controlled",
+                "annoyed_sarcastic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "nurturing_protective"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "false_starts",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

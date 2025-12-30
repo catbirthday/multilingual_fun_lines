@@ -1,0 +1,92 @@
+=== Source: 68794c24_script.json ===
+Language: Hindi
+Gender: male
+Mode: pure
+Content Type: customer_support
+Scenario: angry because this is the fifth time they've called about the same issue
+
+=== Translated Dialogue ===
+
+Customer [pure]: अम्म, ठीक है तो, अ, ये literally पांचवीं बार है जब मैं इसी, अम्म, बिल्कुल same problem के बारे में call कर रहा हूं...
+
+Customer Support [pure]: अरे नहीं, अम्म, मुझे बहुत, बहुत खेद है कि आप ये सब झेल रहे हैं, मेरा मतलब, अ, पांच बार तो बस—ये बिल्कुल गलत है, और, अम्म, मैं पूरी तरह समझ सकता हूं कि आप frustrated क्यों होंगे, मैं अभी, अ, आपका account निकालता हूं—हम्म, आपका account number क्या है?
+
+Customer [pure]: वो है... देखता हूं यहां... 447829.
+
+Customer Support [pure]: ठीक है तो, अम्म, मुझे account ACC-447829-QV दिख रहा है और, अ, अरे हां, मैं देख सकता हूं, अम्म, पिछली calls यहां हैं, और honestly ये, जैसे, ऐसा बिल्कुल नहीं होना चाहिए था।
+
+Customer [pure]: अम्म, हां exactly, तो जैसे, अ, क्या कहूं... ये, अम्म, basically एक बार-बार आने वाला nightmare बन गया है।
+
+Customer Support [pure]: मैं आपका दर्द पूरी तरह समझता हूं, सच में समझता हूं, और ticket TKT-983344-M देखकर, मैं exactly देख सकता हूं कि हर बार कहां गड़बड़ हुई।
+
+Customer [pure]: हम्म, रुको, आप actually देख सकते हैं कि क्या हुआ था?
+
+Customer Support [pure]: तो basically, अम्म, जो मैं notice कर रहा हूं वो ये है कि, अ, हर बार जब किसी ने इसे fix करने की कोशिश की, वो, जैसे, सिर्फ ऊपरी issue को address कर रहे थे, नहीं कि, अम्म, root cause को जो batch code BCH-7721-XX से linked है।
+
+Customer [pure]: अम्म, रुकिए, क्या, सच में? तो आप कह रहे हैं, अ, आप actually जानते हैं कि क्या गलत हो रहा था?
+
+Customer Support [pure]: मुझे लगता है, अम्म, मेरा मतलब probably जो हुआ वो ये है कि system बार-बार revert हो रहा था क्योंकि किसी ने master record MRC-5589-KL को update नहीं किया, जो kind of बाकी सब कुछ control करता है।
+
+Customer [pure]: क्या, seriously? आप इसे fix कर सकते हैं?
+
+Customer Support [pure]: तो, अम्म, मैं अब जो करने जा रहा हूं, और अ, मुझे maybe ये नहीं करना चाहिए लेकिन, अम्म, मैं इसे directly हमारे, जैसे, senior technical team को priority code PRI-9982-AA के तहत escalate कर रहा हूं।
+
+Customer [pure]: अम्म, ठीक है लेकिन जैसे, अ, मुझे कैसे पता चले कि ये बस, अम्म, एक और चक्कर नहीं है?
+
+Customer Support [pure]: ये पूछना बिल्कुल सही है, और मैं आपको अभी confirmation number CNF-445821-QQR दे रहा हूं, जिससे आप इसे directly track कर सकते हैं।
+
+Customer [pure]: देखता हूं यहां... आप actually मुझे किसी के पास direct line दे रहे हैं?
+
+Customer Support [pure]: अम्म, हां तो, अ, सिर्फ इतना ही नहीं बल्कि मैं, अम्म, आपके account में, अ, छह महीने की service credit code CRD-1147-ZM के तहत credit कर रहा हूं क्योंकि, जैसे, ऐसा कभी होना ही नहीं चाहिए था।
+
+Customer [pure]: रुको, अम्म, छह महीने? वो, अ... हम्म, इसमें क्या catch है?
+
+Customer Support [pure]: कोई catch नहीं है बिल्कुल, मैं यहां आठ साल से हूं और honestly जब मैं case number CSE-774400-X में पांच calls देखता हूं, ये हमारी गलती है, आपकी नहीं।
+
+Customer [pure]: ठीक है तो मतलब... आप सच में आज ही इसे fix कर रहे हैं?
+
+Customer Support [pure]: पहले से ही transaction TXN-558821-PPK के तहत process हो रहा है, और आपको दस मिनट के अंदर email confirmation मिलेगा जिसमें सब कुछ documented होगा।
+
+
+=== Original (English) ===
+
+Customer: Um, okay so, uh, this is literally the fifth time I'm calling about this, um, same exact problem...
+
+Customer Support: Oh no, um, I am so, so sorry you're dealing with this, I mean, uh, five times is just—that's completely unacceptable, and, um, I can totally understand why you'd be frustrated, let me, uh, pull up your account here with—hmm, what's your account number?
+
+Customer: It's... let me see here... 447829.
+
+Customer Support: Okay so, um, I'm seeing account ACC-447829-QV and, uh, oh wow, yeah I can see the, um, the previous calls here, and honestly this is, like, this shouldn't have happened at all.
+
+Customer: Um, yeah exactly, so like, uh, what's the word... it's becoming this, um, recurring nightmare basically.
+
+Customer Support: I completely feel your pain here, I really do, and looking at ticket TKT-983344-M, I can see exactly where things went wrong each time.
+
+Customer: Hmm, wait, you can actually see what happened?
+
+Customer Support: So basically, um, what I'm noticing is that, uh, each time someone tried to fix this, they were, like, only addressing the surface issue, not the, um, the root cause which is linked to batch code BCH-7721-XX.
+
+Customer: Um, hold on, wait, really? So you're saying, uh, you actually know what's been going wrong?
+
+Customer Support: I think, um, I mean probably what happened is the system kept reverting because nobody updated the master record MRC-5589-KL, which kind of controls everything else.
+
+Customer: Wait, seriously? You can fix this?
+
+Customer Support: So, um, here's what I'm gonna do, and uh, I'm maybe not supposed to do this but, um, I'm escalating this directly to our, like, senior technical team under priority code PRI-9982-AA.
+
+Customer: Um, okay but like, uh, how do I know this isn't just, um, another runaround?
+
+Customer Support: That's totally fair to ask, and I'm giving you confirmation number CNF-445821-QQR right now, which you can use to track this directly.
+
+Customer: Let me see here... you're actually giving me a direct line to someone?
+
+Customer Support: Um, yeah so, uh, not only that but I'm, um, crediting your account with, er, six months of service under credit code CRD-1147-ZM because, like, this never should have happened.
+
+Customer: Wait, um, six months? That's, uh... hmm, what's the catch here?
+
+Customer Support: No catch at all, I've been here eight years and honestly when I see case number CSE-774400-X with five calls, that's on us, not you.
+
+Customer: Okay so that means... you're really fixing this today?
+
+Customer Support: Already processing under transaction TXN-558821-PPK, and you'll get an email confirmation within ten minutes with everything documented.
+

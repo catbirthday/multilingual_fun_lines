@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm—I'm calling about my, uh, my dental coverage and there's like, um, there's something wrong with it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I'd be happy to help you with that today! Let me just pull up your account here... could you give me your member ID? It should start with DEN and then have some numbers."
+        },
+        {
+            "role": "Customer",
+            "content": "It's—it's DEN-4428-B7, um, and I just—I just need to know why, uh, why my crown isn't covered?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, let me check that for you right away, DEN-4428-B7, and, uh, oh I see you're actually—hmm, you work at Bright Smiles Dental, that's wonderful! So let me just, um, look at your specific coverage here..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, I work—I work there. That's actually why this is so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, I totally get it, that must be, uh, really frustrating! So I'm looking at your plan details and, hmm, it shows here that, um, crowns are covered but there's a, uh, waiting period that hasn't been met yet?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, what—what waiting period? I've had this for eight months!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, I'm really sorry about this, but, uh, for major restorative work like crowns, there's actually a, um, twelve-month waiting period on your plan tier, PTR-3300-C, and, uh, you're at eight months so..."
+        },
+        {
+            "role": "Customer",
+            "content": "This is—this is ridiculous, I mean, um, I literally help patients with their insurance every day and, uh, I didn't even know about my own—my own waiting period?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, and honestly, these waiting periods can be really confusing. Would you like me to see if there's a way to upgrade to a plan without that restriction?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, I guess—I guess so, but like, uh, how much more would that, um, even cost me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So let me—no wait, actually—um, I can check a few options here, and, uh, there's the Premier Plus plan, PPL-5500-A, that's, um, about forty dollars more monthly but, uh, it would waive your waiting period immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "Forty more? That's—that's actually not terrible. Can it start right away?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! And, um, here's what I can do—I'm going to, uh, backdate the upgrade to, hmm, to the first of this month, so you'd only need to pay the, um, the difference for December, that's just like twelve dollars prorated."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh wow, you can—you can do that? That's really helpful actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, and, um, between you and me, working in dental yourself, I'm sure you know how, uh, how expensive these procedures can be out of pocket, so, um, let me make sure this processes correctly, confirmation code CFC-889214-X."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, I—I see the bills every day, it's, um, it's kind of embarrassing that I didn't, uh, didn't check my own coverage better."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please don't feel bad about that! Even professionals in the field miss these details sometimes. Your new coverage starts tomorrow, and you can schedule that crown anytime after that."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, thank you so—so much for this, I was, uh, really stressed and you've been, um, really understanding about it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're so welcome! Just remember your upgrade confirmation is CFC-889214-X for your records, and honestly, I hope the procedure goes smoothly for you!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm—I'm calling about my, uh, my dental coverage and there's like, um, there's something wrong with it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I'd be happy to help you with that today! Let me just pull up your account here... could you give me your member ID? It should start with DEN and then have some numbers."
+        },
+        {
+            "role": "Customer",
+            "content": "It's—it's DEN-4428-B7, um, and I just—I just need to know why, uh, why my crown isn't covered?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, let me check that for you right away, DEN-4428-B7, and, uh, oh I see you're actually—hmm, you work at Bright Smiles Dental, that's wonderful! So let me just, um, look at your specific coverage here..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, I work—I work there. That's actually why this is so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, I totally get it, that must be, uh, really frustrating! So I'm looking at your plan details and, hmm, it shows here that, um, crowns are covered but there's a, uh, waiting period that hasn't been met yet?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, what—what waiting period? I've had this for eight months!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, I'm really sorry about this, but, uh, for major restorative work like crowns, there's actually a, um, twelve-month waiting period on your plan tier, PTR-3300-C, and, uh, you're at eight months so..."
+        },
+        {
+            "role": "Customer",
+            "content": "This is—this is ridiculous, I mean, um, I literally help patients with their insurance every day and, uh, I didn't even know about my own—my own waiting period?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, and honestly, these waiting periods can be really confusing. Would you like me to see if there's a way to upgrade to a plan without that restriction?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, I guess—I guess so, but like, uh, how much more would that, um, even cost me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So let me—no wait, actually—um, I can check a few options here, and, uh, there's the Premier Plus plan, PPL-5500-A, that's, um, about forty dollars more monthly but, uh, it would waive your waiting period immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "Forty more? That's—that's actually not terrible. Can it start right away?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! And, um, here's what I can do—I'm going to, uh, backdate the upgrade to, hmm, to the first of this month, so you'd only need to pay the, um, the difference for December, that's just like twelve dollars prorated."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh wow, you can—you can do that? That's really helpful actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, and, um, between you and me, working in dental yourself, I'm sure you know how, uh, how expensive these procedures can be out of pocket, so, um, let me make sure this processes correctly, confirmation code CFC-889214-X."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, I—I see the bills every day, it's, um, it's kind of embarrassing that I didn't, uh, didn't check my own coverage better."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please don't feel bad about that! Even professionals in the field miss these details sometimes. Your new coverage starts tomorrow, and you can schedule that crown anytime after that."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, thank you so—so much for this, I was, uh, really stressed and you've been, um, really understanding about it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're so welcome! Just remember your upgrade confirmation is CFC-889214-X for your records, and honestly, I hope the procedure goes smoothly for you!"
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "88b43ea1_script.json",
+    "scenario": "dental assistant, embarrassed about a gap in her own dental insurance coverage",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "warming_up",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "genuinely_warm",
+                "awkwardly_apologetic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

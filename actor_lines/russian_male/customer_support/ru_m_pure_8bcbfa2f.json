@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Эм, привет, мне нужно отменить мою—мою подписку. Я просто, э, слишком устал даже разбираться с этим."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так, эм, конечно, я могу, типа, полностью помочь вам с этим сегодня... в общем, что мне нужно сначала, это, э, ваш номер участника или телефон, и потом мы просто... да."
+        },
+        {
+            "role": "Customer",
+            "content": "Это это 555-0428. Слушайте, я работаю по ночам, ясно?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Понял, так, эм, загружаю тут и, э, окей, вижу аккаунт MEM-7739-NK2, и типа, между нами говоря? Я вижу, вы вообще-то, эм, не заходили уже... хм, три месяца?"
+        },
+        {
+            "role": "Customer",
+            "content": "Четыре месяца. Я медбрат. Я сплю, когда нормальные люди ходят в спортзалы."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да-да, так вот, эм, что я могу сделать, это, э, типа, во-первых—и никому не говорите, что я это упомянул—но есть этот, эм, код скидки для медработников MED-DISC-847, который бы сэкономил вам, э, сорок процентов всё это время..."
+        },
+        {
+            "role": "Customer",
+            "content": "Стой стой стой, эм, ты серьёзно? Я, э, платил полную цену, пока работал—работал до смерти?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да, так что... В смысле, технически я не должен задним числом применять это, но..."
+        },
+        {
+            "role": "Customer",
+            "content": "Боже мой, эм, я отработал три двойные смены на этой неделе, э, не видел своего кота бодрствующим несколько дней, и теперь—теперь ты мне это говоришь?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так, эм, вот что я сделаю, ладно? Типа, я оформляю форму отмены CAN-9982-XJ4, но, э, также я собираюсь, эм, в общем подсунуть запрос на возврат за, хм, дай-ка посчитаю... типа за два месяца?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ты можешь это сделать?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так технически, эм, мой начальник наверное, э, не обрадуется, но типа... система позволяет мне отметить это как, эм, \"трудности в сфере услуг\" под кодом HARD-2847-B, и тогда это просто, знаешь... проходит."
+        },
+        {
+            "role": "Customer",
+            "content": "Это... вообще-то очень мило. Я не ожидал, что кто-то реально поможет."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Слушай, так, эм, моя сестра тоже медсестра, и типа, я знаю, вы ребята просто... короче, э, номер возврата REF-6632-TK9, должно прийти на счёт через, эм, три-пять дней."
+        },
+        {
+            "role": "Customer",
+            "content": "Двенадцатичасовые смены, двенадцатичасовые смены каждую ночь. Извини, я просто вымотан."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Нет-нет, полностью понимаю, так эм, вообще-то пока ты на линии, э, если когда-нибудь захочешь вернуться? Типа, используй промокод NIGHT-SHIFT-22 и это, эм, специально для людей, которые работают в странные часы..."
+        },
+        {
+            "role": "Customer",
+            "content": "Есть промокод для работников ночной смены?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Неофициально? Да. Так что твоё подтверждение отмены CNF-4421-LP8, отправлено тебе на почту, и тот возврат должен скоро обработаться."
+        },
+        {
+            "role": "Customer",
+            "content": "Спасибо. Правда. Всё это оказалось менее болезненным, чем я ожидал."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Между нами? Просто звони и проси меня напрямую, если что-то ещё понадобится—зовут Джейми, код сотрудника EMP-3392. Береги себя там, ладно?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I need to cancel my—my membership. I'm just, uh, too tired to even deal with this anymore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, absolutely, I can, like, totally help you with that today... basically what I need first is, uh, your member ID or phone number, and then we'll just... yeah."
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's 555-0428. Look, I work nights, okay?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so, um, pulling that up here and, uh, okay so I see account MEM-7739-NK2, and like, between you and me? I'm seeing you haven't actually, um, checked in for... hmm, three months?"
+        },
+        {
+            "role": "Customer",
+            "content": "Four months. I'm a nurse. I sleep when normal people go to gyms."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so basically, um, what I can do here is, uh, like, first off—and don't tell anyone I mentioned this—but there's this, um, medical professional discount code MED-DISC-847 that would've saved you, uh, forty percent this whole time..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait wait wait, um, are you serious? I've been, uh, paying full price while working—working myself to death?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so... I mean, technically I'm not supposed to retroactively apply it, but..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god, um, I pulled three doubles this week, uh, haven't seen my cat awake in days, and now—now you're telling me this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, here's what I'm gonna do, okay? Like, I'm putting in cancellation form CAN-9982-XJ4, but, uh, also I'm gonna, um, basically slip in a refund request for, hmm, let me calculate... like two months worth?"
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So technically, um, my supervisor would probably, uh, not love this, but like... the system lets me mark it as, um, \"service industry hardship\" under code HARD-2847-B, and then it just, you know... goes through."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... actually really nice. I didn't expect anyone to actually help."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, so, um, my sister's a nurse too, and like, I know you guys are just... anyway, uh, the refund reference is REF-6632-TK9, should hit your account in, um, three to five days."
+        },
+        {
+            "role": "Customer",
+            "content": "Twelve hour shifts, twelve hour shifts every single night. Sorry, I'm just exhausted."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally get it, so um, actually while I have you, uh, if you ever want to come back? Like, use promo code NIGHT-SHIFT-22 and it's, um, specifically for people who work weird hours..."
+        },
+        {
+            "role": "Customer",
+            "content": "There's a promo code for night shift workers?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unofficially? Yeah. So your cancellation confirmation is CNF-4421-LP8, emailed to you, and that refund should process soon."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Really. This whole thing has been less painful than expected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Between you and me? Just call and ask for me directly if you need anything else—name's Jamie, employee ID EMP-3392. Take care of yourself out there, okay?"
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "8bcbfa2f_script.json",
+    "scenario": "nurse working nights, exhausted and trying to cancel a gym membership she never uses",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "warming_up",
+                "manic_oversharing"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "playfully_conspiratorial",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

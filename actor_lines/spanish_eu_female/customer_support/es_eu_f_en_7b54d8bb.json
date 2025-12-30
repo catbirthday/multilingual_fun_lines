@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm—sorry, I know this is probably, uh, stupid but I got this complaint?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, let me just, uh, pull up your account here and—hmm, okay so basically I need your driver ID, like, the one that starts with DRV?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, DRV-4429-BK. Sorry. I'm just. Really upset."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so, uh, I'm seeing account DRV-4429-BK here and, um, looks like there's a complaint filed yesterday, reference number CMP-88291-QX, so basically what, uh, what happened exactly?"
+        },
+        {
+            "role": "Customer",
+            "content": "This passenger said I was—wait no, they said—sorry. Said I was rude?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mm-hmm, so the complaint CMP-88291-QX says, um, \"unprofessional behavior\" and, uh, I mean, these things happen but like, tell me your side?"
+        },
+        {
+            "role": "Customer",
+            "content": "I maybe asked them to, uh, not eat in my car? That's—that's it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, uh, lemme just, hmm, check the trip details here, trip ID TRP-55847-NZ shows it was, um, like a twenty-minute ride and, uh, no other flags so..."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty minutes of them, um, eating messy food! Sorry. I shouldn't—I'm being dramatic."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, so basically, um, look, I've seen like hundreds of these and, uh, food complaints are super common, so let me just, um, add your statement to case CMP-88291-QX here."
+        },
+        {
+            "role": "Customer",
+            "content": "But my rating dropped. I need—I can't afford to lose this job. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right so, uh, here's what I can do, and like, I'm gonna be straight with you—ratings from complaint CMP-88291-QX, those are, um, basically locked for 24 hours but, uh, after review they sometimes get reversed."
+        },
+        {
+            "role": "Customer",
+            "content": "Sometimes? That's—I mean, probably not gonna help me then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So actually, um, with your driver history—and I'm seeing like, really solid stats here in account DRV-4429-BK—so basically you've got, uh, a strong case for appeal."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry, I just—um, I'm overreacting. My kid's, uh, medical bills and I just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, so, um, between you and me? File appeal APL-77562-RT, and uh, specifically mention the, um, the food policy violation by passenger, that basically fast-tracks it."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? That would—wait, APL what? Sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "APL-77562-RT, so like, I'm gonna, uh, pre-fill some of it for you right now and, um, honestly? Should be resolved in, hmm, maybe six hours tops?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry for, um, being so—you know. Desperate. Embarrassed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no, so like, totally get it, um, bills are bills, and uh, look—check your app tomorrow morning, case CMP-88291-QX should show resolved, and um, your rating should bounce back."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm—sorry, I know this is probably, uh, stupid but I got this complaint?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, let me just, uh, pull up your account here and—hmm, okay so basically I need your driver ID, like, the one that starts with DRV?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, DRV-4429-BK. Sorry. I'm just. Really upset."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so, uh, I'm seeing account DRV-4429-BK here and, um, looks like there's a complaint filed yesterday, reference number CMP-88291-QX, so basically what, uh, what happened exactly?"
+        },
+        {
+            "role": "Customer",
+            "content": "This passenger said I was—wait no, they said—sorry. Said I was rude?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mm-hmm, so the complaint CMP-88291-QX says, um, \"unprofessional behavior\" and, uh, I mean, these things happen but like, tell me your side?"
+        },
+        {
+            "role": "Customer",
+            "content": "I maybe asked them to, uh, not eat in my car? That's—that's it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, uh, lemme just, hmm, check the trip details here, trip ID TRP-55847-NZ shows it was, um, like a twenty-minute ride and, uh, no other flags so..."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty minutes of them, um, eating messy food! Sorry. I shouldn't—I'm being dramatic."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, so basically, um, look, I've seen like hundreds of these and, uh, food complaints are super common, so let me just, um, add your statement to case CMP-88291-QX here."
+        },
+        {
+            "role": "Customer",
+            "content": "But my rating dropped. I need—I can't afford to lose this job. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right so, uh, here's what I can do, and like, I'm gonna be straight with you—ratings from complaint CMP-88291-QX, those are, um, basically locked for 24 hours but, uh, after review they sometimes get reversed."
+        },
+        {
+            "role": "Customer",
+            "content": "Sometimes? That's—I mean, probably not gonna help me then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So actually, um, with your driver history—and I'm seeing like, really solid stats here in account DRV-4429-BK—so basically you've got, uh, a strong case for appeal."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry, I just—um, I'm overreacting. My kid's, uh, medical bills and I just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, so, um, between you and me? File appeal APL-77562-RT, and uh, specifically mention the, um, the food policy violation by passenger, that basically fast-tracks it."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? That would—wait, APL what? Sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "APL-77562-RT, so like, I'm gonna, uh, pre-fill some of it for you right now and, um, honestly? Should be resolved in, hmm, maybe six hours tops?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry for, um, being so—you know. Desperate. Embarrassed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no, so like, totally get it, um, bills are bills, and uh, look—check your app tomorrow morning, case CMP-88291-QX should show resolved, and um, your rating should bounce back."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "7b54d8bb_script.json",
+    "scenario": "rideshare driver, furious about an unfair passenger complaint affecting his rating",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "desperate_pleading"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "self_corrections",
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "breath_catches",
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

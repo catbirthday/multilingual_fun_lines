@@ -1,0 +1,92 @@
+=== Source: 8fae3b79_script.json ===
+Language: Russian
+Gender: female
+Mode: pure
+Content Type: customer_support
+Scenario: coffee roaster, dealing with complaints from customers who never received their subscription orders
+
+=== Translated Dialogue ===
+
+Customer [pure]: Эм, так вот я я звоню потому что, э, это уже становится просто смешно, типа, мои клиенты практически бунтуют и эм, никто не получает свои кофейные подписки?
+
+Customer Support [pure]: Окей так... дайте мне просто... как бы это сказать... открыть данные вашего аккаунта, и эм я вижу вы зарегистрированы как Artisan Roasters с номером аккаунта ACC-9847-RB22, это правильно?
+
+Customer [pure]: Да да да, это мы, и эм, у меня типа, э, сорок злых писем только этим утром про пропавшие заказы.
+
+Customer Support [pure]: Так, эм, я... хм... проверяю вашу панель выполнения заказов и э, похоже что... секундочку, дайте... окей так тут партия подписочных заказов, номера SUB-3392-KL по SUB-3439-KL которые показываются как, эм, что тут написано... "ожидают забора курьером" уже типа, э-э, девять дней?
+
+Customer [pure]: Девять дней. Конечно. Потому что зачем бы чему-то просто работать как положено, да?
+
+Customer Support [pure]: Знаю, знаю, и эм, честно говоря я вижу это с, э, многими аккаунтами продавцов в последнее время, были какие-то... хм... системные проблемы с автоматическими этикетками для отправки, код ошибки ERR-50923-X постоянно выскакивает.
+
+Customer [pure]: Слушайте я я пытаюсь быть терпеливой но мы тут ломаем людям утренние ритуалы.
+
+Customer Support [pure]: Да не, полностью, в смысле, эм, я понимаю, людям нужен их кофе и э, вы отдуваетесь за то что... хм... даже не ваша вина по сути, так дайте мне, э-э, глубже покопаться в трекинг-номере TRK-882947561 тут.
+
+Customer [pure]: Именно, и это это не просто случайные заказы, это подписчики которые платят ежемесячно, они нам доверяют.
+
+Customer Support [pure]: Абсолютно.
+
+Customer [pure]: Эм, дело в том что, э, я только запустила эту обжарочную шесть месяцев назад и типа, если люди начнут отменять подписки из-за этого, мне мне просто конец.
+
+Customer Support [pure]: Ой блин, так... окей я, эм, я открываю форму приоритетной эскалации сейчас, номер тикета ESC-7741-QP90, потому что это... да это точно требует немедленного внимания, особенно для нового бизнеса.
+
+Customer [pure]: Спасибо, в смысле, э, мы говорим про все мои сбережения тут, всё всё что у меня было ушло на эти обжарочные машины.
+
+Customer Support [pure]: Так так, вот что я, эм, сделаю... э-э... как бы это объяснить... короче я помечаю все сорок этих заказов, ID начиная с ORD-6620-AU по ORD-6659-AU для, эм, ускоренной переотправки сегодня.
+
+Customer [pure]: Стоп вы можете вы можете реально это сделать? Типа сегодня сегодня?
+
+Customer Support [pure]: Эм, да так технически я, э, должна получить одобрение менеджера для чего-либо больше двадцати заказов но, хм, учитывая что это наша система накосячила, я просто, э-э, проведу это под кодом исключения EXC-1107-Z.
+
+Customer [pure]: Господи, окей окей, это буквально спасёт мой бизнес прямо сейчас.
+
+Customer Support [pure]: Хорошо хорошо.
+
+Customer [pure]: Я я извиняюсь что язвила раньше, просто, эм, моя жена сказала что я сумасшедшая бросать работу чтобы обжаривать кофе и э, я не могу не могу доказать что она права, понимаете?
+
+Customer Support [pure]: Слушайте не, в смысле, эм, я полностью понимаю, следовать за мечтой это... страшно и, э-э, если уж на то пошло, смотря на ваш показатель удержания клиентов тут, метрика MET-94.7, вы реально делаете что-то правильно, так что эм, эти сорок заказов отправятся сегодня с трекинг-префиксом TRK-9000-RUSH и, хм, мы также начисляем на ваш аккаунт три месяца платформенных сборов бесплатно, код кредита CRD-2280-MP, за неудобства.
+
+
+=== Original (English) ===
+
+Customer: Um, so I'm I'm calling because, uh, this is getting ridiculous, like, my customers are basically rioting and um, nobody's getting their coffee subscriptions?
+
+Customer Support: Okay so... let me just... what's the word I'm looking for here... pull up your account details, and um I can see you're registered as Artisan Roasters with account number ACC-9847-RB22, is that correct?
+
+Customer: Yeah yeah yeah, that's us, and um, I've got like, uh, forty angry emails just this morning about missing orders.
+
+Customer Support: Right so, um, I'm... hmm... checking your fulfillment dashboard here and uh, it looks like... wait, let me... okay so there's a batch of subscription orders, reference SUB-3392-KL through SUB-3439-KL that are showing as, um, what's it saying... "pending carrier pickup" for like, er, nine days now?
+
+Customer: Nine days. Of course. Because why would anything just work the way it's supposed to, right?
+
+Customer Support: I know, I know, and um, honestly I'm seeing this with, uh, a lot of our merchant accounts lately, there's been some... hmm... system issues with the automated shipping labels, batch code ERR-50923-X keeps popping up.
+
+Customer: Look I'm I'm trying to be patient here but these are people's morning routines we're messing with.
+
+Customer Support: Yeah no, totally, I mean, um, I get it, people need their coffee and uh, you're taking the heat for something that's... hmm... not even your fault really, so let me, er, dig deeper into tracking number TRK-882947561 here.
+
+Customer: Exactly, and it's it's not just random orders, these are subscribers who pay monthly, they trust us.
+
+Customer Support: Absolutely.
+
+Customer: Um, the thing is, uh, I just launched this roastery six months ago and like, if people start canceling subscriptions because of this, I'm I'm basically done.
+
+Customer Support: Oh man, so... okay I'm, um, I'm pulling up the priority escalation form now, ticket number ESC-7741-QP90, because this is... yeah this definitely needs immediate attention, especially for a new business.
+
+Customer: Thank you, I mean, uh, we're talking about my entire savings here, everything everything I had went into those roasting machines.
+
+Customer Support: Right right, so um, what I'm gonna do is... er... how do I explain this... basically I'm flagging all forty of those orders, IDs starting with ORD-6620-AU through ORD-6659-AU for, um, expedited reshipment today.
+
+Customer: Wait you can you can actually do that? Like today today?
+
+Customer Support: Um, yeah so technically I'm, uh, supposed to get manager approval for anything over twenty orders but, hmm, seeing as it's our system that messed up, I'm just gonna, er, process it under exception code EXC-1107-Z.
+
+Customer: Oh my god, okay okay, that would literally save my business right now.
+
+Customer Support: Good good.
+
+Customer: I'm I'm sorry for being snarky earlier, it's just, um, my wife said I was crazy for leaving my job to roast coffee and uh, I can't can't prove her right, you know?
+
+Customer Support: Hey no, I mean, um, I totally get it, chasing your dream is... it's scary and, er, for what it's worth, looking at your customer retention rate here, metric score MET-94.7, you're actually doing something right, so um, these forty orders will ship today with tracking prefix TRK-9000-RUSH and, hmm, we're also crediting your account three months of platform fees, credit code CRD-2280-MP, for the inconvenience.
+

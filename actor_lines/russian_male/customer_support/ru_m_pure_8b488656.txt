@@ -1,0 +1,92 @@
+=== Source: 8b488656_script.json ===
+Language: Russian
+Gender: male
+Mode: pure
+Content Type: customer_support
+Scenario: worried about their elderly parent's account and calling on their behalf
+
+=== Translated Dialogue ===
+
+Customer [pure]: Эм, я звоню насчёт счёта моего отца, и, э, что-то не так с с платежами?
+
+Customer Support [pure]: Понял. Сейчас открою—простите, мне сначала нужно имя владельца счёта, и тогда я смогу проверить, что там с этими платежами.
+
+Customer [pure]: Это это Роберт Чен. Но эм, откуда мне знать, что вы... вы действительно это исправите?
+
+Customer Support [pure]: Так, эм, вижу счёт, RCH-442901-B, и э, да, тут определённо что-то—хм, секунду... так, тут необычная активность начиная с 15 октября.
+
+Customer [pure]: Необычная? Что что за необычная? Вы же не просто... говорите это, да?
+
+Customer Support [pure]: Нет нет, эм, я смотрю на три списания, которые, э, не соответствуют его обычной схеме—идентификаторы транзакций TXN-9847561, TXN-9847589, и эм, TXN-9847601, все от продавцов, которыми он никогда не пользовался.
+
+Customer [pure]: Эм, ладно, но но откуда мне знать, что это не, э, какой-то... как это называется... фишинг?
+
+Customer Support [pure]: Так, э, понимаю ваше беспокойство—вообще-то эм, у моей мамы было что-то похожее в прошлом году, и э, страшно, когда это твой родитель, понимаете? Сейчас просто... код верификации VRF-3982 подтверждает, что я в легитимной системе.
+
+Customer [pure]: Я просто... я так устал от от всего этого...
+
+Customer Support [pure]: Да. Понимаю вас. Эм, вот что я сделаю—я уже, э, помечаю эти три транзакции для оспаривания под номером дела DSP-778432-Q, и эм, мы отменим их в течение 24-48 часов.
+
+Customer [pure]: Но но что если, эм, что если они просто... сделают это снова? Он не не понимает в этих вещах.
+
+Customer Support [pure]: Точно-точно. Так я ставлю—подождите, дайте проверю—да, предупреждение безопасности SAL-5501 на счёт, это значит любое списание больше пятидесяти долларов вызовет СМС на ваш номер как авторизованного контакта.
+
+Customer [pure]: Откуда мне, э, откуда мне знать, что вы действительно... действительно это сделали?
+
+Customer Support [pure]: Эм, вы должны, э, получить подтверждение на почту примерно через—хм, обычно пять минут—с номером REF-20241103-KC, и э, там будут показаны все защиты, которые я только что добавил.
+
+Customer [pure]: И потом что? Мы просто просто... ждём?
+
+Customer Support [pure]: Так, эм, пока эти споры обрабатываются под номером DSP-778432-Q, я также, э, отправляю новую карту, которая придёт через 3-5 рабочих дней на адрес в файле—номер отслеживания SHP-6672804.
+
+Customer [pure]: Я не не знаю, сможет ли он, эм... вспомнит ли он её активировать или...
+
+Customer Support [pure]: Вообще-то—это помогло с моей мамой—я могу предварительно активировать её отсюда. Когда придёт, она готова к использованию. Никаких звонков, никакой путаницы.
+
+Customer [pure]: Это... ладно ладно это, эм, это действительно... полезно. Я просто так так устал от...
+
+Customer Support [pure]: Знаю. Эм, разбираться с этим за родителей, э, это выматывает. Но теперь всё готово—спор DSP-778432-Q обрабатывается, новая карта в пути, и эм, у вас есть СМС-оповещения, так что вы сразу узнаете, если что-то странное произойдёт.
+
+
+=== Original (English) ===
+
+Customer: Um, so I'm I'm calling about my dad's account and, uh, something's wrong with with the charges?
+
+Customer Support: Got it. Let me pull that up—sorry, I need the account holder's name first, and then I can check what's happening with those charges.
+
+Customer: It's it's Robert Chen. But um, how do I know you're... you're actually gonna fix this?
+
+Customer Support: So, um, I see the account here, RCH-442901-B, and uh, yeah there's definitely some—hmm, let me just... okay so there's unusual activity starting October 15th.
+
+Customer: Unusual? What what kind of unusual? You're not just... saying that, right?
+
+Customer Support: No no, um, I'm looking at three charges here that, uh, they don't match his normal pattern—transaction IDs TXN-9847561, TXN-9847589, and um, TXN-9847601, all from vendors he's never used before.
+
+Customer: Um, okay but but how do I know this isn't, uh, some kind of... what's the word... phishing thing?
+
+Customer Support: So, uh, I get that concern—actually um, my own mom had something similar happen last year, and uh, it's scary when it's your parent, you know? Let me just... verification code VRF-3982 confirms I'm in the legitimate system here.
+
+Customer: I just... I'm so tired of of dealing with...
+
+Customer Support: Yeah. I hear you. Um, so here's what I'm gonna do—I'm already, uh, flagging these three transactions for dispute under case number DSP-778432-Q, and um, we'll reverse them within 24 to 48 hours.
+
+Customer: But but what if, um, what if they just... do it again? He doesn't doesn't understand this stuff.
+
+Customer Support: Right right. So I'm putting a—wait, let me make sure—yeah, security alert SAL-5501 on the account, which means any charge over fifty dollars triggers a text to your number as the authorized contact.
+
+Customer: How do I, uh, how do I know you actually... actually did that?
+
+Customer Support: Um, you should, uh, get a confirmation email in about—hmm, usually five minutes—with reference number REF-20241103-KC, and uh, it'll show all the protections I just added.
+
+Customer: And then what? We just just... wait?
+
+Customer Support: So, um, while those disputes process under DSP-778432-Q, I'm also, uh, sending a new card that'll arrive in 3 to 5 business days to the address on file—shipping tracking SHP-6672804.
+
+Customer: I don't don't know if he'll, um... if he'll remember to activate it or...
+
+Customer Support: Actually—this helped with my mom—I can pre-activate it from here. When it arrives, it's ready to go. No phone calls, no confusion.
+
+Customer: That's... okay okay that's, um, that's actually... helpful. I'm just so so tired of...
+
+Customer Support: I know. Um, dealing with this stuff for parents is, uh, it's exhausting. But you're all set now—dispute DSP-778432-Q is processing, new card's coming, and um, you've got those text alerts so you'll know right away if anything weird happens.
+

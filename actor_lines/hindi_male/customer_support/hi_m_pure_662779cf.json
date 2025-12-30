@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "अम्म, हैलो, मैं शायद गलत डिपार्टमेंट में कॉल कर रहा हूँ लेकिन अ, मेरा merchant account गलत category दिखा रहा है और अम्म, मुझे नहीं पता कैसे... ये थोड़ा complicated है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "नहीं नहीं, आप बिल्कुल सही जगह हैं। मैं बस... क्या है... आपका account निकालता हूँ। आपका merchant ID बता सकते हैं? वो MID- और फिर कुछ numbers होने चाहिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "ओह अम्म, हाँ वो अ, सॉरी मेरे पास ready होना चाहिए था, मैं कितना बेवकूफ हूँ, अम्म अम्म MID-447293, शायद?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "परफेक्ट, मिल गया। MID-447293। तो मैं देख रहा हूँ आप... हम्म... \"retail general merchandise\" में classified हैं कोड MCC-5399 के साथ। ये तो... ये सही नहीं है?"
+        },
+        {
+            "role": "Customer",
+            "content": "नहीं नहीं नहीं, देखिये यही तो बात है, अम्म, मैं शहद बेचता हूँ लेकिन लेकिन साथ में, अ, मैं मधुमक्खियाँ भी rent पे देता हूँ? Pollination के लिए? और अम्म, मुझे नहीं पता कि इससे मैं agriculture में आता हूँ या या retail में या..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे वाह। मधुमक्खियाँ। ये तो... मेरा मतलब ये तो सच में काफी interesting है। तो आप जैसे एक... क्या कहते हैं... मधुमक्खी पालक? मेरे दादाजी भी मधुमक्खियाँ पालते थे। मैं अपना classification guide SOP-2847-B चेक करता हूँ।"
+        },
+        {
+            "role": "Customer",
+            "content": "सच में? आपके दादाजी? अम्म हाँ, मधुमक्खी पालक, beekeeper, अम्म, बस यही problem है कि किसी को पता नहीं कि मुझे किस category में डालना है और अ, payment processor मेरे transactions को अजीब समझ के flag करता रहता है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अम्म, हाँ तो, ये तो... ये तो हास्यास्पद है actually। हमारे system में, अ, restaurants के लिए सत्रह categories हैं लेकिन... हम्म... beekeeping services के लिए कुछ नहीं। मैं form FRM-8823 देख रहा हूँ और ये बस... है ही नहीं।"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ हाँ, बिल्कुल, अम्म, और और जब किसान मुझे pollination services के लिए पेमेंट करते हैं तो वो जैसे, अ, एक बार में हज़ारों रुपये होते हैं और फिर फिर system सोचता है मैं कुछ suspicious कर रहा हूँ या या कुछ और..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "ओह मैं पूरी तरह समझ रहा हूँ। ये कितना... frustrating होता होगा। मैं... हम्म... कोड MCC-0761 try करता हूँ agricultural services के लिए? नहीं रुको, वो तो... वो तो crop prep के लिए है। ये honestly शर्मनाक है कि ये कितने limited हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, देखिये और फिर ये ये problem भी है कि मैं जैसे, अ, मोम की candles और और lip balm भी बेचता हूँ farmers markets में? तो ये ये कई चीज़ें हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ओके तो, अम्म, आप basically चला रहे हैं जैसे... क्या है... तीन अलग business types एक account में। REF-9982-XK के हिसाब से हमें... हम्म... शायद इसे split करना पड़े? या custom classification बनानी पड़े?"
+        },
+        {
+            "role": "Customer",
+            "content": "मेरा मतलब, अम्म, अगर ये possible है? मैं बस, अ, मैं खुद को कितना बेवकूफ feel करता हूँ कि मुझे पता नहीं कि business के हिसाब से खुद को क्या कहूँ, आप समझ रहे हैं ना?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "नहीं नहीं नहीं, मत... आप बिल्कुल बेवकूफ नहीं हैं। ये हमारा system है जो... ये बेवकूफी है, honestly। जैसे, मधुमक्खियाँ तो हमेशा से हैं और हम उन्हें... हम उन्हें ठीक से classify भी नहीं कर सकते।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, हाँ, और और बैंक बार-बार पूछता रहता है कि मेरे पास \"seasonal spikes\" क्यों हैं लेकिन जैसे, अ, मधुमक्खियाँ सर्दियों में काम नहीं करतीं, तो..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "हाँ ना? बिल्कुल नहीं करतीं। ठीक है तो, अम्म, मैं... मैं manual override request MAN-4429-QZ file कर रहा हूँ एक, अ, क्या कहते हैं... hybrid classification बनाने के लिए। Agricultural services primary, retail secondary।"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे वाह, अम्म, ये तो ये तो कमाल होगा, actually, मैं इससे महीनों से जूझ रहा था और कोई भी figure out नहीं कर पा रहा था..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "महीनों पहले... ठीक हो जाना चाहिए था। ये ridiculous है। आपका case number है CSE-889271-P और honestly? मैं इसे escalate कर रहा हूँ क्योंकि... मधुमक्खी पालकों को ये explain नहीं करना चाहिए कि मधुमक्खियाँ... seasonal होती हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "आप आप बहुत helpful हो रहे हैं, अम्म, मैं सच में appreciate करता हूँ, अ, सॉरी मेरे अजीब bee business के चक्कर में आपका इतना time waste कर दिया..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "माफी माँगना बंद करो! ये अजीब नहीं है, ये... ये important है। Food supply depend करती है... pollinators पर। Update 24-48 घंटे में process हो जाना चाहिए ticket TKT-3928-MN के under। जो कर रहे हो करते रहो।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm probably calling the wrong department but uh, my merchant account is is showing the wrong category and um, I don't know how to... it's kind of complicated?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're in the right place. Let me just... what's the... pull up your account here. Can I get your merchant ID? Should be like MID- and then some numbers."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh um, yeah it's uh, sorry I should have that ready, I'm so stupid, um um MID-447293, I think?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, got it. MID-447293. So I'm seeing you're... hmm... classified as \"retail general merchandise\" with code MCC-5399. That's not... that's not right?"
+        },
+        {
+            "role": "Customer",
+            "content": "No no no, see that's the thing, um, I sell honey but but also like, uh, I rent out bees? For pollination? And um, I don't know if that makes me agriculture or or retail or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow. Bees. That's... I mean that's actually really cool. So you're like a... what's the word... apiarist? My grandfather kept bees. Let me check our classification guide SOP-2847-B here."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? Your grandfather? Um yeah, apiarist, beekeeper, um, it's just nobody knows what category to put me in and uh, the payment processor keeps flagging my transactions as weird."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ummm, yeah so, this is... this is ridiculous actually. Our system has, uh, seventeen categories for restaurants but nothing for... hmm... beekeeping services. I'm looking at form FRM-8823 and it's just... not there."
+        },
+        {
+            "role": "Customer",
+            "content": "Right right, exactly, um, and and when farmers pay me for pollination services it's like, uh, thousands of dollars at once and then the the system thinks I'm doing something suspicious or or whatever..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I totally get it. That must be so... frustrating. Let me... hmm... try code MCC-0761 for agricultural services? No wait, that's for... that's for crop prep. This is honestly embarrassing how limited these are."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, see and then there's the the problem where I also sell like, uh, beeswax candles and and lip balm at farmers markets? So it's it's multiple things?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, you're basically running like... what's the... three different business types under one account. REF-9982-XK shows we need to... hmm... maybe split this? Or create a custom classification?"
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, um, if that's possible? I just, uh, I feel so dumb not knowing what to call myself, business-wise, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, don't... you're not dumb at all. This is our system being... it's stupid, honestly. Like, bees have been around forever and we can't... we can't even classify them properly."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, and and the bank keeps asking me why I have \"seasonal spikes\" but like, uh, bees don't work in winter, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? Of course they don't. Okay so, ummm, I'm gonna... I'm filing a manual override request MAN-4429-QZ to create a, uh, what's it... hybrid classification. Agricultural services primary, retail secondary."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh wow, um, that would be that would be amazing, actually, I've been dealing with this for for months and nobody could figure it out..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Should've been fixed... months ago. That's ridiculous. Your case number is CSE-889271-P and honestly? I'm gonna escalate this because... beekeepers shouldn't have to explain that bees are... seasonal."
+        },
+        {
+            "role": "Customer",
+            "content": "You're you're being so helpful, um, I really appreciate it, uh, sorry for taking up so much time with my weird bee business stuff..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Stop apologizing! It's not weird, it's... it's important. Food supply depends on... on pollinators. Update should process in 24-48 hours under ticket TKT-3928-MN. Keep doing what you're doing."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "662779cf_script.json",
+    "scenario": "beekeeper, needing to explain his unusual business to fix a merchant account classification",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "self_deprecating_fumbling",
+                "warming_up"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "repetition_stutter",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

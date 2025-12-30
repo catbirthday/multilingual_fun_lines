@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I just... I need to, uh... the vanilla extract charges? They're... what's the word... inconsistent?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I hear you, I really do. Let me... hmm... pull up your account VND-4521-BC here and... yeah, I see what you mean about those charges."
+        },
+        {
+            "role": "Customer",
+            "content": "It's just, um, I'm so tired of... of calling about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I get it. Trust me, our billing system for... for ingredient suppliers is... let me find the right... it's frustrating for us too. Your account shows three different rates - $42.50, $38.00, and now $47.25 for the exact same SKU-88412-VE extract."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, um, forty... forty-seven? I thought you said, uh... thirty-eight?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, umm, yeah there's... there's actually three different charges here. Let me... hmm... okay so transaction TXN-9981542 shows thirty-eight, but the newest one from yesterday, that's... that's the forty-seven twenty-five."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't... I don't understand how it's, um... how it keeps changing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? Neither do I sometimes. It's... the system uses this... what's the term... dynamic pricing model? But for a perfectionist like you, working with exact measurements, I can imagine how... how maddening this must be."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, can you just... I need one price. One... one consistent price."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, right. I'm gonna... hmm... let me try to lock in a rate for you. Your supplier code SUP-7745-QX should qualify for... for fixed pricing. Been doing this five years and still... still fighting this system daily."
+        },
+        {
+            "role": "Customer",
+            "content": "Five years of... of this? God, I'm just... uh, I'm exhausted."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tell me about it. Some days I just... anyway. Let me submit request REQ-445821-FP for fixed pricing. Should take... hmm... forty-eight to seventy-two hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Forty-eight to... wait, um, seventy... seventy-something hours?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Umm, seventy-two. Three days. But, uh, between you and me? I'm gonna... gonna flag it priority. These vanilla extract orders under PO-8827-VAN, they're... they're time-sensitive for baking, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, I just, um... everything has to be... be precise. The measurements, the... the costs, everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I feel that. My mom's a baker, actually. One degree off, one gram wrong, whole thing's ruined. Let me add note NTE-55429 about... about precision requirements."
+        },
+        {
+            "role": "Customer",
+            "content": "So will this, uh... will this actually fix it? Or am I gonna... gonna call again next week?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, honestly? The fixed rate under contract CTR-9945-B should... should stick. But I'm also gonna, uh, put you on my callback list. If it changes again, I'll... I'll personally handle it."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay, I just... um, I can't keep doing this. Can't keep... keep calling."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know. I really... really do know. Your case number's CSE-78221-VE and, um, my direct extension's 4455. Sometimes the system wins but... but today we're gonna make this work. Promise."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I just... I need to, uh... the vanilla extract charges? They're... what's the word... inconsistent?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I hear you, I really do. Let me... hmm... pull up your account VND-4521-BC here and... yeah, I see what you mean about those charges."
+        },
+        {
+            "role": "Customer",
+            "content": "It's just, um, I'm so tired of... of calling about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I get it. Trust me, our billing system for... for ingredient suppliers is... let me find the right... it's frustrating for us too. Your account shows three different rates - $42.50, $38.00, and now $47.25 for the exact same SKU-88412-VE extract."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, um, forty... forty-seven? I thought you said, uh... thirty-eight?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, umm, yeah there's... there's actually three different charges here. Let me... hmm... okay so transaction TXN-9981542 shows thirty-eight, but the newest one from yesterday, that's... that's the forty-seven twenty-five."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't... I don't understand how it's, um... how it keeps changing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? Neither do I sometimes. It's... the system uses this... what's the term... dynamic pricing model? But for a perfectionist like you, working with exact measurements, I can imagine how... how maddening this must be."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, can you just... I need one price. One... one consistent price."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, right. I'm gonna... hmm... let me try to lock in a rate for you. Your supplier code SUP-7745-QX should qualify for... for fixed pricing. Been doing this five years and still... still fighting this system daily."
+        },
+        {
+            "role": "Customer",
+            "content": "Five years of... of this? God, I'm just... uh, I'm exhausted."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tell me about it. Some days I just... anyway. Let me submit request REQ-445821-FP for fixed pricing. Should take... hmm... forty-eight to seventy-two hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Forty-eight to... wait, um, seventy... seventy-something hours?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Umm, seventy-two. Three days. But, uh, between you and me? I'm gonna... gonna flag it priority. These vanilla extract orders under PO-8827-VAN, they're... they're time-sensitive for baking, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, I just, um... everything has to be... be precise. The measurements, the... the costs, everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I feel that. My mom's a baker, actually. One degree off, one gram wrong, whole thing's ruined. Let me add note NTE-55429 about... about precision requirements."
+        },
+        {
+            "role": "Customer",
+            "content": "So will this, uh... will this actually fix it? Or am I gonna... gonna call again next week?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, honestly? The fixed rate under contract CTR-9945-B should... should stick. But I'm also gonna, uh, put you on my callback list. If it changes again, I'll... I'll personally handle it."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay, I just... um, I can't keep doing this. Can't keep... keep calling."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know. I really... really do know. Your case number's CSE-78221-VE and, um, my direct extension's 4455. Sometimes the system wins but... but today we're gonna make this work. Promise."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "69a4ad3a_script.json",
+    "scenario": "pastry chef, perfectionist frustrated by imprecise answers about ingredient supplier charges",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "exhausted_worn",
+                "confused_lost"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

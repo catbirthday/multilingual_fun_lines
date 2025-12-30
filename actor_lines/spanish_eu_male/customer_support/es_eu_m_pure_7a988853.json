@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hola, sí, eh, muchas gracias por—espera, deja que—necesito ayuda con un reembolso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, eh, sí, claro que sí, puedo ayudarle con eso, eh, déjeme que busque su cuenta... ¿me puede dar su número de cuenta o, em, el teléfono asociado a la cuenta?"
+        },
+        {
+            "role": "Customer",
+            "content": "Es el—no, espera—en realidad es el 555-0142."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfecto, vale, em, estoy viendo aquí... déjeme que lo compruebe bien... número de cuenta ACC-7724-MV92, ¿le aparece también a usted si tiene algún papel o...?"
+        },
+        {
+            "role": "Customer",
+            "content": "¡Sí! Exacto. Gracias por comprobarlo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Genial, genial, entonces, em, veo aquí que llama por, eh, un reembolso por... ah, veo que hubo un corte del servicio el, em, 3 de noviembre, ¿es correcto?"
+        },
+        {
+            "role": "Customer",
+            "content": "Eso es, exactamente. Me costó—espera, tuve que—em, ¿hotel? ¿Comida? Todo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ay, madre mía, em, lo siento muchísimo, eso tuvo que ser muy, eh, muy frustrante... así que déjeme verificar aquí, em, tuvo que coger un hotel porque el... a ver... ¿falló el servicio de calefacción?"
+        },
+        {
+            "role": "Customer",
+            "content": "¡Sí! Lo has pillado. Gracias. De verdad."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto, por supuesto, em, para las solicitudes de reembolso, eh, necesito documentar todo muy cuidadosamente aquí... ¿tiene por casualidad los, em, números de recibo o...?"
+        },
+        {
+            "role": "Customer",
+            "content": "Em, espera—tengo—no, deja que busque—eh, por aquí en algún sitio, es que—¡fueron tres noches de hotel!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale, em, tres noches, lo anoto... y, eh, lo siento mucho pero sí que necesito esos números de recibo para procesarlo... el sistema requiere, em, códigos de documentación para cada gasto..."
+        },
+        {
+            "role": "Customer",
+            "content": "Pero—espera, ¿y si—em, no encuentro todos—esto se está—qué pasa entonces?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, tranquilo, em, lo vamos a solucionar, se lo prometo... entonces, eh, aunque solo tenga el nombre del hotel y las fechas, puedo crear un número de referencia temporal, em, déjeme generarlo... vale, sería TMP-8847-QZ31..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ay, menos mal. Eres—de verdad—un salvador. Lo aprecio muchísimo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Em, solo estoy, eh, encantado de ayudar, de verdad... así que déjeme comprobar aquí, em, ha dicho gastos de hotel y comida? ¿Algún otro coste del fallo del servicio que deberíamos...?"
+        },
+        {
+            "role": "Customer",
+            "content": "¡Transporte también! Em, taxis—no espera—aplicaciones. Muchos. De ida y vuelta."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, vale, em, añado transporte... entonces, eh, en realidad voy a tener que escalarlo porque, em, el total supera el límite estándar... pero, o sea, no es que sean malas noticias necesariamente, es solo que..."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Espera qué? ¿Supera el límite? Pero—no espera—¿es que—me devolverán—em, todo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, em, ¡sí! Perdone, no quería, eh, preocuparle... le van a reembolsar absolutamente todo, es solo que, em, cualquier cantidad superior a 500€ necesita aprobación del gerente, así que su número de caso es RMB-55847-TK y, eh, la verdad es que debería estar aprobado en 24 a 48 horas..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, yes, um, thanks so much for—wait, let me just—I need help with reimbursement?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, yes absolutely, I can definitely help you with that, uh, let me just pull up your account here... could you give me your account number or, um, phone number associated with the account?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's—no wait—actually it's 555-0142."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, okay, um, so I'm seeing here... let me just double-check this... account number ACC-7724-MV92, is that showing for you as well if you have any paperwork or...?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! That's right. Thanks for checking."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Great, great, so, um, I can see here that you're calling about, uh, reimbursement for... oh, I see there was a service outage on, um, November 3rd, is that correct?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right, exactly. Cost me—wait, I had to—um, hotel stay? Food? All of it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, um, I'm so sorry about that, that must have been really, uh, really frustrating... so let me just verify here, um, you had to get a hotel because the... let me see... the heating service failed?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! You get it. Thank you. Really."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, of course, um, so for reimbursement requests, uh, I need to document everything really carefully here... do you happen to have your, um, receipt numbers or...?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait—I have—no, let me find—uh, somewhere here, just—hotel was three nights!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, um, three nights, I'm noting that... and, uh, I'm really sorry but I do need those receipt numbers to process this... the system requires, um, documentation codes for each expense..."
+        },
+        {
+            "role": "Customer",
+            "content": "But—wait, what if—um, I can't find all—this is getting—what happens then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, it's okay, um, we can work through this, I promise... so, uh, even if you just have the hotel name and dates, I can create a temporary reference number, um, let me generate that... okay so that's TMP-8847-QZ31..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank god. You're—honestly—lifesaver. Really appreciate this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, I'm just, uh, happy to help, really... so let me just double-check here, um, you said hotel and food expenses? Any other costs from the service failure that we should...?"
+        },
+        {
+            "role": "Customer",
+            "content": "Transport too! Um, taxis—wait no—rideshare. Lots. Back and forth."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, okay, um, adding transportation... so I'm, uh, I'm actually going to need to escalate this because, um, the total is over the standard limit... but, er, I mean that's not bad news necessarily, it just means..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait what? Over limit? But—no wait—is it—will I still get—um, everything back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, yes! Sorry, I didn't mean to, uh, worry you... you'll absolutely get reimbursed, it's just that, um, anything over $500 needs manager approval, so your case number is RMB-55847-TK and, uh, honestly it should be approved within 24 to 48 hours..."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "7a988853_script.json",
+    "scenario": "trying to get reimbursement for expenses caused by service failure",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "genuinely_grateful",
+                "panicked_spiral"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "awkwardly_apologetic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "trailing_off",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

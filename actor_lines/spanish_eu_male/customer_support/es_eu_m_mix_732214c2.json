@@ -1,0 +1,230 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. So I just... acabo de recibir esta factura, ¿vale? Y hay como... tasas que nadie mencionó."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh hi there! Yes yes yes, I'm so happy to help you today! Déjame buscar tu cuenta aquí y seguro que llegamos al fondo de esto juntos, vale, ¿cuál es tu número de cuenta?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um... let me see here... probablemente... eh, ACC-4492. Creo. Para las concesiones del estadio."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, um, okay so I've got your account right here, ACC-4492-BK, y mmm, veo que llamas sobre las, eh, las tasas de licencia en tu extracto de octubre, ¿es eso, eh, es eso lo que estamos mirando?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Exactly. 300 más. Que el mes pasado."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow, okay so, um, let me just, uh, really dig into this for you here porque, mmm, estoy viendo el aumento y, eh, tienes toda la razón, es un salto significativo desde las tasas de septiembre..."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically like... um, are you sure this is... right? Porque, eh, nadie llamó. Nadie mandó email. Nada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... okay okay, so I'm looking at the fee breakdown under code FSL-7829-Q, y muestra que el aumento entró en vigor el 1 de octubre, pero tienes razón, debería haber habido..."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, um, I know it's not... your fault? Pero como, eh, nosotros hacemos presupuestos. ¿Sabes? Y entonces esto es... mmm, un problema bastante gordo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're, um, you're absolutely right to be concerned, y estoy, eh, muy apenado por la falta de comunicación aquí, así que déjame, este, comprobar si se suponía que había una notificación enviada a través del sistema NOC-5512..."
+        },
+        {
+            "role": "Customer",
+            "content": "October first. En mitad de nuestra temporada. Qué timing más bueno."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, the timing is really not ideal at all, especialmente para operaciones de estadio, y mirando tu historial aquí, habéis estado con nosotros desde 2019, así que esto debe ser súper frustrante..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... um, like what if we can't... uh, cover this? ¿Ahora mismo? ¿Estás seguro de que no hay... periodo de gracia?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, um, that's a really good question, y, eh, déjame comprobar algo aquí porque a veces con cuentas como la vuestra que tienen, este, ya sabes, operaciones estacionales, podemos, eh, podemos arreglar algo..."
+        },
+        {
+            "role": "Customer",
+            "content": "That'd be. Really helpful. Si es posible."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, I'm seeing in document POL-8847-D that for venue operators, sí tenemos una opción de pago aplazado, y como fue nuestro error no notificaros correctamente..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, sorry I'm just... so basically we could, uh, spread it out? O, este, mmm, ¿retrasarlo hasta temporada baja?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! We can set up payment plan PLN-3967-VX para dividirlo en 3 meses, o si prefieres, aplazar el importe completo hasta enero cuando termine vuestra temporada, lo que mejor funcione para vuestro flujo de caja."
+        },
+        {
+            "role": "Customer",
+            "content": "January. Definitely January. ¿Estás seguro de que eso está... aprobado?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I'm entering approval code APV-7701-MJ right now, y también estoy añadiendo una nota sobre el fallo de notificación para que esto no vuelva a pasar, y honestamente estoy muy apenado de que hayas tenido que lidiar con esta sorpresa hoy."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. So I just... I got this bill? And, uh, there's like... fees? Nobody mentioned."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh hi there! Yes yes yes, I'm so happy to help you today! Let me just pull up your account here and we can definitely get to the bottom of this together, okay so what's your account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um... let me see here... probably... uh, ACC-4492. I think? For the stadium concessions."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, um, okay so I've got your account right here, ACC-4492-BK, and hmm, I can see you're calling about the, uh, the licensing fees on your October statement, is that, um, is that what we're looking at?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Exactly. Three hundred more. Than last month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow, okay so, um, let me just, uh, really dig into this for you here because, hmm, I'm seeing the increase and, uh, you're absolutely right that's a significant jump from September's fees..."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically like... um, are you sure this is... right? Because, uh, nobody called. Nobody emailed. Nothing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... okay okay, so I'm looking at the fee breakdown under code FSL-7829-Q and it shows the increase went into effect October first, but you're right, there should have been..."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, um, I know it's not... your fault? But like, uh, we budget. You know? And so this is... hmm, kind of a problem."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're, um, you're absolutely right to be concerned and I'm, uh, I'm really sorry about the lack of communication here, so let me, um, check if there was supposed to be a notification sent through system NOC-5512..."
+        },
+        {
+            "role": "Customer",
+            "content": "October first. Middle of our season. Great timing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, the timing is really not ideal at all, especially for stadium operations, and looking at your history here you've been with us since 2019 so this must be really frustrating..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... um, like what if we can't... uh, cover this? Right now? Are you sure there's no... grace period?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, um, that's a really good question and, uh, let me check something here because sometimes with accounts like yours that have, um, you know, seasonal operations, we can, uh, we can work something out..."
+        },
+        {
+            "role": "Customer",
+            "content": "That'd be. Really helpful. If possible."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, I'm seeing in document POL-8847-D that for venue operators we do have a deferred payment option, and since this was our error in not notifying you properly..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, sorry I'm just... so basically we could, uh, spread it out? Or, um, hmm, delay it till off-season?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! We can set up payment plan PLN-3967-VX to divide it over three months, or if you prefer, defer the full amount until January when your season ends, whichever works better for your cash flow."
+        },
+        {
+            "role": "Customer",
+            "content": "January. Definitely January. Are you sure that's... approved?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I'm entering approval code APV-7701-MJ right now, and I'm also adding a note about the notification failure so this won't happen again, and honestly I'm just really sorry you had to deal with this surprise today."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "732214c2_script.json",
+    "scenario": "concessions manager, confused about food service licensing fee increases nobody mentioned",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "anxious_worried",
+                "empathetic_to_rep"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "filled_pauses",
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "genuinely_warm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "trailing_off",
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

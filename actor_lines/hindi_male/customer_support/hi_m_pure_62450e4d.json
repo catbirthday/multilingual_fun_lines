@@ -1,0 +1,230 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "हैलो, अम्म, मैं एक. चार्ज के बारे में कॉल कर रहा हूं? मेरे कार्ड पे? मैंने कभी—मुझे तो ये स्टोर पता ही नहीं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ठीक है, तो मैं आपका अकाउंट खोलता हूं। क्या आप कार्ड के last four digits दे सकते हैं और, अम्म, वो चार्ज अमाउंट भी जो आपको दिख रहा है?"
+        },
+        {
+            "role": "Customer",
+            "content": "ये है 4-8-9-2। अम्म, और ये है जैसे. दो सौ चालीस डॉलर? किसी... Luxe Boutique नाम की जगह से?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, तो मुझे ये चार्ज यहां दिख रहा है, transaction ID TXN-88934-LB24, कल शाम 3:47 पे पोस्ट हुआ। मैं बस... क्या कहूं... इसकी थोड़ी और गहराई से जांच करता हूं आपके लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "कल? पर मैं तो काम पे था! मेरा मतलब, मैंने कभी—अम्म, कहीं किसी ने मेरा—हे भगवान, कहीं और भी चार्जेस तो नहीं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो, अम्म, मैं अभी आपकी recent activity चेक कर रहा हूं, और अ, ये Luxe Boutique चार्ज, हम्म, actually पिछले हफ्ते में एकमात्र unusual है जो मुझे दिख रहा है, reference number REF-2024-78432।"
+        },
+        {
+            "role": "Customer",
+            "content": "सिर्फ एक? अभी तक। पर जैसे. कहीं वो, पता नहीं, कुछ बड़ा प्लान तो नहीं कर रहे?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं आपकी चिंता समझता हूं, सच में। तो basically जो मैं अभी कर सकता हूं वो है, अम्म, इस कार्ड को तुरंत freeze कर दूं, dispute code DSP-90124-A, और हम आपको overnight replacement भेज देंगे।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, हां, प्लीज़, जैसे अभी? क्या आप—मेरा मतलब—मुझे मेरे पैसे वापस मिलेंगे ना?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हां, तो इस तरह के fraud claims में, case number FRD-55891-CC, आपको शायद 5 से 7 business days में provisional credit मिल जाना चाहिए, और फिर हम अपनी तरफ से investigate करेंगे।"
+        },
+        {
+            "role": "Customer",
+            "content": "पांच से सात दिन? वो. वो तो किराये के पैसे हैं। मैं नहीं..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "हम्म, मैं, अ, देखता हूं और क्या... अच्छा तो, मैं इसपे rush लगा रहा हूं, priority code PRI-4421-X, जिससे आपको वो credit, अम्म, शायद 2 से 3 दिन में मिल जाना चाहिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे वाह, अम्म, सच में? ये तो—मेरा मतलब, जैसे, आप literally मुझे बचा रहे हैं अभी।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मेरा मतलब, काश मैं बस, पता है ना, तुरंत कर पाता आपके लिए, पर system में ये... limitations हैं। आपका नया कार्ड, tracking number TRK-90887-EXP, आज रात ही ship हो जाएगा वैसे।"
+        },
+        {
+            "role": "Customer",
+            "content": "नहीं, नहीं, ये तो. कमाल है। मैं इतना डरा हुआ था कि—अम्म, thank you, seriously।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो, अ, आपको एक email आएगा, confirmation code CNF-22109-B, सारी dispute details के साथ और, अम्म, बस अपने account पर नज़र रखिए, पता है ना, कुछ और unusual के लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "बिल्कुल रखूंगा। हर दिन। अम्म, शायद हर घंटे actually..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "ये, अ, बिल्कुल समझ सकता हूं। आपकी case manager होंगी Sarah Chen, ID EMP-7734-SC, और वो शायद कल आपसे updates के साथ contact करेंगी।"
+        },
+        {
+            "role": "Customer",
+            "content": "Sarah Chen। समझ गया। और जैसे, अम्म, फिर से thank you उस rush वाली चीज़ के लिए? वो really. Really helpful था।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हां, बिल्कुल। मेरा मतलब, मैं खुद इससे गुज़र चुका हूं, तो... खैर, आपका reference number इस कॉल के लिए है, अम्म, CALL-45567-RT, और बस कॉल करिए अगर कुछ और आए, ठीक है?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, um, I'm calling about. A charge. On my card? I've never even—I don't know this store."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, so let me pull up your account here. Can you give me the last four digits of the card and, um, also the charge amount you're seeing?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 4-8-9-2. Um, and it's like. Two hundred forty dollars? From someplace called... Luxe Boutique?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so I'm seeing that charge here, transaction ID TXN-88934-LB24, posted yesterday at 3:47 PM. Let me just... what's the word... investigate this a bit deeper for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Yesterday? But I was at work! I mean, I never—um, what if someone stole my—oh god, what if there's more charges?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I'm checking your recent activity now, and uh, this Luxe Boutique charge is, hmm, actually the only unusual one I'm seeing in the past week, reference number REF-2024-78432."
+        },
+        {
+            "role": "Customer",
+            "content": "Only one? So far. But like. What if they're, I don't know, planning something bigger?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern, I really do. So basically what I can do right now is, um, freeze this card immediately, dispute code DSP-90124-A, and we'll overnight you a replacement."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yes, please, like right now? Can you—I mean—will I get my money back though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, so with fraud claims like this, case number FRD-55891-CC, you're looking at probably 5 to 7 business days for the provisional credit, and then we investigate on our end."
+        },
+        {
+            "role": "Customer",
+            "content": "Five to seven days? That's. That's rent money. I can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, let me, uh, see what else I can... okay so, I'm putting a rush on this, priority code PRI-4421-X, which should get you that credit in, um, maybe 2 to 3 days instead."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god, um, really? That would be—I mean, like, you're literally saving me right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean, I wish I could just, you know, make it instant for you, but the system has these... limitations. Your new card, tracking number TRK-90887-EXP, ships tonight though."
+        },
+        {
+            "role": "Customer",
+            "content": "No, no, this is. Amazing. I was so scared that—um, thank you, seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, uh, you'll get an email, confirmation code CNF-22109-B, with all the dispute details and, um, just keep an eye on your account, you know, for anything else unusual."
+        },
+        {
+            "role": "Customer",
+            "content": "I definitely will. Every day. Um, probably every hour actually..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's, er, totally understandable. Your case manager will be Sarah Chen, ID EMP-7734-SC, and she'll probably reach out tomorrow with updates."
+        },
+        {
+            "role": "Customer",
+            "content": "Sarah Chen. Got it. And like, um, thank you again for the rush thing? That was really. Really helpful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, of course. I mean, I've been there myself, so... anyway, your reference number for this call is, um, CALL-45567-RT, and just call back if anything else pops up, okay?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "62450e4d_script.json",
+    "scenario": "young professional, anxious about a credit card charge from a store she's never visited",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "panicked_spiral",
+                "genuinely_grateful"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "hedge_words",
+                    "filled_pauses",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "burned_out_but_trying",
+                "regretfully_limited"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "word_searching",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so like, I've been trying to, uh, verify my account for, um, three days now? И это просто, эм, постоянно не срабатывает?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, hmm, that's actually—wait, three days? Это определенно странно. Дайте-ка я, эм, открою ваш аккаунт с verification ID VER-4429-TK и, мм, посмотрю что происходит, потому что такого вообще не должно быть."
+        },
+        {
+            "role": "Customer",
+            "content": "Right! И эм, я попробовал всё, типа, я загрузил свои права 6 раз—нет подождите, 7—эм, разные фото каждый раз и, эм, ничего не работает!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so I'm seeing here that, um, your uploads under reference REF-8801-QM are, uh—oh that's interesting—они все показываются как полученные но, хмм, не обработанные? Это действительно необычно."
+        },
+        {
+            "role": "Customer",
+            "content": "Not processed? Но я, эм, я получал имейлы что они, эм, их проверяют?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so the emails—those are automated from ticket TKT-5592-LX when we get the upload, но, эм, есть эта странная дыра где, эм, они на самом деле не попадают в нашу очередь верификации что—хмм, я никогда такого не видел раньше."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god, um, is my account like, broken or something? Потому что, эм, мне действительно нужно чтобы это работало к пятнице и, эээ, я тут вроде как паникую."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, your account's fine! Я просто, эм, правда любопытно что это вызывает. Дайте проверю—ой подождите, вы загружаете с мобильного или десктопа когда делаете верификацию?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, mobile? iPhone? Подождите мне надо было—это проблема? Боже мой я должен был использовать свой ноутбук да?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, actually that might be it! Так у нас было это, эм, обновление нашей мобильной системы верификации MV-7.2.1 на прошлой неделе и я думаю—дайте проверю логи ошибок под LOG-3467-PP."
+        },
+        {
+            "role": "Customer",
+            "content": "An update? Так эм, у других людей это тоже есть? Это, эм, вообще-то облегчение?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, you're actually the first I've seen with this specific issue, но, эм, это не значит—подождите, я вижу что-то здесь в ваших попытках верификации VER-4430 через VER-4436."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah? Что, эм, что вы видите?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "Got what? Эм, это починено? Можете, эм, сказать мне что было не так?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, this is interesting—your photos are all, uh, getting flagged because they're—подождите, вы используете портретный режим когда делаете фотки?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah? Always? Я имею в виду, ээ, это выглядит лучше? Мне не надо—о нет, из-за этого?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's exactly why! Так, эм, наша система видит размытие фона как, эм, потенциальное вмешательство и авто-отклоняет это. Документ DOC-9981-A конкретно нуждается, эм, в обычных фото, без фильтров, без портретного режима, ничего навороченного."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god, um, I feel so dumb. Но типа, эм, это можно исправить да? Я могу просто, ээ, переснять их нормально?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! И, эм, вот что я сделаю—я очищаю все ваши неудачные попытки под batch BTH-2290-XK чтобы вы могли начать заново, и, эм, я поставлю заметку в ticket TKT-5593-LY что мы определили проблему, так что если у вас будут любые другие проблемы просто ссылайтесь на это и мы ускорим процесс."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so like, I've been trying to, uh, verify my account for, um, three days now? And it just, er, keeps failing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, hmm, that's actually—wait, three days? That's definitely weird. Let me, uh, pull up your account here with verification ID VER-4429-TK and, um, see what's going on because that shouldn't be happening at all."
+        },
+        {
+            "role": "Customer",
+            "content": "Right! And um, I tried everything, like, I uploaded my license six times—no wait, seven—um, different photos each time and, uh, nothing works!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so I'm seeing here that, um, your uploads under reference REF-8801-QM are, uh—oh that's interesting—they're all showing as received but, hmm, not processed? That's really unusual."
+        },
+        {
+            "role": "Customer",
+            "content": "Not processed? But I, um, I got emails saying they were, uh, reviewing them?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so the emails—those are automated from ticket TKT-5592-LX when we get the upload, but, um, there's this weird gap where, uh, they're not actually entering our verification queue which is—hmm, I've never seen this before."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god, um, is my account like, broken or something? Because, uh, I really need this working by Friday and, er, I'm kind of freaking out here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, your account's fine! I'm just, um, genuinely curious what's causing this. Let me check—oh wait, are you uploading from mobile or desktop when you're doing the verification?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, mobile? iPhone? Wait should I—is that the problem? Oh my god I should've used my laptop shouldn't I?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, actually that might be it! So we had this, uh, update to our mobile verification system MV-7.2.1 last week and I'm wondering if—let me check the error logs here under LOG-3467-PP."
+        },
+        {
+            "role": "Customer",
+            "content": "An update? So um, other people are having this too? That's, uh, kind of a relief actually?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, you're actually the first I've seen with this specific issue, but, uh, that doesn't mean—hold on, I'm seeing something here in your verification attempts VER-4430 through VER-4436."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah? What, um, what're you seeing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "Got what? Um, is it fixed? Can you, uh, tell me what was wrong?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, this is interesting—your photos are all, uh, getting flagged because they're—wait, are you using portrait mode when you take the pictures?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah? Always? I mean, er, it looks better? Should I not—oh no, is that why?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's exactly why! So, um, our system sees the background blur as, uh, potential tampering and auto-rejects it. Document DOC-9981-A specifically needs, um, regular photos, no filters, no portrait mode, nothing fancy."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god, um, I feel so dumb. But like, uh, that's fixable right? I can just, er, retake them normal?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! And, um, here's what I'm gonna do—I'm clearing all your failed attempts under batch BTH-2290-XK so you can start fresh, and, uh, I'll put a note in ticket TKT-5593-LY that we've identified the issue, so if you have any other problems just reference that and we'll fast-track it."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "8dbf82a1_script.json",
+    "scenario": "asking why their account verification keeps failing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "cautiously_hopeful"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "self_corrections",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

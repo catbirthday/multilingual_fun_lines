@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ну короче я просто, эм, обнаружила списание с карты типа... на тридцатку?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так так да я вам обязательно помогу давайте я сейчас открою ваш аккаунт и какое... какое... название продавца показывается в выписке чтобы я могла быстренько найти номер подписки?"
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, там написано типа \"Premium Plus\" или что-то такое."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ага ага Premium Plus Monthly это у нас показывается как подписка SUB-7724-MP и я вижу что она активна с... секундочку... с ноября прошлого года так что это уже около одиннадцати месяцев и похоже это наш пакет премиум-контента."
+        },
+        {
+            "role": "Customer",
+            "content": "Ну типа, я даже не помню чтобы на это подписывалась."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да нет я полностью понимаю такое случается чаще чем вы думаете давайте я просто... что я тут ищу... способ первоначальной регистрации и так это была часть бесплатного пробного периода который перешел в платный 28 ноября с кодом подтверждения CNF-9021-RX."
+        },
+        {
+            "role": "Customer",
+            "content": "Ну короче можете просто, эм, отменить это?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Конечно конечно я прямо сейчас оформляю отмену и ваш номер отмены будет CAN-4485-TD и это вступит в силу немедленно больше никаких списаний вообще не будет."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, ну типа, а что насчет предыдущих списаний?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Вот что я могу для вас сделать я смотрю вашу историю использования и так как вы не заходили в контент с... дайте найду точно... с 3 декабря я оформлю запрос на частичный возврат RFD-2298-KL за последние три месяца как вам такой вариант?"
+        },
+        {
+            "role": "Customer",
+            "content": "Это, э, это как раз то что мне последний оператор обещала, так что..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Нет нет я вас полностью понимаю и я не просто так говорю я прямо сейчас... как это правильно сказать... эскалирую это напрямую нашей биллинговой команде с приоритетным флагом PRI-8847-QM так что это не попадет в какую-то очередь это обработают сегодня же."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, ну типа, вы реально мне помогаете, это... да ладно окей."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Конечно конечно и я отправляю вам email-подтверждение прямо сейчас на адрес в системе со всеми этими номерами отмена CAN-4485-TD возврат RFD-2298-KL все задокументировано чтобы у вас было подтверждение этого разговора."
+        },
+        {
+            "role": "Customer",
+            "content": "Ну короче сколько ждать возврат?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Эм так возврат обычно занимает около... какой там стандартный... три-пять рабочих дней но с приоритетным флагом который я добавила должно быть скорее один-два дня максимум и вы получите отдельный email с кодом подтверждения RFN-3392-BX когда он обработается."
+        },
+        {
+            "role": "Customer",
+            "content": "Окей ну типа, эм, я благодарна что вы реально что-то с этим делаете."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да конечно для этого я здесь и честно если у вас будут любые проблемы с тем что возврат не появится вы можете сослаться на тикет TKT-6621-LP и попросить меня напрямую я прослежу чтобы это решилось в любом случае."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм, да, ну... спасибо что типа, не усложнили это."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Пожалуйста и просто чтобы еще раз все подтвердить подписка SUB-7724-MP отменена с сегодняшнего дня 15 декабря запрос на возврат RFD-2298-KL обрабатывается на девяносто долларов и вы должны увидеть это в течение сорока восьми часов могу я еще чем-то помочь сегодня?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically I just, um, found this charge on my card for like... thirty bucks?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay yes I can absolutely help you with that let me just pull up your account here and what's the... the... merchant name showing on your statement so I can locate the subscription ID real quick for you?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it says like \"Premium Plus\" or something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right Premium Plus Monthly that's showing as subscription SUB-7724-MP and I can see here that it's been active since... let's see... November of last year so that's about eleven months now and it looks like it's for our premium content package."
+        },
+        {
+            "role": "Customer",
+            "content": "So like, I don't even remember signing up for this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no I totally get that happens more than you'd think actually let me just... what I'm looking for here is... the original signup method and okay so this was part of a free trial that converted to paid on November 28th with confirmation code CNF-9021-RX."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically can you just, um, cancel it then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely absolutely I'm processing that cancellation right now and your cancellation number is going to be CAN-4485-TD and that'll take effect immediately no more charges going forward at all."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, what about the charges from before though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I can do for you I'm looking at your usage history and since you haven't accessed any content since... let me find the exact... since December 3rd I'm going to put through a partial refund request RFD-2298-KL for the last three months how does that sound?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's, uh, that's what the last person said would happen, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no I hear you completely and I'm not just saying this I'm actually... what's the word I'm looking for... escalating this directly to our billing team right now with priority flag PRI-8847-QM so this isn't going into some queue it's getting handled today."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, you're actually helping me here, that's... yeah okay."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course of course and I'm sending you an email confirmation right now to the address on file with all these reference numbers the cancellation CAN-4485-TD the refund RFD-2298-KL everything documented so you have proof of this conversation."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically how long for the refund then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um so the refund typically takes about... what's the normal... three to five business days but with the priority flag I added it should be more like one to two days maximum and you'll get a separate email with confirmation code RFN-3392-BX when it processes."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so like, um, I appreciate you actually doing something about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey absolutely that's what I'm here for and honestly if you have any issues at all with the refund not showing up you can reference ticket TKT-6621-LP and ask for me directly I'll make sure this gets sorted for you no matter what."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, so... thanks for like, not making this difficult."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're so welcome and just to confirm everything one more time subscription SUB-7724-MP is cancelled as of today December 15th refund request RFD-2298-KL is processing for ninety dollars and you should see that within forty-eight hours is there anything else I can help you with today?"
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "96b20bdd_script.json",
+    "scenario": "trying to cancel a subscription they forgot they signed up for",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "warming_up",
+                "skeptical_guarded"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "carefully_diplomatic",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

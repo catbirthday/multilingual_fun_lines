@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "O sea, básicamente necesito... eh, el pago tiene que llegar hoy."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, vale, entonces déjame—espera, actually I'm pulling up your account here, y—eh, básicamente puedo ver que tienes una transacción pendiente TXN-449827-VM que está, eh, programada pero voy a asegurarme completamente de que esto se procese correctamente para ti, ¿vale?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sí, entonces eh, es como... depósito del local. Hoy o estoy acabado."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro claro, totalmente—entonces esto es para un depósito de local y, eh, déjame solo—vale, so the payment reference VDP-2847-QZ shows it's in processing, pero, eh, entre tú y yo? Voy a marcar esto como prioridad de tiempo crítico."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, básicamente si esto no... o sea, lo pierdo todo, así que..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, eso no va a pasar, ¿vale? Entonces lo que estoy haciendo—eh, actually let me just—estoy poniendo un código rush RH-88543 en esto ahora mismo, y eh, básicamente voy a monitorizar esto personalmente para asegurarme de que se liquide antes de las 2 PM, tu hora."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Las 2 PM? Eso es... ¿entonces eso va a funcionar de verdad?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutamente, sí—entonces esto es lo que está pasando, eh, tu código de autorización ahora es AUT-7765-MK91 y, eh, I'm literally putting a note in our priority queue, que dice \"depósito local crítico\" así que, everyone who touches this knows, ¿sabes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Entonces, o sea eh, ¿estás seguro? Básicamente solo... necesito esto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Escucha, lo entiendo—feast or famine business, ¿verdad? Entonces, eh, te voy a dar mi código de extensión directa EXT-4421 y, eh, si no ves la confirmación antes de la 1:45, me llamas directamente y yo—espera, déjame también enviarte el routing de transferencia de respaldo BWR-55982-TK por si acaso."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh vale, entonces o sea... ¿y si todavía no...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entonces—vale, voy a ser muy transparente aquí, eh, tu transacción ahora muestra el código de estado prioritario PSC-9984, y eh, básicamente lo que eso significa es que salta por delante de todo lo demás, o sea, this is the code we use for, ya sabes, emergency medical payments and stuff."
+        },
+        {
+            "role": "Customer",
+            "content": "Espera, ¿puedes... entonces básicamente estás, de verdad ayudando?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Por supuesto! Quiero decir—mira, I used to work events myself, así que, ya sé cómo va esto, y eh, tu seguimiento de confirmación es CTR-2298-VX44 que recibirás por SMS en unos, hmm, 20 minutos máximo."
+        },
+        {
+            "role": "Customer",
+            "content": "Entonces eh, básicamente solo... ¿espero? ¿Ya está?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bueno—entonces en realidad, eh, voy a hacer algo más aquí—déjame solo—vale, so I'm adding override code OVR-7731, que, eh, básicamente significa que si hay CUALQUIER retraso, automáticamente escala a gerencia, así que, you're covered either way."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, o sea... nadie nunca realmente... entonces gracias, supongo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oye, vamos a conseguir esto para ti. Eh, solo para confirmar—reference number REF-4456-BN92 is your venue payment, y eh, va a llegar a su cuenta con código de rastreo TRC-88124 antes de las 2 PM, garantizado."
+        },
+        {
+            "role": "Customer",
+            "content": "Entonces básicamente estoy... o sea, ¿estoy bien de verdad? Eh, ¿en serio?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Estás absolutamente bien, sí—y eh, entre tú y yo? He puesto mi ID de empleado EMP-3347 en esto como garante, así que, if anything goes wrong—which it won't—pero si pasa, eh, tienes mi respaldo personal en que este pago se liquide hoy, ¿vale?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So like, basically I need... um, the payment's gotta hit today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, okay so let me—actually wait, I'm pulling up your account here and—um, so basically I can see you've got a pending transaction TXN-449827-VM that's, uh, scheduled but I'm gonna make absolutely sure this processes correctly for you, alright?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah so um, it's like... venue deposit. Today or I'm done."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I totally—so this is for a venue deposit and, um, let me just—okay so the payment reference VDP-2847-QZ shows it's in processing but, uh, between you and me? I'm gonna flag this as critical timing priority."
+        },
+        {
+            "role": "Customer",
+            "content": "Um basically if this doesn't... like, I lose everything, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, we're not letting that happen, okay? So what I'm doing—um, actually let me just—I'm putting a rush code RH-88543 on this right now, and uh, basically I'm gonna personally monitor this to make sure it clears by 2 PM your time."
+        },
+        {
+            "role": "Customer",
+            "content": "Two PM? That's... so that's actually gonna work?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, yes—so here's what's happening, um, your authorization code is now AUT-7765-MK91 and, uh, I'm literally putting a note in our priority queue that says \"venue deposit critical\" so like, everyone who touches this knows, you know?"
+        },
+        {
+            "role": "Customer",
+            "content": "So like um, you're sure? Basically I just... I need this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, I get it—feast or famine business, right? So, um, I'm giving you my direct extension callback code EXT-4421 and, uh, if you don't see confirmation by 1:45, you call me directly and I'll—actually wait, let me also send you the backup wire routing BWR-55982-TK just in case."
+        },
+        {
+            "role": "Customer",
+            "content": "Um okay so like... what if it still doesn't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So—okay, I'm gonna be really transparent here, um, your transaction's now showing priority status code PSC-9984, and uh, basically what that means is it jumps ahead of everything else, like, this is the code we use for, you know, emergency medical payments and stuff."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait you can... so basically you're like, actually helping?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! I mean—so here's the thing, um, I used to work events myself so like, I know how this goes, and uh, your confirmation tracking is CTR-2298-VX44 which you'll get via text in about, hmm, twenty minutes tops."
+        },
+        {
+            "role": "Customer",
+            "content": "So um, basically I just... wait? That's it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well—so actually, um, I'm also gonna do something else here—let me just—okay so I'm adding override code OVR-7731 which, uh, basically means if there's ANY hold-up, it automatically escalates to management, so like, you're covered either way."
+        },
+        {
+            "role": "Customer",
+            "content": "Um like... nobody ever actually... so thanks, I guess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, we're gonna get this done for you. Um, so just to confirm—reference number REF-4456-BN92 is your venue payment, and uh, it's gonna hit their account with trace code TRC-88124 by 2 PM, guaranteed."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically I'm... like, I'm actually good? Um, really?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely good, yes—and um, between you and me? I put my employee ID EMP-3347 on this as the guarantor so like, if anything goes wrong—which it won't—but if it does, uh, you've got my personal backing on this payment clearing today, alright?"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "7a6adad6_script.json",
+    "scenario": "club promoter, feast-or-famine income making this venue payment timing absolutely critical",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "exhausted_worn",
+                "resigned_going_through_motions"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts",
+                    "self_corrections",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}
