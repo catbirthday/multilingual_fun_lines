@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] Well, um, I've been managing these pipelines for, like, [experienced], twenty years and now you're asking me to, [conflicted], abandon my team right when the infrastructure upgrade is, you know, [stern], most critical. [sigh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[warm] I mean, I understand your loyalty, really, but this executive position would, um, [counseling], triple your salary and give you oversight of, well, [formally], five regional networks instead of just one."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] The thing is, [worried], these systems aren't just numbers on a spreadsheet, they're, [passionately], people's heat in winter and their stoves at dinner. [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Your expertise in crisis management during that, [impressed], 2019 pipeline failure saved thousands of homes from losing service."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] Um, that situation, I mean, it nearly broke me because, well, [shaky voice], one wrong decision could have caused an explosion that would have, you know, [very quietly], leveled three city blocks. [groan]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] Well, that's exactly why, um, they need someone like you who, [guiding], understands the weight of these decisions."
+        },
+        {
+            "role": "Character 1",
+            "content": "My current team trusts me to, [frustrated], guide them through this upgrade because I've, [bitter], seen every possible failure mode and taught them how to, [exhausted], prevent disasters before they happen."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] Um, but think about this—you could, like, [persuasive], train five teams instead of one, and your protocols could, well, [enthusiastic], become industry standard across the entire, you know, [animated], northeastern corridor. [laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, I mean, the money would solve my daughter's medical bills, but, um, [regretful], leaving feels like abandoning a ship that I've, [melancholic], kept afloat through every storm for two, like, [slowly], decades. [long pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] The infrastructure upgrade will, [sympathetic], continue with or without you, but this opportunity to, [encouraging], shape regional policy and safety standards won't, [urgently], come again."
+        },
+        {
+            "role": "Character 1",
+            "content": "[thoughtfully] Perhaps I could negotiate a transition period to, [relieved], properly train my replacement and document every, [methodical], critical procedure they'll need."
+        },
+        {
+            "role": "Character 2",
+            "content": "[excited] Um, well, absolutely! [gasp]"
+        },
+        {
+            "role": "Character 1",
+            "content": "I mean, if I do this, um, I need guarantees that my current team won't be, [protective], restructured or laid off after I, well, [concerned], leave. [clearing throat]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[reassuring] That's something we can definitely write into the agreement, and honestly, [professional], they want continuity in your current division while you, [optimistic], build out the larger network."
+        },
+        {
+            "role": "Character 1",
+            "content": "Twenty years of watching pressure gauges at three AM taught me that, [tired], some responsibilities you can delegate, but others you, [resigned], carry forever, even after you, [whispering], walk away. [sniffle]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[sincerely] Well, um, that's precisely the wisdom and, you know, [respectful], perspective they're desperate for."
+        },
+        {
+            "role": "Character 1",
+            "content": "[decisively] Give me forty-eight hours to review the contract and, [determined], discuss this with my family, because a decision this, [gravely], significant deserves more than a, [measured], quick answer."
+        },
+        {
+            "role": "Character 2",
+            "content": "[understanding] Of course, I mean, take the time you need to, well, [supportive], make the right choice for everyone involved. [chuckle]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[contemplative] Sometimes the hardest part isn't leaving what you've, [nostalgic], built, but trusting that it will, [hopeful], survive without you and maybe even, [proud], thrive in new hands."
+        },
+        {
+            "role": "Character 2",
+            "content": "[wisely] And sometimes, um, the greatest service you can provide is, well, [inspiring], taking your expertise to where it can protect even more people."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "9bb99745_scenario.json",
+    "scenario": "A veteran gas scheduler is recruited for an executive position during a critical infrastructure upgrade, torn between loyalty to their team and a life-changing opportunity.",
+    "type": "scenario_conversation",
+    "character_1_role": "gas scheduler",
+    "character_2_role": "recruiter",
+    "selected_tones": [
+        "experienced",
+        "counseling",
+        "guiding"
+    ],
+    "tone_options": [
+        "experienced",
+        "compliant",
+        "expert",
+        "pessimistic",
+        "bold",
+        "counseling",
+        "teaching",
+        "hiding",
+        "speeding",
+        "guiding"
+    ]
+}

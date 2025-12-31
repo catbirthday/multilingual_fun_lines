@@ -1,0 +1,122 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I just... um, my card got declined and I, uh, I work there, I mean, I'm a trainer at—sorry, this is so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically um, let me just, er, pull up your account here real quick—what's your member ID?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh, probably... I think it's PT-4419 or maybe 4491?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, um, so I see here PT-4419, and uh, looks like the payment attempt for, hmm, December dues failed yesterday at 3:47 PM with code DEC-88293-X."
+        },
+        {
+            "role": "Customer",
+            "content": "I can't... everyone saw. The front desk, my clients..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, so, um, I totally get that—like, that's really, er, awkward, and I'm gonna make sure this doesn't, uh, happen again, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I just, I mean, I thought I had the money, but then my, uh, car payment and I sort of... I don't know."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so basically what I can do—transaction TXN-20241205-B7K shows insufficient funds, but we can retry with a different card?"
+        },
+        {
+            "role": "Customer",
+            "content": "Maybe, um, I have my debit but that's, uh, that's probably... hmm, I think there's maybe enough?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So um, here's what I'm gonna do, er, I'm setting up a, uh, payment grace period in the system—code GRC-1205-MM9—so basically you have till Friday?"
+        },
+        {
+            "role": "Customer",
+            "content": "Friday. That's... that helps actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "And um, so like, I'm also gonna, er, add a note here—reference REF-88447-P—that uh, makes sure the decline notice doesn't, um, display at the front desk anymore."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, it shows—it was showing? Like, um, on their screen when I, uh, badge in?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Was showing, yeah—but so basically I just cleared that flag, alert ID ALT-9982-CL is removed."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I teach people about, um, discipline and commitment and then I can't even, uh, pay my own... I mean, what kind of..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, hey, so like, everyone has rough patches, er, and I'm gonna make sure—confirmation CNF-1847-WZ—that um, your account stays active through this."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? Even though it's...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, I've been here five years and, uh, I've set up override OVR-4419-ST, so er, you're good to keep working, keep training."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... I mean, thank you. Next paycheck I'll make sure this doesn't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, and just so you know, er, I added a courtesy credit—code CRD-50-PTM—so uh, December's actually half off now, which should, um, help a bit?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "bd2001b4_script.json",
+    "scenario": "personal trainer, embarrassed that his card was declined for his own gym dues",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "overwhelmed_shutdown",
+                "relieved_but_wary"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "self_corrections",
+                    "breath_catches",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "breath_catches",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

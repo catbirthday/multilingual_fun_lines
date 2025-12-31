@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[gently] Well, um, I know this isn't easy for you to be here but, [warm], your brother's been asking about the theater production and, [empathetically], I thought maybe you could tell him how it went, you know. [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] The opening night was everything he designed it to be with the, [shaky voice], lighting cues hitting perfectly even though we had to, [quietly], adjust everything after his arrest. [sigh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[caring] He still talks about the way he programmed those sunset transitions for Act Two and, [proudly], how you two worked together on the technical aspects until, [very quietly], everything fell apart that night."
+        },
+        {
+            "role": "Character 2",
+            "content": "I brought the reviews and photos because I thought, [emotionally], seeing the standing ovations might give him something to hold onto."
+        },
+        {
+            "role": "Character 1",
+            "content": "[reassuring] That's exactly the kind of thing that helps them remember who they were before, [thoughtfully], all this happened and who they can, [hopefully], still be when they get out."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] The crew still asks about him every day because they can't believe their, [frustrated], brilliant lighting designer is sitting in a cell instead of, [bitter], working on our next production which opens in three weeks."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sympathetically] I've seen a lot of talented people come through here but your brother's different because he, [sincerely], genuinely wants to make amends and he's been, [respectfully], teaching lighting basics to other inmates."
+        },
+        {
+            "role": "Character 2",
+            "content": "He was always the one who could find light in darkness which is, [melancholic], ironic given where he is now."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softly] Um, well, I mean, he's lucky though."
+        },
+        {
+            "role": "Character 2",
+            "content": "Most people here don't have anyone visiting them but you've come every week without fail which, [appreciatively], means more than you probably realize."
+        },
+        {
+            "role": "Character 1",
+            "content": "[friendly] I've watched him transform from that angry man who arrived six months ago to someone who's, [optimistically], actually helping others and that's partly because you never, [gratefully], gave up on him. [chuckle]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[tearfully] The theater board wants to know if he'll be able to work again when he gets out because his, [hopefully], parole hearing is coming up soon."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confidently] Between his good behavior and the vocational training he's completed here plus your testimony about, [encouragingly], the job waiting for him and the support system in place, [firmly], I think the parole board will see he deserves another chance."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] That means everything because the whole technical crew signed a petition saying they want him, [passionately], back on the lighting board. [laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "You know what's funny is that in twenty years of doing this job I've rarely seen, [moved], such loyalty from someone's professional community or such, [touched], dedication from a sibling. [gasp softly]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[determined] We're a theater family which means we believe in second acts and transformation and the, [inspired], power of redemption stories even when they happen offstage."
+        },
+        {
+            "role": "Character 1",
+            "content": "[whispering] He's ready now."
+        },
+        {
+            "role": "Character 2",
+            "content": "[nervously] Well, um, before we go in I just wanted to say, like, [genuinely], thank you for treating him like a human being and not just, you know, [gratefully], another inmate because that's made all the difference, I mean. [cry]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Everyone deserves dignity and respect especially when they're trying to rebuild and your brother has shown, [respectfully], more growth than most which gives me, [hopefully], real hope for his future. [smile]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[trembling] Um, well, okay then, er, let's go see him."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "9523f905_scenario.json",
+    "scenario": "A jailer escorts a technical director to visit their incarcerated brother who was the lighting designer for the theater's most acclaimed production before his arrest.",
+    "type": "scenario_conversation",
+    "character_1_role": "jailer",
+    "character_2_role": "technical director (theater)",
+    "selected_tones": [
+        "caring",
+        "conciliatory",
+        "guiding"
+    ],
+    "tone_options": [
+        "unaware",
+        "pushing-away",
+        "counterproductive",
+        "mindless",
+        "mocking",
+        "progressive",
+        "looking-forward",
+        "conciliatory",
+        "guiding",
+        "caring"
+    ]
+}

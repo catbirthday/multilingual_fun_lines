@@ -1,0 +1,119 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to... separate accounts. Divorce."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, um, let me just—I'm really sorry you're going through this, uh, let me pull up—actually wait, what's what's your account number? Or I can use—no actually, phone number works too."
+        },
+        {
+            "role": "Customer",
+            "content": "Maybe just use the phone. I can't find anything right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it, um, so that's pulling up account ACC-7739-BN42, and uh, I see two authorized users here, um, yourself and—okay so so we'll need to, er, basically create a new—wait no, sorry, are you wanting to remove someone or or split this into two separate accounts?"
+        },
+        {
+            "role": "Customer",
+            "content": "Split. I just... I can't do this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, it's okay, um, I know this is—look, I do these these calls a lot and uh, we'll get through it step by step, okay? So um, the split process generates form FRM-2847-D, and and that's gonna, er, basically divide everything fifty-fifty unless unless you specify otherwise."
+        },
+        {
+            "role": "Customer",
+            "content": "Fifty-fifty. That's fine."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, um, so let me just, uh, start that process and—okay so so your new account will be ACC-7739-BN42-A, and um, theirs will end in B, and uh, everything currently in the account gets gets copied to both initially then then we remove the other party's access from each."
+        },
+        {
+            "role": "Customer",
+            "content": "How long?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Usually it's it's instant but but, um, with the verification code VER-493827 I'm sending now, uh, probably like ten minutes? Maybe maybe fifteen tops once you confirm, and er, both parties need to—wait, sorry, do do they know you're doing this?"
+        },
+        {
+            "role": "Customer",
+            "content": "They know. We're trying to be... civil."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay that's that's actually good because, um, they'll get notification NOF-8827-XK with their their own verification to complete, uh, and if they don't respond in in seventy-two hours it goes through anyway but but it's smoother if if they just confirm."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I'm just... really tired. Sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no no, don't apologize, I mean, uh, like I said, I've I've done hundreds of these and and, er, honestly? You're handling this really really well, um, most people are are way more... anyway, let me just just finish setting this up."
+        },
+        {
+            "role": "Customer",
+            "content": "You probably think we're all pathetic."
+        },
+        {
+            "role": "Customer Support",
+            "content": "What? No no no, um, that's not—look, uh, my my job is literally just to to make this easier for you, and er, honestly after after three years doing this? Everyone's everyone's just trying their best, you know? Um, okay so confirmation number is CNF-7764-MP29."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, thanks for... being kind about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, I mean, um, it's it's the least I can—okay so so everything's processing now with with batch number BAT-449302, uh, you'll get an email in in about five minutes, er, and then then just click verify and and you're all set."
+        },
+        {
+            "role": "Customer",
+            "content": "That's it? We had that account for... twelve years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah it's it's quick, the the system just just, um, splits everything cleanly using process ID PRC-8827-FNL, and and, uh, I know that probably feels feels weird after twelve years but but, er, both your histories stay intact, just just separated now, so so nothing's really lost, just... reorganized."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "bde0701c_script.json",
+    "scenario": "tearful because they're going through a divorce and need to separate accounts",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "overwhelmed_shutdown",
+                "warming_up"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "burned_out_but_trying",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "self_corrections",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

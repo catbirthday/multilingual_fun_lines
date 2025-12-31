@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] I, um, wasn't expecting someone like you to, [shaky voice], actually come to the shelter yourself, I mean, most donors just send checks."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warm] Well, you know, twenty years ago I was standing, [very quietly], exactly where you are now, wondering if I'd ever, [empathetically], find a reason to keep going after losing everything. [sigh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[shocked] I had no idea that you, well, I mean, the newspapers never mentioned you were, [trembling], a survivor too, just that you funded these, [crying while speaking], relief programs across the state."
+        },
+        {
+            "role": "Character 2",
+            "content": "The water took my husband and both my children in, [pause], less than an hour while I was at work twenty miles away, [very sad], completely helpless to save them."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very meekly] My daughter is still missing and, um, I don't know how to, [frustrated], keep hoping when the rescue teams have already, well, [anxious], started using different language about the search efforts. [trailing off]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[softly] Hope changes shape."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confused] The insurance company says our house is, [bitter], a total loss and everything we worked for is just gone."
+        },
+        {
+            "role": "Character 2",
+            "content": "Listen, rebuilding isn't about replacing what was lost, it's about, [gently], honoring what remains and finding strength in the, [passionately], connections we make with others who understand."
+        },
+        {
+            "role": "Character 1",
+            "content": "Um, how did you manage to turn all that, [regretful], grief into something that helps so many people, I mean, I can barely get out of bed."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sincerely] For three years I couldn't function, [slowly], but then I realized my pain could either destroy me or become fuel for change."
+        },
+        {
+            "role": "Character 1",
+            "content": "Sometimes I feel guilty for surviving when my, [whispering], neighbors didn't make it out."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Well, survivor's guilt is, um, the cruelest part because it, [clearing throat], makes you question your right to, [relieved], heal and move forward, but, you know, [sadly], your survival has purpose even when you can't see it."
+        },
+        {
+            "role": "Character 1",
+            "content": "I, uh, keep thinking about the morning of the flood and all the, [upset], small choices that led to me being at the grocery store instead of, well, [loudly], home with my family."
+        },
+        {
+            "role": "Character 2",
+            "content": "[compassionately] Those 'what if' thoughts will, [exhausted], eat you alive if you let them, and trust me when I say the only path forward is, [determinedly], accepting that some questions will never have, [tearfully], answers that satisfy our hearts. [sniffle]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperately] But accepting means letting go of them somehow, and I'm not, [angry], ready to do that because holding onto the pain feels like, [hoarsely], the only connection I have left. [cough]"
+        },
+        {
+            "role": "Character 2",
+            "content": "You know, um, the pain never truly leaves, it just, [thoughtfully], transforms into something you can carry without it, well, [kindly], crushing you every single moment, and I mean, [hopefully], that transformation is what allows us to help others."
+        },
+        {
+            "role": "Character 1",
+            "content": "[respectfully] Your foundation saved hundreds of families, and seeing you here makes me believe that, [inspired], maybe there's something beyond this darkness."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] Um, I'm going to personally ensure you have everything you need, not just, [warmly], financially but emotionally too, because, well, [very sincerely], no one should navigate this kind of loss alone, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[gratefully] I don't know how to thank you for, um, [choked up], sharing your story and making me feel less alone in this. [crying while speaking]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[tenderly] Well, you know, your courage in just showing up here today reminds me why I, [emotionally], started this foundation, and I mean, helping you heal will, [peacefully], help me heal a little more too, because, um, [wisely], that's how we survive the unsurvivable."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "9f93b61c_scenario.json",
+    "scenario": "A flood victim meets the influential philanthropist who lost her own family in the same disaster twenty years ago and now funds the relief efforts.",
+    "type": "scenario_conversation",
+    "character_1_role": "victim",
+    "character_2_role": "VIP",
+    "selected_tones": [
+        "respectful",
+        "heartening",
+        "submitting"
+    ],
+    "tone_options": [
+        "submitting",
+        "heartening",
+        "liquid",
+        "inconsistent",
+        "respectful",
+        "concurring",
+        "foolhardy",
+        "unwilling",
+        "conservative",
+        "haphazard"
+    ]
+}

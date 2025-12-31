@@ -1,0 +1,122 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I just, uh, tried to place an order and it's... it's saying declined?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no worries at all. Let me just... pull that right up. Can I get your order number? Should start with ORD dash..."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry, let me see here... ORD-5521-PK."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, um, so I'm seeing transaction TXN-884209551 here and, uh, it looks like the bank flagged it as, hmm... unusual activity. Nothing on our end at all. These security systems can be a bit... overzealous sometimes."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god. I'm sorry. Should've called them first."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no. Happens constantly. Like, um, probably twenty times today already, so you're definitely not alone here."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that's, uh, actually really reassuring to hear, I mean, I feel so stupid right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Please don't! The verification code VRF-2245-QM shows... it's just. The amount triggered their system. Over five hundred automatically gets flagged if it's... a new merchant."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah yeah yeah, that makes sense actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, quick fix here is, uh, you could call them, or, hmm, sometimes if you just retry in like five minutes with the same card..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, just retry? That simple?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Usually works! The system logs attempt ATT-9901-DR as legitimate. Then the second one... goes right through. I'd say, um, seventy percent success rate? Maybe eighty."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... I don't have to, um, sit on hold with the bank for an hour?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly. Though if you want... I can. Hold your order? Reference hold HLD-3367-VX for twenty-four hours while you sort it out."
+        },
+        {
+            "role": "Customer",
+            "content": "You're being really helpful. Sorry again about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, um, this is literally nothing compared to, uh, some of the payment issues we see, like yesterday someone's card got flagged for, er, suspected fraud because they bought coffee in two different states and, um, turns out they just drove fast."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wow, that's, uh, that's actually pretty funny. Poor person though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? But hey. Your issue's easy. Transaction TXN-884209551 will clear once you... once the bank sees it's you."
+        },
+        {
+            "role": "Customer",
+            "content": "Thanks. Really. I'll try again now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Um, and if it doesn't work, just, uh, call back with reference REF-6622-LP and we'll, hmm, we'll figure out plan B, okay? But I'm sure it'll... you know..."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b000c0d7_script.json",
+    "scenario": "asking why their payment method was declined",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "warming_up"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "word_searching",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "gently_reassuring",
+                "slightly_frazzled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "word_searching",
+                    "trailing_off",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, yeah, I need my warranty claim. Uh, processed. Today. Storm season's next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay so, um, let me just pull up your account here and... hmm, can you give me your claim number or maybe your account... I mean, if you have that handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Er, do you know who I am? I'm, uh, I run Miller Roofing. Um, biggest contractor in the county."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so um, Miller Roofing, let me just... that's weird, I'm seeing like three different accounts here under Miller... uh, do you happen to know if your claim starts with WCL or maybe WRN? Because I'm showing WCL-4429-B and then there's also..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, look. I spend, uh, fifty grand a year with you guys. Er, minimum."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, and we really appreciate that, so let me just dig into this a bit more here... hmm, okay so I'm seeing your account MR-50847-X has, um, actually quite a few claims and... oh that's interesting, there's one from last Tuesday that's still showing as pending review..."
+        },
+        {
+            "role": "Customer",
+            "content": "Pending? Uh, that's... I need this done. Er, can I talk to a supervisor?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, here's what's kind of weird about this—and I'm really curious now—your claim WCL-4429-B is showing approved on my end but then... wait, let me check something else here because the system's being a bit..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait. Approved? But I was told... er, never mind. Sorry, I'm just stressed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally get it, storm season's rough for roofers, so um, yeah it says approved but then there's this flag here that says \"documentation pending\" which is... hmm, that doesn't usually happen unless..."
+        },
+        {
+            "role": "Customer",
+            "content": "Er, what documentation? I sent, um, everything. Photos, receipts, uh, all of it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, ummm, this is actually really interesting because I can see all your uploads here—photos dated March 15th, receipt batch RB-7761-Q—but then there's this note that says... hold on, let me just check with our warranty team real quick because something's not adding up here..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, look, I'm sorry if I came off... er, aggressive. Just, uh, big job next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh no, you're fine! So um, okay, I just pulled up the internal notes and, uh, apparently what happened is... well this is kind of embarrassing on our end but your claim got split into two parts somehow? Like WCL-4429-B and WCL-4429-C? And only the B part got..."
+        },
+        {
+            "role": "Customer",
+            "content": "Two parts? Er, that's... um, can you just merge them or, uh, something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, here's what I'm gonna do—and honestly this is partly because I feel bad about the confusion—I'm gonna expedite both parts under rush code EXP-9847 and, um, basically that should have everything processed by... let me see... tomorrow afternoon latest?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, tomorrow? That's... er, yeah that works. Uh, thanks. Really."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! So just to confirm, um, I've got both claim parts now showing as expedited, your confirmation is CNF-8392-TK14, and uh, you should get an email within... hmm, probably the next hour or so? And then the actual approval documents will..."
+        },
+        {
+            "role": "Customer",
+            "content": "Er, perfect. Sorry again for, um, the attitude. Just, uh, you know. Stress."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Seriously don't even worry about it, I mean storm season's like... everyone's stressed, right? So um, you're all set with CNF-8392-TK14, and uh, if anything weird happens—which it shouldn't but you know how systems can be—just reference that number and whoever you talk to can..."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "bf090ef9_script.json",
+    "scenario": "roofer, worried about getting a warranty claim processed before storm season hits",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "demanding_entitled",
+                "apologetic_embarrassed"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "slightly_frazzled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

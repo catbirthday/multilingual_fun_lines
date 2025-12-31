@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[stunned] Marcus, what the hell are you, [disbelief], doing here when the company sent me to, [cold], clear this building for demolition next week?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Well, um, living."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] You've been missing for two years and now I find you, [angry], squatting in this condemned hellhole like some kind of, [disgusted], vagrant when mom's been worried sick about you every, [voice breaking], single day."
+        },
+        {
+            "role": "Character 2",
+            "content": "[simmering] Mom stopped worrying about me the day she, [accusatory], chose your father over her own son and let him throw me out for, [hollow], being exactly who I am."
+        },
+        {
+            "role": "Character 1",
+            "content": "[harsh] That's not true."
+        },
+        {
+            "role": "Character 2",
+            "content": "I've been living here for, um, eight months now and, [tired], you know what's funny is that I actually made this place feel more like, [bitter], home than that house ever was with all its, well, perfect family portraits that I was never really part of. [laughs darkly]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[calculated] Look, I have a job to do here and this building, [detached], comes down in five days whether you're in it or not. [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, um, I mean, typical. [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[icy] Don't make this harder than it needs to be because I'm already, [struggling], risking my reputation by not calling the cops right now and having you, [stern], dragged out of here tonight. [exhales]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defiant] You always were the company man weren't you, [mocking], following orders and checking boxes while people's actual lives fell apart around you, [venomous], never once stopping to ask why your own brother disappeared into the, [breaking], streets."
+        },
+        {
+            "role": "Character 1",
+            "content": "[wavering] Marcus, I mean, I tried to find you after you left but you just, um, vanished without a trace."
+        },
+        {
+            "role": "Character 2",
+            "content": "[raw] That's because I didn't want to be found by people who only, [hurt], saw me as a problem to solve."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperate] So what, you're just going to, um, live in abandoned buildings forever while I, [guilty], pretend I never saw you here and let them, [cracking], tear this place down around your stubborn pride, I mean, is that the plan? [voice breaks]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Pride is thinking you can just, [seething], waltz in here after two years and suddenly care about what happens to me when you're only here because someone's, well, paying you to be, [spitting], not because you actually give a damn about family, um, or whatever we used to be. [bitter laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[quiet] Well, I still have mom's spare key in my pocket if you want it, um, though I doubt you'd ever use it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shocked] You've been carrying that key for two years while I've been, [choked], sleeping on concrete floors and stealing food from dumpsters, [overwhelmed], wondering if anyone even remembered I existed. [long pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[broken] Every single day I've carried it hoping I'd, um, find you somewhere and, [trembling], somehow convince you to come home even though I knew you'd probably, [defeated], hate me for not standing up to him when it mattered, well, when you needed me most."
+        },
+        {
+            "role": "Character 2",
+            "content": "[softening] The demolition crew doesn't have to know about the squatter in unit 4B if the, [careful], middleman's report says the building was already cleared. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[resolute] The building was empty when I inspected it and there's a furnished apartment available if someone, [hopeful], needed a place to stay. [exhales slowly]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[tearful] Maybe I could try using that key just once to see if it, [vulnerable], still works. [sniffles]"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "ba5d4aaa_scenario.json",
+    "scenario": "A property middleman discovers his estranged brother has been squatting in a building he's been hired to clear for demolition.",
+    "type": "scenario_conversation",
+    "character_1_role": "middleman",
+    "character_2_role": "squatter",
+    "selected_tones": [
+        "hiding",
+        "simmering",
+        "cold-hearted"
+    ],
+    "tone_options": [
+        "supportive",
+        "hiding",
+        "distracted",
+        "cold-hearted",
+        "attentive",
+        "simmering",
+        "adaptable",
+        "sturdy",
+        "submitting",
+        "energetic"
+    ]
+}

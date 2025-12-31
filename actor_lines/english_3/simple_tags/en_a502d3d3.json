@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[angry] How dare you give my child, [furious], free lessons behind my back without even consulting me first!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[caught-off-guard] Um, I noticed your daughter had, [hesitantly], exceptional talent and, well, she mentioned you couldn't afford lessons right now, you know."
+        },
+        {
+            "role": "Character 1",
+            "content": "[condescending] We don't need your charity because, [over confidently], I provide everything my child needs perfectly well on my own."
+        },
+        {
+            "role": "Character 2",
+            "content": "She told me she's been, [quietly], begging you for lessons for two years but you keep saying, [frustrated], music is a waste of time when she could be studying something, [bitter], more practical."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] You have absolutely no right to, [loudly], undermine my parenting decisions or make me look, [trembling], bad in front of my own child!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[warm] Look, um, I just saw a gifted child who, [passionately], needed someone to believe in her talent, and, well, I couldn't just stand by, you know. [sigh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[mocking] Oh please, you think you're, [sarcastic], some kind of hero saving children with your little piano lessons?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very sincerely] Your daughter cried in my classroom because, [crying while speaking], she thought she'd never get to pursue her dreams."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] I work sixty hours a week to, [quickly], keep a roof over her head and you're sitting there, [shouting], judging me for not indulging every, [whispering loudly], artistic whim she has!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] She's brilliant."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confused] Well, um, if she's so brilliant then, [slowly], why hasn't anyone else noticed her supposed talent, I mean, besides you? [laugh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] Because nobody else has taken the time to, [regretful], actually listen to her play or see past your constant, [exhausted], dismissal of her abilities."
+        },
+        {
+            "role": "Character 1",
+            "content": "[jealous] You're obsessed."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Um, you know what, I've already submitted her application to, [excited], the youth symphony with a full scholarship recommendation and, well, they accepted her, [proudly], based on the audition tape I helped her make, you know."
+        },
+        {
+            "role": "Character 1",
+            "content": "You did what without my permission, um, [very loudly], going behind my back to make decisions about, [shaky voice], my own child's future like, well, I don't even exist?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] I mean, um, she needed this opportunity and, [anxious], I knew you'd never let her try, you know."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Well, you can tell the symphony she won't be participating because I'm, [animated], pulling her out of your class immediately and, um, finding a teacher who respects boundaries, [enunciating every word], you know. [gasp loudly]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispering] Um, please don't."
+        },
+        {
+            "role": "Character 1",
+            "content": "I'm her parent and, well, [monotone], I know what's best for her future, um, not some music teacher with a savior complex, you know."
+        },
+        {
+            "role": "Character 2",
+            "content": "[desperately] Um, just come to one rehearsal and, [pleading], watch her face when she plays with the orchestra, I mean, before you take this away from her."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "a502d3d3_scenario.json",
+    "scenario": "A narcissist parent confronts their child's music teacher after discovering the teacher has been secretly giving the child free lessons because they recognized the parent's neglect.",
+    "type": "scenario_conversation",
+    "character_1_role": "narcissist",
+    "character_2_role": "music teacher",
+    "selected_tones": [
+        "caught-off-guard",
+        "fervent",
+        "confrontational"
+    ],
+    "tone_options": [
+        "trusting",
+        "caught-off-guard",
+        "fervent",
+        "agitating",
+        "sleeping",
+        "grasping",
+        "homogeneous",
+        "diluted",
+        "advocating",
+        "confrontational"
+    ]
+}

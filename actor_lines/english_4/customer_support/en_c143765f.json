@@ -1,0 +1,121 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So, um, I just—I just waited for like, uh, over an hour? And I'm—I'm really confused because, um, like..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow, over an hour! I'm so sorry about that wait time, let me just pull up your account here real quick—what's your account number or phone number so I can look into this right away?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, um, it's—wait, so basically my phone is, uh, 555-0142, and like, I really need help because, um, my mom's medications..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, um, 555-0142, perfect, so I'm seeing account ACC-9847-TX here and, uh, I completely understand how frustrating that must be, especially with something as important as medications involved, let me just..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, did you—did you say 9847? Is that—I don't know if that's right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, yes so it's showing ACC-9847-TX on my screen here, but, uh, let me double-check—is this for Jennifer Morrison at, um, 482 Oak Street?"
+        },
+        {
+            "role": "Customer",
+            "content": "No no no, that's—that's not, um, I'm Sarah, Sarah Chen, and so like, my mom needs her heart medicine and I just—I just don't understand why I was on hold for so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh my goodness, I'm so—let me just, uh, clear this out and start fresh here, Sarah Chen you said? Okay so, um, I'm pulling up—yes here we go, ACC-7263-PM, and I can absolutely see why you're concerned about the wait time, especially with your mom's heart medication!"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Yes, that's—okay okay, so can you help me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! So, um, looking at your case history here, ticket TKT-45892-A shows, uh, there was a pharmacy order placed three days ago, and, hmm, I'm seeing some notes about..."
+        },
+        {
+            "role": "Customer",
+            "content": "Three days? But I—wait, so like, um, I placed it last week? Or was it—no, um, maybe it was three days, I'm so confused, everything's been so, uh, crazy with her hospital visits and..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, and dealing with hospital visits on top of medication management must be incredibly overwhelming—so in your order confirmation ORD-6621-BC from Tuesday, it shows the prescription was submitted to our pharmacy partner."
+        },
+        {
+            "role": "Customer",
+            "content": "Tuesday, Tuesday, okay so—so basically, um, why was I on hold for, like, it was literally an hour and, uh, twelve minutes, I was timing it because..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "An hour and twelve minutes is just, uh, completely unacceptable, and I'm—wow, I'm really sorry about that, um, let me flag this with reference code ESC-9902-HLD so our team can look into why the wait was so long, but right now let's focus on getting your mom's medication sorted out!"
+        },
+        {
+            "role": "Customer",
+            "content": "It's just—she needs it by tomorrow, you know? The doctor said—he said it's really important."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, right, um, absolutely critical timing here, so, uh, looking at tracking number TRK-880534-MED, I can see—oh wait, hmm, there's a hold on the order..."
+        },
+        {
+            "role": "Customer",
+            "content": "A hold? What—what does that mean? I don't—so like, um, is it not coming? Because I just, uh, I really really need this to work out..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, don't worry! So what happened is—and this is actually good news—the pharmacy just needs an updated insurance verification, code VER-2145-INS, which I can actually process right now if you have your insurance card handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Oh okay, um, yes it's—it's right here, so basically the number is, uh, wait, which number do you need? There's like, um, three different numbers on here and I'm..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So, um, I just need the member ID, it usually starts with letters and, uh, should be about ten characters long—and hey, once we get this updated with reference RES-3302-PRIORITY, I'm gonna expedite this for overnight delivery, no charge, because of that terrible hold time!"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "c143765f_script.json",
+    "scenario": "complaining about being on hold for over an hour",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "vulnerable_trusting",
+                "confused_lost"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "repetition_stutter",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "trailing_off",
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

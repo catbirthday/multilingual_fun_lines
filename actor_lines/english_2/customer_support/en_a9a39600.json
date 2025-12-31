@@ -1,0 +1,119 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Oh hey! So I've got—wait, let me just—I've got this coffee maker I need to return."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, okay, absolutely, I can, uh, definitely help you with that return today, um, let me just pull up our system here and, er, we'll get this sorted out for you right away, don't worry."
+        },
+        {
+            "role": "Customer",
+            "content": "Great, you guys are always so helpful! I bought—no actually ordered it—ordered it online."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that's perfect, so, uh, if you have your order number that would be, um, really helpful, but if not I can, er, look it up by your email or, uh, phone number, whatever works best."
+        },
+        {
+            "role": "Customer",
+            "content": "Sure, it's um, let me find—oh wait here—order number JKR-4492-NM88."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I've got order JKR-4492-NM88 here and, uh, I can see the coffee maker was delivered, er, let me just check the date here, um, looks like November 3rd, is that right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that sounds about right! Been meaning to return it but you know how life gets."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, um, I totally understand, so, er, the thing is—and I'm, uh, really sorry about this—our return window is, um, thirty days, and we're at, er, let me see, forty-seven days now."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? I thought—no that can't—oh man, I'm such an idiot, sorry!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, um, please don't apologize, this happens, uh, all the time actually, and, er, let me just, um, see what options we might have here because, uh, I want to help if I can."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah I just, uh, kept putting it off and, er, now I feel terrible bothering you with this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, you know what, that's actually, er, kind of interesting because I'm seeing here in your account RCP-4492-U that, um, you've been a customer for, uh, wow, eight years, never had a return issue before."
+        },
+        {
+            "role": "Customer",
+            "content": "Ha! Yeah I'm basically—wait no actually—I order everything from you guys!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, here's what I'm thinking, and, er, this is a little unusual but, uh, given your history with us, um, let me check with my supervisor real quick about maybe doing a one-time exception?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh that would be—I mean if you can't—totally understand if that's not possible!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, okay so, er, good news, my supervisor just approved a, uh, special return authorization code SRA-8827-XK for you, um, even though we're past the window, so we can, er, definitely process this return."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you serious? Oh my god, you're literally the best! This is why I love you guys!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw, um, that's so nice to hear, really, so, uh, I'm sending you a return label now to your email, and, er, just use authorization code SRA-8827-XK when you ship it back."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect! Hey sorry again for being—you know—such a procrastinator about this!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, honestly don't even, uh, worry about it, like I said this happens, er, all the time, and, um, that's what we're here for, to help however we can, okay?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a9a39600_script.json",
+    "scenario": "trying to return an item past the return window",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "friendly_chatty",
+                "apologetic_embarrassed"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "gently_reassuring",
+                "troubleshooting_curious"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "self_corrections",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

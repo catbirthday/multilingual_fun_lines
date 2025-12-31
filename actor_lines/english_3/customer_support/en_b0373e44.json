@@ -1,0 +1,118 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, um, let me just... hmm, your automated system is, uh, completely broken. Can't understand numbers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it. So you're—you're having trouble with the IVR system and um, I can—I can definitely help bypass that. Let me just—just pull up your account here if you've got that number handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's... okay so... 4-7-2... wait, let me think... 4-7-2-8-9-5."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. 4-7-2-8-9-5. That's—that's actually account ACT-472895-B in our system and I can see—see exactly what you mean about the IVR issues."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, so you can see it? The thing kept, um, saying \"invalid\" over and over?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So what's—what's happening here is um, the system's expecting the—the full format with the prefix ACT and suffix B, but it's not—not telling people that which is, uh, pretty terrible design honestly."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly! I'm a software engineer. That's... that's just bad UX."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely absolutely. I've—I've sent feedback ticket FBK-9923-TK about this, um, probably fifty times this month already. But hey, let me—let me help with whatever you actually called about?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Um, yeah, so... hmm, I need to update my billing. The card expired."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem. I can—can take care of that right now. Your current card on file ends in 4429, expiration showing as, um, last month, so that's—that's definitely why any recent charges would've failed."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... um, do you need the whole number or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Whole number, exp date, CVV. And I'll—I'll also generate you a bypass code BYP-88512-X so um, next time you call, you can—can skip the whole automated nightmare completely."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh that's... wow, okay that's actually really helpful. Um, thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Course course. Ready when—when you are for that card number. Take your time."
+        },
+        {
+            "role": "Customer",
+            "content": "So it's, uh... 5521... hmm, where's the... 5521-4455-8890-1234."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it. 5521-4455-8890-1234. Exp date and—and that three digit code on the back?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, let me... 03/27... and, uh, 445."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect. That's—that's all updated now, payment reference PAY-10847-QD is confirmed and, um, you're all set. The bypass code again is BYP-88512-X, just—just say \"agent\" then punch that in."
+        },
+        {
+            "role": "Customer",
+            "content": "Seriously, this is... hmm, you've been incredibly helpful. Really. Thank you so much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no—no worries at all. Us humans gotta—gotta stick together against the machines, right? Anything else before I let you go?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b0373e44_script.json",
+    "scenario": "software engineer, annoyed that the automated system can't understand his account number",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "frustrated_impatient",
+                "genuinely_grateful"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Listen, I've been—I've been a customer for, um, eight years, okay okay, and now suddenly I'm getting charged for tolls I never—I never even went through, like what is this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Um, okay so, let me just, uh... pull up your account here and—oh wow, yeah, I can definitely help with that! So basically, um, I just need your account number, or if you have like a... what's the word... a reference number from any recent statement?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's right here, um, [exhales] ACC-7829-J, and I drive—I drive the airport route every single day, so I know exactly which tolls I use."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So ACC-7829-J, got it, and um, oh wow, I'm seeing... hmm, there's quite a few charges here from, uh, let me see... looks like transaction IDs starting with TXN-9847 through TXN-9863, all from the past week, and these are showing... wait, these are from completely different zones than your usual route pattern that I can see here in the system..."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly! That's—that's what I'm saying, um, like sixty dollars in random tolls, so basically I'm paying for someone else's joyride or what?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're absolutely right to be upset! Um, so what I'm seeing here is, uh... hmm, it's like a... what do they call it... a transponder echo? Where basically, um, your device ID DVC-4419-NK is somehow getting picked up by gates you're not even going through, which honestly? Yeah, that's ridiculous."
+        },
+        {
+            "role": "Customer",
+            "content": "[Sharp inhale] Wait wait wait, so you're telling me—you're telling me this is YOUR equipment messing up and I'm the one paying for it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean... yeah. That's, um, that's exactly what it looks like, and between you and me? This happens way more than it should. So let me just, uh, start a dispute for all these—"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so so basically, how long have you known about this, uh, this \"echo\" thing happening?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, so it's been a... hmm, known issue? For like, uh, maybe three months now? And they keep saying they'll fix it but... anyway, I'm putting through refund request RFD-5571-QM right now for the full sixty dollars, and um, I'm also gonna add a note about getting you a replacement transponder."
+        },
+        {
+            "role": "Customer",
+            "content": "Three—three MONTHS? Are you, um, are you serious right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, I know. It's... look, um, I'm new here but even I think it's, uh, pretty bad. So what I'm doing is, er, I'm expediting this whole thing under case number CSE-8829-RT, and honestly? I'm gonna flag it as, um, as priority."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh great, the—the new person is the only one who actually, like, gets how ridiculous this is."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? Um, so anyway, your refund should process in, uh, 3-5 days, and the replacement device REP-7634-XL will ship tomorrow. Also, just so you know, I'm adding a credit—"
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow? So so I just, um, I just keep getting charged until then, or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! No no, sorry, um, I should've said—so I'm disabling the current one, like, right now actually. So effective immediately, transponder DVC-4419-NK is, uh... yep, just deactivated it. You'll need to pay cash until the new one arrives but at least no more ghost charges."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay okay, so let me get this straight—I've been loyal for eight years and, uh, and your solution is making me pay cash like it's 1995?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean... er, yeah, when you put it like that... Um, you know what? Let me just, uh, add a twenty dollar credit—code CRD-9901-MP—for the inconvenience, 'cause honestly? Making you pay cash after we messed up is... it's not great."
+        },
+        {
+            "role": "Customer",
+            "content": "[Exhales] Finally, someone—someone who, um, who actually admits when things are messed up, so like, thank you for that at least."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! And um, hey, pro tip? If this happens again—which hopefully it won't but, uh, you know—just call and ask for the, er, the transponder echo dispute form. It's like a... shortcut? To get straight to someone who can fix it. Your case number again is CSE-8829-RT if you need to follow up!"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "afd496f8_script.json",
+    "scenario": "airport shuttle driver, frustrated about incorrect toll charges appearing on his account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "indignant_righteous",
+                "annoyed_sarcastic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "filled_pauses",
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off",
+                    "word_searching",
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

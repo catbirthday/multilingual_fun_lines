@@ -1,0 +1,122 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um so basically I'm I'm calling bout—bout my venue deposit? Like, um, I had to cancel and uh they said—they said you'd help?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I can definitely help you with that venue deposit refund, let me just pull up your account here... so I'll need your booking reference number or the venue name and date if you have those handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah yeah it's um, er, Pine Creek? Oct'ber twelfth? I'm—I'm so grateful you're helping, like seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pine Creek, October twelfth, perfect... okay so I'm seeing your booking here, reference VEN-2024-9847-PC, and I can see the cancellation was processed three days ago, which is good news because that's within their refund window, and I'm going to make sure we get this sorted out properly for you today."
+        },
+        {
+            "role": "Customer",
+            "content": "Um wait so like—so does that mean, uh, I'll get it all back? Cause um it's it's like three grand?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, looking at the details here in your file VEN-2024-9847-PC, uh, the standard refund should be... hmm, let me just double-check their policy... okay so Pine Creek typically refunds eighty percent within their fourteen-day window, which means, um, you should be getting back about twenty-four hundred dollars."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait wait wait only—only eighty? But I'm I'm like their top photographer, shot there twelve times!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, you've worked with them twelve times? That's actually... hmm, that's interesting, let me look into this a bit more because venues sometimes have different policies for their preferred vendors... pulling up your history now under account PHO-8829-VIP."
+        },
+        {
+            "role": "Customer",
+            "content": "Um exactly, like, uh, do they know who—er, sorry, I mean, um, thank you so much for checking that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, this is really good news actually—I can see here, uh, that you're listed as a platinum vendor in their system under code PLAT-PHOTO-2024, and, um, according to their vendor agreement, platinum photographers get full refunds on cancellations, so I'm going to make sure we update this to the full three thousand."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god really? Um that's—that's amazing, like seriously you're you're saving me here!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! So what I'm doing now is, um, submitting an amended refund request with your platinum status code PLAT-PHOTO-2024 attached, and, uh, I'm also going to add a priority flag to make sure this gets processed within twenty-four to forty-eight hours instead of the usual five to seven business days..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um wait so so like, er, when exactly? Cause I need—I need to pay my assistant and um..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, totally understand you need this quickly for payroll... so with the priority processing I just added to case number REF-10847-RUSH, you should see the full three thousand dollars hit your account by end of business Thursday at the latest, but honestly it could be as early as tomorrow afternoon."
+        },
+        {
+            "role": "Customer",
+            "content": "Um you know what? If—if it's not there by Thurs I'll just, er, I know the venue owner personally so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mm-hmm, I hear you."
+        },
+        {
+            "role": "Customer",
+            "content": "But but like um seriously though, uh, you've been—you've been so helpful? More than—than anyone else I've called?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aww, well I'm just really glad I could help get this sorted properly for you, and actually, um, let me also send you a confirmation email right now with all these reference numbers—REF-10847-RUSH and your platinum code—just so you have everything documented if you need to follow up, though I really don't think you'll need to..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um that'd be—yeah yeah that'd be great, er, perfect actually, um, thank you thank you!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, you should see that email within the next five minutes to whatever address we have on file, and, uh, just one more thing—I'm also going to put a note in your account that for any future venue bookings, they should automatically recognize your platinum status so this confusion doesn't happen again... is there anything else I can help with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b872b8b1_script.json",
+    "scenario": "wedding photographer, stressed about getting a venue deposit refund after cancellation",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "genuinely_grateful",
+                "demanding_entitled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "hedge_words",
+                    "filled_pauses",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "troubleshooting_curious"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "trailing_off",
+                    "breath_catches",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

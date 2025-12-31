@@ -1,0 +1,106 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[careful] These signatures, um, they're very, [measured], distinctive and I mean, the way the capital R curves in Richardson here, [trembling], it's exactly like something I've seen before, well, somewhere personal. [long pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[nervous] You're being paid to verify, umm, authenticity for the audit, not to, [defensive], analyze handwriting patterns that, well, [tense], have nothing to do with the tax fraud case we're building, you know. [clears throat]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[steady] Richardson wasn't your name twenty years ago when you, [voice breaking], signed my birthday cards with that same distinctive R before you, [hollow], disappeared from Mom's life and mine. [sighs]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[stunned] Sarah, I didn't know they would, [shaking], assign you to this case, I specifically requested someone, [desperate], from outside the city."
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, um, here I am, the best document examiner in the state, [bitter], examining documents for the father who couldn't be bothered to, [cold], examine his own choices, you know."
+        },
+        {
+            "role": "Character 2",
+            "content": "[broken] The firm doesn't know about my past, [pleading], about the family I left behind when everything fell, [crumbling], apart with the investigation."
+        },
+        {
+            "role": "Character 1",
+            "content": "[whispered] Stop talking."
+        },
+        {
+            "role": "Character 2",
+            "content": "[desperate] I know, um, I don't deserve to, [choked up], explain but the FBI was closing in on your grandfather's operation and staying would have, well, [anguished], destroyed you and your mother, I mean."
+        },
+        {
+            "role": "Character 1",
+            "content": "[controlled] Twenty years of wondering if we weren't, [acidic], enough for you to stay and fight instead of, [trembling], running like a coward."
+        },
+        {
+            "role": "Character 2",
+            "content": "You were everything."
+        },
+        {
+            "role": "Character 1",
+            "content": "[raw] Mom died thinking you left because she got, [voice cracking], sick, that the medical bills scared you away, not some, [furious], noble sacrifice you're trying to sell me now. [exhales sharply]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[anguished] Sarah, I mean, every case I've worked, um, every criminal I've helped prosecute has been, [breaking], trying to make up for leaving you both."
+        },
+        {
+            "role": "Character 1",
+            "content": "[fierce] Well, you can't prosecute your way back into, um, [bitter], being my father after two decades of, I mean, [exhausted], silence and these documents I'm examining show exactly who you really are, you know."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quiet] Um, I sent money every month through, well, [ashamed], intermediaries to help with her treatments, I mean."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stunned] The anonymous donations that kept us, um, afloat during her chemo were, [realizing], from you? [long pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[gentle] Every bonus, every, [tearful], raise went to making sure you could finish school and she could get the, [breaking], best care possible even if I couldn't be there to, [trailing off], hold her hand. [sobs quietly]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[shattered] She kept every, [overwhelmed], receipt in a box labeled hope."
+        },
+        {
+            "role": "Character 2",
+            "content": "[soft] I know, um, because I kept copies too, every, [tender], medical bill and tuition payment filed away like evidence that maybe I wasn't, well, [broken], completely lost to you both, you know."
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted] The audit files can wait because, um, right now I need to, [vulnerable], understand why a man who loved us enough to pay for everything couldn't, well, [searching], love us enough to stay. [sighs heavily]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Because staying would have meant, well, watching the FBI arrest me in front of you, [haunted], and I couldn't let your last memory of your father be in handcuffs."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "b1d72982_scenario.json",
+    "scenario": "A document examiner discovers that the tax attorney who hired her to verify client records is actually her biological father who abandoned her family twenty years ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "tax attorney",
+    "character_2_role": "document examiner",
+    "selected_tones": [
+        "revealing",
+        "moving"
+    ],
+    "tone_options": [
+        "wandering",
+        "dropping",
+        "disrespecting",
+        "delaying",
+        "revealing",
+        "introverted",
+        "imparting",
+        "hostile",
+        "criticizing",
+        "moving"
+    ]
+}

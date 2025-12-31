@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Um, uh, you're him. [stunned]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[surprised] I'm sorry, I don't quite, [confused], understand what you mean but you look really, [searching], familiar somehow like we've met before. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[emotional] You called my son's little league championship game seven years ago when, [voice breaking], nobody else would cover those kids."
+        },
+        {
+            "role": "Character 2",
+            "content": "[remembering] Wait, the Wildcats versus the Thunder at, [excited], Riverside Park where that kid hit the walk-off triple in extra innings and the whole, [warm], team carried him around the field? [laughs softly]"
+        },
+        {
+            "role": "Character 1",
+            "content": "That was, um, my Tommy and, well, you made him feel like, [overwhelmed], a real ballplayer that day when you called his name with such, [trembling], enthusiasm like he was playing in the, [choked up], World Series or something."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] Tommy Rodriguez. [long pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[passionate] You know, um, he still has the recording of that broadcast and, uh, plays it whenever life gets, [intense], too hard because your voice reminds him of when anything, [hopeful], felt possible."
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, um, I had no idea anyone even, [humbled], listened to those games except the parents, and, uh, honestly calling those kids' games kept me, [vulnerable], sane during my divorce. [sighs deeply]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[gentle] Those Saturday mornings at the field meant everything to families like ours who couldn't, [grateful], afford travel teams but still wanted our kids to feel, [tender], special and seen."
+        },
+        {
+            "role": "Character 2",
+            "content": "The station wanted to cancel, [frustrated], that whole program but I fought to keep it going."
+        },
+        {
+            "role": "Character 1",
+            "content": "[earnest] Tommy's in college now studying sports journalism because of you, because he wants to give, [proud], other kids what you gave him that day when everything, [nostalgic], mattered so much."
+        },
+        {
+            "role": "Character 2",
+            "content": "[moved] That's incredible. [tears up]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Um, listen, I mean, I'm just here fixing your generator but, [hesitant], seeing you brings back so much."
+        },
+        {
+            "role": "Character 2",
+            "content": "[reflective] You know, um, people always ask why I still call high school games, well, after twenty years of, [sincere], major league broadcasts, but it's moments like this that, [emotional], remind me why. [voice cracks]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[determined] Your generator's running perfect now and I'm not charging the station because some debts, [firm], can't be paid with money."
+        },
+        {
+            "role": "Character 2",
+            "content": "[protesting] No, please, I can't let you, [uncomfortable], do that for free after all this work. [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, um, you gave my son confidence that, uhh, changed his whole life trajectory, so I mean, [insistent], this is nothing."
+        },
+        {
+            "role": "Character 2",
+            "content": "Would Tommy maybe want to shadow me during, [hopeful], a broadcast sometime because I could really use an assistant who understands why, [meaningful], these games matter?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Um, are you, uh, serious? [overwhelmed]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[smiling] Tell him the voice he remembers from that championship game wants to, [excited], teach him everything about making every kid feel like they're playing, [passionate], under the brightest lights imaginable."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "adb7cf3d_scenario.json",
+    "scenario": "A small engine repair tech is fixing the generator at a local radio station when the play-by-play announcer who once called their son's little league championship game walks in.",
+    "type": "scenario_conversation",
+    "character_1_role": "small engine repair tech",
+    "character_2_role": "play-by-play announcer",
+    "selected_tones": [
+        "thankful",
+        "fragile",
+        "passionate"
+    ],
+    "tone_options": [
+        "cynical",
+        "releasing",
+        "flattering",
+        "fragile",
+        "teaching",
+        "steady",
+        "cheerful",
+        "thankful",
+        "requiring",
+        "passionate"
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so like, I'm calling because, uh, there's this charge on my card that, hmm, I don't think I did? Let me see here... it's like forty-seven dollars?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright lemme pull up your account—what's the last four of your card?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh, okay so that means... it's 8892."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it, so I'm seeing—um basically there's like a charge here from, uh, let me just—it's showing as TXN-4428-BK91 for forty-seven eighteen and, um, yeah that's weird, it's coded as \"subscription renewal\"—do you have any subscriptions?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, no? I mean, uh, I just do lawn care work so like, hmm, I don't really... uh, what if someone stole my info or something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, um, honestly? This happens like, uh, way more than it should—I'm seeing the merchant code is, er, MER-9982-XL and that's—wait no actually—um, that's for some fitness app thing?"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't have any fitness apps... hmm, okay so that means I need to dispute it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, yeah—lemme start that dispute form, case number DSP-7731-QM22."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, are you sure that'll work? Like, uh, I've never done this before and, hmm, what if they say no or, um, want proof or something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, here's the thing—and like, I know this whole process is, uh, kinda ridiculous—but since it's under fifty bucks the bank usually just, er, approves these automatically, you know? Reference code AUT-5569-D."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay so that means... I just wait?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well so—um, I mean technically yes but—actually wait, lemme just—uh, I can flag this with priority code PRI-2847-KF which, um, should speed it up from like five days to maybe, er, two days?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, that would be good, yeah... hmm, what if it happens again though? Like, uh, should I get a new card or, um, I don't know..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? Yeah, get a new one—I'll order it right now, card ending in 3384."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... the old one stops working?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So like—um, not immediately but—er, once you activate the new one, yeah, and uh, tracking number TRK-6693-PL92 shows, um, three to five business days but honestly? Usually comes in like two."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, alright... hmm, what if I need to use my card before then though? Like, uh, for gas or, um, groceries or whatever?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Old one works till you activate the new one—you're good."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay so that means I'm all set then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pretty much yeah—so um, dispute reference DSP-7731-QM22 is processing and, uh, honestly between you and me? These fitness app places are like, er, the worst with random charges—we see it constantly so, um, you should be totally fine."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "ab694b90_script.json",
+    "scenario": "lawn care worker, young and unsure how to formally dispute an unauthorized charge",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "resigned_going_through_motions",
+                "anxious_worried"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "regretfully_limited"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "false_starts",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

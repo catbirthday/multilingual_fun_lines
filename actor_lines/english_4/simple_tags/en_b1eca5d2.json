@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "This is, [warm], perfect timing."
+        },
+        {
+            "role": "Character 2",
+            "content": "[formal] I appreciate you coming in today to discuss your startup's, [curious], intellectual property needs and potential patent applications."
+        },
+        {
+            "role": "Character 1",
+            "content": "[overly polite] You've represented some impressive clients, especially that biotech firm that's been, [excited], all over the news lately. [chuckle]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] My work with them has been, [hesitantly], quite extensive though of course I can't, [stern], discuss specifics due to attorney-client privilege which I'm sure you, [trailing off], understand completely..."
+        },
+        {
+            "role": "Character 1",
+            "content": "[friendly] Oh absolutely, um, I mean, professional discretion is, well, [empathetically], everything in our line of work, and er, I wouldn't dream of, [playful], putting you in an uncomfortable position, you know. [sigh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, um, let's focus on your company's needs because, [anxious], from what you've described, er, your technology sounds remarkably similar to, [slowly], certain innovations I've seen before. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[innocent] Um, great minds think alike, I mean, right? Well, [enthusiastic], parallel development happens all the time in tech, and, [quickly], that's why I need someone like you, you know."
+        },
+        {
+            "role": "Character 2",
+            "content": "[thoughtful] I suppose that's true, though the timing is, well, [suspicious], rather coincidental wouldn't you say?"
+        },
+        {
+            "role": "Character 1",
+            "content": "You know, um, I've been working on this for, [passionately], three years in my garage, well, long before that biotech company even, er, [bitter], got their funding rounds going."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] That's interesting because their initial patent filings date back, [confused], five years."
+        },
+        {
+            "role": "Character 1",
+            "content": "[cheerful] Patents are public record so naturally I've, [dismissive], studied the landscape to ensure we're not, [nervously], infringing on anything."
+        },
+        {
+            "role": "Character 2",
+            "content": "[coldly] Public patents yes, but their trade secrets and, [angry], unpublished provisional applications are another matter entirely, and somehow your pitch deck, [whispering], contains exact terminology from their confidential documents. [gasp softly]"
+        },
+        {
+            "role": "Character 1",
+            "content": "I mean, um, that's quite an accusation to, [shocked], make without any proof, you know."
+        },
+        {
+            "role": "Character 2",
+            "content": "[furious] Well, um, proof?"
+        },
+        {
+            "role": "Character 3",
+            "content": "[regretful] Look, I think we both know why you're really here, and um, [disappointed], it's not for legal representation but to, er, [tired], fish for information about my client's upcoming product launch, isn't it?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] I came here, um, in good faith seeking legitimate legal counsel and, well, [frustrated], now you're treating me like some kind of, er, [shaky voice], corporate spy or something."
+        },
+        {
+            "role": "Character 2",
+            "content": "[knowing] The hidden recording device in your briefcase suggests otherwise, though I must, [mocking], admire your commitment to the, [sarcastic], innocent entrepreneur act you've been performing. [laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[defeated] Well, um, I suppose there's no point in, er, [very quietly], continuing this charade anymore."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Security is already on their way up, and my client's legal team will be, [determined], very interested to learn who, [grimly], sent you here to infiltrate my office."
+        },
+        {
+            "role": "Character 1",
+            "content": "You know, um, I almost had you going there for a while, and well, [ruefully], that biotech company should really, er, [whispered], reconsider who they trust with their secrets. [long pause]"
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "b1eca5d2_scenario.json",
+    "scenario": "An intellectual property attorney meets with a seemingly innocent startup founder who is actually planning to steal the attorney's biggest client's trade secrets.",
+    "type": "scenario_conversation",
+    "character_1_role": "wolf in sheep's clothing",
+    "character_2_role": "intellectual property attorney",
+    "selected_tones": [
+        "counterfeit",
+        "steering",
+        "supportive"
+    ],
+    "tone_options": [
+        "trailing",
+        "timid",
+        "supportive",
+        "demanding",
+        "steering",
+        "partial",
+        "supporting",
+        "centralized",
+        "disciplined",
+        "counterfeit"
+    ]
+}

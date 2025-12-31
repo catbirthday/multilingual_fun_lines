@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[surprised] You're still here practicing at, [confused], midnight when the whole building should be empty except for, [slowly], cleaning staff like me who've been mopping these floors for thirty years."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Tomorrow's performance is supposed to be my triumph but instead it's going to be, [whispering], the night I finally break free from everything."
+        },
+        {
+            "role": "Character 1",
+            "content": "[concerned] That sounds like you're planning something drastic and, [hesitantly], I've seen enough young performers crack under pressure to recognize when someone's about, [trailing off], to do something they might regret."
+        },
+        {
+            "role": "Character 2",
+            "content": "[coldly] You wouldn't understand."
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, um, I may just push a mop around but, [warm], I've watched hundreds of musicians come through these doors and, [empathetically], each one carrying their own burden, you know? [sigh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] My parents have controlled every single note I've played since I was four years old, [frustrated], choosing my repertoire and scheduling eighteen-hour practice days."
+        },
+        {
+            "role": "Character 1",
+            "content": "The Rachmaninoff you were just playing sounded, [impressed], absolutely flawless but there was something, [curious], missing from it like your heart wasn't really, [quietly], in those passages that should soar. [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] Um, that's because, well, I'm planning to deliberately mess up tomorrow's concerto so badly that, [determined], no conservatory will ever want me again, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] Destroying your gift won't free you from them, it'll just mean, [sad], they've taken even more from you than they already have."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] But if I succeed tomorrow they'll push me into the international circuit and I'll never have, [shaky voice], a normal life or friends or anything that isn't about being their, [mockingly], perfect prodigy. [groan]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Listen, um, I mean, there are other ways to take control without, [passionately], burning down everything you've worked for, like, [carefully], maybe playing your own compositions instead of theirs."
+        },
+        {
+            "role": "Character 2",
+            "content": "They've never even heard my compositions because, well, [regretful], anything I write gets dismissed as amateur garbage that distracts from, [sarcastically], real music which apparently only dead European men can write, [bitterly], according to them anyway."
+        },
+        {
+            "role": "Character 1",
+            "content": "[encouraging] Play one of your pieces for me right now and I promise to give you, [sincerely], an honest opinion from someone who has no stake in your career."
+        },
+        {
+            "role": "Character 2",
+            "content": "[nervous] Well, um, I've never actually played them for anyone because, like, [whispering loudly], what if they really are garbage, you know? [sniffle]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[playful] Look, um, after three decades of listening to practice sessions through these walls, well, [confident], I can tell you that garbage doesn't make someone's eyes light up the way yours just did."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Okay, um, this one's called 'Escape Velocity' and I wrote it, er, [excited], last month when I was thinking about what freedom might actually sound like."
+        },
+        {
+            "role": "Character 1",
+            "content": "[delighted] That title alone tells me you understand something about music that, [thoughtfully], can't be taught through endless scales and competitions."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hopeful] So, um, maybe instead of sabotaging the Rachmaninoff, I could, like, [mischievously], slip this into my encore when they're not expecting it. [laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[proudly] Now that would be a rebellion worth witnessing because true courage isn't about, [passionately], destroying what you've built but about, [firmly], creating something entirely your own despite everyone trying to stop you, [warmly], and I'll be in the back row tomorrow night cheering you on. [chuckle]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[grateful] You know, for someone who claims to just push a mop around, [touched], you understand more about this life than my parents ever have, [quietly], and maybe that's exactly the perspective I needed to hear, [emotionally], from someone who sees the music instead of just the prestige."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "96adbe1e_scenario.json",
+    "scenario": "An elderly janitor at a prestigious concert hall encounters a young piano prodigy practicing alone after hours, who reveals they're planning to sabotage their own performance tomorrow to escape their controlling parents.",
+    "type": "scenario_conversation",
+    "character_1_role": "onlooker",
+    "character_2_role": "prodigy",
+    "selected_tones": [
+        "naive",
+        "knowledgeable",
+        "receiving"
+    ],
+    "tone_options": [
+        "whole",
+        "imparting",
+        "knowledgeable",
+        "self-sufficient",
+        "naive",
+        "cool-headed",
+        "receiving",
+        "sarcastic",
+        "unhelpful",
+        "unpleasant"
+    ]
+}

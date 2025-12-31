@@ -1,0 +1,121 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Oh wonderful, um, another mystery charge on my... what do you call it... the cable thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon! So, um, I can definitely help you figure out what's going on with your bill there. Let me just, uh, pull up your account here. Can you give me the account number? Should be like, ACC-something at the top of your statement."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh... let me find my glasses first... ACC-4429-BK."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, okay so I'm seeing ACC-4429-BK here, and hmm, that's interesting actually. So it looks like—wait, let me just—okay so there was a change on October 15th. Your bill went from ninety-two fifty to one thirty-two fifty, is that what you're seeing?"
+        },
+        {
+            "role": "Customer",
+            "content": "Forty dollars for what, exactly? Did I accidentally order... I don't know... premium air?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, actually that's—hmm, okay this is weird. So I'm seeing here that, uh, someone added what we call our \"Sports Plus Entertainment Package\" with code PKG-8827-SE, and um, that's definitely where your forty dollar increase is coming from."
+        },
+        {
+            "role": "Customer",
+            "content": "Sports? Um, I watch... what's it called... the cooking channel and... that's about it..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, that definitely doesn't sound right then. Let me dig a little deeper here—so the modification was processed through our automated phone system at 2:47 AM on October 15th, transaction ID TXN-445982-PM. That's... that's really odd timing."
+        },
+        {
+            "role": "Customer",
+            "content": "Two in the morning? I mean, uh, I'm usually having my, um, third bathroom trip by then, not... not ordering sports packages..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, exactly, that's—okay so let me think through this. Sometimes these automated systems can, um, well they can be a bit touchy. Did you maybe, uh, did anyone else in your household maybe try to call in recently? Or, hmm, did you get any calls from us around that time?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, um, is this gonna keep happening? Because I can't, uh... my pension doesn't exactly... you know..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, so, um, we're definitely going to fix this, don't worry. So I'm actually—let me just—I'm removing that package right now, reference number RMV-7745-QX, and, uh, I'm also seeing if I can backdate this to give you a full credit."
+        },
+        {
+            "role": "Customer",
+            "content": "But how did it even... I mean, I don't understand how these things just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I think might've happened—and this is, um, actually more common than you'd think—sometimes if you're navigating the phone menu and, uh, maybe you press a button accidentally or the system misinterprets something, it can trigger these, like, automatic package additions."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh God, what if, um, what if there's other stuff I don't, uh... I can't keep track of all these..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, so, um, actually let me do something here. I'm gonna, uh, run a full audit on your account going back six months, audit code AUD-9982-ML. Just to make sure there's nothing else weird hiding in there, you know?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's... I suppose that's... thank you, I just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so—good news—I don't see any other unexpected changes. Just that one October 15th addition. And, um, I've got that forty dollar credit approved, confirmation CRD-3365-PP, so it'll show up on your next bill."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so next month it'll be... back to normal? The ninety-two fifty?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, yes. So, um, next month you'll actually see fifty-two fifty because of the credit, and then after that, back to your regular ninety-two fifty. I've also, uh, put a note here with flag FLG-7729-NT to block any automatic additions without verbal confirmation. So this definitely won't happen again."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b7c804c6_script.json",
+    "scenario": "elderly retiree, confused about why her cable bill increased by forty dollars",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "annoyed_sarcastic",
+                "panicked_spiral"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off",
+                    "word_searching",
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "false_starts",
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

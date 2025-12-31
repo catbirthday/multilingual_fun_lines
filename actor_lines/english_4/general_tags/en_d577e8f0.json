@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Wait, um, I recognize that, [shocked], nervous habit with your pen—you're still, [disbelief], clicking it three times whenever you're stressed, er, just like in our dorm room."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh my God, well, it's really, [stunned], you standing there in that white coat after, um, all those years you said you'd, [voice dropping], never end up in healthcare like your, [bitter laugh], parents wanted. [long pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] Funny how life takes these unexpected, [reflective], turns when you stop fighting against what, [gentle], actually makes sense for who you, [trailing off], are—"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Yeah, well, um, I took the path everyone, [hollow], expected—Wall Street, the suits, er, the fourteen-hour days that, [exhausted], basically destroyed my spine and probably my, [cracking], soul too."
+        },
+        {
+            "role": "Character 1",
+            "content": "Looking at your posture and the way you're, um, holding yourself, I can, [concerned], literally see twenty years of, well, stress compressed into your, [professional], vertebrae like some kind of physical manifestation of anxiety."
+        },
+        {
+            "role": "Character 2",
+            "content": "[ashamed] We just lost, um, forty-three million dollars today because I, [shaky], got greedy, and now, well, here I am. [sighs heavily]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[soft] The money never really, [knowing], mattered to you back then either."
+        },
+        {
+            "role": "Character 2",
+            "content": "[vulnerable] It became this addiction somehow, this constant, [desperate], need to prove I was worth something after my dad said I'd, [voice breaking], never amount to anything."
+        },
+        {
+            "role": "Character 1",
+            "content": "[compassionate] You were worth something when you tutored half our floor in calculus for, [warm], free because you genuinely wanted everyone to, [sincere], succeed together."
+        },
+        {
+            "role": "Character 2",
+            "content": "[trembling] Um, I don't, er, know anymore."
+        },
+        {
+            "role": "Character 1",
+            "content": "[steady] Listen, um, your spine is telling me stories about, [clinical], carrying weight that was never yours to bear, and, well, we can work on releasing that. [hopeful]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[curious] Do you ever, um, regret not taking that Goldman Sachs offer after, [wondering], graduation when everyone said you were, well, throwing your life away to study, [incredulous], bones and muscles?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[confident] Every single person who lies on this table brings their whole, [philosophical], life story written in their muscles and I get to help them, [fulfilled], rewrite it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[envious] God, I mean, that sounds like actual, [wistful], purpose instead of just moving numbers around hoping they multiply while, um, your soul divides."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gentle] Well, it's never too late to, um, change direction—your body knows how to heal itself once you stop, [meaningful], forcing it into shapes it was never meant to hold."
+        },
+        {
+            "role": "Character 2",
+            "content": "[vulnerable] Could that possibly apply to, [searching], more than just backs?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[thoughtful] The physical and emotional are more connected than, well, most people realize, and um, sometimes fixing one helps you see clearly enough to, [encouraging], fix the other. [soft laugh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[determined] Maybe losing those millions today was the universe's way of telling me to, [awakening], stop losing myself in pursuit of something that was never really, [realizing], mine to chase anyway. [deep breath]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[smiling] Now you're starting to sound like the philosophy major who used to keep me up until, [nostalgic], four AM debating whether success was an external metric or an, [wise], internal state of being."
+        },
+        {
+            "role": "Character 2",
+            "content": "That person got buried under spreadsheets and, [regretful], quarterly reports somewhere along the way. [long sigh]"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "d577e8f0_scenario.json",
+    "scenario": "A hedge fund manager with chronic back pain from stress arrives at a chiropractor's office after his company just lost millions in a risky trade, only to discover the chiropractor is his college roommate who took a different path in life.",
+    "type": "scenario_conversation",
+    "character_1_role": "chiropractor",
+    "character_2_role": "hedge fund manager",
+    "selected_tones": [
+        "nervous",
+        "truthful",
+        "humble"
+    ],
+    "tone_options": [
+        "humble",
+        "hot-headed",
+        "bold",
+        "cooperative",
+        "flourishing",
+        "brave",
+        "alert",
+        "nervous",
+        "inventing",
+        "truthful"
+    ]
+}

@@ -1,0 +1,46 @@
+=== Source: 9810de02_script.json ===
+Content Type: customer_support
+Scenario: locked out of their account after too many failed password attempts
+
+=== Dialogue ===
+
+Customer: So um, I'm locked out and, uh, how do I know this isn't like... some kind of...
+
+Customer Support: Right right, um, totally understand the concern. Let me, uh, pull up your account—gonna need your email or account number, and then we'll get you, um, verified with security question SEC-7734-QV.
+
+Customer: Wait, security questions? Like, what if someone's listening to this call or...
+
+Customer Support: Yep, standard procedure. Your call reference is CRL-995847 and, um, everything's encrypted end-to-end so... let me just... okay need that email first.
+
+Customer: Um, so basically it's like... what's the word... compromised? My account could be?
+
+Customer Support: Not compromised, just, uh, locked after failed attempts. System shows ticket LCK-2847-MN at, hmm, 2:47 PM. Five failed tries triggers automatic... yeah. Need to verify you then reset.
+
+Customer: Five? I didn't even... so like, someone else was trying to...
+
+Customer Support: Could be you forgot, happens all the—sorry, um, busy day here. Let me check the IP logs under, uh, reference IPN-384729... showing attempts from your usual location so probably just, you know...
+
+Customer: Um, how do you know my usual... that's kind of... I mean...
+
+Customer Support: Account history. Been noting login patterns since, um... checking here... November 2021 under profile PRF-1138-XK. Standard security feature. Helps us spot unusual... anyway, email please?
+
+Customer: So like, you've been tracking me for, uh, three years? I've been a customer since like...
+
+Customer Support: Mmm-hmm.
+
+Customer: That's it? Just mmm-hmm? I mean, um, I pay monthly and this is how...
+
+Customer Support: Sorry sorry, uh, pulling up multiple screens here. Your account ACC-7739-BN shows, um, active since 2019, excellent payment history, which is why I'm, uh, expediting this for you... still need that email though.
+
+Customer: Fine, it's um... wait, so like, after I give this, what exactly happens...
+
+Customer Support: So basically, um, verify email, then security question from, uh, your setup preferences SQP-4421, then I send reset link to... hold on... backup email ending in, hmm, @gmail, and you're back in.
+
+Customer: Backup email? I don't even, um, remember setting up a... what if I can't...
+
+Customer Support: Shows updated, uh, last month actually. Transaction log TRX-993847-C. If you can't access that one, we go through, um, extended verification... takes bit longer but...
+
+Customer: Um, so basically you're saying I'm stuck if, like, I don't have that old email?
+
+Customer Support: Not stuck, just, uh, different process. Extended verification protocol EVP-8827 takes maybe, hmm, ten more minutes? But honestly just... let's try the regular way first, usually works fine and I've got seventeen calls waiting so...
+

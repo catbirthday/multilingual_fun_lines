@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[defensive] You can't just show up at my, [uncomfortable], apartment demanding I build something that goes against everything my, [breaking], family stands for publicly."
+        },
+        {
+            "role": "Character 2",
+            "content": "[intense] Look, um, I know your father's newspaper has been, [bitter], attacking our movement for months, but well, you're supposed to believe in, [desperate], decentralization and freedom from control, I mean, isn't that what blockchain is actually about?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[cold] Get out."
+        },
+        {
+            "role": "Character 2",
+            "content": "[pleading] Wait, just, um, hear me out—we need someone who, [earnest], understands the technology deeply enough to make this truly untraceable because, er, the opposition is tracking every donation and, [voice cracking], using it to destroy people's lives, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[conflicted] The fact that you're right about the technology doesn't, [struggling], mean I can betray my family by helping a movement they've spent, [quiet], years fighting against."
+        },
+        {
+            "role": "Character 2",
+            "content": "[passionate] So, um, family loyalty matters more than, [pointed], actual people being silenced, well, persecuted for supporting what they believe in? [sighs heavily]"
+        },
+        {
+            "role": "Character 1",
+            "content": "My mother literally wrote the editorial calling your leader a, [shaking], dangerous demagogue and now you want me to, [hollow], secretly enable everything she fears most. [laughs bitterly]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah well, um, your mother also wrote that, [angry], technology should serve truth and freedom, so I mean, which principle are you, [accusatory], actually loyal to here? [pauses]"
+        },
+        {
+            "role": "Character 1",
+            "content": "You know, um, I actually built a prototype for something like this, [ashamed], months ago as a thought experiment before I realized what it could, well, [trembling], enable in the wrong hands. [long pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Um, well, define wrong."
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted] Look, I mean, if I did this—and I'm not saying I will—but um, if I did, [careful], it would have to be completely anonymous with no connection to me because, well, [breaking], my sister works for the opposition party's campaign and this would, [voice cracking], destroy her. [sighs]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[urgent] Well, um, of course."
+        },
+        {
+            "role": "Character 1",
+            "content": "[resigned] The code I wrote could, um, theoretically handle millions in donations through, [technical], fragmented micro-transactions that would be literally impossible to trace, but I mean, [horrified], giving it to you would make me responsible for whatever, [trailing off], comes next."
+        },
+        {
+            "role": "Character 2",
+            "content": "[forceful] Listen, um, whatever comes next is happening with or without your, [pressing], pristine code—the only question is whether we do this, well, [determined], properly or if some amateur hack job gets people caught and, I mean, imprisoned."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anguished] God, um, I hate that you're making sense because, well, I know exactly how vulnerable a poorly built system would be and, [defeated], how many innocent supporters could get exposed."
+        },
+        {
+            "role": "Character 2",
+            "content": "You've already spent six months watching from the, [accusatory], sidelines while people suffer for their beliefs—how much longer can you, [pointed], pretend neutrality exists?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[whispered] Fine, um, I'll give you the code but, well, I need you to understand that this will, [heavy], haunt me forever, and I mean, [breaking], if anyone traces this back to me, my entire family will, [desperate], never forgive me. [exhales]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[solemn] The movement remembers its allies, even the, [meaningful], reluctant ones who finally chose courage over comfort when it, [quietly], mattered most. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Courage is what you call it when someone else, [sarcastic], pays the price for your principles while you get to feel, [hollow], righteous about the cause."
+        },
+        {
+            "role": "Character 2",
+            "content": "[soft] Maybe, um, but sometimes the price of doing nothing is, [heavy], even higher, and well, I think deep down you already know that."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "c91bdae6_scenario.json",
+    "scenario": "A blockchain developer is confronted by a partisan activist who wants them to build an untraceable donation system for a controversial political movement the developer's family has publicly opposed.",
+    "type": "scenario_conversation",
+    "character_1_role": "blockchain developer",
+    "character_2_role": "partisan",
+    "selected_tones": [
+        "truthful",
+        "withdrawing",
+        "advocating"
+    ],
+    "tone_options": [
+        "truthful",
+        "repetitive",
+        "reliant",
+        "vague",
+        "embracing",
+        "disturbing",
+        "stimulating",
+        "preparing",
+        "withdrawing",
+        "advocating"
+    ]
+}

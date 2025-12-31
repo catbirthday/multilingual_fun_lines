@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[stunned] Wait, is that really you up there taking down my, [voice breaking], billboard—the last advertisement for my bookstore?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] I saw your name on the work order this morning and I, [hesitant], almost called in sick because I knew this would be, [trailing off], hard, but someone had to do the job and I figured, [heavy], maybe it should be me. [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "You taught me to read, um, sitting on your porch with those, [nostalgic], old paperbacks your mom collected, and now you're, well, [bitter], literally dismantling the last sign that my bookstore even, [choking up], exists in this town. [long pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[practical] Look, I know how this, um, looks, but the contract expired and, well, [resigned], nobody renewed it—I'm just doing my job here, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperate] Your job is taking down dreams now, [accusatory], the same hands that opened books for me are now, [broken], closing the last chapter of everything I built after you, [trailing], left for trade school."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Well, um, not everyone can afford to chase dreams when there's, like, [frustrated], rent to pay and mouths to feed, you know, and this job, [steady], it keeps me grounded."
+        },
+        {
+            "role": "Character 1",
+            "content": "[soft] Remember when we swore we'd open a bookstore together, [wistful], right here on Main Street with a reading nook and, [trembling], weekly poetry nights where anyone could share their words without, [distant], fear of judgment?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[barely audible] I remember everything."
+        },
+        {
+            "role": "Character 1",
+            "content": "Then why, um, are you up there with your tools, [hurt], removing the last trace of what we, well, dreamed about?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[gentle] Because sometimes being practical means accepting that, [sad], dreams change shape, and maybe my way of honoring ours is making sure, [careful], you're not watching some stranger tear it down, [thoughtful], at least I can do it with the respect it deserves. [exhales]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[crying] Every book in that store has your fingerprints somewhere, [shaking], from when you helped me paint the shelves to the, [remembering], inventory system you designed on napkins at the diner before you, [hollow], decided this life wasn't enough."
+        },
+        {
+            "role": "Character 2",
+            "content": "It was never about it not being, [pained], enough—it was about being practical when my dad got sick. [silence]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[humble] I know you made the right choice for your family and I've never, [guilty], held that against you, but watching you remove that sign feels like, [overwhelmed], you're erasing us from existence, from everything we, [lost], were to each other."
+        },
+        {
+            "role": "Character 2",
+            "content": "Nothing could erase what you, [emotional], meant to me—mean to me still."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hopeful] Well, um, then maybe—[pauses]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[interrupting] Don't."
+        },
+        {
+            "role": "Character 1",
+            "content": "Maybe you could, um, help me one more time, not with, [tentative], dreams this time but with something practical like, well, [searching], finding a way to keep just one small shelf of books, [pleading], somewhere in this town?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[considering] There's space in my workshop where I store the old billboards, [slowly], and I've been thinking about converting part of it into something, [hopeful], more meaningful than just storage for dead advertisements, [meaningful], if you'd want to start small again."
+        },
+        {
+            "role": "Character 1",
+            "content": "You kept the old billboards, [surprised], all these years of taking down people's dreams and you, [understanding], kept them because you couldn't let go either, [tender], could you?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[humble] Every sign tells a story of someone who tried, [thoughtful], and maybe that's worth preserving even when, [trailing], the trying stops. [soft laugh]"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "bc0f658f_scenario.json",
+    "scenario": "A bookworm who owns a struggling independent bookstore discovers the billboard installer removing their store's last advertisement is their childhood best friend who taught them to read.",
+    "type": "scenario_conversation",
+    "character_1_role": "bookworm",
+    "character_2_role": "billboard installer",
+    "selected_tones": [
+        "humble",
+        "practical",
+        "trailing"
+    ],
+    "tone_options": [
+        "impractical",
+        "knowledgeable",
+        "partisan",
+        "disengaging",
+        "humble",
+        "discarding",
+        "living",
+        "expanding",
+        "trailing",
+        "practical"
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, yeah hi, so I'm calling about these, uh, hotel charges from like three months ago that just, er, showed up on my statement and honestly I'm pretty frustrated here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay, um, let me just... I think I can help with that, so, uh, if you could maybe give me your confirmation number or, um, actually the booking reference would be... that'd be great."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh it was for a, um, team road trip in March, we stayed at the Hampton in Toledo, and they're saying I owe like three hundred dollars in incidentals which is, er, completely insane."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so, um, I'm pulling up... okay so I see booking HTL-3847-QM92 and, uh, yeah there's definitely some... hmm, that's interesting actually, I think I see what might've..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um look I mean we had twelve players staying there, uh, teenage kids basically, and yeah maybe someone ordered a movie but three hundred dollars, that's like, er, what, fifty pizzas?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha! Okay so, um, between you and me? I'm seeing, uh, multiple duplicate charges here on transaction TXN-88291-KX and, um, someone probably hit submit too many times in their system... happens more than you'd think, honestly."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? So this is, um, this is their mistake then, not mine ordering like a hundred pay-per-views or whatever they're trying to say?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely their mistake, I mean, uh, look at this... reference code RCP-90523-J shows, um, the same twenty-nine dollar charge hitting six times at, uh, exactly 11:47 PM which is... that's not even possible manually."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank god, um, because I was about ready to bench someone, er, you know these kids and their phones, but uh, this makes way more sense actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, what I'm gonna do here is... well, I probably shouldn't say this but, uh, I'm filing this under ERR-CODE-7729 which basically means, um, automatic full refund plus, uh, let me see if I can..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um wait you can actually fix this right now, like I don't have to, uh, call the hotel and argue with them for three hours?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no, um, that's the beauty of it, so case number CSE-44981-BN9 is gonna, uh, reverse everything and... actually, hmm, you coach baseball right? My kid's trying out for JV next month."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh yeah, pitching coach actually, um, fifteen years now, your kid a pitcher or, er, position player, because honestly the tryout process is totally different these days."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Position player but, um, he thinks he can pitch? I don't know, anyway so, uh, your refund reference REF-30847-TT should post in, um, probably three days but sometimes it's faster if..."
+        },
+        {
+            "role": "Customer",
+            "content": "Three days is perfect, um, and hey tell your kid to, uh, work on his secondary pitches if he's serious, er, everyone throws hard now, it's the changeup that gets you noticed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Really? That's... okay I'm definitely telling him that. So, um, confirmation number CNF-88930-XK2 is in your email and, uh, just so you know? Next time something like this happens, ask for the, um, the duplicate charge protocol..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um yeah next time, though honestly after this whole mess I'm, er, definitely checking my statements way more carefully, but uh, you've been super helpful here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well I mean, um, that's what I'm here for but also... hang on, let me just, uh, add a note to account NTE-55981-P that you're a, um, preferred customer so if this ever..."
+        },
+        {
+            "role": "Customer",
+            "content": "Preferred customer? Um, that's awesome actually, I mean after being ready to like, uh, never use you guys again, this is, er, this is a total turnaround honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Between you and me? Um, there's no official preferred status but, uh, I put flags on accounts when someone's cool about stuff, and your flag FLG-22847-M just says, um, \"baseball coach, good guy, fix his stuff fast\" so... yeah."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b4fd14b6_script.json",
+    "scenario": "pitching coach, frustrated about hotel incidental charges from a road trip three months ago",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "relieved_but_wary",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "triumphant_problem_solver",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "trailing_off",
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

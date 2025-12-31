@@ -1,0 +1,119 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. Need to stop the emails. All of 'em."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, I can definitely help you with that, and like, I totally understand wanting to reduce the email volume—so basically I'll need to pull up your account first with your email address."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. It's... wait, sorry. Know this isn't your fault."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no, um, you're totally fine! So like, whenever you're ready with that email, and basically I'll get you opted out of everything—well, uh, most things anyway, there are some transactional ones we legally have to send."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, yeah. J-wilson-84 at gmail. The numbers... eight, four."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so, um, I've got your account here—customer ID CST-49981-WX—and like, I can see you're currently subscribed to, uh, basically all six of our marketing lists, so let me start removing those."
+        },
+        {
+            "role": "Customer",
+            "content": "Six? Jeez. Um, didn't realize I'd... anyway. Thanks for doing this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Must get this all day. People like me, complaining about..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So actually, um, you're being really nice about it, and like, I wish I could just, uh, flip one switch for you but basically the system makes me do each list separately—so I've got three done, reference number OPT-773421-B, and, um, three more to go here."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, no rush. Actually nice talking to a real person for once."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, that's really kind of you to say, and like, okay so basically I've got five of the six done now, but, uh, this last one—the partner offers list—it's showing error code ERR-5584 which means, um, I need to escalate it."
+        },
+        {
+            "role": "Customer",
+            "content": "Course there's one that won't... sorry. That came out wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I'm, um, equally frustrated about it! So like, here's what I can do—basically I'll create a manual removal ticket, number TKT-889542-M, and, uh, it'll be processed within twenty-four hours, but honestly probably sooner."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, you're being really helpful. Appreciate it. Really do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, you should get a confirmation email—and like, I know, ironic, one more email—but basically it'll have confirmation code CNF-445789-X showing all the lists you're removed from, and, uh, you know, just keep that for your records."
+        },
+        {
+            "role": "Customer",
+            "content": "Heh. One last email. That's... yeah. Makes sense though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "So that's it then? All done? Or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, yes, you're all set! Like, the five lists are removed immediately, and, uh, that sixth one with ticket TKT-889542-M will be done by tomorrow, so—and I'm really sorry we couldn't get that last one instant—but like, you definitely won't be getting our marketing emails anymore."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "988ef6b0_script.json",
+    "scenario": "wanting to opt out of marketing communications",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "empathetic_to_rep",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "breath_catches",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "regretfully_limited",
+                "gently_reassuring"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[warm] So, um, I got the offer from the developer this morning and, [hesitantly], it's actually double what we thought the building was, [shaky voice], worth, which, well, changes things. [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] Double?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[grounded] The juice bar downstairs has been, [empathetically], your whole life for three years and I know selling means, [slowly], closing it down. [sigh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Grandma left us this building together because she, [passionately], believed we'd take care of it the way she did for, [trembling], forty-seven years."
+        },
+        {
+            "role": "Character 1",
+            "content": "[friendly] Look, I understand the sentimental value but we're both, [anxious], struggling to pay for repairs and the property taxes keep climbing."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Well, um, the juice bar is finally turning a profit and, [cheerful], I've been thinking about expanding to the second floor space that's, [animated], been empty since, er, we moved in. [laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] I mean, we can't keep living like this, [confused], pretending the building isn't falling apart while you, [bitter], pour every penny back into organic produce and, [very quietly], fancy equipment, you know?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] So, um, maybe I haven't been the best at, [formal], communicating my plans, but, well, I've been saving."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] You never mentioned having savings when we talked about, [stern], splitting the heating bill last month."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] The money isn't for bills, it's for, [excited], buying your half of the building so you can move on without, [sincerely], forcing me to give up everything I've built here. [gasp]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, um, that's actually really thoughtful but, [whispering], I don't know if I can, er, leave this place either."
+        },
+        {
+            "role": "Character 2",
+            "content": "[playful] So, um, we're both too attached to sell but, [regretful], too broke to properly maintain it, which, well, sounds exactly like something grandma would, [mocking], find hilarious. [chuckle]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Maybe, um, we don't have to choose between, [confident], keeping it all or losing everything because there's, [exhausted], got to be a third option we haven't, [mumbling], considered yet, you know?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[hopeful] Well, er, what if we converted part of the building into, [speeding up], rental units to generate income while keeping the juice bar and, [delighted], our apartment on the top floor, I mean, if you'd want to stay? [clearing throat]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[shy] Um, I've actually been sketching renovation plans at night, [happy], hoping we'd figure out a way to keep it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[overly polite] Your architectural drawings have always been, [joking], better than my business plans, but together we make, [very excited], a pretty good team for managing grandma's legacy."
+        },
+        {
+            "role": "Character 1",
+            "content": "She knew we'd argue about it first before, [flirtatious], finding our way to the right answer together."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sad] You know, um, sometimes when I'm opening the juice bar at dawn, I can, [nostalgic], still smell her lavender perfume in the stairwell and, [crying while speaking], hear her humming that old song she loved, well, it makes this place feel alive. [sniffle]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[tender] We're keeping the building and we'll make it work, [proudly], because that's what family does, even chosen family like us. [deep pitch]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Thank you."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "98c1b0fa_scenario.json",
+    "scenario": "A roommate confronts the juice bar operator they've been living with for three years about selling the building they co-inherited from their late grandmother, forcing them both to face their unspoken feelings about family, home, and each other.",
+    "type": "scenario_conversation",
+    "character_1_role": "roommate",
+    "character_2_role": "juice bar operator",
+    "selected_tones": [
+        "grounded",
+        "friendly",
+        "stable"
+    ],
+    "tone_options": [
+        "uniting",
+        "stable",
+        "even",
+        "surrendering",
+        "displaying",
+        "hurrying",
+        "charming",
+        "demanding",
+        "friendly",
+        "grounded"
+    ]
+}

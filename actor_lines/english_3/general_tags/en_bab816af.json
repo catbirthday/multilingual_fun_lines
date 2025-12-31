@@ -1,0 +1,106 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[stunned] So you're the lawyer who, [sharp], froze my mother's accounts yesterday, the one who said I can't even, [bitter], access the money she left specifically for keeping her shop running."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Look, um, I had no idea you were, [uncomfortable], the daughter when I filed those papers, I mean, your last names are different and, [rushed], the estate documentation didn't mention, well, anything about the ice cream shop being, [trailing off], part of the inheritance."
+        },
+        {
+            "role": "Character 1",
+            "content": "[accusatory] You've been coming here every single day for, [incredulous], a month straight ordering the same lavender honey cone, sitting in that corner booth and, [heated], telling me how this place reminds you of your childhood."
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, I mean, it does remind me of, [quiet], my childhood, but that doesn't change the fact that legally, um, everything has to go through probate."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] So, um, all those conversations we had about, [sarcastic], keeping small businesses alive in this neighborhood, about how, well, important it is to preserve family legacies, I mean, that was just, [disgusted], what exactly?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[firm] Those conversations were real, but, um, my professional obligations and, [measured], personal feelings are two entirely separate things, you know."
+        },
+        {
+            "role": "Character 1",
+            "content": "Right, well, so you can compartmentalize perfectly while, [breaking], I'm about to lose everything my mother built over forty years, um, because of red tape."
+        },
+        {
+            "role": "Character 2",
+            "content": "[urgent] Listen, there might be a way to, [hasty], expedite the process if you can prove the shop needs, [scrambling], immediate operational funds to prevent irreparable harm to the, [breathless], estate's value."
+        },
+        {
+            "role": "Character 1",
+            "content": "[skeptical] And you're just now mentioning this option after, [cold], watching me panic for the last twenty-four hours?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] I couldn't discuss it until I verified you were actually, [careful], the beneficiary named in the will."
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted] The freezer compressor dies in three days if I can't, [desperate], pay for repairs."
+        },
+        {
+            "role": "Character 2",
+            "content": "[decisive] Then we file an emergency motion tomorrow morning at, [quick], eight sharp."
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, um, I guess I should thank you, but honestly, [conflicted], I don't know whether to be grateful or, [struggling], furious that you're the reason I need help in the first place, you know, [hollow], this whole situation is just—"
+        },
+        {
+            "role": "Character 2",
+            "content": "[rushed] I'll waive my fees for the emergency filing and, [softer], personally guarantee the judge sees it before noon."
+        },
+        {
+            "role": "Character 1",
+            "content": "[whispered] Why?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[earnest] Because your mother's lavender honey recipe is, [emotional], the same one my grandmother made, and some things are worth, [determined], bending the rules for."
+        },
+        {
+            "role": "Character 1",
+            "content": "You never told me that, um, during all those afternoons you sat here, [hurt], sharing stories about everything except, well, who you really were."
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] Professional boundaries are just another word for, [weary], cowardice sometimes."
+        },
+        {
+            "role": "Character 1",
+            "content": "So, um, after we file this motion tomorrow, well, will you still come here for your, [tentative], daily cone, you know?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[gentle] Every day at two-thirty, just like, [hopeful], always, though maybe this time we can have an honest, [meaningful], conversation."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "bab816af_scenario.json",
+    "scenario": "An ice cream maker discovers the elder law attorney who just froze their late mother's assets pending probate is the same person who's been their only regular customer during the shop's struggling first month.",
+    "type": "scenario_conversation",
+    "character_1_role": "ice cream maker",
+    "character_2_role": "elder law attorney",
+    "selected_tones": [
+        "sharp",
+        "hastening"
+    ],
+    "tone_options": [
+        "distant",
+        "hastening",
+        "scattered",
+        "reliant",
+        "successful",
+        "fresh",
+        "casual",
+        "liquefying",
+        "sharp",
+        "superior"
+    ]
+}

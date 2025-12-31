@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Mom said, um, there'd be workers here today but she didn't, [shocked], mention that you'd be one of them after, well, [quietly], four years of complete silence between us. [long pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] I run my own installation company now and your parents, [bitter], hired us through the website without knowing it was, [concentrated], my business until I showed up this, [hesitantly], morning."
+        },
+        {
+            "role": "Character 1",
+            "content": "So you're, like, actually doing this now, I mean, [confused], the whole save-the-planet thing you dropped Yale for?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[vague] Well, um, it's more complicated than that, you know, [slowly], there were other reasons I left that had nothing to do with, [trembling], environmental activism. [sigh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] The trust fund would have covered your tuition for another three years but you chose, [frustrated], manual labor over finishing your engineering degree."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warm] Um, I actually use my engineering knowledge every day, like, calculating load distributions and, [passionately], designing custom mounting systems for historic homes like this one, so, you know."
+        },
+        {
+            "role": "Character 1",
+            "content": "[regretful] I guess I, um, never really understood why you had to, [angry], completely disappear from our lives instead of just, well, [whispering], changing your major or something. [gasp softly]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Dad made it clear that if I wasn't going to be, [exhausted], the lawyer he'd planned for me to become since birth then I wasn't, [very quietly], welcome at family dinners anymore and you were only, [mocking], fourteen so I didn't want to put you in the middle."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] Well, um, he's been telling everyone at the club that you're, like, [embarrassed], in grad school abroad which is why you, umm, [trailing off], never come to any events anymore..."
+        },
+        {
+            "role": "Character 2",
+            "content": "[releasing] You know what, um, I make more money now than most of those lawyers at his firm and I, [proudly], actually sleep at night knowing I'm helping people reduce their carbon footprint while, well, [cheerful], building something real with my hands. [laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] Sometimes I look at your old room with all those, [melancholic], academic trophies still on the shelves and wonder if you ever, [very sincerely], miss any of this life we grew up in. [cough]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] I miss you and mom but not the pressure to be, [stern], perfect all the time. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "The thing is that after you left I became the one who had to be, [overwhelmed], perfect at everything and carry all of dad's, [bored], expectations alone which has been absolutely, [loudly], suffocating. [groan]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] I never meant for you to inherit that burden but staying would have, [crying while speaking], destroyed who I really am and I couldn't pretend to be someone else just to, [formally], maintain appearances at charity galas and country club brunches anymore. [sniffle]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Maybe if you'd stayed and fought back together we could have, [hopeful], changed his mind about what success looks like instead of me being, [monotone], trapped in this predetermined life path alone."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Look, um, you're eighteen now and, well, about to graduate so maybe it's time you, [confident], made your own choice about college instead of just, er, [whispering loudly], following his blueprint like I was supposed to."
+        },
+        {
+            "role": "Character 1",
+            "content": "[determined] Actually I already got into MIT for environmental engineering but haven't told anyone yet because, [nervous], I knew it would start world war three."
+        },
+        {
+            "role": "Character 2",
+            "content": "[excited] Um, well, that's amazing actually."
+        },
+        {
+            "role": "Character 1",
+            "content": "[contemplative] Maybe you could teach me about solar installation this summer before I leave so I'd have, [eager], practical experience to go with all the, [speeding up], theory they'll throw at me. [chuckle]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[joyful] I'd love that more than you know and maybe we can finally, [tearful], be siblings again instead of strangers who share, [soft], the same difficult father. [deep breath]"
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "a454caaf_scenario.json",
+    "scenario": "A prep school student returns home for break to find a solar panel installer on their family's roof - who turns out to be their estranged older sibling who dropped out of their Ivy League education to pursue environmental activism.",
+    "type": "scenario_conversation",
+    "character_1_role": "prep",
+    "character_2_role": "solar panel installer",
+    "selected_tones": [
+        "concentrated",
+        "vague",
+        "releasing"
+    ],
+    "tone_options": [
+        "thoughtless",
+        "concentrated",
+        "flourishing",
+        "arrhythmic",
+        "offering",
+        "lying",
+        "same",
+        "releasing",
+        "shrinking",
+        "vague"
+    ]
+}

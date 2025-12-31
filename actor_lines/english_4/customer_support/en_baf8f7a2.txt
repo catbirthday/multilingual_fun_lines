@@ -1,0 +1,46 @@
+=== Source: baf8f7a2_script.json ===
+Content Type: customer_support
+Scenario: busboy, young and inexperienced at navigating a tip reporting discrepancy
+
+=== Dialogue ===
+
+Customer: So, um, I'm I'm calling about... uh... tips. My my paycheck is... it's it's wrong again.
+
+Customer Support: Oh, hmm, let me help you with that! So what I'm gonna do is, um, pull up your account here... could you give me your employee ID or, uh, the last four of your social?
+
+Customer: It's um... 4-4-5... wait, 4-5-5-2.
+
+Customer Support: Perfect, okay so, um, I'm seeing here you're with location 387-B and, hmm, your last pay period ended on the 15th... let me just, uh, look at your tip reporting here... okay so transaction log TXN-94882-KL shows, um, some discrepancies between reported and distributed tips.
+
+Customer: Yeah. Yeah yeah. Of course there's... there's discrepancies. I just, um, I don't I don't get how this keeps happening.
+
+Customer Support: Hmm, I totally understand that frustration, really. So what I'm seeing here is, um, there's a difference between what got reported under code RPT-5521-X and what actually, uh, got processed through payroll.
+
+Customer: But I I didn't... um... how do I know that's even... that's even right?
+
+Customer Support: That's a really fair question! Let me see here... so, um, when you clock out, are you entering tips in the system yourself or is someone else, like, uh, a manager doing it for you?
+
+Customer: The the manager does it. I'm just... I'm just the busboy so, um, they they handle all that.
+
+Customer Support: Oh okay, so that actually, um, that explains a lot! You know, I used to work in restaurants and, uh, the tip-out process for support staff was always, hmm, kind of confusing. So what's happening here with report TRP-6633-AA is, um, your tips are being calculated as a percentage of the servers' sales, not their actual tips.
+
+Customer: Wait wait wait. So um, they're they're not even... it's not even based on real tips?
+
+Customer Support: Hmm, well it gets a bit complicated. Let me, um, let me explain it like this... so your tip-share formula, which is listed here as TSF-0923, it's set at, uh, 2.5% of total sales, but sometimes servers report less tips than they actually made, you know?
+
+Customer: So so I'm getting... um... I'm getting screwed basically. That's that's what you're saying.
+
+Customer Support: No no, I wouldn't, um, I wouldn't say that exactly, but I get why it feels that way! Let me see here... hmm, what if we looked at your actual tip distributions? So document DOC-7741-RV9 shows you should've gotten, uh, $127.50 last week but you only received $94.
+
+Customer: Exactly. Exactly exactly. Where's where's the rest? How do I... um... how do I know this isn't just... just them taking it?
+
+Customer Support: So, um, that's actually something we can track! Report number RPT-3382-TK has every single tip entry and, uh, I can see here that on Tuesday the 12th, hmm, there was an adjustment... looks like someone, um, modified the tip pool after initial entry.
+
+Customer: Of course. Of course they did. I just, um, I don't I don't know what to even do about this.
+
+Customer Support: Listen, I'm gonna, um, I'm gonna level with you here because, like, I've been in your shoes... when I was bussing tables, this happened to me too. So what I can do is, uh, file a formal review under case number CAS-9901-XM2 and, hmm, that triggers an audit of all tip distributions for your location.
+
+Customer: Would that... would that actually, um, do do anything? Or is it just... just more paperwork?
+
+Customer Support: Honestly? It, um, it does work. The audit team takes this seriously and, uh, if they find discrepancies, which based on what I'm seeing in log LOG-5567-PP they probably will, you'll get, hmm, retroactive payment plus your location has to, um, fix their reporting process. Takes about two weeks but, uh, you'll get every penny you're owed.
+

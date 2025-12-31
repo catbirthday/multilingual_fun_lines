@@ -1,0 +1,120 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um okay so I just—I just need to talk about yesterday's call because, uh, it was—it was absolutely ridiculous, like, um, forty-five minutes on hold?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... so basically I'm pulling up your account and, hmm, I can see the call log from yesterday under reference number REF-9847-JL22, and it shows... okay so that's concerning."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait wait wait, you can—you can see it? Because the guy, um, he literally hung up on me, like, uh, mid-sentence!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, according to the notes here on ticket TKT-482916, there was, uh, what looks like... hmm, so basically a disconnection at 3:47 PM, and I'm, um, really sorry about that happening."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry? I had to—no wait—I called back three times!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I'm seeing those attempts here, like, at 4:12, 4:38, and, uh, 5:15 PM under tracking codes TRK-8821, TRK-8834, and, um, TRK-8847, and hmm, none of them connected properly."
+        },
+        {
+            "role": "Customer",
+            "content": "Um exactly! And and and nobody, like, nobody even tried to call me back, uh, even though I left my number twice!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, I understand your frustration. Let me check... so the callback request forms CBR-7739-A and CBR-7740-A are here but they weren't... hmm, what if we make sure this gets handled today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um today? Like, uh, you know my bill is due tomorrow and, um, that's what I was calling about yesterday!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, here's what I can do—I'm, uh, putting an extension on your account right now, reference EXT-9982-KL, and, um, that gives us time to, like, properly resolve everything."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay but—but what about the late fee?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, so, um, given the service issues yesterday, I'm, uh, I'm going ahead and, like, waiving that fee—adjustment code ADJ-6623-RT—and so basically that's, um, already applied to your account."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? Because, um, yesterday's guy said—he said there was, uh, absolutely nothing he could do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... okay so your previous representative had, hmm, limited access, but with escalation ticket ESC-7729-MP, I have authorization to make these adjustments. So basically we're getting this fixed."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—I just don't understand why, um, why it took all this, like, my wedding venue deposit is—uh, never mind, that's not your problem."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, um, wait—so if this is time-sensitive, I can, uh, hmm, let me put a priority flag PRI-8847-HIGH on your account so, like, any future issues get, um, immediate escalation."
+        },
+        {
+            "role": "Customer",
+            "content": "You'd—you'd do that? That's actually helpful!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, I'm also adding my direct extension—it's, uh, 4782—to your file under contact code CON-9923-DIR, and like, if anything comes up, you can, um, skip the queue entirely."
+        },
+        {
+            "role": "Customer",
+            "content": "Um wow, okay, this is—this is so different from yesterday, like, uh, thank you, seriously, I was about to, um, switch companies."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, well, I'm glad we could, um, turn this around, and so your confirmation for everything we discussed today is, uh, CONF-7739-RESOLVED, and basically, like, I genuinely apologize for yesterday's experience."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a31966ba_script.json",
+    "scenario": "complaining about poor customer service on a previous call",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "desperate_pleading"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "false_starts",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "professionally_firm",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

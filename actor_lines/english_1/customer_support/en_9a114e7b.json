@@ -1,0 +1,121 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm calling because, uh, I have this payment that's just... sort of sitting there?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay, um, let me—let me pull that up for you. Can you, uh, give me your account number or, um, maybe the transaction reference? I'm just—sorry, it's been a really busy morning here."
+        },
+        {
+            "role": "Customer",
+            "content": "I think it's... wait, account or transaction? Which one do you need?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Either one. Either one works. Um, actually, let's start with—hmm, let's start with the transaction ID if you, uh, if you have that handy? Should be like, um, TXN and then some numbers."
+        },
+        {
+            "role": "Customer",
+            "content": "TXN... 4... 17... no wait. TNX417?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So that's, um, T-X-N, right? Not T-N-X? Because, uh, that makes a difference in the system and I'm—I'm seeing here that, hmm..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Um, maybe? I mean, I think it's, uh, probably TXN? Or, er, could it be XTN?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay okay. Let me—what if we try this differently. When. When did you make the payment? I can search by date and amount."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, Tuesday? Or, uh, maybe Monday? It was, like, definitely this week though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. And the amount? I'm seeing—hmm, that's weird—I'm seeing three pending transactions here from Monday, TXN-891247-A for $45.89, TXN-891250-B for $127.00, and um, TXN-891256-C for $45.98."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, three? But I only... um, I mean, I think I only did one? The forty... forty-something one?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "There's. There's two forty-something ones. Do you—okay so that means—do you remember if it was eighty-nine cents or ninety-eight cents?"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't... um, maybe the first one? But, uh, why would there be two?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... okay so, um, the TXN-891247-A is showing as pending since Monday at 2:47 PM, and it's—it's stuck at the processor verification stage which is, hmm, that's definitely weird."
+        },
+        {
+            "role": "Customer",
+            "content": "Processor very... verification? Is that, um, is that like a normal thing or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not. Not usually. I mean—sorry, I'm just—I'm looking at the error codes here and ERR-7792 means the bank sent a request but, um, never got confirmation back."
+        },
+        {
+            "role": "Customer",
+            "content": "So it's just, like, floating there? My money is just, um, sort of... nowhere?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well well well. It's—the funds are held, they're safe, they're just. Stuck. Let me—I'm going to force-push this through with override code OVR-22894-X and that should, um, that should unstick it within the next, hmm, four to six hours?"
+        },
+        {
+            "role": "Customer",
+            "content": "Four to six hours? That's... I mean, that's actually pretty good. Will I get some kind of confirmation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Yes yes. You'll get an email with, um, with confirmation number CFM-991205-RT once it processes, and if—if it doesn't clear by tonight, you call back with that CFM number and we'll—we'll expedite it immediately."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "9a114e7b_script.json",
+    "scenario": "asking for help with a transaction that's stuck pending",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "confused_lost",
+                "cautiously_hopeful"
+            ],
+            "disfluency": {
+                "hesitation_amount": "variable",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "slightly_frazzled",
+                "troubleshooting_curious"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "classic_fillers",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

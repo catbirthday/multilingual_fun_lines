@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[bitter] Um, I saw what you were filming yesterday during, [shaky voice], Marcus's breakdown scene when he thought, [quietly], everyone had left the set, you know. [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Well, I mean, that's my job to, [hesitantly], capture what happens on set whether it's rehearsed or not."
+        },
+        {
+            "role": "Character 1",
+            "content": "Um, that wasn't a scene though, that was, [trembling], a real person falling apart after twelve, [anxious], takes and you just kept your camera, [frustrated], rolling like it was some kind of performance, er."
+        },
+        {
+            "role": "Character 2",
+            "content": "Um, I know."
+        },
+        {
+            "role": "Character 1",
+            "content": "You could destroy his entire career with that footage if it, [whispering], gets out to the press or studio executives. [sigh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[guarded] Er, the director actually asked me to keep recording because, [slowly], she thinks the raw emotion might save this, [coldly], disaster of a production, you know."
+        },
+        {
+            "role": "Character 1",
+            "content": "So, um, you're telling me that our director is willing to, [angry], exploit Marcus's mental health crisis to salvage her, [passionately], vanity project that's already two million over, [shocked], budget, I mean?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[conflicted] Look, um, I've been doing this for fifteen years and sometimes, [regretful], the most honest moments happen when people forget, [very quietly], the camera exists, and well, those moments can make or, [trailing off], break a film."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warm] Marcus trusted us all to create a safe space where he could be, [empathetically], vulnerable in his performance without worrying that his, [sincerely], actual pain would become part of the, [concerned], narrative."
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] I mean, you're right about the trust thing but, [confused], what am I supposed to do when my boss directly orders me to keep filming, you know? [long pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[pleading] Um, there's a difference between capturing art and, [firmly], violating someone's privacy during their most, [upset], vulnerable moment, and I think you know that difference even if, er, the director doesn't."
+        },
+        {
+            "role": "Character 2",
+            "content": "[thoughtful] The footage is still on my camera and hasn't been, [nervous], uploaded to the production server yet so technically it's still, [whispering loudly], my decision what happens to it."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] You have the power to protect him from becoming another, [earnestly], casualty of this industry's hunger for authenticity at any cost. [gasp softly]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[determined] If I delete it, the director will probably, [worried], fire me and blacklist me from future productions. [groan]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Sometimes doing the right thing means risking everything and that's, [proudly], what separates artists from opportunists."
+        },
+        {
+            "role": "Character 2",
+            "content": "[resolved] You're right."
+        },
+        {
+            "role": "Character 1",
+            "content": "[grateful] Thank you. [cry]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] Marcus deserves better than becoming another, [sad], cautionary tale about what this industry does to, [very melancholic], sensitive souls who just wanted to tell stories and, [bitterly], make people feel something real. [sneeze]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, um, I'll stand by you if the director comes after you, er."
+        },
+        {
+            "role": "Character 2",
+            "content": "[friendly] Together we can make sure that what happened yesterday stays, [protective], between those who were actually there to witness it, [hopeful], not as footage but as a reminder that we're all, [compassionate], human beings first and filmmakers second."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "a09da90f_scenario.json",
+    "scenario": "A castmate confronts a steadicam operator who secretly filmed the lead actor's genuine mental breakdown, footage that could either save or destroy both the production and the actor's career.",
+    "type": "scenario_conversation",
+    "character_1_role": "castmate",
+    "character_2_role": "steadicam operator",
+    "selected_tones": [
+        "guarded",
+        "conflicting",
+        "sincere"
+    ],
+    "tone_options": [
+        "dry",
+        "transmitting",
+        "purposeful",
+        "guarded",
+        "lethargic",
+        "conflicting",
+        "floating",
+        "inviting",
+        "sincere",
+        "letting-go"
+    ]
+}

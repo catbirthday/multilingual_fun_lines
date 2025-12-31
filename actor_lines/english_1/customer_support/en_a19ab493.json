@@ -1,0 +1,121 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, yeah, so... I'm calling about my, uh... what's it called... the delivery thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I can—let me just—actually, I'm so sorry, let me pull up your account first. Um, could you give me your order number or, uh, maybe your email address so I can, you know, locate your information in the system?"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't... uh... just use my phone number."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, um, that works perfectly. So I'm—oh wait, I need to—actually let me just get that number from you and then I can, um, pull everything up right away."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, it's, er... 555... uh, 0147."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, um, I've got your account here and I can see—oh, hmm, I'm really sorry but it looks like your order, uh, let me find the number here... ORD-7782-MX9... it's showing as, um, delayed in our system."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course it is. That's... yeah. When?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm so—I'm really sorry about this, I know this isn't what you want to hear. Um, the current estimate is showing, let me see... it's, uh, pushing out to next Thursday, which is, you know, five more days from now."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically, um, what you're saying is... I just, uh... I wait?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, I mean—actually no, let me—I'm going to check something else here because, um, sometimes we have options. Your order ORD-7782-MX9, it's for the, uh, protective gear set, right? Let me just see if maybe there's another warehouse that could—"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, look, I just... er... I've been up for, like... what's the quickest option here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, of course, I'm so sorry, you must be—okay so, um, the absolute fastest would be if I cancel this order and, uh, reprocess it with code EXP-9847-RT for expedited shipping, which would get it to you by, hmm, Monday morning."
+        },
+        {
+            "role": "Customer",
+            "content": "That's what the last person said though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I—I totally understand why you'd be, um, skeptical about that. But I can see in your history that, uh, the previous rep didn't actually apply the priority code correctly, they used STD-4419 instead of the expedited one, which is why it got stuck."
+        },
+        {
+            "role": "Customer",
+            "content": "So like, um... you're saying it's... er... it'll actually work this time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean, I'm going to—let me be really transparent here, okay? Um, I'm putting in override code OVR-2266-AJ right now, which, uh, basically forces it through our priority queue, and I'm also adding a note to my supervisor's dashboard so it gets, you know, manually checked tomorrow morning."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay, so... what do I, uh... what's the word... what do I need to do?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nothing at all, I'm—actually I'm handling everything on my end right now. So your new confirmation is, um, let me make sure I have this right... CFM-8803-TK2, and you'll get an email with tracking in about, uh, an hour or so."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Um, so that's... that's it then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's it, yeah, I've got it all set. And, um, I know you've probably heard promises before but I've added my direct extension, it's 4421, to your account notes so if anything goes wrong you can, you know, bypass the queue and get straight to me. It's going to be okay this time, I promise."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a19ab493_script.json",
+    "scenario": "firefighter, exhausted after a 24-hour shift and just wanting a quick resolution",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "resigned_going_through_motions",
+                "skeptical_guarded"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "filled_pauses",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "awkwardly_apologetic",
+                "gently_reassuring"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "false_starts",
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

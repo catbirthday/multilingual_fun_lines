@@ -1,0 +1,121 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, sorry to bother you. I'm probably just being dumb about this but my friend Sarah said you guys were really helpful?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, no no no, you're not—you're not bothering anyone at all! That's, uh, that's what we're... what's the word... that's what we're here for, and um, Sarah? That's so nice to hear, I mean, uh, we really do try to—to help however we can, so um, what can I assist with today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Well, um, I've been trying to figure out this return for like... three days now. I'm sure I'm just missing something obvious."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so—so returns can be... they're actually—let me just... pull up your account here and we'll—we'll get this sorted. Can you give me your—your order number? Should be like... RET-something?"
+        },
+        {
+            "role": "Customer",
+            "content": "I think—no wait, actually—is it ORD-4429-TK22? Sorry, I have so many emails here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's—that's perfect, yes, um, ORD-4429-TK22, I've got it right... right here, and uh, okay so I can see the—the item and, um, hmm, let me just check what's... what's happening with the return status here."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, I probably, um, filled out the wrong form or something. My friend kept saying you'd make this easy but I always mess these things up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, you—you didn't mess up anything, I promise! The—the system shows you actually, uh, you started the return perfectly, it's just... hmm... stuck in our—our processing queue, which is, um, honestly? That's on us, not—not you at all."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Really? So I actually did it right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! Absolutely, you—you did everything, um, everything correctly. So what I'm gonna—gonna do is, uh, push this through manually with code, um, let me find it... RMA-88562-QV, and that'll—that'll speed things up."
+        },
+        {
+            "role": "Customer",
+            "content": "That's, er, really nice of you. I was just gonna, you know, give up and eat the cost honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no, don't—don't do that! Listen, um, between you and me? Our return system has been... it's been a bit, uh, what's the word... glitchy? Yeah, glitchy lately, so I'm—I'm gonna make sure this processes today."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, today? My friend said it might take a week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, normally yes, but I'm—I'm adding priority flag PRI-7749 to your—your case, which basically, uh, jumps you to the—the front, because honestly? Three days of—of trying is, um, that's more than enough."
+        },
+        {
+            "role": "Customer",
+            "content": "I just, um, figured I'd call and check the box, you know? Wasn't really expecting... this is actually helpful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's—that's what we're here for! And um, Sarah was right to—to recommend us. Your refund confirmation will be, uh, let me see... TXN-994421-BC, should hit your—your account within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Seriously? That's amazing. I'm probably gonna tell everyone about this now too."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's so, um, that's really kind! And—and just so you know, I'm—I'm putting a note, uh, in your account with reference REF-3366-AA that, um, basically says if you have any—any other issues, we'll—we'll expedite those too."
+        },
+        {
+            "role": "Customer",
+            "content": "You know what, um, I was wrong. I mean, I came in thinking this would be another dead end but... thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, you're—you're so welcome! And um, honestly? Thank—thank you for being so patient while I, uh, while I worked through everything. Is there—is there anything else I can help with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a61eb4b4_script.json",
+    "scenario": "hopeful because a friend said customer service was really good here",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "self_deprecating_fumbling",
+                "resigned_going_through_motions"
+            ],
+            "disfluency": {
+                "hesitation_amount": "minimal",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "word_searching",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "gently_reassuring",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "word_searching",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

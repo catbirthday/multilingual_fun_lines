@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[warm] When your brother called me about mediating this, [hesitantly], I wasn't sure if coming here would help, but seeing you now, [concerned], I realize how much you've been carrying alone since the funeral."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very meekly] Everyone just left after the service and I've been, [confused], trying to figure out what Mom and Dad would have wanted, while also, [shaky voice], dealing with all these legal papers and decisions I don't understand. [sigh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] The thing is, your siblings are, [frustrated], struggling with their own guilt about leaving you here, and they don't know how to, [pause], reconnect without feeling like they've failed you."
+        },
+        {
+            "role": "Character 2",
+            "content": "They haven't called or texted in three months, not even to, [bitter], check if I'm eating or sleeping or managing the house payments."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] Well, um, I've been talking with them separately and, like, they're scared you hate them for, [anxious], moving away when things got hard, but they also, I mean, [regretful], don't know how to bridge this gap that's grown between all of you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] I just, umm, needed someone to stay, you know, after Mom got sick and Dad started, [whispering], forgetting our names, but everyone had their own lives and careers, and I, well, [trailing off], I was the only one still in high school so—"
+        },
+        {
+            "role": "Character 1",
+            "content": "[softly] You became the caretaker by default, and, um, that wasn't fair to you, but, like, [very quietly], your siblings didn't know how to handle watching your parents, [slowly], decline either."
+        },
+        {
+            "role": "Character 2",
+            "content": "So they just, umm, ran away and left me to, well, [monotone], watch them die alone. "
+        },
+        {
+            "role": "Character 1",
+            "content": "[apologetic] Um, I know."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispered] Well, you don't, really."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] Umm, actually I do."
+        },
+        {
+            "role": "Character 2",
+            "content": "[surprised] Your parents died when you were twenty-three and you had, [angry], already graduated college and started your practice, not stuck in high school watching them, [very sadly], waste away."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sincerely] That's true, but before I became a therapist, [defensive], I spent two years caring for my grandmother with dementia while my own siblings, [jealous], built their perfect lives elsewhere, so I understand the abandonment you're feeling. [deep breath]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Then why are you, like, defending them when you know, umm, [exhausted], how much it hurts to be the only one who stayed?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[thoughtfully] Because holding onto that anger will eat you alive the way it almost, [passionately], destroyed me before I learned that people handle grief differently, and sometimes, [cheerful], running away is just another form of love that can't bear to watch."
+        },
+        {
+            "role": "Character 2",
+            "content": "[curious] How can abandonment be love when it left me, [upset], dealing with hospice nurses and funeral directors and lawyers while trying to, [quickly], finish my senior year and apply to colleges?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[confident] Well, I mean, your brother wire transferred thirty thousand dollars to cover the funeral costs, and, like, your sister, [protective], has been calling me every day since to make sure you're okay, even though she can't, umm, [relieved], bring herself to call you directly because she's terrified of your anger."
+        },
+        {
+            "role": "Character 2",
+            "content": "[stunned] She calls you every day to ask about me but won't just, [sarcastically], pick up the phone and ask me herself?"
+        },
+        {
+            "role": "Character 1",
+            "content": "She's convinced you hate her for missing Mom's last words and Dad's final, [trembling], lucid moment when he remembered all your names, and the guilt is, [whispering loudly], paralyzing her ability to reach out."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very sincerely] I recorded those moments on my phone because I knew, well, someday they'd want to hear them, and I've been waiting, like, [hopeful], three months for them to ask. [laugh sadly]"
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "b598f2bf_scenario.json",
+    "scenario": "A second cousin who became a successful therapist arrives to mediate between estranged siblings after their parents' sudden death left the youngest alone.",
+    "type": "scenario_conversation",
+    "character_1_role": "second cousin",
+    "character_2_role": "younger sibling",
+    "selected_tones": [
+        "guiding",
+        "deferential",
+        "improving"
+    ],
+    "tone_options": [
+        "unintentional",
+        "consistent",
+        "dispassionate",
+        "tilted",
+        "uncaring",
+        "deferential",
+        "melodious",
+        "guiding",
+        "dictating",
+        "improving"
+    ]
+}

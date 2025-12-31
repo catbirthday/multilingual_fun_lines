@@ -1,0 +1,120 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, uh... I just spent, er, twenty minutes in your... system? And I, um, I help people with this stuff."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I know exactly what you mean—our IVR is brutal. Let me just pull up your account, what's your name?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sarah Chen. Um, it's just... I literally, uh, coach people on phone interviews and, er... couldn't find billing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sarah, I think I've got you here, account SCH-4429-NK. And um, honestly? I get lost in our own system sometimes, so, uh, you're definitely not alone there."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? You work there and..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, um, like just last week I was trying to, uh, help my mom navigate it from the outside and I, er, I gave up and just handled it internally."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay but, um, how do I, uh... know you're not just... saying that to, er, make me feel better?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Fair question! So your last call was seventeen days ago, reference number REF-8827-QP, about updating payment method, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's... um, yeah. Wow. Okay so, uh, you can actually, er... see all that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything, yeah. So um, what couldn't you find today? I can, uh, probably shortcut this whole thing for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Billing. Just... wanted to check a charge."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so um, I'm seeing a charge from October 15th, transaction TXN-993847-BC for $47.99, and then, uh, another one yesterday for the same amount."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, wait, yesterday? That's, uh... that shouldn't... I mean, er, is that real?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Looking closer here—yeah, duplicate charge, system glitch. I'm reversing it now, confirmation RVS-2847-MM should hit your account in 2-3 days."
+        },
+        {
+            "role": "Customer",
+            "content": "You can just... do that? Right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean, um, technically I'm supposed to, uh, file a dispute form first but, er, it's obviously our mistake, so..."
+        },
+        {
+            "role": "Customer",
+            "content": "But won't you, um, get in... I mean, uh, if someone checks or, er..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? My supervisor probably would've done the same thing. Case number CSE-7736-PL for your records though, just in case."
+        },
+        {
+            "role": "Customer",
+            "content": "This is, um... not what I expected. Like, uh, at all. Usually it's just, er... \"sorry, nothing we can do.\""
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, I, um, I wish I could fix the phone system too but, uh, that one's above my pay grade unfortunately. Anything else though?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "aaacec49_script.json",
+    "scenario": "career counselor, ironic that she can't navigate this company's terrible phone system",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "surprised_delighted",
+                "suspicious_paranoid"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "classic_fillers",
+                    "breath_catches",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "humanizing_personal",
+                "regretfully_limited"
+            ],
+            "disfluency": {
+                "hesitation_amount": "moderate",
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, I'm—sorry, I'm calling because, uh, my account got suspended? And I didn't—I mean, um, there wasn't any warning or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, um, let me just, uh, pull that up here... hmm, what's your account number or, um, email address so I can, er, take a look at what happened?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's—wait, sorry, the email is j.martinez at—no, actually jmart2847@gmail.com"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. So I'm seeing account ID ACC-7739-MX21 here, and it looks like there was a security flag triggered on November 15th at 2:47 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Security flag? I don't—um, I mean, I'm sorry but like, what does that even, uh, what did I do wrong?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, um, let me see here... so basically, uh, the system detected, hmm, multiple login attempts from, er, different countries within like a really short timeframe?"
+        },
+        {
+            "role": "Customer",
+            "content": "Different countries? But I haven't—I mean I've just been home, I haven't traveled anywhere."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So looking at the logs here, we've got attempts from Brazil, Turkey, and Vietnam all within about thirty minutes on that date."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god, um, does that mean someone was, like, trying to hack me? I'm so sorry, I should've—uh, I probably should've had better security or, um..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, well actually, hmm, between you and me? This happens, uh, way more than you'd think. Let me just, er, check something else here..."
+        },
+        {
+            "role": "Customer",
+            "content": "So can you—sorry, can you just turn it back on then? Since it wasn't actually me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unfortunately I can't just reactivate it immediately, but what I can do is submit a priority review ticket PRV-88264-QN for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Priority review? How long—um, sorry, I don't mean to be difficult but like, how long is that going to, uh, take exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, normally it's 3-5 business days but, uh, hmm, let me see if I can, er, escalate this a bit for you..."
+        },
+        {
+            "role": "Customer",
+            "content": "Three to five days. Of course. That's... perfectly reasonable."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay. I'm marking this as urgent review code URG-5512-XT, which should bump you to the front of the queue, probably within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh—um, really? That's, uh, I mean thank you, I'm sorry for being, um, short with you earlier, I just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, um, totally get it. Er, losing account access is, uh, super frustrating. Also, hmm, while we're at it, um, might wanna change that password once you're back in?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, definitely—wait, sorry, will I get an email when it's reactivated or do I need to check—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll get a notification to that gmail address with confirmation number CNF-9947-BK22, and then just follow the steps to set up two-factor authentication."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a2ca5f71_script.json",
+    "scenario": "asking why their account was suspended without warning",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "seething_controlled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "professionally_firm",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[warm] Um, hey kid, I was just, [surprised], closing up but I recognize you from, well, [slowly], years back when you used to come here every day after school, [pause], practicing kickflips in the parking lot until dark."
+        },
+        {
+            "role": "Character 2",
+            "content": "You still remember me after, [shaky voice], all this time even though I just disappeared one day without, [quietly], saying anything to you or anyone else here who, [trailing off], actually cared about me."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] Course I remember—you were the most, [determined], dedicated thirteen-year-old I ever taught, spending hours perfecting every trick while other kids, [concerned], gave up after falling once or twice."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] Um, I need, uh, help."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] Whatever's going on, we can, [reassuring], figure it out together just like we used to tackle those impossible tricks you insisted on learning."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Well, umm, my foster family kicked me out three days ago because I wouldn't, er, [whispering], pretend to be their perfect little trophy kid anymore, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "That board you're clutching looks like it's been through, [frustrated], hell and back, just like you have been lately by the, [sad], look in your eyes right now."
+        },
+        {
+            "role": "Character 2",
+            "content": "Um, it's, uh, everything I own."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] Listen, there's a couch in the back office that's, [hesitantly], seen better days but it's warm and safe, and nobody would, [very quietly], know if you crashed there tonight while we sort this out properly."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] I, umm, didn't know where else to go because this shop was the only place that ever, [relieved], felt like home, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] You're eighteen now which means you can make your own, [passionate], choices without anyone forcing you back into situations that hurt you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hopeful] The thing is I've been sleeping under the bridge by the skate park but tonight felt, [trembling], different somehow, like something bad was coming so I just started walking and ended up here at your door."
+        },
+        {
+            "role": "Character 1",
+            "content": "Well, um, I've got some leftover pizza in the mini fridge and, er, [cheerful], tomorrow morning we'll go to the youth services place I know downtown where they actually, [sincerely], listen to kids instead of just shuffling them around, you know? [sigh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[grateful] Um, you don't have to do all this for me, I mean, [confident], I can figure things out on my own like I always have, er, eventually anyway."
+        },
+        {
+            "role": "Character 1",
+            "content": "[protective] Kid, you're not alone."
+        },
+        {
+            "role": "Character 2",
+            "content": "When I was learning that first ollie you told me, [nostalgic], failure was just practice in disguise and that stuck with me through every foster home, every, [angry], rejection letter from potential adoptive families."
+        },
+        {
+            "role": "Character 1",
+            "content": "[proudly] You survived all that and still came back here which shows, [impressed], more courage than most adults I know could ever muster in their entire lives."
+        },
+        {
+            "role": "Character 2",
+            "content": "[excited] Well, um, maybe I could work here part-time to, [eagerly], pay you back for helping me get back on my feet, like, literally and figuratively?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Actually, um, I've been looking for someone who understands what skating means to kids who, [thoughtful], need it for more than just tricks, someone who gets that sometimes a board is, er, [soft], all that stands between giving up and pushing through, you know?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[determined] Then I guess we're both exactly where we need to be right now, helping each other, [smiling speaking], the way this community always has when someone falls hard and needs a hand getting back up."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "9dfb2287_scenario.json",
+    "scenario": "A teenage runaway enters a skateboard shop at closing time, desperately seeking not just a board but guidance from the only adult who ever understood them—the shop tech who taught them to skate years ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "skateboard shop tech",
+    "character_2_role": "user",
+    "selected_tones": [
+        "rebellious",
+        "determined",
+        "comforting"
+    ],
+    "tone_options": [
+        "rebellious",
+        "aimless",
+        "boiling",
+        "giving",
+        "comforting",
+        "anticipating",
+        "accidental",
+        "flattering",
+        "determined",
+        "deadening"
+    ]
+}

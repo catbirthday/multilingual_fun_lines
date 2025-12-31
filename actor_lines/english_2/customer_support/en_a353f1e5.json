@@ -1,0 +1,121 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So I've been—wait, do you know who I am? I'm—I'm a platinum member."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, yes yes, I can see that here on your account, um, PLT-9847-MM, and I really appreciate you being a platinum member with us, so um, what can I help you with today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right so basically my card's not—it's it's blocked and I need it fixed NOW."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so um, let me just pull up your account details here and, hmm, I can see the card ending in 4492, and it looks like, uh, there's a security flag on it, so I think what we need to do is—"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't—look, can you just—just unblock it? This is urgent!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the urgency, I really do, and um, here's what's happening—so the security flag code is SEC-7739-QZ, and that means, uh, I actually need to transfer you to our fraud department because they're they're the only ones who can remove that kind of block."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you—no no no, I've been waiting twenty minutes already!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, I have—there's a dinner tonight and I'm basically the one paying."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, we're going to fix this, okay? So um, what I'm gonna do is, uh, I'm putting a priority flag PRI-2284-XK on your case right now, and I'm going to personally walk this over to fraud, which means, um, you won't go back in the queue, you'll get the next available specialist."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Um, that's—okay wait, you can do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, yes yes, and um, I know it's frustrating when you need a different department, but uh, I think once they see the priority code and your platinum status, they should be able to, hmm, resolve this in probably under five minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm—I'm sorry, I just, it's it's my boss's dinner and I'm already so—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, like, if I can't pay, he'll—anyway, sorry sorry for snapping."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please, no need to apologize at all, I mean, um, I totally get it, these things are so stressful, and uh, let me just confirm—so your case number is CSE-50923-RT and I'm literally typing notes right now that say \"executive dinner tonight, expedite immediately.\""
+        },
+        {
+            "role": "Customer",
+            "content": "You're—wait, that's really—thank you, I mean, um, yeah."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, of course, and um, here's what's going to happen—so fraud will probably ask you maybe two or three verification questions, uh, then they can remove that block instantly, and hmm, I'm also adding a note about compensation code CMP-8847-V for the inconvenience."
+        },
+        {
+            "role": "Customer",
+            "content": "So I just—I just hold? Or do I—what what do I do?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So so, you'll hear a brief hold music, maybe um, fifteen seconds max while I do the warm transfer, and then, uh, I'll introduce you to the fraud specialist with all your information already pulled up, reference number REF-33982-BQ, so you won't need to explain everything again, okay?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a353f1e5_script.json",
+    "scenario": "frustrated that their issue requires a different department",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "demanding_entitled",
+                "apologetic_embarrassed"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "false_starts",
+                    "filled_pauses",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "patient_teacher",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

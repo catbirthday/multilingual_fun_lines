@@ -1,0 +1,118 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hmm, so what's... let me see here... Got weird charge? Don't get it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically. Um. I see you're calling about. Your account ending in 7734. So like, you recently changed plans and. Um. There's a charge showing as PRO-847-M for thirty-two seventeen. Right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Exactly. That."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so. Here's what happened. And like. This is super common. When you switched from basic to premium on the fifteenth. So basically. The system pro-rates. Um. Both ways."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so that means... wait, both? Hmm, don't... don't get that part."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So like, um, you get credited for unused basic days, that's credit line CRD-4429-PK, and then, uh, charged for premium days, which is, so, transaction TXN-88561-QV2, and basically they, um, they just show weird."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me think... so I paid twice? Or... hmm, what if I just... no wait."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no. Not twice. So basically, um, like, you paid once but. The invoice INV-7829-RT. Shows it split. Because accounting. Um. Yeah I know. It's ridiculous how they display it."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, okay so... hmm... that's kinda... gettin' it now. Maybe."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look. Between you and me? The way they show pro-rated charges. It's. Um. Confusing as hell. Even I had to, like, double-check your statement STM-9902-AA twice."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah, see that's... hmm, least you're honest 'bout it, uh, thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So like. The actual math. Um. Pretty simple. You had ten days left on basic at two ninety-nine daily. So that's credit of, uh, twenty-nine ninety on line item LI-4857-K."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, wait... lemme see here... ten days, yeah, uh-huh."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Then. Premium costs four ninety-nine daily. So. Um. Ten days is forty-nine ninety. Transaction code TXN-91847-ZM3. Basically you're paying. Like. The twenty dollar difference."
+        },
+        {
+            "role": "Customer",
+            "content": "Ohhhh. Hmm, okay so that means, uh, net twenty. Got it. Think I get it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly. So like, um, your next bill cycle BLL-2847-PP on the first? That'll be. Just. Normal premium. No weird splits."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, good, 'cause this was... hmm, real confusin'. Let me see... yeah, makes sense now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so. I'm gonna, um, email you a breakdown. Reference number REF-77492-QQT. And like. If you want. I can add a note to, uh, clean up how they display this next time."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, yeah, that'd... hmm, that'd actually help lots, thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done. Added note NTE-8847-VX to your account. So basically. Um. Anything else about the charges? Or. We good?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "9d2abd9c_script.json",
+    "scenario": "confused about pro-rated charges after plan change",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "warming_up",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

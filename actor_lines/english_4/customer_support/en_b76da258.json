@@ -1,0 +1,120 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, I need to cancel my order. It's, uh, probably still processing but I need it gone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay. So, um, let me just, hmm, pull up your account here and—oh wait, I'm seeing, uh, order number ORD-7462-BX9 that went through about, er, two hours ago? And it's already—hmm, let me check—yeah it's in fulfillment."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, what? I've been a customer for six years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I see that! You've been with us since, um, 2018 actually, and I really want to, uh, protect your experience here because you're clearly, er, one of our valued—let me see what I can do in the system, okay so, hmm, it's showing status code FUL-8829 which means..."
+        },
+        {
+            "role": "Customer",
+            "content": "That's what—no wait, I just, um, I placed it two hours ago, how's it already—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I'm gonna do for you. Um, I'm going to, uh, make sure that even though it's technically in processing with, er, tracking ID TRK-9983-ML2, I'm gonna flag this right now and, hmm, put a rush on the cancellation request because I don't want you stuck with something you don't need."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I think, er, that's what the last person said. Last time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no no, um, I'm actually—wait, let me just—I'm putting in override code OVR-4421 right now as we speak, and, uh, this isn't just a request, I'm actually, er, escalating directly to fulfillment center FC-North-7 to physically stop the package."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't—probably won't work. Nothing ever does."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so like, how long? Because I kind of need to know, uh, today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, okay so normally—er, sorry, I mean typically it's 24 hours but, um, because I'm using the priority flag PSF-1122, you should get confirmation within, uh, let me calculate—two to three hours max, and I'm gonna personally monitor this under case number CSE-8837-ZQ9."
+        },
+        {
+            "role": "Customer",
+            "content": "Two to three—that's, um, I mean, er, I guess that's something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "And, um, here's what else I'm doing—I'm adding, uh, a note to your account profile ACP-7763 that says, er, any future cancellations get, hmm, expedited handling, so you never have to, um, deal with this kind of delay again, because honestly you shouldn't have to."
+        },
+        {
+            "role": "Customer",
+            "content": "Sort of, uh, hard to believe after all this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No I totally get that, and, um, I'm really sorry you've had, er, bad experiences before, but I'm literally—hmm, wait, let me just—yeah, I'm sending you confirmation email right now to, uh, the address on file with reference number REF-5592-KLM so you have proof of everything we discussed."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, maybe, I think—wait, actually will the refund be, uh, automatic?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Yes, um, so once the cancellation processes through system code SYS-3847, the refund, er, automatically initiates within—it's on the—sorry, within 3-5 business days to your original payment method ending in, hmm, let me see, 4782."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. I've been loyal for, um, for years, this shouldn't be so hard."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right, and, um, I'm actually making sure—er, wait, I'm documenting this whole thing under complaint ID CMP-9984-TW3 so that, uh, our team reviews why this happened because, hmm, six-year customers like you deserve so much better than this hassle, and I'm, er, really sorry we let you down today."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b76da258_script.json",
+    "scenario": "wanting to cancel an order that's already being processed",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "indignant_righteous",
+                "skeptical_guarded"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "hedge_words",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "awkwardly_apologetic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

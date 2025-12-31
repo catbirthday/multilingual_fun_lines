@@ -1,0 +1,46 @@
+=== Source: 98936938_script.json ===
+Content Type: customer_support
+Scenario: school counselor, trying to help a student but also needing to fix her own insurance bill
+
+=== Dialogue ===
+
+Customer: Um, hi. I'm—I think there's a, uh, problem with my bill?
+
+Customer Support: Yeah yeah yeah, let me—let me just pull that up here, um, can you give me your account number or, uh, actually wait, phone number works too, let me let me search by that first and see what's what's going on with your account.
+
+Customer: It's, um... five five five? No wait—sorry. Three one two, five five five...
+
+Customer Support: Three one two, five five five, okay okay, and then the last four? Um, let me—hmm, actually that's weird, I'm seeing like three accounts here with that prefix, so uh, what's what's the full number so I can—wait no, sorry, I mean the last four digits?
+
+Customer: Eight. Nine. Four. One.
+
+Customer Support: Eight nine four one, got it got it, okay so, um, I'm pulling up account ACT-78294-BN here and, uh, hmm that's that's interesting, so you're saying there's—let me see here—okay so your last bill was generated on the, uh, the fifteenth and it's showing... wait, that can't be right.
+
+Customer: Um, it says I owe, uh, probably like three times? More than usual? I think?
+
+Customer Support: Yeah no you're—you're absolutely right, that's that's ridiculous actually, um, so what happened here is—okay so billing code BLC-4419-X got applied twice, no wait, three times? And uh, someone manually adjusted it but then the the system ran it again? Hmm, let me let me dig into this because that's super weird.
+
+Customer: I just—I mean, I can't... um, are you sure you can fix it?
+
+Customer Support: Oh yeah yeah, definitely definitely, I mean—okay so here's here's what I'm seeing, um, transaction TXN-9184729 on October third, that's that's the duplicate, and then uh, there's another one, TXN-9184730 like literally one second later? So the system just—hmm, it basically hiccupped and and triple-charged you.
+
+Customer: Um, when will it be? Fixed, I mean? Sort of need to know.
+
+Customer Support: So I'm—I'm putting in the adjustment right now, reference number REF-66281-QP, and uh, normally normally it takes like forty-eight hours but, hmm, let me see if I can—okay okay, yeah so if I flag it as priority it should should process by tomorrow morning.
+
+Customer: Tomorrow? That's—um. Okay. I guess that's... probably fine?
+
+Customer Support: Actually wait wait wait, um, let me—hmm, are you by any chance enrolled in the, uh, the autopay program? Because if you are, I can I can actually stop that from processing tonight so you don't get, you know, triple-charged while we're waiting for adjustment ADJ-7751-K to go through.
+
+Customer: Oh. Yes. I think? Um, maybe I should—can you check?
+
+Customer Support: Yeah yeah, looking looking... okay so, uh, you definitely are, enrollment code ENR-3982-APY, and um, it's it's set to pull tonight at midnight, so let me just—okay I'm I'm disabling that right now so nothing weird happens while we fix this mess.
+
+Customer: Um, there's also—I work at a school? And um, one of my students...
+
+Customer Support: Oh oh oh, wait, you're—hmm, that's interesting, so uh, do you have the the educator discount applied? Because I'm looking at code DSC-EDU-15 here and, um, it's it's available but not active on your account? That's like, uh, another fifteen percent off that you should should be getting.
+
+Customer: I didn't—no. Um, nobody told me? About that?
+
+Customer Support: Yeah no, I mean, honestly? It's it's ridiculous that we don't just automatically apply it when when we see school email addresses or whatever, but um, let me just add that now with authorization code AUTH-9923-EDX, and uh, it'll actually backdate three months so you'll get a credit of like—hmm, calculating—probably around ninety bucks?
+

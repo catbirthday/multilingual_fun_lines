@@ -1,0 +1,119 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, so I'm... hmm, let me see here... I think I got charged twice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, um, I'm so sorry to hear that. Let me, uh, pull up your account right away. Can I get your, um, order number or email?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, it's, uh... sorry, I'm just... sarah dot chen at..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all, take your time. Um, I completely understand how, uh, frustrating double charges can be. They're... er... they're really not okay."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, it's sarah dot chen at zenflow. The charge. Twice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, um, pulling that up now. Okay so, uh, I can see here... transaction TXN-48291-BK shows, um, yes, there's definitely two charges for $89.99 each on October 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Yes. Um, I mean, I'm sorry, I don't want to be... difficult?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no, you're not being difficult at all! This is, um, this is totally on us. I'm, uh, really limited in what I can do instantly but, er, I can definitely start the refund process right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so that means... hmm, what if I need that money for... sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know. Um, believe me, I wish I could just, uh, snap my fingers and fix it. The system takes, er, three to five business days for refunds and I'm... I'm honestly frustrated with that policy too."
+        },
+        {
+            "role": "Customer",
+            "content": "Three to five? But I... okay. Fine. Sorry. I shouldn't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No please, don't apologize! Um, you have every right to be upset. Let me, uh, at least get you a confirmation number - it's REF-71823-QM. And, um, I'm putting a priority flag on it."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, priority means... faster? Or just... same thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So, um, technically it's still the same timeframe but, uh, it gets reviewed first each day. I wish I could promise more but, er, that's honestly the limit of what the system lets me do."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry. I teach breathing. Should be calmer. Just... tight month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please, you don't need to apologize at all! Um, tight months are, uh, they're real and this kind of error makes everything worse. I'm, er, genuinely sorry we put you in this position."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so, um, next time if this happens... what, what should I...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so, um, if anything like this happens again - which, uh, it absolutely shouldn't - reference this case number CSE-92847-LD and, er, ask for a supervisor immediately. They have, um, more override options than I do."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, three to five days then. Hmm. Okay. Thanks for... yeah."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm, uh, really sorry again about all this. Your refund REF-71823-QM is, um, definitely processing and you'll get an email confirmation within, er, within the hour. Is there, um, anything else I can help with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b0aa937d_script.json",
+    "scenario": "yoga instructor, trying to stay calm but increasingly frustrated about a double charge",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "relieved_but_wary"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "regretfully_limited",
+                "deeply_sympathetic"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

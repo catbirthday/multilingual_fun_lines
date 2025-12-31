@@ -1,0 +1,121 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so... I just—I just spent... hmm, twenty minutes? Going in circles. Through your—your menu."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh my goodness, I am so, so sorry about that, um, I actually hate our phone system too, like honestly between you and me, it's it's absolutely terrible and I've complained about it myself to management probably a dozen times this month."
+        },
+        {
+            "role": "Customer",
+            "content": "No no, it's... wait, you have too? I mean... hmm, okay so... it's not just me then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Definitely not just you, um, let me pull up your account here real quick, can I get your account number or phone number? And yeah, we get complaints about about the menu system constantly, it's... I mean, it's really frustrating for everyone..."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... um, it's it's... okay okay, 555-0142."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, got it, so that's pulling up account ACC-7829-MK14, and um, while that's loading I just want to say I totally understand your frustration, like sometimes I call other companies and their menus are just as bad and I'm thinking why can't I just talk to a human, you know?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Exactly. I just—I just need... hmm, what if... do you know who designs these?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Um, that's actually a really interesting question, so like, from what I understand it's it's this whole committee thing with our tech team and, hmm, let me see, your account is showing ticket number TKT-3847-QR92 from last month, was that related to this too?"
+        },
+        {
+            "role": "Customer",
+            "content": "No that's... wait, sorry, I mean the other—the billing thing. Different issue."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it, okay so what specifically were you trying to do today when you got stuck in the menu loop? I'm curious because maybe there's there's a shortcut I can share for next time..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, I was just... hmm, trying to update my—my payment. Method. That's all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that one, yeah that's like the worst path in our whole system, um, so for payment updates you actually need authorization code PAY-5502-AUTH and, uh, the menu makes you go through fraud prevention first which then loops you back to... it's ridiculous honestly..."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... um, wait. There's no—no direct option? At all?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unfortunately no, but but here's what I can do, um, I'm updating your payment method right now with reference number REF-9834-TK55, and uh, for future reference, if you just press zero like five times in a row, it usually breaks you out to a human."
+        },
+        {
+            "role": "Customer",
+            "content": "Five times? That's—that's actually... hmm, do you know... I pay premium rates here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I see that, you're on our Platinum tier with customer ID PLT-4429-VIP, which, um, honestly should give you a dedicated line but, uh, they haven't implemented that yet even though it's been promised for like two years now..."
+        },
+        {
+            "role": "Customer",
+            "content": "Two years. Hmm. Let me see here... who do I—I mean, sorry, who handles escalations?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So for formal complaints you'd want case number CSE-7761-ESC which I'm creating right now, and um, I'm actually going to add my own notes here about how our VIP customers like yourself shouldn't have to deal with this, because honestly it's it's kind of embarrassing for the company."
+        },
+        {
+            "role": "Customer",
+            "content": "You're—you're adding that? I mean... um, that's... look, I know this isn't your fault."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I really appreciate you saying that, and um, listen, I've got your payment updated with confirmation CON-8455-PMT, and I'm also putting a note in your file with reference RNT-3092 that any agent who sees it should should immediately assist without the menu runaround, if that makes sense..."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b00bc1d5_script.json",
+    "scenario": "frustrated about circular phone menu with no human option",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "empathetic_to_rep",
+                "demanding_entitled"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "repetition_stutter",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "troubleshooting_curious"
+            ],
+            "disfluency": {
+                "hesitation_amount": "light",
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So um, I'm locked out and, uh, how do I know this isn't like... some kind of..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, um, totally understand the concern. Let me, uh, pull up your account—gonna need your email or account number, and then we'll get you, um, verified with security question SEC-7734-QV."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, security questions? Like, what if someone's listening to this call or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, standard procedure. Your call reference is CRL-995847 and, um, everything's encrypted end-to-end so... let me just... okay need that email first."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so basically it's like... what's the word... compromised? My account could be?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not compromised, just, uh, locked after failed attempts. System shows ticket LCK-2847-MN at, hmm, 2:47 PM. Five failed tries triggers automatic... yeah. Need to verify you then reset."
+        },
+        {
+            "role": "Customer",
+            "content": "Five? I didn't even... so like, someone else was trying to..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Could be you forgot, happens all the—sorry, um, busy day here. Let me check the IP logs under, uh, reference IPN-384729... showing attempts from your usual location so probably just, you know..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, how do you know my usual... that's kind of... I mean..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Account history. Been noting login patterns since, um... checking here... November 2021 under profile PRF-1138-XK. Standard security feature. Helps us spot unusual... anyway, email please?"
+        },
+        {
+            "role": "Customer",
+            "content": "So like, you've been tracking me for, uh, three years? I've been a customer since like..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm-hmm."
+        },
+        {
+            "role": "Customer",
+            "content": "That's it? Just mmm-hmm? I mean, um, I pay monthly and this is how..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sorry sorry, uh, pulling up multiple screens here. Your account ACC-7739-BN shows, um, active since 2019, excellent payment history, which is why I'm, uh, expediting this for you... still need that email though."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine, it's um... wait, so like, after I give this, what exactly happens..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically, um, verify email, then security question from, uh, your setup preferences SQP-4421, then I send reset link to... hold on... backup email ending in, hmm, @gmail, and you're back in."
+        },
+        {
+            "role": "Customer",
+            "content": "Backup email? I don't even, um, remember setting up a... what if I can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Shows updated, uh, last month actually. Transaction log TRX-993847-C. If you can't access that one, we go through, um, extended verification... takes bit longer but..."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, so basically you're saying I'm stuck if, like, I don't have that old email?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not stuck, just, uh, different process. Extended verification protocol EVP-8827 takes maybe, hmm, ten more minutes? But honestly just... let's try the regular way first, usually works fine and I've got seventeen calls waiting so..."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "9810de02_script.json",
+    "scenario": "locked out of their account after too many failed password attempts",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "indignant_righteous"
+            ],
+            "disfluency": {
+                "hesitation_amount": "heavy",
+                "hesitation_types": [
+                    "filled_pauses",
+                    "trailing_off",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "slightly_frazzled",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_amount": "frequent",
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

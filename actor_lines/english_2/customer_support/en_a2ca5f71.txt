@@ -1,0 +1,46 @@
+=== Source: a2ca5f71_script.json ===
+Content Type: customer_support
+Scenario: asking why their account was suspended without warning
+
+=== Dialogue ===
+
+Customer: Um, hi, I'm—sorry, I'm calling because, uh, my account got suspended? And I didn't—I mean, um, there wasn't any warning or...
+
+Customer Support: Right, um, let me just, uh, pull that up here... hmm, what's your account number or, um, email address so I can, er, take a look at what happened?
+
+Customer: It's—wait, sorry, the email is j.martinez at—no, actually jmart2847@gmail.com
+
+Customer Support: Got it. So I'm seeing account ID ACC-7739-MX21 here, and it looks like there was a security flag triggered on November 15th at 2:47 PM.
+
+Customer: Security flag? I don't—um, I mean, I'm sorry but like, what does that even, uh, what did I do wrong?
+
+Customer Support: Well, um, let me see here... so basically, uh, the system detected, hmm, multiple login attempts from, er, different countries within like a really short timeframe?
+
+Customer: Different countries? But I haven't—I mean I've just been home, I haven't traveled anywhere.
+
+Customer Support: Right right. So looking at the logs here, we've got attempts from Brazil, Turkey, and Vietnam all within about thirty minutes on that date.
+
+Customer: Oh god, um, does that mean someone was, like, trying to hack me? I'm so sorry, I should've—uh, I probably should've had better security or, um...
+
+Customer Support: Um, well actually, hmm, between you and me? This happens, uh, way more than you'd think. Let me just, er, check something else here...
+
+Customer: So can you—sorry, can you just turn it back on then? Since it wasn't actually me?
+
+Customer Support: Unfortunately I can't just reactivate it immediately, but what I can do is submit a priority review ticket PRV-88264-QN for you.
+
+Customer: Priority review? How long—um, sorry, I don't mean to be difficult but like, how long is that going to, uh, take exactly?
+
+Customer Support: So, um, normally it's 3-5 business days but, uh, hmm, let me see if I can, er, escalate this a bit for you...
+
+Customer: Three to five days. Of course. That's... perfectly reasonable.
+
+Customer Support: Okay okay. I'm marking this as urgent review code URG-5512-XT, which should bump you to the front of the queue, probably within 24 hours.
+
+Customer: Oh—um, really? That's, uh, I mean thank you, I'm sorry for being, um, short with you earlier, I just...
+
+Customer Support: No no, um, totally get it. Er, losing account access is, uh, super frustrating. Also, hmm, while we're at it, um, might wanna change that password once you're back in?
+
+Customer: Yes, definitely—wait, sorry, will I get an email when it's reactivated or do I need to check—
+
+Customer Support: Absolutely. You'll get a notification to that gmail address with confirmation number CNF-9947-BK22, and then just follow the steps to set up two-factor authentication.
+
