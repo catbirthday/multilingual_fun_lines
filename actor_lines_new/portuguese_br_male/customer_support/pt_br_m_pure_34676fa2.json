@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Olha, eu tô precisando de ajuda com uma contestação de chargeback. Um cliente tá alegando que nunca recebeu os serviços que eu fiz semana passada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entendo sua preocupação. Deixa eu puxar aqui sua conta de lojista pra revisar os detalhes da contestação. Pode me passar seu número de identificação de lojista e a data da transação?"
+        },
+        {
+            "role": "Customer",
+            "content": "Meu ID de lojista é 4472801. A transação foi dia 12 de novembro, 185 reais."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Obrigado. Então... localizei aqui a contestação, número do caso CBK-894521-NV. A transação de 185 reais foi contestada dia 18 de novembro com o código de motivo 13.1, indicando mercadoria ou serviço não recebido. Pode me descrever que serviços foram prestados?"
+        },
+        {
+            "role": "Customer",
+            "content": "Mas como assim? Eu fiz um pacote completo de banho e tosa pra dois cachorros, incluindo lavagem, corte, unha cortada e limpeza dos dentes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entendi. Pra contestar essa disputa com sucesso, a gente vai precisar de documentação provando a entrega do serviço. Você tem recibo assinado, registros de agendamento, ou fotos de antes e depois do dia 12 de novembro?"
+        },
+        {
+            "role": "Customer",
+            "content": "Tenho sim, tenho o formulário de entrada assinado, o livro de agendamentos e fotos dos dois cachorros daquele dia."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excelente. Esses documentos vão fortalecer bastante seu caso. Você vai precisar fazer o upload deles no nosso portal de disputas em até 7 dias úteis usando o código de referência DSP-894521-NV-2024 pra cumprir o prazo de resposta."
+        },
+        {
+            "role": "Customer",
+            "content": "Como é que eu acesso o portal de disputas? É que... olha, esse é meu primeiro chargeback em três anos de negócio, sabe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, sem problema."
+        },
+        {
+            "role": "Customer",
+            "content": "Então, entra no site merchantservices.com/disputes e faz login com suas credenciais de lojista. O caso vai aparecer no seu painel."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Depois que você fizer login, clica no caso CBK-894521-NV e você vai ver um botão pra fazer upload da documentação de suporte. O sistema aceita arquivos PDF, JPG e PNG de até 10MB cada. Eu recomendo fazer upload primeiro do formulário assinado, depois do seu livro de agendamentos mostrando o horário de 14h daquela data."
+        },
+        {
+            "role": "Customer",
+            "content": "E aí, tipo... quais são minhas chances reais de ganhar essa disputa se eu mandar toda a documentação hoje?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com documentação assinada e evidência fotográfica, lojistas normalmente têm uma taxa de sucesso de 70 a 80% em disputas relacionadas a serviços. O banco avaliador vai tomar a decisão em 10 a 14 dias úteis depois de receber seu pacote de evidências pelo nosso sistema."
+        },
+        {
+            "role": "Customer",
+            "content": "Os 185 reais mais a taxa de disputa vão voltar pra minha conta se eu ganhar?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sim, quando a decisão for favorável pra você, né, o valor total da transação de 185 reais vai ser creditado de volta na sua conta terminada em 7739, e a taxa de disputa de 15 reais também vai ser revertida. Você vai receber confirmação por email no admin@groomingpaws.com em até 24 horas depois da resolução."
+        },
+        {
+            "role": "Customer",
+            "content": "Você pode colocar uma observação na minha conta sobre essa situação? Quero deixar tudo documentado direitinho."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza. Já adicionei notas detalhadas do caso sob o número de referência NT-20241122-0934 documentando nossa conversa, sua intenção de contestar, e as evidências que você vai fornecer. Tem mais alguma coisa que você precisa de ajuda sobre essa disputa ou sua conta de lojista?"
+        },
+        {
+            "role": "Customer",
+            "content": "Não, é isso mesmo. Nossa, muito obrigado por explicar tudo direitinho, viu?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "De nada, imagina. Lembra de fazer o upload da sua documentação usando o código DSP-894521-NV-2024 antes do dia 29 de novembro. Se você tiver qualquer dúvida durante o processo de upload, é só ligar de volta pra gente e mencionar esse número do caso. Tenha um ótimo resto de dia."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need help with a chargeback dispute. A client is claiming they never received services that I completed last week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me pull up your merchant account to review the dispute details. May I have your merchant ID number and the transaction date?"
+        },
+        {
+            "role": "Customer",
+            "content": "My merchant ID is 4472801. The transaction was on November 12th for $185."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located the dispute, case number CBK-894521-NV. The transaction for $185 was disputed on November 18th with the reason code 13.1, indicating merchandise or services not received. Can you describe what services were provided?"
+        },
+        {
+            "role": "Customer",
+            "content": "I provided a full grooming package for two dogs, including wash, cut, nail trimming, and teeth cleaning."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see. To successfully contest this dispute, we'll need documentation proving service delivery. Do you have a signed service receipt, appointment records, or before and after photos dated November 12th?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, I have the signed intake form, appointment log, and photos of both dogs from that day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. Those documents will strengthen your case significantly. You'll need to upload them to our dispute portal within 7 business days using reference code DSP-894521-NV-2024 to meet the response deadline."
+        },
+        {
+            "role": "Customer",
+            "content": "How do I access the dispute portal? This is my first chargeback in three years of business."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "Please go to merchantservices.com/disputes and log in with your merchant credentials. The case will appear in your dashboard."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Once you're logged in, click on case CBK-894521-NV and you'll see an upload button for supporting documentation. The system accepts PDF, JPG, and PNG files up to 10MB each. I recommend uploading the signed form first, followed by your appointment log showing the 2:00 PM booking for that date."
+        },
+        {
+            "role": "Customer",
+            "content": "What are my chances of winning this dispute if I provide all the documentation today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "With signed documentation and photographic evidence, merchants typically have a 70-80% success rate for service-related disputes. The reviewing bank will make their determination within 10-14 business days after receiving your evidence package through our system."
+        },
+        {
+            "role": "Customer",
+            "content": "Will the $185 plus the dispute fee be returned to my account if I win?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, if the dispute is resolved in your favor, the full transaction amount of $185 will be re-credited to your account ending in 7739, and the $15 dispute fee will also be reversed. You'll receive confirmation via email to admin@groomingpaws.com within 24 hours of the resolution."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you put a note on my account about this situation? I want everything documented properly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I've added detailed case notes under reference number NT-20241122-0934 documenting our conversation, your intent to contest, and the evidence you'll be providing. Is there anything else you need assistance with regarding this dispute or your merchant account?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, that covers everything. Thank you for walking me through this process clearly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. Remember to upload your documentation using code DSP-894521-NV-2024 before November 29th. If you have any questions during the upload process, please call us back and reference this case number. Have a great rest of your day."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "34676fa2_script.json",
+    "professionalism": "professional",
+    "scenario": "dog groomer, upset that a customer disputed a charge for services already rendered",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "politely_firm",
+                "matter_of_fact"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "attentively_engaged",
+                "patiently_methodical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

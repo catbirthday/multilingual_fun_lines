@@ -1,0 +1,93 @@
+=== Source: 1c05c685_script.json ===
+Language: Hindi
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: casual
+Scenario: coffee roaster, dealing with complaints from customers who never received their subscription orders
+
+=== Translated Dialogue ===
+
+Customer [pure]: सुनिए। मैं एक छोटी सी coffee roastery चलाती हूं। पंद्रह साल से। और अब मेरे पास करीब बीस customers हैं जो कह रहे हैं कि उनकी subscriptions आई ही नहीं।
+
+Customer Support [pure]: जी हाँ, मैं definitely आपकी help कर सकती हूं इसमें। मैं आपका business account निकालती हूं—आपके पास merchant ID है ना? वो MER से start होती है और फिर कुछ numbers होते हैं।
+
+Customer [pure]: वो है, मुझे लगता है... MER-4429। या शायद 4428? नहीं। 4429 है। ये लोगों की सुबह की routine है ना जो मैं बिगाड़ रही हूं।
+
+Customer Support [pure]: Perfect, तो मेरे सामने आपका account आ गया है, MER-4429-BUS, और मैं देख सकती हूं कि आप हमारी bulk subscription fulfillment service से जुड़ी हैं warehouse facility W7-CENTRAL के through। मैं check करती हूं कि उन shipments के साथ क्या हो रहा है—बस एक second लगेगा system load होने में।
+
+Customer [pure]: मेरे customers मुझ पर trust करते हैं। कुछ तो। सालों से। और मुझे emails आ रही हैं कि भई coffee कहाँ है।
+
+Customer Support [pure]: मैं completely समझ सकती हूं कि ये कितना stressful होगा—अच्छा तो, मुझे दिख रहा है—रुकिए, बस मैं—यहाँ आपके recent batch पे एक flag है, order batch ID BATCH-7792-Q4। लग रहा है distribution center में 23 October से कोई issue था जिससे कई subscription shipments affect हुए।
+
+Customer [pure]: 23 October। ये तो... पांच दिन पहले की बात है। किसी ने मुझे कुछ बताया ही नहीं।
+
+Customer Support [pure]: आप बिल्कुल सही कह रही हैं, आपको तुरंत notify किया जाना चाहिए था। मुझे यहाँ tracking numbers दिख रहे हैं—TRK-8829401 से TRK-8829420 तक—और सब के सब "pending pickup" show कर रहे हैं मतलब वो actually हमारी facility से निकले ही नहीं। ये हमारी गलती है, और मुझे really sorry है इसके लिए।
+
+Customer [pure]: तो वो बस। वहीं पड़े हैं? Coffee? अब तक तो stale हो गई होगी।
+
+Customer Support [pure]: Unfortunately, हाँ, वो W7-CENTRAL warehouse में ही पड़े हैं अभी तक। लेकिन मैं ये कर सकती हूं—मैं एक priority reshipment order create कर रही हूं, reference number PRI-6621-RUSH, और हम आज ही fresh product भेजेंगे overnight delivery के साथ सभी affected customers को बिना किसी extra charge के।
+
+Customer [pure]: ये help करता है। Kind of। लेकिन मुझे अभी भी explain करना पड़ेगा। सबको।
+
+Customer Support [pure]: मुझे लगता है हम उसमें भी help कर सकते हैं—मैं set up करती हूं—actually, हमारे पास एक template है जो हम ऐसे situations में use करते हैं। मैं आपको एक email template भेज रही हूं incident code INC-4456-W7 के साथ जो explain करता है कि delay पूरी तरह हमारी तरफ से था, आपकी नहीं, और उसमें एक discount code भी है जो आपके customers use कर सकते हैं।
+
+Customer [pure]: Discount code। ठीक है। ये शायद... actually ये काम कर सकता है।
+
+Customer Support [pure]: Code होगा DELAY-15-OCT उनके next order पे 15% off के लिए, और ये already system में load है promo batch PRO-8823 के under। Also, मैं आपके account में $450 का credit add कर रही हूं—वो credit memo CM-2024-7765 के रूप में show होगा—इससे जो भी impact हुआ हो उसे offset करने में help मिलेगी।
+
+Customer [pure]: Four fifty। ये तो... actually काफी cover करता है। Cover से ज्यादा ही है।
+
+Customer Support [pure]: अच्छा, मुझे खुशी है कि इससे help मिली। तो new shipments का tracking prefix TRK-8830 होगा और आपको वो numbers करीब एक घंटे में मिल जाएंगे जब हमारा warehouse उन्हें process कर लेगा। File में जो email है वो अभी भी वही है ना जो @artisancoffee पे खत्म होता है?
+
+Customer [pure]: हाँ। Same email। ये... ये better है। जितना मैं expect कर रही थी उससे।
+
+Customer Support [pure]: मैं बस—मुझे really sorry है कि ये पहली बार में ही हुआ। Small business चलाना वैसे ही काफी मुश्किल है, हमें और मुश्किल नहीं बनाना चाहिए, पता है ना? आपका dashboard कुछ ही minutes में इन सारे reference numbers के साथ update हो जाएगा, और वो case number SUP-9921-HIGH के under दिखेंगे।
+
+Customer [pure]: पंद्रह साल से मैं ये कर रही हूं। कभी इतनी बड़ी गड़बड़ नहीं हुई। लेकिन आप इसे ठीक कर रही हैं।
+
+Customer Support [pure]: हम इसीलिए यहाँ हैं, genuinely। अब आपके पास मेरा direct extension है—वो 4429 है, आपके merchant ID जैसा ही actually, funny है ना—और अगर कल उन overnight deliveries में कुछ भी गड़बड़ लगे, आप मुझे directly call करिएगा और हम तुरंत fix करेंगे।
+
+
+=== Original (English) ===
+
+Customer: Look. I run a small coffee roastery. Fifteen years. And now I've got probably twenty customers saying their subscriptions never arrived.
+
+Customer Support: Okay, I can definitely help you sort this out. Let me pull up your business account—do you have your merchant ID handy? It should start with MER and then have some numbers after it.
+
+Customer: It's, I think... MER-4429. Maybe 4428? No. 4429. These are people's morning routines I'm messing with.
+
+Customer Support: Perfect, so I've got your account here, MER-4429-BUS, and I can see you're set up with our bulk subscription fulfillment service through warehouse facility W7-CENTRAL. Let me check what's happening with those shipments—this might take just a second while the system loads.
+
+Customer: My customers trust me. Some of them. Years. And I'm getting emails saying where's their coffee.
+
+Customer Support: I completely understand how stressful that must be—okay so, I'm seeing—wait, let me just—there's a flag here on your recent batch, order batch ID BATCH-7792-Q4. It looks like there was an issue at the distribution center starting October 23rd that affected multiple subscription shipments.
+
+Customer: October 23rd. That's... five days ago. Nobody told me anything.
+
+Customer Support: You're absolutely right, you should have been notified immediately. I can see tracking numbers here—TRK-8829401 through TRK-8829420—and they're all showing as "pending pickup" which means they never actually left our facility. That's on us, and I'm really sorry about that.
+
+Customer: So they're just. Sitting there? The coffee? It's probably stale by now.
+
+Customer Support: Unfortunately, yes, they've been at warehouse W7-CENTRAL this whole time. But here's what I can do—I'm going to create a priority reshipment order, reference number PRI-6621-RUSH, and we'll get fresh product out today with overnight delivery to all affected customers at no charge to you.
+
+Customer: That helps. Sort of. But I still have to explain this. To everyone.
+
+Customer Support: I think we can help with that too—let me set up—actually, we have a template we use for these situations. I'm going to send you an email template with incident code INC-4456-W7 that explains the delay was entirely on our end, not yours, and includes a discount code your customers can use.
+
+Customer: A discount code. Okay. That might... that might actually work.
+
+Customer Support: The code will be DELAY-15-OCT for 15% off their next order, and it's already loaded into the system under promo batch PRO-8823. Also, I'm adding a credit of $450 to your account—that's showing as credit memo CM-2024-7765—to help offset any impact this has had.
+
+Customer: Four fifty. That's... actually kind of covers it. More than covers it.
+
+Customer Support: Good, I'm glad that helps. So the new shipments will have tracking prefix TRK-8830 and you'll get those numbers in about an hour once our warehouse processes them. Is the email on file still the one ending in @artisancoffee?
+
+Customer: Yeah. Same email. This is... this is better. Than I expected.
+
+Customer Support: I'm just—I'm really sorry this happened in the first place. Running a small business is hard enough without us making it harder, you know? Your dashboard should update with all these reference numbers within the next few minutes, and you'll see them under case number SUP-9921-HIGH.
+
+Customer: Fifteen years I've been doing this. Never had a mess up this bad. But you're making it right.
+
+Customer Support: That's what we're here for, genuinely. You've got my direct extension now—it's 4429, same as your merchant ID actually, kind of funny—and if anything seems off with those overnight deliveries tomorrow, you call me directly and we'll fix it immediately.
+

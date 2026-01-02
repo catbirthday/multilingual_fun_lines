@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extrêmement heureux] Ils viennent d'annoncer les chiffres—le meilleur rendement de qualité dans l'histoire de la coopérative ! Je veux dire, après toutes ces années où les gens disaient que j'étais trop prudente avec les parcs, trop... j'sais pas, moi, trop précieuse avec tout ça ? [rire] Et maintenant regarde ! Le timing est juste—c'est parfait, non ? Les méthodes durables sont enfin rentables, enfin, et je suis là avec la preuve que, euh, que la patience ça paie vraiment. [pause] Franchement, j'arrêtais pas de me dire qu'un truc allait foirer. Genre, chaque matin je vérifiais les parcs en m'attendant au désastre, tu vois ? Mais la qualité de l'eau, le calendrier de rotation, tout a juste... tout s'est emboîté. [chaleureux] Mon grand-père aurait adoré ça. Il disait toujours—enfin, il me disait que les huîtres t'apprennent la patience. [soupir] Bon, la pression est là maintenant, hein ? Tout le monde va s'attendre à ce niveau chaque saison. [nerveux] C'est ça le truc avec les records—d'un coup ça devient la nouvelle norme. Mais là, maintenant ? [joyeux] Là maintenant je vais juste savourer. 23 ans de boulot et enfin, enfin les gens voient que durable ça veut pas dire, euh, se contenter de moins. Ça veut dire jouer sur le long terme. [soulagé] Putain, ça fait du bien d'avoir raison pour une fois."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] They just announced the numbers—highest quality yield in the cooperative's history! I mean, after all those years of people saying I was being too careful with the beds, too... I don't know, precious about it? [laugh] And now look! The timing is just—it's perfect, right? Sustainable methods are actually profitable now, finally, and I'm sitting here with proof that, um, that being patient actually works. [pause] Honestly, I kept thinking something would go wrong. Like, every morning I'd check the beds expecting disaster, you know? But the water quality, the rotation schedule, everything just... clicked. [warm] My grandfather would've loved this. He always said—well, he used to tell me that oysters teach you patience. [sigh] I guess the pressure's on now though, hmm? Everyone's gonna expect this level every season. [nervous] That's the thing about setting records—suddenly it becomes the new baseline. But right now? [cheerful] Right now I'm just going to enjoy this. Twenty-three years of work and finally, finally people see that sustainable doesn't mean, uh, settling for less. It means playing the long game. [relieved] God, it feels good to be right about something for once."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "09d6b413_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your oyster harvesting methods producing the highest quality yield in the cooperative's history just as sustainable farming becomes profitable",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

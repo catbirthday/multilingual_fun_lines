@@ -1,0 +1,48 @@
+=== Source: 9b10a1b8_script.json ===
+Actor: english_3
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking why their credit wasn't applied to the correct account
+
+=== Dialogue ===
+
+Customer: Good afternoon. I'm calling about a credit that was supposed to be applied to my primary account but went elsewhere.
+
+Customer Support: Good afternoon, and thank you for calling. I'll help you resolve this right away. May I have your primary account number and the amount of the credit you're expecting?
+
+Customer: The account number is 8847-2341 and the credit should be three hundred forty-seven dollars.
+
+Customer Support: Thank you. I'm pulling up account 8847-2341 now, and I can see your current balance is $892.50. Let me check our credit application logs to trace where that $347 credit was posted.
+
+Customer: I received the credit confirmation email last Thursday but my balance hasn't changed at all.
+
+Customer Support: I understand your concern. I'm reviewing the transactions from Thursday, October 12th through today. I can see a pending credit notation but it appears to have been routed to a secondary account ending in 2349.
+
+Customer: That's my old business account. I specifically requested this credit go to my primary account when I called.
+
+Customer Support: I apologize for that error. I can see the note from your October 9th call at 2:47 PM clearly stating the credit should apply to the primary account. Let me initiate an immediate transfer to correct this.
+
+Customer: How long will the transfer take? I need to make a payment against this account tomorrow.
+
+Customer Support: The transfer will complete today. I'm processing it now with priority code PRI-7734-MK, which means the $347 will be available in your primary account within two hours, guaranteed by 5:00 PM Eastern.
+
+Customer: That works. Will I receive confirmation when the transfer is complete?
+
+Customer Support: Absolutely. You'll receive an email confirmation to your registered address within fifteen minutes showing the transfer initiation, and a second confirmation once it's fully posted to account 8847-2341.
+
+Customer: I appreciate that. Can we also close that old business account to prevent this from happening again?
+
+Customer Support: Certainly. I can close account 2349 right after the transfer completes. Before I do, let me verify it has a zero balance. I'm showing $0.00 currently, with the $347 credit as the only activity since March.
+
+Customer: That's correct. It should have been closed months ago but apparently it's still active.
+
+Customer Support: I've scheduled the closure for 5:30 PM today, immediately after the credit transfer finalizes. You'll receive closure confirmation via email with reference number CLS-8892-AAK for your records.
+
+Customer: Perfect. Is there anything else you need from me to complete these transactions?
+
+Customer Support: Everything is set on my end. Just to confirm, I've transferred $347 from account 2349 to your primary account 8847-2341, effective by 5:00 PM today, and scheduled the secondary account closure for 5:30 PM.
+
+Customer: That's exactly what I needed. Thank you for handling this so efficiently.
+
+Customer Support: You're very welcome. I've also added a note to your account about this issue to prevent any future misrouting. If you need anything else, please don't hesitate to call us at 1-800-445-8827. Have an excellent day.
+

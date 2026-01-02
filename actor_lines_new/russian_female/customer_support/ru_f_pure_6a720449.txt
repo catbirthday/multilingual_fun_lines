@@ -1,0 +1,93 @@
+=== Source: 6a720449_script.json ===
+Language: Russian
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: hotel housekeeper, nervous because English is her second language and she needs to explain a payroll issue
+
+=== Translated Dialogue ===
+
+Customer [pure]: Доброе утро. Слушайте, мне нужна помощь с зарплатой. В последней платёжке не хватает сверхурочных за период с 15 по 17 марта.
+
+Customer Support [pure]: Доброе утро, спасибо что обратились в службу поддержки HR. Я с удовольствием помогу решить вашу проблему с зарплатой. Можно ваш табельный номер, чтобы я могла посмотреть данные?
+
+Customer [pure]: Мой номер 4827. Я отработала 12 дополнительных часов на той неделе, а получила только обычную ставку.
+
+Customer Support [pure]: Спасибо. Так, открываю карточку сотрудника EMP-4827-HTL... вижу, вы у нас в службе уборки в Риверсайде. Сейчас проверю ваши табели за период, закончившийся 17 марта.
+
+Customer [pure]: Да, всё верно. У меня есть письмо с одобрением от руководителя, если нужно подтверждение.
+
+Customer Support [pure]: Так, вижу расхождение. В табеле у вас 52 часа за ту неделю, но система обработала только 40 часов по обычной ставке в пакете PAY-031723-B. Это точно надо исправлять.
+
+Customer [pure]: Слушайте, а когда это исправят? Мне эти деньги очень нужны, у меня семья, расходы...
+
+Customer Support [pure]: Я прекрасно понимаю, насколько это срочно. Сейчас оформляю внеплановую выплату... вот, под кодом коррекции COR-7734-OT, туда войдут 12 часов сверхурочных по полуторной ставке, итого 387 долларов.
+
+Customer [pure]: Сумма вроде правильная. А это не повлияет на мою обычную зарплату в пятницу?
+
+Customer Support [pure]: Нет-нет, совсем не повлияет. Ваша обычная зарплата пройдёт как обычно через пакет PAY-033123-A в пятницу. Корректировка пойдёт отдельно, деньги должны поступить в течение 48 часов.
+
+Customer [pure]: Хорошо. Можете прислать мне письменное подтверждение этой корректировки?
+
+Customer Support [pure]: Конечно. Я сейчас формирую письмо-подтверждение DOC-9923-PC, оно придёт вам на почту в течение 15 минут. Там будут все детали платежа и референсные номера.
+
+Customer [pure]: Спасибо. Знаете, такое уже было в январе. Можно как-то предотвратить такие ошибки в будущем?
+
+Customer Support [pure]: Вижу похожую проблему в вашем файле за январь, тикет TKT-012023-445. Так, давайте я поставлю флажок на вашем профиле для ручной проверки сверхурочных, чтобы избежать автоматических ошибок обработки.
+
+Customer [pure]: Вот это было бы очень кстати. А мне нужно ещё своему непосредственному руководителю сообщить об этой проблеме?
+
+Customer Support [pure]: Я уже отправила уведомление вашему руководителю Марии Родригес под кодом MGR-4827-01, так что она в курсе и корректировки, и превентивных мер, которые мы внедряем.
+
+Customer [pure]: Отлично. А мне ещё что-то нужно делать со своей стороны?
+
+Customer Support [pure]: Просто проверьте корректировочный платёж, когда он придёт. Вам ещё придёт короткий опрос с номером SRV-7734-QA о сегодняшнем обслуживании. Ваши отзывы помогают нам улучшать процессы поддержки по зарплате.
+
+Customer [pure]: Обязательно заполню опрос. Спасибо, что так быстро и профессионально всё решили.
+
+Customer Support [pure]: Пожалуйста, всегда рада помочь. Я всё задокументировала под номером дела CSE-033024-4827 для ваших записей. Если будут вопросы по платежу или понадобится ещё помощь, просто назовите этот номер, когда будете обращаться.
+
+
+=== Original (English) ===
+
+Customer: Good morning. I need assistance with my payroll. My last paycheck is missing overtime hours from March fifteenth through seventeenth.
+
+Customer Support: Good morning, and thank you for contacting HR support. I'll be happy to help resolve your payroll issue today. May I have your employee ID number so I can access your records?
+
+Customer: My employee ID is 4827. I worked twelve extra hours that week but received only regular pay.
+
+Customer Support: Thank you. I'm pulling up employee record EMP-4827-HTL now, and I can see you're with our housekeeping department at the Riverside property. Let me review your timesheet data for the pay period ending March seventeenth.
+
+Customer: Yes, that is correct. I have my supervisor's approval email if you need verification.
+
+Customer Support: I can see the discrepancy now. Your timecard shows fifty-two hours for that week, but the system only processed forty hours at regular rate under payroll batch PAY-031723-B. This definitely needs correction.
+
+Customer: When can this be fixed? I depend on this income for my family's expenses.
+
+Customer Support: I completely understand the urgency. I'm initiating an off-cycle payment request right now under correction code COR-7734-OT, which will include the twelve hours of overtime at time-and-a-half rate, totaling three hundred eighty-seven dollars.
+
+Customer: That amount sounds correct. Will this affect my regular paycheck this Friday?
+
+Customer Support: Not at all. Your regular paycheck will process as normal through batch PAY-033123-A this Friday. The correction payment will be separate and should reach your account within forty-eight hours.
+
+Customer: Good. Can you send me written confirmation of this correction?
+
+Customer Support: Absolutely. I'm generating confirmation letter DOC-9923-PC right now, which will be emailed to your address on file within the next fifteen minutes. It will include all payment details and reference numbers.
+
+Customer: Thank you. This has happened before in January. Is there a way to prevent future errors?
+
+Customer Support: I see a similar issue in your file from January under ticket TKT-012023-445. Let me flag your employee profile for manual overtime verification going forward to prevent any automatic processing errors.
+
+Customer: That would be very helpful. Should I also notify my direct supervisor about this issue?
+
+Customer Support: I've already sent notification to your supervisor Maria Rodriguez under alert code MGR-4827-01, so she's aware of both the correction and the preventive measures we're implementing.
+
+Customer: Perfect. Is there anything else I need to do on my end?
+
+Customer Support: Just verify the correction payment when it arrives. You'll also receive a brief survey with reference number SRV-7734-QA about today's service. Your feedback helps us improve our payroll support processes.
+
+Customer: I will complete the survey. Thank you for resolving this quickly and professionally.
+
+Customer Support: You're very welcome. I've documented everything under case number CSE-033024-4827 for your records. If you have any questions about the payment or need further assistance, please reference this number when you contact us.
+

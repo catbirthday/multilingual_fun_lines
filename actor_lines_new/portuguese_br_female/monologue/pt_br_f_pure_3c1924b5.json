@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "A Sarah acabou de me ligar e eu não—eu literalmente não consigo parar de tremer. [very excited] Ela usou o protocolo de segurança que a gente revisou mês passado! Aquele que a gente falou sobre, hum, identificar os padrões de escalada? [emotional] Essa mulher tá viva porque a Sarah soube o que procurar. [pause] Meu Deus, quando ela disse que o marido tinha começado a isolar ela da família, mudando senhas, aquele negócio de, ah... de rastrear a localização do celular dela—a Sarah lembrou de cada sinal de alerta que a gente discutiu. [very sincerely] E o jeito que ela lidou com isso foi tão perfeito, sabe? Ela não pressionou, não julgou, só... só discretamente deu pra ela o número da linha de apoio escondido naquele truque da notinha que eu mostrei pra todo mundo. [shaky voice] A mulher ligou de um banheiro de posto de gasolina três horas depois. Três horas. [pause] [relieved] Ela tá segura agora, ela tá realmente segura. Fico pensando, tipo, e se a Sarah não tivesse prestado atenção durante o treinamento? E se eu tivesse corrido naquela parte porque a gente tava atrasada? [emotional] Mas a gente não correu. A gente cobriu tudo. [pause] [warm] É por isso que a gente faz esse trabalho, né? Não pelos certificados ou pelos, é, os negócios obrigatórios de compliance—pra esse exato momento quando alguém precisa que a gente saiba o que tá fazendo. [very quietly] Os filhos de alguém ainda têm a mãe deles hoje à noite por causa do que a gente ensinou pra Sarah. [sniffle] Desculpa, eu só... eu precisava contar pra alguém que entende."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "Sarah just called me and I can't—I literally can't stop shaking. [very excited] She used the safety planning protocol we went over last month! The one where we talked about, um, identifying those escalation patterns? [emotional] That woman is alive because Sarah knew what to look for. [pause] God, when she said the husband had started isolating her from family, changing passwords, that thing about, uh... about tracking her phone location—Sarah remembered every single red flag we discussed. [very sincerely] And the way she handled it was so perfect, you know? She didn't push, didn't judge, just... just quietly gave her the hotline number hidden in that receipt trick I showed everyone. [shaky voice] The woman called from a gas station bathroom three hours later. Three hours. [pause] [relieved] She's safe now, she's actually safe. I keep thinking about, hmm, what if Sarah hadn't been paying attention during training? What if I'd rushed through that section because we were running late? [emotional] But we didn't rush it. We covered everything. [pause] [warm] This is why we do this work, right? Not for the certificates or the, er, the mandatory compliance stuff—for this exact moment when someone needs us to know what we're doing. [very quietly] Someone's kids still have their mom tonight because of what we taught Sarah. [sniffle] Sorry, I just... I needed to tell someone who gets it."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "3c1924b5_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The domestic violence advocate training you provide just helped a colleague save someone's life",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": false
+    }
+}

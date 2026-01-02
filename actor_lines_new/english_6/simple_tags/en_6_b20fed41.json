@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "The service ticket said Baron Whitfield needed emergency network support for a critical meeting, so I drove three hours to get here and— [gasps] Dad? Is that really you standing there in that ridiculous velvet jacket?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Charlotte, I didn't realize they would send you from the company. [clearing throat] I specifically requested a senior technician, not—well, this is rather unexpected, but the investors are calling in fifteen minutes."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Right, because heaven forbid the baron's important meeting gets delayed. [coldly] Show me where your router is, and I'll pretend I don't recognize the man who walked out on Mom and me for a castle and a fancy title."
+        },
+        {
+            "role": "Character 2",
+            "content": "[stern] The equipment is in the east wing study. [quietly] And Charlotte, it wasn't as simple as walking out—there were legal obligations with the inheritance, requirements I had to fulfill to claim the estate."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sarcastically] Legal obligations. Sure."
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] Your mother understood eventually, even if she never forgave me. [sighs] The title came with debts, centuries of family legacy I couldn't just abandon—though I realize how that sounds given what I did abandon."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quickly] Your modem's been power cycling, probably overheating in this dusty cabinet. When's the last time anyone cleaned the ventilation on these devices?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[confused] I have staff for maintenance, though admittedly they're better with tapestries than technology."
+        },
+        {
+            "role": "Character 1",
+            "content": "[professionally] Well, your staff clearly doesn't understand that electronics need airflow, not just the occasional dusting. [exhales] I'm also seeing packet loss on the line—you're running business-critical meetings on residential internet that can barely handle a video stream."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxiously] Can you fix it in time? [pause] These investors control the future of the estate, and ironically, I need their capital to modernize everything, including the infrastructure you're currently criticizing."
+        },
+        {
+            "role": "Character 1",
+            "content": "[working while speaking] Twenty years of nothing, and now you need my help. [quietly] Mom worked three jobs to keep us afloat while you were here playing lord of the manor."
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] I sent money when I could, though I know your mother never told you. [very quietly] The first five years, the estate was hemorrhaging funds—I was practically broke despite the title."
+        },
+        {
+            "role": "Character 1",
+            "content": "[speeding up] I'm creating a mobile hotspot from my work phone and bridging it to your network temporarily. [sighs] It'll hold for your meeting, but you need a complete infrastructure overhaul if you're serious about running a business from here."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sincerely] Perhaps you could oversee that project? [hesitantly] I mean, professionally of course, through your company, but it would give us time to—well, to perhaps talk about everything."
+        },
+        {
+            "role": "Character 1",
+            "content": "Your connection should be stable now, check with your investors."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Thank you, Charlotte. [warmly] You've become quite accomplished—your mother must be proud. I know I have no right to be, but seeing you here, confident and capable, I am too."
+        },
+        {
+            "role": "Character 1",
+            "content": "I'll email you a quote for the infrastructure upgrade from the office."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hopefully] Will you be the one coming back to do the work? [quietly] I understand if you'd rather send someone else, but I'd like the chance to explain things properly, if you're willing to listen."
+        },
+        {
+            "role": "Character 1",
+            "content": "[slowly] I'm the senior engineer for this region, so yes, it would be me. [pause] And maybe we can talk then—Mom always said I should hear your side of the story eventually."
+        },
+        {
+            "role": "Character 2",
+            "content": "[grateful] I'll have the east wing guest suite prepared for your next visit—it has the best view of the grounds. [softly] And Charlotte, thank you for coming today, even if it wasn't by choice."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "b20fed41_scenario.json",
+    "actor": 6,
+    "scenario": "A network engineer is urgently called to fix a baron's internet during a crucial investor meeting, only to discover the baron is her estranged father who abandoned the family twenty years ago to claim his inheritance.",
+    "type": "scenario_conversation",
+    "character_1_role": "network engineer",
+    "character_2_role": "baron",
+    "selected_tones": [
+        "simmering",
+        "constructive",
+        "varied"
+    ]
+}

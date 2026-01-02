@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[bitter] Sin visión y sin habilidad técnica. [pause] Eso fue lo que dijeron. Después de tres semanas de—o sea, tres semanas de renders y revisiones y... [sigh] Aparentemente nada de eso importa porque el cliente piensa que soy, qué, ¿incompetente? [angry] Llevo ocho años haciendo esto. ¡Ocho años! ¿Y un ejecutivo de marketing que no sabe la diferencia entre After Effects y Photoshop me viene a decir que no tengo habilidad técnica? [frustrated] El descaro de esta gente, en serio.\n\n[hurt] ¿Sabes qué es lo que más me duele? Me quedé hasta tarde todas las noches la semana pasada. [quietly] Me perdí el recital de mi hija para terminar su estúpido comercial de autos. [pause] ¿Y para qué? ¿Para que simplemente... lo tiraran todo a la basura?\n\n[sarcastic] Ah, y lo mejor de todo—van a traer a un chamaco de 22 años de su \"proveedor preferido\". [mocking] Porque aparentemente mi trabajo no es lo suficientemente \"moderno\". [bitter] Lo que sea que eso signifique.\n\n[exhausted] No sé, tal vez ya estoy... tal vez me estoy haciendo muy viejo para esta industria. [hesitantly] ¿O tal vez tienen razón? No, eso es—eso es ridículo. [angry] Mi reel habla por sí mismo. ¡He ganado premios! [trailing off] Pero entonces por qué me duele tanto esto...\n\n[resigned] Bueno, supongo que voy a... este... empezar a actualizar mi portafolio. [sigh] Otra vez."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[bitter] Lacks vision and technical skill. [pause] That's what they said. After three weeks of—I mean, three weeks of renders and revisions and... [sigh] Apparently none of it matters because the client thinks I'm, what, incompetent? [angry] I've been doing this for eight years. Eight years! And some marketing exec who doesn't know the difference between After Effects and Photoshop is telling me I lack technical skill? [frustrated] The nerve of these people, honestly.\n\n[hurt] You know what really gets me? I stayed late every night last week. [quietly] Missed my daughter's recital to finish their stupid car commercial. [pause] And for what? So they could just... throw it all away?\n\n[sarcastic] Oh, and the best part—they're bringing in some twenty-two-year-old hotshot from their \"preferred vendor.\" [mocking] Because apparently my work isn't \"modern\" enough. [bitter] Whatever that means.\n\n[exhausted] I don't know, maybe I'm just... maybe I'm getting too old for this industry. [hesitantly] Or maybe they're right? No, that's—that's ridiculous. [angry] My reel speaks for itself. I've won awards! [trailing off] But then why does this hurt so much...\n\n[resigned] Guess I'll just, um... start updating my portfolio. [sigh] Again."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "60324247_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your compositing artist work being completely redone because the client said it \"lacks vision and technical skill\"",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

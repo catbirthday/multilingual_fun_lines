@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "Она поступила. [очень счастливо] Она реально поступила! [смех] Я просто—я вообще не могу это переварить сейчас. [сквозь слёзы] Когда она мне позвонила, я телефон выронил, прикинь. Три года назад её завуч сказала, э... сказала, что ей стоит рассмотреть «альтернативные пути». [сердито] Альтернативные пути! Можешь себе представить? [пауза] А её родной отец мне говорил, что я зря время трачу. [с горечью] Что я ей ложные надежды даю. Но я знал—в смысле, я всегда знал, что у неё всё получится. [тепло] Как она после наших занятий оставалась, обо всём расспрашивала. Как она, эм, эссе свои по двенадцать раз переписывала, пока идеально не выходило. [эмоционально] Боже, были ночи, когда она мне в 2 часа ночи писала, совсем разваливаясь. [дрожащим голосом] «Я не могу, я недостаточно умная, все правы насчёт меня». [всхлип] А теперь посмотри. [гордо] Полная стипендия в универе. Полная стипендия! [смеётся громко] Мне всё хочется позвонить всем, кто в неё не верил, и просто—не знаю, позлорадствовать? [усмешка] Это ужасно, да? [пауза] Хотя нет. Знаешь что? [уверенно] Пусть знают. Пусть все знают, что бывает, когда в человека по-настоящему веришь. [очень искренне] Когда отказываешься от него отступаться. [сквозь слёзы] Она мир изменит, я просто знаю."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "She got in. [extremely happy] She actually got in! [laugh] I just—I can't even process this right now. [crying while speaking] When she called me, I literally dropped my phone. Three years ago, her guidance counselor said, um... said she should consider \"alternative paths.\" [angry] Alternative paths! Can you believe that? [pause] And her own dad told me I was wasting my time. [bitter] Said I was giving her false hope. But I knew—I mean, I always knew she had it in her. [warm] The way she'd stay after our sessions, asking questions about everything. How she'd, erm, rewrite her essays twelve times until they were perfect. [emotional] God, there were nights she'd text me at 2 AM, completely falling apart. [shaky voice] \"I can't do this, I'm not smart enough, everyone's right about me.\" [sniffle] And now look. [proudly] Full scholarship to State. Full scholarship! [laugh loudly] I keep wanting to call everyone who doubted her and just—I don't know, gloat? [chuckle] Is that terrible? [pause] Actually, no. You know what? [confidently] They should know. They should all know what happens when you actually believe in someone. [very sincerely] When you refuse to give up on them. [crying while speaking] She's going to change the world, I just know it."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "676a686f_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The teenager you mentored just got into college despite everyone saying they'd never make it",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": false
+    }
+}

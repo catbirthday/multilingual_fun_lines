@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] ¡Lo hicieron! ¡De verdad lo—ay, Dios mío, lo hicieron! [laugh loudly] Veintitrés años. Twenty-three years of watching those numbers drop and drop and... [crying while speaking] Perdón, es que—no puedo creer que sea real. [sniffle]\n\nCuando empecé en 2001, había, ¿qué, unos 400 nomás? [very quietly] Pensé que los íbamos a perder. [pause] Todos decían que era demasiado tarde, ¿sabes? La destrucción del hábitat, el calentamiento de las aguas, todo el... [trailing off]\n\n[laugh] ¡Pero seguimos adelante! Los programas de reproducción, las zonas protegidas—Dios, ¿te acuerdas cuando tuvimos que pelear por cada maldito kilómetro cuadrado de santuario? [passionately] ¡Y ahora hay más de 8000 allá afuera! [gasp loudly] ¡Ocho mil!\n\n[warm] Mi hija ni siquiera se acuerda de cuando estaban en peligro crítico. [chuckle] She just thinks they've always been there, swimming around like—como si fuera lo más normal del mundo. [very sincerely] Y así debe ser, ¿no? That's the whole point.\n\n[sigh] No dejo de pensar en la Dra. Martínez. [sad] No llegó a ver esto. She worked forty years on this species and... [pause]\n\n[relieved] Pero lo logramos. Están a salvo. [cry] They're actually safe."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] They did it. They actually—oh my God, they did it! [laugh loudly] Twenty-three years. Twenty-three years of watching those numbers drop and drop and... [crying while speaking] I'm sorry, I just—I can't believe it's real. [sniffle] \n\nWhen I started in 2001, there were, what, maybe four hundred left? [very quietly] I thought we were going to lose them. [pause] Everyone said it was too late, you know? The habitat destruction, the warming waters, all the... [trailing off] \n\n[laugh] But we kept going! The breeding programs, the protected zones—God, remember when we had to fight for every single square mile of sanctuary? [passionately] And now there's over eight thousand of them out there! [gasp loudly] Eight thousand! \n\n[warm] My daughter doesn't even remember when they were critically endangered. [chuckle] She just thinks they've always been there, swimming around like—like it's normal. [very sincerely] And that's how it should be, right? That's the whole point.\n\n[sigh] I keep thinking about Dr. Martinez. [sad] She didn't get to see this. She worked forty years on this species and... [pause] \n\n[relieved] But we did it. They're safe. [cry] They're actually safe."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "58f5f2c9_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The marine species you've been studying for decades just got removed from the endangered list",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

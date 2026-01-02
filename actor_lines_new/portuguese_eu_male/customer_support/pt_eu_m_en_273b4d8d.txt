@@ -1,0 +1,93 @@
+=== Source: 273b4d8d_script.json ===
+Language: European Portuguese
+Gender: male
+Mode: en
+Content Type: customer_support
+Professionalism: professional
+Scenario: surgical tech, used to operating room precision and frustrated by vague billing answers
+
+=== Translated Dialogue ===
+
+Customer [en]: I'm calling about discrepancies in my account billing. I need exact clarification on three unauthorized charges from October.
+
+Customer Support [en]: Thank you for calling. I'd be happy to investigate those charges for you. May I have your account number to pull up your complete billing history?
+
+Customer [en]: It's 447829-B. These charges don't match any services I've received or authorized.
+
+Customer Support [en]: I have your account here, 447829-B, and I can see the October statement showing charges on 10/12, 10/18, and 10/24 totaling $387.45. Let me review each transaction in detail.
+
+Customer [en]: What specific services do those charges represent? I keep meticulous records and have no documentation for them.
+
+Customer Support [en]: Certainly. The first charge of $127.50 on 10/12 is coded as PRE-AUTH-2024-10-12-XK9 for premium service activation, which appears to have been automatically triggered by your account settings.
+
+Customer [en]: I never authorized any premium service activation. What triggered this automatic charge?
+
+Customer Support [en]: I understand your concern. According to the system logs at timestamp 10/12/2024 14:32:07 EST, a service upgrade was initiated through portal session ID SES-447829-1012-B. Let me trace the origin of this request.
+
+Customer [en]: That makes no sense. I haven't logged into your portal since September. Check your access logs.
+
+Customer Support [en]: You're absolutely right. I can confirm your last portal login was 09/28/2024 at 09:15:42 EST from IP address 192.168.1.42. This appears to be a system error that incorrectly attributed the upgrade to your account.
+
+Customer [en]: What about the other two charges? I need the same level of detail for those.
+
+Customer Support [en]: Of course. The second charge of $95.00 on 10/18 with reference number CHG-1018-447829-ADM is listed as an administrative fee, and the third charge of $164.95 on 10/24 coded as SVC-MAINT-102424-B47 shows as maintenance services.
+
+Customer [en]: Administrative fee for what exactly? And I have no maintenance contract with your company.
+
+Customer Support [en]: I completely understand your frustration. These charges shouldn't be on your account. The administrative fee code ADM-1018-ERR indicates it was applied in error, and you're correct that account 447829-B has no active maintenance agreements in our system.
+
+Customer [en]: So all three charges are errors? What's your process for correcting this?
+
+Customer Support [en]: Correct. All three charges totaling $387.45 are billing errors. I'm initiating immediate reversals under case number CS-2024-1130-447829 and escalating this to our billing corrections team for priority processing.
+
+Customer [en]: When will these reversals appear on my account? I need specific timeframes.
+
+Customer Support [en]: The reversals will be processed in two stages. Credits for $127.50 and $95.00 will post by end of business today, appearing as REV-1130-A and REV-1130-B. The remaining $164.95 credit will post within 48 hours as REV-1202-C.
+
+Customer [en]: Good. I also want documentation of these errors and corrections sent to my email.
+
+Customer Support [en]: Absolutely. I'm sending comprehensive documentation to your email on file within the next 30 minutes, including error report DOC-447829-1130-BILL, itemized reversal confirmations, and a letter of acknowledgment signed by our billing supervisor. Is there anything else I can address today?
+
+
+=== Original (English) ===
+
+Customer: I'm calling about discrepancies in my account billing. I need exact clarification on three unauthorized charges from October.
+
+Customer Support: Thank you for calling. I'd be happy to investigate those charges for you. May I have your account number to pull up your complete billing history?
+
+Customer: It's 447829-B. These charges don't match any services I've received or authorized.
+
+Customer Support: I have your account here, 447829-B, and I can see the October statement showing charges on 10/12, 10/18, and 10/24 totaling $387.45. Let me review each transaction in detail.
+
+Customer: What specific services do those charges represent? I keep meticulous records and have no documentation for them.
+
+Customer Support: Certainly. The first charge of $127.50 on 10/12 is coded as PRE-AUTH-2024-10-12-XK9 for premium service activation, which appears to have been automatically triggered by your account settings.
+
+Customer: I never authorized any premium service activation. What triggered this automatic charge?
+
+Customer Support: I understand your concern. According to the system logs at timestamp 10/12/2024 14:32:07 EST, a service upgrade was initiated through portal session ID SES-447829-1012-B. Let me trace the origin of this request.
+
+Customer: That makes no sense. I haven't logged into your portal since September. Check your access logs.
+
+Customer Support: You're absolutely right. I can confirm your last portal login was 09/28/2024 at 09:15:42 EST from IP address 192.168.1.42. This appears to be a system error that incorrectly attributed the upgrade to your account.
+
+Customer: What about the other two charges? I need the same level of detail for those.
+
+Customer Support: Of course. The second charge of $95.00 on 10/18 with reference number CHG-1018-447829-ADM is listed as an administrative fee, and the third charge of $164.95 on 10/24 coded as SVC-MAINT-102424-B47 shows as maintenance services.
+
+Customer: Administrative fee for what exactly? And I have no maintenance contract with your company.
+
+Customer Support: I completely understand your frustration. These charges shouldn't be on your account. The administrative fee code ADM-1018-ERR indicates it was applied in error, and you're correct that account 447829-B has no active maintenance agreements in our system.
+
+Customer: So all three charges are errors? What's your process for correcting this?
+
+Customer Support: Correct. All three charges totaling $387.45 are billing errors. I'm initiating immediate reversals under case number CS-2024-1130-447829 and escalating this to our billing corrections team for priority processing.
+
+Customer: When will these reversals appear on my account? I need specific timeframes.
+
+Customer Support: The reversals will be processed in two stages. Credits for $127.50 and $95.00 will post by end of business today, appearing as REV-1130-A and REV-1130-B. The remaining $164.95 credit will post within 48 hours as REV-1202-C.
+
+Customer: Good. I also want documentation of these errors and corrections sent to my email.
+
+Customer Support: Absolutely. I'm sending comprehensive documentation to your email on file within the next 30 minutes, including error report DOC-447829-1130-BILL, itemized reversal confirmations, and a letter of acknowledgment signed by our billing supervisor. Is there anything else I can address today?
+

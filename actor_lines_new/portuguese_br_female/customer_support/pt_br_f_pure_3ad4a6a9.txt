@@ -1,0 +1,93 @@
+=== Source: 3ad4a6a9_script.json ===
+Language: Brazilian Portuguese
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking for help recovering a hacked account
+
+=== Translated Dialogue ===
+
+Customer [pure]: Bom dia. Preciso de ajuda urgente com a conta da minha empresa. Parece que foi invadida durante a noite.
+
+Customer Support [pure]: Bom dia. Olha, eu entendo completamente a urgência dessa situação, tá? Tô aqui pra te ajudar a proteger sua conta agora mesmo. Deixa eu puxar aqui nossos protocolos de segurança enquanto você me passa o número da conta ou o email cadastrado.
+
+Customer [pure]: O email é operations@sterling-industries.com. Descobri umas alterações não autorizadas nas nossas configurações hoje de manhã.
+
+Customer Support [pure]: Perfeito. Localizei sua conta aqui no sistema, código de cliente CUS-847291-SI, e tô vendo uma atividade estranha registrada às 3:47 da manhã, horário de Brasília. Vou ativar nosso protocolo de bloqueio de segurança agora mesmo pra impedir qualquer outro acesso não autorizado.
+
+Customer [pure]: Ótimo. Mas, assim... o que exatamente foi acessado? A gente precisa avaliar o estrago e avisar nossos parceiros se for necessário, né?
+
+Customer Support [pure]: Tô analisando o log de segurança agora. A invasão afetou suas preferências de cobrança e tentou adicionar três usuários não autorizados com os IDs USR-9847X, USR-9848X e USR-9849X. Mas olha, nosso sistema de detecção de fraude bloqueou as mudanças no método de pagamento antes de processar.
+
+Customer [pure]: Ah, isso já é um alívio, né? E agora, quer dizer... quais são os próximos passos pra proteger e recuperar a conta completamente?
+
+Customer Support [pure]: Claro. Primeiro, tô gerando um token de segurança temporário TSK-20241115-8847 que vai expirar em 30 minutos. Você vai usar ele pra redefinir suas credenciais principais através do nosso portal seguro em secure.company.com/recovery.
+
+Customer [pure]: Tá, tô pronta pra continuar. Devo acessar esse portal agora enquanto a gente tá no telefone?
+
+Customer Support [pure]: Sim, por favor. Quando você entrar lá, digita o token que eu te passei e vai aparecer na sua tela o código de verificação VRF-6829-STER. Me confirma esse código pra eu ter certeza que você tá no ambiente seguro correto.
+
+Customer [pure]: Ah, tá... tô vendo agora. O código de verificação é VRF-6829-STER. A página tá pedindo as credenciais novas.
+
+Customer Support [pure]: Perfeito. Você tá no lugar certo. Cria sua senha nova seguindo nossos requisitos de segurança reforçada, e assim que terminar, eu vou habilitar a autenticação de dois fatores usando o protocolo 2FA-ENTERPRISE-7749 pra máxima proteção daqui pra frente.
+
+Customer [pure]: Pronto, senha atualizada. Por favor, pode fazer a configuração do two-factor? É que, assim, a gente não pode se dar ao luxo de ter outra invasão, sabe?
+
+Customer Support [pure]: Com certeza. Ativei a autenticação de dois fatores nível enterprise na sua conta. Você vai receber uma confirmação no email cadastrado com as instruções de configuração e seu código de pareamento do app APP-STERLING-4471-2FA.
+
+Customer [pure]: Recebi e configurei. E aqueles usuários não autorizados que foram adicionados? Foram removidos completamente?
+
+Customer Support [pure]: Removi permanentemente os três usuários não autorizados e todas as permissões associadas. Além disso, gerei um relatório completo de auditoria com o número de referência AUD-20241115-0931 que detalha cada ação realizada durante a invasão.
+
+Customer [pure]: Por favor, manda esse relatório de auditoria pro nosso time de compliance também. Eles vão precisar pra nossa revisão interna.
+
+Customer Support [pure]: Com certeza. Vou enviar o relatório de auditoria pro compliance@sterling-industries.com nos próximos dez minutos. Também atribuí seu caso pro nosso time de especialistas em segurança com o ticket prioritário PST-8847-CRITICAL pra monitoramento contínuo nas próximas 72 horas.
+
+Customer [pure]: Poxa, obrigada mesmo. Bem completo isso, hein? A gente vai receber confirmação quando o período de monitoramento terminar?
+
+Customer Support [pure]: Sim, você vai receber um relatório completo de avaliação de segurança no dia 18 de novembro com a referência de encerramento CLO-8847-2024. Nosso time de especialistas também vai entrar em contato direto se detectar qualquer atividade suspeita durante o período de monitoramento.
+
+
+=== Original (English) ===
+
+Customer: Good morning. I need immediate assistance with my business account. It appears to have been compromised overnight.
+
+Customer Support: Good morning. I understand the urgency of this situation and I'm here to help you secure your account immediately. Let me pull up our security protocols while you provide me your account number or registered email address.
+
+Customer: The email is operations@sterling-industries.com. I discovered unauthorized changes to our settings this morning.
+
+Customer Support: Thank you. I've located your account under customer ID CUS-847291-SI and I can see unusual activity logged at 3:47 AM Eastern time. I'm initiating our security lockdown protocol right now to prevent any further unauthorized access.
+
+Customer: Good. What exactly was accessed? We need to assess the damage and notify our stakeholders if necessary.
+
+Customer Support: I'm reviewing the security log now. The intrusion affected your billing preferences and attempted to add three unauthorized users with IDs USR-9847X, USR-9848X, and USR-9849X. However, our fraud detection system blocked the payment method changes before they could process.
+
+Customer: That's somewhat reassuring. What steps do we take now to fully secure and recover the account?
+
+Customer Support: Certainly. First, I'm generating a temporary security token TSK-20241115-8847 that will expire in 30 minutes. You'll use this to reset your master credentials through our secure portal at secure.company.com/recovery.
+
+Customer: I'm ready to proceed. Should I access that portal now while we're on the phone?
+
+Customer Support: Yes, please do. Once you're there, enter the token I provided and you'll see verification code VRF-6829-STER appear on your screen. Read that back to me to confirm you're in the correct secure environment.
+
+Customer: I see it now. The verification code is VRF-6829-STER. The page is asking for new credentials.
+
+Customer Support: Perfect. You're in the right place. Create your new password following our enhanced security requirements, and once that's complete, I'll enable two-factor authentication using protocol 2FA-ENTERPRISE-7749 for maximum protection going forward.
+
+Customer: Password has been updated. Please proceed with the two-factor setup. We can't afford another breach.
+
+Customer Support: Of course. I've activated enterprise-grade two-factor authentication on your account. You'll receive a confirmation at your registered email with setup instructions and your authentication app pairing code APP-STERLING-4471-2FA.
+
+Customer: Received and configured. What about the unauthorized users that were added? Have they been completely removed?
+
+Customer Support: I've permanently removed all three unauthorized users and their associated permissions. Additionally, I've generated a complete audit report under reference number AUD-20241115-0931 that details every action taken during the breach.
+
+Customer: Please send that audit report to our compliance team as well. They'll need it for our internal review.
+
+Customer Support: Absolutely. I'll send the audit report to compliance@sterling-industries.com within the next ten minutes. I've also assigned your case to our security specialist team under priority ticket PST-8847-CRITICAL for ongoing monitoring over the next 72 hours.
+
+Customer: Thank you. That's thorough. Will we receive confirmation when the monitoring period is complete?
+
+Customer Support: Yes, you'll receive a comprehensive security assessment report on November 18th with case closure reference CLO-8847-2024. Our specialist team will also contact you directly if they detect any suspicious activity during the monitoring period.
+

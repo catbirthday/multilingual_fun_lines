@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Listen. I run pools. Professional service. *exhale* Three hundred dollars. Chemicals I didn't. Even. Order."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, okay okay, three hundred for chemicals you didn't—yeah that's that's not right at all. Let me pull up your account here, um, what's the invoice number showing on your statement?"
+        },
+        {
+            "role": "Customer",
+            "content": "INV. Er. 7284. Do you know how many clients I send here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got that, INV-7284-QM, and—oh wow I see I see the issue. So basically our system auto-enrolled you in the bulk chemical subscription program, code CHEM-PRO-500, which honestly? Between you and me? It's been causing problems all week."
+        },
+        {
+            "role": "Customer",
+            "content": "Auto-enrolled? *sharp inhale* I've been buying here. Eight years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, eight years, I see that here—loyalty tier platinum actually, customer ID PLC-9982-VIP. Look, uh, this auto-enrollment thing is—it's ridiculous, I know. My supervisor got probably fifteen complaints just today about it."
+        },
+        {
+            "role": "Customer",
+            "content": "Fifteen? So this is. What. System-wide incompetence?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pretty much, yeah. The the update they pushed last Tuesday, version 3.7.2, it just started adding people to subscriptions they never asked for. I'm gonna reverse this whole charge right now, transaction TXN-8847-RV pending."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Because I was about to. Um. Call corporate. My lawyer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally understand, you shouldn't have to deal with this. Refund's processing—should hit your account in, er, 24 to 48 hours, confirmation code REF-6623-XK. And actually? Let me add a credit too."
+        },
+        {
+            "role": "Customer",
+            "content": "Credit. For what amount exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I'm I'm putting fifty dollars, credit code COMP-50-APL, for the inconvenience. Because honestly? If I had three hundred bucks randomly disappear from my account? I'd be furious too. Your new balance shows negative fifty, meaning we owe you."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* Fine. But if this. Happens again. We're done."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, and—hmm, let me actually flag your account real quick. There, exemption code NO-AUTO-777, so the system literally can't auto-enroll you in anything ever again."
+        },
+        {
+            "role": "Customer",
+            "content": "Should've been that way. From the start. Obviously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're right, you're absolutely right. Look, I've been here two years and, uh, the number of times I've had to fix stuff like this? It's embarrassing. Your account notes now show \"manual approval only\" with priority flag PRI-GOLD-22."
+        },
+        {
+            "role": "Customer",
+            "content": "Manual approval. Er. That's permanent?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep yep, permanent. It's linked to your customer profile, so even if they do another update—version 4.0 supposedly coming next month—you're protected. Reference number for all this is CASE-4491-POOL."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Because twenty-two clients. Premium accounts. They hear about this..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I get it, totally get it. Hey actually, since you manage that many accounts, lemme give you my direct extension—4782. If anything weird happens with any of those client orders, just just skip the regular queue and call me directly."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Listen. I run pools. Professional service. *exhale* Three hundred dollars. Chemicals I didn't. Even. Order."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, okay okay, three hundred for chemicals you didn't—yeah that's that's not right at all. Let me pull up your account here, um, what's the invoice number showing on your statement?"
+        },
+        {
+            "role": "Customer",
+            "content": "INV. Er. 7284. Do you know how many clients I send here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got that, INV-7284-QM, and—oh wow I see I see the issue. So basically our system auto-enrolled you in the bulk chemical subscription program, code CHEM-PRO-500, which honestly? Between you and me? It's been causing problems all week."
+        },
+        {
+            "role": "Customer",
+            "content": "Auto-enrolled? *sharp inhale* I've been buying here. Eight years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, eight years, I see that here—loyalty tier platinum actually, customer ID PLC-9982-VIP. Look, uh, this auto-enrollment thing is—it's ridiculous, I know. My supervisor got probably fifteen complaints just today about it."
+        },
+        {
+            "role": "Customer",
+            "content": "Fifteen? So this is. What. System-wide incompetence?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pretty much, yeah. The the update they pushed last Tuesday, version 3.7.2, it just started adding people to subscriptions they never asked for. I'm gonna reverse this whole charge right now, transaction TXN-8847-RV pending."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Because I was about to. Um. Call corporate. My lawyer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally understand, you shouldn't have to deal with this. Refund's processing—should hit your account in, er, 24 to 48 hours, confirmation code REF-6623-XK. And actually? Let me add a credit too."
+        },
+        {
+            "role": "Customer",
+            "content": "Credit. For what amount exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I'm I'm putting fifty dollars, credit code COMP-50-APL, for the inconvenience. Because honestly? If I had three hundred bucks randomly disappear from my account? I'd be furious too. Your new balance shows negative fifty, meaning we owe you."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* Fine. But if this. Happens again. We're done."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, and—hmm, let me actually flag your account real quick. There, exemption code NO-AUTO-777, so the system literally can't auto-enroll you in anything ever again."
+        },
+        {
+            "role": "Customer",
+            "content": "Should've been that way. From the start. Obviously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're right, you're absolutely right. Look, I've been here two years and, uh, the number of times I've had to fix stuff like this? It's embarrassing. Your account notes now show \"manual approval only\" with priority flag PRI-GOLD-22."
+        },
+        {
+            "role": "Customer",
+            "content": "Manual approval. Er. That's permanent?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep yep, permanent. It's linked to your customer profile, so even if they do another update—version 4.0 supposedly coming next month—you're protected. Reference number for all this is CASE-4491-POOL."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Because twenty-two clients. Premium accounts. They hear about this..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I get it, totally get it. Hey actually, since you manage that many accounts, lemme give you my direct extension—4782. If anything weird happens with any of those client orders, just just skip the regular queue and call me directly."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "368c4e87_script.json",
+    "professionalism": "casual",
+    "scenario": "pool cleaner, concerned about being overcharged for chemicals he never ordered",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "demanding_entitled",
+                "indignant_righteous"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "classic_fillers",
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "deeply_sympathetic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "hedge_words",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

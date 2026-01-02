@@ -1,0 +1,225 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically we're a distillery. Tipo, destilados, percebes? E o sistema continua a pôr-nos como... fabricante de cerveja?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Oh that's... interesting. Deixa-me ver a vossa conta. *inhales* Qual é o vosso número de contribuinte?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's um 84-7761902. Então todos os meses, a mesma coisa, taxas de cerveja."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay I see it here. Conta 84-7761902. *sighs* Hmm, isto é estranho, o vosso código NAICS mostra 312120 que é cervejarias. Mas vocês estão registados como... espera. Há aqui uma nota de 15 de março, alguém corrigiu e depois voltou ao que estava?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Like exactly! Então nós arranjamos isto, e pronto, cerveja outra vez. É completamente insano."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Right so. Aqui está o que eu estou a ver, a vossa candidatura original de 8 de janeiro tem-vos classificados corretamente como 312140, que é destilados. Mas depois... hmm, cada renovação automática volta ao default. Isso definitivamente não devia acontecer."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically I've called. Eh... quatro vezes? Cinco? Sinceramente já perdi a conta."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*inhales sharply* Oh wow. Pois, estou a ver, 3 de fevereiro, 28 de fevereiro, 15 de março, 30 de março, e 11 de abril. Cinco chamadas, cada uma marcada como resolvida. *sighs* Mas obviamente, não resolvida. Deixa-me investigar melhor aqui."
+        },
+        {
+            "role": "Customer",
+            "content": "Can we just. Arranjar isto de vez? Por favor? As penalizações estão a matar-nos."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Então o que eu vou fazer, *exhales* vou escalar isto para a nossa equipa de classificação fiscal. Número de caso TC-9847-XK. Eles tratam da codificação backend, deve prevenir a reversão. Demora umas 48 horas."
+        },
+        {
+            "role": "Customer",
+            "content": "Forty-eight hours. Ótimo, então entretanto ainda somos cerveja?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well actually. Não, estou a aplicar um override temporário agora mesmo. Código TMP-3847. Isso vai manter-vos na classificação correta, até à correção permanente no dia 22 de abril. Devem ver o ajustamento... dentro de... talvez... duas horas?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Ah, ok então isso realmente ajuda, tipo imediatamente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Yeah exactly. A vossa próxima declaração vai mostrar a taxa adequada de 21% em vez daquela taxa de cerveja de 16.8%. E honestamente, olhando para a vossa conta, devemos-vos uns $3,400 em créditos de pagamento excessivo, daquelas penalizações incorretas."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait seriously? Então vamos receber dinheiro de volta?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*inhales* Oh definitely. A nota de crédito CM-7799-B está a processar agora, deve chegar à vossa conta até 20 de abril. E já agora, estou a pôr uma flag de prioridade, código PRI-847, em toda a vossa conta. Qualquer problema futuro, vocês saltam a fila."
+        },
+        {
+            "role": "Customer",
+            "content": "That's. Nossa, então basicamente este pesadelo está mesmo a acabar?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*sighs with relief* It really is. O vosso caso TC-9847-XK vai direto para a equipa técnica sénior, eles vão codificar permanentemente a vossa classificação. Sem mais reversões. Já vi este bug duas vezes antes, nas duas vezes, a correção permanente funcionou."
+        },
+        {
+            "role": "Customer",
+            "content": "Honestly I'm just. Aliviada, tipo tão aliviada. Obrigada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Hey you've been incredibly patient. Cinco chamadas é... duro. O vosso número de confirmação é CFM-8827-XK41. Vai-vos chegar um email em breve, tudo o que discutimos, mais a minha extensão direta, 4782. Se acontecer alguma coisa estranha, liguem-me diretamente."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically we're a distillery. Like. Spirits. And the system keeps putting us as. Beer manufacturer?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Oh that's... interesting. Let me pull up your account. *inhales* What's your business tax ID?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's um 84-7761902. So every month. Same thing. Beer tax rates."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay I see it here. Account 84-7761902. *sighs* Hmm. This is weird. Your NAICS code shows 312120 which is breweries. But you're filed as. Wait. There's a note from March 15th. Someone corrected it. Then it reverted?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Like exactly! So we fix it. Then boom. Beer again. It's actually insane."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Right so. Here's what I'm seeing. Your original application from January 8th has you classified correctly as 312140. That's distilled spirits. But then. Hmm. Every automatic renewal. It defaults back. That's definitely not supposed to happen."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically I've called. Er. Four times? Five? Lost count honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*inhales sharply* Oh wow. Yeah I see. February 3rd. February 28th. March 15th. March 30th. And April 11th. Five calls. Each time marked resolved. *sighs* But obviously. Not resolved. Let me dig deeper here."
+        },
+        {
+            "role": "Customer",
+            "content": "Can we just. Fix it permanently? Please? The penalties are killing us."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. So what I'm gonna do. *exhales* I'm escalating this to our tax classification team. Case number TC-9847-XK. They handle the backend coding. Should prevent the reversion. Takes about 48 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Forty-eight hours. Great. So meanwhile we're still beer?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well actually. No. I'm applying a temporary override right now. Code TMP-3847. That'll hold you at the correct classification. Until the permanent fix on April 22nd. You should see the adjustment. Within. Maybe. Two hours?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Huh. Okay so that actually helps. Like immediately?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Yeah exactly. Your next filing will show the proper 21% rate instead of that 16.8% beer rate. And honestly. Looking at your account. We owe you about $3,400 in overpayment credits. From those incorrect penalties."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait seriously? So we're getting money back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*inhales* Oh definitely. Credit memo CM-7799-B is processing now. Should hit your account by April 20th. And just so you know. I'm putting a priority flag. Code PRI-847. On your whole account. Any future issues. You skip the queue."
+        },
+        {
+            "role": "Customer",
+            "content": "That's. Wow. So basically this nightmare's actually ending?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*sighs with relief* It really is. Your case TC-9847-XK goes straight to senior tech. They'll hardcode your classification. No more reversions. I've seen this bug twice before. Both times. Permanent fix worked."
+        },
+        {
+            "role": "Customer",
+            "content": "Honestly I'm just. Relieved. Like so relieved. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Hey you've been incredibly patient. Five calls is. Rough. Your confirmation number is CFM-8827-XK41. Email coming to you shortly. Everything we discussed. Plus my direct extension. 4782. If anything weird happens. Call me directly."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2e40e2b9_script.json",
+    "professionalism": "casual",
+    "scenario": "distillery owner, frustrated that tax classification errors keep appearing on his account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "gently_reassuring"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

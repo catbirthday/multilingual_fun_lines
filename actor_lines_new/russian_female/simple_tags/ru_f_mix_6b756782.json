@@ -1,0 +1,215 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[frantically] Слушай, мне нужна твоя помощь немедленно, вся система резервных генераторов заблокирована за security doors, которые не реагируют ни на какие коды. [pause] Половина городской сети вырубилась, и мы даже не можем добраться до наших emergency power systems."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confused] Подожди, что?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[urgently] Магнитные замки переключились в режим блокировки когда вырубилось питание, что вообще не должно было произойти. [frustrated] У нас больницы на критических резервах, а я не могу добраться до генераторов которые всё исправят, because of these damn security doors."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] Если магнитные замки заблокировались при отключении, значит кто-то их неправильно подключил, наверное при установке. [exhales] Я видела такое с government contractors, они не понимают разницу между fail-safe и fail-secure протоколами."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperately] Мне плевать почему это произошло, just get those doors open before people start dying! [quieter] Реанимации работают от батарей, которых хватит максимум на 40 минут."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Я уже еду к тебе в фургоне, но это не обычные замки если они на магнитах. [pause] Придётся обходить всю электронную систему, and probably drill out the backup mechanical cores."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxiously] Сколько это займёт? [sighs] Каждая потерянная минута означает отказ критических систем по всей сети, а я должна координировать demand response, но даже не могу попасть в собственное здание."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] 20 минут на дверь."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shocked] 20 минут? [louder] Там 6 дверей до генераторов, that's two hours we don't have!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[calmly] Не если я возьму своего ученика, будем работать параллельно над разными дверями. [speeding up] Звоню ему сейчас, у него есть плазменный резак который нам понадобится для усиленных рам."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Окей, окей, это может сработать. [nervously] Но что если у замков есть вторичные защиты которые сработают когда начнёшь резать, knowing our security contractor, они наверняка установили резервные системы без предупреждения."
+        },
+        {
+            "role": "Character 2",
+            "content": "[reassuringly] Именно поэтому я занимаюсь этим 15 лет, я знаю все грязные трюки этих охранных компаний. [chuckles] Вообще-то я устанавливала такие же замки в федеральном здании в прошлом году, same model, same vulnerabilities."
+        },
+        {
+            "role": "Character 1",
+            "content": "Ты хочешь сказать что наша критическая инфраструктура имеет те же уязвимости что и любое другое правительственное здание? [bitter] Это одновременно и успокаивает и пугает."
+        },
+        {
+            "role": "Character 2",
+            "content": "[seriously] Слушай, я проведу тебя через эти двери, но твоя команда должна быть готова действовать быстро как только мы войдём. [pause] Эти генераторы, they'll actually start once we access them, да?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Должны, иначе блэкаут станет постоянным для примерно 300 тысяч человек. [exhales] Автоматический запуск не сработал, но manual override должен работать, если топливные линии не заблокировались от простоя."
+        },
+        {
+            "role": "Character 2",
+            "content": "[determined] Буду через 3 минуты."
+        },
+        {
+            "role": "Character 1",
+            "content": "[urgently] Паркуйся у северного входа, ворота уже открыты since they failed too. [quickly] У меня будет обслуживающий персонал с любыми инструментами которые тебе могут понадобиться."
+        },
+        {
+            "role": "Character 2",
+            "content": "[focused] Скажи им чтобы приготовили промышленные удлинители, столько сколько смогут найти. [firmly] Если основное питание вырублено, I'll need to run my equipment off whatever emergency circuits are still live."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gratefully] Знаешь что, я никогда в жизни не была так рада видеть слесаря. [sighs] Обычно вы просто помогаете людям попасть обратно в квартиры, but tonight you might literally save the city."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] Просто делаю свою работу, хотя признаюсь это точно войдёт в мою коллекцию экстренных вызовов. [chuckles] Подъезжаю, вижу тебя у входа, и да, это точно те магнитные замки о которых я беспокоилась."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "[frantically] Listen, I need you here immediately, the entire backup generator system is locked behind security doors that won't respond to any override codes. [pause] Half the city's grid is down and we can't even access our emergency power systems."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confused] Wait, what?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[urgently] The magnetic locks defaulted to secure mode when the power cut out, which shouldn't even be possible. [frustrated] We've got hospitals on critical power reserves and I can't get to the generators that would fix everything because of these damn security doors."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] Magnetic locks failing closed means someone rewired them backwards, probably during installation. [exhales] I've seen this happen with government contractors who don't understand fail-safe versus fail-secure protocols."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperately] I don't care why it happened right now, I just need those doors open before people start dying! [quieter] The emergency rooms are running on battery backup that'll last maybe forty more minutes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] I'm already in my van heading your way, but those aren't standard locks if they're mag-secured. [pause] I'll need to bypass the entire electronic system and probably drill out the backup mechanical cores."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxiously] How long will that take? [sighs] Every minute we lose means more critical systems failing across the grid, and I'm supposed to be coordinating the demand response but I can't even access my own facility."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] Twenty minutes per door."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shocked] Twenty minutes? [louder] There are six security doors between us and those generators, that's two hours we don't have!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[calmly] Not if I bring my apprentice and we work simultaneously on different doors. [speeding up] I'm calling him now, he's got the plasma cutter we'll need for the reinforced frames anyway."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Okay, okay, that could work. [nervously] But what if the locks have secondary fail-safes that trigger when you start cutting, because knowing our security contractor, they probably installed redundancies without telling us."
+        },
+        {
+            "role": "Character 2",
+            "content": "[reassuringly] That's why I've been doing this for fifteen years, I know every dirty trick these security companies pull. [chuckles] Actually installed some of those same locks at the federal building last year, same model, same vulnerabilities."
+        },
+        {
+            "role": "Character 1",
+            "content": "You're telling me our critical infrastructure has the same security flaws as every other government building? [bitter] That's somehow both reassuring and terrifying at the same time."
+        },
+        {
+            "role": "Character 2",
+            "content": "[seriously] Look, I'll get you through those doors, but you need to have your team ready to move fast once we're in. [pause] These generators, they'll actually start once we access them, right?"
+        },
+        {
+            "role": "Character 1",
+            "content": "They better, or this blackout becomes permanent for about three hundred thousand people. [exhales] The automatic start sequence failed but manual override should work, assuming the fuel lines haven't vapor-locked from sitting idle."
+        },
+        {
+            "role": "Character 2",
+            "content": "[determined] I'm three minutes out."
+        },
+        {
+            "role": "Character 1",
+            "content": "[urgently] Park at the north entrance, security gate's already open since it failed too. [quickly] I'll have maintenance standing by with whatever tools you might need that you're not carrying."
+        },
+        {
+            "role": "Character 2",
+            "content": "[focused] Tell them I need industrial extension cords, as many as they can find. [firmly] If main power's out, I'll need to run my equipment off whatever emergency circuits are still live."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gratefully] You know what, I've never been so happy to see a locksmith in my entire life. [sighs] Usually you guys are just letting people back into their apartments, but tonight you might literally save the city."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] Just doing my job, though I'll admit this is definitely going in my portfolio of emergency calls. [chuckles] Pulling up now, I can see you by the entrance, and yeah, those are definitely the mag-locks I was worried about."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "simple_tags",
+    "source_file": "6b756782_scenario.json",
+    "scenario": "A demand response coordinator desperately calls an emergency locksmith when security doors malfunction during a city-wide blackout, trapping them from accessing critical backup generators.",
+    "type": "scenario_conversation",
+    "character_1_role": "demand response coordinator",
+    "character_2_role": "locksmith",
+    "selected_tones": [
+        "caught-off-guard",
+        "urgent",
+        "open"
+    ],
+    "tone_options": [
+        "caught-off-guard",
+        "open",
+        "mature",
+        "same",
+        "flattering",
+        "practicing",
+        "uniform",
+        "mild",
+        "undisciplined",
+        "subjective"
+    ]
+}

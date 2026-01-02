@@ -1,0 +1,46 @@
+=== Source: dialogue5_40.txt ===
+Actor: english_5
+Content Type: dialogue
+
+=== Dialogue ===
+
+Character 1: So I, uh, I finally started using Terraform at work. Infrastructure as code and stuff.
+
+Character 2: Nice! That's actually a game changer once you get the hang of it. No more clicking through AWS console for hours or forgetting what settings you used last time.
+
+Character 1: Yeah except I accidentally deleted our staging database yesterday. Just... gone.
+
+Character 2: Wait, what? How did you manage that? Terraform usually has safeguards, like it shows you the plan before applying changes.
+
+Character 1: I might have typed "yes" without reading the destroy warning.
+
+Character 2: [quickly] Oh no, the classic terraform destroy instead of terraform apply mistake! I did that once with a production Redis cluster, took me three hours to restore everything from backups. Did you at least have snapshots enabled?
+
+Character 1: Snapshots? I thought those happened automatically.
+
+Character 2: Only if you configure them in your infrastructure code, which is kind of the whole point. Everything needs to be explicitly defined—that's what makes it reproducible and version controlled.
+
+Character 1: Right. So now my boss thinks I'm incompetent. Cool cool cool.
+
+Character 2: Everyone breaks something when they're learning IaC, seriously. The important thing is you can now rebuild that exact database configuration from your code, assuming you committed it to git first.
+
+Character 1: I did! Well, most of it. The passwords are still hardcoded though.
+
+Character 2: [over confidently] Never hardcode secrets, that's rule number one! You need to use environment variables or better yet, something like AWS Secrets Manager or HashiCorp Vault. Trust me, security auditors will absolutely destroy you for plaintext passwords in repos.
+
+Character 1: [laugh loudly] Our security team doesn't even know we use Terraform yet.
+
+Character 2: That's terrifying but also kind of typical. Look, you should probably set up some basic CI/CD pipelines with plan reviews before this gets worse. Atlantis is pretty good for pull request automation if you're using GitHub.
+
+Character 1: Is that like Aquaman but for code?
+
+Character 2: [monotone] It's a tool that runs terraform plan on your pull requests automatically and posts the output as comments. You can see exactly what will change before merging, preventing most disasters before they happen.
+
+Character 1: [deep pitch] Preventing disasters would be nice. Very nice actually.
+
+Character 2: [whispering] Between you and me, I once took down an entire region's load balancers because I forgot to pin my module versions. The whole site was down for twenty minutes while I frantically rolled back. We all have war stories.
+
+Character 1: That actually makes me feel better. Should I tell my boss about the hardcoded passwords?
+
+Character 2: Absolutely tell them now before someone finds them in a security scan. Frame it as a learning experience and present a migration plan to proper secrets management—showing initiative after a mistake goes a long way.
+

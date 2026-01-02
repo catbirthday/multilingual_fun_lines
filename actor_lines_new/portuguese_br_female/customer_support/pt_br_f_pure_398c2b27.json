@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Eu preciso falar com alguém que realmente entenda de preços de peças de equipamentos comerciais."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Boa tarde, agradeço sua franqueza. Meu nome é Sarah e eu sou especialista em contas comerciais com pedidos acima de 5000 reais. Posso pegar o número da sua conta pra revisar sua estrutura de preços?"
+        },
+        {
+            "role": "Customer",
+            "content": "É AC-8974-M. Já me passaram três preços diferentes pro mesmo magnetron essa semana."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Obrigada. Tô vendo aqui que sua conta AC-8974-M tem categoria de preço preferencial nível 3. Deixa eu puxar o código específico da peça que você tá querendo e vou revisar todas as cotações recentes."
+        },
+        {
+            "role": "Customer",
+            "content": "Código MAG-7742-XL. O sistema de vocês tá mostrando 800 reais, mas o fabricante lista por 475."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tô vendo a discrepância agora mesmo. O MAG-7742-XL deveria mostrar sua tarifa contratada de 487,50, não o preço de varejo. Parece um erro de classificação no sistema, tá categorizado como especialidade em vez de estoque padrão."
+        },
+        {
+            "role": "Customer",
+            "content": "Exatamente. Isso acontece direto com componentes de alta voltagem. Por que essas peças não tão codificadas direito?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Você tem toda razão de ficar frustrada. Nossa base de SKUs passou por uma migração dia 15 de outubro e tipo... umas 2300 peças comerciais foram reclassificadas errado. Tô corrigindo esse item agora e marcando sua conta pra revisão manual."
+        },
+        {
+            "role": "Customer",
+            "content": "Quantas outras peças na minha faixa típica de pedidos foram afetadas por isso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Deixa eu rodar uma auditoria completa. Tô vendo 47 itens que você pediu nos últimos 90 dias que mostram inconsistências de preço. Quer que eu gere uma tabela de preços corrigida com todos os ajustes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sim, e preciso dos créditos retroativos pelas cobranças a mais. Tô bancando esses custos há semanas."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza. Tô calculando os créditos desde 15 de outubro pra todas as compras afetadas. A revisão inicial mostra 3847,62 em cobranças extras em 18 transações diferentes. Vou processar isso hoje mesmo."
+        },
+        {
+            "role": "Customer",
+            "content": "Ótimo. Você pode garantir que alguém com conhecimento técnico cuide da minha conta daqui pra frente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro. Tô transferindo sua conta pra nossa Divisão de Peças Técnicas, especificamente pro ramal 4421. Eles cuidam de contas que precisam de expertise em componentes e vão revisar todas as cotações antes de processar."
+        },
+        {
+            "role": "Customer",
+            "content": "E o magnetron que eu preciso hoje? Tenho um cliente de restaurante esperando."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Já corrigi o preço pra 487,50 e posso processar agora mesmo pra envio no mesmo dia do nosso depósito de Newark. Quer que eu adicione na ordem de compra PO-9847 que tá aberta?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sim, e inclui dois fusíveis térmicos, código TF-3360-HC. Garante que esses reflitam o preço nível três."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito. Adicionei 2 unidades do TF-3360-HC na sua tarifa contratada de 24,75 cada. Seu total é 537,00 e vai sair até às 3 da tarde no horário de Brasília pra entrega amanhã antes do meio-dia."
+        },
+        {
+            "role": "Customer",
+            "content": "Finalmente alguém que sabe o que tá fazendo. Me manda o relatório da auditoria e a confirmação."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Obrigada pela paciência com esse problema. Tô enviando o relatório completo da auditoria, confirmação do pedido e o memorando de crédito pro seu email cadastrado. Você também vai receber meu ramal direto, 5578, pra qualquer questão técnica de preços no futuro."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to speak with someone who actually understands commercial appliance parts pricing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, I appreciate your directness. My name is Sarah and I specialize in commercial accounts with order values over $5000. May I have your account number so I can review your pricing structure?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's AC-8974-M. I've been quoted three different prices for the same magnetron unit this week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I see your account AC-8974-M shows preferred pricing tier 3. Let me pull up the specific part number you're inquiring about and I'll review all recent quotes issued."
+        },
+        {
+            "role": "Customer",
+            "content": "Part number MAG-7742-XL. Your system shows eight hundred dollars but the manufacturer lists it at four seventy-five."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the discrepancy immediately. The MAG-7742-XL should reflect your contracted rate of $487.50, not the retail price. This appears to be a system classification error where it's categorized as specialty instead of standard inventory."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. This happens constantly with high-voltage components. Why aren't these properly coded?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right to be frustrated. Our SKU database underwent migration on October 15th and approximately 2300 commercial parts were incorrectly reclassified. I'm correcting this specific item now and flagging your account for manual review."
+        },
+        {
+            "role": "Customer",
+            "content": "How many other parts in my typical order range are affected by this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me run a comprehensive audit. I'm seeing 47 items you've ordered in the past 90 days that show pricing inconsistencies. Would you like me to generate a corrected price sheet with all adjustments?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, and I need retroactive credits for overcharges. I've been absorbing these costs for weeks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm calculating credits back to October 15th for all affected purchases. Initial review shows $3,847.62 in overcharges across 18 separate transactions. I'll have this processed today."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you guarantee someone with technical knowledge handles my account going forward?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm assigning your account to our Technical Parts Division, specifically to extension 4421. They handle accounts requiring component-level expertise and will review all quotes before processing."
+        },
+        {
+            "role": "Customer",
+            "content": "What about the magnetron I need today? I have a restaurant client waiting."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've corrected the pricing to $487.50 and can process that immediately for same-day shipping from our Newark warehouse. Would you like me to add that to purchase order PO-9847 that's currently open?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, and include two thermal fuses, part TF-3360-HC. Make sure those reflect tier three pricing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I've added 2 units of TF-3360-HC at your contracted rate of $24.75 each. Your total is $537.00 and will ship by 3:00 PM Eastern for next-day delivery before noon."
+        },
+        {
+            "role": "Customer",
+            "content": "Finally someone who knows what they're doing. Send me the audit report and confirmation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for your patience with this issue. I'm sending the complete audit report, order confirmation, and credit memo to your email on file. You'll also receive my direct line, extension 5578, for any future technical pricing concerns."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "398c2b27_script.json",
+    "professionalism": "professional",
+    "scenario": "appliance repair tech, knowledgeable and frustrated by agents who don't understand parts pricing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "analytically_minded",
+                "calmly_frustrated"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "formally_courteous",
+                "precisely_technical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

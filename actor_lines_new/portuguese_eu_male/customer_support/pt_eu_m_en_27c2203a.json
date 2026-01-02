@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to transfer my internet and cable service to my new address next month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'd be happy to assist you with your service transfer today. May I have your account number and the new address where you'd like to establish service?"
+        },
+        {
+            "role": "Customer",
+            "content": "My account number is on autopay. The new address is 4782 Riverside Drive in Portland."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account ending in 3847. For 4782 Riverside Drive, Portland, Oregon 97205, I show that location is serviceable with our premium fiber package at speeds up to 940 Mbps."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I need the transfer completed by March fifteenth when I take possession of the property."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand. Let me schedule your service transfer for March 15th. Our installation window would be between 8 AM and 12 PM, and we'll need someone over 18 present at the location for approximately 2 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "That timeframe doesn't work. I have meetings that morning and can't take four hours off work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. We have an afternoon slot available from 2 PM to 4 PM, or I can check March 16th which is a Saturday with more flexible scheduling options including an 8 AM precise appointment."
+        },
+        {
+            "role": "Customer",
+            "content": "The Saturday morning precise appointment would be ideal. What happens to my current service and equipment?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I've reserved Saturday, March 16th at 8 AM sharp for installation at 4782 Riverside Drive. Your current service at 921 Oak Street remains active through March 17th, giving you overlap for a smooth transition."
+        },
+        {
+            "role": "Customer",
+            "content": "I specifically need continuous service. My job requires zero downtime between the locations during this transition."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely understood. With the overlap I've configured, you'll maintain full connectivity. Your current modem model XB7-T can be transported to the new location, and our technician will have a backup unit QM9-2000 ready if needed for immediate setup."
+        },
+        {
+            "role": "Customer",
+            "content": "What about the early termination of my current address? I'm only six months into a two-year contract."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. Since you're transferring service within our coverage area to 4782 Riverside Drive, there are no early termination fees. Your existing 24-month agreement continues at the new location with 18 months remaining at your current rate of $89.99 monthly."
+        },
+        {
+            "role": "Customer",
+            "content": "Your website quoted me a higher rate for new service at that address. Can you clarify this discrepancy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the confusion. The website shows new customer pricing at $119.99 for that zip code 97205. However, as a service transfer, you retain your existing promotional rate of $89.99 through September 2025 when your current agreement ends."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. I also need to confirm that my static IP address transfers with the service."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Your static IP ending in .241 will transfer with your business add-on package. The IP migration occurs automatically during the installation on March 16th, with zero configuration required on your end for connected devices."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Please email me written confirmation of everything we've discussed, including the pricing and March sixteenth appointment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm sending a detailed confirmation to your email address on file right now with reference number TRN-48276-PDX. This includes your March 16th 8 AM appointment, continued $89.99 monthly rate, static IP retention, and overlap period through March 17th at your current location."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to transfer my internet and cable service to my new address next month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'd be happy to assist you with your service transfer today. May I have your account number and the new address where you'd like to establish service?"
+        },
+        {
+            "role": "Customer",
+            "content": "My account number is on autopay. The new address is 4782 Riverside Drive in Portland."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account ending in 3847. For 4782 Riverside Drive, Portland, Oregon 97205, I show that location is serviceable with our premium fiber package at speeds up to 940 Mbps."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I need the transfer completed by March fifteenth when I take possession of the property."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand. Let me schedule your service transfer for March 15th. Our installation window would be between 8 AM and 12 PM, and we'll need someone over 18 present at the location for approximately 2 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "That timeframe doesn't work. I have meetings that morning and can't take four hours off work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. We have an afternoon slot available from 2 PM to 4 PM, or I can check March 16th which is a Saturday with more flexible scheduling options including an 8 AM precise appointment."
+        },
+        {
+            "role": "Customer",
+            "content": "The Saturday morning precise appointment would be ideal. What happens to my current service and equipment?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I've reserved Saturday, March 16th at 8 AM sharp for installation at 4782 Riverside Drive. Your current service at 921 Oak Street remains active through March 17th, giving you overlap for a smooth transition."
+        },
+        {
+            "role": "Customer",
+            "content": "I specifically need continuous service. My job requires zero downtime between the locations during this transition."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely understood. With the overlap I've configured, you'll maintain full connectivity. Your current modem model XB7-T can be transported to the new location, and our technician will have a backup unit QM9-2000 ready if needed for immediate setup."
+        },
+        {
+            "role": "Customer",
+            "content": "What about the early termination of my current address? I'm only six months into a two-year contract."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. Since you're transferring service within our coverage area to 4782 Riverside Drive, there are no early termination fees. Your existing 24-month agreement continues at the new location with 18 months remaining at your current rate of $89.99 monthly."
+        },
+        {
+            "role": "Customer",
+            "content": "Your website quoted me a higher rate for new service at that address. Can you clarify this discrepancy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the confusion. The website shows new customer pricing at $119.99 for that zip code 97205. However, as a service transfer, you retain your existing promotional rate of $89.99 through September 2025 when your current agreement ends."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. I also need to confirm that my static IP address transfers with the service."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Your static IP ending in .241 will transfer with your business add-on package. The IP migration occurs automatically during the installation on March 16th, with zero configuration required on your end for connected devices."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Please email me written confirmation of everything we've discussed, including the pricing and March sixteenth appointment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm sending a detailed confirmation to your email address on file right now with reference number TRN-48276-PDX. This includes your March 16th 8 AM appointment, continued $89.99 monthly rate, static IP retention, and overlap period through March 17th at your current location."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "27c2203a_script.json",
+    "professionalism": "professional",
+    "scenario": "wanting to transfer service to a new address",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "professionally_assertive",
+                "calmly_frustrated"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "formally_courteous",
+                "steadily_composed"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

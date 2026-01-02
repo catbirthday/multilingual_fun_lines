@@ -1,0 +1,93 @@
+=== Source: 2782a7c9_script.json ===
+Language: European Portuguese
+Gender: male
+Mode: en
+Content Type: customer_support
+Professionalism: casual
+Scenario: customs officer, detail-oriented and expecting clear documentation for every single charge
+
+=== Translated Dialogue ===
+
+Customer [en]: Hi there! Um, I'm calling about my invoice INV-4823. See, I'm actually a customs officer, so I need crystal clear documentation.
+
+Customer Support [en]: Oh absolutely, I can help with that! Let me pull up invoice INV-4823... mmm, okay so basically I'm seeing multiple line items here. Would you like me to go through each charge individually?
+
+Customer [en]: Yes please! Er, that's exactly what I need. Let me grab my spreadsheet here...
+
+Customer Support [en]: Perfect, so... *exhales* alright, first charge is $127.50 for the base subscription, reference code SUB-9847-A. Then there's, um, what looks like a... hang on, let me make sure I'm reading this correctly... international processing fee.
+
+Customer [en]: Hmm, international processing? That's interesting. What's the exact amount on that?
+
+Customer Support [en]: Right, so that one's $23.75, and the transaction ID is TXN-6542-INT. Actually, you know what? Since you mentioned needing detailed documentation, I can generate a full breakdown report with reference number RPT-2819 if that would help?
+
+Customer [en]: Oh that would be fantastic! Uh, wait though, I'm seeing three more charges here?
+
+Customer Support [en]: Mm-hmm, yes! So next we have... er, this is interesting actually... there's a regulatory compliance fee of $8.50, code REG-3347-US, and then there's what we call a... how do I explain this... basically it's like a currency conversion buffer.
+
+Customer [en]: Currency conversion buffer? Okay so that means... hmm, are we talking fixed rate or floating?
+
+Customer Support [en]: Great question! It's, well, technically it's a hybrid system. The base rate is fixed at 2.3%, reference rate RTE-5590, but there's a, um, variable component that adjusts quarterly. Let me check your specific rate... looks like you're at 2.47% this period.
+
+Customer [en]: Let me see here... 2.47 percent times... wait, that doesn't match what I'm seeing.
+
+Customer Support [en]: Oh? Hmm, what amount are you showing on your end? Because I've got $14.82 under code CNV-7731-Q3, and that should be... actually wait, let me recalculate this real quick using our verification tool VER-2298.
+
+Customer [en]: I've got fourteen... no wait, sorry, you're right. Er, I was looking at the wrong column.
+
+Customer Support [en]: No worries at all! Happens to me constantly actually. *soft laugh* So the last charge then would be the, uhh... the platform maintenance fee of $4.25, reference PMF-8823.
+
+Customer [en]: Okay perfect. Um, actually though, I just... there's one more charge showing? Forty-seven dollars?
+
+Customer Support [en]: Forty-seven... let me scroll down here... oh! Yes, so that's actually a prorated charge from last month's upgrade. Your account was switched to premium on the 15th, order number ORD-9984-UPG, so basically we only charged for the remaining days.
+
+Customer [en]: Oh. Huh. I don't... I don't remember authorizing an upgrade?
+
+Customer Support [en]: Mm, okay so... *inhales* let me check the authorization log here. System showing authorization code AUTH-6651-WEB on October 15th at 3:47 PM. Though I'm seeing it was, er... it was done through the automated phone system?
+
+Customer [en]: The automated... oh God. My assistant. She must've... I just... I can't even deal with this right now.
+
+Customer Support [en]: Hey, I totally get it. You know what? Since this wasn't intentionally authorized by you, I can actually reverse that charge right now using override code OVR-3342. Would take, like, maybe two business days to show on your statement?
+
+
+=== Original (English) ===
+
+Customer: Hi there! Um, I'm calling about my invoice INV-4823. See, I'm actually a customs officer, so I need crystal clear documentation.
+
+Customer Support: Oh absolutely, I can help with that! Let me pull up invoice INV-4823... mmm, okay so basically I'm seeing multiple line items here. Would you like me to go through each charge individually?
+
+Customer: Yes please! Er, that's exactly what I need. Let me grab my spreadsheet here...
+
+Customer Support: Perfect, so... *exhales* alright, first charge is $127.50 for the base subscription, reference code SUB-9847-A. Then there's, um, what looks like a... hang on, let me make sure I'm reading this correctly... international processing fee.
+
+Customer: Hmm, international processing? That's interesting. What's the exact amount on that?
+
+Customer Support: Right, so that one's $23.75, and the transaction ID is TXN-6542-INT. Actually, you know what? Since you mentioned needing detailed documentation, I can generate a full breakdown report with reference number RPT-2819 if that would help?
+
+Customer: Oh that would be fantastic! Uh, wait though, I'm seeing three more charges here?
+
+Customer Support: Mm-hmm, yes! So next we have... er, this is interesting actually... there's a regulatory compliance fee of $8.50, code REG-3347-US, and then there's what we call a... how do I explain this... basically it's like a currency conversion buffer.
+
+Customer: Currency conversion buffer? Okay so that means... hmm, are we talking fixed rate or floating?
+
+Customer Support: Great question! It's, well, technically it's a hybrid system. The base rate is fixed at 2.3%, reference rate RTE-5590, but there's a, um, variable component that adjusts quarterly. Let me check your specific rate... looks like you're at 2.47% this period.
+
+Customer: Let me see here... 2.47 percent times... wait, that doesn't match what I'm seeing.
+
+Customer Support: Oh? Hmm, what amount are you showing on your end? Because I've got $14.82 under code CNV-7731-Q3, and that should be... actually wait, let me recalculate this real quick using our verification tool VER-2298.
+
+Customer: I've got fourteen... no wait, sorry, you're right. Er, I was looking at the wrong column.
+
+Customer Support: No worries at all! Happens to me constantly actually. *soft laugh* So the last charge then would be the, uhh... the platform maintenance fee of $4.25, reference PMF-8823.
+
+Customer: Okay perfect. Um, actually though, I just... there's one more charge showing? Forty-seven dollars?
+
+Customer Support: Forty-seven... let me scroll down here... oh! Yes, so that's actually a prorated charge from last month's upgrade. Your account was switched to premium on the 15th, order number ORD-9984-UPG, so basically we only charged for the remaining days.
+
+Customer: Oh. Huh. I don't... I don't remember authorizing an upgrade?
+
+Customer Support: Mm, okay so... *inhales* let me check the authorization log here. System showing authorization code AUTH-6651-WEB on October 15th at 3:47 PM. Though I'm seeing it was, er... it was done through the automated phone system?
+
+Customer: The automated... oh God. My assistant. She must've... I just... I can't even deal with this right now.
+
+Customer Support: Hey, I totally get it. You know what? Since this wasn't intentionally authorized by you, I can actually reverse that charge right now using override code OVR-3342. Would take, like, maybe two business days to show on your statement?
+

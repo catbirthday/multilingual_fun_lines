@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "Стой, что? Ты—ты держишь конверт из универа. [вздох] Это... боже мой, это то, что я думаю? Ты правда—ты уже открыл? [взволнованно] Ты поступил?! [смех] Господи, ты поступил! Не могу поверить, что ты даже не сказал, что подавал документы в этот раз! [очень взволнованно] Мы же месяцами об этом говорили, а ты просто—взял и сделал! [смеётся громко]\n\nИди сюда, иди ко мне! [очень счастливо] Я так тобой горжусь, малыш. Типа, это... вау. Это же огромное дело. Мы об этом мечтали с... чего, со второго свидания? [усмешка] Помнишь, как мы всю ночь не спали, обсуждали твои исследовательские идеи, и я сказал, что ты гений, а ты подумал, что я просто, эм... пытаюсь произвести впечатление? [тепло] Но я серьёзно говорил. Правда серьёзно.\n\n[пауза] Слушай, так когда начинаешь? Это—это с осеннего семестра? [с любопытством] Это же всего, типа, через три месяца. Блин, нам надо столько всего решить... хм, столько планировать. [быстро] Как добираться, твоё расписание, как мы всё это организуем. [вздох] Но знаешь что? Разберёмся. [уверенно] Мы же всегда разбираемся, да? Это твоя мечта. [очень искренне] Наша мечта. И она реально сбывается."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "Wait, what? You're—you're holding an envelope from the university. [gasp] Is that... oh my God, is that what I think it is? Did you actually—did you open it already? [excited] You got in?! [laugh] Oh my God, you got in! I can't believe you didn't tell me you even applied this round! [very excited] We talked about this for months and you just—you actually did it! [laugh loudly] \n\nCome here, come here! [extremely happy] I'm so proud of you, baby. Like, this is... wow. This is huge. We've been dreaming about this since, what, our second date? [chuckle] Remember when we stayed up all night talking about your research ideas and I said you were brilliant and you thought I was just, um... trying to impress you? [warm] But I meant it. I really meant it.\n\n[pause] Wait, so when do you start? Is it—is it the fall semester? [curious] That's only, like, three months away. Oh God, we need to figure out... hmm, there's so much to plan. [quickly] The commute, your schedule, how we're gonna handle everything. [sigh] But you know what? We'll figure it out. [confidently] We always do, right? This is your dream. [very sincerely] Our dream. And it's actually happening."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "696b0a10_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your newlywed spouse surprising you with their acceptance into the graduate program you've both been dreaming about",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": false
+    }
+}

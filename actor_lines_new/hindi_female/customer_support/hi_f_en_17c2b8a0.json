@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need help with invoice INV-8274. There's a neighbor dispute complicating payment for a fence installation I completed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the sensitivity of that situation. Let me pull up invoice INV-8274 right away. I see this is for a property fence installation at 2847 Maple Grove Drive completed last Tuesday."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. The homeowners were splitting costs, but now one party refuses to pay their portion."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the challenge you're facing. According to our records, the total invoice amount is $4,850.00, with the original agreement showing a 50-50 split between the Miller and Harrison households."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. The Millers paid their half immediately, but the Harrisons are now disputing the property line."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for that clarification. I can see the Millers' payment of $2,425.00 was processed on October 12th through transaction ID TXN-9847-MLR, leaving the Harrison portion outstanding."
+        },
+        {
+            "role": "Customer",
+            "content": "I completed the work as specified in the signed contract. This dispute arose after installation was finished."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I understand your position. Your contract number CTR-7734-FNC shows both parties signed off on the specifications and property markers on October 8th, which legally protects your completed work."
+        },
+        {
+            "role": "Customer",
+            "content": "I have another installation scheduled Monday and need this resolved to maintain my cash flow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the urgency given your business needs. Let me escalate this to our commercial disputes team who can intervene directly with case number DSP-4421-PRI for expedited resolution."
+        },
+        {
+            "role": "Customer",
+            "content": "How quickly can they address this? I've already invested materials and labor costs."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Our disputes team will contact both parties within 24 hours. Given that you have signed documentation and completed work verification photos timestamped October 11th at 3:47 PM, we can potentially release partial payment while pursuing the remainder."
+        },
+        {
+            "role": "Customer",
+            "content": "That would help significantly. What percentage could you release?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Based on our contractor protection policy CPP-2024, we can release up to 70% of the outstanding amount, which would be $1,697.50, to your business account ending in 4782 by end of business today."
+        },
+        {
+            "role": "Customer",
+            "content": "That's better than expected. When would I receive the remaining balance?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The remaining $727.50 will be released once our disputes team resolves the matter, typically within 5-7 business days, though case DSP-4421-PRI has been marked priority due to your upcoming project needs."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the expedited handling. Will I need to provide any additional documentation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've reviewed your file and everything appears complete. The signed contract, work photos, and permit number BLD-2024-8923 from the county office are all on file, so no additional documentation is needed from your end."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Can you email me confirmation of this arrangement and the partial payment details?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm sending confirmation to your registered email at contractorpro@email.com right now with reference number SVC-10847-RES, including all payment timelines and your direct disputes team contact, Sarah Mitchell at extension 3847."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need help with invoice INV-8274. There's a neighbor dispute complicating payment for a fence installation I completed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the sensitivity of that situation. Let me pull up invoice INV-8274 right away. I see this is for a property fence installation at 2847 Maple Grove Drive completed last Tuesday."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. The homeowners were splitting costs, but now one party refuses to pay their portion."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the challenge you're facing. According to our records, the total invoice amount is $4,850.00, with the original agreement showing a 50-50 split between the Miller and Harrison households."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. The Millers paid their half immediately, but the Harrisons are now disputing the property line."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for that clarification. I can see the Millers' payment of $2,425.00 was processed on October 12th through transaction ID TXN-9847-MLR, leaving the Harrison portion outstanding."
+        },
+        {
+            "role": "Customer",
+            "content": "I completed the work as specified in the signed contract. This dispute arose after installation was finished."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I understand your position. Your contract number CTR-7734-FNC shows both parties signed off on the specifications and property markers on October 8th, which legally protects your completed work."
+        },
+        {
+            "role": "Customer",
+            "content": "I have another installation scheduled Monday and need this resolved to maintain my cash flow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the urgency given your business needs. Let me escalate this to our commercial disputes team who can intervene directly with case number DSP-4421-PRI for expedited resolution."
+        },
+        {
+            "role": "Customer",
+            "content": "How quickly can they address this? I've already invested materials and labor costs."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Our disputes team will contact both parties within 24 hours. Given that you have signed documentation and completed work verification photos timestamped October 11th at 3:47 PM, we can potentially release partial payment while pursuing the remainder."
+        },
+        {
+            "role": "Customer",
+            "content": "That would help significantly. What percentage could you release?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Based on our contractor protection policy CPP-2024, we can release up to 70% of the outstanding amount, which would be $1,697.50, to your business account ending in 4782 by end of business today."
+        },
+        {
+            "role": "Customer",
+            "content": "That's better than expected. When would I receive the remaining balance?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The remaining $727.50 will be released once our disputes team resolves the matter, typically within 5-7 business days, though case DSP-4421-PRI has been marked priority due to your upcoming project needs."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the expedited handling. Will I need to provide any additional documentation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've reviewed your file and everything appears complete. The signed contract, work photos, and permit number BLD-2024-8923 from the county office are all on file, so no additional documentation is needed from your end."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Can you email me confirmation of this arrangement and the partial payment details?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm sending confirmation to your registered email at contractorpro@email.com right now with reference number SVC-10847-RES, including all payment timelines and your direct disputes team contact, Sarah Mitchell at extension 3847."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "17c2b8a0_script.json",
+    "professionalism": "professional",
+    "scenario": "fence installer, caught in the middle of a neighbor dispute that's affecting his invoice",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "graciously_disappointed",
+                "respectfully_urgent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "attentively_engaged",
+                "reassuringly_calm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

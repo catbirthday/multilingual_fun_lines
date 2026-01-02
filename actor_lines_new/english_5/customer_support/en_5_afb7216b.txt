@@ -1,0 +1,48 @@
+=== Source: afb7216b_script.json ===
+Actor: english_5
+Content Type: customer_support
+Professionalism: professional
+Scenario: trying to return an item past the return window
+
+=== Dialogue ===
+
+Customer: I need to return a laptop I purchased forty-five days ago. Your website shows a thirty-day return policy.
+
+Customer Support: I understand your situation. Let me pull up your account details and review the purchase. May I have your order number or the email address associated with the purchase?
+
+Customer: The order number is 8829-KL. Can you explain why the return window is only thirty days?
+
+Customer Support: Thank you. I have your order RET-8829-KL here, showing the laptop model LT-X500 purchased for $1,249 on October 2nd. Our thirty-day policy aligns with industry standards for electronics depreciation and allows us to maintain competitive pricing.
+
+Customer: I understand the reasoning. What specifically happens to the product value after thirty days that prevents returns?
+
+Customer Support: Excellent question. After thirty days, we cannot resell returned electronics as new merchandise due to warranty registration dates and potential software installations. The device would need to be processed through our refurbishment center at facility code RFC-7721, which incurs additional costs.
+
+Customer: That makes sense. Are there any exceptions to this policy, particularly for items that haven't been opened?
+
+Customer Support: Absolutely. I can see in your account that this is your first return request in over three years of being a customer. Let me check if your item qualifies for our extended return program under exception code EXC-92B.
+
+Customer: I appreciate that. The laptop is still sealed in its original packaging.
+
+Customer Support: Perfect. An unopened item significantly helps your case. I'm submitting an override request OVR-4521-MT to our returns department, noting the sealed packaging and your excellent account standing with customer ID CST-89274.
+
+Customer: How long does the override process typically take, and what's the likelihood of approval?
+
+Customer Support: The review process takes twenty-four to forty-eight hours. Based on similar cases with unopened items and accounts showing purchase history over $5,000 like yours, the approval rate is approximately eighty-five percent.
+
+Customer: Those are reasonable odds. What happens if the override is approved versus denied?
+
+Customer Support: Of course.
+
+Customer: I'd like to understand both scenarios before we proceed.
+
+Customer Support: If approved, you'll receive email confirmation with return label RTL-6632-QM and full refund processing within five to seven business days. If denied, I can offer store credit at full value or coordinate an exchange for a different model.
+
+Customer: Store credit at full value would be acceptable. Can that be processed faster than waiting for the override?
+
+Customer Support: Certainly. I can issue store credit immediately for the full $1,249 amount under credit voucher SCV-7791-XB, valid for twenty-four months and usable across all departments, not just electronics.
+
+Customer: That works perfectly. Please proceed with the store credit option.
+
+Customer Support: Excellent. I've processed your store credit for $1,249 under reference number SCV-7791-XB, and you'll receive the confirmation email within five minutes. The credit is already active in our system and can be used immediately for online or in-store purchases.
+

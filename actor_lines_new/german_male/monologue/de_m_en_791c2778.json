@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shocked] Holy shit. [pause] I mean, I literally just signed the contract two hours ago. [nervous laugh] Dream company, dream role, everything I've worked for and then—boom—Richard gets hauled off in handcuffs. [long pause] For embezzlement. [quietly] The timing is so... I don't even know what to call this. [frustrated] Like, should I be happy? [pause] I am happy about the job, obviously, but now everyone's gonna think, um... they're gonna think I knew something. [anxious] Or worse, that I was somehow involved. [sigh] God, twenty million dollars. [slowly] Twenty million. [pause] How do you even steal that much without anyone—actually, wait, did they know? [suspicious] Did HR know when they called me yesterday? [clearing throat] No, that's... that's paranoid. [hesitantly] Right? [pause] Ugh, I keep thinking about shaking his hand last month at the conference. [uncomfortable laugh] He seemed so, I don't know, normal? [quietly] Respectable, even. [long pause] And now I'm literally sitting in his office—well, my office—with FBI tape still on some of the drawers. [bitter laugh] Happy first day to me. [deep breath] Okay. [confidently] You know what? I'm clean, my record's clean, and I'm gonna fix this mess. [determined] Starting tomorrow."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shocked] Holy shit. [pause] I mean, I literally just signed the contract two hours ago. [nervous laugh] Dream company, dream role, everything I've worked for and then—boom—Richard gets hauled off in handcuffs. [long pause] For embezzlement. [quietly] The timing is so... I don't even know what to call this. [frustrated] Like, should I be happy? [pause] I am happy about the job, obviously, but now everyone's gonna think, um... they're gonna think I knew something. [anxious] Or worse, that I was somehow involved. [sigh] God, twenty million dollars. [slowly] Twenty million. [pause] How do you even steal that much without anyone—actually, wait, did they know? [suspicious] Did HR know when they called me yesterday? [clearing throat] No, that's... that's paranoid. [hesitantly] Right? [pause] Ugh, I keep thinking about shaking his hand last month at the conference. [uncomfortable laugh] He seemed so, I don't know, normal? [quietly] Respectable, even. [long pause] And now I'm literally sitting in his office—well, my office—with FBI tape still on some of the drawers. [bitter laugh] Happy first day to me. [deep breath] Okay. [confidently] You know what? I'm clean, my record's clean, and I'm gonna fix this mess. [determined] Starting tomorrow."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "791c2778_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Landing the CFO role at your dream company on the day your predecessor gets arrested for embezzlement",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Preciso de fazer o downgrade da minha subscrição do plano Premium Plus para o Standard."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, vou já tratar disso. Deixe-me só abrir aqui a sua conta. Pode dar-me o número de conta ou o email associado à subscrição?"
+        },
+        {
+            "role": "Customer",
+            "content": "O email é robert.chen@stratosventures.com e a conta deve estar em nome da Stratos Ventures LLC."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito. Tenho aqui a sua conta, está com o plano Premium Plus a 299€ mensais com 25 licenças de utilizador. Antes de avançarmos com o downgrade, posso perguntar o que é que motivou esta mudança? É para garantir que encontramos a melhor solução para as vossas necessidades."
+        },
+        {
+            "role": "Customer",
+            "content": "Estamos a reestruturar a equipa e... pronto, agora só precisamos de dez licenças. As funcionalidades do Premium Plus já não são necessárias."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Compreendo perfeitamente. O plano Standard fica a 99€ mensais, inclui 10 licenças e cobre todas as funcionalidades base. Vão manter o acesso às funcionalidades de A a J, mas perdem o pacote de analytics avançado e o suporte prioritário que vem com o Premium Plus."
+        },
+        {
+            "role": "Customer",
+            "content": "E o que é que acontece aos nossos dados existentes e aos relatórios personalizados que criámos?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excelente pergunta. Todos os vossos dados continuam totalmente acessíveis e os relatórios personalizados ficam preservados. A única diferença é que não vão poder criar novos relatórios com as ferramentas Premium de analytics depois do downgrade entrar em vigor, que será dentro de 72 horas."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah, está bem... isso é aceitável. Podemos fazer esta alteração hoje com a nova faturação a começar no próximo mês?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sim! Posso tratar disso já para entrar em vigor no próximo ciclo de faturação a 15 de novembro. Vão receber um crédito proporcional de 67,42€ pela parte não utilizada da subscrição Premium Plus deste mês."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfeito. E o acesso à API e as nossas integrações vão continuar a funcionar sem interrupção?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sim, todas as vossas ligações à API e integrações vão continuar a funcionar normalmente. O plano Standard suporta até 50.000 chamadas à API por mês, e estou a ver que têm uma média de 12.000, portanto estão bem dentro do limite."
+        },
+        {
+            "role": "Customer",
+            "content": "Ótimo. Como é que redistribuo as licenças de utilizador quando esta mudança for feita?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Quando o downgrade for processado, vão receber um email com um link para o portal de administração. A partir daí, podem gerir as vossas 10 licenças na secção de Gestão de Equipa. Qualquer utilizador além do décimo vai ficar automaticamente com acesso só de leitura."
+        },
+        {
+            "role": "Customer",
+            "content": "Espere, quais utilizadores é que vão perder acesso se temos atualmente vinte e cinco ativos?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "O sistema mantém o acesso para os vossos 10 utilizadores mais recentemente ativos por defeito. No entanto, têm um período de carência de 5 dias para selecionar manualmente quais os utilizadores específicos que mantêm o acesso total através do painel de administração, antes de acontecerem alterações automáticas."
+        },
+        {
+            "role": "Customer",
+            "content": "Vou ter de rever isso com cuidado. Pode enviar-me um resumo destas alterações?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza. Vou enviar um resumo detalhado para o seu email nos próximos 15 minutos, incluindo os detalhes do novo plano, o cronograma, e instruções passo a passo para gerir as licenças de utilizador. O seu número de confirmação para esta alteração é TXN-8847-QM92."
+        },
+        {
+            "role": "Customer",
+            "content": "Excelente. Há mais alguma coisa que precise de fazer para completar este downgrade?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não, não é preciso mais nada da sua parte. O downgrade está agendado, vai receber o email com o resumo em breve, e a fatura de 15 de novembro vai refletir a nova mensalidade de 99€. Há mais alguma coisa em que possa ajudar hoje relativamente à sua conta?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to downgrade my subscription from the Premium Plus plan to the Standard tier."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'd be happy to help you with that today. Let me pull up your account. May I have your account number or the email address associated with your subscription?"
+        },
+        {
+            "role": "Customer",
+            "content": "The email is robert.chen@stratosventures.com and the account should be under Stratos Ventures LLC."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I have your account here showing the Premium Plus plan at $299 monthly with 25 user licenses. Before we proceed with the downgrade, may I ask what's prompting the change so I can ensure we find the best solution for your needs?"
+        },
+        {
+            "role": "Customer",
+            "content": "We're restructuring our team and only need ten user licenses now. The Premium Plus features are unnecessary."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. The Standard plan at $99 monthly includes 10 user licenses and covers all core functionality. You'll maintain access to features A through J but would lose the advanced analytics suite and priority support that comes with Premium Plus."
+        },
+        {
+            "role": "Customer",
+            "content": "What happens to our existing data and the custom reports we've built?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. All your existing data remains fully accessible and your custom reports are preserved. The only difference is you won't be able to create new reports using the Premium analytics tools after the downgrade takes effect in 72 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "That's acceptable. Can we complete this change today with the new billing starting next month?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I can process this immediately to take effect at your next billing cycle on November 15th. You'll receive a prorated credit of $67.42 for the unused portion of this month's Premium Plus subscription."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will our API access and integrations continue working without interruption?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, all your current API connections and integrations will continue functioning normally. The Standard plan supports up to 50,000 API calls monthly, and I can see you're currently averaging 12,000, so you're well within the limit."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. How do I redistribute the user licenses once this change goes through?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Once the downgrade processes, you'll receive an email with a link to your admin portal. From there, you can manage your 10 licenses under the Team Management section. Any users beyond the tenth will automatically be set to read-only access."
+        },
+        {
+            "role": "Customer",
+            "content": "Which users will lose access if we currently have twenty-five active?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The system maintains access for your 10 most recently active users by default. However, you have a 5-day grace period to manually select which specific users retain full access through your admin dashboard before any automatic changes occur."
+        },
+        {
+            "role": "Customer",
+            "content": "I'll need to review that carefully. Can you send me a summary of these changes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'll send a detailed summary to your email within the next 15 minutes including your new plan details, the timeline, and step-by-step instructions for managing user licenses. Your confirmation number for this change is TXN-8847-QM92."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Is there anything else I need to do to complete this downgrade?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No additional action is required from your end. The downgrade is now scheduled, you'll receive the summary email shortly, and your November 15th invoice will reflect the new $99 monthly rate. Is there anything else I can help you with regarding your account today?"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2f4d3106_script.json",
+    "professionalism": "professional",
+    "scenario": "trying to downgrade their subscription plan",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "businesslike_direct",
+                "analytically_minded"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "warmly_professional",
+                "patiently_methodical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

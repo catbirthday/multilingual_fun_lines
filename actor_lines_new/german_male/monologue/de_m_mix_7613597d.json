@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[relieved] Wir haben's geschafft. Wir haben's tatsächlich... wir haben's wirklich geschafft. [pause] Drei Jahre lang gegen die gekämpft und jetzt sind sie endlich—Gott, Tausende von Menschen. [shaky voice] Das sagen die Schätzungen, oder? Tausende von Leben. [sigh] Ich muss immer an die Johnsons denken, weißt du? Ihre Tochter wäre jetzt, ähm... sie wäre jetzt 17. Und all diese Familien, die mich weinend angerufen haben, die gesagt haben, dass niemand ihnen zuhört. [very quietly] Niemand hat ihnen geglaubt. [pause] Aber wir haben jedes Dokument aufbewahrt, every single email where they knew—die WUSSTEN es—und haben sich trotzdem für den Profit entschieden. [angry] 4 Dollar. Das ist alles, was es gekostet hätte pro Einheit, um es sicher zu machen. 4 Dollar. [pause] Und jetzt ist es... hmm, es ist komisch, ich dachte, ich würde mich mehr, ich weiß nicht, triumphierend fühlen? Aber ich bin einfach... [exhausted] Ich bin so müde. Und erleichtert. And honestly just kind of numb. [slowly] Meine Mutter hat vorhin angerufen, sie hat geweint. Freudentränen aber. Sie sagte, Papa wäre stolz gewesen. [shaky voice] Er hat immer gesagt, wenn du Menschen helfen kannst, dann hilfst du ihnen. Egal wie lange es dauert. [pause] Ich wünschte nur, ähm... ich wünschte, wir hätten das tun können, bevor jemand verletzt wurde. [very quietly] But at least no one else will get hurt now."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[relieved] We did it. We actually... we actually did it. [pause] Three years of fighting them and they're finally—God, thousands of people. [shaky voice] That's what the estimates say, right? Thousands of lives. [sigh] I keep thinking about the Johnsons, you know? Their daughter would've been, um... she'd be seventeen now. And all those families who called me crying, saying nobody would listen. [very quietly] Nobody believed them. [pause] But we kept every document, every email where they knew—they KNEW—and chose profits anyway. [angry] Four dollars. That's what it would've cost per unit to make it safe. Four dollars. [pause] And now it's... hmm, it's strange, I thought I'd feel more, I don't know, triumphant? But I'm just... [exhausted] I'm so tired. And relieved. And honestly kind of numb. [slowly] My mom called earlier, she was crying. Happy tears though. She said Dad would've been proud. [shaky voice] He always said if you can help people, you help people. No matter how long it takes. [pause] I just wish, um... I wish we could've done this before anyone got hurt. [very quietly] But at least no one else will."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "7613597d_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your product liability case just resulted in a recall that will save thousands of lives",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

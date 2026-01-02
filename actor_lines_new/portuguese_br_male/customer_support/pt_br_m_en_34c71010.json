@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need to close a commercial fleet account. The account holder, James Morrison, passed away last week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm very sorry for your loss. I'll certainly help you with closing the account. May I have the fleet account number and your relationship to Mr. Morrison?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is FLT-8847-JM. I've been driving for Morrison Funeral Services for twelve years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I see the Morrison Funeral Services fleet account with seven vehicles registered under license FLT-8847-JM. To proceed with the closure, I'll need to verify some information and understand the disposition of the vehicles."
+        },
+        {
+            "role": "Customer",
+            "content": "I have power of attorney documents from the estate executor. All vehicles are being transferred to new ownership."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. I'll need you to submit those documents to our legal department at fleetservices@company.com, reference case number CLO-2847-MS. Are you authorized to handle the final billing and any outstanding maintenance contracts?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, I'm handling all fleet-related matters. There should be three active maintenance contracts and current billing through this month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Correct. I show three platinum maintenance contracts, numbers MC-7891-A through MC-7891-C, all paid through the 31st. The current billing cycle shows a balance of $4,247.85, which includes this month's lease payments and fuel card charges."
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds accurate. The estate will issue payment within ten business days. What's the process for the fuel cards?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And the GPS tracking units in each vehicle need to be deactivated as well."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'll deactivate all seven GPS units effective midnight tonight, serial numbers GPS-5501 through GPS-5507. The fuel cards ending in 4421, 4422, and 4423 will be canceled simultaneously, and I'll email you the final fuel report."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Will there be any early termination penalties on the lease agreements?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Due to the circumstances, I'm waiving all early termination fees, which would have totaled $8,750. I've added override code WV-3847-DEC to your account, and you'll receive written confirmation within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. The vehicles will be returned to your Riverside location by Friday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Please return them to our Riverside facility at 2847 Industrial Boulevard, open Monday through Friday 8 AM to 6 PM. Ensure each vehicle has at least a quarter tank of fuel and bring all sets of keys."
+        },
+        {
+            "role": "Customer",
+            "content": "Everything will be in order. Can you send all final documentation to the estate attorney?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "That's Stephen Brennan at Brennan and Associates, 1500 Market Street, Suite 400."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I have that recorded as Stephen Brennan, Brennan and Associates, 1500 Market Street, Suite 400. All closure documentation, including form CLO-9982 and the final account statement, will be sent there within five business days. Is there anything else I can help you with today?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need to close a commercial fleet account. The account holder, James Morrison, passed away last week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm very sorry for your loss. I'll certainly help you with closing the account. May I have the fleet account number and your relationship to Mr. Morrison?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is FLT-8847-JM. I've been driving for Morrison Funeral Services for twelve years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I see the Morrison Funeral Services fleet account with seven vehicles registered under license FLT-8847-JM. To proceed with the closure, I'll need to verify some information and understand the disposition of the vehicles."
+        },
+        {
+            "role": "Customer",
+            "content": "I have power of attorney documents from the estate executor. All vehicles are being transferred to new ownership."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. I'll need you to submit those documents to our legal department at fleetservices@company.com, reference case number CLO-2847-MS. Are you authorized to handle the final billing and any outstanding maintenance contracts?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, I'm handling all fleet-related matters. There should be three active maintenance contracts and current billing through this month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Correct. I show three platinum maintenance contracts, numbers MC-7891-A through MC-7891-C, all paid through the 31st. The current billing cycle shows a balance of $4,247.85, which includes this month's lease payments and fuel card charges."
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds accurate. The estate will issue payment within ten business days. What's the process for the fuel cards?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And the GPS tracking units in each vehicle need to be deactivated as well."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'll deactivate all seven GPS units effective midnight tonight, serial numbers GPS-5501 through GPS-5507. The fuel cards ending in 4421, 4422, and 4423 will be canceled simultaneously, and I'll email you the final fuel report."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Will there be any early termination penalties on the lease agreements?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Due to the circumstances, I'm waiving all early termination fees, which would have totaled $8,750. I've added override code WV-3847-DEC to your account, and you'll receive written confirmation within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. The vehicles will be returned to your Riverside location by Friday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Please return them to our Riverside facility at 2847 Industrial Boulevard, open Monday through Friday 8 AM to 6 PM. Ensure each vehicle has at least a quarter tank of fuel and bring all sets of keys."
+        },
+        {
+            "role": "Customer",
+            "content": "Everything will be in order. Can you send all final documentation to the estate attorney?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "That's Stephen Brennan at Brennan and Associates, 1500 Market Street, Suite 400."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I have that recorded as Stephen Brennan, Brennan and Associates, 1500 Market Street, Suite 400. All closure documentation, including form CLO-9982 and the final account statement, will be sent there within five business days. Is there anything else I can help you with today?"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "34c71010_script.json",
+    "professionalism": "professional",
+    "scenario": "hearse driver, somber about calling to close out a deceased employer's fleet account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "matter_of_fact",
+                "calmly_frustrated"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "formally_courteous",
+                "confidently_authoritative"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

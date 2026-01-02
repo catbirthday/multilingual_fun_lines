@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very quietly] Eles querem comprar. Tudo. O campo todo, a casa, até o velho armazém onde o pai guardava as ferramentas. [pause] O valor que estão a oferecer é... nem consigo dizer em voz alta, parece que não é real. Mais dinheiro do que alguma vez alguém na nossa família viu. [bitter] Cinco gerações a trabalhar esta terra, e agora vem uma empresa qualquer para construir, o quê, prédios? Centros comerciais? [sigh] A mãe está na cozinha a chorar. Não quer falar sobre isto mas eu sei que já anda a arrumar coisas na cabeça, a decidir o que fica, o que vai. [hesitantly] O que se passa é que, hum... o que se passa é que nós precisamos mesmo disto. Os meus filhos podiam ir para a universidade. Universidade a sério, não andar ali à espera de bolsas. Podíamos operar as costas do pai como deve ser, em vez daqueles comprimidos que não servem para nada. [long pause] Mas esta manhã fui dar uma volta pelo pomar onde o avô plantou aquelas macieiras quando eu tinha 7 anos. Onde eu e os meus irmãos construímos aquele forte ridículo. Onde pedi a Ana em casamento. [very sad] Como é que se põe um preço nestas coisas? Como é que se... assina um papel e pronto? [frustrated] Toda a gente diz que éramos estúpidos se não aceitássemos. Que estamos a ser sentimentais. [trailing off] Se calhar estamos, mas... pronto... [passionately] Esta terra conhece-nos! Cada pedra, cada árvore, não são só coisas, são— são nós. [very quietly] Mas se calhar é exatamente por isso que temos de a deixar ir. Por eles. Pelo futuro."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very quietly] They want to buy it. All of it. The whole field, the house, even the old barn where Papa kept his tools. [pause] The number they're offering is... I can't even say it out loud, it doesn't feel real. More money than anyone in our family has ever seen. [bitter] Five generations we've worked this soil, and now some company wants to put up, what, apartments? Shopping centers? [sigh] Mama's crying in the kitchen. She won't talk about it but I know she's already packing things in her head, deciding what to keep, what to leave. [hesitantly] The thing is, um... the thing is we need this. My kids could go to university. Real university, not just hoping for scholarships. We could fix Papa's back properly, get him the surgery instead of those useless pills. [long pause] But this morning I walked through the grove where Grandpapa planted those apple trees when I was seven. Where my brothers and I built that ridiculous fort. Where I proposed to Ana. [very sad] How do you put a price on that? How do you just... sign it away? [frustrated] Everyone says we'd be stupid not to take it. That we're being sentimental. [trailing off] Maybe we are, but... [passionately] This land knows us! Every stone, every tree, they're not just things, they're— they're us. [very quietly] But maybe that's exactly why we have to let it go. For them. For the future."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "20b7997c_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your peasant family's land is being bought by developers for enough money to change your life, but it's been home for generations",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

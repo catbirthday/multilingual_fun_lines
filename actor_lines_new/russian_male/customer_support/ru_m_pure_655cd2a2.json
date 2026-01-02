@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Мне нужна помощь с верификацией аккаунта. У меня телефон от влажности в теплице пострадал, и приложение для аутентификации теперь глючит."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да, конечно, понимаю. Так, давайте сейчас вашу учётку найдём и всё решим. Можете номер аккаунта сказать или email, который привязан?"
+        },
+        {
+            "role": "Customer",
+            "content": "Email — jmartin@greenacres.com. Вчера во время инвентаризации влага попала, и все данные в приложении-аутентификаторе слетели."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Спасибо. Так, нашёл ваш аккаунт, JM-48729-GH, и вижу, что у вас подключена двухфакторка через наше мобильное приложение версии 3.2.1."
+        },
+        {
+            "role": "Customer",
+            "content": "Да, всё верно. Мне прям сегодня доступ нужен. У нас после обеда крупная поставка приходит."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Конечно-конечно. Раз у вас устройство повреждено, я могу выдать временные backup-коды на 72 часа, пока мы метод аутентификации сбрасываем. Вам подойдёт для текущих задач?"
+        },
+        {
+            "role": "Customer",
+            "content": "Да, подойдёт. А как быстро вы эти коды сгенерируете?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Прямо сейчас генерирую. Вам на зарегистрированный email придут шесть одноразовых кодов в течение 2-3 минут, каждый код можно использовать только для одного входа."
+        },
+        {
+            "role": "Customer",
+            "content": "Хорошо. А после использования временных кодов мне нужно будет заново аутентификацию настраивать?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Именно так. Как залогинитесь с временным кодом, вам предложат настроить новый метод аутентификации в течение 72 часов, то есть до понедельника, 23:59 по московскому времени, чтобы безопасность аккаунта сохранить."
+        },
+        {
+            "role": "Customer",
+            "content": "Настрою вечером с домашнего компьютера. Можете сейчас отключить аутентификацию через мобильное приложение?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Конечно. Так, только что отключил аутентификацию через мобильное приложение и перевёл ваш аккаунт на временные коды, изменения вступили в силу прямо сейчас, в 10:47."
+        },
+        {
+            "role": "Customer",
+            "content": "Отлично. Кстати, это уже второй раз, когда влажность наши устройства портит."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Спасибо, что упомянули. Для вашей рабочей среды я бы рекомендовал либо SMS-верификацию на номер 555-0147, либо специальный аппаратный токен, модель TK-500, он влагозащищённый и стоит $34.99."
+        },
+        {
+            "role": "Customer",
+            "content": "Аппаратный токен — самое то. Можете добавить его в мой заказ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Добавил токен TK-500 в корзину, и со стандартной доставкой за $7.95 общая сумма будет $42.94, придёт в течение 5-7 рабочих дней."
+        },
+        {
+            "role": "Customer",
+            "content": "Супер. Оформляйте заказ и отправляйте на мой рабочий адрес, который у вас есть."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Заказ подтверждён. Номер вашего заказа PO-92847-TK, и вы получите аппаратный токен к следующей пятнице, 22 ноября, вместе с инструкцией по настройке."
+        },
+        {
+            "role": "Customer",
+            "content": "Вот и всё, что мне было нужно. Спасибо за оперативную помощь."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Всегда пожалуйста. Временные коды уже должны быть у вас в почте, и я отправил вам на email всю сводку нашего разговора, включая заказ PO-92847-TK. Удачного рабочего дня в теплице."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need assistance with my account verification. My phone's been damaged by greenhouse humidity and the authentication app isn't working properly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. Let me pull up your account and we'll get this resolved immediately. May I have your account number or the email address associated with your account?"
+        },
+        {
+            "role": "Customer",
+            "content": "The email is jmartin@greenacres.com. The moisture corrupted my authenticator app data yesterday during inventory."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account, JM-48729-GH, and I can see you're enrolled in two-factor authentication through our mobile app version 3.2.1."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. I need to regain access today. We have a large shipment arriving this afternoon."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Given the circumstances with your device damage, I can issue you temporary backup codes valid for 72 hours while we reset your authentication method. Would that work for your immediate needs?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, that would work. How quickly can you generate those codes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm generating them right now. You'll receive six single-use codes at your registered email address within the next 2-3 minutes, and each code will be valid for one login attempt."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Will I need to reconfigure the authentication after using the temporary codes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Precisely. Once you've logged in with a temporary code, you'll be prompted to set up a new authentication method within 72 hours, or by Monday at 11:59 PM EST to maintain account security."
+        },
+        {
+            "role": "Customer",
+            "content": "I'll set that up tonight from my home computer. Can you disable the mobile app authentication now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I've just disabled mobile app authentication and switched your account to temporary code status, effective immediately as of 10:47 AM."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. I should mention this is the second time moisture has affected our devices here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I appreciate you mentioning that. For your work environment, I'd recommend our SMS-based verification at 555-0147 or using a dedicated hardware token, model TK-500, which is moisture-resistant and costs $34.99."
+        },
+        {
+            "role": "Customer",
+            "content": "The hardware token sounds ideal. Can you add that to my account for purchase?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've added the TK-500 hardware token to your cart, and with standard shipping of $7.95, your total will be $42.94, arriving within 5-7 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Process that order and ship it to my business address on file."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Order confirmed. Your purchase order number is PO-92847-TK, and you'll receive the hardware token by next Friday, November 22nd, along with setup instructions."
+        },
+        {
+            "role": "Customer",
+            "content": "That resolves everything I need. Thank you for the efficient service."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. Your temporary codes should be in your inbox now, and I've sent a summary of our conversation including order PO-92847-TK to your email. Have a productive day at the greenhouse."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "655cd2a2_script.json",
+    "professionalism": "professional",
+    "scenario": "greenhouse worker, frustrated because phone humidity issues corrupted his account verification",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "matter_of_fact",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "precisely_technical",
+                "formally_courteous"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

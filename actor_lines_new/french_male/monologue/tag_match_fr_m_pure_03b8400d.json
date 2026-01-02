@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extrêmement heureux] Trois restaurants ! Je—j'arrive pas à croire que Maria a ouvert son troisième établissement aujourd'hui. [rire] Quand elle est entrée dans mon bureau la première fois, mon Dieu, elle avait ce petit carnet avec toutes les recettes que sa grand-mère lui avait transmises, et elle demandait quoi, 8000 euros ? [chaleureux] Et je me souviens avoir pensé, hmm, cette femme a quelque chose de spécial, tu vois ? Mais trois restaurants en quatre ans ? [souffle doucement] J'aurais jamais imaginé...\n\n[pause] Le premier, ce petit local sur la rue des Ormes—enfin, on était tous les deux tellement stressés. Elle m'appelait à des heures, euh, impossibles, complètement paniquée à cause du matériel qui tombait en panne ou des autorisations ou... [petit rire] Et maintenant regarde-la. Elle a quoi, 45 employés ? 46 ? [très sincèrement] Parfois je passe devant le premier resto et je... j'ai cette sensation dans la poitrine, tu sais ?\n\n[ému] Sa fille m'a envoyé une photo de l'inauguration d'aujourd'hui. [reniflement] Maria est là avec toute sa famille, et elle porte ce tablier où c'est écrit \"Patronne\" et—désolé, je suis en train de... [s'estompant] C'est juste que, quand tu donnes cette première chance à quelqu'un et qu'elle la transforme en ça ? [passionnément] C'est pour ça qu'on fait ce métier. C'est exactement pour ça."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] Three restaurants! I just—I can't believe Maria opened her third location today. [laugh] When she first walked into my office, gosh, she had this little notebook with all these recipes her grandmother taught her, and she was asking for, what, eight thousand dollars? [warm] And I remember thinking, hmm, this woman has something special, you know? But three restaurants in four years? [gasp softly] I never imagined...\n\n[pause] The first one, that tiny place on Elm Street—I mean, we were both so nervous. She'd call me at, uh, ridiculous hours panicking about the equipment breaking or the permits or... [chuckle] And now look at her. She's got, what, forty-five employees? Forty-six? [very sincerely] Sometimes I walk past that original location and I just... I get this feeling in my chest, you know? \n\n[emotional] Her daughter sent me a photo from today's opening. [sniffle] Maria's standing there with her whole family, and she's wearing this apron that says \"Boss Lady\" and—sorry, I'm getting all... [trailing off] It's just, when you give someone that first chance and they turn it into this? [passionately] This is why we do this work. This is exactly why."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "03b8400d_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your microloan client just opened their third successful restaurant location",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

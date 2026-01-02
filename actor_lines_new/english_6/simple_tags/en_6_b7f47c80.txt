@@ -1,0 +1,35 @@
+=== Source: b7f47c80_scenario.json ===
+Actor: english_6
+Content Type: simple_tags
+Scenario: introvert and ice cream scooper
+
+=== Dialogue ===
+
+raw: {
+    "conversation": [
+        {"role": "Character 1", "content": "[quietly] Um, hi again. I know it's been exactly a year since I was last here, and, uh, you probably don't remember me, but I always get the same thing."},
+        {"role": "Character 2", "content": "[gently] Mint chocolate chip in a waffle cone with rainbow sprinkles. [pause] I remember. You come every October fifteenth, stay for exactly one hour, and sit at that corner table by the window."},
+        {"role": "Character 1", "content": "[surprised] You actually remember? I mean, I guess I didn't think anyone would notice or, um, care enough to keep track of something like that. [trailing off]"},
+        {"role": "Character 2", "content": "[carefully] Five years now, right? [quietly] Look, I don't mean to overstep, but the first time you came in, you ordered two cones and only ate one. I've, uh, always wondered about that."},
+        {"role": "Character 1", "content": "[shaky voice] She would have been twelve today. [pause] Emma loved this place more than anything, used to drag me here every weekend even when it was freezing outside."},
+        {"role": "Character 2", "content": "[very quietly] Oh. [clearing throat] I'm so sorry, I shouldn't have—I mean, that's not really any of my business, and I didn't mean to make you uncomfortable or anything."},
+        {"role": "Character 1", "content": "[firmly] No, it's actually... nice that someone noticed. [sighs] Everyone else tries so hard to pretend nothing happened, like if we don't talk about her, the pain will somehow disappear."},
+        {"role": "Character 2", "content": "[hesitantly] My little brother passed when I was nineteen. [slowly] Different circumstances, but, um, I get the whole anniversary thing, how certain days just hit different no matter how much time passes."},
+        {"role": "Character 1", "content": "[softly] Does it ever stop feeling like there's this enormous hole in your chest? Like, I keep waiting for it to get easier but it just... doesn't."},
+        {"role": "Character 2", "content": "[thoughtfully] Not really, no."},
+        {"role": "Character 1", "content": "[anxiously] Sometimes I worry I'm forgetting things about her, you know? [voice breaking] Like, I couldn't remember her laugh the other day and I just panicked, spent hours going through old videos."},
+        {"role": "Character 2", "content": "[warmly] The details might fade but the important stuff, the feeling of who they were, that stays. [pause] Would you like me to make her cone too? The way she used to order it?"},
+        {"role": "Character 1", "content": "[crying while speaking] She always got strawberry with those little gummy bears on top. [chuckles] Used to pick them off one by one and save them for last like they were precious gems or something."},
+        {"role": "Character 2", "content": "[gently] Coming right up. And, um, if you want to tell me about her while I scoop, I'd really like to listen. Sometimes talking to a stranger is easier than talking to people who knew."},
+        {"role": "Character 1", "content": "[relieved] Yeah, I'd like that."},
+        {"role": "Character 2", "content": "[attentively] Take your time. [quietly] We officially closed five minutes ago but I always keep the lights on late on October fifteenth anyway. Figured you might need the extra time this year."},
+        {"role": "Character 1", "content": "[tearfully] She would have loved that you remembered her order. [pause] She had this theory that ice cream shops were actually secret portals to happiness, and anyone sad just needed the right flavor combination."},
+        {"role": "Character 2", "content": "[smiling speaking] That's a pretty solid theory, honestly. [softly] I've seen it work more times than I can count, people coming in with heavy hearts and leaving just a little bit lighter."},
+        {"role": "Character 1", "content": "[warmly] You know what? [sighs] For the first time in five years, I actually believe her theory might be true, at least about this place, with you here."},
+        {"role": "Character 2", "content": "Well, her portal's always open on October fifteenth, and, um, any other day you need it too. [very sincerely] The mint chip and strawberry special will be waiting."
+    ],
+    "scenario": "An introvert visits an ice cream shop on the anniversary of their child's death, where the same scooper has served them annually for five years.",
+    "selected_tones": ["somber", "attentive", "tensing"],
+    "type": "scenario_conversation"
+}
+

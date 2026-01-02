@@ -1,0 +1,48 @@
+=== Source: b74b65b4_script.json ===
+Actor: english_6
+Content Type: customer_support
+Professionalism: professional
+Scenario: confused about their billing cycle and when they'll be charged
+
+=== Dialogue ===
+
+Customer: Good afternoon. I need clarification on my billing cycle. I was charged yesterday but expected it next week.
+
+Customer Support: Thank you for reaching out. I'd be happy to clarify your billing situation. Let me pull up your account using your customer ID or the email address associated with your subscription.
+
+Customer: The account email is jennifer.martinez@techcorp.com. I signed up on the fifteenth of last month.
+
+Customer Support: Perfect, I have your account here. You're on subscription plan PRO-4827-ML which began on October 15th. Your billing cycle runs from the 15th of each month, so yesterday's charge of $89.99 on November 15th was correct.
+
+Customer: I see. I thought billing would start thirty days after signup, not on the same date each month.
+
+Customer Support: I understand the confusion. Our system uses calendar-based billing rather than rolling thirty-day periods. Your initial charge on October 15th covered October 15th through November 14th, and yesterday's charge covers November 15th through December 14th.
+
+Customer: That makes sense now. Can you tell me why this wasn't clearer during the signup process?
+
+Customer Support: You raise a valid point about clarity. The billing terms are displayed on page 3 of the checkout process under section BT-2A, but I acknowledge they could be more prominent. I'll submit feedback to our UX team for improvement.
+
+Customer: I appreciate that. What happens if the billing date falls on a weekend or holiday?
+
+Customer Support: Excellent question. For weekend or holiday billing dates, our system processes the charge on the next business day. Your December 15th charge, for example, falls on a Sunday, so it will process on Monday, December 16th at 3:00 AM Eastern Time.
+
+Customer: Good to know. Is there an option to change my billing date to better align with my expense reports?
+
+Customer Support: Absolutely. I can adjust your billing date to any day between the 1st and 28th of the month. This change would take effect next billing cycle, and I'd prorate the difference for the transition period using adjustment code ADJ-9823-XK.
+
+Customer: The first of the month would work perfectly. How would the proration work exactly?
+
+Customer Support: Certainly. Since you've already paid through December 14th, I'll credit your account for days December 2nd through 14th, which equals $35.70. Your next charge on December 1st would be $54.29, covering December 1st only, then regular billing of $89.99 resumes January 1st.
+
+Customer: That's very clear, thank you. Please proceed with changing it to the first.
+
+Customer Support: I've completed the change. Your new billing date is the 1st of each month effective immediately. You'll receive confirmation email REF-7429-BCC within the next ten minutes with all the proration details and updated billing schedule.
+
+Customer: Perfect. One last question: where can I view my complete billing history and upcoming charges?
+
+Customer Support: In your account dashboard, navigate to the Billing section, then select Payment History tab PH-001. There you'll find all past transactions, and the Upcoming Charges widget shows your next three scheduled payments with exact dates and amounts.
+
+Customer: Excellent. This has been very helpful. Thank you for the thorough explanations and quick resolution.
+
+Customer Support: You're very welcome. I've also added a note to your account file AF-8923-QM about today's billing date change. If you have any questions about future charges or need further assistance, please don't hesitate to contact us. Have a great day.
+

@@ -1,0 +1,91 @@
+=== Source: dialogue3_29.txt ===
+Language: German
+Gender: female
+Mode: pure
+Content Type: dialogue
+
+=== Translated Dialogue ===
+
+Character 1 [pure]: Hey, ich muss dieses DSGVO-Ding für mein Projekt verstehen. Kannst du mir helfen?
+
+Character 2 [pure]: Klar, die DSGVO ist die Datenschutz-Grundverordnung der EU. Die strukturiert komplett um, wie wir mit personenbezogenen Daten umgehen—es gibt sechs Rechtsgrundlagen: Einwilligung, Vertrag, rechtliche Verpflichtung, lebenswichtige Interessen, öffentliche Aufgabe und berechtigte Interessen—und jede hat ihre eigenen operativen Anforderungen.
+
+Character 1 [pure]: Das klingt ja wahnsinnig kompliziert.
+
+Character 2 [pure]: [slurring] Der wirklich komplexe Teil ist Artikel 6 Absatz 1(f) zu den berechtigten Interessen. Du musst einen Drei-Stufen-Test machen, deine Interessen gegen die Grundrechte der betroffenen Person abwägen und dabei die vernünftigen Erwartungen berücksichtigen—und alles in einer Interessenabwägung dokumentieren.
+
+Character 1 [pure]: Was ist mit Cookies? Darüber reden doch alle ständig.
+
+Character 2 [pure]: Cookies fallen unter die DSGVO UND die ePrivacy-Richtlinie, was ein doppeltes Regulierungsframework schafft. Du brauchst explizite Opt-in-Zustimmung für nicht-essenzielle Cookies, granulare Kontrollmechanismen für verschiedene Cookie-Kategorien, und die Einwilligung muss freiwillig, spezifisch, informiert und unmissverständlich sein nach Artikel 4(11).
+
+Character 1 [pure]: [bitter] Deswegen haben jetzt alle Websites diese nervigen Popups?
+
+Character 2 [pure]: Genau, und die meisten setzen sie falsch um. Vorausgefüllte Kästchen verstoßen gegen Artikel 7, Cookie-Walls verletzen möglicherweise die "Freiwilligkeits"-Anforderung, und die meisten bieten keine gleich prominenten Akzeptieren- und Ablehnen-Optionen, wie's die neuesten Leitlinien verlangen.
+
+Character 1 [pure]: Was passiert, wenn wir das verkacken?
+
+Character 2 [pure]: Strafen nach Artikel 83 können bis zu 4% des weltweiten Jahresumsatzes oder 20 Millionen Euro betragen, je nachdem was höher ist. Aber das ist für schwere Verstöße wie Verletzung der Datenverarbeitungsgrundsätze oder internationale Datentransfers ohne angemessene Schutzmaßnahmen nach Kapitel 5.
+
+Character 1 [pure]: Internationale Transfers? Wir arbeiten mit US-Anbietern.
+
+Character 2 [pure]: [pause] Da wird's richtig technisch. Privacy Shield wurde durch Schrems II gekippt, also brauchst du jetzt Standardvertragsklauseln plus eine Transfer-Folgenabschätzung, die die Überwachungsgesetze im Zielland bewertet und wo nötig zusätzliche Schutzmaßnahmen implementiert.
+
+Character 1 [pure]: [whispering loudly] Unsere Rechtsabteilung hat davon null Ahnung.
+
+Character 2 [pure]: [sarcastic] Fantastisch, denn Artikel 37 verlangt wahrscheinlich, dass ihr einen Datenschutzbeauftragten ernennt, wenn ihr Daten im großen Stil verarbeitet oder regelmäßige systematische Überwachung macht. Der braucht Expertenwissen in Datenschutzrecht und -praxis—nicht etwas, was man einfach der Sabine aus der Personalabteilung aufdrücken kann.
+
+Character 1 [pure]: Wie fangen wir überhaupt mit der Umsetzung an?
+
+Character 2 [pure]: Erstmal alle Datenflüsse mappen und ein Verzeichnis von Verarbeitungstätigkeiten nach Artikel 30 erstellen. Dann Privacy by Design nach Artikel 25 umsetzen—Datenminimierung, Zweckbindung, Speicherbegrenzung, Pseudonymisierung wo möglich, und technische Maßnahmen proportional zum Risiko.
+
+Character 1 [pure]: Was ist mit Nutzerrechten? Die Leute fragen ständig nach Datenlöschung.
+
+Character 2 [pure]: [loudly] Artikel 17 gibt ihnen das Recht auf Löschung, aber es gibt sechs Ausnahmen! Du kannst ablehnen, wenn's für Meinungsfreiheit, rechtliche Compliance, öffentliche Gesundheit, Archivierung im öffentlichen Interesse oder zur Geltendmachung von Rechtsansprüchen nötig ist—aber du musst innerhalb eines Monats antworten.
+
+Character 1 [pure]: [stern] Ein Monat? Das ist nicht viel Zeit.
+
+Character 2 [pure]: [furious] Es wird noch schlimmer—du kannst um zwei Monate verlängern bei komplexen Anfragen, aber du brauchst begründete Gründe! Und Artikel 15 Auskunftsanfragen verlangen, dass du Kopien all ihrer Daten bereitstellst, deine Verarbeitungszwecke erklärst, Empfänger, Speicherfristen, ihre Rechte und die Logik hinter automatisierten Entscheidungen—alles kostenlos!
+
+
+=== Original (English) ===
+
+Character 1: Hey, I need to understand this GDPR thing for my project. Can you help?
+
+Character 2: Sure, GDPR is the General Data Protection Regulation from the EU. It fundamentally restructures how we handle personal data processing through six legal bases—consent, contract, legal obligation, vital interests, public task, and legitimate interests—each with distinct operational requirements.
+
+Character 1: That sounds incredibly complicated.
+
+Character 2: [slurring] The really complex part is Article 6 subsection 1(f) on legitimate interests. You need to conduct a three-part test balancing your interests against the data subject's fundamental rights while considering reasonable expectations—and document everything in a Legitimate Interests Assessment.
+
+Character 1: What about cookies? Everyone talks about cookie consent.
+
+Character 2: Cookies fall under both GDPR and the ePrivacy Directive, which creates a dual regulatory framework. You need explicit opt-in consent for non-essential cookies, granular control mechanisms for different cookie categories, and the consent must be freely given, specific, informed, and unambiguous per Article 4(11).
+
+Character 1: [bitter] This is why every website has those annoying popups now?
+
+Character 2: Exactly, and they often implement them incorrectly. Pre-ticked boxes violate Article 7, cookie walls potentially breach the "freely given" requirement, and most fail to provide equally prominent accept and reject options as required by recent regulatory guidance.
+
+Character 1: What happens if we mess this up?
+
+Character 2: Penalties under Article 83 can reach 4% of global annual turnover or 20 million euros, whichever is higher. But that's for serious infringements like violating data processing principles or transferring data internationally without appropriate safeguards under Chapter V.
+
+Character 1: International transfers? We work with US vendors.
+
+Character 2: [pause] That's where it gets really technical. The Privacy Shield was invalidated by Schrems II, so now you need Standard Contractual Clauses plus a transfer impact assessment evaluating surveillance laws in the destination country and implementing supplementary measures where necessary.
+
+Character 1: [whispering loudly] Our legal team has no idea about any of this.
+
+Character 2: [sarcastic] Fantastic, because Article 37 probably requires you to appoint a Data Protection Officer if you're processing data on a large scale or conducting regular systematic monitoring. They need expert knowledge of data protection law and practices—not something you can just assign to Karen from HR.
+
+Character 1: How do we even start implementing this?
+
+Character 2: First, map all your data flows and create Records of Processing Activities under Article 30. Then implement privacy by design per Article 25—data minimization, purpose limitation, storage limitation, pseudonymization where possible, and technical measures proportionate to risk.
+
+Character 1: What about user rights? People keep asking about data deletion.
+
+Character 2: [loudly] Article 17 gives them the right to erasure, but there are six exceptions! You can refuse if it's necessary for freedom of expression, legal compliance, public health, archiving in the public interest, or establishing legal claims—but you must respond within one month.
+
+Character 1: [stern] One month? That's not much time.
+
+Character 2: [furious] It gets worse—you can extend by two months for complex requests, but you need justified reasons! Plus Article 15 access requests require you to provide copies of all their data, explain your processing purposes, recipients, retention periods, their rights, and the logic behind any automated decision-making—all for free!
+

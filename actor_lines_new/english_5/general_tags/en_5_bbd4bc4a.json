@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[frozen] I got the work order for upgrading the executive floor security system, but I didn't realize—God, I didn't know you worked here, or that you'd changed your name."
+        },
+        {
+            "role": "Character 2",
+            "content": "[carefully neutral] It's been twenty years, Jamie. I wasn't sure you'd recognize me. The receptionist said our installer was running late, but she didn't mention who was coming. [exhales slowly]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Mom kept your picture on the mantle even after you left, so yeah, I recognize you despite the gray hair and the expensive suit."
+        },
+        {
+            "role": "Character 2",
+            "content": "[softly] How is she? Your mother, I mean. The last I heard through mutual friends was that she remarried, someone from her book club."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter laugh] She died three years ago. Cancer. The man from the book club turned out to be decent though—he stayed through the chemo, the hospice, everything you missed."
+        },
+        {
+            "role": "Character 2",
+            "content": "[voice cracking] I didn't know. Jamie, I swear I didn't know she was sick. I would have—[pause]—I should have been checking in somehow."
+        },
+        {
+            "role": "Character 1",
+            "content": "Would you have come back? Because she asked for you near the end, kept saying she forgave you for leaving, for choosing your career over us. [quieter] I never told her I'd found you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[urgently] You knew where I was? How long have you known I was here practicing law, building this life without you both in it?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Five years. I install security systems for half the firms in the city, and your name came up in a background check. [sighs] Patricia Chen, formerly Patrick Chen, senior partner since 2018."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] The transition was the hardest thing I ever did, but staying would have been harder. Your mother deserved someone who could be fully present, not someone dying inside every single day."
+        },
+        {
+            "role": "Character 1",
+            "content": "[struggling] I get that now, I really do, but understanding it as an adult doesn't erase what it felt like as a thirteen-year-old watching my dad disappear."
+        },
+        {
+            "role": "Character 2",
+            "content": "I wrote you letters every week for two years, explaining everything, apologizing, trying to maintain some connection, but your mother sent them all back unopened. [voice breaking] Eventually I stopped trying."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shocked] She never told me about any letters. We moved three times that first year, and she said you didn't care enough to find us."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] I hired a private investigator. I knew every address, every school you attended. I sent birthday cards, graduation money, [exhales shakily], everything returned with 'refused' written across it."
+        },
+        {
+            "role": "Character 1",
+            "content": "Jesus. She constructed this whole narrative about you abandoning us, and I built my entire identity around being the kid whose father didn't want them. [voice cracking] What else was a lie?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[tenderly] You weren't unwanted."
+        },
+        {
+            "role": "Character 1",
+            "content": "[wavering] I should probably start the installation. The work order says you need upgraded sensors on all entry points and a new panic room protocol for the senior partners' offices."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hopefully] The installation will take what, three or four hours? Maybe we could talk while you work, or grab dinner after if you're willing to try."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly decisive] I've got nothing scheduled after this. And Mom's gone, so there's no one left to protect from the truth anymore. [pause] We could try dinner."
+        },
+        {
+            "role": "Character 2",
+            "content": "There's a quiet place two blocks over where we can actually hear each other talk, and Jamie—thank you for not just walking out when you saw me."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "bbd4bc4a_scenario.json",
+    "actor": 5,
+    "scenario": "An alarm system installer arrives to upgrade security at a prestigious law firm, only to discover the senior partner demanding the work is their estranged parent who transitioned and disappeared twenty years ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "alarm system installer",
+    "character_2_role": "senior partner",
+    "selected_tones": [
+        "tender",
+        "encouraging",
+        "navigating"
+    ]
+}

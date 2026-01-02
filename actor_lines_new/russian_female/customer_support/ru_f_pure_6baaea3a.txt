@@ -1,0 +1,93 @@
+=== Source: 6baaea3a_script.json ===
+Language: Russian
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: casual
+Scenario: immigration officer, frustrated that identity verification keeps failing despite correct information
+
+=== Translated Dialogue ===
+
+Customer [pure]: Откуда мне знать, что это вообще настоящая линия поддержки? У меня постоянно верификация не проходит.
+
+Customer Support [pure]: Понимаю ваше беспокойство насчёт проблем с верификацией, и могу подтвердить, что вы позвонили на официальную линию поддержки 1-800-555-9823, это можно проверить на нашем государственном сайте, если хотите.
+
+Customer [pure]: Я ввожу одну и ту же информацию каж—стой нет, то есть, мне кажется, что ту же самую.
+
+Customer Support [pure]: Так, давайте я открою ваш профиль по номеру обращения IMM-2024-7K92, и вижу, что вы пытались пройти верификацию четыре раза за последние 72 часа с одними и теми же данными каждый раз.
+
+Customer [pure]: И что, вы отслеживаете всё, что я печатаю? Это как-то... слишком, не находите?
+
+Customer Support [pure]: Мы ведём логи безопасности для предотвращения мошенничества, но давайте сосредоточимся на решении вашей проблемы с верификацией — можете подтвердить, что ваш email заканчивается на 4829@immigration.gov?
+
+Customer [pure]: Да, вроде этот. Если только ваша система его как-то не поменяла.
+
+Customer Support [pure]: Email в системе правильный, так что давайте проверим следующее поле — вы вводите номер паспорта с пробелами или без, потому что наша система требует слитно, типа USA789456321.
+
+Customer [pure]: Без пробелов. Ну естественно. Откуда мне знать, что вы не просто собираете мою паспортную информацию?
+
+Customer Support [pure]: Так у меня уже есть доступ к вашему файлу с паспортом, заканчивающимся на 6321, поэтому я правда пытаюсь понять, почему автоматическая система не принимает ваши данные, которые совпадают с тем, что я тут вижу.
+
+Customer [pure]: Тогда может ваша система сломана. В смысле, это единственное объяснение на данный момент.
+
+Customer Support [pure]: Это возможно, и я сейчас кое-что проверю — когда вы вводите дату рождения, вы используете формат... как его... международный формат день-месяц-год или стандартный месяц-день-год?
+
+Customer [pure]: Сначала день. Как там написано—нет стой, там вообще это написано?
+
+Customer Support [pure]: Окей, так вот в чём проблема — ваш аккаунт был создан в нашей старой системе, которая требует формат MM-DD-YYYY, а новый интерфейс показывает пример DD-MM-YYYY, из-за этого и несовпадение.
+
+Customer [pure]: Зачем вам два разных формата? Это типа вообще бред какой-то.
+
+Customer Support [pure]: Согласна, что это раздражает, и мы переводим всех на новую систему к марту 2025, но пока попробуйте ввести дату рождения как 08-15-1978.
+
+Customer [pure]: Ладно. Но если это не сработает, я наверное буду жалобу писать или типа того.
+
+Customer Support [pure]: Понимаю.
+
+Customer [pure]: Опять не прошло. Видите? Я же гово—извините, в смысле, вот именно это и происходит каждый раз.
+
+Customer Support [pure]: Вижу неудачную попытку в реальном времени, и раз стандартные методы не работают, я передаю ваше обращение технической команде с приоритетным тикетом TEC-99847-A, и они вам перезвонят в течение двух рабочих часов с этого номера.
+
+
+=== Original (English) ===
+
+Customer: How do I know this is even the real support line? My verification keeps failing.
+
+Customer Support: I understand your concern about verification failures, and I can confirm you've reached our official support line at 1-800-555-9823, which you can verify on our government website if you'd like.
+
+Customer: I put in the exact same information every—wait no, I mean, I think it's the same.
+
+Customer Support: Let me pull up your profile here using your case reference IMM-2024-7K92, and I can see you've attempted verification four times in the last seventy-two hours with the same credentials each time.
+
+Customer: So what, you're tracking everything I type? That's sort of invasive, isn't it?
+
+Customer Support: We maintain security logs for fraud prevention, but I want to focus on resolving your verification issue—can you confirm the email address you're using ends in 4829@immigration.gov?
+
+Customer: That's the one, probably. Unless your system changed it somehow.
+
+Customer Support: The email is correct in our system, so let's check the next field—are you entering your passport number with or without the spaces, because our system requires it as one continuous string like USA789456321.
+
+Customer: Without spaces. Obviously. How do I know you're not just collecting my passport information?
+
+Customer Support: Sir, I already have access to your file with passport ending in 6321, so I'm genuinely trying to identify why the automated system isn't accepting your inputs that match what I'm seeing here.
+
+Customer: Then maybe your system is broken. I mean, that's the only explanation at this point.
+
+Customer Support: That's possible, and I'm going to check something—when you enter your date of birth, are you using the format... what's the word... the international format with day-month-year or the standard month-day-year?
+
+Customer: Day first. Like it says—no wait, does it actually say that?
+
+Customer Support: Okay so here's the issue—your account was created in our legacy system that requires MM-DD-YYYY format, but the new interface shows DD-MM-YYYY as an example, which is causing the mismatch.
+
+Customer: Why would you have two different formats? This is sort of ridiculous.
+
+Customer Support: I agree it's frustrating, and we're migrating everyone to the new system by March 2025, but for now I need you to try entering your birthdate as 08-15-1978 instead.
+
+Customer: Fine. But if this doesn't work, I'm probably filing a complaint or something.
+
+Customer Support: Understood.
+
+Customer: Still failed. See? I told you—sorry, I mean, this is exactly what happens every time.
+
+Customer Support: I see the failed attempt in real-time, and since the standard troubleshooting isn't working, I'm escalating your case to our technical team with priority ticket TEC-99847-A, and they'll call you within two business hours from this number.
+

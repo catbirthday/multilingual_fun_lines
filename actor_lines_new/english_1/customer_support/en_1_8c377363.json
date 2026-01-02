@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi yeah so I need—actually wait, let me explain—I'm trying to refinance my house and the bank needs every single charge itemized, like they want to see where every penny goes"
+        },
+        {
+            "role": "Customer Support",
+            "content": "[audible exhale] Oh absolutely, I can I can definitely help with that, um, let me just pull up your account here... member ID is BKL-447829-X, and hmm, there's quite a few different charges on here, so this might take a minute to go through everything properly"
+        },
+        {
+            "role": "Customer",
+            "content": "That's fine that's fine, I just—my loan officer said if I don't have documentation for everything by Friday—no wait sorry, Thursday, they might deny the whole thing"
+        },
+        {
+            "role": "Customer Support",
+            "content": "[sharp inhale] Oh geez, Thursday, okay so we need to move quickly then, er, I'm seeing your base subscription is $89.99 monthly, then there's a service fee that's—actually hold on, that's listed weird, it says SF-2024-PREM but it's it's showing as $12.50 which I think might be incorrect"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait what do you mean incorrect, is it supposed to be more or—sorry I mean less, because I've been paying this for months"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well that's the thing, uhh, normally that premium service code should be $9.99, but yours is showing higher and I'm not—let me check something... [exhales] okay so back in January 2024 there was a rate adjustment, reference number ADJ-1122-B, but it looks like maybe it wasn't applied to everyone correctly?"
+        },
+        {
+            "role": "Customer",
+            "content": "Of course, this is just—that's exactly what happened with my last provider, they said one thing and charged another, so how much have I been overpaying?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ermm, so if my math is right here, and I think it is, you've been overpaying $2.51 monthly since January, which would be—hang on let me calculate—roughly $22.59 total, and honestly I'm I'm really sorry about this, this shouldn't have happened"
+        },
+        {
+            "role": "Customer",
+            "content": "No it's—actually you know what, at least you're telling me, the last place didn't even admit it, can you just email me all this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely absolutely, and hey, what I'm gonna do—because this is our mistake—I'm putting through a credit for $25.00, transaction ID CRD-9981-MNK, and basically I want to make sure you have everything documented perfectly for your loan officer, so I'm also generating a full twelve-month statement with every single fee broken down"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank God, that's—wait did you say twenty-five, not twenty-two fifty—no sorry, twenty-two fifty-nine?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "[soft exhale] Yeah I rounded up because, look, you shouldn't have to deal with this, especially with your refinance deadline, ahh, and actually while I have you here, there's another charge I see, it's coded as ENH-PROTECT for $4.99, which is optional enhanced protection, and erm, honestly most people don't really need it"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't even—what does that protect, because nobody ever explained—actually no, I think someone mentioned it once but I was rushing"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, so technically it covers accidental damage beyond the basic warranty, but here's the thing—and I probably shouldn't tell you this—your credit card probably already covers that if you used a Visa or Mastercard, so you're essentially double-covered, which means that $4.99 monthly, that's basically just, well, extra"
+        },
+        {
+            "role": "Customer",
+            "content": "So I've been paying five bucks a month for nothing, for how—actually let me check—since when, do you see when that started?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ehhh, let me scroll back here... [inhale] woof, okay so that started in September 2023, order modification MOD-3847-TK, so that's um, fifteen months at $4.99, which is another $74.85 you've paid for coverage you probably didn't need, and look I'm I'm really bothered that nobody explained this properly to you"
+        },
+        {
+            "role": "Customer",
+            "content": "This is insane, so between the two things that's almost a hundred dollars—no wait, more than a hundred—that I just threw away basically?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "[long exhale] Yeah it's it's $97.44 total, and honestly, I'm gonna push through another credit—actually wait, let me check with my supervisor real quick about the maximum I can... okay okay, good news, I can do the full amount, credit reference CRD-9982-MNK for $74.85, so combined with the other one you're getting back $99.85 total"
+        },
+        {
+            "role": "Customer",
+            "content": "I mean that's—wow okay I wasn't expecting—I just wanted the itemization but this is—sorry, I'm a little shocked you're actually fixing it"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hah, well that's what should happen, right, and err, going forward I've removed that enhanced protection effective immediately, confirmation number RMV-6672-LP, plus I'm sending you a PDF with every single charge from the last eighteen months all itemized and annotated, so your loan officer will have zero questions, and my direct extension is 4429 if you need anything else explained, because I want to make sure this refinance goes through smoothly for you"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "8c377363_script.json",
+    "actor": 1,
+    "scenario": "asking for itemization of all fees and charges",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

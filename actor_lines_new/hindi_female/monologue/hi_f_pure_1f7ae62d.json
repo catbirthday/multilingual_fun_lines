@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "पता है क्या बात है? उन्होंने सच में कर दिया यार। [relieved] सातों के सातों plants, एक-एक में, अब मेरे protocols use कर रहे हैं। [pause] मैं बार-बार उस सुबह के बारे में सोचती रहती हूं, अम्म... जब Marcus को चोट लगी थी। [very quietly] वो पूरा valve system, जिस तरह से हमने set up किया था, वो तो होना ही था कुछ न कुछ। [frustrated] और मैं तो कहती ही रही ना? महीनों से मैं बोल रही थी, \"ये फिर से होगा अगर हम—\" [sighs] पर कौन सुनता है। [bitter] बहुत महंगा पड़ेगा, बस यही रटते रहे।\n\n[emotional pause] Sorry, मैं बस... [sniffle] 23 साल हो गए हैं इस काम को करते हुए। [slowly] और देखती रहती हूं ऐसी चीज़ें, accidents जो होने ही नहीं चाहिए थे। [very sad] लोग चोट खाते हैं क्योंकि, पता नहीं यार, shortcuts की वजह से या... या फिर खराब design की वजह से। [passionately] पर इस बार उन्होंने सुना! [excited] वो नए lockout procedures, वो redundant safety valves, even वो, अम्म, वो monitoring system जिसके लिए मैं push करती रही। [chuckle] Henderson ने तो कल ही phone किया, बोले implementation के बाद एक भी close call नहीं हुआ है। [extremely happy] एक भी नहीं! [laugh]\n\n[warm] पता है इसका मतलब क्या है? [very sincerely] इसका मतलब है dozens of लोग हर रोज़ घर सुरक्षित पहुंच रहे हैं क्योंकि... [trailing off] [pause] [whispering] क्योंकि इस बार, हमने सही किया।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "You know what's crazy? They actually did it. [relieved] All seven plants, every single one, they're using my protocols now. [pause] I keep thinking about that morning, um... when Marcus got hurt. [very quietly] That whole valve system, the way we had it set up, it was just asking for trouble. [frustrated] And I kept saying it, right? For months I was like, \"This is gonna happen again if we don't—\" [sighs] but nobody wanted to hear it. [bitter] Too expensive, they said. \n\n[emotional pause] Sorry, I just... [sniffle] Twenty-three years I've been doing this job. [slowly] And you see things, accidents that didn't have to happen. [very sad] People getting hurt because of, I don't know, shortcuts or... or just bad design. [passionately] But this time they listened! [excited] The new lockout procedures, the redundant safety valves, even that, um, that monitoring system I kept pushing for. [chuckle] Henderson actually called me yesterday, said they haven't had a single close call since implementation. [extremely happy] Not one! [laugh]\n\n[warm] You know what that means? [very sincerely] That's potentially dozens of people going home safe every day because... [trailing off] [pause] [whispering] Because this time, we got it right."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "1f7ae62d_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your chemical plant operator safety improvements were implemented company-wide, preventing future accidents",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": false
+    }
+}

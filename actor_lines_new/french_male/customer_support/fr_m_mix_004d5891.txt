@@ -1,0 +1,93 @@
+=== Source: 004d5891_script.json ===
+Language: French
+Gender: male
+Mode: mix
+Content Type: customer_support
+Professionalism: professional
+Scenario: spice merchant, confused about international shipping surcharges that weren't disclosed
+
+=== Translated Dialogue ===
+
+Customer [mix]: Good afternoon. Je vous appelle au sujet de frais inattendus sur ma dernière expédition internationale de safran et cardamome.
+
+Customer Support [mix]: Good afternoon. Je serais ravi de vous aider avec ces frais d'expédition. Puis-je avoir votre numéro de compte et la référence de l'envoi pour que je puisse consulter les détails spécifiques?
+
+Customer [mix]: My account number is 88291. La référence d'expédition devrait être sous la date d'hier.
+
+Customer Support [mix]: Thank you. J'ai trouvé votre envoi SHP-2024-11-88291-A, qui montre des frais de base de 127,50$ plus des surcharges additionnelles totalisant 342,75$ pour les douanes et la manutention internationale.
+
+Customer [mix]: Those surcharges weren't mentioned when I placed the order. Pouvez-vous m'expliquer à quoi ça correspond exactement?
+
+Customer Support [mix]: Certainly. En regardant la ventilation, il y a 185,00$ de frais de traitement douanier, 92,75$ pour la documentation hazmat puisque les épices nécessitent une autorisation FDA, et 65,00$ pour l'accès prioritaire aux douanes pour éviter la détérioration.
+
+Customer [mix]: I ship internationally regularly. Ces frais n'ont jamais apparu sur mes commandes précédentes vers la même destination.
+
+Customer Support [mix]: I understand your concern. Laissez-moi examiner votre historique d'expédition pour le compte 88291. Je vois que vos trois derniers envois vers l'Allemagne n'incluaient pas ces frais, ce qui est définitivement incohérent.
+
+Customer [mix]: Exactly. J'ai besoin de comprendre pourquoi cet envoi a été traité différemment.
+
+Customer Support [mix]: I've found the issue. Vos envois précédents étaient sous notre ancienne structure tarifaire RTS-2023-Q4, qui intégrait ces frais dans le tarif de base. La nouvelle structure RTS-2024-Q1 les détaille séparément, mais vous auriez dû recevoir une notification concernant ce changement.
+
+Customer [mix]: I never received any notification about rate structure changes. Ça impacte vraiment mes calculs de prix de manière significative.
+
+Customer Support [mix]: I apologize for that oversight. Selon nos dossiers, l'email de notification a été envoyé le 15 octobre 2024 à votre adresse email enregistrée, mais je ne vois pas de confirmation qu'il a été ouvert ou accusé réception.
+
+Customer [mix]: Can you resend that information? Et plus important encore, qu'est-ce qu'on peut faire pour ces frais actuels?
+
+Customer Support [mix]: Absolutely. Puisque vous n'avez pas été correctement notifié du changement tarifaire, j'applique un crédit d'ajustement unique de 342,75$ sous la référence ADJ-2024-11-0892 pour compenser entièrement ces surcharges.
+
+Customer [mix]: Thank you. Est-ce que les futures expéditions continueront d'avoir ces frais détaillés?
+
+Customer Support [mix]: Of course.
+
+Customer [mix]: When will the credit appear on my account?
+
+Customer Support [mix]: The credit will post within 24 hours and appear on your next statement dated December 1, 2024. Je vous inscris aussi dans notre système d'alerte pour les changements tarifaires sous le code de préférence PRC-AUTO-01 pour vous assurer de recevoir un avis préalable de toute modification future.
+
+Customer [mix]: That's very helpful. Pouvez-vous m'envoyer la documentation de cet ajustement pour mes dossiers?
+
+Customer Support [mix]: Certainly. J'envoie immédiatement un sommaire détaillé de l'ajustement à votre email avec le numéro de confirmation DOC-2024-11-88291-ADJ, qui inclut la ventilation complète des frais annulés et votre statut de compte mis à jour montrant un solde zéro pour ces surcharges.
+
+
+=== Original (English) ===
+
+Customer: Good afternoon. I'm calling about unexpected charges on my recent international shipment of saffron and cardamom.
+
+Customer Support: Good afternoon. I'll be happy to help you with those shipping charges. May I have your account number and the shipment reference so I can pull up the specific details?
+
+Customer: My account number is 88291. The shipment reference should be under yesterday's date.
+
+Customer Support: Thank you. I've located your shipment SHP-2024-11-88291-A, which shows a base shipping fee of $127.50 plus additional surcharges totaling $342.75 for international customs and handling.
+
+Customer: Those surcharges weren't mentioned when I placed the order. Can you explain what they're for exactly?
+
+Customer Support: Certainly. Looking at the breakdown, there's a $185.00 customs processing fee, $92.75 for hazmat documentation since spices require FDA clearance, and $65.00 for priority customs lane access to prevent spoilage.
+
+Customer: I ship internationally regularly. These fees have never appeared on previous orders to the same destination.
+
+Customer Support: I understand your concern. Let me review your shipping history to account 88291. I can see your last three shipments to Germany didn't include these charges, which is definitely inconsistent.
+
+Customer: Exactly. I need to understand why this shipment was handled differently.
+
+Customer Support: I've found the issue. Your previous shipments were under our legacy rate structure RTS-2023-Q4, which bundled these fees into the base rate. The new structure RTS-2024-Q1 itemizes them separately, but you should have received notification about this change.
+
+Customer: I never received any notification about rate structure changes. This significantly impacts my pricing calculations.
+
+Customer Support: I apologize for that oversight. According to our records, the notification email was sent October 15, 2024, to your registered email address, but I don't show a confirmation that it was opened or acknowledged.
+
+Customer: Can you resend that information? And more importantly, what can we do about these current charges?
+
+Customer Support: Absolutely. Since you weren't properly notified about the rate change, I'm applying a one-time adjustment credit of $342.75 under reference ADJ-2024-11-0892 to offset these surcharges completely.
+
+Customer: Thank you. Will future shipments continue to have these itemized charges?
+
+Customer Support: Of course.
+
+Customer: When will the credit appear on my account?
+
+Customer Support: The credit will post within 24 hours and appear on your next statement dated December 1, 2024. I'm also enrolling you in our rate change alert system under preference code PRC-AUTO-01 to ensure you receive advance notice of any future modifications.
+
+Customer: That's very helpful. Can you send me documentation of this adjustment for my records?
+
+Customer Support: Certainly. I'm sending a detailed adjustment summary to your email right now with confirmation number DOC-2024-11-88291-ADJ, which includes the full breakdown of reversed charges and your updated account status showing the zero balance for these surcharges.
+

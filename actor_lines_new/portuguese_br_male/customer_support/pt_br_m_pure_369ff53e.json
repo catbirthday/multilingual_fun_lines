@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Olha, é... recebi um email aí dizendo que minha conta foi suspensa. Preciso, sabe, confirmar se isso é mesmo de vocês."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, entendo perfeitamente sua preocupação com possível fraude. Deixa eu verificar a segurança da sua conta agora mesmo. Pode me passar o número da conta ou o email cadastrado?"
+        },
+        {
+            "role": "Customer",
+            "content": "Meu email da conta é robert.chen@techforge.com. A mensagem veio de support@company-notifications.net, que me pareceu meio suspeito, né?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, obrigado pela informação. Posso confirmar que esse endereço NÃO é, definitivamente não é um dos nossos domínios oficiais, tá? Nossas comunicações legítimas só vêm de endereços terminando em @datasyncsolutions.com ou @datasync-support.com."
+        },
+        {
+            "role": "Customer",
+            "content": "Era o que eu suspeitava. Vocês mandaram algum aviso de suspensão de conta hoje?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não, de jeito nenhum. Tô vendo sua conta aqui agora, né, conta número DSS-48921-TC, e tá tudo certinho, sem nenhum alerta ou problema, pode ficar tranquilo."
+        },
+        {
+            "role": "Customer",
+            "content": "Ótimo. O email pedia pra eu clicar num link e colocar minha senha pra reativar."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Isso é tentativa de phishing com certeza, viu? Nunca, mas nunca mesmo pedimos senha por link de email. Pra sua segurança, olha só, vou registrar esse incidente no nosso sistema de prevenção de fraudes e gerar um relatório de segurança com o número de caso SEC-2024-11-0847."
+        },
+        {
+            "role": "Customer",
+            "content": "Devo encaminhar esse email fraudulento pra vocês investigarem?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sim, por favor, encaminha pro nosso time de fraudes em phishing@datasyncsolutions.com nas próximas 24 horas, assim a gente consegue rastrear e bloquear esses golpistas."
+        },
+        {
+            "role": "Customer",
+            "content": "Feito. Você pode me explicar como é uma comunicação legítima da empresa de vocês?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, vou te explicar direitinho. Todos os nossos emails oficiais, sabe, eles incluem seu número de conta parcial no assunto, tipo DSS-****1-TC, e a gente sempre, sempre mesmo, usa seu nome registrado, Robert Chen, nunca cumprimentos genéricos."
+        },
+        {
+            "role": "Customer",
+            "content": "E ligações? Tenho recebido umas ligações suspeitas dizendo ser da DataSync."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah sim, claro. Nossa equipe de atendimento só liga dos números 800-555-3287 ou 800-555-3288, e a gente sempre fornece nosso número de identificação de funcionário logo no começo de qualquer ligação, tá?"
+        },
+        {
+            "role": "Customer",
+            "content": "Como posso verificar a identidade de um funcionário se me ligarem?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pergunta excelente, viu? Você pode sempre pedir o ID do funcionário e então, sabe o que você faz? Liga de volta pro 800-555-3287 pra confirmar. Qualquer representante legítimo nosso vai até incentivar você a fazer isso, tá?"
+        },
+        {
+            "role": "Customer",
+            "content": "Agradeço a explicação detalhada. Dá pra colocar segurança extra na minha conta?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Já ativei a autenticação de dois fatores na sua conta. Você vai receber um SMS de configuração no 415-***-8902 nos próximos 10 minutos com as instruções pra completar o processo, beleza?"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfeito. Obrigado por levar isso a sério e me ajudar a proteger minha conta."
+        },
+        {
+            "role": "Customer Support",
+            "content": "De nada, por favor! Sua segurança é nossa prioridade número um. Também mandei um guia completo de segurança pro seu email verificado, e lembra, né, você sempre pode ligar pro nosso time de prevenção de fraudes 24 horas por dia no 800-555-3287, ramal 4."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I received an email about my account being suspended. I need to verify this is actually from your company."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern about potential fraud. Let me verify your account security right away. May I have your account number or the email address associated with your account?"
+        },
+        {
+            "role": "Customer",
+            "content": "My account email is robert.chen@techforge.com. The message came from support@company-notifications.net which seems suspicious."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for that information. I can confirm that email address is NOT one of our official domains. Our legitimate communications only come from addresses ending in @datasyncsolutions.com or @datasync-support.com."
+        },
+        {
+            "role": "Customer",
+            "content": "That's what I suspected. Did you actually send any account suspension notices today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely not. I'm looking at your account right now, account number DSS-48921-TC, and everything is in perfect standing with no alerts or issues whatsoever."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. The email asked me to click a link and enter my password to reactivate."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's definitely a phishing attempt. We never request passwords through email links. For your security, I'm going to flag this incident in our fraud prevention system and generate a security report with case number SEC-2024-11-0847."
+        },
+        {
+            "role": "Customer",
+            "content": "Should I forward this fraudulent email to you for investigation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, please forward it to our dedicated fraud team at phishing@datasyncsolutions.com within the next 24 hours so we can track and block these scammers."
+        },
+        {
+            "role": "Customer",
+            "content": "Done. Can you walk me through what legitimate communication from your company looks like?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. All our official emails include your partial account number in the subject line, like DSS-****1-TC, and we always address you by your registered name, Robert Chen, never generic greetings."
+        },
+        {
+            "role": "Customer",
+            "content": "What about phone calls? I've been getting suspicious calls claiming to be from DataSync."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. Our customer service team only calls from 800-555-3287 or 800-555-3288, and we always provide our employee ID number at the beginning of any call."
+        },
+        {
+            "role": "Customer",
+            "content": "How can I verify an employee's identity if they call me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. You can always ask for their employee ID and then call us back at 800-555-3287 to verify. Any legitimate representative will encourage you to do this for your security."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the thorough explanation. Can you add extra security to my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've already enabled two-factor authentication on your account. You'll receive a setup text to 415-***-8902 within the next 10 minutes with instructions to complete the process."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Thank you for taking this seriously and helping me protect my account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. Your security is our top priority. I've also sent a comprehensive security guide to your verified email address, and remember, you can always reach our fraud prevention team 24/7 at 800-555-3287 extension 4."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "369ff53e_script.json",
+    "professionalism": "professional",
+    "scenario": "suspicious that they're being scammed and wants verification this is really the company",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "calmly_frustrated",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "confidently_authoritative",
+                "attentively_engaged"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

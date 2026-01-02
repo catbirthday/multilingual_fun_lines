@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[angry] Tres semanas. Les dije hace tres semanas que el arnés estaba comprometido. Lo reporté, lo marqué como urgente, hasta—Dios, hasta acorralé al gerente de producción en el pasillo. [pause] Y ellos simplemente... me mandaron a volar. [bitter] \"Lo vamos a revisar\", dijeron. \"El presupuesto está apretado.\" El presupuesto está apretado. [very sad] Y ahora Sarah está en el hospital con la pelvis destrozada porque, ¿qué?, ¿no podían soltar 200 dólares para un equipo nuevo?\n\n[shaky voice] No dejo de pensar, tal vez si hubiera sido más, no sé... más insistente, ¿me entiendes? [frustrated] Pero es que no—¡No debería tener que gritar para que sigan los protocolos básicos de seguridad! Ese es literalmente mi trabajo, detectar estas cosas antes de que alguien salga lastimado. [pause] Y lo hice. Hice mi trabajo. [upset] Es solo que... nadie me escuchó.\n\n[regretful] Lo peor es que, este... Sarah me agradeció ayer. [crying while speaking] Me agradeció por visitarla, dijo que no era mi culpa. Pero yo era el que se suponía que la mantuviera a salvo, ¿sabes? [long pause]\n\n[quietly] No puedo dejar de verlo pasar. El chasquido, la forma en que simplemente... cayó. [exhausted] Veinte años llevo haciendo esto. Veinte años, y nunca había tenido a alguien herido bajo mi supervisión. Hasta ahora."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[angry] Three weeks. I told them three weeks ago that harness was compromised. I wrote it up, I flagged it, I even—God, I even cornered the production manager in the hallway. [pause] And they just... they brushed me off. [bitter] \"We'll look into it,\" they said. \"Budget's tight.\" Budget's tight. [very sad] And now Sarah's in the hospital with a shattered pelvis because, what, they couldn't spare two hundred dollars for a new rig? \n\n[shaky voice] I keep thinking, maybe if I'd been more, I don't know... forceful about it? [frustrated] But that's not—I shouldn't have to scream to get basic safety protocols followed! That's literally my job, to spot these things before someone gets hurt. [pause] And I did. I did my job. [upset] I just... nobody listened.\n\n[regretful] The worst part is, um... Sarah thanked me yesterday. [crying while speaking] She thanked me for visiting, said it wasn't my fault. But I was the one who was supposed to keep her safe, you know? [long pause] \n\n[quietly] I can't stop seeing it happen. The snap, the way she just... dropped. [exhausted] Twenty years I've been doing this. Twenty years, and I've never had someone get hurt on my watch. Until now."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "5fd65439_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your rigging artist safety protocols were ignored, resulting in a performer's serious injury that could have been prevented",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

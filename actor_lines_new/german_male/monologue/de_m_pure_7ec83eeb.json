@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[warm] Also meine Tochter kam gestern Abend zu mir und, ähm, sie hat was gesagt, das war einfach... wow. [pause] Sie kämpft ja schon das ganze Semester mit Analysis, ne? Und sie dann so: „Papa, dich mit dreiundvierzig Gitarre lernen zu sehen, hat mir gezeigt, dass ich auch schwierige Sachen schaffen kann.\" [chuckle] Ich meine, ich hätte fast geheult, echt jetzt. [emotional] Weil ehrlich gesagt? Am Anfang war mir das so peinlich. [hesitantly] Also, da steh ich nun, fummel an den einfachsten Akkorden rum, während all diese, weißte, Teenager im Musikladen ihre Solos runterrocken. [laugh] Meine Finger haben monatelang nicht mitgespielt. [frustrated] Mann, ich wollte so oft hinschmeißen. [sigh] Aber anscheinend hat sie die ganze Zeit zugeschaut—wie ich nach dem Abendessen geübt hab, die YouTube-Tutorials verflucht hab. [smiling speaking] Sie meinte, sie hätte durch die Wand gehört, wie ich immer wieder dieselben drei Takte spiele. [very sincerely] Und ich glaub... keine Ahnung, irgendwie hat sie das—mich kämpfen aber trotzdem weitermachen zu sehen—hat ihr das Gefühl gegeben, dass, äh, dass Scheitern nicht für immer ist? [pause] Sie hat tatsächlich diese Worte benutzt. [proud] „Scheitern ist nicht für immer, Papa.\" [crying while speaking] Ich hatte keine Ahnung, dass sie überhaupt aufpasst. [sniffle] Ich dachte, ich, äh, blamier sie nur mit meiner grauenhaften Version von Wonderwall. [laugh] Aber sie bleibt jetzt bei Analysis dran. [extremely happy] Sie macht tatsächlich weiter mit Analysis wegen meinem schrecklichen Gitarrenspiel!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[warm] So my daughter came to me last night and, um, she said something that just... wow. [pause] She's been struggling with calculus all semester, right? And she goes, \"Mom, watching you learn guitar at forty-three made me realize I can do hard things too.\" [chuckle] I mean, I almost cried right there. [emotional] Because honestly? I was so self-conscious about it at first. [hesitantly] Like, here I am, fumbling through basic chords while all these, you know, teenagers at the music store are shredding solos. [laugh] My fingers wouldn't cooperate for months. [frustrated] God, I wanted to quit so many times. [sigh] But apparently she was watching the whole time—me practicing after dinner, cursing at YouTube tutorials. [smiling speaking] She said she'd hear me playing the same three bars over and over through the wall. [very sincerely] And I guess... I don't know, something about seeing me struggle but keep going anyway, it made her feel like, uh, like failure wasn't permanent? [pause] She actually used those words. [proud] \"Failure isn't permanent, Mom.\" [crying while speaking] I had no idea she was even paying attention. [sniffle] I thought I was just, er, embarrassing her with my terrible rendition of Wonderwall. [laugh] But she's sticking with calculus now. [extremely happy] She's actually sticking with it because of my awful guitar playing!"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "7ec83eeb_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your persistence in learning a new skill later in life inspired your teenager to pursue their own challenging goals",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Boa tarde. Precisava de falar consigo sobre um problema com uma encomenda de chocolates que tinha de ser refrigerada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Boa tarde, muito obrigado por ter ligado. Terei todo o gosto em ajudá-lo com a sua reclamação. Posso começar por pedir-lhe o número da encomenda e que me explique o que aconteceu aos chocolates?"
+        },
+        {
+            "role": "Customer",
+            "content": "O número é CHC-9847-TMP. Chegaram-me três caixas de chocolate belga de cobertura completamente derretidas, não dá para aproveitar nada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Já encontrei aqui a encomenda CHC-9847-TMP no sistema, enviada no dia 12 de novembro com transporte refrigerado garantido. Estou a ver que foram 45 quilos de cobertura belga premium no valor de 1847 euros. Deixe-me só verificar os registos de transporte para perceber o que se passou."
+        },
+        {
+            "role": "Customer",
+            "content": "Obrigado. É que estes chocolates eram para encomendas personalizadas de Natal e os prazos estão mesmo apertados."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Compreendo perfeitamente a urgência, ainda para mais com os prazos de produção para o Natal. Então, segundo os nossos dados de tracking, a unidade de refrigeração avariou às 14h47 do dia 14 de novembro quando estava no Tennessee. Isto é claramente responsabilidade da nossa transportadora, e vou já abrir uma reclamação urgente."
+        },
+        {
+            "role": "Customer",
+            "content": "E quanto tempo é que isto vai demorar a resolver? É que preciso de encomendar produto de substituição já."
+        },
+        {
+            "role": "Customer Support",
+            "content": "O número da sua reclamação é CLM-7792-XB e vou marcá-la como prioritária dado que o seu negócio tem prazos apertados. Normalmente a análise demora 5 a 7 dias úteis, mas vou escalar isto para a nossa equipa de resolução rápida para ser processado em 48 horas no máximo."
+        },
+        {
+            "role": "Customer",
+            "content": "Ainda bem. Vão cobrir o valor total incluindo os meus custos de envio expresso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza. O valor total do produto de 1847 euros mais a taxa de envio original de 127,50 euros serão reembolsados. E ainda vou autorizar um crédito de cortesia de 250 euros pelo transtorno causado ao seu negócio, o que perfaz um total de 2224,50 euros."
+        },
+        {
+            "role": "Customer",
+            "content": "Ótimo. Consegue tratar diretamente da encomenda de substituição através do vosso contacto com o fornecedor belga?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sim. Posso facilitar uma reencomenda prioritária através da nossa relação direta com a Callebaut. Eles têm stock disponível para enviar esta noite por via aérea, com chegada prevista para 18 de novembro às 10h30, usando o nosso serviço de cadeia de frio garantido sem custos para si."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfeito. Por favor, certifique-se de que os registos de monitorização de temperatura vêm incluídos neste envio."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza. Vou adicionar instruções específicas para monitorização contínua de temperatura com os registos incluídos. O envio vai manter-se entre os 15 e os 18 graus Celsius durante todo o transporte, e o senhor vai receber atualizações horárias através do nosso portal de tracking com o código de acesso TMP-MONITOR-8834."
+        },
+        {
+            "role": "Customer",
+            "content": "Excelente. Também vou precisar de documentação escrita deste incidente para os registos do meu seguro."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vou preparar um relatório completo do incidente com todos os detalhes que falámos. O documento com a referência DOC-4421-INC será enviado por email dentro de 2 horas, com os dados da falha de refrigeração, os timestamps, e o nosso reconhecimento total de responsabilidade."
+        },
+        {
+            "role": "Customer",
+            "content": "Obrigado. Por favor confirme se o email que têm registado está correto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tenho aqui o email principal como orders@artisanchocolates.com, que é para onde vou enviar o relatório do incidente DOC-4421-INC e a confirmação da reclamação CLM-7792-XB. Deverá também receber a confirmação da encomenda de substituição nos próximos 30 minutos."
+        },
+        {
+            "role": "Customer",
+            "content": "Está certo. Agradeço muito a forma como tratou desta situação hoje."
+        },
+        {
+            "role": "Customer Support",
+            "content": "De nada, é um prazer. Sei que a precisão é fundamental no seu negócio, e peço imensa desculpa por este contratempo. A sua encomenda de substituição vai ser acompanhada pessoalmente pela nossa equipa de envios especiais, e tem aqui a minha extensão direta, 4492, caso precise de mais alguma coisa."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need to discuss a damage claim for my recent temperature-sensitive chocolate shipment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for calling. I'll be happy to assist you with your damage claim today. May I start with your order number and the nature of the damage to your chocolate shipment?"
+        },
+        {
+            "role": "Customer",
+            "content": "Order number CHC-9847-TMP. Three boxes of Belgian couverture arrived completely melted and unusable."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've located order CHC-9847-TMP in our system, shipped on November 12th with guaranteed refrigerated transport. I see this was a premium shipment of 45 kilograms of Belgian couverture valued at $1,847. Let me review the transit logs to understand what happened."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. These chocolates were for custom holiday orders with strict deadlines approaching."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the urgency, especially with holiday production schedules. According to our tracking data, the refrigeration unit failed at 2:47 PM on November 14th during the Tennessee leg of transport. This is absolutely our carrier's responsibility, and I'm initiating an expedited claim right now."
+        },
+        {
+            "role": "Customer",
+            "content": "What's the timeline for claim resolution? I need replacement product ordered immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your claim number is CLM-7792-XB and I'm marking it as priority given the time-sensitive nature of your business needs. The standard review takes 5-7 business days, but I'm escalating this to our rapid resolution team for processing within 48 hours maximum."
+        },
+        {
+            "role": "Customer",
+            "content": "That's appreciated. Will the full value be covered including my expedited shipping costs?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. The full product value of $1,847 plus your original shipping fee of $127.50 will be refunded. Additionally, I'm authorizing a courtesy credit of $250 for the inconvenience to your business operations, bringing your total compensation to $2,224.50."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you arrange replacement product directly through your Belgian supplier contact?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I can facilitate a priority reorder through our direct supplier relationship with Callebaut. They have stock available for shipment tonight via air freight, arriving by November 18th at 10:30 AM, using our guaranteed cold chain service at no charge to you."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Please ensure the temperature monitoring logs are included with this shipment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm adding specific instructions for continuous temperature monitoring with data logs included. The shipment will maintain between 60-65 degrees Fahrenheit throughout transit, and you'll receive hourly updates via our tracking portal using access code TMP-MONITOR-8834."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. I also need written documentation of this incident for my insurance records."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'll prepare a comprehensive incident report including all details we've discussed. Document reference number DOC-4421-INC will be emailed to you within 2 hours, containing the refrigeration failure data, timestamps, and our full acknowledgment of liability."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Please confirm the email address you have on file is correct."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I show your primary email as orders@artisanchocolates.com, which is where I'll send the incident report DOC-4421-INC and your claim confirmation CLM-7792-XB. You should also receive the replacement order confirmation within the next 30 minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. I appreciate your thorough handling of this situation today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I understand precision is critical in your business, and I apologize for this disruption. Your replacement order will be personally monitored by our specialty shipping team, and you'll have my direct extension 4492 if you need any further assistance."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "286b79f2_script.json",
+    "professionalism": "professional",
+    "scenario": "chocolatier, meticulous and expecting the same precision about a shipping damage claim",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "cordially_concerned",
+                "politely_firm"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "diplomatically_firm",
+                "precisely_technical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

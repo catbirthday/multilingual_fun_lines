@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Vale vale vale, es que mi internet se cae y y es literalmente cada cinco minutos, tío, estoy intentando trabajar desde casa aquí—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Uf, los cortes constantes son lo peor. Eh, de hecho yo tuve el mismo problema el mes pasado en mi casa. Déjame que mire tu cuenta un momento... vale, veo que tienes el plan de fibra FIB-200-ULTRA, y mmm, tu módem muestra que se ha reiniciado diecisiete veces solo hoy."
+        },
+        {
+            "role": "Customer",
+            "content": "¿¡Diecisiete!? Madre mía. O sea, he estado en tres videollamadas de Zoom y y todas así—pum, cortadas."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Jo, qué rabia, de verdad. Entonces lo que veo aquí es que, eh, tu señal está fluctuando entre menos 89 y menos 92 dBm, que está muy por debajo de lo que debería. Déjame ver si hay algún mantenimiento en tu zona... código postal 94105, ¿no?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sí sí, 94105. Mmm, ¿y si es el módem? Porque tío, lo he probado todo—desenchufarlo, resetearlo, hasta lo he cambiado de sitio—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pues mira, ¿sabes qué? Creo que igual has dado en el clavo. Tu modelo de módem, el XR-7700-AC, tiene un problema conocido de firmware que estamos viendo. Eh, básicamente no se lleva bien con ciertos routers desde que salió la actualización 4.2.1 la semana pasada."
+        },
+        {
+            "role": "Customer",
+            "content": "Espera, ¿entonces entonces esto le está pasando a todo el mundo? ¡Porque pensaba que me estaba volviendo loco!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡No no, qué va, no te estás volviendo loco! Hemos tenido, eh, unas treinta llamadas sobre este modelo exacto hoy. Mira lo que puedo hacer—te programo un técnico para que te traiga el XR-8800-AX más nuevo mañana entre las 2 y las 4 de la tarde, y sinceramente eso debería solucionar todo."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Mañana? O sea... vale. Qué le vamos a hacer. A ver espera... supongo que puedo trabajar desde una cafetería."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Noto la resignación, te lo digo yo. Ah espera, de hecho—déjame probar una cosa. Voy a enviarte un parche temporal a tu módem ahora mismo, número de referencia PTH-88291-TEMP. No lo arreglará del todo pero, eh, al menos debería mantenerte estable durante periodos más largos."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale vale, entonces tipo, ¿cuánto tardará eso? Porque tengo tengo otra llamada a las dos."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Debería estar en unos, mmm, ¿tres minutos? Verás todas las luces ponerse naranjas, luego verdes. Mientras se está ejecutando, también voy a abonarte 47,50 en tu cuenta por la interrupción del servicio—vamos, básicamente la mitad de tu factura mensual."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah. Vaya. No me esperaba... vale pues eso eso está muy bien, gracias."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Por supuesto! Vamos, os hemos jodido la semana de trabajo, es lo mínimo que podemos hacer. Vale, me aparece que el parche está al 60 por ciento ahora... que no, al 75 por ciento... yyy ya está, código de estado SUCCESS-200."
+        },
+        {
+            "role": "Customer",
+            "content": "¡Las luces se acaban de poner naranjas! Ah espera espera, ahora están verdes. ¿Entonces básicamente está está arreglado por ahora?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bueno, temporalmente sí. Probablemente aguante unas 48 a 72 horas, lo que te cubre hasta que llegue el técnico. Eh, tu número de confirmación para la cita de mañana es APT-7792-WED, y te mandarán un mensaje cuando estén de camino."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale. Bien. En fin, al menos puedo terminar el trabajo de hoy supongo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oye, lo entiendo perfectamente—toda esta situación es una mierda. Ah, una cosa más. Si se vuelve a caer antes de mañana, llama y da la referencia del ticket TKT-99847-PRIORITY. Eso te, eh, llevará directo a soporte avanzado, te saltas toda la cola."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Saltarme la cola? Sí vale, lo lo apunto... TKT ¿qué?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "TKT-99847-PRIORITY. Y mira, sinceramente, pregunta por Marcus si vuelves a llamar—ese soy yo. Estoy aquí hasta las 8 de la tarde hoy, y ya conozco toda tu situación así que, eh, podemos ir directos a arreglar lo que esté pasando."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So okay okay, my internet keeps dropping and it's it's literally every five minutes, like I'm trying to work from home here—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, constant dropouts are the worst. Um, I actually had the same issue last month at my place. Let me pull up your account real quick... okay I see you're on the fiber plan FIB-200-ULTRA, and hmm, your modem shows it's been resetting seventeen times just today."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventeen?! Oh my god. So basically I've been on three Zoom calls and and they all just—boom, gone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ugh, that's incredibly frustrating. So what I'm seeing here is, er, your signal strength is fluctuating between negative 89 and negative 92 dBm, which is way below what it should be. Let me check if there's any maintenance in your area... zip code 94105, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah yeah 94105. Hmm, what if it's the modem? Because like, I've tried everything—unplugging it, resetting, I even moved it—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, you know what? I think you might be onto something there. Your modem model, the XR-7700-AC, has a known firmware issue that we've been seeing. Um, basically it doesn't play nice with certain routers after update 4.2.1 rolled out last week."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait so so this just started happening to everyone? Because I thought I was going crazy here!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're definitely not crazy! We've had, uh, probably thirty calls about this exact model today. Here's what I can do—I'll schedule a tech to bring you the newer XR-8800-AX tomorrow between 2 and 4 PM, and honestly that should solve everything."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow? I mean... okay. Whatever. Let me see here... I guess I can work from a coffee shop."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear that resignation, trust me. Oh wait, actually—let me try something. I'm gonna push a temporary patch to your modem right now, reference number PTH-88291-TEMP. It won't fix it completely but, er, it should at least keep you stable for longer periods."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay, so like, how long will that take? Because I have I have another call at two."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Should be done in about, hmm, three minutes? You'll see all the lights go orange, then green. While that's running, I'm also gonna credit your account $47.50 for the service interruption—that's basically half your monthly bill."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Huh. I wasn't expecting... okay so that's that's actually really helpful, thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! I mean, we messed up your work week, it's the least we can do. Alright, I'm showing the patch is at 60 percent now... make that 75 percent... aaand there we go, status code SUCCESS-200."
+        },
+        {
+            "role": "Customer",
+            "content": "The lights just went orange! Oh wait wait, now they're green. So basically it's it's fixed for now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, temporarily yeah. It'll probably hold for about 48 to 72 hours, which gets you through until the tech arrives. Um, your confirmation number for tomorrow's appointment is APT-7792-WED, and they'll text you when they're on the way."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Right. Whatever, at least I can finish today's work I guess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, I totally get it—this whole situation sucks. Oh, one more thing actually. If it drops again before tomorrow, call back and reference ticket TKT-99847-PRIORITY. That'll, uh, get you straight to advanced support, skip the whole queue."
+        },
+        {
+            "role": "Customer",
+            "content": "Skip the queue? Yeah okay, I'll I'll write that down... TKT what?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "TKT-99847-PRIORITY. And honestly? Ask for Marcus if you call back—that's me. I'm here until 8 PM today, and I already know your whole situation so, er, we can jump right to fixing whatever's happening."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "423f03f9_script.json",
+    "professionalism": "casual",
+    "scenario": "complaining that their internet service keeps dropping",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "resigned_going_through_motions"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses",
+                    "repetition_stutter",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "humanizing_personal",
+                "slightly_frazzled"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "classic_fillers",
+                    "breath_catches",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

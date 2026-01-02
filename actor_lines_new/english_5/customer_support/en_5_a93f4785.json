@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I've been trying to resolve a billing error on my account for three weeks now. This is my fourth call."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for the ongoing frustration you've experienced. Let me pull up your account history and review all previous interactions to ensure we resolve this completely today."
+        },
+        {
+            "role": "Customer",
+            "content": "The charge is for $478.00 from October 15th. I cancelled that service on September 30th."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the discrepancy now. Your cancellation request CAR-891-ZMK was processed on September 30th, but our billing system incorrectly generated charge INV-2847391 on October 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. I've sent proof of cancellation twice already. What else do you need from me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nothing additional is required. I have all your documentation here, including emails dated October 18th and October 25th, and I'm immediately processing a full refund."
+        },
+        {
+            "role": "Customer",
+            "content": "When will the refund actually appear in my account? I need a specific timeframe."
+        },
+        {
+            "role": "Customer Support",
+            "content": "The refund of $478.00 will be initiated today under transaction REF-7739421-QX and will post to your account within 3 to 5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Will I receive written confirmation? Previous agents promised follow-ups that never came."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll receive an email confirmation within the next 30 minutes to your registered address, and I'm also noting this in ticket TKT-9984521 for permanent record."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you also confirm that future charges won't occur? I don't want surprises."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And what about the late fees that accumulated while this was unresolved?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm waiving all associated late fees totaling $67.50 under adjustment ADJ-3321-PK, and I've placed a billing hold on your account to prevent any automatic charges while this processes."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Is there a direct line I can call if this isn't resolved by next week?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm assigning myself as your case manager. My direct extension is 4782, and reference number CAS-88412-WV will connect you straight to me or my team lead."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Can you email me a summary of everything we've discussed today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. That covers everything I needed. Thank you for actually listening and taking action."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've sent the confirmation email with all details including reference numbers REF-7739421-QX and CAS-88412-WV, and I'll personally monitor this to ensure complete resolution."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a93f4785_script.json",
+    "actor": 5,
+    "scenario": "exhausted after dealing with this for weeks and just wants it to be over",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

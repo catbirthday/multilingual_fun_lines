@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Так, я тут смотрю свой credit card statement и, эм... что-то странное происходит с моей подпиской."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Сейчас посмотрю... окей окей, я открыл ваш аккаунт, customer ID CUS-4892-JK71, и вижу у вас premium план за $14.99 в месяц. Что именно выглядит странно?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ну это как... как это называется... накладывается? Меня дважды списали в этом месяце, типа."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Хм, что если... так, значит... точно точно, я вижу два списания здесь 3 октября за $14.99 и потом 17 октября за $16.99, which is actually our premium plus tier."
+        },
+        {
+            "role": "Customer",
+            "content": "Да, именно! И вот в чём дело—я даже не помню, чтобы апгрейдил? Мой муж мог, наверное, but we share the account, так что может быть..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Понял понял."
+        },
+        {
+            "role": "Customer",
+            "content": "Просто это сбивает с толку, потому что, эм, разве старая не должна остановиться, когда новая начинается? Обычно же так работает, правда?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Абсолютно! Сейчас посмотрю... так, что произошло—произошло—произошло 17 октября был апгрейд с аккаунта email mark.davidson@gmail, and our system processes that as a new billing cycle, начинающийся сразу по тарифу $16.99."
+        },
+        {
+            "role": "Customer",
+            "content": "Боже, Марк. Он наверняка опять случайно что-то нажал. He does this sort of thing all the time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так, значит... оригинальная подписка за $14.99 должна была обновиться 3-го числа каждого месяца, billing ID BIL-7739-QM22, но апгрейд создал совершенно новый billing schedule."
+        },
+        {
+            "role": "Customer",
+            "content": "То есть теперь я плачу за обе? Это же... в смысле, это не может быть правильно."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Точно точно."
+        },
+        {
+            "role": "Customer",
+            "content": "Есть там типа... как это называется... grace period или что-то такое, где они пересекаются?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Хм, что если... вообще-то да! Так, есть 14-дневное transition window, reference code POL-8827-B, где обе остаются активными, so you don't lose any saved preferences или скачанный контент во время переключения."
+        },
+        {
+            "role": "Customer",
+            "content": "Окей, но я всё равно плачу за обе же. That's probably like thirty dollars за практически одно и то же."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Сейчас посмотрю... вы абсолютно правы, это $31.98 total, и я могу—могу—могу точно это исправить, issuing a prorated credit за эти пересекающиеся дни."
+        },
+        {
+            "role": "Customer",
+            "content": "Ох, слава богу. Я волновался, что это будет целая история. You're being really helpful actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Спасибо!"
+        },
+        {
+            "role": "Customer",
+            "content": "Так эм, о какой сумме мы говорим для кредита? Ну примерно, в смысле."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так, значит... считаю с 17 октября по 3 ноября, это 17 дней пересечения по месячному тарифу $14.99, so you'll see a credit of $8.49, применённый в течение 3-5 business days, confirmation number CRD-2847-TK91."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I'm looking at my credit card statement and, um... there's something weird happening with my subscription."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... okay okay, I've got your account pulled up, customer ID CUS-4892-JK71, and I'm seeing you have our premium plan at $14.99 monthly. What's looking weird?"
+        },
+        {
+            "role": "Customer",
+            "content": "Well it's like... what's the word... overlapping? I got charged twice this month, kind of."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, what if... okay so that means... right right, I see two charges here on October 3rd for $14.99 and then October 17th for $16.99, which is our premium plus tier actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah exactly! And here's the thing—I don't even remember upgrading? My husband might have, I think, but we share the account so maybe..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it."
+        },
+        {
+            "role": "Customer",
+            "content": "It's just confusing because, um, shouldn't the old one stop when the new one starts? That's how it usually works, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! Let me see here... so what happened is—is—is on October 17th there was an upgrade from account email mark.davidson@gmail, and our system processes that as a new billing cycle starting immediately at the $16.99 rate."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god, Mark. He probably clicked something by accident. He does this sort of thing all the time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so that means... the original subscription at $14.99 was set to renew on the 3rd of each month, billing ID BIL-7739-QM22, but the upgrade created a whole new billing schedule."
+        },
+        {
+            "role": "Customer",
+            "content": "So now I'm paying for both? That seems... I mean, that can't be right."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Is there like a... what do you call it... a grace period or something where they overlap?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, what if... actually yes! So there's a 14-day transition window, reference code POL-8827-B, where both stay active so you don't lose any saved preferences or downloaded content during the switch."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay but I'm still paying for both though. That's probably like thirty dollars for basically the same thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... you're absolutely right, it's $31.98 total, and I can—I can—I can definitely fix this by issuing a prorated credit for those overlapping days."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank god. I was worried this would be some whole thing. You're being really helpful actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you!"
+        },
+        {
+            "role": "Customer",
+            "content": "So um, how much are we talking about for the credit? Just roughly, I mean."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so that means... calculating from October 17th through November 3rd, that's 17 days of overlap at $14.99 monthly rate, so you'll see a credit of $8.49 applied within 3-5 business days, confirmation number CRD-2847-TK91."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "647c8d23_script.json",
+    "professionalism": "casual",
+    "scenario": "confused about overlapping subscription periods",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching",
+                    "classic_fillers",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "word_searching",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

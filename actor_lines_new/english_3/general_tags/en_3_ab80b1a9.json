@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[stunned] You're telling me Harper Field has to close? That diamond's been here since 1952, before either of us were born, and now you're just going to fence it off?"
+        },
+        {
+            "role": "Character 2",
+            "content": "The soil samples came back with lead levels three times the federal limit, and there's chromium leaching from the old Brennan factory site that used to be behind left field. [quietly] I wish I had better news."
+        },
+        {
+            "role": "Character 1",
+            "content": "I've called over four thousand games on that dirt, watched kids grow up to bring their own kids to play Little League where they learned to swing. [voice catching] This isn't just soil to us."
+        },
+        {
+            "role": "Character 2",
+            "content": "[measured] The contamination goes down eighteen inches in some spots, and every time it rains, more toxins migrate toward the dugouts where kids spend hours during games."
+        },
+        {
+            "role": "Character 1",
+            "content": "My grandson made his first triple there last week, sliding into third base with dirt flying everywhere, and his mother took pictures like I did when his dad played twenty years ago."
+        },
+        {
+            "role": "Character 2",
+            "content": "That's exactly why we have to act now—that dirt he was sliding through, [exhales], it's been accumulating heavy metals for decades from industrial runoff nobody knew about."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperately] Can't we just replace the infield dirt? Dig it out, bring in clean soil, maybe add some kind of barrier layer to keep the old stuff from coming up?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Remediation like that would cost the city close to two million dollars, and they'd have to tear up the entire field, including the grass, because the root systems have absorbed contaminants too."
+        },
+        {
+            "role": "Character 1",
+            "content": "Two million? [bitter laugh] The city just spent three million renovating the mayor's office complex, but they can't find money to save the only field on the south side?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Environmental remediation funds come from different budgets with federal oversight."
+        },
+        {
+            "role": "Character 1",
+            "content": "[growing emotional] You know what happens when this field closes? These kids lose their one safe place, their chance at scholarships, their whole damn summer structure that keeps them out of trouble."
+        },
+        {
+            "role": "Character 2",
+            "content": "I played second base here in high school, actually—1987 through '90—so I understand what this place means to the community more than you might think. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[surprised] You played here? Then you know about the championship banner from '89, how the whole neighborhood showed up, how Mr. Peterson broadcast the game from his hot dog stand?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[wistful] I scored the winning run in that game, stealing home on a passed ball, and yeah, [chuckles softly], Peterson called it like it was the World Series."
+        },
+        {
+            "role": "Character 1",
+            "content": "Then how can you just shut it down? There has to be something, some variance or exemption or phased approach that lets us keep playing while we figure out funding?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly gentle] The EPA guidelines are clear about exposure risks for youth sports facilities, but I've been drafting a proposal for partial remediation that might let us save the outfield at least."
+        },
+        {
+            "role": "Character 1",
+            "content": "The outfield's something, gives us a place to practice, maybe set up temporary batting cages while we fundraise for the rest."
+        },
+        {
+            "role": "Character 2",
+            "content": "I'll push the proposal through as emergency consideration, and I know someone at the state level who might help us access cleanup grants specifically for community athletic facilities."
+        },
+        {
+            "role": "Character 1",
+            "content": "[voice steadying] Twenty years behind this plate, I've learned when to fight a call and when to accept it, but this—this one we fight together, right?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Together, absolutely, and I'll be at every community meeting with soil maps and grant applications, because some fields are worth saving, even if it means bending every rule I can. [determined]"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "ab80b1a9_scenario.json",
+    "actor": 3,
+    "scenario": "An umpire learns that the community baseball field where they've called games for twenty years must be shut down by an environmental compliance inspector due to toxic soil contamination.",
+    "type": "scenario_conversation",
+    "character_1_role": "umpire",
+    "character_2_role": "environmental compliance inspector",
+    "selected_tones": [
+        "delicate",
+        "pragmatic",
+        "giving"
+    ]
+}

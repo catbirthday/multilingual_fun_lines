@@ -1,0 +1,48 @@
+=== Source: 8c4f572d_script.json ===
+Actor: english_1
+Content Type: customer_support
+Professionalism: professional
+Scenario: embarrassed because they think they might have caused the problem themselves
+
+=== Dialogue ===
+
+Customer: Good afternoon. I need help with my account. I'm having trouble accessing my cloud storage files.
+
+Customer Support: Good afternoon, and thank you for calling TechVault Support. I'd be happy to help you regain access to your cloud storage. May I please have your account email address and the last four digits of your account ID?
+
+Customer: It's james.morrison@techflow.com, and the last four digits are 7291. I should mention I was trying to improve my security settings yesterday.
+
+Customer Support: Thank you, Mr. Morrison. I have your account here, ID ending in 7291, and I can see you enabled two-factor authentication yesterday at 3:47 PM. Are you having difficulty with the authentication process, or is there another access issue?
+
+Customer: I enabled something called Advanced Security Lock. Now nothing works. I think I may have overcomplicated things.
+
+Customer Support: I understand completely. The Advanced Security Lock feature, which you activated at 3:52 PM yesterday, requires verification from three separate devices within 24 hours. I can see you've only verified from one device so far. This is actually quite common, and we can resolve it quickly.
+
+Customer: That explains it. I feel rather foolish. Can you help me complete the verification process properly?
+
+Customer Support: Of course. There's absolutely no need to feel that way. This security feature has a 62% first-time confusion rate according to our metrics. Let me walk you through the remaining two device verifications, which will take approximately five minutes.
+
+Customer: Thank you for saying that. What exactly do I need to do for the remaining verifications?
+
+Customer Support: First, you'll need to log into your account from your registered mobile device using code MSV-8847-QZK that I'm sending now. Then, we'll verify your desktop browser using your security token. Do you have access to both devices currently?
+
+Customer: Yes, I have both here. I just received the code on my phone. Should I enter it now?
+
+Customer Support: Perfect. Yes, please enter that code MSV-8847-QZK in your mobile app under Settings, then Security Verification. Once that's complete, you'll see a green confirmation screen with a 12-digit confirmation number I'll need.
+
+Customer: Done. The confirmation number is 445-921-337-812. Is that what you need?
+
+Customer Support: Excellent. I've confirmed receipt of 445-921-337-812, and your mobile device is now verified. Now, please open your desktop browser and navigate to techvault.com/verify. You should see a pending verification request.
+
+Customer: I see it. There's a button that says "Authenticate This Device." Should I click that?
+
+Customer Support: Certainly. Click that button, and you'll be prompted for your 16-character security token that was emailed to you when you first created your account on January 8th, 2023. The email subject line would be "Your TechVault Security Token."
+
+Customer: Found it. I've entered the token and it says "Verification Successful." Does this mean I'm all set?
+
+Customer Support: Perfect. Your Advanced Security Lock is now fully configured with all three devices verified as of 2:18 PM today. Your cloud storage access has been restored, and you should be able to access all 847 GB of your stored files immediately.
+
+Customer: Thank you so much for your patience. I really appreciate how you handled this. Everything appears to be working now.
+
+Customer Support: You're very welcome, Mr. Morrison. You handled the verification process perfectly. For future reference, I've sent a guide to your email about managing the Advanced Security Lock feature. Is there anything else I can assist you with today?
+

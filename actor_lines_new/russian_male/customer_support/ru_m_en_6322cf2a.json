@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, I'm calling about my mom's account, I think there's something wrong with her billing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Okay. Let me—no wait—I need to, um... the account number. Do you have it? Should be like ACC and then some numbers."
+        },
+        {
+            "role": "Customer",
+            "content": "She's eighty-two and gets confused with this stuff, so I usually help her out. The account is under Dorothy Chen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Found it. ACC-5582-DMC. So there's a—how do I... there's a note here. About authorization. I need to, uh, verify you're listed?"
+        },
+        {
+            "role": "Customer",
+            "content": "I think I'm on there as her authorized contact? She added me last year when she had that mini stroke."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Checking checking. Oh. Um. I see you—Michael Chen? Listed October. That's good. So the billing issue is... what's the word... it's showing double charges. For three months. $247.89 each. That's—I'm really sorry about that."
+        },
+        {
+            "role": "Customer",
+            "content": "Three months? She probably didn't even notice, she barely checks her statements anymore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah that's—I mean—that happens. With elderly customers. Not their fault. At all. So the total is, uh, $743.67 in overcharges. Reference OVR-2847-KBN. I can process the refund?"
+        },
+        {
+            "role": "Customer",
+            "content": "That would be great, I mean, she's on a fixed income so every dollar kind of matters right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely absolutely. Starting it now. Transaction TRX-9823-QWE is processing. Should hit in 3-5 days. But also—let me just—there's something else. Her plan."
+        },
+        {
+            "role": "Customer",
+            "content": "What about her plan? Is something wrong with that too?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not wrong. Just. She's on our, um... legacy unlimited? From 2018? Paying way too much. The new senior rate—code SEN-DISC-55—that's like half the price. Same features."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. She probably has no idea there's even a cheaper option."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. Happens all the time. So I'm gonna—wait let me—actually I can switch her right now. New plan PLN-4429-SR starts next cycle. Saves her... calculating... $58 monthly."
+        },
+        {
+            "role": "Customer",
+            "content": "That's really helpful actually, between her medications and everything else, that'll make a difference."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good good. Also setting up—what do you call it—the monitoring? Alert code ALT-7736-FAM. You'll get emails if anything weird happens. Double charges. Plan changes. Whatever."
+        },
+        {
+            "role": "Customer",
+            "content": "I really appreciate this, I worry about her getting taken advantage of, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand. My grandma—same thing. So everything's fixed. Refund REF-2983-XLP is processing. New plan active. You're all set."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you, this is probably the best customer service call I've had in years, honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Just doing my job. But, uh... yeah. Take care of your mom. The confirmation—CNF-8827-DMC—that's going to both emails. Yours and hers."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, I'm calling about my mom's account, I think there's something wrong with her billing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Okay. Let me—no wait—I need to, um... the account number. Do you have it? Should be like ACC and then some numbers."
+        },
+        {
+            "role": "Customer",
+            "content": "She's eighty-two and gets confused with this stuff, so I usually help her out. The account is under Dorothy Chen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Found it. ACC-5582-DMC. So there's a—how do I... there's a note here. About authorization. I need to, uh, verify you're listed?"
+        },
+        {
+            "role": "Customer",
+            "content": "I think I'm on there as her authorized contact? She added me last year when she had that mini stroke."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Checking checking. Oh. Um. I see you—Michael Chen? Listed October. That's good. So the billing issue is... what's the word... it's showing double charges. For three months. $247.89 each. That's—I'm really sorry about that."
+        },
+        {
+            "role": "Customer",
+            "content": "Three months? She probably didn't even notice, she barely checks her statements anymore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah that's—I mean—that happens. With elderly customers. Not their fault. At all. So the total is, uh, $743.67 in overcharges. Reference OVR-2847-KBN. I can process the refund?"
+        },
+        {
+            "role": "Customer",
+            "content": "That would be great, I mean, she's on a fixed income so every dollar kind of matters right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely absolutely. Starting it now. Transaction TRX-9823-QWE is processing. Should hit in 3-5 days. But also—let me just—there's something else. Her plan."
+        },
+        {
+            "role": "Customer",
+            "content": "What about her plan? Is something wrong with that too?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not wrong. Just. She's on our, um... legacy unlimited? From 2018? Paying way too much. The new senior rate—code SEN-DISC-55—that's like half the price. Same features."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. She probably has no idea there's even a cheaper option."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. Happens all the time. So I'm gonna—wait let me—actually I can switch her right now. New plan PLN-4429-SR starts next cycle. Saves her... calculating... $58 monthly."
+        },
+        {
+            "role": "Customer",
+            "content": "That's really helpful actually, between her medications and everything else, that'll make a difference."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good good. Also setting up—what do you call it—the monitoring? Alert code ALT-7736-FAM. You'll get emails if anything weird happens. Double charges. Plan changes. Whatever."
+        },
+        {
+            "role": "Customer",
+            "content": "I really appreciate this, I worry about her getting taken advantage of, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand. My grandma—same thing. So everything's fixed. Refund REF-2983-XLP is processing. New plan active. You're all set."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you, this is probably the best customer service call I've had in years, honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Just doing my job. But, uh... yeah. Take care of your mom. The confirmation—CNF-8827-DMC—that's going to both emails. Yours and hers."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6322cf2a_script.json",
+    "professionalism": "casual",
+    "scenario": "worried about their elderly parent's account and calling on their behalf",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "vulnerable_trusting",
+                "cautiously_hopeful"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "awkwardly_apologetic",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching",
+                    "false_starts",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

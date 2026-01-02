@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "*exhales* Слушайте, я... это неловко. Не могу попасть в свой аккаунт."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да ничего страшного, сейчас разберёмся. Так, когда вы заходите на account.techmart.com слэш login, эм... что конкретно у вас на экране происходит?"
+        },
+        {
+            "role": "Customer",
+            "content": "Да просто... ничего. Хотя нет. Пишет ошибка? Извините, я в этом не—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Эй, всё нормально, разберёмся. Так, секундочку... окей, вижу ваш аккаунт, номер клиента CTM-48392-B, последний вход был, э... 17 марта в 14:47. С какого устройства сейчас заходите?"
+        },
+        {
+            "role": "Customer",
+            "content": "С компьютера. С... *sighs* Я не знаю какого."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ничего страшного. Вот что сделаем, хм... давайте сначала попробуем сбросить пароль. Отправляю ссылку на вашу почту, которая заканчивается на 4729, должна прийти где-то через 30-45 секунд. Ой! Кстати, кажется, я поняла в чём дело."
+        },
+        {
+            "role": "Customer",
+            "content": "Правда? А то я пыталась—нет, стоп, это вчера было."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ага, так вот, ваш аккаунт заблокировала система безопасности, код SEC-7742, в общем потому что было 6 неудачных попыток входа. Но есть хорошие новости, э... я могу разблокировать прямо сейчас. Только подтвердите ваш почтовый индекс?"
+        },
+        {
+            "role": "Customer",
+            "content": "Это девять четыре... *inhales* извините. 94107. Это всё?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Отлично. Так, разблокировала! Теперь давайте пройдёмся медленно. Когда зайдёте на страницу входа, увидите два поля, и, ээ... как это... учётные данные. Ваш логин — это ваш email."
+        },
+        {
+            "role": "Customer",
+            "content": "Понятно. Хорошо. Пароль это—стоп, какой теперь пароль?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Хороший вопрос. Так, проверьте почту, там та ссылка для сброса, которую я отправила, номер сообщения RST-92847-K. Кликните на неё, и сможете создать новый пароль. Минимум 8 символов, одна заглавная буква, одна цифра."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Восемь символов. Заглавная. Цифра. Поняла. Извините, я просто—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да вы что? У вас отлично получается. Большинство людей с этим мучаются. Как установите новый пароль, запишите его где-нибудь в надёжном месте, и, хм... знаете что? Я сейчас отмечу в вашем аккаунте продление гарантии на 30 дней за неудобства."
+        },
+        {
+            "role": "Customer",
+            "content": "Не надо—то есть, это же моя вина."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да что вы! Блокировки безопасности случаются. О, кстати совет... если хотите, могу включить двухфакторную аутентификацию, добавит может секунд 5 ко входу, зато аккаунт будет намного безопаснее. Номер для справки 2FA-ENABLE-8829."
+        },
+        {
+            "role": "Customer",
+            "content": "Двухфакторная... это сложно? *sighs* Всё сложно."
+        },
+        {
+            "role": "Customer Support",
+            "content": "На самом деле супер просто. Просто после ввода пароля мы отправим 6-значный код на ваш телефон, который заканчивается на 7364. Вводите его, и всё, вы внутри. Попробуем?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ну наверное. Да. Если вы считаете—давайте."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Отлично! Включаю сейчас... готово. Ваш номер подтверждения CNF-48392-2FA-ACTIVE. Так что в следующий раз при входе ждите смс-ку. И слушайте, серьёзно, звоните в любое время, если нужна помощь. Мы для этого и существуем."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "*exhales* Look, I'm... this is embarrassing. Can't get into my account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all, let's figure this out together. So when you try logging in to account.techmart.com forward slash login, um... what exactly happens on your screen?"
+        },
+        {
+            "role": "Customer",
+            "content": "It just... nothing. Wait no. Says error? Sorry, I'm not good with—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, totally fine, we'll work through it. Lemme just... okay so I see your account here, customer ID CTM-48392-B, last login was, er... March 17th at 2:47 PM. What device are you using right now?"
+        },
+        {
+            "role": "Customer",
+            "content": "My computer. The... *sighs* I don't know what kind."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's okay. Here's what we'll do, hmm... let's try resetting your password first. I'm sending a reset link to your email ending in 4729, should arrive in about 30 to 45 seconds. Oh! Actually, I think I see the issue."
+        },
+        {
+            "role": "Customer",
+            "content": "You do? Because I tried the—no wait, that was yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, your account got flagged by our security system, code SEC-7742, basically because there were 6 failed login attempts. But here's the good news, uh... I can unlock it right now. Just need to verify your zip code?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's nine four... *inhales* sorry. 94107. Is that all?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Alright, unlocked! Now let me walk you through this slowly. When you go to the login page, you'll see two boxes, and, errr... what's the word... credentials. Your username is your email."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Okay. The password is—wait, which password now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Great question. So check your email for that reset link I sent, message ID RST-92847-K. Click it, and it'll let you make a brand new password. Needs at least 8 characters, one capital letter, one number."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Eight characters. Capital. Number. Got it. Sorry, I'm just—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? You're doing great. Most people have trouble with this stuff. Once you set that new password, write it down somewhere safe, and, hmm... actually, you know what? I'm noting on your account to extend your warranty by 30 days for the inconvenience."
+        },
+        {
+            "role": "Customer",
+            "content": "You don't have to—I mean, this is my fault."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all! Security flags happen. Oh, quick tip though... if you want, I can enable two-factor authentication, adds maybe 5 seconds to login but makes your account way more secure. Reference number for that is 2FA-ENABLE-8829."
+        },
+        {
+            "role": "Customer",
+            "content": "Two factor... is that complicated? *sighs* Everything's complicated."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually it's super simple. Just means after you enter your password, we text a 6-digit code to your phone ending in 7364. Type that in, boom, you're logged in. Wanna try it?"
+        },
+        {
+            "role": "Customer",
+            "content": "I guess. Yeah. If you think—sure."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Enabling it now... done. Your confirmation number is CNF-48392-2FA-ACTIVE. So next time you log in, watch for that text. And hey, seriously, call us anytime if you need help. That's what we're here for."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6f95737c_script.json",
+    "professionalism": "casual",
+    "scenario": "embarrassed to admit they don't understand technology very well",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "confused_lost"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches",
+                    "word_searching",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "triumphant_problem_solver",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

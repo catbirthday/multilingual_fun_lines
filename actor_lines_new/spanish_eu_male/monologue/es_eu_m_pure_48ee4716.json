@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "Veintitrés años. [frustrated] Veintitrés años arreglando cortacéspedes y ni UN solo incidente. [pause] ¿Y ahora van diciendo que mi trabajo causó un incendio en un garaje? [angry] ¿El incendio del garaje de los Peterson que pasó tres semanas después de que les arreglara el cortacésped? [short pause] O sea, venga ya. [very loudly] ¿Pero eso qué sentido tiene?\n\n[sigh] La compañía de seguros ni siquiera investigó como es debido. [bitter] Solo vieron \"reclamación\" e \"incendio\" y dijeron, mm, vale, ya está, aquí nos quedamos. [frustrated] Ni preguntaron si guardaba la gasolina al lado del calentador de agua, que, por cierto, lo vi cuando les devolví el cortacésped. [quickly] ¡Hasta le dije que eso era peligroso!\n\n[anxious] Sin seguro, no puedo... es que literalmente no puedo funcionar. [pause] Nadie va a traer sus equipos a un taller sin seguro. [very sad] Y las primas de otras compañías van a ser, ¿qué, el triple ahora? [clearing throat] Por una reclamación de mierda.\n\n[shaky voice] Mi padre montó este negocio. [slowly] Lo levantó de la nada, y yo lo he mantenido a flote durante las recesiones, durante el COVID, durante todo. [passionate] ¿Pero ESTO puede ser lo que lo mate? [upset] ¿Un tío que seguramente dejó trapos con aceite amontonados y decide echarme la culpa de su negligencia?\n\n[exhausted] Es que ya no sé ni qué hacer."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "Twenty-three years. [frustrated] Twenty-three years I've been fixing lawn mowers and not ONE incident. [pause] And now they're saying my work caused a garage fire? [angry] The Petersons' garage fire that happened three weeks after I fixed their mower? [short pause] I mean, come on. [very loudly] How does that even make sense?\n\n[sigh] The insurance company didn't even investigate properly. [bitter] They just saw \"claim\" and \"fire\" and decided, hmm, yeah, we're done here. [frustrated] No questions about whether he stored gasoline next to his water heater, which, by the way, I saw when I delivered the mower back. [quickly] I even told him that was dangerous!\n\n[anxious] Without insurance, I can't... I literally can't operate. [pause] Nobody's gonna bring their equipment to an uninsured shop. [very sad] And the premiums from other companies are gonna be, what, triple now? [clearing throat] Because of one bogus claim.\n\n[shaky voice] My dad started this business. [slowly] Built it from nothing, and I've kept it going through recessions, through COVID, through everything. [passionate] But THIS might be what kills it? [upset] Some guy who probably left oily rags in a pile decides to blame me for his negligence? \n\n[exhausted] I don't even know what to do anymore."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "48ee4716_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your lawn mower repair shop's insurance just dropped you after a customer claimed your work caused their garage fire",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": false
+    }
+}

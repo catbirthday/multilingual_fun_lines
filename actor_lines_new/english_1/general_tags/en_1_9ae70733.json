@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[cautiously] The lawyer said the property deed is clear—my grandmother left everything to me, but nobody mentioned anything about you working this land or any arrangement you might have had."
+        },
+        {
+            "role": "Character 2",
+            "content": "[measured] Your grandmother and I shook hands on it fifteen years ago when my father died and left me nothing. She said I could work this land as long as I maintained her flower gardens and the old olive trees."
+        },
+        {
+            "role": "Character 1",
+            "content": "[skeptical] Fifteen years?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] Every spring I plant the marigolds she loved, trim the roses the way she taught me, and those olive trees produce the best oil in the valley now because I tend them like they're my own children."
+        },
+        {
+            "role": "Character 1",
+            "content": "That's very touching. [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[earnestly] She used to sit right there on that stone bench every evening while I worked, telling me stories about you, about your studies in the city, how proud she was that you were the first in the family to go to university."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softer] She talked about me? I barely visited these last few years with all the exams and internships, and honestly I thought she'd forgotten I existed."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] Forgotten? She kept every letter you sent in a box by her bed, read them to me sometimes when her eyes got too weak to read alone. [chuckles] I know about your thesis on sustainable agriculture."
+        },
+        {
+            "role": "Character 1",
+            "content": "[surprised] You know about my thesis? That's actually—wait, she read my academic work to you? Those papers were incredibly technical and boring."
+        },
+        {
+            "role": "Character 2",
+            "content": "Not boring at all. [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Look, I understand you've been here a long time, but legally speaking, without documentation, I need to figure out what's fair here."
+        },
+        {
+            "role": "Character 2",
+            "content": "[carefully] Fair would be letting me show you what I've built here—the irrigation system I installed, the greenhouse where I grow her heirloom tomatoes, the ledger where I recorded every harvest, every expense, every coin I set aside for her care."
+        },
+        {
+            "role": "Character 1",
+            "content": "[intrigued] You kept financial records? For fifteen years? Most of the farmers here don't even—I mean, that's surprisingly thorough for someone without formal education."
+        },
+        {
+            "role": "Character 2",
+            "content": "Your grandmother taught me the numbers, said if I was going to work her land properly, I needed to understand more than just soil and seasons. [quietly] She believed in me when nobody else would give me work."
+        },
+        {
+            "role": "Character 1",
+            "content": "[thoughtfully] She taught you accounting? That does sound like her, always trying to lift people up, though I never knew she was quite so hands-on about it."
+        },
+        {
+            "role": "Character 2",
+            "content": "Hands-on, yes. [laughs softly]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[decisively] Show me these ledgers, and the improvements you mentioned—I want to understand exactly what you've done here before we discuss any arrangements going forward."
+        },
+        {
+            "role": "Character 2",
+            "content": "Thank you."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] But I'm not promising anything yet, you understand? I need to see everything first, verify the numbers, maybe consult with some agricultural assessors about the actual value added."
+        },
+        {
+            "role": "Character 2",
+            "content": "[respectfully] Of course, that's wise, and I have nothing to hide—every seed planted, every tree pruned, it's all there in black and white, just as your grandmother insisted. [pause] She always said you'd come back one day."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "9ae70733_scenario.json",
+    "actor": 1,
+    "scenario": "A recent university graduate returns to their ancestral village to settle their grandmother's estate and discovers the peasant farmer working the land based on an undocumented fifteen-year verbal agreement.",
+    "type": "scenario_conversation",
+    "character_1_role": "graduate",
+    "character_2_role": "peasant",
+    "selected_tones": [
+        "suspicious",
+        "tactful",
+        "growing"
+    ]
+}

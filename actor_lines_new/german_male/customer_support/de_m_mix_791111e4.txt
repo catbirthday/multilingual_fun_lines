@@ -1,0 +1,93 @@
+=== Source: 791111e4_script.json ===
+Language: German
+Gender: male
+Mode: mix
+Content Type: customer_support
+Professionalism: professional
+Scenario: complaining about being on hold for over an hour
+
+=== Translated Dialogue ===
+
+Customer [mix]: Guten Tag. Ich hänge seit 67 Minuten in der Warteschleife, trying to reach your department. Können Sie mir das erklären?
+
+Customer Support [mix]: Das tut mir aufrichtig leid für diese übermäßige Wartezeit. Ich hole sofort Ihr Konto auf den Bildschirm, and we'll resolve whatever brought you here today. Darf ich Ihre Kontonummer haben?
+
+Customer [mix]: Es ist 445823. Ich muss verstehen, was diese Verzögerungen verursacht, and how you'll prevent this going forward.
+
+Customer Support [mix]: Danke, ich habe Ihr Konto 445823 jetzt vor mir. Unser Anrufvolumen ist heute Morgen um 340% gestiegen, due to a system outage affecting our automated services. Ich verstehe Ihre Frustration mit der Wartezeit vollkommen.
+
+Customer [mix]: Was genau ist in Ihrem System ausgefallen? Und noch wichtiger, what compensation are you offering for my wasted time?
+
+Customer Support [mix]: Unser Zahlungsverarbeitungsmodul ist um 8:47 Uhr Eastern offline gegangen, wodurch alle Transaktionen über manuelle Verifizierung laufen mussten. Ich bin autorisiert, Ihrem Konto eine Gutschrift von $50 für diese Unannehmlichkeit gutzuschreiben.
+
+Customer [mix]: Das ist ein Anfang. Now, what did I actually wait 67 minutes to discuss? Meine Rechnung hat Fehler.
+
+Customer Support [mix]: Natürlich.
+
+Customer [mix]: Rechnungsnummer 78234-B zeigt drei doppelte Gebühren für denselben Service am 15. Oktober.
+
+Customer Support [mix]: Ich sehe das Problem deutlich bei Rechnung 78234-B. Sie wurden dreimal mit je $127.99 für Ihr Premium-Service-Paket belastet, when it should have been a single monthly charge. Ich veranlasse diese Korrekturen sofort.
+
+Customer [mix]: Bitte erklären Sie mir, wie doppelte Gebühren in Ihrem Abrechnungssystem überhaupt auftreten können. This shouldn't be technically possible.
+
+Customer Support [mix]: Sie haben absolut recht, das zu hinterfragen. Unser Billing-System macht Batch-Processing alle 4 Stunden, und während des Wartungsfensters am 15. Oktober ist Job-ID BX-20241015-0800 dreimal gelaufen, due to a timeout error that wasn't properly logged.
+
+Customer [mix]: Sie sagen mir also, Ihre Fehlerbehandlung hat versagt? How many other customers were affected by this?
+
+Customer Support [mix]: Dieser spezifische Batch-Fehler hat 1.247 Konten während dieses Wartungsfensters betroffen. Wir haben seitdem zusätzliche Validierungsprüfungen implementiert, die doppelte Job-Ausführungen verhindern, with error code monitoring upgraded to real-time alerts.
+
+Customer [mix]: Gut. Wann sehe ich die korrigierten Gebühren in meinem Konto reflektiert?
+
+Customer Support [mix]: Ich bearbeite die Rückbuchung gerade mit Bestätigungsnummer REF-20241122-AA8K. Sie sehen die Gutschrift von $255.98 innerhalb von 24 Stunden, and I'm also waiving your next month's fee as additional compensation.
+
+Customer [mix]: Das ist akzeptabel. Können Sie mir eine E-Mail mit der Dokumentation dieses gesamten Problems und der Lösung schicken?
+
+Customer Support [mix]: Absolut. Ich sende eine detaillierte Fallzusammenfassung an Ihre hinterlegte E-Mail-Adresse, which includes case number CS-445823-1122, alle Transaktionsreferenzen und meine direkte Durchwahl 4019, falls Sie zukünftig sofortige Hilfe brauchen.
+
+Customer [mix]: Danke. Eine letzte Frage—what assurance do I have this won't happen again?
+
+Customer Support [mix]: Wir haben drei spezifische Sicherheitsmaßnahmen implementiert: Duplikat-Erkennungsalgorithmus Version 2.3.1, Echtzeit-Transaktionsüberwachung mit 15-Sekunden-Intervallen, and manual review flags for any charge exceeding $100. Ihr Konto hat jetzt auch Prioritätsstatus, um Standard-Wartezeiten zu umgehen.
+
+
+=== Original (English) ===
+
+Customer: Good afternoon. I've been on hold for sixty-seven minutes trying to reach your department. Can you explain why?
+
+Customer Support: I sincerely apologize for that excessive wait time. Let me pull up your account immediately and ensure we resolve whatever brought you here today. May I have your account number?
+
+Customer: It's 445823. I need to understand what's causing these delays and how you'll prevent this going forward.
+
+Customer Support: Thank you, I have your account 445823 pulled up now. Our call volume increased by 340% this morning due to a system outage affecting our automated services. I completely understand your frustration with the wait.
+
+Customer: What specifically failed in your system? And more importantly, what compensation are you offering for my wasted time?
+
+Customer Support: Our payment processing module went offline at 8:47 AM Eastern, forcing all transactions to route through manual verification. I'm authorized to apply a $50 service credit to your account for this inconvenience.
+
+Customer: That's a start. Now, what did I actually wait sixty-seven minutes to discuss? My invoice has errors.
+
+Customer Support: Of course.
+
+Customer: Invoice number 78234-B shows three duplicate charges for the same service on October fifteenth.
+
+Customer Support: I see the issue clearly on invoice 78234-B. You were charged three times at $127.99 each for your premium service package when it should have been a single monthly charge. I'll process those corrections immediately.
+
+Customer: Please explain how duplicate charges even occur in your billing system. This shouldn't be technically possible.
+
+Customer Support: You're absolutely right to question this. Our billing system runs batch processing every 4 hours, and during the October 15th maintenance window, job ID BX-20241015-0800 ran three times due to a timeout error that wasn't properly logged.
+
+Customer: So you're telling me your error handling failed? How many other customers were affected by this?
+
+Customer Support: This specific batch error affected 1,247 accounts during that maintenance window. We've since implemented additional validation checks that prevent duplicate job executions, with error code monitoring upgraded to real-time alerts.
+
+Customer: Good. When will I see the corrected charges reflected in my account?
+
+Customer Support: I'm processing the reversal now with confirmation number REF-20241122-AA8K. You'll see the $255.98 credit posted within 24 hours, and I'm also waiving your next month's fee as additional compensation.
+
+Customer: That's acceptable. Can you email me documentation of this entire issue and the resolution?
+
+Customer Support: Absolutely. I'm sending a detailed case summary to your email on file, which includes case number CS-445823-1122, all transaction references, and my direct extension 4019 if you need immediate assistance in the future.
+
+Customer: Thank you. One final question—what assurance do I have this won't happen again?
+
+Customer Support: We've implemented three specific safeguards: duplicate detection algorithm version 2.3.1, real-time transaction monitoring with 15-second intervals, and manual review flags for any charge exceeding $100. Your account also now has priority status to bypass standard wait times.
+

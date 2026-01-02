@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] Espera, ¿qué? ¿Me está diciendo que Dylan ha estado— [pause] ¿Durante años? [angry] ¿Me estás tomando el pelo? Todo este tiempo pensaba que, no sé, que por fin nos estábamos llevando bien, [bitter] and he's been going behind my back telling them I'm—¿cómo dijo?—irresponsible? [frustrated] ¿Que soy una mala influencia para sus hijos? [gasp loudly] Joder, ¡la cena familiar! [speeding up] Por eso no me invitaron en Thanksgiving el año pasado, ¿verdad? [hurt] Dijeron que era por el espacio, but it was him, it was Dylan poisoning them against me. [shaky voice] O sea, ¿qué clase de persona hace eso? [pause] Se supone que somos familia. [sad] Me esforcé tanto para, eh... para que esto funcionara cuando se casaron. [angry] ¿Y esto es lo que recibo? [sarcastic] Ah, pero claro, él es el perfecto Dylan con su trabajo perfecto y su familiita perfecta. [bitter] Mientras tanto yo soy el hermanastro desastre en quien no se puede confiar. [very quietly] Dios, they must think I'm such a mess. [stern] Pues, ¿sabes qué? [confidently] I'm done trying to impress people who've already made up their minds about me."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] Wait, what? He's been... Mom just told me that Dylan's been— [pause] For years? [angry] Are you kidding me right now? This whole time I thought we were, I don't know, getting along finally? [bitter] And he's been going behind my back telling them I'm—what did she say—irresponsible? [frustrated] That I'm a bad influence on his kids? [gasp loudly] Oh my God, the family dinner thing! [speeding up] That's why they didn't invite me to Thanksgiving last year, isn't it? [hurt] They said it was because of space but it was him, it was Dylan poisoning them against me. [shaky voice] I mean, what kind of person does that? [pause] We're supposed to be family. [sad] I tried so hard to, um... to make this work when they got married. [angry] And this is what I get? [sarcastic] Oh but he's perfect Dylan with his perfect job and his perfect little family. [bitter] Meanwhile I'm just the screw-up stepsister who can't be trusted. [very quietly] God, they must think I'm such a mess. [stern] Well, you know what? [confidently] I'm done trying to impress people who've already made up their minds about me."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "48ea1d69_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Finding out your stepbrother has been secretly badmouthing you to your parents for years",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Так, значит. Аудит лицензии. Во вторник. Нужны сертификаты о повышении квалификации из вашей системы."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ой-ой-ой, лицензионная проверка, я полностью понимаю этот стресс—так, значит, ваш ID аккаунта EDU-4472-PT, и я вижу, что вы прошли... секундочку... 32 часа курсов в этом цикле, но сертификаты не генерируются?"
+        },
+        {
+            "role": "Customer",
+            "content": "32? Должно быть 40. Сейчас посмотрю... специализация эрготерапия. Всё закончила в прошлом месяце."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так-так. Значит, что я вижу—и это ужасно бесит, я понимаю—система зафиксировала ваши прохождения с 3 по 28 марта, показывает 32,5 зачётных единицы всего, но типа... 8 часов показаны со статусом \"ожидает подтверждения\"?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ожидает? Что значит—нет, стойте, они же пройдены. Сданы. Всё."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Я вам верю. Абсолютно. Так вот проблема в том... у нас было обновление системы верификации 25 марта, и в общем все курсы, завершённые между 25 и 31 числом, застряли в таком странном подвешенном состоянии."
+        },
+        {
+            "role": "Customer",
+            "content": "Подвешенное состояние. Вторник. Аудит во вторник. Понимаете?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Полностью понимаю—я сейчас... я эскалирую это прямо сейчас в отдел сертификации, номер обращения ESC-9982-OT, потому что честно говоря? Такого вообще не должно происходить с медработниками, которым нужна документация."
+        },
+        {
+            "role": "Customer",
+            "content": "Медработники. Да. Именно. Так какие сроки?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ну обычно это 48-72 часа, но—но но учитывая ваш дедлайн, я ставлю критический приоритет, дата аудита 02.04.2024, и я лично... секундочку... добавляю свой прямой добавочный 4419 в вашу заявку."
+        },
+        {
+            "role": "Customer",
+            "content": "Эм. 48 часов это понедельник. Аудит во вторник утром."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Знаю, знаю. Это... это слишком впритык. Давайте попробую другое—есть процесс ручного переопределения, код MAN-OVERRIDE-77, который наша вторая линия иногда может протолкнуть быстрее."
+        },
+        {
+            "role": "Customer",
+            "content": "Иногда? Мне нужна уверенность. Не иногда."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Вы правы. Абсолютно правы. Так, значит... я сейчас напрямую связываюсь со второй линией, и они мне показывают, что ручные переопределения для лицензионных проверок—конкретно код LA-PRIORITY—можно выполнить за 4-6 часов."
+        },
+        {
+            "role": "Customer",
+            "content": "4 часа. Сегодня? Или рабочих часов?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Сегодня сегодня. То есть если я отправлю это сейчас в... 14:47 по восточному времени, у вас должны быть все 40 часов сертификатов, полный пакет PDF-2024-Q1, на почте максимум к 19:00 сегодня вечером."
+        },
+        {
+            "role": "Customer",
+            "content": "Должны быть. Будут. Что из двух?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Будут. Будут. Я... я ставлю на это свою репутацию—заявка ESC-9982-OT теперь помечена ультра-приоритетом, и я лично написала трём разным специалистам второй линии о вашей ситуации, потому что это—это же вся ваша карьера."
+        },
+        {
+            "role": "Customer",
+            "content": "Хм, ладно, значит это означает... почта к семи. Все 40 часов. В PDF формате?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Правильно правильно. Все 40 часов, единый консолидированный PDF, с цифровой подписью и кодом верификации VS-889214-OT, который ваша лицензионная комиссия может проверить онлайн. И серьёзно? Если что-то пойдёт не так, звоните на мой прямой 4419, и я лично разберусь сегодня вечером."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Okay so. License audit. Tuesday. Need my continuing ed certificates from your system."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no no, a licensing audit, I completely understand the stress—so basically your account ID is showing as EDU-4472-PT and I can see you've completed... let me... thirty-two hours of courses this cycle but the certificates aren't generating?"
+        },
+        {
+            "role": "Customer",
+            "content": "Thirty-two? Should be forty. Let me see here... occupational therapy track. All done last month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So what I'm seeing is—and this is so frustrating, I know—the system logged your completions between March 3rd and March 28th, showing 32.5 CEUs total, but there's like... eight hours that are showing as \"pending verification\" status?"
+        },
+        {
+            "role": "Customer",
+            "content": "Pending? What does—no wait, those were done. Passed. Everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I believe you. Absolutely. So so the issue is... our verification system had an update on March 25th and basically any courses completed between the 25th and 31st got stuck in this weird processing limbo."
+        },
+        {
+            "role": "Customer",
+            "content": "Processing limbo. Tuesday. Audit Tuesday. You understand?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Completely understand—I'm actually... I'm going to escalate this right now to our certification team, case number ESC-9982-OT, because honestly? This is exactly the kind of thing that should never happen to healthcare professionals who need their documentation."
+        },
+        {
+            "role": "Customer",
+            "content": "Healthcare professionals. Right. Exactly. So what's the timeline here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So typically it's 48 to 72 hours but—but but given your deadline, I'm marking this as critical priority, audit date 04/02/2024, and I'm personally going to... hang on... I'm adding my direct extension 4419 to your file."
+        },
+        {
+            "role": "Customer",
+            "content": "Um. Forty-eight hours is Monday. Audit's Tuesday morning."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know I know. That's... that's cutting it way too close. Let me try something else—there's a manual override process, code MAN-OVERRIDE-77, that our tier 2 team can sometimes push through faster."
+        },
+        {
+            "role": "Customer",
+            "content": "Sometimes? Need certainty here. Not sometimes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're right. Absolutely right. Okay so... I'm connecting directly with tier 2 right now, and they're showing me that manual overrides for license audits—specifically code LA-PRIORITY—can be completed within 4 to 6 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Four hours. Today? Or business hours?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Today today. So if I submit this now at... 2:47 PM Eastern, you should have all 40 hours of certificates, the full batch PDF-2024-Q1, in your email by 7 PM tonight at the absolute latest."
+        },
+        {
+            "role": "Customer",
+            "content": "Should have. Will have. Which one?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Will. Will have. I'm... I'm staking my reputation on this—case ESC-9982-OT is now flagged ultra-priority and I've personally messaged three different tier 2 specialists about your situation because this is—this affects your whole career."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, okay so that means... email by seven. All forty hours. PDF format?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Correct correct. All 40 CEU hours, single consolidated PDF, digitally signed with verification code VS-889214-OT that your licensing board can authenticate online. And genuinely? If anything goes wrong, you call my direct line 4419 and I'll handle it personally tonight."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "696ecb08_script.json",
+    "professionalism": "casual",
+    "scenario": "occupational therapist, patient but needing documentation for a licensing audit deadline",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "panicked_spiral",
+                "seething_controlled"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "false_starts",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "cheerfully_efficient"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "filled_pauses",
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

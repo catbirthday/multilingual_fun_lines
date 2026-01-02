@@ -1,0 +1,48 @@
+=== Source: 94061306_script.json ===
+Actor: english_2
+Content Type: customer_support
+Professionalism: professional
+Scenario: wanting to add an authorized user to their account
+
+=== Dialogue ===
+
+Customer: Good afternoon. I need to add my business partner as an authorized user to our corporate account.
+
+Customer Support: Good afternoon, I'd be happy to assist you with adding an authorized user. May I please have your account number and verify your identity as the primary account holder?
+
+Customer: Certainly. The account number is 445-8892-01. I'm Jennifer Morrison, the primary account holder.
+
+Customer Support: Thank you, Ms. Morrison. I've located your account ending in 8892-01. For security purposes, could you please verify the last four digits of the tax ID number associated with this account and your registered phone number?
+
+Customer: The tax ID ends in 7234, and my registered number is 555-430-2100.
+
+Customer Support: Perfect, thank you for verifying. I can see you have our Business Premier package with account number BPR-445-8892-01. To add an authorized user, I'll need their full legal name, date of birth, and their relationship to the account.
+
+Customer: His name is David Chen, born March 15, 1982. He's the company's Chief Operations Officer.
+
+Customer Support: Excellent. I'm documenting that David Chen, DOB 03/15/1982, will be added as an authorized user with COO designation. Will Mr. Chen require full account privileges or would you prefer to set specific limitations?
+
+Customer: I'd like him to have full privileges except for closing the account or changing the primary ownership.
+
+Customer Support: I understand completely. I'm setting Mr. Chen's authorization level to AL-4, which provides full transaction capabilities, payment authorities, and service modifications, but restricts ownership transfers and account closure rights, which remain exclusive to you as the primary holder.
+
+Customer: That sounds exactly right. How soon will this take effect?
+
+Customer Support: The authorization will be active immediately upon completion of this call. Mr. Chen will receive a welcome packet at the business address with his unique access code, UC-7829-DMC-0315, within three business days.
+
+Customer: Will he need to do anything specific to activate his access?
+
+Customer Support: Yes, he'll need to complete the identity verification process using reference number REF-2024-11-445-8892. He can do this online at our secure portal or by calling our verification line at 800-555-VERIFY within 30 days.
+
+Customer: Perfect. Is there a way to track when he completes the verification?
+
+Customer Support: Absolutely. You'll receive an email notification to your registered address once Mr. Chen completes his verification. Additionally, you can check the status anytime through your account dashboard under the Authorized Users section, reference tab AU-STATUS-01.
+
+Customer: Excellent. Can you email me a confirmation of everything we've discussed today?
+
+Customer Support: Certainly. I'm sending a detailed confirmation to your email on file, which includes transaction reference TRX-20241114-0932, all authorization parameters, and Mr. Chen's temporary access credentials. You should receive this within the next five minutes.
+
+Customer: Thank you. This has been much smoother than I expected. I appreciate your thoroughness.
+
+Customer Support: You're very welcome, Ms. Morrison. I've noted all details in your account under case number CS-445-8892-1114. If you or Mr. Chen have any questions during the activation process, please reference this case number for immediate assistance.
+

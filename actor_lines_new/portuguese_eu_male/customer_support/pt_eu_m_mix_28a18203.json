@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Então estou—espera, deixa-me só—estou a ligar pelo meu pai. Sobre a encomenda do telemóvel dele."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza, posso ajudar com isso. Deixe-me só abrir aqui a conta... ok ok, preciso do número da encomenda ou do número de telefone associado à conta para começar."
+        },
+        {
+            "role": "Customer",
+            "content": "Ok então... espera aí. Ele escreveu aqui. ORD-4428-qualquer coisa?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ORD-4428... deixa-me ver aqui... estou a ver ORD-4428-BK92 para um Samsung Galaxy S24 encomendado a 15 de novembro, é esse que estamos a ver?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sim. É esse mesmo. Ele está. À espera. Desde segunda-feira."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo certo, estou a ver o que aconteceu aqui. O tracking mostra que foi marcado para entrega na segunda com número de confirmação DEL-8847-2901, but there's a failed delivery attempt logged in the system."
+        },
+        {
+            "role": "Customer",
+            "content": "Falhada? Mas nós estáv—não espera—estava alguém em casa. O dia todo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Percebo perfeitamente a frustração, mesmo a sério. O transportador registou como \"unable to access property\" às 15:47, which sometimes happens even when someone's home, não é não é incomum infelizmente."
+        },
+        {
+            "role": "Customer",
+            "content": "Então e agora? Ele precisa mesmo deste telefone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Deixa-me resolver isto já. Estou a agendar uma reentrega para amanhã antes do meio-dia, and I'm adding priority flag PRI-7762 to make sure it's the first delivery on the route."
+        },
+        {
+            "role": "Customer",
+            "content": "Amanhã? Tens a certeza? Tipo a sério desta vez?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Estou estou a pôr uma nota de instrução especial agora mesmo, reference number SPC-9903-AA, que obriga o condutor a ligar para o telefone atual do teu pai antes de tentar a entrega, assim vocês sabem que eles vêm a caminho."
+        },
+        {
+            "role": "Customer",
+            "content": "Ok então isso significa... amanhã de manhã. Antes do meio-dia. Eles ligam primeiro?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exatamente, antes do meio-dia, com telefonema primeiro. Também acabei de aplicar um crédito de 15% na conta, credit reference CRD-2024-8847-MN, pela inconveniência da entrega falhada."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah. Hum. Ok isso é—isso é mesmo útil na verdade."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro! Há mais alguma coisa sobre a encomenda ORD-4428-BK92 que possa ajudar? Ah, e devia mencionar, your dad's eligible for our protection plan at 7,99 euros monthly if he's interested."
+        },
+        {
+            "role": "Customer",
+            "content": "Deixa-me pensar... não. Só. Amanhã. É tudo o que precisamos."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito, então está tudo tratado. Tomorrow before noon, driver will call first usando o número que termina em 4429 que tenho aqui no ficheiro, e o teu pai deve receber o novo Galaxy S24."
+        },
+        {
+            "role": "Customer",
+            "content": "O número 4429. Sim. Está certo. Obrigado."
+        },
+        {
+            "role": "Customer Support",
+            "content": "De nada! A reentrega está confirmada sob tracking update TRK-8847-2901-B, and you both should get an email confirmation within the next few minutes com todos estes detalhes."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I'm—wait, let me just—I'm calling for my dad. About his phone order."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I can help with that. Let me just pull up the account here... okay okay, I need the order number or the phone number associated with the account to get started."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so... hold on. He wrote it down. ORD-4428-something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ORD-4428... let me see here... I'm showing ORD-4428-BK92 for a Samsung Galaxy S24 ordered on November 15th, is that the one we're looking at?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. That's it. He's been. Waiting. Since Monday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I see what happened here. The tracking shows it was marked for delivery on Monday with confirmation number DEL-8847-2901 but there's a failed delivery attempt logged in the system."
+        },
+        {
+            "role": "Customer",
+            "content": "Failed? But we were—no wait—someone was home. All day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the frustration, I really do. The carrier logged it as \"unable to access property\" at 3:47 PM, which sometimes happens even when someone's home, it's it's not uncommon unfortunately."
+        },
+        {
+            "role": "Customer",
+            "content": "So what now? He really needs this phone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me get this sorted out right away. I'm scheduling a redelivery for tomorrow before noon, and I'm adding priority flag PRI-7762 to make sure it's the first delivery on the route."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow? Are you sure? Like for real this time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm I'm putting a special instruction note right now, reference number SPC-9903-AA, that requires the driver to call your dad's current phone before attempting delivery, that way you'll know they're coming."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... tomorrow morning. Before noon. They'll call first?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, before noon, with a call first. I've also just applied a 15% credit to the account, credit reference CRD-2024-8847-MN, for the inconvenience of the failed delivery."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Um. Okay that's—that's actually really helpful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! Is there anything else about order ORD-4428-BK92 I can help with? Oh, and I should mention, your dad's eligible for our protection plan at $7.99 monthly if he's interested."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me think... no. Just. Tomorrow. That's all we need."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, you're all set then. Tomorrow before noon, driver will call first using the number ending in 4429 that I have on file here, and your dad should have his new Galaxy S24."
+        },
+        {
+            "role": "Customer",
+            "content": "The 4429 number. Yeah. That's right. Thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome! The redelivery is confirmed under tracking update TRK-8847-2901-B, and you both should get an email confirmation within the next few minutes with all these details."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "28a18203_script.json",
+    "professionalism": "casual",
+    "scenario": "teenage girl calling for her dad, nervous because she's never done this before",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "exhausted_worn",
+                "anxious_worried"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "new_and_eager"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "classic_fillers",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

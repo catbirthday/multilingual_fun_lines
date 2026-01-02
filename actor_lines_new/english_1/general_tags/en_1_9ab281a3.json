@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[startled] I saw your name on the residency paperwork when I was checking the green room schedule, and I thought it had to be someone else with the same name."
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, it's not exactly a common name, so I guess we both know this isn't a coincidence anymore. [clears throat]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Fifteen years, Dad. Fifteen years of nothing, and now you're just here, sleeping in the quarters above where I've worked for the past three seasons."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] I didn't know you worked here when I applied for the residency, I swear, but when I saw your name on the crew list, I couldn't just leave."
+        },
+        {
+            "role": "Character 1",
+            "content": "You couldn't leave? That's rich, considering how good you were at it the first time around when Mom got sick."
+        },
+        {
+            "role": "Character 2",
+            "content": "I know how it looked, but there were things happening then that you didn't understand, things I'm still not proud of. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[voice cracking] I was twelve years old, trying to figure out how to work her oxygen machine while you were god knows where doing god knows what."
+        },
+        {
+            "role": "Character 2",
+            "content": "Prison. I was in prison for eighteen months, and your mother made me promise never to tell you because she thought you'd be better off not knowing."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stunned] What? Mom said you were touring with that production company in Europe, that you chose the work over us."
+        },
+        {
+            "role": "Character 2",
+            "content": "She was protecting you from the truth about why I got arrested, about the debts I'd accumulated trying to pay for her experimental treatments. [voice breaking]"
+        },
+        {
+            "role": "Character 1",
+            "content": "So you're telling me everything I believed about why you left, everything that shaped who I became, was based on a lie?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[desperately] Not a lie, a choice your mother made out of love, though I see now how much damage it did to both of us."
+        },
+        {
+            "role": "Character 1",
+            "content": "The medical bills, the ones that kept appearing even after she died, those were from treatments you arranged? We thought they were billing errors."
+        },
+        {
+            "role": "Character 2",
+            "content": "I kept paying what I could from inside, then after, working under the table jobs because my record made it impossible to get legitimate work. [exhales shakily]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[softer] The theater board doesn't know about your record, do they? That's why you're using Mom's maiden name on the residency application."
+        },
+        {
+            "role": "Character 2",
+            "content": "They'd cancel my residency immediately if they knew, but I had to take the chance when I heard you might be here. [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "I could report you right now, get you thrown out, and honestly part of me wants to after everything we went through thinking you abandoned us."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bravely] Then do it. I'd understand completely, but just know that every single day for fifteen years, I've regretted not fighting harder to tell you the truth."
+        },
+        {
+            "role": "Character 1",
+            "content": "[voice trembling] I don't know what to do with this, with you being here, with everything being different than what I thought."
+        },
+        {
+            "role": "Character 2",
+            "content": "Just think about it."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "9ab281a3_scenario.json",
+    "actor": 1,
+    "scenario": "A front of house engineer discovers that the new temporary resident in the artist quarters above the theater is their estranged father who abandoned them fifteen years ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "front of house engineer",
+    "character_2_role": "temporary resident",
+    "selected_tones": [
+        "uncovering",
+        "brave",
+        "melting"
+    ]
+}

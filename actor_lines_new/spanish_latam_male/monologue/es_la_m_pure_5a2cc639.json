@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[regretful] Mira, sé cómo se habrá visto todo. Encontrarme en su despensa a medianoche con el, este... con el aceite de trufa y el prosciutto importado. [pause] Dios, la manera en que la señora Henderson se quedó ahí parada en su bata de seda, mirándome como si fuera una especie de—no sé, como si les estuviera robando. [bitter] Que bueno, técnicamente, supongo que sí. Pero me están pagando 11 dólares la hora para preparar platos de 100 dólares, y no he podido comprar comida en, ¿qué será?, ¿tres semanas? [sigh] O sea, ¿qué se suponía que hiciera? ¿Ver cómo tiran la mitad de un filete wagyu mientras yo me voy a casa a, eh... a comer ramen otra vez? [very sad] Lo peor es que de verdad amaba ese trabajo. Crear esos platos hermosos, ¿sabes? Hacer que sus cenas fueran perfectas. [pause] Y ahora le están diciendo a todo el mundo que soy un ladrón. [quietly] La señora Henderson ni siquiera me miraba cuando me dio mi último cheque. Solo repetía \"confiábamos en ti\" una y otra vez. [angry] Sí, bueno, tal vez si me hubieran pagado lo suficiente para poder comer, no habría necesitado—[trailing off] [long pause] [exhausted] Da igual. Ya no importa. [sniffle] Es solo que... de verdad necesitaba ese trabajo."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[regretful] Look, I know how it must've looked. Finding me in their pantry at midnight with the, um... with the truffle oil and the imported prosciutto. [pause] God, the way Mrs. Henderson just stood there in her silk robe, staring at me like I was some kind of—I don't know, like I was stealing from them. [bitter] Which I guess, technically, I was. But they're paying me eleven dollars an hour to prepare hundred-dollar-a-plate meals, and I haven't been able to afford groceries in, what, three weeks? [sigh] I mean, what was I supposed to do? Watch them throw away half a wagyu steak while I'm going home to, er... to ramen again? [very sad] The worst part is I actually loved that job. Creating these beautiful dishes, you know? Making their dinner parties perfect. [pause] And now they're telling everyone I'm a thief. [quietly] Mrs. Henderson wouldn't even look at me when she handed me my final check. Just kept saying \"we trusted you\" over and over. [angry] Yeah, well, maybe if you'd paid me enough to actually eat, I wouldn't have needed to—[trailing off] [long pause] [exhausted] Whatever. It doesn't matter now. [sniffle] I just... I really needed that job."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "5a2cc639_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your private chef position ended when the family discovered you've been eating their expensive ingredients to survive",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Perdona que llame a estas horas, de verdad. Acabo de terminar mi turno en el casino, and I noticed an unauthorized charge on my account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Buenos días, no se preocupe en absoluto. Estamos disponibles 24/7 para ayudarle. ¿Me puede dar su número de cuenta y los últimos cuatro dígitos de la tarjeta en cuestión?"
+        },
+        {
+            "role": "Customer",
+            "content": "El número de cuenta es 4829-7761. La tarjeta termina en 3847. Hay un cargo de 900 dólares que yo no he hecho, I'm absolutely certain of it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias. Estoy accediendo a la cuenta 4829-7761 ahora mismo. Veo un cargo de 900 dólares procesado ayer a las 14:47 hora del este desde TechGear Solutions. ¿Puede confirmar que no autorizó esta transacción?"
+        },
+        {
+            "role": "Customer",
+            "content": "Por supuesto que no, joder. Estaba repartiendo cartas en el blackjack a esa hora. No he comprado nada de TechGear Solutions, nothing at all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Lo entiendo perfectamente. Estoy iniciando una reclamación por disputa, número de referencia DSP-8847-QM29. Los 900 dólares se acreditarán provisionalmente en su cuenta en las próximas 24 horas mientras investigamos. ¿Quiere que le emita una tarjeta de reemplazo también?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sí, por favor. ¿Cuánto tardará en llegar la tarjeta nueva? I really need it for my automatic bills."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Su nueva tarjeta terminada en 9022 llegará por envío urgente en 2-3 días laborables a su dirección en 1847 Desert Palm Avenue. También puedo darle el nuevo número ahora para actualizar los pagos automáticos, if that would help you."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso sería excelente, sí. Tengo la hipoteca y las facturas de servicios configuradas para pago automático."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sí."
+        },
+        {
+            "role": "Customer",
+            "content": "Oye, ¿debería presentar una denuncia en la policía? I want to make sure I'm doing everything correctly on my end."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aunque no es obligatorio para cantidades menores de 1.000 dólares, tener un informe policial puede reforzar su caso. Anotaré en el expediente DSP-8847-QM29 si presenta uno. Mientras tanto, he marcado su cuenta para monitoreo mejorado, to prevent any additional unauthorized activity."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale, presentaré una mañana por la mañana entonces. ¿Esto afectará mi puntuación crediticia o mi estatus de cuenta de alguna manera?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "En absoluto, no se preocupe. Las investigaciones de disputas no impactan su puntuación crediticia, y su cuenta permanece en excelente estado. El crédito provisional de 900 dólares se procesará mañana antes de las 15:00 hora del este, and we'll send confirmation to your email ending in @gmail.com."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfecto. ¿Cuánto suele tardar la investigación? Me gustaría saber cuándo estará completamente resuelto esto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "La mayoría de las investigaciones se completan en 10 días laborables, aunque legalmente tenemos hasta 90 días. Dados los claros indicadores de fraude aquí, espero una resolución para el 15 de noviembre. Recibirá actualizaciones por email, and you can check the status anytime using reference DSP-8847-QM29."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso me tranquiliza mucho. Gracias por gestionar esto tan eficientemente. Estaba estresado por llamar tan tarde, honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Me alegro de haber podido ayudar."
+        },
+        {
+            "role": "Customer",
+            "content": "Una última pregunta. ¿Hay alguna función de seguridad adicional que debería activar para evitar que esto vuelva a pasar?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Qué buena pregunta. Ya he activado nuestro sistema Premium de Alertas de Fraude en su cuenta sin cargo adicional. Recibirá notificaciones instantáneas por mensaje de texto al 702-555-8829 para cualquier transacción superior a 250 dólares. También le estoy enviando información sobre nuestros números de tarjeta virtual para compras online, which adds another layer of protection for you."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I apologize for calling at this hour. I just finished my shift at the casino and noticed an unauthorized charge."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and no need to apologize. We're available 24/7 to assist you. May I have your account number and the last four digits of the card ending in question?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is 4829-7761. The card ends in 3847. There's a charge for nine hundred dollars I didn't make."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm pulling up account 4829-7761 now. I can see a charge for $900.00 posted yesterday at 2:47 PM Eastern from TechGear Solutions. Can you confirm you didn't authorize this transaction?"
+        },
+        {
+            "role": "Customer",
+            "content": "Absolutely not. I was dealing blackjack at that time. I haven't purchased anything from TechGear Solutions."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. I'm initiating a dispute claim, reference number DSP-8847-QM29. The $900.00 will be provisionally credited to your account within 24 hours while we investigate. Would you like me to issue a replacement card as well?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, please do that. How long before I receive the new card? I need it for my automatic bills."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Your new card ending in 9022 will arrive via expedited shipping within 2-3 business days to your address at 1847 Desert Palm Avenue. I can also provide the new number now for updating automatic payments if that would help."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be excellent. I have my mortgage and utilities set up for automatic payment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "Also, should I file a police report? I want to make sure I'm doing everything correctly on my end."
+        },
+        {
+            "role": "Customer Support",
+            "content": "While not required for amounts under $1,000.00, having a police report can strengthen your case. I'll note in file DSP-8847-QM29 if you do file one. Meanwhile, I've flagged your account for enhanced monitoring to prevent any additional unauthorized activity."
+        },
+        {
+            "role": "Customer",
+            "content": "I'll file one tomorrow morning then. Will this affect my credit score or account standing at all?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely not. Dispute investigations don't impact your credit score, and your account remains in excellent standing. The provisional credit of $900.00 will post by 3:00 PM Eastern tomorrow, and we'll send confirmation to your email ending in @gmail.com."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. How long does the investigation typically take? I'd like to know when this will be fully resolved."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Most investigations complete within 10 business days, though legally we have up to 90 days. Given the clear fraud indicators here, I expect resolution by November 15th. You'll receive updates via email and can check status anytime using reference DSP-8847-QM29."
+        },
+        {
+            "role": "Customer",
+            "content": "That's reassuring. Thank you for handling this so efficiently. I was stressed about calling this late."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm glad I could help."
+        },
+        {
+            "role": "Customer",
+            "content": "One last question. Are there any additional security features I should activate to prevent this from happening again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. I've already activated our Premium Fraud Alert system on your account at no charge. You'll receive instant text notifications to 702-555-8829 for any transaction over $250.00. I'm also sending you information about our virtual card numbers for online purchases, which adds another layer of protection."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "41a68fcb_script.json",
+    "professionalism": "professional",
+    "scenario": "casino dealer, apologetic for calling at 3am but needing to dispute a charge on her account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "calmly_frustrated",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "diplomatically_firm",
+                "attentively_engaged"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

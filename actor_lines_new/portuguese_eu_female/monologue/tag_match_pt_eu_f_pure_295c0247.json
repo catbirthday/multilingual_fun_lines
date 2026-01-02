@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[exausto] Meu Deus, finalmente acabou. [pausa] Três anos de depoimentos e recursos e... ganhámos. [aliviado] A Senhora Chen vai receber a indemnização, pode pagar as cirurgias, a terapia, tudo. [suspiro] Fico sempre a dizer a mim mesma que fiz o que era certo, sabes? Mas estar ali sentada em frente ao Marcus naquele tribunal foi... [muito triste] Quer dizer, somos amigas desde a faculdade. Éramos amigas. [amargo] Nem sequer olhou para mim depois do veredicto. 20 anos de amizade e ele simplesmente... saiu porta fora. [frustrado] E honestamente? Parte de mim quer ligar-lhe e dizer—sei lá, que tenho pena ou coisa assim, mas isso é ridículo, não é? A empresa dele sabia que os travões tinham defeito. [zangado] Eles sabiam! [baixinho] Mas depois penso em todos aqueles churrascos de domingo, os filhos dele a chamarem-me Tia Joana, e eu... pronto. [pausa] [arrependido] Talvez devesse ter-me, hum, declarado impedida ou—não, isso não é... A Senhora Chen precisava de alguém que lutasse mesmo por ela. [muito baixinho] Só não pensei que ganhar fosse deixar-me tão, éh... vazia. [pausa longa] [resignado] Se calhar há coisas de que não há volta a dar."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[exhausted] God, it's finally over. [pause] Three years of depositions and motions and... we won. [relieved] Mrs. Chen gets her settlement, she can pay for the surgeries, the therapy, everything. [sigh] I keep telling myself I did the right thing, you know? But sitting across from Marcus in that courtroom was just... [very sad] I mean, we've been friends since college. Were friends. [bitter] He wouldn't even look at me after the verdict. Twenty years of friendship and he just... walked out. [frustrated] And honestly? Part of me wants to call him and say—I don't know, that I'm sorry or something but that's ridiculous, right? His company knew those brakes were defective. [angry] They knew! [quietly] But then I think about all those Sunday barbecues, his kids calling me Uncle Jake, and I just... [pause] [regretful] Maybe I should've, um, recused myself or—no, that's not... Mrs. Chen needed someone who'd actually fight for her. [very quietly] I just didn't think winning would feel so, uh... empty. [long pause] [resigned] I guess some things you can't come back from."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "295c0247_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your personal injury case victory means your client gets justice but your friendship with the defendant ends",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

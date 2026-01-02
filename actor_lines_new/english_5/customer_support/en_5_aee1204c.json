@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, I—I need to cancel an order, I think? If that's still possible, I mean..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Oh, let me pull that up for you. What's the order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's ORD-8923-JK, sorry, I just—I ordered it maybe an hour ago?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, okay I see it here. ORD-8923-JK, placed at 2:47 PM. *sharp inhale* Oh. So the thing is, it's already moved to fulfillment status FUL-829."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh no, really? I'm sorry, I should have—I should have called sooner..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, don't apologize. Happens all the time. *exhales* Let me check what I can do. System shows it's in pick-and-pack phase 2, but hasn't hit shipping yet."
+        },
+        {
+            "role": "Customer",
+            "content": "I know this is probably such a pain, I just—my husband already bought the same thing and we don't need two..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally get it. Trust me, I've done that myself. *soft exhale* Alright, so technically once it hits status code P2, we're not supposed to cancel, but lemme try something here."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean if it's too much trouble, maybe we could just return it when it arrives or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No, hang on. Actually—yeah, caught it. Override code OVR-7823 accepted. Your refund should process in 3-5 business days to the card ending in 4782."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my God, thank you thank you! I was so worried I'd messed everything up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Honestly? You saved us both hassle. Returns take forever. Tracking number would've been TRK-9982-XLM but now we don't need it."
+        },
+        {
+            "role": "Customer",
+            "content": "You're being so kind about this, I know I know it's probably annoying when people do this..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're fine, really. *inhale* Between you and me? Way easier than the guy who called about his order from 2019 earlier. Your cancellation reference is CAN-5544-RT if you need it."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—wow, 2019? Okay okay, I don't feel as bad now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? *soft laugh, exhale* Anything else I can help with today?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, I think that's—actually wait, the refund will definitely go through, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll get an email confirmation at the address on file within 30 minutes. Reference number REF-9102-KK. If you don't see it, check spam."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect, and um, sorry again for the hassle, I really appreciate you helping me sort of fumble through this..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*warm exhale* Seriously, no worries. This was easy. Have a good rest of your day, yeah?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "aee1204c_script.json",
+    "actor": 5,
+    "scenario": "wanting to cancel an order that's already being processed",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very quietly] I just got the call. [pause] Marcus is gone. [shaky voice] He was doing so well, I mean, he was— [sigh] he showed up to group last week, talked about getting his apartment, about maybe seeing his daughter again. [confused] How did I miss this? We went through his triggers, his safety plan, everything. [frustrated] God, I keep replaying our last conversation and he seemed... [trailing off] he seemed hopeful. [pause] [upset] Maybe that should have been the warning sign, right? When they suddenly seem better? [bitter] They teach you that in training but you think, no, not this time, this one's real progress. [sigh] [very sad] Three years clean. Three years. [quietly] And I told his mom last month that I'd never seen him more committed. [regretful] I should have checked in yesterday when he didn't answer my text. [shaky voice] But I thought— I thought I was giving him space to live his life, not be just another person hovering. [long pause] [exhausted] Twenty-three years old. [crying while speaking] He was supposed to outlive this. He was supposed to be the success story I tell other clients about. [sniffle] [very quietly] I'm so tired of losing them."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very quietly] I just got the call. [pause] Marcus is gone. [shaky voice] He was doing so well, I mean, he was— [sigh] he showed up to group last week, talked about getting his apartment, about maybe seeing his daughter again. [confused] How did I miss this? We went through his triggers, his safety plan, everything. [frustrated] God, I keep replaying our last conversation and he seemed... [trailing off] he seemed hopeful. [pause] [upset] Maybe that should have been the warning sign, right? When they suddenly seem better? [bitter] They teach you that in training but you think, no, not this time, this one's real progress. [sigh] [very sad] Three years clean. Three years. [quietly] And I told his mom last month that I'd never seen him more committed. [regretful] I should have checked in yesterday when he didn't answer my text. [shaky voice] But I thought— I thought I was giving him space to live his life, not be just another person hovering. [long pause] [exhausted] Twenty-three years old. [crying while speaking] He was supposed to outlive this. He was supposed to be the success story I tell other clients about. [sniffle] [very quietly] I'm so tired of losing them."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "25003078_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your overdose prevention client just died after you thought they were making real progress",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

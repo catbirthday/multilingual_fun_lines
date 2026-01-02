@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "*sigh* So I got this voicemail saying you guys need my payment info or my account gets suspended?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay okay, let me—let me pull up your account first. Um, could I get your phone number ending in the last four digits please?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, let me think... 5-5-7-8. Though honestly this feels exactly like those scam calls."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I totally get that. So I'm showing here... er... account 5578-MK9... and actually there's—there's no notes about any calls made to you today. When did you get this voicemail?"
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* About an hour ago? Maybe ninety minutes? Look, they knew my name and everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay that's—that's concerning actually. Um, let me check our outbound call log for... what's the—the system shows zero calls from our center to your number 555-555-5578 in the past, uh, past seventy-two hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Ohhh great. So basically I'm dealing with scammers who somehow have my info. Perfect."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unfortunately yeah, it—it sounds like it. We'd never—never ask for payment details over voicemail. All legitimate contacts would be through secure portal MSG-7729 or, er, or direct mail to your address on file, 4421 Oak Street."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Wait, how did they even—okay so what exactly should I do here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So first thing, um, don't—don't call them back obviously. I'm gonna... hmm... I'm adding a security flag... there... flag ID SEC-9902-AA to your account right now so any changes require—require extra verification."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me guess, this happens all the time and there's basically nothing you can actually do about it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* I mean, honestly? Yeah we—we get these reports daily. But but but, I can send you our fraud prevention guide, document FPG-2024-11, and also, uh, what's the word... escalate? Escalate this to our security team for investigation."
+        },
+        {
+            "role": "Customer",
+            "content": "Mmm, okay so... will they actually investigate or is this just going into some void?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "They do—they do look into patterns. Case number INV-8847-TK is yours. Though admittedly the... er... the callbacks take about five to seven business days usually."
+        },
+        {
+            "role": "Customer",
+            "content": "*sigh* Five to seven days. Of course. Alright, what if these people try something with my account meanwhile?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That security flag I added? It—it blocks everything. No changes, no orders, nothing without calling us direct at 800-555-0134 extension 411 and, um, and doing full verification. Your account's basically locked down tight."
+        },
+        {
+            "role": "Customer",
+            "content": "Huh. Okay that's... actually helpful. So wait, they mentioned a balance of like two hundred something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Checking checking... your current balance is, uh, is exactly zero dollars. Last payment processed October fifteenth for $47.82, fully cleared. So yeah, total—total scam attempt there."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Right. Cool. Well hey, at least you didn't try to upsell me on identity protection or whatever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*slight exhale* Ha, yeah no, not—not today. Though er, between you and me? After the third scam call report before noon, I'm just... I'm trying to actually help, you know? Your case reference is CR-6623-VP if you need anything else."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "*sigh* So I got this voicemail saying you guys need my payment info or my account gets suspended?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay okay, let me—let me pull up your account first. Um, could I get your phone number ending in the last four digits please?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, let me think... 5-5-7-8. Though honestly this feels exactly like those scam calls."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I totally get that. So I'm showing here... er... account 5578-MK9... and actually there's—there's no notes about any calls made to you today. When did you get this voicemail?"
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* About an hour ago? Maybe ninety minutes? Look, they knew my name and everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay that's—that's concerning actually. Um, let me check our outbound call log for... what's the—the system shows zero calls from our center to your number 555-555-5578 in the past, uh, past seventy-two hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Ohhh great. So basically I'm dealing with scammers who somehow have my info. Perfect."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Unfortunately yeah, it—it sounds like it. We'd never—never ask for payment details over voicemail. All legitimate contacts would be through secure portal MSG-7729 or, er, or direct mail to your address on file, 4421 Oak Street."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Wait, how did they even—okay so what exactly should I do here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So first thing, um, don't—don't call them back obviously. I'm gonna... hmm... I'm adding a security flag... there... flag ID SEC-9902-AA to your account right now so any changes require—require extra verification."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me guess, this happens all the time and there's basically nothing you can actually do about it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* I mean, honestly? Yeah we—we get these reports daily. But but but, I can send you our fraud prevention guide, document FPG-2024-11, and also, uh, what's the word... escalate? Escalate this to our security team for investigation."
+        },
+        {
+            "role": "Customer",
+            "content": "Mmm, okay so... will they actually investigate or is this just going into some void?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "They do—they do look into patterns. Case number INV-8847-TK is yours. Though admittedly the... er... the callbacks take about five to seven business days usually."
+        },
+        {
+            "role": "Customer",
+            "content": "*sigh* Five to seven days. Of course. Alright, what if these people try something with my account meanwhile?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That security flag I added? It—it blocks everything. No changes, no orders, nothing without calling us direct at 800-555-0134 extension 411 and, um, and doing full verification. Your account's basically locked down tight."
+        },
+        {
+            "role": "Customer",
+            "content": "Huh. Okay that's... actually helpful. So wait, they mentioned a balance of like two hundred something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Checking checking... your current balance is, uh, is exactly zero dollars. Last payment processed October fifteenth for $47.82, fully cleared. So yeah, total—total scam attempt there."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Right. Cool. Well hey, at least you didn't try to upsell me on identity protection or whatever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*slight exhale* Ha, yeah no, not—not today. Though er, between you and me? After the third scam call report before noon, I'm just... I'm trying to actually help, you know? Your case reference is CR-6623-VP if you need anything else."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "588abeee_script.json",
+    "professionalism": "casual",
+    "scenario": "wanting to verify legitimacy of a call they received",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "annoyed_sarcastic",
+                "skeptical_guarded"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches",
+                    "repetition_stutter",
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

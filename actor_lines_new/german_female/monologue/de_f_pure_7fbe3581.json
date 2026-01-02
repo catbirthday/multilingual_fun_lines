@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "Drei Uhr nachts. Drei Uhr morgens, da stehen die Bullen bei den Hendersons vor der Tür. [frustrated] Natürlich rufen die sofort bei mir an, weil, ach, das System, das ich installiert hab, spinnt rum. [sarcastic] „Beste Sicherheitstechnik auf dem Markt\", hab ich denen gesagt. [bitter] Ja, schön, stellt sich raus, ihr „perfekt gesichertes\" Haus wurde trotzdem ausgeräumt, weil— [laugh] pass auf—während die Polizei, äh, mit dem fünfzehnten Fehlalarm diese Woche beschäftigt war, sind die echten Einbrecher einfach hinten reinspaziert. [angry] Und warum gab's fünfzehn Fehlalarme? [pause] Mittens. [very loudly] Eine zehn Kilo schwere Maine-Coon-Katze namens Mittens! [groan] Keiner hat's für nötig gehalten zu erwähnen: „Ach übrigens, wir haben 'ne nachtaktive Katze, die gerne, keine Ahnung, nachts um zwei wie bekloppt durchs Wohnzimmer turnt?\" [frustrated] Ich mein', ich hab extra nach Haustieren gefragt! [shouting] Ich hab gefragt! „Haben Sie Tiere im Haus?\" [mocking] „Ach nein, nur unsere Katze.\" [furious] NUR ihre Katze?! [sigh] Das Vieh löst mehr Sensoren aus als ein, als ein... [trailing off] Mir fällt nicht mal ein Vergleich ein. [exhausted] Also darf ich morgen wieder hinfahren, alles neu kalibrieren, wahrscheinlich auf den Kosten sitzenbleiben, weil technisch gesehen, tja, technisch gesehen hat das System genau das gemacht, wofür's gebaut wurde. [laugh hysterically] Bewegung erkannt, allerdings. [very slowly] Jede. Einzelne. Nacht."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "Three AM. Three in the morning, the cops show up at the Hendersons' place. [frustrated] Of course they call me immediately because, oh, the system I installed is going haywire. [sarcastic] \"Best security on the market,\" I told them. [bitter] Yeah, well, turns out their \"perfectly secure\" house got robbed anyway because— [laugh] get this—while the police were, um, dealing with the fifteenth false alarm this week, actual burglars walked right in through the back. [angry] And why were there fifteen false alarms? [pause] Mittens. [very loudly] A twenty-pound Maine Coon named Mittens! [groan] Nobody thought to mention, \"Oh hey, by the way, we have a nocturnal cat who likes to, I don't know, parkour across the living room at two AM?\" [frustrated] I mean, I specifically asked about pets! [shouting] I asked! \"Any animals in the house?\" [mocking] \"Oh no, just our cat.\" [furious] Just their cat?! [sigh] That thing sets off more sensors than a, than a... [trailing off] I don't even know. [exhausted] So now I've got to go back there tomorrow, recalibrate everything, probably eat the cost because technically, mmm, technically the system worked exactly as designed. [laugh histerically] It detected movement alright. [very slowly] Every. Single. Night."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "7fbe3581_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The security system you installed perfectly failed to prevent a break-in because the homeowner forgot to mention their cat would trigger the motion sensors",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": false
+    }
+}

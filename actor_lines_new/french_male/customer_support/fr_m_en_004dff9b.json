@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "*exhale* Okay okay okay, I'm looking at invoice 8827-A and the labor's all wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... I'm pulling up invoice 8827-A right now, and I can see the total is $3,247.82 with labor charges at $1,850."
+        },
+        {
+            "role": "Customer",
+            "content": "Right right, see that's—that's the thing. Three hours for a magneto? Come on."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, so you're questioning the three-hour charge at our standard rate of $125 per hour for the magneto service, which would be $375 of that labor total?"
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Exactly! I do these myself in ninety minutes. Hour forty-five tops if the harness is stubborn."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so basically I'm seeing here that technician ID 447 logged 3.2 hours on September 14th, but um, let me check if there were any complications noted in the work order."
+        },
+        {
+            "role": "Customer",
+            "content": "And and and the parts markup! Forty percent? That Champion plug lists for eighteen-fifty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so the REM40E plugs—we've got them at $26.75 each, quantity of 6 for a subtotal of $160.50, which does reflect our standard parts margin."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* Look I get it, overhead, whatever. But this alternator belt? That's highway robbery."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me look at that specific part... okay the Continental alternator belt, part number 649172, is listed at $89.99 which, um, I can understand might seem high."
+        },
+        {
+            "role": "Customer",
+            "content": "Might seem? *nervous laugh* I buy 'em wholesale for twenty-two bucks!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you. So basically what I can do is review this with our service manager—your total labor is $1,850 and parts are $1,397.82, and we might have some flexibility on the markup percentage."
+        },
+        {
+            "role": "Customer",
+            "content": "Thing is I've been coming here fifteen years. Since you guys were in the old hangar..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I can see your history here—customer since 2009, and you've had 47 service visits totaling $68,924 over the years, so you're definitely one of our valued clients."
+        },
+        {
+            "role": "Customer",
+            "content": "Right? So when I see three hours for a mag, I just—I just think..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, what if we could adjust that? I'm seeing we could apply our frequent customer discount code FC15, which would reduce your total by 15 percent to $2,760.64."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* That's... better. Still think the mag time's padded but..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what, let me also flag this for review—I'm adding note TR-9928 to have our shop foreman look at the time standards for magneto service, especially for experienced customers like yourself."
+        },
+        {
+            "role": "Customer",
+            "content": "Appreciate it. Honestly just want fair pricing. We're all trying to keep birds in the air, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly right. So I've applied that discount, your new total is $2,760.64, and I've scheduled a callback from our service manager within 48 hours to discuss the labor standards going forward."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "*exhale* Okay okay okay, I'm looking at invoice 8827-A and the labor's all wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... I'm pulling up invoice 8827-A right now, and I can see the total is $3,247.82 with labor charges at $1,850."
+        },
+        {
+            "role": "Customer",
+            "content": "Right right, see that's—that's the thing. Three hours for a magneto? Come on."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, so you're questioning the three-hour charge at our standard rate of $125 per hour for the magneto service, which would be $375 of that labor total?"
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Exactly! I do these myself in ninety minutes. Hour forty-five tops if the harness is stubborn."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so basically I'm seeing here that technician ID 447 logged 3.2 hours on September 14th, but um, let me check if there were any complications noted in the work order."
+        },
+        {
+            "role": "Customer",
+            "content": "And and and the parts markup! Forty percent? That Champion plug lists for eighteen-fifty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so the REM40E plugs—we've got them at $26.75 each, quantity of 6 for a subtotal of $160.50, which does reflect our standard parts margin."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* Look I get it, overhead, whatever. But this alternator belt? That's highway robbery."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me look at that specific part... okay the Continental alternator belt, part number 649172, is listed at $89.99 which, um, I can understand might seem high."
+        },
+        {
+            "role": "Customer",
+            "content": "Might seem? *nervous laugh* I buy 'em wholesale for twenty-two bucks!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you. So basically what I can do is review this with our service manager—your total labor is $1,850 and parts are $1,397.82, and we might have some flexibility on the markup percentage."
+        },
+        {
+            "role": "Customer",
+            "content": "Thing is I've been coming here fifteen years. Since you guys were in the old hangar..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I can see your history here—customer since 2009, and you've had 47 service visits totaling $68,924 over the years, so you're definitely one of our valued clients."
+        },
+        {
+            "role": "Customer",
+            "content": "Right? So when I see three hours for a mag, I just—I just think..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, what if we could adjust that? I'm seeing we could apply our frequent customer discount code FC15, which would reduce your total by 15 percent to $2,760.64."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* That's... better. Still think the mag time's padded but..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what, let me also flag this for review—I'm adding note TR-9928 to have our shop foreman look at the time standards for magneto service, especially for experienced customers like yourself."
+        },
+        {
+            "role": "Customer",
+            "content": "Appreciate it. Honestly just want fair pricing. We're all trying to keep birds in the air, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly right. So I've applied that discount, your new total is $2,760.64, and I've scheduled a callback from our service manager within 48 hours to discuss the labor standards going forward."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "004dff9b_script.json",
+    "professionalism": "casual",
+    "scenario": "aircraft mechanic, detail-oriented about parts and labor charge breakdowns on his invoice",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches",
+                    "trailing_off",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "carefully_diplomatic",
+                "nervously_thorough"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "classic_fillers",
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

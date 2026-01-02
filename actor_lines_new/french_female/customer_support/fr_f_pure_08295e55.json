@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "J'avais commandé une carafe en cristal comme cadeau de mariage, et elle est arrivée complètement en miettes. Les mariés l'ont ouverte pendant leur réception."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh là là, je suis vraiment désolée pour cette situation. Ça a dû être terriblement gênant pour tout le monde. Attendez, je vais chercher votre commande tout de suite et on va arranger ça."
+        },
+        {
+            "role": "Customer",
+            "content": "Le numéro de commande c'est WG-8847-JL. C'était censé être un moment spécial pour eux."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Merci. Alors j'ai votre commande WG-8847-JL ici, passée le 12 octobre pour la carafe en cristal Waterford à 289,99€. Je vois que c'était marqué comme fragile mais visiblement notre équipe d'expédition n'a pas fait son travail correctement."
+        },
+        {
+            "role": "Customer",
+            "content": "Voilà, exactement. L'emballage était... enfin, c'était vraiment pas suffisant. Il y avait presque rien comme protection dans le carton, quoi."
+        },
+        {
+            "role": "Customer Support",
+            "content": "C'est absolument inacceptable de notre part. Écoutez, je note tout de suite ce problème d'emballage pour l'équipe d'entrepôt et je lance, euh... à la fois un remboursement intégral et une commande de remplacement avec le code prioritaire... attendez... PH-7734."
+        },
+        {
+            "role": "Customer",
+            "content": "J'apprécie, mais bon, le mal est fait. Vous pouvez faire quelque chose pour le couple?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah mais bien sûr. Vu les circonstances, j'autorise un bon d'achat de 100€ pour les mariés, référence GC-4521-NPR, qu'ils pourront utiliser sur tout notre catalogue. Et puis, j'expédie une carafe de remplacement avec notre service de livraison premium."
+        },
+        {
+            "role": "Customer",
+            "content": "C'est gentil ça. Elle arriverait quand, la nouvelle, et elle sera bien emballée cette fois?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bien sûr."
+        },
+        {
+            "role": "Customer",
+            "content": "J'ai besoin de détails précis sur l'emballage amélioré et les délais de livraison."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alors, voilà. Le remplacement partira aujourd'hui avant 15h avec une protection mousse triple épaisseur, livraison mardi 18 entre 10h et 14h. Notre service premium inclut une vérification avant livraison et une présentation cadeau professionnelle."
+        },
+        {
+            "role": "Customer",
+            "content": "Bon. Vous pouvez m'envoyer la confirmation du remboursement et du bon cadeau sur mon mail?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "C'est déjà en cours. Vous allez recevoir la confirmation du remboursement dans les 15 minutes avec le crédit de 289,99€, et le mail avec le bon cadeau code GC-4521-NPR vous sera envoyé directement pour que vous puissiez le transmettre aux mariés."
+        },
+        {
+            "role": "Customer",
+            "content": "Quelqu'un va faire un suivi pour s'assurer que le remplacement arrive intact?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oui, j'assigne ça à notre équipe qualité sous le dossier QA-9982-M. Ils vous contacteront mercredi matin pour confirmer la bonne réception et votre satisfaction avec la résolution."
+        },
+        {
+            "role": "Customer",
+            "content": "Merci. Cette réponse aide à rattraper une situation vraiment embarrassante. S'il vous plaît, faites en sorte que ça n'arrive plus à d'autres."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je comprends tout à fait. J'ai remonté cet incident au directeur du service emballage sous le rapport EPD-3346-K, et vous recevrez une copie de notre plan d'action correctif dans les 5 jours ouvrés."
+        },
+        {
+            "role": "Customer",
+            "content": "Parfait. Je vais surveiller mes mails et j'attends la livraison mardi."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tout est confirmé et traité. La commande de remplacement RT-8847-JL2 indique bien livraison mardi, et toute la documentation va arriver sous peu. Merci de votre patience et de nous avoir donné l'occasion de corriger notre erreur."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I ordered a crystal decanter as a wedding gift, and it arrived completely shattered. The recipients opened it at their reception."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize for that situation. That must have been terribly disappointing for everyone involved. Let me pull up your order immediately and we'll make this right."
+        },
+        {
+            "role": "Customer",
+            "content": "The order number is WG-8847-JL. This was supposed to be a special moment for them."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your order WG-8847-JL here, placed on October 12th for the Waterford crystal decanter valued at $289.99. I can see it was marked as fragile but clearly our shipping team failed to protect it properly."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. The packaging was inadequate. There was barely any protective material inside the box."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's completely unacceptable on our part. I'm documenting this packaging failure for our warehouse team and initiating both a full refund and a replacement order with priority handling code PH-7734."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that, but the damage is done. Is there anything you can do for the couple?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Given the circumstances, I'm authorizing a $100 gift certificate for the recipients, reference number GC-4521-NPR, which they can use on anything in our catalog. Additionally, I'm expediting a replacement decanter with our white-glove delivery service."
+        },
+        {
+            "role": "Customer",
+            "content": "That's thoughtful. When would the replacement arrive, and will it be properly packaged this time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "I need specifics on the packaging improvements and delivery timeline."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The replacement will ship today by 3 PM Eastern with triple-layer foam protection, arriving Tuesday the 18th between 10 AM and 2 PM. Our white-glove service includes inspection before delivery and professional gift presentation."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you send confirmation of both the refund and the gift certificate to my email?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already processing that. You'll receive the refund confirmation within 15 minutes showing the $289.99 credit, and the gift certificate email with code GC-4521-NPR will be sent directly to you for forwarding to the recipients."
+        },
+        {
+            "role": "Customer",
+            "content": "Will someone follow up to ensure the replacement arrives intact?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, I'm assigning this to our quality assurance team under case number QA-9982-M. They'll contact you Wednesday morning to confirm successful delivery and satisfaction with the resolution."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. This response helps salvage an embarrassing situation. Please ensure this doesn't happen to others."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. I've escalated this incident to our packaging department director under report EPD-3346-K, and you'll receive a copy of our corrective action plan within 5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I'll watch for those emails and expect the replacement Tuesday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything is confirmed and processed. The replacement order RT-8847-JL2 shows Tuesday delivery, and all documentation will arrive shortly. Thank you for your patience and for giving us the opportunity to make this right."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "08295e55_script.json",
+    "professionalism": "professional",
+    "scenario": "upset because a gift they ordered arrived damaged and the recipient saw it",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "businesslike_direct",
+                "graciously_disappointed"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "briskly_efficient",
+                "patiently_methodical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

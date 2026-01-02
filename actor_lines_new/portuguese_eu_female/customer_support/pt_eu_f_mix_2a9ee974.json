@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Boa tarde. Estou a ligar sobre uma conta de serviço pré-pago que precisa de ser transferida, due to the account holder's passing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Boa tarde, obrigada por ligar. Os meus sentimentos pela perda. Claro que a vou ajudar com a transferência da conta hoje. Posso ter o número da conta ou o nome completo da falecida, para localizar o plano de serviço pré-pago?"
+        },
+        {
+            "role": "Customer",
+            "content": "A titular da conta era Margaret Louise Harrison. She passed away on November third."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Obrigada por essa informação. Localizei a conta da Senhora Harrison, referência PSA-7734-MLH, showing a Gold Level prepaid service plan purchased in 2019. Posso ter o seu nome e a sua relação com a Senhora Harrison, ou a informação da agência funerária?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sou Thomas Bradley, from Bradley & Sons Funeral Home. Estamos a tratar dos preparativos para a família."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Obrigada, Senhor Bradley. Tenho aqui a Bradley & Sons como fornecedor autorizado na nossa rede, código FSP-4429-B. Para proceder com a transferência, vou precisar de verificar o seu número de licença de diretor, and obtain the death certificate filing number when it becomes available."
+        },
+        {
+            "role": "Customer",
+            "content": "O meu número de licença é FD-88412. A certidão de óbito ainda está a ser processada pelo município."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito, verifiquei a sua licença FD-88412 no nosso sistema. Por agora, posso iniciar uma transferência provisória com o número de caso TRF-2024-11-9847, which will activate the prepaid benefits immediately. A família tem um saldo de $8,750.00 em serviços cobertos, and you'll receive the full authorization packet within 2 business hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Excelente. Pode esclarecer que serviços estão cobertos no plano Gold Level dela?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza. O plano Gold Level PSA-7734-MLH cobre o pacote completo de serviços, including embalming, viewing arrangements, ceremony coordination, seleção de urna premium das categorias A até C, e transporte num raio de 50 milhas. Adicionalmente, há uma verba de $1,500.00 para arranjos florais e impressão memorial, under code FLR-GOLD-150."
+        },
+        {
+            "role": "Customer",
+            "content": "Obrigado. A família pediu serviços de limusine adicionais. Como é que devemos tratar isso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Compreendo. Serviços de limusine adicionais além do transporte incluído podem ser acrescentados à nossa tarifa contratada de $275.00 por veículo, for up to 4 hours, código de faturação LIMO-ADD-275. Quer que eu adicione isso à autorização de serviço agora, ou vai tratar disso separadamente com a família?"
+        },
+        {
+            "role": "Customer",
+            "content": "Por favor, adicione uma limusine adicional à autorização. The family will cover the difference."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Já adicionei. O seu número de autorização atualizado é TRF-2024-11-9847-L1, agora mostrando o serviço de limusine adicional a $275.00. A família será responsável por este valor, beyond the prepaid coverage."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfeito. Quando é que os fundos serão libertados para a nossa agência?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "O pagamento inicial de 60% será transferido eletronicamente para a vossa conta terminada em 4492, within 24 hours of receiving the provisional transfer. Os restantes 40% são libertados após submissão da documentação completa do serviço e certidão de óbito, through our portal at providers.memorialservices.com/submit."
+        },
+        {
+            "role": "Customer",
+            "content": "Entendo. Devo usar as nossas credenciais de login habituais para a submissão no portal?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sim, as vossas credenciais existentes para Bradley & Sons vão funcionar. O vosso username da agência é BRADLEY-4429, and you'll upload everything under case number TRF-2024-11-9847-L1. Há mais alguma coisa sobre a conta da Senhora Harrison em que precise de ajuda hoje?"
+        },
+        {
+            "role": "Customer",
+            "content": "Não, isso cobre tudo. Thank you for your help with this transfer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "De nada, Senhor Bradley. Enviei um email de confirmação com todos os detalhes da transferência e códigos de autorização, to your registered email. Se precisar de assistência adicional, por favor referencie o número de caso TRF-2024-11-9847-L1. Obrigada por ligar, and please extend our condolences to the Harrison family."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling regarding a prepaid service account that needs to be transferred due to the account holder's passing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for calling. I'm very sorry for the loss. I'll certainly help you with the account transfer today. May I please have the account number or the deceased's full name to locate the prepaid service plan?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account holder was Margaret Louise Harrison. She passed away on November third."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for that information. I've located Mrs. Harrison's account, reference number PSA-7734-MLH, showing a Gold Level prepaid service plan purchased in 2019. May I please have your name and your relationship to Mrs. Harrison or your funeral home information?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'm Thomas Bradley from Bradley & Sons Funeral Home. We're handling the arrangements for the family."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you, Mr. Bradley. I show Bradley & Sons as an authorized provider in our network, facility code FSP-4429-B. To proceed with the transfer, I'll need to verify your director license number and obtain the death certificate filing number when it becomes available."
+        },
+        {
+            "role": "Customer",
+            "content": "My license number is FD-88412. The death certificate is still being processed by the county."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, I've verified your license FD-88412 in our system. For now, I can initiate a provisional transfer with case number TRF-2024-11-9847, which will activate the prepaid benefits immediately. The family has a balance of $8,750.00 in covered services, and you'll receive the full authorization packet within two business hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Can you clarify what services are covered under her Gold Level plan?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The Gold Level plan PSA-7734-MLH covers the complete service package including embalming, viewing arrangements, ceremony coordination, premium casket selection from category A through C, and transportation within a 50-mile radius. Additionally, there's a $1,500.00 allowance for floral arrangements and memorial printing under code FLR-GOLD-150."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. The family has requested additional limousine services. How should we handle that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand. Additional limousine services beyond the included transportation can be added at our contracted rate of $275.00 per vehicle for up to four hours, billing code LIMO-ADD-275. Would you like me to add that to the service authorization now, or will you be handling that separately with the family?"
+        },
+        {
+            "role": "Customer",
+            "content": "Please add one additional limousine to the authorization. The family will cover the difference."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've added that. Your updated authorization number is TRF-2024-11-9847-L1, now showing the additional limousine service at $275.00. The family will be responsible for this amount beyond the prepaid coverage."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. When will the funds be released to our facility?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The initial payment of 60% will be electronically transferred to your account ending in 4492 within 24 hours of receiving the provisional transfer. The remaining 40% releases upon submission of the completed service documentation and death certificate through our portal at providers.memorialservices.com/submit."
+        },
+        {
+            "role": "Customer",
+            "content": "I understand. Should I use our standard login credentials for the portal submission?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, your existing credentials for Bradley & Sons will work. Your facility username is BRADLEY-4429, and you'll upload everything under case number TRF-2024-11-9847-L1. Is there anything else regarding Mrs. Harrison's account that you need assistance with today?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, that covers everything. Thank you for your help with this transfer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome, Mr. Bradley. I've sent a confirmation email with all the transfer details and authorization codes to your registered email. If you need any additional assistance, please reference case number TRF-2024-11-9847-L1. Thank you for calling, and please extend our condolences to the Harrison family."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2a9ee974_script.json",
+    "professionalism": "professional",
+    "scenario": "funeral director, calling about transferring a deceased client's prepaid service account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "politely_firm",
+                "patiently_persistent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "warmly_professional",
+                "diplomatically_firm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

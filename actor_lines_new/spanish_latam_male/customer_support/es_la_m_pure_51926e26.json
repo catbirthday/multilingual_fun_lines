@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Buenas tardes. Mira, estoy llamando por un problema con el precio de un pedido de refacciones que hice ayer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Buenas tardes. Con mucho gusto lo ayudo con ese tema del precio. ¿Me puede dar su número de cuenta y la referencia del pedido para buscar los detalles?"
+        },
+        {
+            "role": "Customer",
+            "content": "Mi número de cuenta es ART-4928. El pedido es de una tarjeta de control de Whirlpool, la pieza W10503278."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias. Aquí tengo su cuenta, ART-4928, veo que está registrado como técnico certificado con nosotros. Ya veo el pedido de ayer a las 2:47 PM de la tarjeta de control de Whirlpool. ¿Cuál es específicamente el problema con el precio que le puedo resolver?"
+        },
+        {
+            "role": "Customer",
+            "content": "Este... el sistema me cobró precio de público, trescientos doce dólares, en vez de aplicarme mi descuento de profesional."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entiendo su preocupación. Déjeme revisar la estructura de precios que se aplicó en esta transacción. Su nivel de descuento de técnico debería ser el T3-PRO, que normalmente da un 35% de reducción del precio al público."
+        },
+        {
+            "role": "Customer",
+            "content": "Exacto. Es que ya van tres agentes diferentes que me dicen que lo van a corregir, pero nada, no pasa nada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ay, disculpe por esa experiencia. Aquí veo las notas de las interacciones anteriores en los tickets CS-892741 y CS-892759. El problema parece ser que la pieza W10503278 no estaba marcada correctamente en nuestro sistema para el descuento profesional. Ya lo estoy corrigiendo ahorita."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah, ok, pero ¿esto va a aplicar también para pedidos futuros, o solo para esta transacción?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excelente pregunta. Estoy aplicando una corrección permanente a la pieza W10503278 en nuestra base de datos con el código de actualización UPD-7724-TN. Esto asegura que todos los pedidos futuros automáticamente reflejen su descuento profesional. Además, estoy procesando un crédito inmediato para el pedido actual."
+        },
+        {
+            "role": "Customer",
+            "content": "Gracias. ¿Cuál sería el precio correcto ya con mi descuento aplicado?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Con su descuento T3-PRO aplicado al precio al público de $312.00, su precio corregido es $202.80. El crédito de $109.20 se procesa hoy y debería verse reflejado en su cuenta en las próximas 24 horas."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfecto. ¿Puede revisar también si el mismo problema afecta al motor del ventilador del evaporador de Frigidaire que pido regularmente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sí. Déjeme verificarlo. El motor del ventilador del evaporador de Frigidaire, número de pieza 242018301, está apareciendo correctamente en nuestro sistema con su precio de descuento de $47.85. Sus últimos tres pedidos de esta pieza todos se procesaron con el precio profesional correcto."
+        },
+        {
+            "role": "Customer",
+            "content": "Qué bueno. O sea, yo pido como quince a veinte piezas por semana y no puedo estar revisando cada factura por errores."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No, claro, lo entiendo completamente. Para prevenir problemas futuros, voy a correr una auditoría completa en su cuenta usando nuestro protocolo de verificación VAP-2024. Esto va a marcar cualquier pieza en nuestro catálogo que no esté codificada correctamente para su nivel de descuento. La auditoría debería completarse en unas dos horas."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso me ayudaría mucho. ¿Me van a mandar confirmación cuando termine la auditoría?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Le va a llegar un correo a su dirección registrada con el número de reporte de auditoría RPT-4482-QV31. Ahí va a venir la lista de cualquier pieza que necesite corrección y la confirmación de todos los ajustes realizados. También le puse una marca de prioridad a su cuenta para soporte expedito en cualquier problema futuro con precios."
+        },
+        {
+            "role": "Customer",
+            "content": "Te agradezco que seas tan minucioso. Esto era exactamente el tipo de soporte que necesitaba desde el principio."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias a usted por su paciencia con este asunto. Su número de confirmación de crédito es CRD-7829-XM22, y ya documenté todas las correcciones en su cuenta. ¿Hay algo más en lo que lo pueda ayudar con sus pedidos de refacciones o su cuenta el día de hoy?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling about a pricing issue with my parts order from yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon. I'd be happy to assist you with that pricing concern. May I have your account number and the order reference so I can pull up the details?"
+        },
+        {
+            "role": "Customer",
+            "content": "My account number is ART-4928. The order is for a Whirlpool control board, part W10503278."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your account here, ART-4928, showing you're registered as a certified repair technician with us. I can see the order placed yesterday at 2:47 PM for the Whirlpool control board. What specific pricing concern can I help address?"
+        },
+        {
+            "role": "Customer",
+            "content": "The system charged me retail price at three hundred twelve dollars instead of my trade discount rate."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me review the pricing structure applied to this transaction. Your technician discount level should be tier T3-PRO, which typically provides a 35% reduction from retail pricing."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. I've had three different agents tell me it would be corrected, but nothing has happened yet."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for that experience. I can see the notes from the previous interactions in ticket numbers CS-892741 and CS-892759. The issue appears to be that part W10503278 wasn't properly flagged in our system for professional discounting. I'm correcting this now."
+        },
+        {
+            "role": "Customer",
+            "content": "Will this fix apply to future orders as well, or just this one transaction?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. I'm applying a permanent correction to part W10503278 in our database under update code UPD-7724-TN. This ensures all future orders will automatically reflect your professional discount. Additionally, I'm processing an immediate credit for the current order."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. What will the corrected price be with my discount applied?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. With your T3-PRO discount applied to the retail price of $312.00, your corrected price is $202.80. The credit of $109.20 will be processed today and should reflect in your account within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. Can you also check if the same issue affects the Frigidaire evaporator fan motor I order regularly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. Let me verify that for you. The Frigidaire evaporator fan motor, part number 242018301, is showing correctly in our system at your discounted rate of $47.85. Your last three orders for this part all processed at the proper professional pricing."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. I order about fifteen to twenty parts weekly and can't check every single invoice for errors."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand. To prevent future issues, I'm running a comprehensive audit on your account using our verification protocol VAP-2024. This will flag any parts in our catalog that aren't properly coded for your discount tier. The audit should complete within two hours."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be helpful. Will I receive confirmation when the audit is complete?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll receive an email to your registered address with the audit report number RPT-4482-QV31. It will list any parts requiring correction and confirm all adjustments made. I've also added a priority flag to your account for expedited support on any future pricing concerns."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate your thoroughness. This is exactly the kind of support I needed from the beginning."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for your patience with this matter. Your credit confirmation number is CRD-7829-XM22, and I've documented all corrections in your account. Is there anything else I can assist you with regarding your parts ordering or account today?"
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "51926e26_script.json",
+    "professionalism": "professional",
+    "scenario": "appliance repair tech, knowledgeable and frustrated by agents who don't understand parts pricing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "cordially_concerned",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "crisply_business_like",
+                "reassuringly_calm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

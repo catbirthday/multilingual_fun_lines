@@ -1,0 +1,93 @@
+=== Source: 2e40e2b9_script.json ===
+Language: European Portuguese
+Gender: female
+Mode: mix
+Content Type: customer_support
+Professionalism: casual
+Scenario: distillery owner, frustrated that tax classification errors keep appearing on his account
+
+=== Translated Dialogue ===
+
+Customer [mix]: So basically we're a distillery. Tipo, destilados, percebes? E o sistema continua a pôr-nos como... fabricante de cerveja?
+
+Customer Support [mix]: *exhales* Oh that's... interesting. Deixa-me ver a vossa conta. *inhales* Qual é o vosso número de contribuinte?
+
+Customer [mix]: It's um 84-7761902. Então todos os meses, a mesma coisa, taxas de cerveja.
+
+Customer Support [mix]: Okay I see it here. Conta 84-7761902. *sighs* Hmm, isto é estranho, o vosso código NAICS mostra 312120 que é cervejarias. Mas vocês estão registados como... espera. Há aqui uma nota de 15 de março, alguém corrigiu e depois voltou ao que estava?
+
+Customer [mix]: Yes! Like exactly! Então nós arranjamos isto, e pronto, cerveja outra vez. É completamente insano.
+
+Customer Support [mix]: *exhales* Right so. Aqui está o que eu estou a ver, a vossa candidatura original de 8 de janeiro tem-vos classificados corretamente como 312140, que é destilados. Mas depois... hmm, cada renovação automática volta ao default. Isso definitivamente não devia acontecer.
+
+Customer [mix]: So basically I've called. Eh... quatro vezes? Cinco? Sinceramente já perdi a conta.
+
+Customer Support [mix]: *inhales sharply* Oh wow. Pois, estou a ver, 3 de fevereiro, 28 de fevereiro, 15 de março, 30 de março, e 11 de abril. Cinco chamadas, cada uma marcada como resolvida. *sighs* Mas obviamente, não resolvida. Deixa-me investigar melhor aqui.
+
+Customer [mix]: Can we just. Arranjar isto de vez? Por favor? As penalizações estão a matar-nos.
+
+Customer Support [mix]: Absolutely. Então o que eu vou fazer, *exhales* vou escalar isto para a nossa equipa de classificação fiscal. Número de caso TC-9847-XK. Eles tratam da codificação backend, deve prevenir a reversão. Demora umas 48 horas.
+
+Customer [mix]: Forty-eight hours. Ótimo, então entretanto ainda somos cerveja?
+
+Customer Support [mix]: Well actually. Não, estou a aplicar um override temporário agora mesmo. Código TMP-3847. Isso vai manter-vos na classificação correta, até à correção permanente no dia 22 de abril. Devem ver o ajustamento... dentro de... talvez... duas horas?
+
+Customer [mix]: Oh. Ah, ok então isso realmente ajuda, tipo imediatamente?
+
+Customer Support [mix]: *exhales* Yeah exactly. A vossa próxima declaração vai mostrar a taxa adequada de 21% em vez daquela taxa de cerveja de 16.8%. E honestamente, olhando para a vossa conta, devemos-vos uns $3,400 em créditos de pagamento excessivo, daquelas penalizações incorretas.
+
+Customer [mix]: Wait seriously? Então vamos receber dinheiro de volta?
+
+Customer Support [mix]: *inhales* Oh definitely. A nota de crédito CM-7799-B está a processar agora, deve chegar à vossa conta até 20 de abril. E já agora, estou a pôr uma flag de prioridade, código PRI-847, em toda a vossa conta. Qualquer problema futuro, vocês saltam a fila.
+
+Customer [mix]: That's. Nossa, então basicamente este pesadelo está mesmo a acabar?
+
+Customer Support [mix]: *sighs with relief* It really is. O vosso caso TC-9847-XK vai direto para a equipa técnica sénior, eles vão codificar permanentemente a vossa classificação. Sem mais reversões. Já vi este bug duas vezes antes, nas duas vezes, a correção permanente funcionou.
+
+Customer [mix]: Honestly I'm just. Aliviada, tipo tão aliviada. Obrigada.
+
+Customer Support [mix]: *exhales* Hey you've been incredibly patient. Cinco chamadas é... duro. O vosso número de confirmação é CFM-8827-XK41. Vai-vos chegar um email em breve, tudo o que discutimos, mais a minha extensão direta, 4782. Se acontecer alguma coisa estranha, liguem-me diretamente.
+
+
+=== Original (English) ===
+
+Customer: So basically we're a distillery. Like. Spirits. And the system keeps putting us as. Beer manufacturer?
+
+Customer Support: *exhales* Oh that's... interesting. Let me pull up your account. *inhales* What's your business tax ID?
+
+Customer: It's um 84-7761902. So every month. Same thing. Beer tax rates.
+
+Customer Support: Okay I see it here. Account 84-7761902. *sighs* Hmm. This is weird. Your NAICS code shows 312120 which is breweries. But you're filed as. Wait. There's a note from March 15th. Someone corrected it. Then it reverted?
+
+Customer: Yes! Like exactly! So we fix it. Then boom. Beer again. It's actually insane.
+
+Customer Support: *exhales* Right so. Here's what I'm seeing. Your original application from January 8th has you classified correctly as 312140. That's distilled spirits. But then. Hmm. Every automatic renewal. It defaults back. That's definitely not supposed to happen.
+
+Customer: So basically I've called. Er. Four times? Five? Lost count honestly.
+
+Customer Support: *inhales sharply* Oh wow. Yeah I see. February 3rd. February 28th. March 15th. March 30th. And April 11th. Five calls. Each time marked resolved. *sighs* But obviously. Not resolved. Let me dig deeper here.
+
+Customer: Can we just. Fix it permanently? Please? The penalties are killing us.
+
+Customer Support: Absolutely. So what I'm gonna do. *exhales* I'm escalating this to our tax classification team. Case number TC-9847-XK. They handle the backend coding. Should prevent the reversion. Takes about 48 hours.
+
+Customer: Forty-eight hours. Great. So meanwhile we're still beer?
+
+Customer Support: Well actually. No. I'm applying a temporary override right now. Code TMP-3847. That'll hold you at the correct classification. Until the permanent fix on April 22nd. You should see the adjustment. Within. Maybe. Two hours?
+
+Customer: Oh. Huh. Okay so that actually helps. Like immediately?
+
+Customer Support: *exhales* Yeah exactly. Your next filing will show the proper 21% rate instead of that 16.8% beer rate. And honestly. Looking at your account. We owe you about $3,400 in overpayment credits. From those incorrect penalties.
+
+Customer: Wait seriously? So we're getting money back?
+
+Customer Support: *inhales* Oh definitely. Credit memo CM-7799-B is processing now. Should hit your account by April 20th. And just so you know. I'm putting a priority flag. Code PRI-847. On your whole account. Any future issues. You skip the queue.
+
+Customer: That's. Wow. So basically this nightmare's actually ending?
+
+Customer Support: *sighs with relief* It really is. Your case TC-9847-XK goes straight to senior tech. They'll hardcode your classification. No more reversions. I've seen this bug twice before. Both times. Permanent fix worked.
+
+Customer: Honestly I'm just. Relieved. Like so relieved. Thank you.
+
+Customer Support: *exhales* Hey you've been incredibly patient. Five calls is. Rough. Your confirmation number is CFM-8827-XK41. Email coming to you shortly. Everything we discussed. Plus my direct extension. 4782. If anything weird happens. Call me directly.
+

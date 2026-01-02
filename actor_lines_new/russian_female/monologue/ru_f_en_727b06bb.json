@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[hesitantly] So I got the promotion today. The one that... well, technically it's Michael's old position. [pause] God, it feels so weird sitting in his office. I mean, they already cleared out all his stuff but I can still see where his family photos left those little marks on the desk. [sad] He taught me everything, you know? Like, literally everything I know about forensic accounting came from him. And now I'm just... here. [sigh] In his chair. Making probably twice what he was making before they, um... before they restructured. [guilty voice] That's what they're calling it - restructuring. [bitter] Twenty-three years he gave them and they just... [pause] I don't know, maybe I should've said something when they offered it to me? But then again, what was I supposed to do - turn it down? Someone else would've just taken it. [conflicted] And honestly? I'm good at this. Really good. Michael always said I had the instinct for it. [very quietly] I just wish he could see me now. [long pause] Actually, no. Maybe it's better he can't."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[hesitantly] So I got the promotion today. The one that... well, technically it's Michael's old position. [pause] God, it feels so weird sitting in his office. I mean, they already cleared out all his stuff but I can still see where his family photos left those little marks on the desk. [sad] He taught me everything, you know? Like, literally everything I know about forensic accounting came from him. And now I'm just... here. [sigh] In his chair. Making probably twice what he was making before they, um... before they restructured. [guilty voice] That's what they're calling it - restructuring. [bitter] Twenty-three years he gave them and they just... [pause] I don't know, maybe I should've said something when they offered it to me? But then again, what was I supposed to do - turn it down? Someone else would've just taken it. [conflicted] And honestly? I'm good at this. Really good. Michael always said I had the instinct for it. [very quietly] I just wish he could see me now. [long pause] Actually, no. Maybe it's better he can't."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "727b06bb_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Succeeding as an accountant in the same firm where your mentor was recently laid off",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

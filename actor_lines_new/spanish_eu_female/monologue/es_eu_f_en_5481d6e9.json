@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[regretful] Twenty-three years I've been fixing trumpets and trombones. Twenty-three years. And now I'm sitting here with, what, maybe two repairs this whole week? [sigh] I used to have instruments lined up, you know, all along that back wall. September was crazy—kids dropping off their rentals, dents from summer, sticky valves... [pause] Now it's just quiet. [bitter] Nobody wants to join band anymore, apparently. It's all, um... it's all computers and coding clubs now. [frustrated] I mean, what happened? Music used to mean something! These kids, they don't even—they don't know what they're missing. The feeling of, hmm, nailing that high C for the first time, or playing at homecoming... [very melancholic] My dad taught me this trade. Passed down his tools, his techniques, everything. And I thought, you know, I thought I'd pass it down too. But to who? [shaky voice] There's nobody left who cares about brass. The school district's talking about, uh... about cutting music programs entirely next year. [long pause] Sometimes I just sit here polishing the same old tuba that nobody's coming to pick up, and I think... maybe it's time. Maybe I should just, I don't know, sell the shop and learn to fix phones or something. [trailing off] God, that's depressing..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[regretful] Twenty-three years I've been fixing trumpets and trombones. Twenty-three years. And now I'm sitting here with, what, maybe two repairs this whole week? [sigh] I used to have instruments lined up, you know, all along that back wall. September was crazy—kids dropping off their rentals, dents from summer, sticky valves... [pause] Now it's just quiet. [bitter] Nobody wants to join band anymore, apparently. It's all, um... it's all computers and coding clubs now. [frustrated] I mean, what happened? Music used to mean something! These kids, they don't even—they don't know what they're missing. The feeling of, hmm, nailing that high C for the first time, or playing at homecoming... [very melancholic] My dad taught me this trade. Passed down his tools, his techniques, everything. And I thought, you know, I thought I'd pass it down too. But to who? [shaky voice] There's nobody left who cares about brass. The school district's talking about, uh... about cutting music programs entirely next year. [long pause] Sometimes I just sit here polishing the same old tuba that nobody's coming to pick up, and I think... maybe it's time. Maybe I should just, I don't know, sell the shop and learn to fix phones or something. [trailing off] God, that's depressing..."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "5481d6e9_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your brass instrument repair business is failing because kids don't join band anymore",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

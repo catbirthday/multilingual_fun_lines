@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Bonjour. J'aurais besoin d'éclaircissements sur des frais de transactions internationales qui apparaissent sur mon relevé."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bonjour, et merci de votre appel. Je serais ravie de vous expliquer ces frais en détail. Est-ce que je peux avoir votre numéro de compte pour consulter vos transactions spécifiques ?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oui, c'est le 4829-7361-0042. J'ai trois frais que je ne comprends pas tout à fait."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Merci. J'ai accédé à votre compte se terminant par 0042, et je vois les transactions de votre période de relevé du 1er au 31 octobre. Les trois frais internationaux totalisant 47,85 euros proviennent d'achats effectués les 12, 15 et 23 octobre."
+        },
+        {
+            "role": "Customer",
+            "content": "Ces dates correspondent à mes notes. Expliquez-moi comment ces frais sont calculés, s'il vous plaît."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bien sûr. Chaque transaction internationale entraîne des frais de transaction étrangère de 3,2%, ce qui est standard sur tous nos comptes Premium. Votre achat du 12 octobre de 485 euros chez un commerçant britannique a généré 15,52 euros de frais, calculés à exactement 3,2% du montant de la transaction."
+        },
+        {
+            "role": "Customer",
+            "content": "Je vois. Est-ce que ça s'applique à tous les commerçants étrangers, même quand on paie en euros ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellente question. Oui, les frais s'appliquent dès que la banque du commerçant est située hors de la zone euro, peu importe la devise que vous choisissez au moment du paiement. C'est parce que la transaction passe quand même par des réseaux internationaux avec le code de règlement FX7 ou FX9."
+        },
+        {
+            "role": "Customer",
+            "content": "C'est bon à savoir. Est-ce qu'il y a des options de compte qui annulent ces frais ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tout à fait. On propose deux solutions : notre compte Global Elite avec des frais annuels de 450 euros qui annule tous les frais de transaction étrangère, ou notre option International Plus à 12,95 euros par mois, qui réduit les frais à 0,8% par transaction."
+        },
+        {
+            "role": "Customer",
+            "content": "Calculez-moi ce que j'aurais économisé avec l'option International Plus le mois dernier, s'il vous plaît."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bien sûr. Avec International Plus à 0,8% au lieu de 3,2%, vos frais totaux auraient été de 11,96 euros au lieu de 47,85, donc vous auriez économisé 35,89 euros rien que pour octobre."
+        },
+        {
+            "role": "Customer",
+            "content": "C'est considérable. Je pourrais ajouter ce service à mon compte dans combien de temps ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je peux l'activer immédiatement. Le service International Plus commencerait avec votre prochain cycle de facturation à partir du 15 novembre, et vous recevriez une confirmation par email dans les 30 minutes avec le numéro de référence SVC-2024-1105-IP."
+        },
+        {
+            "role": "Customer",
+            "content": "Parfait. Ajoutez l'option International Plus à mon compte aujourd'hui, s'il vous plaît."
+        },
+        {
+            "role": "Customer Support",
+            "content": "J'ai ajouté International Plus à votre compte avec succès. Votre numéro de confirmation est IP-8274-QM-1105, et les frais mensuels de 12,95 euros apparaîtront sur votre relevé du 15 novembre. Le taux réduit de 0,8% s'applique à toutes les transactions enregistrées après le 15 novembre à 00h01 heure de Paris."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Est-ce que ça va affecter mes paiements automatiques existants ou mes abonnements internationaux récurrents ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vos paiements automatiques continueront sans interruption. À partir du 15 novembre, tous les prélèvements internationaux récurrents bénéficieront automatiquement du taux réduit de 0,8% au lieu du taux standard de 3,2%. Je vois que vous avez deux abonnements récurrents codés INT-RECUR qui en bénéficieront immédiatement."
+        },
+        {
+            "role": "Customer",
+            "content": "Merci pour l'explication détaillée. Envoyez-moi la confirmation et le barème des frais par email, s'il vous plaît."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bien sûr. Je vous envoie le barème complet des frais et votre confirmation de modification de service à votre adresse email enregistrée. Vous recevrez le document référence DOC-7829-FTS dans les 10 prochaines minutes. Est-ce qu'il y a autre chose que je peux faire pour vous concernant votre compte aujourd'hui ?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need clarification on international transaction fees that appeared on my statement."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for calling. I'd be happy to explain those fees in detail. May I have your account number so I can review your specific transactions?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, it's 4829-7361-0042. I have three charges I don't fully understand."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've accessed your account ending in 0042, and I can see the transactions from your statement period October 1st through October 31st. The three international fees totaling $47.85 are from purchases made on October 12th, 15th, and 23rd."
+        },
+        {
+            "role": "Customer",
+            "content": "Those dates match my records. Please explain how these fees are calculated."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Each international transaction incurs a 3.2% foreign transaction fee, which is standard across our Premium accounts. Your October 12th purchase of $485.00 from a UK merchant generated a $15.52 fee, calculated at exactly 3.2% of the transaction amount."
+        },
+        {
+            "role": "Customer",
+            "content": "I see. Does this apply to all foreign merchants, even when paying in US dollars?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. Yes, the fee applies whenever the merchant's bank is located outside the United States, regardless of the currency you select at checkout. This is because the transaction still processes through international networks with settlement code FX7 or FX9."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful to know. Are there any account options that waive these fees?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. We offer two solutions: our Global Elite account with annual fee of $450 waives all foreign transaction fees, or our International Plus add-on for $12.95 monthly, which reduces the fee to 0.8% per transaction."
+        },
+        {
+            "role": "Customer",
+            "content": "Please calculate what I would have saved with the International Plus option last month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. With International Plus at 0.8% instead of 3.2%, your total fees would have been $11.96 instead of $47.85, saving you $35.89 for October alone."
+        },
+        {
+            "role": "Customer",
+            "content": "That's significant. How quickly could I add that service to my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can activate it immediately. The International Plus service would begin with your next billing cycle starting November 15th, and you'd receive confirmation via email within 30 minutes to reference number SVC-2024-1105-IP."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Please add the International Plus option to my account today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've successfully added International Plus to your account. Your confirmation number is IP-8274-QM-1105, and the $12.95 monthly fee will appear on your November 15th statement. The reduced 0.8% rate applies to all transactions posted after November 15th at 12:01 AM Eastern Time."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Will this affect my existing automatic payments or recurring international subscriptions?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your automatic payments will continue uninterrupted. Starting November 15th, any recurring international charges will automatically receive the reduced 0.8% fee instead of the standard 3.2% rate. I can see you have two recurring subscriptions coded as INT-RECUR that will benefit immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for the thorough explanation. Please email me the confirmation and fee schedule."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm sending the complete fee schedule and your service modification confirmation to your email address on file. You'll receive document reference DOC-7829-FTS within the next 10 minutes. Is there anything else I can assist you with regarding your account today?"
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "10278e3a_script.json",
+    "professionalism": "professional",
+    "scenario": "trying to understand international transaction fees",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "politely_firm",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "precisely_technical",
+                "steadily_composed"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

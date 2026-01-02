@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[hesitantly] No sé si te acordarás de mí, pero, em... estuve en tu urgencias hace cinco años. [nervous] 17 de marzo de 2019. [pause] Accidente de coche en la carretera 9. [emotional] Seguramente ves a tanta gente que no esperaría que— [short pause] pero tenía que encontrarte. [warm] La verdad es que llevo meses intentando, eh... intentando dar contigo. [crying while speaking] Me dijiste que iba a estar bien cuando estaba... cuando me estaba desangrando y estaba aterrado. [shaky voice] Mis hijos entonces solo tenían 3 y 5 años. [pause] Y tú seguías hablándome, me mantenías consciente mientras trabajabas en mi— [emotional] en mi pecho. [crying while speaking] Las otras enfermeras me dijeron que no te fuiste de mi lado ni cuando acabó tu turno. [warm] Solo... necesitaba darte las gracias. [extremely happy] Mi hija acaba de empezar el instituto. [emotional] Mi hijo está aprendiendo a tocar la guitarra. [crying while speaking] Y estoy aquí pa' todo eso gracias a ti. [pause] Así que, em... gracias. [warm] Gracias por devolverme la vida."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[hesitantly] I don't know if you remember me, but, um... I was in your ER five years ago. [nervous] March 17th, 2019. [pause] Car accident on Route 9. [emotional] You probably see so many people, I wouldn't expect you to— [short pause] but I had to find you. [warm] I've actually been trying to track you down for, er... for months now. [crying while speaking] You told me I was going to be okay when I was... when I was bleeding out and terrified. [shaky voice] My kids were only three and five then. [pause] And you just kept talking to me, kept me conscious while you worked on my— [emotional] on my chest. [crying while speaking] The other nurses said you wouldn't leave my side even when your shift ended. [warm] I just... I needed to say thank you. [extremely happy] My daughter just started middle school. [emotional] My son's learning guitar. [crying while speaking] And I'm here for all of it because of you. [pause] So, um... thank you. [warm] Thank you for giving me my life back."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "451faf3e_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "A former patient tracking you down to thank you for saving their life during your emergency room shift five years ago",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

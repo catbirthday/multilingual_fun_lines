@@ -1,0 +1,194 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Alors c'est quoi exactement le single sign-on? J'arrête pas d'en entendre parler au boulot."
+        },
+        {
+            "role": "Character 2",
+            "content": "Ah, c'est en gros une façon d'utiliser un seul set de login credentials pour plusieurs applications. Genre, au lieu de te rappeler 20 mots de passe différents, t'en as juste besoin d'un, et, euh, it gets you into everything."
+        },
+        {
+            "role": "Character 1",
+            "content": "C'est vraiment sécurisé ça par contre?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[pause] Ben, c'est ça... c'est ça qui inquiète les gens. Ça peut en fait être plus secure si c'est bien implémenté, avec, tu sais, l'authentification multi-facteurs et tout ça."
+        },
+        {
+            "role": "Character 1",
+            "content": "[crying while speaking] Désolé, je viens de me faire virer de l'informatique, and this stuff reminds me of work."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh merde, c'est... je suis vraiment désolé d'entendre ça. Écoute, on n'est pas obligés de parler de ça si c'est, euh, if it's bringing up difficult stuff right now."
+        },
+        {
+            "role": "Character 1",
+            "content": "[friendly] Non, c'est bon. Apprendre de nouvelles choses m'aide en fait."
+        },
+        {
+            "role": "Character 2",
+            "content": "D'accord, alors, euh, les protocoles principaux c'est SAML, OAuth, et OpenID Connect. C'est en gros différentes façons de, genre, passer des authentication tokens entre les systèmes, so you don't have to keep logging in everywhere."
+        },
+        {
+            "role": "Character 1",
+            "content": "[condescending] Je suis sûr que c'est plus compliqué que juste \"passer des tokens partout.\""
+        },
+        {
+            "role": "Character 2",
+            "content": "Ouais okay, t'as raison, je simplifiais trop. C'est vraiment assez complexe en fait—y'a les identity providers, les service providers, les protocoles d'assertion, et, euh, toute une relation de confiance qui doit être établie entre les systèmes."
+        },
+        {
+            "role": "Character 1",
+            "content": "Quelles entreprises utilisent ça le plus?"
+        },
+        {
+            "role": "Character 2",
+            "content": "À peu près toutes les grandes entreprises maintenant. Azure AD de Microsoft est énorme, Okta est super populaire, et, hmm, Google Workspace uses it for all their apps."
+        },
+        {
+            "role": "Character 1",
+            "content": "Les petites entreprises peuvent l'utiliser aussi?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Absolument. En fait, ça devient beaucoup plus accessible—plein de providers ont, genre, des formules gratuites maintenant. Même une startup de 5 personnes peut configurer du SSO sans, tu sais, se ruiner."
+        },
+        {
+            "role": "Character 1",
+            "content": "Qu'est-ce qui se passe si le système SSO tombe en panne?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Aïe, ça c'est... that's the nightmare scenario honestly. Si ton identity provider plante, personne peut se connecter nulle part, which is why la plupart des entreprises ont, euh, des méthodes d'authentification de secours."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sad] Mon ancienne boîte a eu une panne SSO majeure l'année dernière."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh putain, c'est brutal ça. J'ai vu des entreprises perdre des millions en productivité quand le SSO foire—c'est genre, literally everything stops because nobody can access their tools anymore."
+        },
+        {
+            "role": "Character 1",
+            "content": "Y'a un moyen d'empêcher ça?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[cough] Ben, la redondance est clé. Il te faut plusieurs identity providers, des chemins d'authentification de backup, et, euh, un monitoring vraiment solide pour catcher les problèmes avant qu'ils se transforment en panne système totale."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "So what exactly is single sign-on? I keep hearing about it at work."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh, it's basically a way to use one set of login credentials for multiple applications. Like, instead of remembering twenty different passwords, you just need one, and, um, it gets you into everything."
+        },
+        {
+            "role": "Character 1",
+            "content": "Is that actually secure though?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[pause] Well, that's... that's the thing people worry about. It can actually be more secure if it's implemented right, with, you know, multi-factor authentication and all that."
+        },
+        {
+            "role": "Character 1",
+            "content": "[crying while speaking] Sorry, I just got laid off from IT and this stuff reminds me of work."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh gosh, that's... I'm really sorry to hear that. Hey, look, we don't have to talk about this if it's, uh, if it's bringing up difficult stuff right now."
+        },
+        {
+            "role": "Character 1",
+            "content": "[friendly] No, it's okay. Learning new things helps actually."
+        },
+        {
+            "role": "Character 2",
+            "content": "Alright, well, um, the main protocols are SAML, OAuth, and OpenID Connect. They're basically different ways of, like, passing authentication tokens between systems so you don't have to keep logging in everywhere."
+        },
+        {
+            "role": "Character 1",
+            "content": "[condescending] I'm sure it's more complicated than just \"passing tokens around.\""
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah okay, you're right, I was oversimplifying. It's actually pretty complex—there's identity providers, service providers, assertion protocols, and, er, a whole trust relationship that has to be established between systems."
+        },
+        {
+            "role": "Character 1",
+            "content": "What companies use this the most?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Pretty much every major enterprise now. Microsoft's Azure AD is huge, Okta's really popular, and, hmm, Google Workspace uses it for all their apps."
+        },
+        {
+            "role": "Character 1",
+            "content": "Can small businesses use it too?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Absolutely. Actually, it's getting way more accessible—lots of providers have, like, free tiers now. Even a five-person startup can set up SSO without, you know, breaking the bank."
+        },
+        {
+            "role": "Character 1",
+            "content": "What happens if the SSO system goes down?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Eesh, that's... that's the nightmare scenario honestly. If your identity provider crashes, nobody can log into anything, which is why most companies have, um, fallback authentication methods."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sad] My old company had a major SSO outage last year."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh man, those are brutal. I've seen companies lose millions in productivity when SSO fails—it's like, literally everything stops because nobody can access their tools anymore."
+        },
+        {
+            "role": "Character 1",
+            "content": "Is there a way to prevent that?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[cough] Well, redundancy is key. You want multiple identity providers, backup authentication paths, and, uh, really solid monitoring to catch issues before they cascade into total system failure."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue10_2.txt"
+}

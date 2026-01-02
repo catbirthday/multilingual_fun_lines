@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[exhausted] Finalmente me chamaram de lenda hoje. [pause] A palavra mesmo. Lenda. [bitter] Vinte anos, e finalmente eu sou... hmm, finalmente sou o que eu sempre quis ser, né? [sigh] Só que eu nem consigo sentir isso direito. [very sad] Tô tomando três remédios diferentes só pra, é... só pra conseguir passar o dia. [shaky voice] Minha terapeuta disse que eu tenho—como é que ela falou—burnout severo com, ah, episódios depressivos. [regretful] Meu Deus, quando foi a última vez que eu dormi sem comprimido? [quietly] Perdi a apresentação da minha filha semana passada porque tava tendo crise de pânico no banheiro daquela conferência. [cry] Ela nem me chama mais pra ir. [pause] Minha esposa, ela... ela me olha como se eu fosse uma estranha. [bitter] Mas pô, agora eu sou uma lenda, né? [sarcastic] É isso que importa. [very melancholic] Eu amava esse trabalho, sabe? Tipo, amava de verdade mesmo. [exhausted] Agora eu nem consigo olhar pros meus próprios feitos sem sentir, sei lá... vazia? [sigh] Vão me dar um negócio de reconhecimento de carreira mês que vem. [crying while speaking] E tudo que eu consigo pensar é—que vida? Que vida eu conquistei de fato?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[exhausted] They finally called me a legend today. [pause] The actual word. Legend. [bitter] Twenty years, and I'm finally... hmm, I'm finally what I always wanted to be, right? [sigh] Except I can't even feel it properly. [very sad] I'm on three different medications just to, um... just to get through the day. [shaky voice] My therapist says I have—what did she call it—severe burnout with, uh, depressive episodes. [regretful] God, when did I last actually sleep without pills? [quietly] I missed my daughter's recital last week because I was having panic attacks in the bathroom at that conference. [cry] She doesn't even ask me to come anymore. [pause] My wife, she... she looks at me like I'm a stranger. [bitter] But hey, I'm a legend now, right? [sarcastic] That's what matters. [very melancholic] I used to love this work, you know? Like, genuinely love it. [exhausted] Now I can't even look at my own achievements without feeling, I don't know... empty? [sigh] They're giving me some lifetime achievement thing next month. [crying while speaking] And all I can think is—what life? What life did I actually achieve?"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "43e7c100_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Finally becoming a legend in your field but realizing you sacrificed your mental health to get there",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,48 @@
+=== Source: 98769ffb_script.json ===
+Actor: english_3
+Content Type: customer_support
+Professionalism: professional
+Scenario: worried because a charge appeared that they don't recognize and fear fraud
+
+=== Dialogue ===
+
+Customer: Good afternoon. I need to speak with someone about an unauthorized charge on my account.
+
+Customer Support: Good afternoon, and thank you for calling. I understand your concern about an unauthorized charge, and I'll help you investigate this right away. May I have your account number or the card ending in the last four digits?
+
+Customer: The card ends in 4782. There's a charge for ninety-seven dollars that I don't recognize.
+
+Customer Support: Thank you. I'm pulling up your account ending in 4782 now, and I can see your recent transaction history. The charge you're referring to appears to be from merchant code MER-88923-TXN posted on December 10th for exactly $97.43.
+
+Customer: That's the one. I've never heard of that merchant and I haven't made any purchases recently.
+
+Customer Support: I completely understand your concern. Let me investigate this transaction further by checking our merchant database. The code MER-88923-TXN is registered to Digital Services International, which processes payments for various online subscriptions and digital products.
+
+Customer: I don't have any subscriptions with that company. This has to be fraudulent activity.
+
+Customer Support: I'm taking this very seriously. Before we proceed with filing a fraud claim, let me check if this might be a recurring charge from a service with a different billing name. Our records show this merchant often bills for streaming services, software subscriptions, and cloud storage that may appear under their corporate name rather than the service name.
+
+Customer: Can you tell me exactly what service this would be for?
+
+Customer Support: Certainly. According to our detailed merchant records, this specific transaction with reference number REF-2024-1210-4782-97 is associated with a CloudVault Pro annual subscription that was initiated on December 10th, 2023, exactly one year ago.
+
+Customer: CloudVault Pro? Wait, my company uses that for backup storage.
+
+Customer Support: That would explain it. CloudVault Pro bills annually on the anniversary date of your initial signup, and they process payments through Digital Services International as their payment processor. Would you like me to pull up the complete billing history for this merchant on your account?
+
+Customer: Yes, please do that. I need to verify this is legitimate before I feel comfortable.
+
+Customer Support: Of course. I'm showing three previous annual charges from the same merchant: December 10th, 2023 for $97.43, December 10th, 2022 for $89.99, and the original charge from December 10th, 2021 for $89.99. The price increased to $97.43 last year according to their terms of service update from November 2023.
+
+Customer: I see. So this is their annual renewal then. Why didn't I receive any notification?
+
+Customer Support: Excellent question. Let me check your notification preferences in our system. According to your account settings last updated on March 15th, 2024, renewal notifications are set to go to the email address ending in @techcorp.com. Is that still your active email address?
+
+Customer: No, I left that company six months ago. That explains why I missed the notification.
+
+Customer Support: That clarifies the situation. I can update your email address right now to ensure you receive all future notifications. Additionally, I can provide you with the CloudVault customer service number 1-800-CLOUD-99 if you need to update your account settings or cancel the service directly with them.
+
+Customer: Please update my email to my personal account. And thank you for investigating this thoroughly.
+
+Customer Support: Absolutely. I've updated your email address and you'll receive a confirmation within the next five minutes. I've also added a note to your account regarding this merchant for future reference. Is there anything else I can help you with regarding your account security today?
+

@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Entonces, bueno, estoy llamando porque—espera déjame buscar el correo—ya van tres días y la verdad he estado revisando la puerta cada cinco minutos como una loca"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ya tengo tu cuenta aquí, el rastreo muestra PKG-4921-XL88. Sí. Desafortunadamente veo un retraso en la zona de tránsito B4. De verdad quisiera tener mejores noticias para ti."
+        },
+        {
+            "role": "Customer",
+            "content": "Ay Dios, bueno, mira, la cosa es que mi hermana llega mañana en avión y esto era su regalo de cumpleaños y ya le conté, que fue una tontería pero me emocioné"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm. Qué frustrante la situación. El escaneo actual está en el centro de distribución DC-47, ahí está desde el martes. El sistema no me deja cambiar la ruta, lo cual es... honestamente estas restricciones a mí también me vuelven loca."
+        },
+        {
+            "role": "Customer",
+            "content": "A ver... ¿cómo sé que es real? O sea, ¿de verdad está en algún lado o es una de esas cosas donde ya se perdió para siempre?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Preocupación válida. Mirando el rastreo detallado, el último escaneo físico fue a las 3:47 AM en la instalación QV-8829. No está perdido. Solo atorado. Problema de acumulación, básicamente todo lo que pasa por ese centro está retrasado ahorita."
+        },
+        {
+            "role": "Customer",
+            "content": "Martes, no espera, miércoles—perdón, el miércoles llamé al otro número y me dijeron veinticuatro horas pero eso era como... ¿cómo se dice?... su respuesta estándar de siempre"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, claro. El primer nivel siempre da ese guión. Tu referencia de caso CR-1147-B muestra tres intentos de contacto. Mira, entre tú y yo, ¿sabes? De miércoles a viernes siempre es lo peor para estas instalaciones."
+        },
+        {
+            "role": "Customer",
+            "content": "Mm, ¿y si... bueno, entonces eso significa que podría moverse esta noche? ¿O mañana? Porque estoy tratando de ver si mejor compro otro"
+        },
+        {
+            "role": "Customer Support",
+            "content": "El valor del paquete muestra $247.99, pedido OD-88429-K. No te puedo prometer esta noche pero... ¿llevo cuatro años haciendo esto? Estos normalmente se liberan en 48 horas una vez que llegan a este estatus."
+        },
+        {
+            "role": "Customer",
+            "content": "Cuatro años, entonces ya has visto esto antes—eso es martes, no espera, hoy es viernes, ¿entonces sábado tal vez? ¿Eso es lo que me estás diciendo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactamente eso te digo. Aunque la ventana oficial se extiende hasta el final del día lunes para la confirmación de entrega DLV-7749."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Pero cómo sé que no me estás diciendo solo lo que quiero escuchar? O sea, todas las empresas dicen eso y luego no pasa nada"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Es justo. Completamente justo. Mira lo que sí puedo hacer—le estoy poniendo bandera de prioridad PF-2847 ahorita mismo. No voy a prometer lo que no puedo cumplir, pero esto se escala a gerencia regional. Eso es... básicamente todo lo que el sistema me deja..."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay, espera, ¿entonces sí estás haciendo algo? No solo—perdón, me estoy poniendo paranoica pero la última vez que llamé a algún lado por un paquete fue todo un drama"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ya está hecho. La confirmación ECC-9102-VK7 acaba de pasar. ¿Honestamente? A mi mamá le pasó lo mismo con su regalo de aniversario el mes pasado. Entiendo por qué estás estresada."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Tu mamá? Ay Dios, eso debió ser—sí, ves, por esto debí haber ido a la tienda pero pensé que tres semanas era suficiente tiempo"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tres semanas debería ser más que suficiente. Esto es culpa nuestra. El rastreo se actualiza cada 4 horas, te van a llegar notificaciones al correo que termina en 7724. Actualizaciones reales, no esas genéricas..."
+        },
+        {
+            "role": "Customer",
+            "content": "Las genéricas que no dicen nada, ¡exacto! Mm, bueno entonces... déjame pensar... pero si no llega para mañana en la tarde, ¿qué puedo hacer realmente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¿Mañana en la tarde, sin movimiento? Llama de vuelta con la referencia RMA-5571-XC. Autorización de reembolso instantánea. ¿Pero en serio? Basándome en el código de patrón PC-42 en tu rastreo... te apuesto que vas a ver movimiento para esta noche."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So okay I'm calling because—wait let me find the email—it's been three days and honestly I've been checking the door every five minutes like some kind of crazy person"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got the account pulled up here, tracking shows PKG-4921-XL88. Yeah. Unfortunately seeing a delay in transit zone B4. Really wish I had better news for you on this one."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god okay so here's the thing, my sister's flying in tomorrow and this was her birthday present and I already told her about it which was stupid but I got excited"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm. Frustrating situation. Current scan at distribution center DC-47, been sitting since Tuesday. System won't let me override the routing, which is... honestly these restrictions drive me crazy too."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... how do I know it's even real? Like is it actually sitting somewhere or is this one of those things where it's just lost forever?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Valid concern. Looking at detailed tracking, last physical scan 3:47 AM at facility QV-8829. Not lost. Just stuck. Backlog issue, basically everything through that hub is running behind right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Tuesday, wait no, Wednesday—sorry Wednesday I called the other number and they said twenty-four hours but that was like... what's the word... their standard response thing"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Tier one gives that script. Your case reference CR-1147-B shows three contact attempts. Look, between you and me? Wednesday through Friday is always worst for these facilities."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... okay so that means it could move tonight? Or tomorrow? Because I'm trying to figure out if I should just buy another one"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Package value showing $247.99, order OD-88429-K. Can't promise tonight but... I've been doing this four years? These usually break free within 48 hours once they hit this status."
+        },
+        {
+            "role": "Customer",
+            "content": "Four years so you've seen this before—that's Tuesday, wait no, today's Friday so Saturday maybe? Is that what you're saying?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly what I'm saying. Though official window extends to EOD Monday for delivery confirmation DLV-7749."
+        },
+        {
+            "role": "Customer",
+            "content": "How do I know you're not just telling me what I want to hear though? Like every company says that and then nothing happens"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Fair. Completely fair. Here's what I can actually do—putting priority flag PF-2847 on this right now. Won't make promises I can't keep, but this escalates to regional management. That's... basically all the system lets me..."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so wait you're actually doing something? Not just—sorry I'm being paranoid but last time I called somewhere about a package it was this whole thing"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already done. Confirmation ECC-9102-VK7 just went through. Honestly? My mom had the same thing happen with her anniversary gift last month. Get why you're stressed."
+        },
+        {
+            "role": "Customer",
+            "content": "Your mom? Oh god that must've been—yeah see this is why I should've just gone to the store but I thought three weeks was enough time"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Three weeks should be plenty. This is on us. Tracking updates every 4 hours, you'll get notifications to email ending in 7724. Real updates, not those generic..."
+        },
+        {
+            "role": "Customer",
+            "content": "The generic ones that say nothing, exactly! Hmm, okay so... let me think... if it doesn't come by tomorrow afternoon though, what's my actual recourse here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tomorrow afternoon, no movement? Call back with reference RMA-5571-XC. Instant refund authorization. But seriously? Based on pattern code PC-42 in your tracking... betting you'll see movement by tonight."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "5a1e1f9c_script.json",
+    "professionalism": "casual",
+    "scenario": "asking about a delayed package that was supposed to arrive three days ago",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "suspicious_paranoid"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "self_corrections",
+                    "word_searching",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "regretfully_limited",
+                "humanizing_personal"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

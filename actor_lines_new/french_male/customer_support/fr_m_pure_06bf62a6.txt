@@ -1,0 +1,93 @@
+=== Source: 06bf62a6_script.json ===
+Language: French
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: reporting issues with two-factor authentication not sending codes
+
+=== Translated Dialogue ===
+
+Customer [pure]: Bonjour. Euh, j'ai un problème pour accéder à mon compte parce que les codes de double authentification n'arrivent pas sur mon téléphone.
+
+Customer Support [pure]: Bonjour. Ah je comprends, c'est inquiétant ça, surtout si vous avez besoin d'un accès immédiat. Attendez, je vais regarder votre compte et vérifier les paramètres d'authentification. Je peux avoir l'adresse email de votre compte ?
+
+Customer [pure]: C'est michael.richardson@techforge.com. Ça fait une heure que j'essaie de me connecter, mais rien à faire.
+
+Customer Support [pure]: Merci, Monsieur Richardson. Alors, j'ai votre compte ici, avec la vérification mobile activée pour le numéro qui se termine par 4782. Le système m'indique six tentatives d'authentification depuis 8h47. C'est bien le bon numéro ?
+
+Customer [pure]: Oui, c'est ça. Mais enfin, j'ai pas reçu un seul code malgré toutes mes demandes.
+
+Customer Support [pure]: Ah voilà, je vois le problème. Notre fournisseur de passerelle SMS signale des perturbations de service depuis 7h15 heure de l'Est qui affectent environ 12% des livraisons de messages. Bon, je vais vous basculer tout de suite sur notre méthode d'authentification de secours.
+
+Customer [pure]: D'accord, c'est bien, mais... On peut régler ça rapidement ? J'ai des présentations clients qui nécessitent l'accès au compte.
+
+Customer Support [pure]: Immédiatement. Je vous génère un code temporaire TMP-8K4M-9QR2 qui va vous permettre un accès unique. Une fois connecté, vous pourrez activer l'authentification par email comme méthode de secours dans vos paramètres de sécurité.
+
+Customer [pure]: Parfait. Du coup, je le mets dans le champ de vérification habituel, ce code ?
+
+Customer Support [pure]: Exactement. Utilisez le code TMP-8K4M-9QR2 dans le champ de vérification au lieu d'attendre un code SMS. Ce bypass expire dans 15 minutes pour des raisons de sécurité, donc utilisez-le rapidement.
+
+Customer [pure]: Je me connecte là... Ça y est, ça marche nickel. Merci pour la solution rapide.
+
+Customer Support [pure]: Excellent. Pendant que vous êtes dans votre compte, je vous recommande d'aller dans Paramètres, puis Sécurité, et d'activer l'authentification par email comme méthode de secours. Ça évitera les problèmes d'accès futurs.
+
+Customer [pure]: Je suis dans les paramètres de sécurité là. Est-ce que je garde le SMS en principal ou je passe complètement à l'email ?
+
+Customer Support [pure]: Ben écoutez, je suggère de garder le SMS en principal puisque notre opérateur maintient généralement 99,7% de disponibilité. Par contre, activez absolument l'email en secondaire. Vous verrez l'option dans "Méthodes d'authentification de secours" dans la section 2B de votre tableau de bord sécurité.
+
+Customer [pure]: Voilà, c'est fait. On me préviendra quand le service SMS sera complètement rétabli ?
+
+Customer Support [pure]: Tout à fait. Vous recevrez une notification à la fois sur michael.richardson@techforge.com et par SMS une fois le service complètement rétabli. Notre estimation actuelle, c'est 11h30 heure de l'Est selon la mise à jour du fournisseur SR-20241102-A.
+
+Customer [pure]: C'est très utile ça. Bon, et sinon, y a autre chose que je devrais faire pour éviter ça à l'avenir ?
+
+Customer Support [pure]: Je vous recommande de télécharger notre application d'authentification comme troisième option. Elle génère des codes hors ligne, donc ça élimine la dépendance aux livraisons SMS ou email. Vous trouverez le guide d'installation sur support.techforge.com/auth-app-setup avec le code d'activation APP-SETUP-MR4782.
+
+Customer [pure]: Excellente suggestion. Je vais configurer ça aujourd'hui. Vraiment, merci pour votre aide complète sur ce problème.
+
+Customer Support [pure]: Je vous en prie, Monsieur Richardson. J'ai documenté cet incident sous le numéro de dossier CS-102024-8K4M pour vos archives. Si vous rencontrez d'autres problèmes d'authentification, mentionnez ce numéro de dossier pour un support accéléré.
+
+
+=== Original (English) ===
+
+Customer: Good morning. I'm having trouble accessing my account because the two-factor authentication codes aren't coming through to my phone.
+
+Customer Support: Good morning. I understand that's concerning, especially if you need immediate access. Let me pull up your account and check the authentication settings. May I have your account email address?
+
+Customer: It's michael.richardson@techforge.com. I've been trying to log in for the past hour with no success.
+
+Customer Support: Thank you, Mr. Richardson. I have your account here, showing mobile verification enabled for the number ending in 4782. The system logs indicate six authentication attempts since 8:47 AM. Is that the correct phone number?
+
+Customer: Yes, that's correct. I haven't received a single code despite requesting them multiple times.
+
+Customer Support: I see the issue. Our SMS gateway provider reported service disruptions starting at 7:15 AM Eastern affecting approximately 12% of message deliveries. Let me switch you to our backup authentication method right away.
+
+Customer: I appreciate that. How quickly can we get this resolved? I have client presentations that require account access.
+
+Customer Support: Immediately. I'm generating a temporary bypass code TMP-8K4M-9QR2 that will allow you one-time access. Once logged in, you can enable email authentication as a backup method through your security settings.
+
+Customer: Perfect. Should I enter that code in the standard verification field?
+
+Customer Support: Exactly right. Use code TMP-8K4M-9QR2 in the verification field instead of waiting for an SMS code. This bypass expires in 15 minutes for security purposes, so please use it promptly.
+
+Customer: I'm logging in now. The code worked perfectly. Thank you for the quick solution.
+
+Customer Support: Excellent. While you're in your account, I recommend navigating to Settings, then Security, and enabling email authentication as your backup method. This will prevent future access issues.
+
+Customer: I'm in the security settings now. Should I keep SMS as primary or switch completely to email?
+
+Customer Support: I'd suggest keeping SMS as primary since our carrier typically maintains 99.7% uptime. However, definitely activate email as secondary. You'll see the option under "Backup Authentication Methods" in section 2B of your security dashboard.
+
+Customer: Done. Will I be notified when the SMS service is fully restored?
+
+Customer Support: Absolutely. You'll receive notification at both michael.richardson@techforge.com and via SMS once service restoration is complete. Our current estimate is 11:30 AM Eastern based on the provider's status update SR-20241102-A.
+
+Customer: That's very helpful. Is there anything else I should do to prevent this in the future?
+
+Customer Support: I recommend downloading our authenticator app as a third option. It generates codes offline, eliminating dependency on SMS or email delivery. You'll find the setup guide at support.techforge.com/auth-app-setup with activation code APP-SETUP-MR4782.
+
+Customer: Excellent suggestion. I'll set that up today. Thank you for your thorough assistance with this issue.
+
+Customer Support: You're very welcome, Mr. Richardson. I've documented this incident under case number CS-102024-8K4M for your records. If you experience any further authentication issues, please reference this case number for expedited support.
+

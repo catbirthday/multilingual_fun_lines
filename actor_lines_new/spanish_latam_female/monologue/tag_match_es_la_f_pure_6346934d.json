@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[impactado] ¿Vividor profesional? [pausa] Es que... guau. O sea, lo escuché por la puerta y yo—[dolido] ¿eso es lo que piensa de mí? [pausa larga] Okay, sí, tal vez llevo aquí, este... ¿tres semanas? Pero he estado ayudando! Limpié el baño ayer, compré el súper esa vez—[a la defensiva] No soy ninguna parásita. [suspiro] Dios, qué vergüenza. [enojado] ¿Sabes qué? Pudo haberme hablado directamente en lugar de, eh, andar chismeando de mí con quien sea que estaba al teléfono. [frustrado] \"Vividor profesional\"—¡como si estuviera haciendo tipo una estafa! [pausa] Aunque... mmm. [vacilante] Supongo que sí me quedé en casa de Marcus como dos meses. Y antes de eso fue, este... el sofá de Sarah por un tiempo. [en voz baja] Ay Dios, tal vez sí soy— [voz desvaneciéndose] No, no, eso es diferente. Esas fueron situaciones diferentes. [voz temblorosa] Aunque todas terminaron más o menos igual, ¿no? [triste] Mierda. [pausa] Necesito empacar mis cosas. Otra vez. [amargado] Al menos esta vez escuché lo que realmente piensan antes de que inventaran alguna excusa amable. [exhausto] Es que... pensé que éramos amigas, ¿sabes? [muy triste] Aparentemente soy muy buena para, este, para engañarme a mí misma."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shocked] Professional freeloader? [pause] I just... wow. I mean, I heard him through the door and I—[hurt] that's what he thinks of me? [long pause] Okay, so maybe I've been here for, um... three weeks? But I've been helping! I cleaned the bathroom yesterday, I bought groceries that one time—[defensive] I'm not some parasite. [sigh] God, this is so embarrassing. [angry] You know what? He could've just talked to me instead of, uh, gossiping about me to whoever that was on the phone. [frustrated] \"Professional freeloader\"—like I'm running some kind of scam here! [pause] Although... hmm. [hesitantly] I guess I did stay at Marcus's place for two months. And before that it was, er... Sarah's couch for a while. [quietly] Oh God, maybe I am— [trailing off] No, no, that's different. Those were different situations. [shaky voice] Except they all ended pretty much the same way, didn't they? [sad] Shit. [pause] I need to pack my stuff. Again. [bitter] At least this time I heard what they actually think before they made up some polite excuse. [exhausted] I just... I thought we were friends, you know? [very sad] Apparently I'm just really good at, um, at fooling myself."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "6346934d_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your couch surfing welcome just got revoked after overhearing your host call you a \"professional freeloader\"",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

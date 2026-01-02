@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I received a gift card for my birthday last week. The balance is showing as zero even though it should have fifty dollars."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern and I'll help you resolve this immediately. May I have the gift card number located on the back of the card, starting with GC?"
+        },
+        {
+            "role": "Customer",
+            "content": "The number is GC-4829-7361-9042. I haven't used it at all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm pulling up gift card GC-4829-7361-9042 in our system now. I can see it was activated on October 12th with a fifty dollar balance as you mentioned."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. So where did the balance go?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see what happened here. There was a transaction on October 14th at 3:47 PM Eastern for exactly fifty dollars at one of our online checkout systems."
+        },
+        {
+            "role": "Customer",
+            "content": "That wasn't me. I haven't even tried to use the card yet."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. Let me check the transaction details including the order number ORD-9847-ZM and the IP address 192.168.45.227 that was used for this purchase."
+        },
+        {
+            "role": "Customer",
+            "content": "Could someone have used my card number without my knowledge?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's a possibility I'm investigating. The transaction shows delivery to an address in ZIP code 44107, which is Cleveland, Ohio. Does this location sound familiar to you?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, I live in Phoenix. This is definitely fraudulent."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for confirming. I'm immediately flagging this transaction as unauthorized and initiating case number FRD-2024-10-8847 for our fraud prevention team to investigate further."
+        },
+        {
+            "role": "Customer",
+            "content": "What happens now? Will I get my fifty dollars back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm processing a full refund right now and issuing you a replacement gift card with number GC-4829-7361-9043, which will have the full fifty dollar value restored."
+        },
+        {
+            "role": "Customer",
+            "content": "How long will this take? I was planning to use it this weekend."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. The new gift card will be active within the next two hours, and you'll receive an email confirmation to the address on file ending in @gmail.com with all the details."
+        },
+        {
+            "role": "Customer",
+            "content": "That works. Should I destroy the compromised gift card?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, please destroy the physical card. I've already deactivated gift card GC-4829-7361-9042 in our system at 10:34 AM today, so it cannot be used again."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Is there anything else you need from me for the investigation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything is handled on our end. Your case FRD-2024-10-8847 will be reviewed by our security team, and if we need additional information, we'll contact you at the phone number ending in 7723."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I received a gift card for my birthday last week. The balance is showing as zero even though it should have fifty dollars."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern and I'll help you resolve this immediately. May I have the gift card number located on the back of the card, starting with GC?"
+        },
+        {
+            "role": "Customer",
+            "content": "The number is GC-4829-7361-9042. I haven't used it at all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm pulling up gift card GC-4829-7361-9042 in our system now. I can see it was activated on October 12th with a fifty dollar balance as you mentioned."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. So where did the balance go?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see what happened here. There was a transaction on October 14th at 3:47 PM Eastern for exactly fifty dollars at one of our online checkout systems."
+        },
+        {
+            "role": "Customer",
+            "content": "That wasn't me. I haven't even tried to use the card yet."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. Let me check the transaction details including the order number ORD-9847-ZM and the IP address 192.168.45.227 that was used for this purchase."
+        },
+        {
+            "role": "Customer",
+            "content": "Could someone have used my card number without my knowledge?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's a possibility I'm investigating. The transaction shows delivery to an address in ZIP code 44107, which is Cleveland, Ohio. Does this location sound familiar to you?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, I live in Phoenix. This is definitely fraudulent."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for confirming. I'm immediately flagging this transaction as unauthorized and initiating case number FRD-2024-10-8847 for our fraud prevention team to investigate further."
+        },
+        {
+            "role": "Customer",
+            "content": "What happens now? Will I get my fifty dollars back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm processing a full refund right now and issuing you a replacement gift card with number GC-4829-7361-9043, which will have the full fifty dollar value restored."
+        },
+        {
+            "role": "Customer",
+            "content": "How long will this take? I was planning to use it this weekend."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. The new gift card will be active within the next two hours, and you'll receive an email confirmation to the address on file ending in @gmail.com with all the details."
+        },
+        {
+            "role": "Customer",
+            "content": "That works. Should I destroy the compromised gift card?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, please destroy the physical card. I've already deactivated gift card GC-4829-7361-9042 in our system at 10:34 AM today, so it cannot be used again."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Is there anything else you need from me for the investigation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything is handled on our end. Your case FRD-2024-10-8847 will be reviewed by our security team, and if we need additional information, we'll contact you at the phone number ending in 7723."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3b3187be_script.json",
+    "professionalism": "professional",
+    "scenario": "asking why their gift card balance shows zero",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "matter_of_fact",
+                "patiently_persistent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "reassuringly_calm",
+                "steadily_composed"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

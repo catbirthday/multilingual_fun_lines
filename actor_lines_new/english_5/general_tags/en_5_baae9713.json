@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[exhausted] They told me you've been down here for three days straight, working on the shield generators without any sleep or relief."
+        },
+        {
+            "role": "Character 2",
+            "content": "Seventy-two hours and counting, though time sort of loses meaning when you're this deep in the code. [weak laugh] The eastern perimeter breach wasn't your fault, you know."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] Twenty-seven people died while I was standing there with a useless sword, watching our defenses flicker and die like candles in the wind."
+        },
+        {
+            "role": "Character 2",
+            "content": "[barely audible] I keep seeing their faces every time I close my eyes, which is why I stopped closing them. The system cascade started in sector seven, not where you were stationed."
+        },
+        {
+            "role": "Character 1",
+            "content": "Doesn't matter. [sighs]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[wearily] You can't fight software bugs with steel, no matter how sharp your blade or how strong your armor might be."
+        },
+        {
+            "role": "Character 1",
+            "content": "And you can't debug code when your hands are shaking from exhaustion and your vision's going blurry from staring at screens. [softer] When did you last eat something?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[mumbling] There was a protein bar somewhere around hour forty-eight, maybe forty-nine, but honestly everything's starting to blend together now."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] The shields can wait another hour while you eat the soup I brought down here, because we need you functional more than we need you martyred."
+        },
+        {
+            "role": "Character 2",
+            "content": "Every minute those shields stay down is another minute the city's vulnerable, and I'm so close to finding the root corruption that I can taste it. [exhales]"
+        },
+        {
+            "role": "Character 1",
+            "content": "You know what I learned after fifteen years of combat? Dead heroes don't win wars, and exhausted technicians make mistakes that get more people killed."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispered] The code's degrading faster than I can patch it, like watching sand slip through my fingers no matter how tightly I try to hold on. [voice cracking]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly gentle] Then let me hold the watch for one hour while you rest, because even machines need maintenance breaks."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hollow laugh] You wouldn't know a recursive loop from a feedback cascade if it bit you on your armored backside, respectfully speaking."
+        },
+        {
+            "role": "Character 1",
+            "content": "No, but I know how to follow instructions, and you can walk me through keeping things stable while you close your eyes. [pause] Trust me."
+        },
+        {
+            "role": "Character 2",
+            "content": "[fading] The green lights need to stay green, the red ones are already lost causes, and if anything starts flashing yellow, wake me immediately."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softly] I've stood vigil over dying comrades through longer nights than this, so watching lights while you sleep is the least I can do."
+        },
+        {
+            "role": "Character 2",
+            "content": "Promise me you won't try to fix anything yourself, because one wrong keystroke could cascade through the entire network. [drowsily] Just watch and wake me."
+        },
+        {
+            "role": "Character 1",
+            "content": "You have my word as a knight that I'll guard these systems like I'd guard your life, nothing more and nothing less."
+        },
+        {
+            "role": "Character 2",
+            "content": "Thank you. [whispered]"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "baae9713_scenario.json",
+    "actor": 5,
+    "scenario": "After a catastrophic system failure during a critical defensive operation, a battle-worn knight finds the technician who's been working for 72 hours straight trying to restore the shield generators.",
+    "type": "scenario_conversation",
+    "character_1_role": "knight",
+    "character_2_role": "backline technician",
+    "selected_tones": [
+        "tired",
+        "fading",
+        "whispered"
+    ]
+}

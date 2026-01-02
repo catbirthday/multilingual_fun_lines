@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[startled] Oh, I didn't expect anyone else to be up here at, um, three in the morning. Are you... are you okay? You've been sitting there for a while, I think."
+        },
+        {
+            "role": "Character 2",
+            "content": "Depends on your definition of okay."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] I mean, I get it. New place, everything feels off. I've been transferring schools since I was twelve, so, uh, the whole disconnected feeling is pretty much my default state at this point."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softer] Those look old, the photos you're holding. Family or, um, friends from before?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Before what?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[carefully] Before whatever brought you up to this roof at three AM with a box of memories and that look on your face. The one that says you're, I don't know, trying to figure out if you still belong anywhere."
+        },
+        {
+            "role": "Character 2",
+            "content": "Hmm. Pretty perceptive."
+        },
+        {
+            "role": "Character 1",
+            "content": "Look, I know we just met, well, technically we haven't even met yet, but, um, I recognize that particular brand of lost. [sighs] Been there more times than I can count."
+        },
+        {
+            "role": "Character 2",
+            "content": "These are from my first year here, back when I thought I knew exactly who I was gonna be, you know? Pre-med, straight A's, the whole ambitious package. [bitter laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] And now you're what, junior year? Senior? Something must've changed pretty dramatically to have you up here contemplating, er, whatever you're contemplating."
+        },
+        {
+            "role": "Character 2",
+            "content": "Failed organic chemistry twice. My advisor basically told me to find a new dream because this one's dead. Three years of my life just... gone."
+        },
+        {
+            "role": "Character 1",
+            "content": "Ouch. That's, um, that's rough. Though, I mean, three years isn't gone exactly, it's just... redirected maybe? Like, you still learned things, met people, grew as a person or whatever."
+        },
+        {
+            "role": "Character 2",
+            "content": "[wistfully] You sound like my therapist, except she charges two hundred an hour to say that. These photos though, they're from when everything made sense, when I actually believed I was meant for something specific."
+        },
+        {
+            "role": "Character 1",
+            "content": "Who says you aren't?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Reality. [exhales]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[thoughtfully] You know what? Every school I've transferred to, I've had to completely reinvent myself. Not because I wanted to, but because, well, I had no choice. And honestly, it's terrifying every single time."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly curious] How many schools total? And, um, why do you keep having to move? Military family or something?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Six schools in ten years. My mom's job, she's a corporate restructuring specialist, which basically means she goes wherever companies are falling apart. [rueful chuckle] Ironic, right? She fixes broken things for a living but never stays long enough to see if they actually heal."
+        },
+        {
+            "role": "Character 2",
+            "content": "[softer] That's actually kind of beautiful in a really messed up way. Maybe that's what we all are, just... temporarily fixed, waiting for the next thing to break us open again. [long pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] I'm Jordan, by the way. And for what it's worth, I think being lost means you're still looking for something, which is, um, better than giving up entirely, right?"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "c1d91071_scenario.json",
+    "actor": 6,
+    "scenario": "A transfer student discovers their new dorm roommate sitting alone on the rooftop at 3 AM, staring at old photographs and questioning whether they should drop out.",
+    "type": "scenario_conversation",
+    "character_1_role": "transfer student",
+    "character_2_role": "lost soul",
+    "selected_tones": [
+        "past-dwelling",
+        "sympathetic",
+        "hesitant"
+    ]
+}

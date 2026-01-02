@@ -1,0 +1,93 @@
+=== Source: 582045c7_script.json ===
+Language: Latin American Spanish
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: frustrated because they already sent the documentation that was requested
+
+=== Translated Dialogue ===
+
+Customer [pure]: Buenos días. Mire, recibí un correo pidiendo documentos de verificación que... que ya había mandado el martes pasado.
+
+Customer Support [pure]: Buenos días, gracias por comunicarse. Déjeme revisar ahorita mismo su cuenta para ver el estado de esos documentos. ¿Me podría dar su número de cuenta o el correo que tiene registrado?
+
+Customer [pure]: Mi número de cuenta es 447821. Yo subí todo por el portal seguro el 22 de octubre.
+
+Customer Support [pure]: Gracias. Ya tengo su cuenta 447821 aquí en pantalla, y sí veo la entrega inicial del 22 de octubre a las 2:47 PM. Déjeme revisar el estado del procesamiento para ver por qué le llegó otra solicitud.
+
+Customer [pure]: Sí, este... me gustaría entender qué fue lo que pasó. Esto me está retrasando bastante el proceso de solicitud, ¿no?
+
+Customer Support [pure]: No, completamente entiendo su preocupación por el retraso. Veo que los documentos DOC-7821-A hasta DOC-7821-C fueron recibidos, pero el equipo de verificación marcó el documento B el 24 de octubre porque la calidad de la imagen no cumplía con el requisito mínimo de 300 DPI para procesamiento.
+
+Customer [pure]: Pero, a ver... ¿por qué no me avisaron cuando detectaron el problema con la calidad de la imagen?
+
+Customer Support [pure]: Tiene toda la razón, y le pido una disculpa por esa falla en la comunicación. Según las notas del sistema del 24/10/2024, debió habérsele enviado una notificación automática a su correo registrado, pero no veo confirmación de entrega. Parece ser un problema técnico de nuestro lado.
+
+Customer [pure]: O sea, ¿tengo que volver a mandar nada más el documento B, o todo el paquete completo otra vez?
+
+Customer Support [pure]: Nada más el documento B será suficiente. Ya actualicé su expediente CAS-2024-10-7821 para reflejar que los documentos A y C están aprobados y guardados en el sistema. No va a tener que reenviar esos, lo cual le va a ahorrar bastante tiempo.
+
+Customer [pure]: Qué bueno. ¿Qué requisitos específicos debo seguir para el nuevo envío?
+
+Customer Support [pure]: Claro que sí.
+
+Customer [pure]: ¿Y cómo puedo asegurarme de que el documento cumpla con sus estándares de calidad esta vez?
+
+Customer Support [pure]: Para el documento B, por favor asegúrese de que esté escaneado a 300 DPI o más, guardado como PDF de menos de 10MB, y que todo el texto sea claramente legible sin sombras ni reflejos. También le voy a poner una marca de prioridad PF-8821 a su cuenta para que el equipo de verificación lo revise dentro de cuatro horas hábiles después de recibirlo.
+
+Customer [pure]: Perfecto. ¿Y me van a confirmar cuando el equipo de verificación apruebe el documento que vuelva a mandar?
+
+Customer Support [pure]: Por supuesto. Va a recibir una confirmación automática al momento de enviarlo con un número de referencia que empieza con SUB-2024-10, y después una confirmación manual del equipo de verificación una vez aprobado. También estoy agregando una nota para que le llamen directamente al número que termina en 4429 si surge algún problema.
+
+Customer [pure]: Eso es exactamente lo que necesitaba. ¿Cuánto tiempo va a tomar toda mi solicitud una vez que aprueben el documento B?
+
+Customer Support [pure]: Una vez verificado el documento B, su solicitud completa pasa a procesamiento final dentro de 24 horas. Considerando su fecha de envío del 22 de octubre y el tipo de categoría CAT-7, debería recibir su resolución final para el 1 de noviembre de 2024, o posiblemente antes con la marca de prioridad que le agregué.
+
+Customer [pure]: Muchísimas gracias por aclarar todo y por lo del procesamiento prioritario. La verdad es que sí me ayudó mucho.
+
+Customer Support [pure]: No, por favor, fue un gusto ayudarle. Ya dejé todo documentado en la nota del caso CN-447821-1028, y de verdad, una disculpa por la falla inicial en la comunicación. Si tiene alguna pregunta después de reenviar el documento B, nada más mencione esta nota del caso, y cualquiera de mis compañeros va a poder ver todo el contexto y ayudarle de inmediato.
+
+
+=== Original (English) ===
+
+Customer: Good morning. I received an email requesting verification documents that I already submitted last Tuesday.
+
+Customer Support: Good morning, and thank you for reaching out about this. Let me access your account right away to review the documentation status. May I have your account number or the email address associated with your profile?
+
+Customer: My account number is 447821. I submitted everything through your secure portal on October 22nd.
+
+Customer Support: Thank you. I have your account 447821 pulled up now, and I can see the initial submission from October 22nd at 2:47 PM. Let me check the processing status and determine why you received another request.
+
+Customer: I'd appreciate understanding what happened. This is delaying my application process considerably.
+
+Customer Support: I completely understand your concern about the delay. I can see that documents DOC-7821-A through DOC-7821-C were received, but our verification team flagged item B on October 24th because the image quality didn't meet the minimum 300 DPI requirement for processing.
+
+Customer: Why wasn't I notified about the image quality issue when it was first flagged?
+
+Customer Support: You raise an excellent point, and I apologize for that communication gap. According to the system notes dated 10/24/2024, an automated notification should have been sent to your registered email, but I don't see confirmation of delivery. This appears to be a technical issue on our end.
+
+Customer: So I need to resubmit just document B, or the entire package again?
+
+Customer Support: Just document B will be sufficient. I've already updated your case file CAS-2024-10-7821 to reflect that documents A and C are approved and locked in our system. You won't need to resubmit those, which should save you considerable time.
+
+Customer: That's helpful. What specific requirements should I follow for the new submission?
+
+Customer Support: Certainly.
+
+Customer: And how can I ensure the document meets your quality standards this time?
+
+Customer Support: For document B, please ensure it's scanned at 300 DPI or higher, saved as PDF format under 10MB, and that all text is clearly legible without shadows or glare. I'll also add priority flag PF-8821 to your account so our verification team reviews it within four business hours of receipt.
+
+Customer: Excellent. Will I receive confirmation when the verification team approves the resubmitted document?
+
+Customer Support: Absolutely. You'll receive an automated confirmation at submission with reference number starting with SUB-2024-10, followed by a manual confirmation from our verification team once approved. I'm also adding a note to have them call you directly at the number ending in 4429 if any issues arise.
+
+Customer: That's exactly what I needed. How long will my entire application take once document B is approved?
+
+Customer Support: Once document B is verified, your complete application moves to final processing within 24 hours. Based on your submission date of October 22nd and category type CAT-7, you should receive your final determination by November 1st, 2024, or potentially sooner with the priority flag I've added.
+
+Customer: Thank you for clarifying everything and adding the priority processing. This has been very helpful.
+
+Customer Support: You're very welcome. I've documented everything we discussed in case note CN-447821-1028, and I genuinely apologize for the initial communication failure. If you have any questions after resubmitting document B, please reference this case note, and any of our representatives can immediately see the full context and assist you further.
+

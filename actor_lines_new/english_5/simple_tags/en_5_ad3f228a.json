@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] Hey, excuse me, I didn't realize anyone would be here today—I'm actually the granddaughter, and I just drove sixteen hours straight from the commune in Oregon. [pause] Nobody told me they were already packing everything up."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh, I'm so sorry for your loss. [warmly] The estate company sent me to start the preliminary inventory, but I can absolutely give you some time alone with the space if you need it."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] It's just that some of these things have really specific energy attached to them, you know? [sighs] Like that crystal collection on the mantle—my grandmother used those for healing ceremonies for forty years."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] I understand these items must hold tremendous meaning for you. [reassuringly] Everything's being catalogued with extreme care, and family members have first right to claim any pieces before they go to auction."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] The thing is, it's not just about claiming them—some of these objects shouldn't be separated from each other. [quickly] The singing bowls need to stay with the meditation cushions, and the sage bundles were blessed together as a set."
+        },
+        {
+            "role": "Character 2",
+            "content": "[thoughtfully] That's actually really helpful information to have. [pause] Would you be willing to walk through the house with me and identify which items have those spiritual connections? I can make special notes in the inventory."
+        },
+        {
+            "role": "Character 1",
+            "content": "You'd really do that? [exhales] Most people think I'm just being difficult when I talk about the energy of objects and how they need to be respected."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sincerely] Not at all."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Okay, well, let's start with her altar room upstairs—that's where she kept the most sacred items. [nervously] Some of those pieces have been in ceremony for decades and shouldn't be handled by just anyone."
+        },
+        {
+            "role": "Character 2",
+            "content": "[encouragingly] I've actually packed several estates with religious and spiritual items, from Catholic relics to Buddhist artifacts. [confidently] I always wear gloves and treat everything as if it's irreplaceable, because to someone, it always is."
+        },
+        {
+            "role": "Character 1",
+            "content": "[surprised] Wow, I wasn't expecting that level of awareness from—sorry, that came out wrong. [embarrassed] It's just that most people in conventional jobs don't really get the spiritual side of things."
+        },
+        {
+            "role": "Character 2",
+            "content": "[chuckling] You'd be surprised how much philosophy and spirituality comes up in this line of work. [thoughtfully] When you're handling the accumulated treasures of someone's entire lifetime, you start thinking pretty deeply about what objects really mean."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warming up] My grandmother always said that every object carries the story of everyone who's touched it. [pause] She could hold something and tell you its entire history—where it came from, who loved it, who neglected it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[interested] That's a beautiful gift to have. [gently] I've been doing this for fifteen years, and while I can't read energy like that, I've developed a sense for which items held real significance versus what was just stuff."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curiously] How can you tell the difference? Because looking around here, I'm realizing I don't even know the stories behind half of these things. [sighs] I spent so many years away, living my own path."
+        },
+        {
+            "role": "Character 2",
+            "content": "[kindly] Usually it's in the placement and care—treasured items are displayed prominently, kept clean, positioned where they'd be seen daily. [softly] Your grandmother's crystals, for instance, they're perfectly arranged and not a speck of dust on them."
+        },
+        {
+            "role": "Character 1",
+            "content": "[emotionally] She used to wake up every morning at sunrise and meditate with those crystals for exactly thirteen minutes. [voice breaking] Said it was her way of greeting the day and setting her intentions."
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] Those are the kinds of details I like to include in my notes, if you're comfortable sharing them. [pause] Sometimes buyers really appreciate knowing the story behind what they're acquiring—it honors the previous owner's memory."
+        },
+        {
+            "role": "Character 1",
+            "content": "[grateful] You know what? [exhales] I came in here ready to fight whoever was boxing up her life, but you're actually making this bearable. Thank you for treating her things with respect."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] It's my privilege, honestly. [sincerely] Every home tells a story, and your grandmother's story seems particularly special—shall we continue upstairs and you can tell me more about her altar room?"
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "ad3f228a_scenario.json",
+    "actor": 5,
+    "scenario": "A free-spirited hippie returns to their childhood home to find a professional packer from an estate company methodically boxing up their recently deceased grandmother's belongings, including items with deep spiritual significance.",
+    "type": "scenario_conversation",
+    "character_1_role": "hippie",
+    "character_2_role": "packer",
+    "selected_tones": [
+        "hesitant",
+        "encouraging",
+        "informed"
+    ]
+}

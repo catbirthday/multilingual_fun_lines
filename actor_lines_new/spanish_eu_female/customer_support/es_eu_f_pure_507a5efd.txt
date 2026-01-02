@@ -1,0 +1,93 @@
+=== Source: 507a5efd_script.json ===
+Language: European Spanish
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: casual
+Scenario: complaining about being charged for a service they never used
+
+=== Translated Dialogue ===
+
+Customer [pure]: A ver, estoy mirando—espera, no—tengo un cargo aquí. Setenta y ocho euros. ¿Esto de qué es?
+
+Customer Support [pure]: Vale, déjame que lo mire. Cuenta terminada en 4482, ¿no? Mmm, veo un cargo del paquete premium del 23 de octubre. Aunque es raro, ¿eh? Tu cuenta aparece como tarifa básica.
+
+Customer [pure]: Yo no me he suscrito a ningún premium ni nada. ¿Cómo sé que esto no es... vosotros añadiendo cargos porque sí?
+
+Customer Support [pure]: Es lógico que desconfíes. Déjame mirar más a fondo. Vale, pues el registro del sistema muestra una solicitud de actualización a las 23:47 del día 22. Dirección IP 192.168.1.44. ¿Te suena de algo? ¿Igual alguien más en tu casa?
+
+Customer [pure]: Nadie más usa esto. Y yo estaba—no, espera—yo estaba dormida a las once cuarenta y siete.
+
+Customer Support [pure]: Ya, ya. La verdad es que esto es interesante. El pago se procesó con el token XK9-2847-B pero no hay activación correspondiente. Como si alguien hubiera empezado la actualización pero nunca la terminara. Eso ni siquiera debería ser posible.
+
+Customer [pure]: O sea, me estás diciendo... ¿que he pagado por algo que no existe? Qué conveniente para vosotros.
+
+Customer Support [pure]: No, no, tienes razón en estar cabreada. Es un fallo nuestro. La verdad es que llevo viendo casos parecidos estas últimas 48 horas. Algún fallo del backend. Ya lo he marcado para los de ingeniería pero eso a ti no te soluciona nada ahora mismo.
+
+Customer [pure]: Espera, o sea—estoy confundida—¿otros también tienen esto? ¿No soy solo yo?
+
+Customer Support [pure]: Sí, unos 340 cuentas afectadas. Todas entre el 22 y el 24 de octubre. El sistema intentó actualizar automáticamente pruebas inactivas. Una lógica completamente rota. El reembolso tarda de 3 a 5 días laborables pero te voy a acelerar el tuyo.
+
+Customer [pure]: ¿Pero cómo sé que el reembolso va a... llegar de verdad?
+
+Customer Support [pure]: Buena pregunta. Número de referencia del reembolso RFD-7829-QM41. Haz captura de eso. Te llegará un email en unos 15 minutos con toda la documentación. Mira la carpeta de spam que a veces cae ahí.
+
+Customer [pure]: Pero es que yo nunca tuve una prueba. Creo—no, de hecho—estoy segura de que nunca me apunté a eso.
+
+Customer Support [pure]: Déjame ver la fecha de creación. Anda. Cuenta creada junio 2019. Prueba añadida septiembre 2019 pero nunca activada. Ahí dormida cuatro años hasta que este bug la encontró. Es ridículo, la verdad.
+
+Customer [pure]: ¿Cuatro años? Eso no... no me acuerdo de nada de eso.
+
+Customer Support [pure]: Seguramente alguna promo de entonces. Te apuntas, tres meses gratis, nunca lo usas, se te olvida. Pasa constantemente. En fin, reembolso completo y te añado 25 euros de crédito por las molestias.
+
+Customer [pure]: El crédito es—espera—¿eso va a mi tarjeta? ¿O solo... crédito en la cuenta?
+
+Customer Support [pure]: Ya. Crédito en cuenta, por desgracia. Política de empresa para los gestos de buena voluntad. Pero el código de crédito GW-25-NOV-8K2X no caduca. Úsalo cuando quieras.
+
+Customer [pure]: A ver si lo entiendo. Me cobráis. Por nada. ¿Y ahora tengo que gastar más dinero para usar el crédito?
+
+Customer Support [pure]: Ya, lo sé. Es una tontería. Mira, entre tú y yo... Llama el jueves después de las 2 de la tarde hora peninsular. Hay otro equipo de turno. Menciona el número de caso CS-20231027-445. Puede que te lo conviertan en reembolso en efectivo. No te prometo nada pero merece la pena intentarlo.
+
+
+=== Original (English) ===
+
+Customer: So I'm looking at—wait, no—I have a charge here. Seventy-eight dollars. What is this even for?
+
+Customer Support: Okay let me pull that up. Account ending in 4482, right? Hmm, seeing a premium package charge from October 23rd. That's weird though. Your account shows basic tier.
+
+Customer: I never signed up for any premium anything. How do I know this isn't just... you guys adding charges?
+
+Customer Support: Valid concern. Let me dig deeper. Okay so system log shows upgrade request at 11:47 PM on the 22nd. IP address 192.168.1.44. That ring any bells? Maybe someone else in your household?
+
+Customer: Nobody else uses this. And I was—no wait—I was asleep at eleven forty-seven.
+
+Customer Support: Right right. This is interesting actually. Payment processed through token XK9-2847-B but there's no corresponding activation. Like someone started the upgrade but never finished. That shouldn't even be possible.
+
+Customer: So you're telling me... I paid for something that doesn't exist? How convenient for you.
+
+Customer Support: No no, you're right to be frustrated. This is our screw-up. Been seeing similar cases last 48 hours actually. Some backend glitch. Already flagged for engineering but that doesn't help you right now.
+
+Customer: Wait so—I'm confused—other people have this too? This isn't just me?
+
+Customer Support: Yeah bout 340 accounts affected. All between October 22nd and 24th. System tried to auto-upgrade dormant trials. Completely broken logic. Refund takes 3-5 business days but I'm expediting yours.
+
+Customer: How do I know the refund will actually... happen though?
+
+Customer Support: Fair question. Refund reference number RFD-7829-QM41. Screenshot that. Email coming to you in maybe 15 minutes with full documentation. Check spam folder sometimes lands there.
+
+Customer: But I never even had a trial. I think—actually no—I'm sure I never signed up for that.
+
+Customer Support: Let me check creation date. Huh. Account created June 2019. Trial attached September 2019 but never activated. Just sitting there dormant for four years till this bug found it. Ridiculous honestly.
+
+Customer: Four years? That doesn't... I don't remember any of that.
+
+Customer Support: Probably some promo back then. Sign up get three months free never use it forget about it. Happens constantly. Anyway full refund plus I'm adding $25 credit for the hassle.
+
+Customer: The credit is—wait—that goes to my card? Or just... account credit?
+
+Customer Support: Got it. Account credit unfortunately. Company policy on goodwill gestures. But credit code GW-25-NOV-8K2X won't expire. Use it whenever.
+
+Customer: So let me get this straight. You charge me. For nothing. And now I have to spend more money to use the credit?
+
+Customer Support: Yeah I know. It's dumb. Look between us? Call back Thursday after 2 PM Eastern. Different team on duty. Mention case number CS-20231027-445. They might convert to cash refund. Can't promise but worth trying.
+

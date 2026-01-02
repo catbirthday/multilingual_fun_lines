@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] Pera, esses números não tão... péra aí. [pause] Isso não pode tá certo. Tô olhando os extratos e tem, é... tem dinheiro faltando. [anxious] E não é pouco não, tô falando de milhares de reais aqui. [long pause] Meu Deus. [shaky voice] É o Derek. O Derek tá— [gasp loudly] ele tá tirando dinheiro da minha aposentadoria. [angry] Tá de brincadeira comigo? Esse é o cara que eu confio há, o quê, 8 anos? [very quietly] 8 anos sentando na frente dele nas reuniões, falando do meu futuro, da faculdade dos meus filhos... [pause] E ele tava, é, ele tava me roubando esse tempo todo? [furious] Quer dizer, como é que alguém faz isso? Fica lá sorrindo pra você, apertando sua mão enquanto tá literalmente te assaltando? [sigh] Caramba, me sinto um idiota. [bitter] Todas aquelas vezes que ele dizia que o mercado tava em baixa, que os rendimentos tavam menores que o esperado— [trailing off] [upset] Eu devia ter desconfiado quando ele ficava me desencorajando de conferir os extratos eu mesmo. \"Não se preocupa com isso, é pra isso que você me paga,\" ele dizia. [sarcastic] Pois é, aparentemente eu tava pagando ele pra me roubar. [anxious] O que eu faço agora? Quanto que ainda sobrou? [very sad] 20 anos economizando, e eu nem sei se... [sniffle] Preciso ligar pra polícia. E pra um advogado. [pause] E provavelmente pra minha mulher. [groan] Ela vai surtar."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] Wait, these numbers aren't... hold on. [pause] This can't be right. I'm looking at the statements and there's, um... there's money missing. [anxious] Not just a little bit either, we're talking thousands of dollars here. [long pause] Oh my God. [shaky voice] It's Derek. Derek's been— [gasp loudly] he's been taking money from my retirement fund. [angry] Are you kidding me right now? This is the guy I've trusted for, what, eight years? [very quietly] Eight years of sitting across from him at meetings, talking about my future, my kids' college funds... [pause] And he's been, er, he's been stealing from me this whole time? [furious] I mean, how does someone even do that? Just smile at you and shake your hand while they're literally robbing you? [sigh] God, I feel so stupid. [bitter] All those times he said the market was down, that returns were lower than expected— [trailing off] [upset] I should've known something was off when he kept pushing me away from checking the statements myself. \"Don't worry about it, that's what you pay me for,\" he'd say. [sarcastic] Yeah, apparently I was paying him to steal from me. [anxious] What am I supposed to do now? How much is even left? [very sad] Twenty years of saving, and I don't even know if... [sniffle] I need to call the police. And a lawyer. [pause] And probably my wife. [groan] She's going to lose it."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "3a23ffed_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Discovering your trusted employee benefits broker has been skimming money from your retirement fund",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

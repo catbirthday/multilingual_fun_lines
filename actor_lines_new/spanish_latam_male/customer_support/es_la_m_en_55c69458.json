@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So I called earlier. About my medication. And nobody seemed to... hmm, what if we could actually figure this out?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, let me pull up your account here... *exhales* Yeah, I see the notes from earlier. Your prescription RX-7742-MK9, right? I know this whole situation has been, um, sort of a mess, and I'm genuinely sorry about that. Let me actually dig into what's happening here."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. You actually see the notes? So basically... you know what's been going on?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I do, yeah. Three attempted deliveries to 4421 Oak Street, all failed. The pharmacy keeps saying it shipped but, uh... what's the word... there's like a disconnect somewhere between them and the courier. Honestly? This happens more than it should. Let me check something else here."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means. You believe me. That I'm not making this up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course I believe you. Look, I can see right here—tracking shows delivered but you never got it, three times in a row since October 22nd. That's not, er, that's not normal. And with medication, I mean... this is serious. Can I ask what this is for, if you're comfortable sharing?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's my son's epilepsy medication. So like. We can't just... hmm, we need this to work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh. Okay, that changes everything. *sharp inhale* Right, so what I'm going to do—and this is probably not the standard process but—I'm contacting our escalation team directly. Reference number ESC-9982-ZM. They can bypass the regular pharmacy and route through our emergency fulfillment center."
+        },
+        {
+            "role": "Customer",
+            "content": "Emergency fulfillment? That's... let me see here... that's actually a thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, yeah, it's kind of a... well, it's there for exactly these situations. Should've been offered to you already, truthfully. The facility is about 12 miles from your zip code 94107. I can have them dispatch within, uhh, roughly 2 hours, delivered by 6 PM today."
+        },
+        {
+            "role": "Customer",
+            "content": "Today? Like. Actually today? Not \"today\" but really tomorrow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually today, I promise. Driver ID will be DRV-4487, they'll call from a 415 number about 30 minutes before arrival. And just so you know, I'm... *exhales* I'm putting my employee ID 7739 on this personally. If something goes wrong, you call back and ask for me, Maria."
+        },
+        {
+            "role": "Customer",
+            "content": "Maria. Okay. So basically you're... you're really going to make sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I am. Look, I've got a nephew with epilepsy, so I... hmm, I get it, you know? The medication schedule is crucial. Let me also set up an automatic refill for the 15th of each month, that way we're ahead of this. Would that help?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. God yes. And so like... the insurance will still cover it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, same copay of $45, I'm looking at your plan details right now. Blue Shield, member ID BSC-9110-2847. Everything stays the same, we're just... sort of... rerouting how it gets to you. More reliable this way."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm actually. Hmm. Starting to think this might work out. Finally."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It will. And honestly? I'm putting a note here that any future issues go straight to escalation. No more runaround. Your confirmation number is CNF-8823-PPK, and, er, I'm also sending you my direct extension. It's 4412."
+        },
+        {
+            "role": "Customer",
+            "content": "You have a direct line? So if something happens. I can just. Call you?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, extension 4412, Monday through Friday, 9 to 6 Pacific. I mean, I'm supposed to say call the main line, but... *soft exhale* sometimes you just need to talk to someone who already knows the whole story, right? Your son's going to get his medication today. I'll make sure of it."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I called earlier. About my medication. And nobody seemed to... hmm, what if we could actually figure this out?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, let me pull up your account here... *exhales* Yeah, I see the notes from earlier. Your prescription RX-7742-MK9, right? I know this whole situation has been, um, sort of a mess, and I'm genuinely sorry about that. Let me actually dig into what's happening here."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. You actually see the notes? So basically... you know what's been going on?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I do, yeah. Three attempted deliveries to 4421 Oak Street, all failed. The pharmacy keeps saying it shipped but, uh... what's the word... there's like a disconnect somewhere between them and the courier. Honestly? This happens more than it should. Let me check something else here."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means. You believe me. That I'm not making this up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course I believe you. Look, I can see right here—tracking shows delivered but you never got it, three times in a row since October 22nd. That's not, er, that's not normal. And with medication, I mean... this is serious. Can I ask what this is for, if you're comfortable sharing?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's my son's epilepsy medication. So like. We can't just... hmm, we need this to work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh. Okay, that changes everything. *sharp inhale* Right, so what I'm going to do—and this is probably not the standard process but—I'm contacting our escalation team directly. Reference number ESC-9982-ZM. They can bypass the regular pharmacy and route through our emergency fulfillment center."
+        },
+        {
+            "role": "Customer",
+            "content": "Emergency fulfillment? That's... let me see here... that's actually a thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, yeah, it's kind of a... well, it's there for exactly these situations. Should've been offered to you already, truthfully. The facility is about 12 miles from your zip code 94107. I can have them dispatch within, uhh, roughly 2 hours, delivered by 6 PM today."
+        },
+        {
+            "role": "Customer",
+            "content": "Today? Like. Actually today? Not \"today\" but really tomorrow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually today, I promise. Driver ID will be DRV-4487, they'll call from a 415 number about 30 minutes before arrival. And just so you know, I'm... *exhales* I'm putting my employee ID 7739 on this personally. If something goes wrong, you call back and ask for me, Maria."
+        },
+        {
+            "role": "Customer",
+            "content": "Maria. Okay. So basically you're... you're really going to make sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I am. Look, I've got a nephew with epilepsy, so I... hmm, I get it, you know? The medication schedule is crucial. Let me also set up an automatic refill for the 15th of each month, that way we're ahead of this. Would that help?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. God yes. And so like... the insurance will still cover it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, same copay of $45, I'm looking at your plan details right now. Blue Shield, member ID BSC-9110-2847. Everything stays the same, we're just... sort of... rerouting how it gets to you. More reliable this way."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm actually. Hmm. Starting to think this might work out. Finally."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It will. And honestly? I'm putting a note here that any future issues go straight to escalation. No more runaround. Your confirmation number is CNF-8823-PPK, and, er, I'm also sending you my direct extension. It's 4412."
+        },
+        {
+            "role": "Customer",
+            "content": "You have a direct line? So if something happens. I can just. Call you?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, extension 4412, Monday through Friday, 9 to 6 Pacific. I mean, I'm supposed to say call the main line, but... *soft exhale* sometimes you just need to talk to someone who already knows the whole story, right? Your son's going to get his medication today. I'll make sure of it."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "55c69458_script.json",
+    "professionalism": "casual",
+    "scenario": "hopeful because the agent sounds like they actually care about helping",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "cautiously_hopeful",
+                "vulnerable_trusting"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "burned_out_but_trying",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches",
+                    "word_searching",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

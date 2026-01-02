@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[anxiously] Please don't run away this time—I know you can see me standing here by the Mercury engine, and I desperately need you to listen to what I'm trying to tell you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] This can't be happening again. [exhales] Look, I already told you last night, I fix boat motors, not whatever supernatural problem you've got going on here."
+        },
+        {
+            "role": "Character 1",
+            "content": "[pleading] Just five minutes!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] Five minutes of what?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[quickly] There's something wrong with the boat in slip seventeen—the one with the blue hull and the new Yamaha four-stroke. [urgently] The owner doesn't know the fuel line has a hairline crack that's going to fail catastrophically."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confused] How could you possibly know about a hairline crack in a fuel line? [nervously] Dead people don't exactly stay current on marine engine maintenance procedures, do they?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Because I'm the one who installed that fuel line three weeks before my accident. [quietly] I was rushing the job, trying to finish before the storm came in, and I knew something felt wrong but I signed off anyway."
+        },
+        {
+            "role": "Character 2",
+            "content": "[slowly] Wait, you're saying you were a tech here at the marina? [gasps] Oh God, you're Jimmy Castellano—the guy who went overboard during Hurricane Patricia last month."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Yes! Finally someone remembers me as more than just another drowning statistic. [desperately] That family with the three kids is taking that boat out tomorrow morning for a twelve-hour fishing trip."
+        },
+        {
+            "role": "Character 2",
+            "content": "I can't just walk up to a customer and tell them their recently serviced engine is dangerous because a ghost warned me about it. [sighs] They'll think I'm trying to scam them for unnecessary repairs."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] Then don't tell them I warned you—just check the line yourself right now while nobody's around. [pleading] Use the inspection camera, run it along the connection point near the primer bulb."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Even if I find something, how do I explain randomly inspecting a boat that wasn't scheduled for service? [anxiously] My supervisor already thinks I'm losing it after I mentioned seeing someone in the workshop after hours."
+        },
+        {
+            "role": "Character 1",
+            "content": "[passionately] Tell them you noticed a fuel smell while walking past, anything! [loudly] Three kids under ten years old—do you really want their deaths on your conscience because you were worried about looking crazy?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] That's not fair, man. [exhales] You're asking me to risk my job, my reputation, everything I've worked for based on the word of someone who technically doesn't exist anymore."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] I know what I'm asking seems impossible. [sadly] But I can't move on, can't rest, knowing that my last mistake as a living person might kill an entire family."
+        },
+        {
+            "role": "Character 2",
+            "content": "[softly] Jesus, Jimmy. [pause] Alright, I'll grab my inspection kit and check the boat, but if this is some kind of supernatural prank, I'm never working night shifts again."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gratefully] Thank you—God, thank you so much. [urgently] Check the starboard side connection first, about six inches from where it connects to the engine block, and look for discoloration in the line."
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] I must be completely insane, taking repair advice from a dead marine tech. [chuckles] But I guess if you're real enough to know about specific fuel line placements, maybe you're real enough to be right."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] When you find it, and you will find it, just leave a note saying you did a routine inspection. [very quietly] Maybe then I can finally stop haunting this place and actually rest."
+        },
+        {
+            "role": "Character 2",
+            "content": "[determined] Fine, let's go check your boat. [nervously] But after this, you've got to promise me you'll stop appearing while I'm trying to rebuild carburetors—nearly gave me a heart attack yesterday."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "b7d5c307_scenario.json",
+    "actor": 6,
+    "scenario": "A ghost haunting a marina discovers the night-shift repair tech is the only living person who can see them, and desperately tries to communicate urgent information about their death.",
+    "type": "scenario_conversation",
+    "character_1_role": "ghost",
+    "character_2_role": "outboard motor repair tech",
+    "selected_tones": [
+        "anxious",
+        "intense",
+        "advising"
+    ]
+}

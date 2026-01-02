@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] Cincuenta y tres años y me vienen a decir esta mañana—así nomás—que toda la planta se va a México. [pause] Tres meses. Eso fue lo que nos dieron. Tres meses de aviso después de veintiocho años de, de asistencia perfecta, horas extras cada vez que las necesitaban, entrenando a los chavitos nuevos que de todas formas renunciaban a la semana. [bitter] Bien generosos, ¿no?\n\n[sigh] Sigo pensando que tiene que haber... no sé, ¿algún error? Pero no. La de recursos humanos ni siquiera me pudo ver a los ojos cuando repartió los paquetes. [frustrated] ¿Qué se supone que haga con un \"paquete de asistencia para la transición\"? ¿Ah? ¿Aprender a programar? [laugh] Sí, cómo no, a mi edad.\n\nMi hipoteca ni siquiera está a la mitad. Los medicamentos de Sarah solamente son, este... son 300 al mes sin seguro. [anxious] Y ellos creen que puedo así nomás—¿qué?—¿conseguir otro trabajo de fábrica? Esos ya no existen. Todo es o, eh, salario mínimo o necesitas algún título que no tengo.\n\n[very sad] Veintiocho años. Me perdí los recitales de mi hija por hacer turnos extras. Trabajé con esa lesión en la espalda porque necesitábamos el seguro médico. [pause] ¿Y para qué? ¿Para que unos accionistas se ahorraran unos pesos en mano de obra?\n\n[exhausted] Estoy... estoy muy vieja para esto. Muy vieja para empezar de nuevo, muy joven para jubilarme. [trailing off] Qué le voy a decir a Sarah..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] Fifty-three years old and they tell me this morning—just like that—the whole plant's moving to Mexico. [pause] Three months. That's what they gave us. Three months notice after twenty-eight years of, of perfect attendance, overtime whenever they needed it, training the new kids who'd quit after a week anyway. [bitter] Real generous of them, right?\n\n[sigh] I keep thinking there's gotta be... I don't know, some mistake? But no. HR lady couldn't even look me in the eye when she handed out the packets. [frustrated] What am I supposed to do with a \"transition assistance package\"? Hmm? Learn to code? [laugh] Yeah right, at my age.\n\nMy mortgage isn't even half paid. Sarah's medication alone is, um... it's three hundred a month without insurance. [anxious] And they think I can just—what—walk into another factory job? Those don't exist anymore. Everything's either, uh, minimum wage or needs some degree I don't have.\n\n[very sad] Twenty-eight years. I missed my daughter's recitals for overtime shifts. Worked through that back injury because we needed the health insurance. [pause] And for what? So some shareholders could save a few bucks on labor?\n\n[exhausted] I'm just... I'm too old for this. Too old to start over, too young to retire. [trailing off] What am I gonna tell Sarah..."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "62443d0f_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your bread-winning job at the factory is moving overseas in three months and you're too old to start over",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

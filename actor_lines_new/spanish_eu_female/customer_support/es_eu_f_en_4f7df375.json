@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling because my autopay didn't process this month and I received a late payment notice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for contacting us. I apologize for the inconvenience. Let me pull up your account right away. May I have your account number or the phone number associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "My account number is 774-892-3011. This has never happened before in three years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your account here, showing a balance of $127.45 that was due on October 15th. I can see you've had autopay active since January 2021 without any previous issues."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. Please tell me what went wrong and how we fix this immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've identified the issue. Your payment method, the Visa ending in 4782, was declined with error code E401 indicating the card has expired. Our system attempted to process the payment three times between October 13th and 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "That card expired last month. I updated my payment information on October 10th through your website."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the update attempt here. Unfortunately, the CVV code 812 you entered didn't match what the bank has on file, so the system rejected the card update. You should have received an error notification to email address j.morrison@techcorp.com."
+        },
+        {
+            "role": "Customer",
+            "content": "I never received that notification. This is completely unacceptable. What do we do now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your frustration. Let me resolve this immediately. First, I'm waiving the $35.00 late fee that was applied to your account. Now, would you like to update your payment method while I have you on the line?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, please. And I need assurance this won't happen again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm ready to process your new payment information. Please provide the sixteen-digit card number when you're ready."
+        },
+        {
+            "role": "Customer",
+            "content": "The number is 5521-4000-8923-7715. It's a Mastercard that expires in December 2027."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Now I'll need the three-digit CVV security code from the back of your card, and I'll also need to verify the billing ZIP code."
+        },
+        {
+            "role": "Customer",
+            "content": "The CVV is 445 and the billing ZIP is 94105."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. I've successfully added your new Mastercard to the account and set it as the default for autopay. Your next automatic payment of $127.45 will process on November 15th at 12:01 AM Pacific time."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Please process today's payment now and send me confirmation that everything is corrected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm processing the payment now. Transaction ID TXN-892743-QMP has been approved for $127.45. You'll receive an email confirmation within five minutes, and I'm also adding a note to flag your account for priority monitoring for the next three billing cycles."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. That's what I needed. Please ensure my autopay settings are locked in correctly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything is confirmed and secure. Your autopay is scheduled for the 15th of each month, with email notifications going to j.morrison@techcorp.com three days before each payment. Is there anything else I can assist you with today?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling because my autopay didn't process this month and I received a late payment notice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for contacting us. I apologize for the inconvenience. Let me pull up your account right away. May I have your account number or the phone number associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "My account number is 774-892-3011. This has never happened before in three years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your account here, showing a balance of $127.45 that was due on October 15th. I can see you've had autopay active since January 2021 without any previous issues."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. Please tell me what went wrong and how we fix this immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've identified the issue. Your payment method, the Visa ending in 4782, was declined with error code E401 indicating the card has expired. Our system attempted to process the payment three times between October 13th and 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "That card expired last month. I updated my payment information on October 10th through your website."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the update attempt here. Unfortunately, the CVV code 812 you entered didn't match what the bank has on file, so the system rejected the card update. You should have received an error notification to email address j.morrison@techcorp.com."
+        },
+        {
+            "role": "Customer",
+            "content": "I never received that notification. This is completely unacceptable. What do we do now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your frustration. Let me resolve this immediately. First, I'm waiving the $35.00 late fee that was applied to your account. Now, would you like to update your payment method while I have you on the line?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, please. And I need assurance this won't happen again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm ready to process your new payment information. Please provide the sixteen-digit card number when you're ready."
+        },
+        {
+            "role": "Customer",
+            "content": "The number is 5521-4000-8923-7715. It's a Mastercard that expires in December 2027."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Now I'll need the three-digit CVV security code from the back of your card, and I'll also need to verify the billing ZIP code."
+        },
+        {
+            "role": "Customer",
+            "content": "The CVV is 445 and the billing ZIP is 94105."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. I've successfully added your new Mastercard to the account and set it as the default for autopay. Your next automatic payment of $127.45 will process on November 15th at 12:01 AM Pacific time."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Please process today's payment now and send me confirmation that everything is corrected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm processing the payment now. Transaction ID TXN-892743-QMP has been approved for $127.45. You'll receive an email confirmation within five minutes, and I'm also adding a note to flag your account for priority monitoring for the next three billing cycles."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. That's what I needed. Please ensure my autopay settings are locked in correctly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything is confirmed and secure. Your autopay is scheduled for the 15th of each month, with email notifications going to j.morrison@techcorp.com three days before each payment. Is there anything else I can assist you with today?"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4f7df375_script.json",
+    "professionalism": "professional",
+    "scenario": "asking why their autopay didn't process correctly",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "politely_firm",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "confidently_authoritative",
+                "precisely_technical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

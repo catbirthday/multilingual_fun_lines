@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[en voz baja] ¿Sabes qué es lo más loco? Pasé, mmm... quince años aprendiendo cada punto ciego, cada patrón de patrulla, cada forma de hacer que las cosas desaparecieran. [pausa] Nunca pensé que lo usaría para, pues, para esto. [cálido] Hay una familia—mamá, papá, tres niños—escondidos ahorita en mi antiguo compartimiento. [ansioso] El mismo donde guardaba... otras cosas. [suspiro] Y aquí estoy pensando, tipo, todos esos años moviendo mercancía, evitando retenes, sobornando guardias—[emocional] ahora sí significa algo. [rápidamente] O sea, estamos hablando de vidas, seres humanos de verdad que solo quieren estar seguros. [voz temblorosa] La más chiquita, tiene como cinco años, y este... me hizo un dibujito. [pausa] De una casita. [muy bajito] Una casita normal con un sol. [aclarándose la garganta] Es todo lo que quieren, ¿me entiendes? [apasionadamente] Y yo se los puedo dar—sé exactamente cuál guardia fronterizo se toma su descanso a las 2:47, qué reja tiene el sensor descompuesto, cómo hacer que una van entera se vea vacía en imagen térmica. [vacilante] Es que... a veces me pregunto si esto es, no sé, ¿redención o algo así? [confiado] Pero luego veo sus caras cuando cruzamos y la verdad? [aliviado] Nunca me había sentido más yo misma."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[quietly] You know what's funny? I spent, hmm... fifteen years learning every blind spot, every patrol pattern, every way to make things disappear. [pause] Never thought I'd be using it for, well, for this. [warm] There's this family—mom, dad, three kids—hiding in my old storage compartment right now. [anxious] The same one where I used to stash... other things. [sigh] And I'm sitting here thinking, like, all those years moving product, avoiding checkpoints, bribing guards—[emotional] it actually means something now. [quickly] I mean, these are people's lives, actual human beings who just want to be safe. [shaky voice] The youngest one, she's maybe five, and she, um... she drew me this picture. [pause] Of a house. [very quietly] Just a regular house with a sun. [clearing throat] That's all they want, you know? [passionately] And I can give them that—I know exactly which border guard takes his break at 2:47, which fence has the broken sensor, how to make a whole van look empty on thermal imaging. [hesitantly] It's just... sometimes I wonder if this is, I don't know, redemption or something? [confident] But then I see their faces when we cross over and honestly? [relieved] I've never felt more like myself."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "61a68f47_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your smuggler skills being used to rescue refugees instead of moving contraband",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

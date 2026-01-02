@@ -1,0 +1,215 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[firmemente] Temos de falar sobre os resultados da fase três que anunciaste ontem. Há um erro significativo nos dados de eficácia que, eh pá, muda completamente aquilo que dissemos a toda a gente sobre os resultados do tratamento."
+        },
+        {
+            "role": "Character 2",
+            "content": "[muito baixinho] Que tipo de erro?"
+        },
+        {
+            "role": "Character 1",
+            "content": "O sistema automático calculou mal as taxas de resposta do grupo de controlo. [pausa] Não estamos a falar de 72 por cento de eficácia como reportámos—na verdade anda mais pelos 43 por cento."
+        },
+        {
+            "role": "Character 2",
+            "content": "[voz trémula] 43 por cento. [pausa longa]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[apologético] Olha, eu sei que isto apanha-nos numa má altura com a chamada aos investidores amanhã, mas descobrimos isto durante a revisão de validação esta manhã e, sinceramente, estou admirada como é que passou nas verificações iniciais."
+        },
+        {
+            "role": "Character 2",
+            "content": "Mas como é que isto foi acontecer? [frustrado] Tivemos três equipas diferentes a verificar esses números antes de eu me pôr à frente de 200 jornalistas a dizer que tínhamos revolucionado o tratamento para esta condição."
+        },
+        {
+            "role": "Character 1",
+            "content": "O erro começou na forma como o sistema estava a interpretar as taxas de desistência, no fundo contava as não-respostas como resultados positivos em certos grupos. [suspira] É um problema de código que pelos vistos já lá está há meses."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitante] Já compilei os conjuntos de dados corrigidos e, hum, escrevi uma explicação técnica completa do que correu mal, mas temos de decidir como lidar com isto antes da abertura do mercado amanhã."
+        },
+        {
+            "role": "Character 2",
+            "content": "[amargo] As ações subiram 18 por cento com esse anúncio. [exala] Fazes ideia do que vai acontecer quando emitirmos uma correção a dizer que exagerámos a eficácia em quase 30 pontos percentuais?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[sem rodeios] Isso não é da minha área, mas sim, percebo as implicações. A questão é que somos legalmente obrigadas a corrigir isto imediatamente, e esperar mais um dia que seja pode ser considerado fraude de valores mobiliários."
+        },
+        {
+            "role": "Character 2",
+            "content": "[ansioso] Ok, ok, deixa-me pensar. [pausa] Podemos enquadrar isto como um refinamento de dados preliminares em vez de um erro direto? Qualquer coisa sobre análises contínuas revelarem resultados mais matizados?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[severo] Isso seria enganador e tu sabes disso. Isto não é um refinamento ou uma nuance—é um erro de cálculo fundamental que muda completamente a narrativa dos resultados do ensaio. Não podemos dar a volta a isto com conversa."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensivo] Não estou a tentar dar a volta a nada! [suspira] Estou a tentar perceber como é que digo aos nossos acionistas que o medicamento milagroso afinal é só marginalmente melhor que os tratamentos existentes sem causar pânico total."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empaticamente] Olha, percebo que estejas numa situação difícil, mas quanto mais esperamos, pior isto fica. 43 por cento de eficácia ainda bate o padrão atual em, hum, 12 pontos, portanto não é um desastre completo."
+        },
+        {
+            "role": "Character 2",
+            "content": "[lentamente] Tens razão, tens razão. [pigarreia] Temos de redigir uma correção imediatamente, notificar o conselho, e preparar-nos para as consequências. Podes explicar-me exatamente o que correu mal para eu conseguir explicar com rigor?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[aliviado] Claro, e já sinalizei isto ao departamento jurídico e de conformidade, por isso estão à espera da tua chamada. O principal é sermos completamente transparentes sobre o cronograma—quando ocorreu o erro, quando o descobrimos, e o que estamos a fazer para evitar que volte a acontecer."
+        },
+        {
+            "role": "Character 2",
+            "content": "[arrependido] 20 anos a fazer comunicação de crise, e esta pode ser a pior de sempre. [pausa] Pelo menos fomos nós que descobrimos antes de alguém o fazer, não é? Isso tem de contar para alguma coisa."
+        },
+        {
+            "role": "Character 1",
+            "content": "[calorosamente] Conta, na verdade. A autodenúncia mostra boa-fé, e o facto de os nossos processos internos de validação o terem apanhado demonstra que os nossos sistemas funcionam no final, mesmo que tenha havido uma falha inicial."
+        },
+        {
+            "role": "Character 2",
+            "content": "Pronto, vamos para o meu gabinete redigir esta correção juntas. Vou precisar que revejas cada palavra para garantir que estamos a ser tecnicamente rigorosas enquanto eu tento, hum, minimizar os danos à nossa reputação."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confiantemente] Levo toda a documentação e podemos referenciar as secções exatas do protocolo que foram afetadas. [suspira] Vai ser uma noite longa, mas vamos conseguir ultrapassar isto."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "[firmly] We need to talk about the phase three results you announced yesterday. There's a significant error in the efficacy data that, um, completely changes what we told everyone about the treatment outcomes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] What kind of error?"
+        },
+        {
+            "role": "Character 1",
+            "content": "The automated system miscalculated the control group response rates. [pause] We're not looking at seventy-two percent efficacy like we reported—it's actually closer to forty-three percent."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] Forty-three percent. [long pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[apologetic] Look, I know this is bad timing with the investor call tomorrow, but we caught it during the validation review this morning and, honestly, I'm surprised it got past the initial checks in the first place."
+        },
+        {
+            "role": "Character 2",
+            "content": "How the hell did this happen? [frustrated] We had three different teams verify those numbers before I stood in front of two hundred journalists and told them we'd revolutionized treatment for this condition."
+        },
+        {
+            "role": "Character 1",
+            "content": "The error originated in how the system was interpreting dropout rates, basically counting non-responses as positive outcomes in certain cohorts. [sighs] It's a coding issue that's been there for months, apparently."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] I've already compiled the corrected data sets and, um, written up a full technical explanation of what went wrong, but we need to decide how to handle this before market open tomorrow."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] The stock jumped eighteen percent on that announcement. [exhales] Do you have any idea what's going to happen when we issue a correction saying we overstated efficacy by nearly thirty percentage points?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[bluntly] That's not my department, but yes, I understand the implications. The thing is, we're legally obligated to correct this immediately, and waiting even another day could be considered securities fraud."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] Okay, okay, let me think. [pause] Can we frame this as a refinement of preliminary data rather than an outright error? Something about ongoing analysis revealing more nuanced results?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] That would be misleading and you know it. This isn't a refinement or a nuance—it's a fundamental calculation error that completely changes the trial's outcome narrative. We can't spin our way out of this."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] I'm not trying to spin anything! [sighs] I'm trying to figure out how to tell our shareholders that their miracle drug is actually just marginally better than existing treatments without causing a complete panic."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] Look, I get that you're in a tough spot here, but the longer we wait, the worse this gets. Forty-three percent efficacy still beats the current standard by, um, twelve points, so it's not a complete disaster."
+        },
+        {
+            "role": "Character 2",
+            "content": "[slowly] You're right, you're right. [clears throat] We need to draft a correction immediately, notify the board, and prepare for the backlash. Can you walk me through exactly what went wrong so I can explain it accurately?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Absolutely, and I've already flagged this with legal and compliance, so they're expecting your call. The main thing is being completely transparent about the timeline—when the error occurred, when we discovered it, and what we're doing to prevent this from happening again."
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] Twenty years I've been doing crisis communications, and this might be the worst one yet. [pause] At least we caught it ourselves before someone else did, right? That has to count for something."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] It does, actually. Self-reporting shows good faith, and the fact that our internal validation processes caught it demonstrates that our systems ultimately work, even if there was a failure initially."
+        },
+        {
+            "role": "Character 2",
+            "content": "Alright, let's go to my office and draft this correction together. I'll need you to review every word to make sure we're being technically accurate while I try to, hmm, minimize the damage to our reputation."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confidently] I'll bring all the documentation and we can reference the exact protocol sections that were affected. [sighs] It's going to be a long night, but we'll get through this."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "simple_tags",
+    "source_file": "204b5304_scenario.json",
+    "scenario": "A clinical data manager discovers a critical error in published trial results that the communications director has already shared with investors and the public.",
+    "type": "scenario_conversation",
+    "character_1_role": "data manager (clinical)",
+    "character_2_role": "communications director",
+    "selected_tones": [
+        "blunt",
+        "practical",
+        "watchful"
+    ],
+    "tone_options": [
+        "hard",
+        "watchful",
+        "humorless",
+        "animated",
+        "originating",
+        "blunt",
+        "triumphant",
+        "approaching",
+        "practical",
+        "uncommitted"
+    ]
+}

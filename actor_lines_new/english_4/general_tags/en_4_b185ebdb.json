@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "So it's you—the anonymous investor who's been circling our company for three months, sending those, um, those aggressive buyout offers through lawyers. [bitter laugh] Of course it's you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] Hello, Jamie."
+        },
+        {
+            "role": "Character 1",
+            "content": "Don't—don't do that, don't say my name like you have any right to it after fifteen years of absolute silence. [voice shaking]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[measured] I've been following your company's growth, the innovative platform you built from nothing—it's, uh, it's impressive work, truly impressive, better than anything I could've imagined."
+        },
+        {
+            "role": "Character 1",
+            "content": "Oh, so now you're proud? Where was that pride when Mom was working three jobs to keep us afloat while you were, what, flipping luxury condos in Miami?"
+        },
+        {
+            "role": "Character 2",
+            "content": "That's not—[sighs] Look, I know how this looks, but I genuinely want to help, to invest properly, give you the capital to scale internationally."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sharply] We don't need your money, we're doing fine with actual investors who don't abandon their families for, um, for profit margins and beachfront properties."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] It wasn't about the money, Jamie, it was never just about—I mean, your mother and I, we were destroying each other, you were too young to understand."
+        },
+        {
+            "role": "Character 1",
+            "content": "[trembling] I was twelve, not stupid—I understood plenty when you chose your business empire over your actual family, when you literally packed your things during my birthday party."
+        },
+        {
+            "role": "Character 2",
+            "content": "That timing was, uh, that was unfortunate, I admit that, but staying would've made things worse for everyone, including you. [pause] Especially you."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quieter] You know what the worst part is? I actually built this whole company partly to, I don't know, to prove I didn't need anything from you, ever."
+        },
+        {
+            "role": "Character 2",
+            "content": "And you succeeded—you've built something remarkable without me, which is exactly why I want to be part of it now, if you'll let me. [hopeful]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[withdrawing] Being part of something means showing up when it's hard, not just when it's profitable or, um, convenient for your portfolio."
+        },
+        {
+            "role": "Character 2",
+            "content": "You're right, absolutely right, and I can't undo the past, but maybe, just maybe, we could try something different going forward? [tentative]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[long exhale] The board meeting is tomorrow at nine—if you're serious about this, you'll need to convince them, not me, that you're more than just another corporate vulture."
+        },
+        {
+            "role": "Character 2",
+            "content": "I'll be there, and Jamie, I'll—I'll present the real proposal, not the aggressive one, the one where we're partners, where your vision stays intact."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softening slightly] Mom still asks about you sometimes, you know, even after everything—she'd probably want me to at least hear you out properly."
+        },
+        {
+            "role": "Character 2",
+            "content": "[emotional] She does? I, uh, I think about her too, about both of you, more than you'd probably believe, especially lately."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] Nine o'clock, conference room B—don't be late, because unlike fifteen years ago, I won't wait around wondering if you're actually going to show up."
+        },
+        {
+            "role": "Character 2",
+            "content": "I'll be early. [pause]"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "b185ebdb_scenario.json",
+    "actor": 4,
+    "scenario": "An e-commerce manager discovers their estranged father—a real estate mogul who abandoned the family years ago—is the mysterious investor trying to buy out their startup.",
+    "type": "scenario_conversation",
+    "character_1_role": "e-commerce manager",
+    "character_2_role": "real estate mogul",
+    "selected_tones": [
+        "sharp",
+        "withdrawing",
+        "hopeful"
+    ]
+}

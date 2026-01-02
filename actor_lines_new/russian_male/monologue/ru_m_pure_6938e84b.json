@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] Стой-стой-стой, ты это видишь? Мы закончили. Мы реально—боже мой, мы ЗАКОНЧИЛИ! [laugh loudly] 20 декабря, и мы только что упаковали последний заказ! [very excited] Ты понимаешь, что это значит? 17 лет я тут работаю, 17 рождественских сезонов, и мы ни разу, эм... ни разу не заканчивали раньше 23-го! [pause] Я всё обновляю систему, думаю, сейчас ещё заказы повалят, но... нет. Всё. [laugh]\n\n[passionately] Знаешь что, мы в этом году просто разорвали всех. Типа, вообще по полной. Помнишь прошлый год, когда мы тут до, сколько, до 2 ночи в сочельник торчали? [exhausted] Господи, я так убился, что свой обед в подарочную бумагу завернул по ошибке. [chuckle] А в этом году просто... не знаю, всё как-то сошлось. Новая система сортировки, дополнительные смены, все просто, э, реально выложились.\n\n[warm] Я тут чуть не плачу, но—команда, блин. [sniffle] Марко со своим больным коленом всех переупаковал, Сара всех этих сезонников натаскала... [very sincerely] Мы сегодня историю написали. Первый раз вообще. [relieved] Я, может, даже на рождественский утренник к детям попаду в этом году. [laugh] Чёрт возьми, мы это сделали!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] Wait wait wait, are you seeing this? We're done. We're actually—oh my God, we're DONE! [laugh loudly] December twentieth and we just packed the last order! [very excited] Do you understand what this means? Seventeen years I've been here, seventeen Christmas seasons, and we've never, um... we've never finished before the twenty-third! [pause] I keep refreshing the system thinking there's gotta be more orders coming in but... nope. That's it. [laugh] \n\n[passionately] You know what, we killed it this year. Like, absolutely crushed it. Remember last year when we were here until, what, two in the morning on Christmas Eve? [exhausted] God, I was so dead I wrapped my own lunch in gift paper by accident. [chuckle] But this year we just... I don't know, everything clicked. The new sorting system, the extra shifts, everybody just, uh, really showing up.\n\n[warm] I'm getting kind of emotional here but—this team, man. [sniffle] Marco with his bad knee still outpacking everyone, Sarah training all those seasonal kids... [very sincerely] We actually made history today. First time ever. [relieved] I might actually get to see my kids' Christmas pageant this year. [laugh] Holy crap, we did it!"
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "6938e84b_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your packer team finishing the holiday rush early for the first time in company history",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

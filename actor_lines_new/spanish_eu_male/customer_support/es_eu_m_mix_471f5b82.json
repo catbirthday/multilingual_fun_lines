@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Bueno, te llamo por—espera que—me ha llegado esta factura. Hay unos cargos que no me esperaba para nada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale, perfectamente, puedo revisarlo contigo. Déjame que busque tu cuenta... vale, estoy viendo el número de cuenta ACC-7829-MK4, is that the one we're looking at today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sí. Esa es."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfecto, entonces tengo tu factura del 15 de octubre, reference number INV-2023-10-8847X, y veo que hay un total de 487,23 dólares. ¿Qué cargos específicamente no te esperabas?"
+        },
+        {
+            "role": "Customer",
+            "content": "Todos los extras. El servicio base—no, espera—la consulta se suponía que era gratis. Eso es lo que me dijeron."
+        },
+        {
+            "role": "Customer Support",
+            "content": "A ver, déjame mirar... vale, entonces el cargo de consulta en la línea 3, that's showing as CON-45MIN-STD at 75 dollars, ¿y me dices que eso debería haberse eliminado?"
+        },
+        {
+            "role": "Customer",
+            "content": "Debería haberlo sido. Pero claro, pues no."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Creo que ya veo qué ha pasado. Había un código promocional que probablemente debería haberse aplicado, let me check... sí, el código FREECON2023 se suponía que estaba en esta cuenta. That's definitely our mistake."
+        },
+        {
+            "role": "Customer",
+            "content": "Exacto. Y la tarifa de diagnóstico. Línea siete."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale, eso es el cargo DIAG-ELEC-L2 por 150 dólares, y normalmente eso estaría incluido con trabajos de más de 300, which yours was. Déjame verificar algo... tu orden de servicio SO-48827-QP muestra que se completó a las 3:47 PM el día 12, ¿no?"
+        },
+        {
+            "role": "Customer",
+            "content": "Suena bien. Mira, es que—¿podemos repasar cada uno? I need to know what I'm actually paying for here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto, vamos línea por línea. Empezando desde arriba, la línea 1 es tu tarifa base de llamada de servicio SVC-CALL-RES a 89 dólares, that's standard for all residential visits between 8 AM and 6 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale. Lo que sea."
+        },
+        {
+            "role": "Customer Support",
+            "content": "La línea 2 son piezas, específicamente la pieza número PRT-8847-GFCI, ese es el interruptor de circuito de falla a tierra a 34,50 dólares, and I can see here that matches what was installed."
+        },
+        {
+            "role": "Customer",
+            "content": "Sí, eso—vale, eso está bien—pero ¿qué pasa con la línea cuatro?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bueno, la línea 4, esa es un poco curiosa. Está codificada como MISC-PERM-COORD a 45 dólares, y lo que significa es... em, actually let me double-check this, porque no está inmediatamente claro por la descripción."
+        },
+        {
+            "role": "Customer",
+            "content": "Por supuesto que no está claro. Why would anything be clear, ¿verdad?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale, lo he encontrado en las notas. El técnico tuvo que coordinar con la oficina de permisos, reference number PERM-2023-7749, y aparentemente hubo bastante ida y vuelta que tomó como una hora. That probably should have been mentioned upfront though."
+        },
+        {
+            "role": "Customer",
+            "content": "Una hora. Para permisos. Y nadie pensó en—da igual. Just tell me what I actually owe después de que arregles esto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bien, entonces quitando la tarifa de consulta y el cargo de diagnóstico, son 225 dólares menos, bringing your adjusted total to 262,23 dólares. Estoy procesando ese crédito ahora bajo el número de ajuste ADJ-8829-XK7M, and you should see that reflected within 3-5 business days."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I'm calling about—let me just—I got this invoice. Some charges I wasn't expecting."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, I can definitely walk through that with you. Let me pull up your account here... okay so I'm seeing account number ACC-7829-MK4, is that the one we're looking at today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. That's the one."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so I've got your invoice from October 15th, reference number INV-2023-10-8847X, and I can see there's a total of $487.23. Which specific charges were unexpected?"
+        },
+        {
+            "role": "Customer",
+            "content": "All the extras. The base service—no, wait—the consultation was supposed to be free. That's what they said."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, let me see here... okay so the consultation charge on line 3, that's showing as CON-45MIN-STD at $75, and you're saying that should have been waived?"
+        },
+        {
+            "role": "Customer",
+            "content": "Should have been. But of course it wasn't."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I think I see what happened here. There's a promo code that probably should have been applied, let me check... yeah, code FREECON2023 was supposed to be on this account. That's definitely our mistake."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. And the diagnostic fee. Line seven."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so that's the DIAG-ELEC-L2 charge for $150, and normally that would be included with jobs over $300, which yours was. Let me just verify something... your service order SO-48827-QP shows completion at 3:47 PM on the 12th?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sounds right. Look, I just—can we go through each one? I need to know what I'm actually paying for here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, we'll go line by line. So starting from the top, line 1 is your base service call fee SVC-CALL-RES at $89, that's standard for all residential visits between 8 AM and 6 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. Whatever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Line 2 is parts, specifically part number PRT-8847-GFCI, that's the ground fault circuit interrupter at $34.50, and I can see here that matches what was installed."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that's—okay, that's fine—what about line four though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So line 4, that's kind of an interesting one. It's coded as MISC-PERM-COORD at $45, and what that means is... hmm, actually let me double-check this because it's not immediately clear from the description."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course it's not clear. Why would anything be clear."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so I found it in the notes here. The technician had to coordinate with permit office, reference number PERM-2023-7749, and apparently there was some back-and-forth that took about an hour. That probably should have been mentioned upfront though."
+        },
+        {
+            "role": "Customer",
+            "content": "An hour. For permits. And nobody thought to—never mind. Just tell me what I actually owe after you fix this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so removing the consultation fee and the diagnostic charge, that's $225 off, bringing your adjusted total to $262.23. I'm processing that credit now under adjustment number ADJ-8829-XK7M, and you should see that reflected within 3-5 business days."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "471f5b82_script.json",
+    "professionalism": "casual",
+    "scenario": "electrician, methodical and wanting a line-by-line explanation of unexpected charges",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "resigned_going_through_motions",
+                "bitter_defeated"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "nervously_thorough"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "hedge_words",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

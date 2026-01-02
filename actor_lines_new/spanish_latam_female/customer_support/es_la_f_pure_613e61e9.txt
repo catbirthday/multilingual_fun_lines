@@ -1,0 +1,93 @@
+=== Source: 613e61e9_script.json ===
+Language: Latin American Spanish
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: casual
+Scenario: park ranger, needing documentation for a work reimbursement claim before the deadline
+
+=== Translated Dialogue ===
+
+Customer [pure]: Necesito una especie de... ¿cómo se dice... recibo desglosado? Para una cosa del trabajo. Supuestamente antes del viernes.
+
+Customer Support [pure]: Bueno bueno déjame buscar eso ahorita mismo y estoy viendo aquí número de cuenta ACC-4821-PK9 con fecha de compra del 23 de octubre del 2024 y necesitas el desglose detallado para que te lo reembolsen y la fecha límite es este viernes 8 de noviembre...
+
+Customer [pure]: Eso es lo que dijeron, pero o sea, ya he pedido estos antes y nunca están del todo bien, así que...
+
+Customer Support [pure]: Claro claro estoy revisando más a fondo tu historial de pedidos aquí ORD-92847-LM y puedo generar el recibo completo con código GL con ID fiscal 84-7261093 y todos los artículos separados por categoría que debería funcionar para la mayoría de los sistemas de reembolso pero déjame ver qué formato necesitas...
+
+Customer [pure]: Creo que PDF? O tal vez dijeron Excel. No estoy muy... no sé, siempre están cambiando lo que quieren.
+
+Customer Support [pure]: Ya entendí.
+
+Customer [pure]: El departamento de contabilidad, son medio imposibles con estas cosas, ¿sabes?
+
+Customer Support [pure]: Ay te entiendo perfectamente porque estoy viendo en tu expediente aquí tres solicitudes de recibo anteriores RQ-7823, RQ-8012, y RQ-8344 todas en los últimos seis meses y cada una tenía diferentes requisitos de formato lo cual debe ser súper frustrante cuando solo estás tratando de que te reembolsen gastos legítimos del trabajo...
+
+Customer [pure]: Espera, ¿puedes ver todo eso? Pensé que esos eran con diferentes... o sea...
+
+Customer Support [pure]: Todo está vinculado a través de tu ID de empleada EMP-7734829-USP y de hecho estoy revisando cada solicitud ahorita para ver qué funcionó y qué no porque honestamente el sistema me muestra exactamente por qué contabilidad las rechazó cada vez y es ridículo...
+
+Customer [pure]: Probablemente alguna cosita que ni siquiera importa, si tuviera que adivinar.
+
+Customer Support [pure]: Exacto y mirando el código de rechazo REJ-401B del 3 de octubre querían el número fiscal del proveedor en un campo separado y luego REJ-223A de agosto necesitaban la orden de compra PO-88231-K referenciada en el encabezado y voy a generar los tres formatos ahorita mismo...
+
+Customer [pure]: ¿Los tres? Pensé que solo había... espera, ¿cuántos formatos hay?
+
+Customer Support [pure]: Entonces está el formato PDF estándar de recibo A4-STD luego la plantilla de Excel desglosada XLS-REIMB-2024 y el formulario especializado del gobierno GSA-1199C y honestamente te voy a mandar los tres ahorita mismo al correo que termina en parks.gov...
+
+Customer [pure]: Eso es... o sea, probablemente ayudaría? Tal vez uno de ellos funcione esta vez.
+
+Customer Support [pure]: Absolutamente.
+
+Customer [pure]: La fecha límite es el viernes al mediodía, supuestamente. ¿O eran las cinco? Nunca son claros con estas cosas...
+
+Customer Support [pure]: Le estoy poniendo etiquetas de URGENTE a los tres documentos con marca de tiempo 14:47 EST 6 de noviembre del 2024 y los estoy enviando ahora y también creando un código de autorización de respaldo BAK-77234-Q por si acaso contabilidad necesita confirmación verbal y entre tú y yo yo trabajé en un lugar con el mismo sistema de reembolsos...
+
+Customer [pure]: ¿En serio? ¿Entonces sabes lo completamente... o sea, es medio pesadilla, ¿verdad?
+
+Customer Support [pure]: Ay completamente es lo peor y estoy viendo aquí que tus documentos acaban de pasar a las 14:48 EST con números de confirmación DOC-8823-A DOC-8823-B y DOC-8823-C y honestamente solo manda los tres y que ellos se arreglen con cuál quieren porque ese es su trabajo no el tuyo y te deberían llegar en unos treinta segundos...
+
+
+=== Original (English) ===
+
+Customer: I need some kind of... what's the word... itemized receipt? For a work thing. Before Friday, supposedly.
+
+Customer Support: Okay okay let me pull that up right away and I'm seeing here account number ACC-4821-PK9 with a purchase date of October 23rd 2024 and you need the itemized breakdown for reimbursement purposes and the deadline is this Friday November 8th...
+
+Customer: That's what they said, but I mean, I've asked for these before and they're never quite right, so...
+
+Customer Support: Right right I'm looking deeper into your order history here ORD-92847-LM and I can generate the full GL-coded receipt with tax ID 84-7261093 and all line items separated by category which should work for most reimbursement systems but let me check what format you need...
+
+Customer: I think PDF? Or maybe they said Excel. I'm not really... I don't know, they keep changing what they want.
+
+Customer Support: Got it.
+
+Customer: The accounting department, they're sort of impossible about this stuff, you know?
+
+Customer Support: Oh I completely understand because I'm seeing in your file here three previous receipt requests RQ-7823, RQ-8012, and RQ-8344 all within the last six months and each one had different formatting requirements which must be incredibly frustrating when you're just trying to get reimbursed for legitimate work expenses...
+
+Customer: Wait, you can see all that? I thought those were with different... I mean...
+
+Customer Support: Everything's linked through your employee ID EMP-7734829-USP and I'm actually going through each request now to see what worked and what didn't because honestly the system shows me exactly why accounting kicked them back each time and it's ridiculous...
+
+Customer: Probably some tiny thing that doesn't even matter, if I had to guess.
+
+Customer Support: Exactly and looking at rejection code REJ-401B from October 3rd they wanted the vendor tax number in a separate field and then REJ-223A from August they needed purchase order PO-88231-K referenced in the header and I'm just going to generate all three formats right now...
+
+Customer: All three? I thought there was just... wait, how many formats are there even?
+
+Customer Support: So there's the standard PDF receipt format A4-STD then the Excel breakdown template XLS-REIMB-2024 and the specialized government form GSA-1199C and honestly I'm just going to send you all three right now to email address ending in parks.gov...
+
+Customer: That's... I mean, that would probably help? Maybe one of them will work this time.
+
+Customer Support: Absolutely.
+
+Customer: The deadline's Friday at noon, supposedly. Or was it five? They're never clear about these things...
+
+Customer Support: I'm putting URGENT flags on all three documents with timestamp 14:47 EST November 6th 2024 and sending them now and also creating a backup authorization code BAK-77234-Q just in case accounting needs verbal confirmation and between you and me I used to work somewhere with the same reimbursement system...
+
+Customer: Really? So you know how completely... I mean, it's kind of a nightmare, right?
+
+Customer Support: Oh completely it's the worst and I'm seeing here your documents just went through at 14:48 EST with confirmation numbers DOC-8823-A DOC-8823-B and DOC-8823-C and honestly just submit all three and let them figure out which one they want because that's their job not yours and you should have them in about thirty seconds...
+

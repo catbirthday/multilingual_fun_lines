@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Então, é... eu tô sendo boba provavelmente mas tipo... meu pacote tá dizendo que foi entregue?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah não não não, imagina, você não tá sendo boba nada, deixa eu—peraí na verdade—deixa eu puxar sua conta aqui rapidinho, você tem o número do pedido aí?"
+        },
+        {
+            "role": "Customer",
+            "content": "É... PED-4492-BK? Mas eu olhei em todo lugar..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tá perfeito, então tô vendo aqui o PED-4492-BK e realmente tá constando como entregue ontem às 14h47 na sua porta na Rua das Acácias 1823, mas você tá dizendo que—hmm—você não recebeu nada, é isso?"
+        },
+        {
+            "role": "Customer",
+            "content": "É. Eu simplesmente... não sei o que aconteceu."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tá tá, entendi."
+        },
+        {
+            "role": "Customer",
+            "content": "Talvez eu tô deixando passar alguma coisa óbvia? Tipo..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não, olha, você não tá deixando passar nada óbvio não, isso acontece mais do que você imagina na verdade, então o que eu preciso fazer é—bom, primeiro—você chegou a perguntar pros vizinhos por acaso, às vezes o entregador acaba deixando no endereço errado?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, perguntei sim. Ninguém tá com ele. Desculpa, isso é tão..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ô ô, não precisa pedir desculpa de jeito nenhum, sério, é exatamente pra isso que a gente tá aqui, então basicamente eu vou abrir o que a gente chama de relatório DNR—que é \"não recebido\"—com o código de rastreamento RAST-8827-QM94 e isso já inicia uma investigação com a transportadora na hora."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah. Tá. E aí o que acontece, ou..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo certo, então funciona assim, e eu sei que é frustrante mas fica comigo aqui, a transportadora tem 48 horas pra investigar, quer dizer, eles vão rastrear por GPS onde o motorista fez a leitura, verificar se de repente foi entregue no apartamento B em vez do A, esse tipo de coisa."
+        },
+        {
+            "role": "Customer",
+            "content": "48 horas? É que... quer dizer... tá bom..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eu sei, eu sei."
+        },
+        {
+            "role": "Customer",
+            "content": "É que... eu precisava pra amanhã e agora não vou conseguir..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ahhh nossa, tá, você precisa pra amanhã, isso muda tudo, deixa eu—hmm, na verdade—olha o que eu consigo fazer, tô colocando um código de prioridade PRIO-7753 pra te enviar uma reposição imediata por entrega expressa hoje ainda antes do corte das 15h."
+        },
+        {
+            "role": "Customer",
+            "content": "Peraí, sério? Você consegue fazer isso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza, sim sim, então a reposição vai ter o código de rastreamento RAST-9901-LX55 e você recebe até às 10h de amanhã garantido, e aí se o original aparecer, que às vezes acontece, você fica com os dois, considera como um pedido de desculpas nosso."
+        },
+        {
+            "role": "Customer",
+            "content": "Meu Deus, nossa, obrigada. Sério mesmo, eu tava quase..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah imagina, de jeito nenhum, eu entendo totalmente, essas coisas são estressantes mesmo, ainda mais quando você tem prazo, então você vai receber um email de confirmação em uns cinco minutinhos com esse novo código de rastreamento RAST-9901-LX55 e tá tudo certo pra amanhã!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So, um, I'm probably being dumb but like... my package says delivered?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no no, you're not being dumb at all, let me—actually wait—let me pull up your account real quick here, what's your order number if you have it handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, er... ORD-4492-BK? But I checked everywhere..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay perfect so I'm looking at ORD-4492-BK here and yeah it says delivered yesterday at 2:47 PM to your front door at 1823 Maple Street, but you're saying—hmm—you never actually received it, is that right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. I just... I don't know what happened."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it."
+        },
+        {
+            "role": "Customer",
+            "content": "Maybe I'm missing something obvious? Like..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No listen you're absolutely not missing anything obvious, this happens more than you'd think actually, so what I need to do is—well first—did you check with neighbors by any chance, sometimes drivers accidentally deliver to the wrong address?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah. Nobody has it. I'm sorry, this is so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey hey no need to apologize at all, seriously this is exactly what we're here for, so basically I'm gonna file what we call a DNR report—that's \"did not receive\"—with tracking number TRK-8827-QM94 and that starts an investigation with the carrier right away."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay. So what happens then, or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right so here's how this works, and I know it's frustrating but bear with me here, the carrier has 48 hours to investigate which means they'll GPS track where the driver scanned it, check if maybe it got misdelivered to unit B instead of A or something like that."
+        },
+        {
+            "role": "Customer",
+            "content": "48 hours? That's... I mean... okay..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know I know."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I needed it for tomorrow and now I can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ohh man okay so you need it for tomorrow, that definitely changes things, let me—hmm actually—here's what I can do, I'm putting in an override code OVR-7753 to immediately ship you a replacement via overnight delivery today before 3 PM cutoff."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? You can do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely yes yes, so the replacement will have tracking number TRK-9901-LX55 and you'll get that by 10 AM tomorrow guaranteed, and then if the original shows up, which sometimes happens, you just keep both, consider it an apology from us."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god, um, thank you. Seriously I was about to just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no worries at all, I totally get it, these things are stressful especially when you're on a deadline, so you'll get an email confirmation in about five minutes with that new tracking number TRK-9901-LX55 and everything should be good to go for tomorrow!"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3cdcdce3_script.json",
+    "professionalism": "casual",
+    "scenario": "reporting that their delivery was marked complete but never arrived",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "overwhelmed_shutdown"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses",
+                    "classic_fillers",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "professionally_firm",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

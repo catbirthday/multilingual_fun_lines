@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need help with an employee discount issue regarding my recent purchase."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, I'd be happy to help resolve that for you. Let me pull up your account using your email address or account number A-7829-VET if you have it available."
+        },
+        {
+            "role": "Customer",
+            "content": "My email is sarah.martinez at riverside vet clinic. The purchase was made last Tuesday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you, Ms. Martinez. I've located your account and I can see your purchase from November 12th for $847.50. Let me review your employee discount eligibility status in our system."
+        },
+        {
+            "role": "Customer",
+            "content": "I was told during onboarding that veterinary staff receive twenty percent off all orders."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the issue now. Your account shows veterinary professional status was approved on November 8th, but the discount code VET20-PROF wasn't activated until November 14th, two days after your purchase."
+        },
+        {
+            "role": "Customer",
+            "content": "That's frustrating. I specifically waited to place this order after my credentials were verified."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration, and you're absolutely right. This was our error in the activation timeline. I'm going to apply the full 20% discount retroactively, which comes to $169.50."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. When will I see that refund processed to my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The refund will be processed today by 3:30 PM Eastern, and you should see it reflected in your bank account within 2-3 business days depending on your financial institution."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Will future orders automatically apply the discount going forward?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, yes. Your account now shows active status with code VET20-PROF permanently attached. All future orders will automatically apply the 20% discount at checkout, no manual entry required."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I also need to update my shipping address to our new location."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I can update that right now. Please provide the new address and I'll ensure it's set as your default for all future shipments to arrive correctly."
+        },
+        {
+            "role": "Customer",
+            "content": "It's four thousand two hundred Oak Boulevard, Suite Three Hundred, Riverside, California, nine two five zero one."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've updated your default shipping address to 4200 Oak Boulevard, Suite 300, Riverside, CA 92501. This change is effective immediately for any pending or future orders."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Can you send me email confirmation of both the refund and address change?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm sending a detailed confirmation email now to your address on file. You'll receive it within the next 5 minutes with reference number CS-11947-VET for your records."
+        },
+        {
+            "role": "Customer",
+            "content": "That's everything I needed. Thank you for resolving this quickly and professionally."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome, Ms. Martinez. I apologize again for the initial oversight with your discount activation. If you need any assistance in the future, please don't hesitate to contact us directly at extension 4500."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "9c3d9f0f_script.json",
+    "actor": 3,
+    "scenario": "veterinary assistant, upset about an employee discount that was promised but never applied",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

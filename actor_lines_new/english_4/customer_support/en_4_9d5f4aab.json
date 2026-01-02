@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I just... I can't. There's this charge. Every month. I don't know what it's for."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay, so, um, I completely understand how concerning that can be. Let me pull up your account here and we'll figure this out together, alright? Can you tell me what the charge shows up as on your statement?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's like a... what's the word... ACC-something. Twenty-nine ninety-five."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, ACC and then $29.95, got it. So basically I'm seeing—er, let me just search our merchant codes here. Actually, that prefix usually indicates an auto-renewal subscription. Do you remember signing up for anything recently, maybe a free trial that converted?"
+        },
+        {
+            "role": "Customer",
+            "content": "I just... Let me think here... No. Maybe? God, I can't even remember."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, it's totally okay. So what I can do is, uh, trace back when these charges started. Looks like... okay so the first one hit on March 15th, transaction ID TXN-8847-PM92. Does that date ring any bells?"
+        },
+        {
+            "role": "Customer",
+            "content": "March? That's when... Hmm, what if... Wait. My salon software. But that's sixty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ooh interesting. So you mentioned salon software—actually let me check something. Sometimes these companies have, like, add-on services? The base might be $60 but then there's, er, inventory tracking or booking features for $29.95?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh God. Maybe. I'm just so... Everything's been chaos. The divorce. I can't think."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... if it's that... but I never use those features."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, I hear you. So here's what we can—wait, actually—let me pull up the full merchant details. The charge is coming from ACC-TECH-SOLUTIONS, merchant ID MER-7734-XK. Would you like me to initiate a stop payment on future charges while you sort this out with them?"
+        },
+        {
+            "role": "Customer",
+            "content": "Stop payment? Can you just... is that allowed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, so technically, um, we need your authorization but—yes, absolutely we can do that. I'll put a block on any future charges from merchant MER-7734-XK, and then basically you'd have 60 days to dispute the previous charges if you decide they were unauthorized."
+        },
+        {
+            "role": "Customer",
+            "content": "I need that money. My daughter's medications... it adds up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, of course. So I'm gonna—er, let me make sure I do this right. Block is now active, reference number BLK-2951-QF. And actually, hmm, I can see three previous charges here. Would you like to dispute those as well? That'd be $89.85 back in your account."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? All three? Oh thank God."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah! So basically the dispute, uh, it'll process in about 3 to 5 business days. I'm filing it under dispute case DSP-9042-TK88, and you'll get a provisional credit while we investigate."
+        },
+        {
+            "role": "Customer",
+            "content": "You're... this is huge. I was terrified to even call."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aww, hey, that's what we're here for, you know? So you should see that $89.85 back by Thursday latest, and, um, no more charges going forward. Is there anything else I can help you with today? Actually—wait, make sure you keep that reference number, DSP-9042-TK88, just in case."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "9d5f4aab_script.json",
+    "actor": 4,
+    "scenario": "hairstylist, worried about a mysterious recurring bank charge she doesn't recognize",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

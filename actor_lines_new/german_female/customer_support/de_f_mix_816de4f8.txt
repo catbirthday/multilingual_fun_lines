@@ -1,0 +1,93 @@
+=== Source: 816de4f8_script.json ===
+Language: German
+Gender: female
+Mode: mix
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking about international shipping options and customs fees
+
+=== Translated Dialogue ===
+
+Customer [mix]: I need to understand your international shipping options to Germany. Welche Carrier benutzt ihr, und wie läuft das mit dem Zoll ab?
+
+Customer Support [mix]: We offer three international shipping methods to Germany through DHL Express, FedEx International Priority, and USPS Global Express. Die Lieferzeiten reichen von 3-5 Werktagen für Express-Optionen bis zu 7-14 Tagen für den Standardversand.
+
+Customer [mix]: How are customs duties calculated? Werde ich den Betrag wissen, bevor ich meine Bestellung abschließe?
+
+Customer Support [mix]: Customs duties are determined by German authorities based on your order value and product category. Normalerweise liegt das zwischen 7% und 19% Mehrwertsteuer plus mögliche Zollgebühren, und unser Checkout-System zeigt eine Schätzung mit dem harmonisierten Code HS-6109-10 für die meisten Artikel.
+
+Customer [mix]: I have a deadline of November 15th. Welche Option garantiert mir die Lieferung bis dahin?
+
+Customer Support [mix]: DHL Express with tracking number prefix DHL-EX guarantees delivery by November 14th for $89.50. FedEx International Priority kommt am 13. November für $94.75 an, beide inklusive vollständiger Sendungsverfolgung und Unterschriftsbestätigung.
+
+Customer [mix]: What happens if customs delays the package beyond the guaranteed delivery date? Also, was passiert dann genau?
+
+Customer Support [mix]: If customs causes a delay beyond our guaranteed date, erstatten wir automatisch die Versandpreisdifferenz von $45.50 zwischen Express und Standard, und unser internationales Team überwacht alle Pakete durch die Zollabfertigung mit unserem Prioritätscode INT-PRIO-2024.
+
+Customer [mix]: Do you handle the customs paperwork? Oder ist das meine Verantwortung als Empfängerin?
+
+Customer Support [mix]: We complete all required export documentation including commercial invoice CI-2024-11 and customs declaration forms. Sie müssen nur die festgesetzten Zollgebühren direkt an den Kurier bei der Lieferung zahlen oder über deren Online-Portal.
+
+Customer [mix]: Can you explain why some items show different shipping restrictions to Germany? Das verstehe ich noch nicht ganz.
+
+Customer Support [mix]: Certainly, Germany has specific import regulations for electronics requiring CE certification. Lithium-Batterien unterliegen der Vorschrift UN3481, und bestimmte Textilien brauchen Zusammensetzungserklärungen, was ungefähr 15% unserer Katalogartikel betrifft, die mit dem Code RST-DE markiert sind.
+
+Customer [mix]: What's your policy if I refuse the customs charges at delivery? Was passiert dann mit meiner Bestellung?
+
+Customer Support [mix]: If you refuse customs charges, kommt das Paket ohne zusätzliche Kosten zu uns zurück, und wir erstatten den vollen Produktpreis innerhalb von 3-5 Werktagen abzüglich der ursprünglichen Versandgebühr von $89.50 oder $94.75, je nach gewähltem Service.
+
+Customer [mix]: Is there a way to prepay customs duties? Das würde Verzögerungen bei der Lieferung vermeiden, oder?
+
+Customer Support [mix]: Yes, we offer Delivered Duty Paid service through account DDP-7829 for an additional $35 handling fee. Damit kalkulieren und bezahlen wir alle Zollgebühren im Voraus, sodass Ihr Paket sofort durchkommt ohne Gebühren bei der Lieferung.
+
+Customer [mix]: That's helpful, thank you. Wie genau sind eure Zollschätzungen normalerweise?
+
+Customer Support [mix]: Our estimates using tariff database TARIC-2024 are typically within 5% of actual charges. Das gilt für 92% der Sendungen, obwohl Luxusartikel über €150 und Elektronik bis zu 12% variieren können, je nach aktuellen deutschen Zollklassifizierungen.
+
+Customer [mix]: Perfect, I'll proceed with the DHL Express option with prepaid duties. Was ist der gesamte Zeitrahmen dafür?
+
+Customer Support [mix]: Excellent choice for your needs. Mit DHL Express und vorausbezahlten Zollgebühren durch unser DDP-7829 Programm wird Ihre Bestellung innerhalb von 24 Stunden versendet, kommt in 4-6 Stunden durch den Zoll, und trifft am 14. November ein, mit Gesamtkosten von $124.50 für Versand und Zollabwicklung.
+
+
+=== Original (English) ===
+
+Customer: I need to understand your international shipping options to Germany. What carriers do you use and how are customs handled?
+
+Customer Support: We offer three international shipping methods to Germany through DHL Express, FedEx International Priority, and USPS Global Express, with delivery times ranging from 3-5 business days for express options to 7-14 days for standard service.
+
+Customer: How are customs duties calculated, and will I know the amount before finalizing my order?
+
+Customer Support: Customs duties are determined by German authorities based on your order value and product category, typically ranging from 7% to 19% VAT plus potential duty fees, and our checkout system provides an estimate using harmonized code HS-6109-10 for most items.
+
+Customer: I have a deadline of November 15th. Which option guarantees delivery by then?
+
+Customer Support: DHL Express with tracking number prefix DHL-EX guarantees delivery by November 14th for $89.50, and FedEx International Priority arrives by November 13th for $94.75, both including full tracking and signature confirmation.
+
+Customer: What happens if customs delays the package beyond the guaranteed delivery date?
+
+Customer Support: If customs causes a delay beyond our guaranteed date, we automatically refund the shipping premium difference of $45.50 between express and standard rates, and our international team monitors all packages through clearance using our priority code INT-PRIO-2024.
+
+Customer: Do you handle the customs paperwork, or is that my responsibility as the recipient?
+
+Customer Support: We complete all required export documentation including commercial invoice CI-2024-11 and customs declaration forms, while you'll only need to pay any assessed duties directly to the carrier upon delivery or through their online portal.
+
+Customer: Can you explain why some items show different shipping restrictions to Germany?
+
+Customer Support: Certainly. Germany has specific import regulations for electronics requiring CE certification, lithium batteries under regulation UN3481, and certain textiles needing composition declarations, which affects approximately 15% of our catalog items marked with code RST-DE.
+
+Customer: What's your policy if I refuse the customs charges at delivery?
+
+Customer Support: If you refuse customs charges, the package returns to our facility at no additional cost to you, and we issue a full product refund within 3-5 business days minus the original shipping fee of $89.50 or $94.75 depending on your selected service.
+
+Customer: Is there a way to prepay customs duties to avoid delays at delivery?
+
+Customer Support: Yes, we offer Delivered Duty Paid service through account DDP-7829 for an additional $35 handling fee, where we calculate and prepay all customs charges, ensuring your package clears immediately with no fees due at delivery.
+
+Customer: That's helpful. How accurate are your customs estimates typically?
+
+Customer Support: Our estimates using tariff database TARIC-2024 are typically within 5% of actual charges for 92% of shipments, though luxury items over €150 and electronics may vary by up to 12% depending on current German customs classifications.
+
+Customer: Perfect. I'll proceed with the DHL Express option with prepaid duties. What's the total timeframe?
+
+Customer Support: Excellent choice. With DHL Express service and prepaid duties through our DDP-7829 program, your order ships within 24 hours, clears customs in 4-6 hours, and arrives by November 14th, with total shipping and duty handling costing $124.50.
+

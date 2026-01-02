@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[frustrated] I reviewed the chart three times today. [pause] Three times. Every single step, every measurement, every... I did everything right. [angry] The incisions were textbook, the sutures were perfect, I even— [sighs] God, I keep going through it in my head, you know? Like maybe I missed something, but I didn't. [defensive] I've done this procedure hundreds of times. [pause] And now they're saying I ruined— [bitter] that's the word they used, \"ruined\"— someone's face? [upset] When the healing went exactly as I told them it would? [pause] I mean, we discussed the swelling, the timeline, everything. [anxious] But somehow that becomes malpractice because they expected to look like a magazine cover in two weeks? [frustrated] Jesus. [pause] Twenty years of perfect outcomes and now, um... now my entire career is on the line because someone didn't like their results. [quietly] Even though medically, technically, there's nothing wrong. [pause] My lawyer says we'll win but, honestly? [worried] The damage is already done. [bitter] My name is out there now, attached to this. [trailing off] And I keep thinking about all my future patients googling me and finding..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[frustrated] I reviewed the chart three times today. [pause] Three times. Every single step, every measurement, every... I did everything right. [angry] The incisions were textbook, the sutures were perfect, I even— [sighs] God, I keep going through it in my head, you know? Like maybe I missed something, but I didn't. [defensive] I've done this procedure hundreds of times. [pause] And now they're saying I ruined— [bitter] that's the word they used, \"ruined\"— someone's face? [upset] When the healing went exactly as I told them it would? [pause] I mean, we discussed the swelling, the timeline, everything. [anxious] But somehow that becomes malpractice because they expected to look like a magazine cover in two weeks? [frustrated] Jesus. [pause] Twenty years of perfect outcomes and now, um... now my entire career is on the line because someone didn't like their results. [quietly] Even though medically, technically, there's nothing wrong. [pause] My lawyer says we'll win but, honestly? [worried] The damage is already done. [bitter] My name is out there now, attached to this. [trailing off] And I keep thinking about all my future patients googling me and finding..."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "3282f4db_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The plastic surgeon malpractice lawsuit claiming your procedure ruined someone's face when you followed protocol perfectly",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

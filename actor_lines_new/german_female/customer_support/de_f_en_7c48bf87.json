@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically I'm calling because like there's some weird stuff on my account and I'm hoping you can help me figure this out"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh boy okay let me pull this up real quick, um, can you give me your account number and I'll see what we're looking at here, between you and me these things usually have a pretty obvious pattern once we dig in"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's basically 4429-8851 and like I noticed three charges this morning that definitely weren't me"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright alright I've got account 4429-8851 pulled up here and yeah I can see what you're talking about, there's a charge for $487.23 at someplace called Digital Paradise LLC, another for $92.50 at Gaming Central, and um, let me see here, oh wow $1,847.00 at Luxury Electronics Depot, those the ones?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes exactly those and so here's the thing I've never even heard of these places"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so between you and me this looks like classic card-not-present fraud, I'm seeing all three transactions have the auth code pattern starting with CNP7X which basically means someone got your card details and went shopping online, but here's the good news we're gonna fix this right now"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank god because like I was starting to freak out a little bit this morning when I saw almost three grand just gone"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no totally understandable, I actually had this happen to me last year someone bought like eight hundred dollars worth of Pokemon cards with my card which was, uh, interesting to explain to my wife, but anyway let me get these flagged in our fraud system real quick, transaction IDs are TRX-9847263-A, TRX-9847281-B, and TRX-9847295-C"
+        },
+        {
+            "role": "Customer",
+            "content": "Pokemon cards seriously? That's actually kind of funny but so what happens next do I get my money back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely you're getting every penny back, let me see here, okay so I'm filing this under case number FRD-2024-11-8827391 and basically what's gonna happen is the provisional credits will hit your account within 24 hours while we investigate but honestly with these CNP7X patterns it's open and shut"
+        },
+        {
+            "role": "Customer",
+            "content": "So basically that's it? Like I don't have to do anything else?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well actually there's one thing and this is where I'm gonna be real with you for a second, we need to cancel card ending in 8851 right now and I'm overnighting you a new one, tracking number will be TRK4429NK8851 and between you and me I'm waiving the expedited shipping fee because this whole thing is annoying enough already"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah no that makes sense and honestly you're being super helpful about this whole thing"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen I'm just trying to make this as painless as possible because fraud sucks and, um, oh actually while I have you let me check something real quick, hmm, okay so your new card will be 4429-8867 and it'll arrive tomorrow before noon"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Actually wait. Tomorrow's Saturday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Uh oh yeah you're right, let me see here, okay so with the FedEx priority code I'm using which is FEDP-SAT-8827 it'll definitely deliver Saturday but if you're not home they might, um, they might need a signature"
+        },
+        {
+            "role": "Customer",
+            "content": "I'll be home. Trust me. After this I'm not using that card anywhere for a while."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally get that, honestly after my whole Pokemon card incident I was paranoid for like a month checking my account every day, but real talk our fraud detection system with monitoring code AFS-7.2.9 is actually really good, this one just slipped through because whoever did this was using some sophisticated masking"
+        },
+        {
+            "role": "Customer",
+            "content": "Well. At least it's handled. Though I have to say three thousand dollars before your system noticed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I know I know it seems like a lot but between you and me the system flags based on patterns not amounts and these three charges were spread across six hours with different merchant category codes MCC-5734, MCC-5945, and MCC-5732 which basically tricked the algorithm but hey we caught it within 12 hours and you're fully covered so that's something right?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically I'm calling because like there's some weird stuff on my account and I'm hoping you can help me figure this out"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh boy okay let me pull this up real quick, um, can you give me your account number and I'll see what we're looking at here, between you and me these things usually have a pretty obvious pattern once we dig in"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's basically 4429-8851 and like I noticed three charges this morning that definitely weren't me"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright alright I've got account 4429-8851 pulled up here and yeah I can see what you're talking about, there's a charge for $487.23 at someplace called Digital Paradise LLC, another for $92.50 at Gaming Central, and um, let me see here, oh wow $1,847.00 at Luxury Electronics Depot, those the ones?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes exactly those and so here's the thing I've never even heard of these places"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so between you and me this looks like classic card-not-present fraud, I'm seeing all three transactions have the auth code pattern starting with CNP7X which basically means someone got your card details and went shopping online, but here's the good news we're gonna fix this right now"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank god because like I was starting to freak out a little bit this morning when I saw almost three grand just gone"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no totally understandable, I actually had this happen to me last year someone bought like eight hundred dollars worth of Pokemon cards with my card which was, uh, interesting to explain to my wife, but anyway let me get these flagged in our fraud system real quick, transaction IDs are TRX-9847263-A, TRX-9847281-B, and TRX-9847295-C"
+        },
+        {
+            "role": "Customer",
+            "content": "Pokemon cards seriously? That's actually kind of funny but so what happens next do I get my money back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely you're getting every penny back, let me see here, okay so I'm filing this under case number FRD-2024-11-8827391 and basically what's gonna happen is the provisional credits will hit your account within 24 hours while we investigate but honestly with these CNP7X patterns it's open and shut"
+        },
+        {
+            "role": "Customer",
+            "content": "So basically that's it? Like I don't have to do anything else?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well actually there's one thing and this is where I'm gonna be real with you for a second, we need to cancel card ending in 8851 right now and I'm overnighting you a new one, tracking number will be TRK4429NK8851 and between you and me I'm waiving the expedited shipping fee because this whole thing is annoying enough already"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah no that makes sense and honestly you're being super helpful about this whole thing"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen I'm just trying to make this as painless as possible because fraud sucks and, um, oh actually while I have you let me check something real quick, hmm, okay so your new card will be 4429-8867 and it'll arrive tomorrow before noon"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Actually wait. Tomorrow's Saturday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Uh oh yeah you're right, let me see here, okay so with the FedEx priority code I'm using which is FEDP-SAT-8827 it'll definitely deliver Saturday but if you're not home they might, um, they might need a signature"
+        },
+        {
+            "role": "Customer",
+            "content": "I'll be home. Trust me. After this I'm not using that card anywhere for a while."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally get that, honestly after my whole Pokemon card incident I was paranoid for like a month checking my account every day, but real talk our fraud detection system with monitoring code AFS-7.2.9 is actually really good, this one just slipped through because whoever did this was using some sophisticated masking"
+        },
+        {
+            "role": "Customer",
+            "content": "Well. At least it's handled. Though I have to say three thousand dollars before your system noticed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I know I know it seems like a lot but between you and me the system flags based on patterns not amounts and these three charges were spread across six hours with different merchant category codes MCC-5734, MCC-5945, and MCC-5732 which basically tricked the algorithm but hey we caught it within 12 hours and you're fully covered so that's something right?"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "7c48bf87_script.json",
+    "professionalism": "casual",
+    "scenario": "reporting unauthorized transactions on their account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "friendly_chatty",
+                "seething_controlled"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "playfully_conspiratorial",
+                "humanizing_personal"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "classic_fillers",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

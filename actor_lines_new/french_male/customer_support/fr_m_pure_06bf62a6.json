@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Bonjour. Euh, j'ai un problème pour accéder à mon compte parce que les codes de double authentification n'arrivent pas sur mon téléphone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bonjour. Ah je comprends, c'est inquiétant ça, surtout si vous avez besoin d'un accès immédiat. Attendez, je vais regarder votre compte et vérifier les paramètres d'authentification. Je peux avoir l'adresse email de votre compte ?"
+        },
+        {
+            "role": "Customer",
+            "content": "C'est michael.richardson@techforge.com. Ça fait une heure que j'essaie de me connecter, mais rien à faire."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Merci, Monsieur Richardson. Alors, j'ai votre compte ici, avec la vérification mobile activée pour le numéro qui se termine par 4782. Le système m'indique six tentatives d'authentification depuis 8h47. C'est bien le bon numéro ?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oui, c'est ça. Mais enfin, j'ai pas reçu un seul code malgré toutes mes demandes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah voilà, je vois le problème. Notre fournisseur de passerelle SMS signale des perturbations de service depuis 7h15 heure de l'Est qui affectent environ 12% des livraisons de messages. Bon, je vais vous basculer tout de suite sur notre méthode d'authentification de secours."
+        },
+        {
+            "role": "Customer",
+            "content": "D'accord, c'est bien, mais... On peut régler ça rapidement ? J'ai des présentations clients qui nécessitent l'accès au compte."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Immédiatement. Je vous génère un code temporaire TMP-8K4M-9QR2 qui va vous permettre un accès unique. Une fois connecté, vous pourrez activer l'authentification par email comme méthode de secours dans vos paramètres de sécurité."
+        },
+        {
+            "role": "Customer",
+            "content": "Parfait. Du coup, je le mets dans le champ de vérification habituel, ce code ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactement. Utilisez le code TMP-8K4M-9QR2 dans le champ de vérification au lieu d'attendre un code SMS. Ce bypass expire dans 15 minutes pour des raisons de sécurité, donc utilisez-le rapidement."
+        },
+        {
+            "role": "Customer",
+            "content": "Je me connecte là... Ça y est, ça marche nickel. Merci pour la solution rapide."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. Pendant que vous êtes dans votre compte, je vous recommande d'aller dans Paramètres, puis Sécurité, et d'activer l'authentification par email comme méthode de secours. Ça évitera les problèmes d'accès futurs."
+        },
+        {
+            "role": "Customer",
+            "content": "Je suis dans les paramètres de sécurité là. Est-ce que je garde le SMS en principal ou je passe complètement à l'email ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ben écoutez, je suggère de garder le SMS en principal puisque notre opérateur maintient généralement 99,7% de disponibilité. Par contre, activez absolument l'email en secondaire. Vous verrez l'option dans \"Méthodes d'authentification de secours\" dans la section 2B de votre tableau de bord sécurité."
+        },
+        {
+            "role": "Customer",
+            "content": "Voilà, c'est fait. On me préviendra quand le service SMS sera complètement rétabli ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tout à fait. Vous recevrez une notification à la fois sur michael.richardson@techforge.com et par SMS une fois le service complètement rétabli. Notre estimation actuelle, c'est 11h30 heure de l'Est selon la mise à jour du fournisseur SR-20241102-A."
+        },
+        {
+            "role": "Customer",
+            "content": "C'est très utile ça. Bon, et sinon, y a autre chose que je devrais faire pour éviter ça à l'avenir ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je vous recommande de télécharger notre application d'authentification comme troisième option. Elle génère des codes hors ligne, donc ça élimine la dépendance aux livraisons SMS ou email. Vous trouverez le guide d'installation sur support.techforge.com/auth-app-setup avec le code d'activation APP-SETUP-MR4782."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellente suggestion. Je vais configurer ça aujourd'hui. Vraiment, merci pour votre aide complète sur ce problème."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je vous en prie, Monsieur Richardson. J'ai documenté cet incident sous le numéro de dossier CS-102024-8K4M pour vos archives. Si vous rencontrez d'autres problèmes d'authentification, mentionnez ce numéro de dossier pour un support accéléré."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I'm having trouble accessing my account because the two-factor authentication codes aren't coming through to my phone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning. I understand that's concerning, especially if you need immediate access. Let me pull up your account and check the authentication settings. May I have your account email address?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's michael.richardson@techforge.com. I've been trying to log in for the past hour with no success."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you, Mr. Richardson. I have your account here, showing mobile verification enabled for the number ending in 4782. The system logs indicate six authentication attempts since 8:47 AM. Is that the correct phone number?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, that's correct. I haven't received a single code despite requesting them multiple times."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the issue. Our SMS gateway provider reported service disruptions starting at 7:15 AM Eastern affecting approximately 12% of message deliveries. Let me switch you to our backup authentication method right away."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. How quickly can we get this resolved? I have client presentations that require account access."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Immediately. I'm generating a temporary bypass code TMP-8K4M-9QR2 that will allow you one-time access. Once logged in, you can enable email authentication as a backup method through your security settings."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Should I enter that code in the standard verification field?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly right. Use code TMP-8K4M-9QR2 in the verification field instead of waiting for an SMS code. This bypass expires in 15 minutes for security purposes, so please use it promptly."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm logging in now. The code worked perfectly. Thank you for the quick solution."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. While you're in your account, I recommend navigating to Settings, then Security, and enabling email authentication as your backup method. This will prevent future access issues."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm in the security settings now. Should I keep SMS as primary or switch completely to email?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'd suggest keeping SMS as primary since our carrier typically maintains 99.7% uptime. However, definitely activate email as secondary. You'll see the option under \"Backup Authentication Methods\" in section 2B of your security dashboard."
+        },
+        {
+            "role": "Customer",
+            "content": "Done. Will I be notified when the SMS service is fully restored?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll receive notification at both michael.richardson@techforge.com and via SMS once service restoration is complete. Our current estimate is 11:30 AM Eastern based on the provider's status update SR-20241102-A."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very helpful. Is there anything else I should do to prevent this in the future?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I recommend downloading our authenticator app as a third option. It generates codes offline, eliminating dependency on SMS or email delivery. You'll find the setup guide at support.techforge.com/auth-app-setup with activation code APP-SETUP-MR4782."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent suggestion. I'll set that up today. Thank you for your thorough assistance with this issue."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome, Mr. Richardson. I've documented this incident under case number CS-102024-8K4M for your records. If you experience any further authentication issues, please reference this case number for expedited support."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "06bf62a6_script.json",
+    "professionalism": "professional",
+    "scenario": "reporting issues with two-factor authentication not sending codes",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "cordially_concerned",
+                "politely_firm"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "crisply_business_like",
+                "graciously_accommodating"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

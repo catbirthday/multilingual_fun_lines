@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shocked] They want ME to save Henderson Manufacturing? [pause] ¡No mames, esto sí que no me lo esperaba! [excited] This is the call I never thought I'd get! [laughs] Han pasado 20 años desde que me fui de ese lugar y ahora... ahora de verdad me están pidiendo que regrese. [warm] God, I used to ride my bike past that factory every day after school. [trailing off] Mi papá trabajó ahí por 37 años antes de que... [sigh] Bueno, eso ya es historia antigua. [confidently] They obviously know my track record—12 empresas que volví rentables en los últimos 5 años. [hesitantly] But this is, um... esto es diferente, ¿sabes? [anxious] Everyone I went to high school with probably still works there. [mumbling] Julie Martínez de la clase de química, Tommy Chen... [speeding up] And what if I can't—no, espera, eso es ridículo. [stern] I know what I'm doing. [pause] Es solo que, este, regresar a casa siempre es raro. [nervous] They'll all be watching me, esperando... no sé, ¿esperando milagros tal vez? [frustrated] The board wouldn't call me unless it was really bad though. [sigh] Seguramente están perdiendo dinero a lo loco, probablemente a 6 meses de cerrar. [determined] Okay so, I guess I'm doing this. [quietly] Hora de salvar el lugar que básicamente me crió. [laugh] Sin presión, ¿verdad?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shocked] They want ME to save Henderson Manufacturing? [pause] Holy shit, I mean—wow. [excited] This is the call I never thought I'd get! [laughs] Twenty years since I left that place and now they're... they're actually asking me to come back. [warm] God, I used to ride my bike past that factory every day after school. [trailing off] My dad worked there for thirty-seven years before they... [sigh] Anyway, that's ancient history. [confidently] They obviously know my track record—twelve companies turned profitable in the last five years. [hesitantly] But this is, um... this is different, you know? [anxious] Everyone I went to high school with probably still works there. [mumbling] Julie Martinez from chemistry class, Tommy Chen... [speeding up] And what if I can't—no, wait, that's ridiculous. [stern] I know what I'm doing. [pause] It's just, hmm, going back home is always weird. [nervous] They'll all be watching me, expecting... I don't know, expecting miracles maybe? [frustrated] The board wouldn't call me unless it was really bad though. [sigh] Probably bleeding money, probably six months from shutting down. [determined] Okay so, I guess I'm doing this. [quietly] Time to save the place that basically raised me. [laugh] No pressure, right?"
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "5df1c879_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your turnaround specialist reputation just earned you a call to save a company in your hometown",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

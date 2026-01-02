@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Boa tarde. Tô ligando sobre meu último pagamento. I believe there's an error with my overtime hours."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Boa tarde, obrigada por ligar. Vou ficar feliz em te ajudar a resolver esse problema de folha de pagamento. Posso ter seu número de ID de funcionária e o período de pagamento que você tá se referindo?"
+        },
+        {
+            "role": "Customer",
+            "content": "Meu ID de funcionária é 3742. The pay period ended on October twentieth."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Obrigada. Tô puxando o ID de funcionária 3742 agora, e posso ver seus registros de pagamento pro período terminando em 20 de outubro. According to our system, você foi creditada com 42.5 horas regulares e 6.0 horas extras. Pode me dizer qual discrepância você tá vendo?"
+        },
+        {
+            "role": "Customer",
+            "content": "Eu trabalhei 53 horas naquela semana. Tenho minhas cópias de folha de ponto aqui mostrando todos os meus horários de entrada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entendo sua preocupação. Deixa eu revisar as entradas detalhadas do relógio de ponto pra essa semana. Tô vendo entradas de 14 de outubro até 20 de outubro, with a total of 48.5 hours recorded in our TMS-7000 system. Você quer que eu passe por cada entrada diária com você?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sim, por favor. I want to understand where the missing hours are. Eu documentei tudo cuidadosamente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro. Começando com segunda, 14 de outubro, eu vejo 8.5 horas registradas das 6:00 da manhã até 2:30 da tarde. Terça mostra 8.0 horas, quarta 8.5 horas, quinta 8.0 horas, e sexta 8.5 horas. Sábado mostra 7.0 horas das 7:00 da manhã até 2:00 da tarde. Isso bate com seus registros?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sábado tá errado. Eu trabalhei das 7 da manhã até 6 da tarde. São 11 horas."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Obrigada por esclarecer isso. Agora tô vendo o problema. O sistema mostra que você bateu ponto de saída às 2:00 da tarde no sábado, 19 de outubro, mas você tá indicando que trabalhou até 6:00 da tarde. That would be a 4-hour difference, trazendo seu total pra 52.5 horas na semana. Tá correto?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sim, exatamente. Minha supervisora me pediu pra ficar pro turno da noite. I have her signature on my timesheet."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Essa informação é muito útil. Já que você tem documentação com a assinatura da sua supervisora, we can definitely process a payroll adjustment. Vou criar caso de ajuste PAY-20241028-3742 pra você agora mesmo. Pode me dar o nome da sua supervisora pra verificação?"
+        },
+        {
+            "role": "Customer",
+            "content": "Maria Rodriguez. Ela é a gerente de limpeza do terceiro andar. She signed my paper at six-fifteen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito. Anotei que Maria Rodriguez autorizou as horas adicionais em 19 de outubro. O ajuste de 4.0 horas adicionais com taxa de hora e meia dá $92.40 de pagamento bruto. This will be processed in correction batch CB-1147, e vai ser incluído no seu próximo pagamento regular."
+        },
+        {
+            "role": "Customer",
+            "content": "Quando vou receber essa correção? I need this money for my rent payment next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eu entendo completamente a urgência. Como hoje é 28 de outubro, e sua próxima data de pagamento regular é 1º de novembro, a correção vai ser incluída então. Mas, dada sua situação, I can flag this as priority case P1-URG, pra um pagamento fora do ciclo até 31 de outubro se isso ajudar."
+        },
+        {
+            "role": "Customer",
+            "content": "Sim, por favor faça isso. 31 de outubro seria muito melhor pra mim. Obrigada por entender."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro. Atualizei seu caso pra status prioritário com código de aprovação APV-8827-MR. Você vai receber o pagamento fora do ciclo de $92.40 bruto, which after standard deductions will be approximately $71.50 net, por depósito direto em 31 de outubro. Você também deve receber um email de confirmação dentro da próxima hora."
+        },
+        {
+            "role": "Customer",
+            "content": "Isso é muito útil. Vou precisar fazer mais alguma coisa ou fornecer a cópia da folha de ponto?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Você tá pronta. Por favor guarde sua folha de ponto assinada pros seus registros, but no further action is needed from you. Seu número de caso PAY-20241028-3742 tá totalmente documentado, e eu adicionei notas detalhadas sobre o problema de hora extra de sábado. Tem mais alguma coisa que eu possa te ajudar com sua folha de pagamento hoje?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling about my last paycheck. I believe there's an error with my overtime hours."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for calling. I'll be happy to help you resolve this payroll issue. May I please have your employee ID number and the pay period you're referring to?"
+        },
+        {
+            "role": "Customer",
+            "content": "My employee ID is three seven four two. The pay period ended on October twentieth."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm pulling up employee ID 3742 now, and I can see your payroll records for the period ending October 20th. According to our system, you were credited with 42.5 regular hours and 6.0 overtime hours. Can you tell me what discrepancy you're seeing?"
+        },
+        {
+            "role": "Customer",
+            "content": "I worked fifty-three hours that week. I have my timesheet copies here showing all my clock-in times."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me review the detailed timeclock entries for that week. I'm showing entries from October 14th through October 20th, with a total of 48.5 hours recorded in our TMS-7000 system. Would you like me to go through each day's entries with you?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, please. I want to understand where the missing hours are. I documented everything carefully."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Starting with Monday, October 14th, I show 8.5 hours logged from 6:00 AM to 2:30 PM. Tuesday shows 8.0 hours, Wednesday 8.5 hours, Thursday 8.0 hours, and Friday 8.5 hours. Saturday shows 7.0 hours from 7:00 AM to 2:00 PM. Does this match your records?"
+        },
+        {
+            "role": "Customer",
+            "content": "Saturday is wrong. I worked from seven in the morning until six in the evening. That's eleven hours."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for clarifying that. I see the issue now. The system shows you clocked out at 2:00 PM on Saturday, October 19th, but you're indicating you worked until 6:00 PM. That would be a 4-hour difference, bringing your total to 52.5 hours for the week. Is that correct?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, exactly. My supervisor asked me to stay for the evening shift. I have her signature on my timesheet."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's very helpful information. Since you have documentation with your supervisor's signature, we can definitely process a payroll adjustment. I'll create adjustment case PAY-20241028-3742 for you right now. Can you provide your supervisor's name for verification?"
+        },
+        {
+            "role": "Customer",
+            "content": "Maria Rodriguez. She's the housekeeping manager for the third floor. She signed my paper at six-fifteen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I've noted that Maria Rodriguez authorized the additional hours on October 19th. The adjustment for 4.0 additional hours at time-and-a-half rate comes to $92.40 gross pay. This will be processed in correction batch CB-1147 and included in your next regular paycheck."
+        },
+        {
+            "role": "Customer",
+            "content": "When will I receive this correction? I need this money for my rent payment next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the urgency. Since today is October 28th, and your next regular pay date is November 1st, the correction will be included then. However, given your situation, I can flag this as priority case P1-URG for an off-cycle payment by October 31st if that would help."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, please do that. October thirty-first would work much better for me. Thank you for understanding."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I've updated your case to priority status with approval code APV-8827-MR. You'll receive the off-cycle payment of $92.40 gross, which after standard deductions will be approximately $71.50 net, by direct deposit on October 31st. You should also receive an email confirmation within the next hour."
+        },
+        {
+            "role": "Customer",
+            "content": "This is very helpful. Will I need to do anything else or provide the timesheet copy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're all set. Please keep your signed timesheet for your records, but no further action is needed from you. Your case number PAY-20241028-3742 is fully documented, and I've added detailed notes about the Saturday overtime issue. Is there anything else I can help you with regarding your payroll today?"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3f70ecbd_script.json",
+    "professionalism": "professional",
+    "scenario": "hotel housekeeper, nervous because English is her second language and she needs to explain a payroll issue",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "patiently_persistent",
+                "cordially_concerned"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "attentively_engaged",
+                "reassuringly_calm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

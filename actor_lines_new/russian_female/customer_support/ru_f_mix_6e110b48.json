@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Доброе утро. Я хотела бы оставить положительный отзыв об агенте, который вчера помог мне с проблемами по аккаунту."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Доброе утро, и спасибо большое, что нашли время поделиться положительным отзывом. Я с удовольствием передам вашу благодарность нужной команде. Могу я попросить номер вашего аккаунта или reference number от вчерашнего обращения?"
+        },
+        {
+            "role": "Customer",
+            "content": "Reference number это RES-8924-JK. Агент Marcus Chen идеально решил мою проблему с выставлением счетов."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Спасибо огромное. Сейчас открываю reference RES-8924-JK, и вижу, что Marcus Chen помогал вам вчера в 2:47 PM по поводу корректировки счета на аккаунте 7738-9021. Я обязательно передам ваш отзыв напрямую его руководителю."
+        },
+        {
+            "role": "Customer",
+            "content": "Отлично. А как у вас работает система отзывов? I want to make sure he gets proper recognition."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ценю вашу внимательность. У нас есть официальная программа поощрений, где положительные отзывы регистрируются в системе под номером case FB-2024-11-8924. Менеджер Marcus'а получит это в течение 24 часов, and it becomes part of his performance record for Q4 2024."
+        },
+        {
+            "role": "Customer",
+            "content": "Это замечательно. Он сэкономил мне кучу времени и вообще-то заметил дополнительную ошибку, которую я сама пропустила."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Вот именно к такому уровню сервиса мы и стремимся. Я документирую, что он превзошел ожидания, самостоятельно выявив дополнительные проблемы. This type of proactive assistance is specially noted in our quality metrics, под кодом QA-EXC-4521."
+        },
+        {
+            "role": "Customer",
+            "content": "Прекрасно. А его самого уведомят, что клиент похвалил его работу?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Конечно. Наша система отправляет уведомления агентам в течение 48 часов, when customers provide positive feedback. Marcus получит подтверждение по email на его зарегистрированный адрес, mchen-8847@company.com, вместе с вашими конкретными комментариями о его внимательности."
+        },
+        {
+            "role": "Customer",
+            "content": "Именно это я и хотела узнать. Есть ли ещё какой-то способ отметить отличный сервис?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Рада, что вы спросили. Вы также можете заполнить наш онлайн-опрос, который придёт на email, заканчивающийся на 4429, который у нас есть в системе. Additionally, our corporate excellence program allows customers to nominate agents for quarterly awards, используя форму CEA-2024-Q4."
+        },
+        {
+            "role": "Customer",
+            "content": "Я обязательно заполню этот опрос. Можете подтвердить, какой email у вас записан?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Конечно."
+        },
+        {
+            "role": "Customer",
+            "content": "Спасибо. Последний вопрос — влияют ли такие отзывы на продвижение или зарплату сотрудников?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Это отличный вопрос, и я ценю вашу заботу о нашей команде. Положительные отзывы клиентов напрямую влияют на наши квартальные оценки производительности, scored on metrics scale PM-100-850, и такие исключительные отзывы, как ваш, способствуют и премиям за достижения, и карьерному росту в рамках нашей структуры департамента."
+        },
+        {
+            "role": "Customer",
+            "content": "Очень приятно это слышать. Your company clearly values both employees and customer input."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Спасибо, что это отметили. Мы считаем, что исключительный сервис заслуживает признания, и такие отзывы, как ваш от аккаунта 7738-9021, помогают нам поддерживать наши стандарты обслуживания. Могу ли я ещё чем-то помочь вам сегодня, пока ваш аккаунт открыт?"
+        },
+        {
+            "role": "Customer",
+            "content": "Нет, это всё. Спасибо за подробное объяснение и за то, что позаботитесь о признании работы Marcus'а."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Пожалуйста, и ещё раз спасибо, что нашли время поделиться этим отзывом. Я всё задокументировала под номером case FB-2024-11-8924, and Marcus will be notified by Monday. Хорошего вам дня, и мы ценим, что вы остаётесь с нами."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I'd like to leave positive feedback about an agent who helped me yesterday with my account issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for taking the time to share positive feedback. I'd be delighted to ensure your compliment reaches the appropriate team. May I have your account number or the reference number from yesterday's interaction?"
+        },
+        {
+            "role": "Customer",
+            "content": "The reference number is RES-8924-JK. Agent Marcus Chen resolved my billing discrepancy perfectly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you so much. I'm pulling up reference RES-8924-JK now, and I can see Marcus Chen assisted you yesterday at 2:47 PM regarding a billing adjustment on account 7738-9021. I'll make sure his supervisor receives your feedback directly."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. How does your feedback system work? I want to ensure he gets proper recognition."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I appreciate your thoroughness. We have a formal recognition program where positive feedback is logged in our system under case FB-2024-11-8924. Marcus's manager will receive this within 24 hours, and it becomes part of his performance record for Q4 2024."
+        },
+        {
+            "role": "Customer",
+            "content": "That's wonderful. He saved me considerable time and actually caught an additional error I hadn't noticed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's exactly the level of service we strive for. I'm documenting that he went above and beyond by identifying additional issues. This type of proactive assistance is specially noted in our quality metrics, tracked under code QA-EXC-4521."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will he be notified directly that a customer complimented his service?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Our system sends notifications to agents within 48 hours when customers provide positive feedback. Marcus will receive email confirmation at his registered address, mchen-8847@company.com, along with your specific comments about his thoroughness."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I wanted to know. Is there any other way I can help recognize excellent service?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm glad you asked. You can also complete our online survey, which you'll receive at the email address ending in 4429 that we have on file. Additionally, our corporate excellence program allows customers to nominate agents for quarterly awards using form CEA-2024-Q4."
+        },
+        {
+            "role": "Customer",
+            "content": "I'll definitely complete that survey. Can you confirm which email address you have?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. One last question—does this kind of feedback impact employee advancement or compensation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's an excellent question, and I appreciate your interest in our team's welfare. Positive customer feedback directly influences our quarterly performance reviews, scored on metrics scale PM-100-850, and exceptional feedback like yours contributes to both recognition bonuses and advancement opportunities within our department structure."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very encouraging to hear. Your company clearly values both employees and customer input."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for recognizing that. We believe exceptional service deserves recognition, and feedback like yours from account 7738-9021 helps us maintain our service standards. Is there anything else I can assist you with today while I have your account open?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, that covers everything. Thank you for your thorough explanation and for ensuring Marcus gets recognition."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome, and thank you again for taking the time to share this feedback. I've documented everything under case FB-2024-11-8924, and Marcus will be notified by Monday. Have a wonderful day, and we appreciate your continued business."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6e110b48_script.json",
+    "professionalism": "professional",
+    "scenario": "grateful because the last agent was so helpful and wants to give a compliment",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "analytically_minded",
+                "cordially_concerned"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "patiently_methodical",
+                "attentively_engaged"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

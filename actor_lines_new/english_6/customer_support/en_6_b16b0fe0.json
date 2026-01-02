@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I just... I placed three orders and now the shipping is... *exhales* I can't afford all this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no no, I totally get it, um, shipping costs are ridiculous these days and I hate when this happens, let me pull up your account real quick—what's your email so I can see all three orders?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's... sarah.chen at gmail. I just wanted one shipment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it, okay so, er, I'm seeing order ORD-9923-JK, then ORD-9924-ML placed like two minutes later, and uh, ORD-9925-RT right after that—yeah the system shouldn't even let this happen honestly, we really need to fix this."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you just... I don't know... make them one order or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely yes, so here's what I'm gonna do, hmm, I'm canceling the shipping on the second two orders—that's gonna save you $47.85 right there—and I'm creating a combined shipment under tracking number TRK-8827-QQZ9."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Wait, canceling? But I need the items, I can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, not canceling the items! Sorry sorry, just the separate shipping charges, er, everything's still coming, all three orders, but now they're in one box so you're only paying the $12.99 shipping once instead of three times."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay. That's... that actually helps."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? And honestly, um, between you and me, this happens way too often—like our checkout system should ask \"hey you just ordered five minutes ago, wanna combine these?\" but nope, it just charges shipping every single time."
+        },
+        {
+            "role": "Customer",
+            "content": "So when will it... if they're combined now, when do they..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so, uh, good news—since I'm merging them into the first order which was already processing, you're keeping that original delivery date of Thursday, November 14th, should arrive before 8 PM, all three orders together."
+        },
+        {
+            "role": "Customer",
+            "content": "Thursday. That works. I was worried this would delay everything and..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh totally not, actually combining them, er, sometimes speeds things up because warehouse ops prefers single shipments—your package weight is now 4 pounds 7 ounces total, still qualifies for standard ground."
+        },
+        {
+            "role": "Customer",
+            "content": "Alright. So I'll get a refund for the extra shipping?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep yep, so the refund of $35.98—that's the two extra shipping charges—will hit your card ending in 4429 within, hmm, usually 3-5 business days but honestly lately it's been more like 2 days."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Next time I'll know to wait and order everything at once."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well actually, um, here's a tip—if this happens again, there's a \"combine orders\" button in your account dashboard, but only for like 30 minutes after ordering, which is, uh, kinda silly but at least it exists, reference code COMBINE-30MIN if you ever need to tell another rep."
+        },
+        {
+            "role": "Customer",
+            "content": "Thirty minutes. Of course there's a time limit. But thanks for fixing this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no problem at all, and honestly I'm putting a note in your account—NOTE-ID-7745—that says we helped you combine today, so if there's ever an issue with this shipment, any rep will see we already sorted the shipping thing out."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b16b0fe0_script.json",
+    "actor": 6,
+    "scenario": "trying to combine multiple orders to save on shipping",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

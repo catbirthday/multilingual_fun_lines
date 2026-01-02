@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Mira, acabo de volver de dirigir expediciones durante cuatro meses y me he encontrado con un montón de cargos no autorizados en mi cuenta."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bienvenida de vuelta, y siento muchísimo esta situación tan preocupante. Déjame que te busque la cuenta ahora mismo para que revisemos juntas estos cargos y dejemos todo solucionado."
+        },
+        {
+            "role": "Customer",
+            "content": "Te lo agradezco. Los cargos empezaron en mayo, justo después de irme por la temporada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ya veo que los cargos recurrentes empezaron el 15 de mayo de 2024, con débitos mensuales de 79,99 euros por un paquete de streaming premium y 24,99 por una mejora de almacenamiento en la nube que antes no tenías."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso desde luego que no lo autoricé yo. No tenía acceso a internet donde estaba trabajando, así que es imposible que me suscribiera a nada de eso."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Lo entiendo perfectamente, y esto es claramente problemático. Estos servicios se activaron desde la dirección IP 192.168.45.227 el 14 de mayo a las 23:47, que no coincide con tus patrones de conexión habituales de antes de esa fecha."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Me puedes decir cómo ha podido acceder alguien a mi cuenta? Porque yo pensaba que tenía medidas de seguridad bastante fuertes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto."
+        },
+        {
+            "role": "Customer",
+            "content": "Y también me gustaría entender qué pasos podemos dar para que esto no vuelva a pasar."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tu cuenta muestra que se procesó una solicitud de restablecimiento de contraseña el 14 de mayo usando un correo de recuperación que después se ha eliminado de tu perfil, lo que sugiere una brecha sofisticada más que un simple problema de contraseña."
+        },
+        {
+            "role": "Customer",
+            "content": "Vaya, qué preocupante. ¿Cuánto se ha cobrado en total, y cómo funciona el proceso de reembolso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "El total de cargos no autorizados asciende a 419,92 euros en el período de cuatro meses desde mayo hasta agosto de 2024, y estoy iniciando ahora mismo un reembolso completo que debería aparecer en un plazo de 3 a 5 días hábiles."
+        },
+        {
+            "role": "Customer",
+            "content": "Gracias. ¿Vais a investigar por vuestra parte cómo se produjo esta brecha de seguridad?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto que sí."
+        },
+        {
+            "role": "Customer",
+            "content": "Me alegro. ¿Qué pasos inmediatos debería dar yo ahora mismo para asegurar mi cuenta?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ya he forzado un restablecimiento de contraseña que requiere autenticación a través de tu número de teléfono verificado que termina en 7829, y estoy activando la autenticación de dos factores que enviará códigos a ese mismo número para cualquier intento de inicio de sesión futuro."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfecto. ¿Puedes también quitar los métodos de pago que no estaban originalmente en el archivo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Estoy quitando ahora mismo los tres métodos de pago adicionales que se añadieron después del 14 de mayo, dejando solo tu tarjeta original que termina en 4521, y he puesto un bloqueo de seguridad que requiere verificación telefónica para cualquier cambio futuro en los métodos de pago."
+        },
+        {
+            "role": "Customer",
+            "content": "Un trabajo excelente. ¿Recibiré documentación de este incidente y la resolución para mis archivos?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Recibirás un informe completo del incidente con el número de caso SEC-2024-0831-KM47 en las próximas 24 horas, incluyendo todas las reversiones de transacciones, las medidas de seguridad implementadas, y una línea directa con nuestro equipo de prevención de fraude por si necesitas cualquier asistencia de seguimiento."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I've just returned from leading expeditions for four months and discovered multiple unauthorized charges on my account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Welcome back, and I apologize for this concerning situation. Let me pull up your account immediately so we can review these charges together and get everything sorted out for you."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. The charges started in May, right after I left for the season."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can see the recurring charges began on May 15th, 2024, with monthly debits of $79.99 for a premium streaming package and $24.99 for a cloud storage upgrade that you didn't previously have."
+        },
+        {
+            "role": "Customer",
+            "content": "That's definitely unauthorized. I had no internet access where I was working, so I couldn't have signed up for these."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your situation, and this is clearly problematic. These services were activated through IP address 192.168.45.227 on May 14th at 11:47 PM, which doesn't match your typical login patterns from before that date."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you tell me how someone accessed my account? I thought I had strong security measures in place."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "I'd also like to understand what steps we can take to prevent this from happening again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your account shows a password reset request was processed on May 14th using a recovery email that's been since removed from your profile, suggesting a sophisticated breach rather than a simple password issue."
+        },
+        {
+            "role": "Customer",
+            "content": "That's concerning. How much total has been charged, and what's the refund process look like?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The total unauthorized charges amount to $419.92 over the four-month period from May through August 2024, and I'm initiating a full refund right now that should appear within 3 to 5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Will you be investigating how this security breach occurred on your end?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "Good to hear. What immediate steps should I take to secure my account right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've already forced a password reset that requires authentication through your verified phone number ending in 7829, and I'm enabling two-factor authentication which will send codes to that same number for any future login attempts."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Can you also remove any payment methods that weren't originally on file?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm removing the three additional payment methods added after May 14th right now, leaving only your original card ending in 4521, and I've placed a security hold requiring phone verification for any future payment method changes."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent work. Will I receive documentation of this incident and the resolution for my records?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You'll receive a comprehensive incident report with case number SEC-2024-0831-KM47 within 24 hours, including all transaction reversals, security measures implemented, and a direct line to our fraud prevention team should you need any follow-up assistance."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4f462de7_script.json",
+    "professionalism": "professional",
+    "scenario": "river guide, off-grid for months and returning to find unexpected recurring charges",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "graciously_disappointed",
+                "analytically_minded"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "warmly_professional",
+                "crisply_business_like"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

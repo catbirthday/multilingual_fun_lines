@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Entonces básicamente estoy llamando por... ¿un recargo? ¿En mi cuenta?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Déjame buscar eso. Número de cuenta terminando en... 4782. Ajá. Aquí lo veo."
+        },
+        {
+            "role": "Customer",
+            "content": "Sí, entonces es—¿estás segura de que eso cae mañana? ¿Antes de la cosecha?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm. Me aparece 31 de octubre. Eso es... ay no, espera—perdón, 1 de noviembre. El recargo de envío de $847.23."
+        },
+        {
+            "role": "Customer",
+            "content": "Ay Dios. Bueno, entonces como... ¿podemos retrasar eso de alguna manera?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Déjame revisar. El ciclo de facturación—espérame. De hecho estoy viendo... tus términos de pago muestran NET-30. Desde el envío."
+        },
+        {
+            "role": "Customer",
+            "content": "Sí, pero los ingresos de la cosecha no llegan hasta... o sea, normalmente a mediados de noviembre..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Te entiendo. Déjame—no, de hecho. Mira. Las notas de la cuenta del 2023 muestran que ajustamos los tiempos. Por la temporada de cosecha."
+        },
+        {
+            "role": "Customer",
+            "content": "¿En serio? Ay, gracias a Dios. ¿Entonces básicamente pueden hacer eso otra vez?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Viendo... okay. Código de ajuste anterior HAR-2023-V. Aplicado de octubre a diciembre. Déjame ver si—sí. Sigue activo."
+        },
+        {
+            "role": "Customer",
+            "content": "Espera, entonces tipo... ¿no va a caer mañana? ¿Estás segura?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "El sistema está... procesando. Okay. ID del recargo SUR-9847-KL. Puedo diferirlo al 20 de noviembre. ¿Te funcionaría?"
+        },
+        {
+            "role": "Customer",
+            "content": "¡20 de noviembre es perfecto! Ya tendremos el dinero del Pinot para entonces."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Qué bueno. Configurando el aplazamiento. Número de referencia... DF-2024-8821. ¿Cultivan Pinot? Qué—perdón. Procesando aquí."
+        },
+        {
+            "role": "Customer",
+            "content": "¡Sí! Valle de Willamette. La verdad ha sido un año difícil pero..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Confirmado. 20 de noviembre. Nueva fecha de vencimiento. El recargo de $847.23 más tu factura regular INV-7729."
+        },
+        {
+            "role": "Customer",
+            "content": "Me estás salvando la vida, en serio. De verdad. ¿Ya estamos?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Todo listo. El correo de confirmación a... winery arroba valley view punto com. Debería llegar. En cinco minutos."
+        },
+        {
+            "role": "Customer",
+            "content": "Increíble. Oye, este... de verdad me has ayudado muchísimo. Gracias."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. El código de aplazamiento DF-2024-8821. Guárdalo. Para tus registros. Suerte con la cosecha."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically I'm calling about like... a surcharge? On my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me pull that up. Account number ending in... 4782. Right. I see it here."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah so it's—are you sure that hits tomorrow? Before harvest?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm. Showing October 31st. That's... wait no—sorry, November 1st. The shipment surcharge of $847.23."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh God. Okay so like... can we delay that somehow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me check. The billing cycle—hold on. Actually I'm seeing... your payment terms show NET-30. Since shipment."
+        },
+        {
+            "role": "Customer",
+            "content": "Right but harvest income isn't until... I mean, mid-November usually..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand. Let me—no actually. Here. Account notes from 2023 show we adjusted timing. For harvest season."
+        },
+        {
+            "role": "Customer",
+            "content": "You did? Oh thank God. So basically you can do that again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Looking at... okay. Previous adjustment code HAR-2023-V. Applied October through December. Let me see if—yeah. Still active."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait so like... it won't hit tomorrow? Are you sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The system's... processing. Okay. Surcharge ID SUR-9847-KL. I can defer to November 20th. Would that work?"
+        },
+        {
+            "role": "Customer",
+            "content": "November 20th is perfect! We'll have our Pinot money by then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good. Setting deferral. Reference number... DF-2024-8821. You grow Pinot? That's—sorry. Processing here."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah! Willamette Valley. Been a tough year actually but..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Confirmed. November 20th. New due date. The surcharge of $847.23 plus your regular invoice INV-7729."
+        },
+        {
+            "role": "Customer",
+            "content": "You're basically saving my life here. Seriously. Are we good?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "All set. Confirmation email to... winery at valley view dot com. Should arrive. Within five minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Amazing. Hey so like... you've really helped. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. The deferral code DF-2024-8821. Keep that. For your records. Good luck with harvest."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6249c8fb_script.json",
+    "professionalism": "casual",
+    "scenario": "winemaker, worried about a shipment surcharge hitting before harvest income arrives",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "anxious_worried",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses",
+                    "trailing_off",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "gently_reassuring"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

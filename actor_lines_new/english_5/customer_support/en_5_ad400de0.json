@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look. I just. Need to understand. The pricing thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah, I completely get it—our pricing structure is honestly kind of a mess right now since they redesigned everything last month with those three new tiers at $29.99, $49.99, and $89.99 per month."
+        },
+        {
+            "role": "Customer",
+            "content": "Three tiers. Okay so... what's the word... the differences?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so basically the main confusion—and trust me, you're not alone here—is that the features overlap in weird ways between the Basic plan BAS-2024-ST and the Professional tier PRO-2024-ADV."
+        },
+        {
+            "role": "Customer",
+            "content": "Just need the basics. Storage. Email. That's it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so for just storage and email you're actually overqualified for even the Basic tier which gives you 100GB storage and 5 email addresses at that $29.99 price point I mentioned."
+        },
+        {
+            "role": "Customer",
+            "content": "Hundred gigs. Hmm, what if... no that's too much. Is there smaller?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what? There actually is—and they don't advertise this because they want everyone on the new plans—but there's a legacy Starter package STRT-LEGACY-15 that's only $14.99 with 25GB storage and 2 email addresses."
+        },
+        {
+            "role": "Customer",
+            "content": "Legacy. Hidden. Course it is. Look, not your fault."
+        },
+        {
+            "role": "Customer Support",
+            "content": "[exhales] Honestly? It's ridiculous how they bury the affordable options, but I'm going to get you set up with that legacy plan and lock in your rate for 24 months so they can't force-migrate you later."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. Lock it? They can... let me see here... force people up?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely they try—happened to about 3,000 customers in September when they \"sunset\" the old Economy tier—but if I put a rate lock code RLC-PERM-2024 on your account right now, you're protected."
+        },
+        {
+            "role": "Customer",
+            "content": "You're doing that? Just. Yeah. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already entering it as we speak, and while I'm at it I'm adding a note in your file that says \"discussed all tier options extensively on December 15, 2024\" which basically means no one can claim you weren't informed about upgrades."
+        },
+        {
+            "role": "Customer",
+            "content": "December fifteenth. Got it. So that's... fourteen ninety-nine forever?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, for two years guaranteed with that lock code, then we'll need to revisit—but between you and me? Call back directly to retention at extension 4455 before it expires and they'll probably extend it another two years."
+        },
+        {
+            "role": "Customer",
+            "content": "Extension. Four four five five. Okay so that means... I'm set?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're completely set, confirmation number CNF-8827492-LG for the legacy plan activation, and I'm actually going to email you a PDF backup of today's rate lock agreement just so you have proof if anyone ever tries to change it."
+        },
+        {
+            "role": "Customer",
+            "content": "Proof. Smart. Thanks for... you know. Being honest bout all this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, we're all just trying to navigate this mess together—your account's good to go, locked rate starts today, and seriously, don't hesitate to call back to extension 4455 if they ever try anything sneaky with your plan."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "ad400de0_script.json",
+    "actor": 5,
+    "scenario": "confused about different pricing tiers and features",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

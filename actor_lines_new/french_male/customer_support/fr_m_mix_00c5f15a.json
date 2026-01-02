@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so basically I'm getting complaints, euh... mes abonnés au fromage sont facturés deux fois?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I see, let me pull up your merchant account here... c'est quoi le, euh... c'est quoi le nom de votre entreprise pour que je trouve le bon compte?"
+        },
+        {
+            "role": "Customer",
+            "content": "[sighs] It's Hillside Artisan Cheese. Genre, c'est le troisième problème de facturation cette année, là."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, perfect, I've got your account here, merchant ID MER-7734-HC9, et je vois que vous avez 47 clients abonnés actifs... laisse-moi vérifier les transactions récentes pour voir ce qui... hmm, okay je vois quelque chose de bizarre ici."
+        },
+        {
+            "role": "Customer",
+            "content": "Er, that's what the last support person said. Puis après rien n'a été réglé."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I completely understand your frustration, et on va définitivement régler ça aujourd'hui. Alors ce que je vois, c'est qu'il y a un webhook en double qui se déclenche aux dates de renouvellement d'abonnement, c'est... comment dire... en gros votre processeur de paiement reçoit deux signaux au lieu d'un."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, okay, so is this something on my end, ou c'est de votre côté?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "This is absolutely on our end, pas du tout de votre faute. La mise à jour système du 3 novembre a créé ce bug, référence ticket TKT-9102-NV, et je peux déjà voir quels clients ont été affectés... on dirait que 12 de vos abonnés ont été débités deux fois entre le 4 novembre et aujourd'hui."
+        },
+        {
+            "role": "Customer",
+            "content": "[exhales] Well, at least you found it. Euh, alors qu'est-ce qui arrive avec leur argent?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so here's what I'm going to do—je lance les remboursements maintenant pour les 12 clients affectés, ils vont voir les crédits dans 24 à 48 heures avec des codes de référence qui commencent par REF-2024-11, et j'applique aussi un crédit de courtoisie de 50$ à votre compte marchand pour le dérangement."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! That's... actually really helpful. Genre, mes clients étaient vraiment pas contents, tu sais?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course they were, and rightfully so! Laisse-moi aussi configurer... comment on dit ça... une alerte de monitoring sur votre compte, code MON-887-PQ, donc si quelque chose comme ça arrive encore, notre équipe est notifiée instantanément avant même que vos clients s'en aperçoivent."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, yeah that would be great. Euh, est-ce que je devrais envoyer un courriel à mes clients pour les remboursements?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's a great question, alors on va leur envoyer des courriels de confirmation automatiques avec les montants de remboursement et les numéros de référence, mais si vous voulez envoyer une note personnelle aussi, c'est toujours... c'est une belle attention que les clients apprécient."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically you're saying it's all handled? [sharp inhale] C'est dur à croire honnêtement."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, right? Mais oui, complètement réglé—remboursements en cours de traitement, bug corrigé depuis 14h47 aujourd'hui, timestamp enregistré dans votre compte, et votre monitoring est actif. Est-ce qu'il y a autre chose que je peux faire pendant que j'ai votre compte ouvert?"
+        },
+        {
+            "role": "Customer",
+            "content": "Well, um, actually yeah—est-ce qu'il y a moyen de pas payer les frais de traitement du mois prochain aussi?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what? Absolument. Laisse-moi juste... voilà, j'ai ajouté un code d'exemption de frais FEE-WAIVE-1224 à votre compte pour les frais de traitement de décembre, donc vous allez voir zéro charge de notre part le mois prochain."
+        },
+        {
+            "role": "Customer",
+            "content": "Wow, okay! Genre, ça s'est vraiment mieux passé que prévu. Merci beaucoup!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, that's what we're here for! Votre numéro de confirmation pour tout ce qu'on a fait aujourd'hui c'est CASE-8827-KLM, et honnêtement, n'importe qui qui gère une petite fromagerie artisanale mérite du support qui, tu sais... qui supporte vraiment."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, so basically I'm getting complaints that my cheese subscribers are being charged twice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I see, let me pull up your merchant account here... what's the, uh... what's the name of your business so I can find the right account?"
+        },
+        {
+            "role": "Customer",
+            "content": "*sighs* It's Hillside Artisan Cheese. Like, this is the third billing issue this year."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, perfect, I've got your account here, merchant ID MER-7734-HC9, and I can see you have 47 active subscription customers... let me check the recent transactions to see what's... hmm, okay I'm seeing something unusual here."
+        },
+        {
+            "role": "Customer",
+            "content": "Er, that's what the last support person said. Then nothing got fixed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I completely understand your frustration, and we're definitely going to get this sorted today. So what I'm seeing is there's a duplicate webhook firing on your subscription renewal dates, it's... how do I explain this... basically your payment processor is getting two signals instead of one."
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, okay, so is this something on my end or yours?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "This is absolutely on our end, not yours at all. The system update on November 3rd created this bug, reference ticket TKT-9102-NV, and I can already see which customers were affected... looks like 12 of your subscribers got double-charged between November 4th and today."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Well, at least you found it. Um, so what happens to their money?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so here's what I'm going to do—I'm initiating refunds right now for all 12 affected customers, they'll see credits within 24-48 hours with reference codes starting with REF-2024-11, and I'm also applying a courtesy credit of $50 to your merchant account for the inconvenience."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! That's... actually really helpful. Like, my customers were pretty upset, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course they were, and rightfully so! Let me also set up... what would you call it... a monitoring alert on your account, code MON-887-PQ, so if anything like this happens again, our team gets notified instantly before your customers even notice."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, yeah that would be great. Er, should I email my customers about the refunds?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's a great question, so we'll actually send them automated confirmation emails with their refund amounts and reference numbers, but if you want to send a personal note too, that's always... that's a nice touch that customers appreciate."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically you're saying it's all handled? *sharp inhale* Hard to believe honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, right? But yes, completely handled—refunds processing, bug fixed as of 2:47 PM today, timestamp logged in your account, and your monitoring is active. Is there anything else I can help with while I have your account pulled up?"
+        },
+        {
+            "role": "Customer",
+            "content": "Well, um, actually yeah—any chance you could waive next month's processing fees too?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what? Absolutely. Let me just... there we go, I've added a fee waiver code FEE-WAIVE-1224 to your account for December's processing fees, so you'll see zero charges from us next month."
+        },
+        {
+            "role": "Customer",
+            "content": "Wow, okay! Like, this actually went way better than expected. Thanks so much!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, that's what we're here for! Your confirmation number for everything we did today is CASE-8827-KLM, and honestly, anyone running a small cheese business deserves support that actually, you know... that actually supports them."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "00c5f15a_script.json",
+    "professionalism": "casual",
+    "scenario": "cheese maker, confused about why her subscription customers are being billed twice",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "skeptical_guarded",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "classic_fillers",
+                    "filled_pauses",
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "patient_teacher",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

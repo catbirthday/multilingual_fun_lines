@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Oh Gott, ähm, ich bin gerade komplett mit Mehl bedeckt, is this a bad time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Überhaupt nicht! Lass mich mal dein Konto aufrufen... was ist deine Leasingnummer oder Firmenname?"
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist, äh... wie heißt das nochmal... Sunrise Bakery? Nein warte, das ist die alte—sorry, it's Morning Glory Artisan."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hab's. Morning Glory Artisan... okay, ich sehe hier dein Konto MGA-4472-BK. Du hast den KitchenPro 60-Liter-Mixer geleast. Was ist denn mit der Zahlung los?"
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Ja also, äh, die Payment ist nicht durchgegangen? Und ich hab literally zwölf Dutzend Croissants im Gärkorb gerade."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein, wir kriegen das hin. Zeigt hier, dass die Zahlung für $347.82 gestern um 23:47 Uhr abgelehnt wurde. Aber schau, ich seh dass du acht Monate lang perfekt warst, also..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ach Gott, ich hab die Bank gewechselt! That's the—sorry, ich meine das alte Konto. Hab total vergessen das zu updaten."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Passiert ständig. Hier ist was wir machen. Hast du die neue Routing-Nummer parat? And I'll waive that $35 late fee, weil du noch am selben Tag anrufst."
+        },
+        {
+            "role": "Customer",
+            "content": "Wirklich? *sharp inhale* Okay ja, ich hab die Nummern, die sind... irgendwo... unter diesem ganzen Mehl..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Lass dir Zeit. Actually, während du suchst... ich kann das auch rückdatieren, so it won't affect your credit. Dein Lease-Score bleibt bei 780."
+        },
+        {
+            "role": "Customer",
+            "content": "Gefunden! Oh Mann, du rettest mir literally das Leben, dieser Mixer ist so... wie sag ich das... basically my entire business."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Dafür bin ich ja da. Sag Bescheid wenn du bereit bist. Brauch die komplette Routing- und Kontonummer."
+        },
+        {
+            "role": "Customer",
+            "content": "Routing ist 121000248 und dann Konto ist, warte nein das—*breath catches*—sorry, 893367412."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfekt. 121000248 und 893367412... verarbeite das jetzt. Should clear by 3 PM Eastern. Deine nächste Zahlung am 15. November wird automatisch vom neuen Konto abgebucht."
+        },
+        {
+            "role": "Customer",
+            "content": "Der Brottimer geht ab! Ähm, aber so, mein Kredit ist okay? Because I'm trying to lease a second oven."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolut in Ordnung. Zeigt hier, dass du tatsächlich vorab genehmigt bist für bis zu $15,000 an zusätzlicher Ausrüstung. Soll ich das an deine Email schicken?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ja! Gott, ja bitte. Das ist so eine Erleichterung, ich dachte schon—you know, dass ich den ganzen Tag darüber grübeln würde."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Geschickt an gloria@morningglory.com gerade eben. Referenznummer RPT-7829 falls du sie brauchst. Oh und... lass mich noch eine Notiz über den Bankwechsel machen, so next time..."
+        },
+        {
+            "role": "Customer",
+            "content": "Du bist die Beste, ehrlich. Okay ich muss literally rennen, there's flour everywhere und irgendwas brennt definitiv an."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Geh rette deine Croissants! Payment ist alles eingerichtet. Ruf jederzeit an wenn du das Angebot für den zweiten Ofen brauchst. Hab einen tollen Tag in der Bäckerei!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Oh hi, um, I'm literally covered in flour right now, is this a bad time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all! Let me pull up your account... what's your lease number or business name?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh... what's the word... Sunrise Bakery? No wait, that's the old—sorry, it's Morning Glory Artisan."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Morning Glory Artisan... okay I see your account MGA-4472-BK here. Looks like you've got the KitchenPro 60-quart mixer lease. What's going on with the payment?"
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Yeah so, er, the payment didn't go through? And I literally have twelve dozen croissants proofing right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, we're fixing this. Shows the payment for $347.82 was declined yesterday at 11:47 PM. But look, I can see you've been perfect for eight months straight so..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh God, I switched banks! That's the—sorry, I mean the old account. I totally forgot to update it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Happens all the time. Here's what we'll do. Ready for the new routing? And I'll waive that $35 late fee since you're calling same day."
+        },
+        {
+            "role": "Customer",
+            "content": "You will? *sharp inhale* Okay yes, I have the numbers, it's... somewhere... under all this flour..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Take your time. Actually while you're looking... I can also backdate this so it won't affect your credit. Your lease score stays at 780."
+        },
+        {
+            "role": "Customer",
+            "content": "Found it! Oh man, you're literally saving my life, this mixer is like... what's the word... my entire business basically."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's what I'm here for. Ready when you are. Need the full routing and account."
+        },
+        {
+            "role": "Customer",
+            "content": "Routing is 121000248 and then account is, wait no that's—*breath catches*—sorry, 893367412."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. 121000248 and 893367412... processing now. Should clear by 3 PM Eastern. Your next payment November 15th will auto-draft from the new account."
+        },
+        {
+            "role": "Customer",
+            "content": "The bread timer's going off! Um, but like, my credit's okay? Because I'm trying to lease a second oven."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely fine. Shows here you're pre-approved actually for up to $15,000 in additional equipment. Want me to send that to your email on file?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! God, yes please. This is such a relief, I thought I was gonna—you know, spiral about this all day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sent to gloria@morningglory.com just now. Reference number RPT-7829 if you need it. Oh and... actually let me add a note about the bank change so next time..."
+        },
+        {
+            "role": "Customer",
+            "content": "You're the best, seriously. Okay I have to literally run, there's flour everywhere and something's definitely burning."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Go save those croissants! Payment's all set. Call back anytime if you need that second oven quote. Have a great day at the bakery!"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "8013b9cb_script.json",
+    "professionalism": "casual",
+    "scenario": "baker, flour-dusted and squeezing in a call about a mixer lease payment between batches",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "vulnerable_trusting"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching",
+                    "breath_catches",
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "determined_advocate",
+                "new_and_eager"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

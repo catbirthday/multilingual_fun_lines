@@ -1,0 +1,48 @@
+=== Source: 9ad774f8_script.json ===
+Actor: english_3
+Content Type: customer_support
+Professionalism: casual
+Scenario: panicked because their account shows a zero balance when it should have money
+
+=== Dialogue ===
+
+Customer: Thank you so much for picking up. I'm—I'm actually kind of freaking out here.
+
+Customer Support: Oh no no no, I'm—I'm so sorry you're dealing with this. Let me pull up your account right away, can I get your account number or the phone number associated with it?
+
+Customer: It's um... five five five, eight three seven, two nine four one.
+
+Customer Support: Got it got it, pulling that up now, account A-88392-K, and I can see—oh. Oh dear. Yes yes yes, I see what you mean about the balance showing zero point zero zero dollars when there should definitely be funds there.
+
+Customer: Right! There should be. There should be like three thousand in there.
+
+Customer: I'm—I'm so sorry about this. This is—this is not good, I know. Let me check the transaction history for the past 72 hours, reference number TRX-9847623, to see if there's been any unusual activity.
+
+Customer: I just—wait, actually—could this be because of that deposit I made yesterday?
+
+Customer Support: Which deposit? Tell me more about that.
+
+Customer: The mobile check deposit. For twenty-eight hundred. It said it went through.
+
+Customer Support: Okay okay, mobile deposit, let me—let me check that. Transaction ID MD-7739-XK2 shows pending from yesterday at 3:47 PM, and—oh. Oh I'm so sorry. The system flagged it for additional verification.
+
+Customer: What does that even mean?
+
+Customer Support: Right right, so basically—and I'm really sorry this wasn't clearer—when deposits over 2500 dollars come through mobile, they go through extra fraud prevention checks, case number FP-88214-B, which can take 24 to 48 hours.
+
+Customer: But my balance shouldn't be zero! I had—I had money in there already!
+
+Customer Support: You're absolutely right. You're right right right. This is—this is our mistake. The system shouldn't have frozen your existing balance of 487 dollars and 32 cents while reviewing the new deposit.
+
+Customer: Okay okay okay so... so what happens now? Can you fix this?
+
+Customer Support: Yes. Yes yes. I'm—I'm putting through an override right now, authorization code OVR-5521-ZM9, to immediately release your original balance while the check clears.
+
+Customer: Oh thank god. Thank you. That's—that's exactly what I needed.
+
+Customer Support: Done. Your 487.32 is available now. The check deposit will still take another—let me see—probably 18 to 24 hours based on verification queue VQ-7734.
+
+Customer: That's fine. That's fine. I just needed something in there. Thank you so much.
+
+Customer Support: I'm—I'm really sorry about the scare. I've added a note, case note CN-9982341-A, to prevent this from happening with future deposits. Is there—is there anything else I can help with today?
+

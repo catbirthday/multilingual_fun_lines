@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[trembling] That voice you just played from the app, that's... oh God, that's Margaret, my wife, from the day before she died. How did you—I mean, where did this recording even come from?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[startled] Wait, what? No, this is just, um, this is supposed to be test audio from last week's session when we installed the prototype. Are you saying this is actually your wife's voice? [anxious] Because that shouldn't be possible."
+        },
+        {
+            "role": "Character 1",
+            "content": "I know her voice like I know my own heartbeat, even after three years without hearing it. She's telling me about the garden, about the tomatoes that never ripened that summer, and I remember because, well, [voice breaking] because I promised her I'd take care of them."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] Okay, so, uh, let me check the metadata here. The app was designed to capture ambient conversations for memory triggers, but it shouldn't have recordings from three years ago. This is... this is really strange. [nervous exhale]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Strange? Young lady, I'm ninety-three years old and I'm hearing my dead wife talk about tomatoes through some contraption I don't even understand. [shaky laugh] My hands are shaking so bad I can barely hold this thing."
+        },
+        {
+            "role": "Character 2",
+            "content": "Here, let me, um, let me help you sit down first, okay? [gently] The timestamp says this was recorded in room 247, which is your room, dated three years ago, but our company didn't even exist then, so I'm trying to figure out what's happening here."
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted whisper] Room 247 was Margaret's room when she was here for hospice care. They moved me there after she passed because I, uh, I couldn't go back to our house. [pause] Just couldn't do it."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh my God, I think I know what happened. The nursing home's old intercom system, they mentioned it recorded everything for legal purposes, and when we integrated our AI with their database to pull medical histories, it must have... [trailing off] it must have pulled audio files too."
+        },
+        {
+            "role": "Character 1",
+            "content": "[urgently] Can you play more? Please, I need to hear more. I forgot the sound of her laugh, you know? Three years and I forgot how she laughed, but maybe it's on there somewhere, maybe—"
+        },
+        {
+            "role": "Character 2",
+            "content": "[conflicted] Mr. Harrison, I, uh, I technically shouldn't even have access to this. It's a huge privacy breach, and if my company finds out, I mean, this whole project could get shut down. But seeing your face right now... [sighs heavily]"
+        },
+        {
+            "role": "Character 1",
+            "content": "I'll be dead before your lawyers figure anything out, sweetheart. [bitter chuckle] But right now, today, I could hear her tell me she loves me one more time. Isn't that worth whatever trouble you might get into?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly determined] You're right. Screw it. Let me, um, let me pull up the full file directory. There's about six hours of audio from that room over those final two days. Should I start from the beginning?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[tearful] Six hours? Oh, Margaret, you always did talk too much. [laughs through tears] Yes, please, from the beginning. And, uh, thank you, dear. You don't know what this means."
+        },
+        {
+            "role": "Character 2",
+            "content": "Actually, I think I do. My grandmother had Alzheimer's, and I designed this whole app because I wished I'd recorded more of her stories before she forgot them. [soft smile] Here, I'll sit with you while we listen, if that's okay."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] I'd like that very much. You know, Margaret would have liked you, all this technology business. She was always saying we needed to preserve things better, keep memories somehow. [chuckles] Guess she found a way after all."
+        },
+        {
+            "role": "Character 2",
+            "content": "[pressing play] Okay, here we go. And Mr. Harrison? If you want, I can, uh, I can make you a private copy of all of this. Off the books, just... just between us. [pause] Everyone deserves to keep their love stories."
+        },
+        {
+            "role": "Character 1",
+            "content": "You're a good kid. [sighs deeply] A good kid. Oh—oh, there she is. 'Harold, stop fussing with those monitors and come hold my hand.' [voice cracking] She always said I fussed too much."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispering] The audio quality is actually incredible for an old intercom system. Want me to clean it up a bit, reduce the background noise? I can do that in real-time without losing any of her voice."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] No, no, leave it just as it is. Even the beeping machines, the footsteps in the hallway, all of it. That's... that's how it really was. [softer] That's how I need to remember it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[nodding] Of course, yeah, that makes sense. Um, Mr. Harrison? Thank you for trusting me with this. [emotional] I came here to test an app, but this is... this is so much more important than anything I was trying to build."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "ac7da1ac_scenario.json",
+    "actor": 3,
+    "scenario": "A great-grandfather discovers that a UX designer's memory preservation app accidentally captured his final conversation with his late wife three years ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "great-grandfather",
+    "character_2_role": "UX designer",
+    "selected_tones": [
+        "exhausted",
+        "anxious",
+        "showing"
+    ]
+}

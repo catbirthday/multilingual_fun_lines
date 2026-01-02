@@ -1,0 +1,93 @@
+=== Source: 1361502f_script.json ===
+Language: Hindi
+Gender: male
+Mode: mix
+Content Type: customer_support
+Professionalism: professional
+Scenario: trying to understand their coverage and what's included
+
+=== Translated Dialogue ===
+
+Customer [mix]: मुझे अपने Enterprise Plus service plan के बारे में स्पष्टीकरण चाहिए। कई features जो मैंने सोचा था कि included होंगे, apparently they require additional fees.
+
+Customer Support [mix]: मैं आपकी चिंता समझता हूं। मैं आपके account की details निकालता हूं। क्या आप अपना account number या email address बता सकते हैं, the one associated with your Enterprise Plus subscription?
+
+Customer [mix]: Account email है operations@techventures.com। हमने तीन महीने पहले sign up किया था।
+
+Customer Support [mix]: धन्यवाद। आपका account मिल गया है - account number EP-2847-QV91। आप October 14th से Enterprise Plus plan पर हैं। कौन से specific features आप expect कर रहे थे जो included होने चाहिए थे?
+
+Customer [mix]: Advanced API access और compliance reporting module। दोनों payment मांग रहे हैं, when we try to activate them.
+
+Customer Support [mix]: मैं आपके लिए इसे clarify कर सकता हूं। Enterprise Plus plan, जो $2,499 monthly का है, उसमें standard API access included है with up to 50,000 calls per day। Advanced API access with unlimited calls एक add-on service है, it costs $399 monthly.
+
+Customer [mix]: ये अंतर sales process के दौरान clear नहीं था। Compliance reporting के बारे में क्या?
+
+Customer Support [mix]: Compliance reporting module आपके industry vertical पर depend करता है। HIPAA और SOC 2 compliance reports आपके plan में included हैं। लेकिन specialized reports जैसे ISO 27001 या PCI-DSS के लिए, you need the Compliance Plus add-on at $299 monthly.
+
+Customer [mix]: हमें specifically PCI-DSS चाहिए payment processing के लिए। ये शुरुआत में ही स्पष्ट होना चाहिए था।
+
+Customer Support [mix]: मैं आपकी निराशा समझ सकता हूं। आपके onboarding notes देख रहा हूं October 14th, 2:47 PM के, I see the sales representative marked your primary industry as B2B software। PCI-DSS requirement शायद capture नहीं हुई थी।
+
+Customer [mix]: सही बात है, लेकिन हम customer payments process करते हैं। इसे efficiently कैसे resolve कर सकते हैं?
+
+Customer Support [mix]: बिल्कुल। इस miscommunication को देखते हुए, I can offer you a one-time credit of $897। ये तीन महीने के Compliance Plus add-on को cover करता है। इससे आपको तुरंत PCI-DSS access मिल जाएगा, while we ensure your account reflects your actual needs.
+
+Customer [mix]: ये reasonable है। API limits के बारे में आगे क्या होगा?
+
+Customer Support [mix]: जी हां।
+
+Customer [mix]: मुझे standard और advanced API access के बीच के actual differences समझने हैं।
+
+Customer Support [mix]: ज़रूर। Standard API access में 50,000 daily calls मिलते हैं, 99.5% uptime SLA, और response times averaging 200 milliseconds। Advanced API में unlimited calls मिलते हैं, 99.99% uptime guarantee, sub-100 millisecond response times, and dedicated support.
+
+Customer [mix]: हम currently तीस हज़ार calls daily average कर रहे हैं। अभी के लिए standard काफी होना चाहिए।
+
+Customer Support [mix]: परफेक्ट। आपके पिछले 30 दिनों के usage pattern के आधार पर, you're averaging 31,247 calls daily with peaks around 41,000। Standard tier में आपके पास comfortable headroom है।
+
+Customer [mix]: अच्छा। कृपया credit apply करें, and activate the compliance module today.
+
+Customer Support [mix]: मैंने दोनों items process कर दिए हैं। $897 का credit आपके account में immediately effective है, and you'll receive confirmation email KTX-9923401 within five minutes। PCI-DSS compliance module अब active है, accessible through your admin dashboard.
+
+
+=== Original (English) ===
+
+Customer: I need clarification on my Enterprise Plus service plan. Several features I expected to be included apparently require additional fees.
+
+Customer Support: I understand your concern. Let me pull up your account details. May I have your account number or the email address associated with your Enterprise Plus subscription?
+
+Customer: The account email is operations@techventures.com. We signed up three months ago.
+
+Customer Support: Thank you. I have your account here - account number EP-2847-QV91. You've been on the Enterprise Plus plan since October 14th. Which specific features were you expecting to be included?
+
+Customer: Advanced API access and the compliance reporting module. Both are asking for payment when we try to activate them.
+
+Customer Support: I can clarify that for you. The Enterprise Plus plan, priced at $2,499 monthly, includes standard API access with up to 50,000 calls per day. Advanced API access with unlimited calls is an add-on service at $399 monthly.
+
+Customer: That distinction wasn't clear during the sales process. What about the compliance reporting?
+
+Customer Support: The compliance reporting module depends on your industry vertical. HIPAA and SOC 2 compliance reports are included in your plan. However, specialized reports like ISO 27001 or PCI-DSS require the Compliance Plus add-on at $299 monthly.
+
+Customer: We specifically need PCI-DSS for payment processing. This should have been made clearer upfront.
+
+Customer Support: I understand your frustration. Looking at your onboarding notes from October 14th at 2:47 PM, I see the sales representative marked your primary industry as B2B software. The PCI-DSS requirement may not have been captured.
+
+Customer: Correct, but we process customer payments. How can we resolve this efficiently?
+
+Customer Support: Absolutely. Given this miscommunication, I can offer you a one-time credit of $897, which covers three months of the Compliance Plus add-on. This will give you immediate PCI-DSS access while we ensure your account reflects your actual needs.
+
+Customer: That's reasonable. What about the API limits going forward?
+
+Customer Support: Of course.
+
+Customer: I need to understand the actual differences between standard and advanced API access.
+
+Customer Support: Certainly. Standard API access includes 50,000 daily calls, 99.5% uptime SLA, and response times averaging 200 milliseconds. Advanced API provides unlimited calls, 99.99% uptime guarantee, sub-100 millisecond response times, and dedicated support.
+
+Customer: We're currently averaging thirty thousand calls daily. Standard should suffice for now.
+
+Customer Support: Perfect. Based on your usage pattern from the last 30 days, you're averaging 31,247 calls daily with peaks around 41,000. You have comfortable headroom with the standard tier.
+
+Customer: Good. Please apply the credit and activate the compliance module today.
+
+Customer Support: I've processed both items. The $897 credit appears on your account effective immediately, and you'll receive confirmation email KTX-9923401 within five minutes. The PCI-DSS compliance module is now active and accessible through your admin dashboard.
+

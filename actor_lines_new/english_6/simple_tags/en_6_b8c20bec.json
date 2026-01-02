@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] Mayor Daniels, I heard about your development proposal for this block, and I need you to understand that this shop has been here for forty-seven years. [pause] My father built these display cases by hand."
+        },
+        {
+            "role": "Character 2",
+            "content": "[formally] The economic reality is that a single hobby shop generates maybe two thousand in monthly tax revenue, while a franchise would bring in ten times that amount. [clearing throat] Progress requires difficult decisions."
+        },
+        {
+            "role": "Character 1",
+            "content": "[passionately] You call it progress, but every Saturday morning there are kids here learning to build something with their hands instead of staring at screens. [voice breaking] Where else will they discover that kind of magic?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[dismissive] There are online tutorials for everything now, and honestly, the demographics show declining interest in physical hobbies across all age groups. [sighs] Nostalgia doesn't pay for city services."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Right, demographics."
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] Look, I understand you're emotionally invested here, but the council vote is next week and the numbers are clear. [firmly] We need sustainable revenue streams, not subsidized memories."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] Yesterday, Tommy Chen brought in his grandfather's broken locomotive from 1952, and we spent three hours fixing it together while his grandfather told stories about working the rails. [trembling] That's not in your spreadsheets."
+        },
+        {
+            "role": "Character 2",
+            "content": "[softly] My own father collected trains, actually, had an entire basement setup with mountains made from plaster and painted trees. [pause] But personal feelings can't drive policy decisions."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] You said 'had'—what happened to his collection after he passed, if you don't mind my asking? [gently] Sometimes those things end up in places like this."
+        },
+        {
+            "role": "Character 2",
+            "content": "[uncomfortable] We donated everything to Goodwill when mom moved to assisted living because nobody had time to [exhales] deal with it properly."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] There's a 1947 Lionel set in the back room that came from a Goodwill donation last year, pristine condition with the original boxes. [hopefully] Want to see if it might have been his?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] He always talked about a 1947 set being his first real purchase after the war, saved for months working double shifts. [very quietly] Said it represented coming home to something peaceful."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] The set I have includes a handwritten note tucked in the caboose about buying it in December 1947 as a celebration of surviving. [pause] The handwriting is very careful, like someone relearning to write."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] He lost three fingers on his right hand at Normandy and had to relearn everything. [gasps softly] Oh God, that's his set, isn't it?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[very sincerely] Every piece we restore here carries someone's story, someone's father or grandfather or childhood, and that's what makes this more than just a shop. [quietly] It's an archive of love."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] The vote is Tuesday, and I've already promised the developers an answer, but now I'm [sighs] reconsidering everything I thought I knew about value and community investment."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hopefully] Your father's set is yours if you want it, no charge, but maybe you could come by Saturday morning to see what actually happens here when the kids arrive. [warmly] Then decide what progress really looks like."
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] Saturday at nine? I'll be here, and I'll bring the council members who are still undecided. [pause] My dad would have fought for this place."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Thank you for listening, really listening, because most people just see old toys and dusty shelves instead of what this actually represents. [chuckles] Your father would be proud."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] He'd probably say I took too long to figure out what matters, but better late than never. [deeply] I'll see you Saturday with his trains."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "b8c20bec_scenario.json",
+    "actor": 6,
+    "scenario": "A model train hobbyist who runs a beloved local hobby shop confronts the newly elected mayor about plans to demolish the shop for commercial development.",
+    "type": "scenario_conversation",
+    "character_1_role": "hobbyist",
+    "character_2_role": "leader",
+    "selected_tones": [
+        "genuine",
+        "dissenting",
+        "living"
+    ]
+}

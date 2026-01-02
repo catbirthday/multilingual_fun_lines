@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[curious] You're the architect who called about the museum blueprints? [pause] I haven't been back to this site in years, but when you mentioned the firearms collection that was supposed to be housed here, I couldn't resist."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Actually, I'm here for more personal reasons than professional ones. [quietly] My father designed this building before the accident, and I recently found his original sketches with notes about a hidden vault system he never told anyone about."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confused] A vault system? [slowly] The permits I saw twenty years ago only mentioned standard display cases, nothing about secure storage for anything valuable or dangerous."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] That's what's strange about it—these weren't in the official plans at all. [clears throat] The notes reference something about protecting a specific collection piece, a prototype weapon from the 1800s. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Wait, are you talking about the Forsyth scent-bottle lock prototype? [gasps softly] That piece went missing from the donor's estate right before the museum project collapsed, everyone assumed it was stolen."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] My father's notes suggest he knew where it was, maybe even had it. [sighs] The vault dimensions match the case specifications for that exact piece, down to the millimeter."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] Your father was meeting with my mentor the night of the accident, they were supposedly discussing security features for the collection. [slowly] My mentor died that night too, along with your father."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] I know, I was twelve when it happened. [very sad] They said it was a structural collapse, but looking at these plans now, the beam that failed shouldn't have been load-bearing at all."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very sincerely] I've spent twenty years studying antique firearms and their history, and that Forsyth prototype was revolutionary. [quietly] It was worth killing for, if someone knew what it really was."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] The vault entrance should be right here according to the sketches, beneath where the main gallery would have been. [exhales] Do you think they were trying to hide it from someone that night?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[confidently] Only one way to find out—I brought ground-penetrating radar equipment in my truck. [passionately] If there's a hidden chamber down there, we'll find it. [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[nervous] What if we find more than just a vault? [very quietly] What if we find evidence of what really happened to them that night? [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] Then we finally get answers to questions we've both been carrying for two decades. [firmly] Your father and my mentor deserved better than being written off as an accident."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] They did. [trails off]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] Look, I know we just met, but we're probably the only two people who still care about what happened here. [hesitantly] Maybe they left us something to find, something they died trying to protect."
+        },
+        {
+            "role": "Character 2",
+            "content": "[passionately] The radar is showing a cavity exactly where the vault should be, about eight feet down. [excited] There's definitely something constructed down there, metal framework, concrete reinforcement—this is real."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very excited] Real. [laughs]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] We need to be careful though—if someone killed them to get to that prototype, they might still be watching this place. [anxious] Twenty years is nothing for a collector obsessed with a piece like that."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] You're right, but I'm not walking away now. [confidently] I've got connections who can help us excavate this quietly, people who understand the historical significance and won't ask too many questions."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Thank you for believing me about all this. [quietly] I thought I was going crazy when I found those sketches, like maybe grief was making me see conspiracies where there were just accidents. [sighs]"
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "9869a2f4_scenario.json",
+    "actor": 3,
+    "scenario": "A gunsmith and architect meet at the abandoned site of a historic firearms museum where both their mentors died in a suspicious accident twenty years ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "gunsmith",
+    "character_2_role": "architect",
+    "selected_tones": [
+        "awakening",
+        "attentive",
+        "unintentional"
+    ]
+}

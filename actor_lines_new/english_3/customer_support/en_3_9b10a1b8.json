@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling about a credit that was supposed to be applied to my primary account but went elsewhere."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for calling. I'll help you resolve this right away. May I have your primary account number and the amount of the credit you're expecting?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is 8847-2341 and the credit should be three hundred forty-seven dollars."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm pulling up account 8847-2341 now, and I can see your current balance is $892.50. Let me check our credit application logs to trace where that $347 credit was posted."
+        },
+        {
+            "role": "Customer",
+            "content": "I received the credit confirmation email last Thursday but my balance hasn't changed at all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. I'm reviewing the transactions from Thursday, October 12th through today. I can see a pending credit notation but it appears to have been routed to a secondary account ending in 2349."
+        },
+        {
+            "role": "Customer",
+            "content": "That's my old business account. I specifically requested this credit go to my primary account when I called."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for that error. I can see the note from your October 9th call at 2:47 PM clearly stating the credit should apply to the primary account. Let me initiate an immediate transfer to correct this."
+        },
+        {
+            "role": "Customer",
+            "content": "How long will the transfer take? I need to make a payment against this account tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "The transfer will complete today. I'm processing it now with priority code PRI-7734-MK, which means the $347 will be available in your primary account within two hours, guaranteed by 5:00 PM Eastern."
+        },
+        {
+            "role": "Customer",
+            "content": "That works. Will I receive confirmation when the transfer is complete?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll receive an email confirmation to your registered address within fifteen minutes showing the transfer initiation, and a second confirmation once it's fully posted to account 8847-2341."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Can we also close that old business account to prevent this from happening again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I can close account 2349 right after the transfer completes. Before I do, let me verify it has a zero balance. I'm showing $0.00 currently, with the $347 credit as the only activity since March."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. It should have been closed months ago but apparently it's still active."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've scheduled the closure for 5:30 PM today, immediately after the credit transfer finalizes. You'll receive closure confirmation via email with reference number CLS-8892-AAK for your records."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Is there anything else you need from me to complete these transactions?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything is set on my end. Just to confirm, I've transferred $347 from account 2349 to your primary account 8847-2341, effective by 5:00 PM today, and scheduled the secondary account closure for 5:30 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I needed. Thank you for handling this so efficiently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've also added a note to your account about this issue to prevent any future misrouting. If you need anything else, please don't hesitate to call us at 1-800-445-8827. Have an excellent day."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "9b10a1b8_script.json",
+    "actor": 3,
+    "scenario": "asking why their credit wasn't applied to the correct account",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

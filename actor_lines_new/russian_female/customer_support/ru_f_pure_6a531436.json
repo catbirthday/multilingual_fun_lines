@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Привет, эм *резкий вдох* у меня—у меня инвалидность, поэтому звонки даются очень тяжело, это ничего?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ой, конечно-конечно, не торопитесь! Сейчас я найду ваш аккаунт... хм, кажется, мне нужен номер заказа или email, чтобы начать?"
+        },
+        {
+            "role": "Customer",
+            "content": "Это—стой, прости, я медленно печатаю—ORD что-то там, *выдох* секунду секунду..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да не спешите, правда! У меня времени полно. Слушайте, знаете что? Если так проще, я могу попробовать найти просто по индексу, может, начнём с него?"
+        },
+        {
+            "role": "Customer",
+            "content": "94102! Прости, я—я просто очень волнуюсь из-за таких вещей."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Эй, да не надо извиняться! Так, смотрю... э, тут вижу три недавних заказа. Самый последний — ORD-7482-MK9 со вторника, вес примерно 2 фунта 4 унции—это он?"
+        },
+        {
+            "role": "Customer",
+            "content": "*Резкий вдох* Да да да, это—это точно он, спасибо."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Отлично! Так, смотрю... по трекингу сейчас на распределительном центре DC-447. Чем могу помочь?"
+        },
+        {
+            "role": "Customer",
+            "content": "Он—*выдох* он придёт? У меня просто мозг иногда странно всё обрабатывает."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Понимаю полностью! Так вот, он точно придёт, эм, запланировано на четверг до 8 вечера. Ваш трек-номер 1Z999AA10398842095, если хотите следить онлайн."
+        },
+        {
+            "role": "Customer",
+            "content": "Четверг четверг четверг, ладно. *Нервный смех* Прости, я повторяю, когда нервничаю."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да вы отлично справляетесь, честно! Я тоже постоянно всё повторяю. Хм, знаете что? Раз вы сказали, что звонки — это сложно, я могу настроить SMS-уведомления о посылке через SMS-ALERTS-7829, если поможет?"
+        },
+        {
+            "role": "Customer",
+            "content": "Боже, да, пожалуйста! Это—это вообще было бы потрясающе."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Готово! Вам будут приходить сообщения на номер, заканчивающийся на 4487. И ещё, э, просто чтобы вы знали на будущее—у нас есть чат на сайте в разделе HELP-CHAT-001, некоторым так проще?"
+        },
+        {
+            "role": "Customer",
+            "content": "Я не—*выдох* я даже не знала. Это так помогает."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Правда же? В смысле, я лично обожаю чат, когда что-то заказываю. Ой, и вообще, давайте я добавлю пометку к вашему аккаунту ANN-9982, что вы предпочитаете альтернативные способы связи—чтобы в следующий раз сразу было видно."
+        },
+        {
+            "role": "Customer",
+            "content": "Вы такая—такая терпеливая. Большинство людей просто меня торопят."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ой, да ладно, это... слушайте, все же заслуживают хорошего обслуживания, правда? К тому же вы супер-понятно объясняете, что вам нужно! Код вашего окна доставки DEL-7829-PM, если потом понадобится."
+        },
+        {
+            "role": "Customer",
+            "content": "*Резкий вдох* Окей. Окей. Четверг вечером. SMS-уведомления. Всё поняла."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Именно! И серьёзно, тот чат или даже email на support@store.com тоже отлично работают. Номер сегодняшнего звонка CALL-88294-KS. Ещё что-нибудь нужно?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi um *sharp inhale* I have—I have a disability so calls are really hard, is that okay?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, please take your time! Let me just pull up your account here... hmm, I think I need your order number or email to get started?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's—wait sorry I'm typing slow—ORD something, *exhale* hold on hold on..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No rush at all, really! I've got plenty of time. Actually, you know what? If it's easier, I could probably find it with just your zip code, maybe start with that?"
+        },
+        {
+            "role": "Customer",
+            "content": "94102! Sorry I'm—I'm just really anxious about these things."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no need to apologize! Okay so I'm seeing... er, looks like three recent orders here. The most recent one is ORD-7482-MK9 from Tuesday, weighs about 2 pounds 4 ounces—is that the one?"
+        },
+        {
+            "role": "Customer",
+            "content": "*Sharp breath* Yes yes yes that's—that's it exactly, thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Let me see here... tracking shows it's at distribution center DC-447 right now. What can I help you with today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Is it—*exhale* is it coming? My brain just processes things weird sometimes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand! So it's definitely coming, um, scheduled for Thursday by 8PM. Your tracking number is 1Z999AA10398842095 if you want to follow along online."
+        },
+        {
+            "role": "Customer",
+            "content": "Thursday Thursday Thursday okay. *Nervous laugh* Sorry I repeat things when stressed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're doing great, honestly! I repeat stuff all the time too. Hmm, you know what? Since you mentioned calls are tough, I could set up text alerts for package updates through SMS-ALERTS-7829 if that helps?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh God yes please! That would—that would be amazing actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done! You'll get texts to the number ending in 4487. Also, er, just so you know for future—we have a chat option on the website under HELP-CHAT-001 that some folks find easier?"
+        },
+        {
+            "role": "Customer",
+            "content": "I didn't—*exhale* I didn't even know. This is so helpful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? I mean, I personally love the chat myself when I'm ordering stuff. Oh and actually, let me add a note to your account ANN-9982 that you prefer alternative communication—that way next time anyone sees it right away."
+        },
+        {
+            "role": "Customer",
+            "content": "You're being so—so patient. Most people just rush me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw no, this is... look, everyone deserves good service, right? Besides, you're super clear about what you need! Your delivery window code is DEL-7829-PM if you need to reference it later."
+        },
+        {
+            "role": "Customer",
+            "content": "*Sharp inhale* Okay. Okay. Thursday evening. Text alerts. Got it all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! And seriously, that chat feature or even email to support@store.com works great too. Reference number for today's call is CALL-88294-KS. Anything else I can help with?"
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6a531436_script.json",
+    "professionalism": "casual",
+    "scenario": "grateful for patience because they have a disability that makes calls difficult",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "seething_controlled"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "genuinely_warm",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "hedge_words",
+                    "repetition_stutter",
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

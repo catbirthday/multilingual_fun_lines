@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Estoy llamando porque acabo de descubrir que su política de devoluciones aparentemente cambió, y nadie me avisó nada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias por contactarnos sobre esto. Me encantaría aclarar nuestras políticas actuales y entender qué cambios específicos encontró. ¿Me puede dar su número de cuenta, por favor, so I can review your history with us?"
+        },
+        {
+            "role": "Customer",
+            "content": "Es AC-4521-9K. He sido clienta por 3 años y siempre tuve 60 días para returns."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aprecio mucho su lealtad a nuestra compañía. Veo que su cuenta AC-4521-9K muestra compras consistentes desde marzo del 2021. Tiene razón, our return window was previously 60 days, y desde el 15 de enero del 2024, lo ajustamos a 30 días para la mayoría de artículos."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso es una reducción significativa. ¿Cuándo tomaron esta decisión, y por qué no me informaron directamente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entiendo completamente su frustración. El cambio de política se implementó el 15 de enero del 2024, following a board decision in December. Mandamos notificaciones en nuestro newsletter del 28 de diciembre, pero veo que sus preferencias de email muestran que optó por no recibir comunicaciones de marketing en noviembre."
+        },
+        {
+            "role": "Customer",
+            "content": "Yo opté por no recibir emails promocionales, no actualizaciones importantes de políticas. Those should be separate categories entirely."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tiene absolutamente razón. Este es feedback muy valioso que voy a escalar a nuestro equipo de comunicaciones. Los cambios de política que afectan derechos del cliente deberían comunicarse por separado del material de marketing. I'm documenting this under feedback ticket FB-7829-XM, para revisión de gerencia."
+        },
+        {
+            "role": "Customer",
+            "content": "Gracias. ¿Me puede explicar el razonamiento detrás de cortar la ventana de devolución a la mitad?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Según nuestra documentación interna del 12 de diciembre del 2023, el cambio se implementó para alinearnos con estándares de la industria y reducir fraude en devoluciones, which increased by 47% last year. Pero mire, quiero asegurarme de que usted quede bien atendida dado este problema de comunicación."
+        },
+        {
+            "role": "Customer",
+            "content": "Agradezco la transparencia. ¿Qué pasa con la orden que hice hace 2 semanas, assuming the old policy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excelente pregunta. Para su orden del 2 de julio, número de referencia ORD-6643-JK, I can apply an exception. Estoy agregando una nota para extender su ventana de devolución a los 60 días completos, honrando la política que usted razonablemente esperaba que estuviera en lugar."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso es muy razonable. Going forward, ¿habrá un mejor sistema para comunicar cambios esenciales de política?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Estoy pasando esto a nuestro equipo de operaciones para revisión inmediata. Como caso número ESC-9921-OP, su feedback será revisado en la reunión de gerencia del 18 de julio. También la estoy agregando a nuestra nueva lista de actualizaciones críticas, which bypasses marketing preferences entirely."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfecto. ¿Me puede también aclarar si las políticas de warranty han cambiado? Porque ahora estoy preocupada por otras modificaciones."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sí. Estoy revisando todas las actualizaciones de política desde el 1 de enero del 2024. Su cobertura de warranty permanece sin cambios, 24 meses para electrónicos y 12 meses para accesorios. La única otra modificación fue a nuestra ventana de price matching, que pasó de 14 a 7 días efectivo el 1 de febrero."
+        },
+        {
+            "role": "Customer",
+            "content": "Tampoco estaba enterada del cambio de price matching. This really highlights un problema de comunicación bien grande de su parte."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tiene absolutamente razón, y sinceramente pido disculpas por estos descuidos. Estoy creando un reporte comprehensivo bajo el número de incidente INC-3847-QR, that will reach our VP of Customer Experience para el final del día de hoy, específicamente tocando la necesidad de notificaciones dedicadas para cambios de política."
+        },
+        {
+            "role": "Customer",
+            "content": "Aprecio que tome esto en serio. ¿Voy a recibir confirmación de estas excepciones y del submission de feedback?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutamente. Va a recibir un email en los próximos 30 minutos confirmando su ventana extendida de devolución para la orden ORD-6643-JK, plus copies of tickets FB-7829-XM e INC-3847-QR. También he acreditado su cuenta con 500 puntos de lealtad, valued at $25, por la inconveniencia causada por nuestra falla de comunicación."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling because I just discovered your return policy has apparently changed, and I wasn't notified about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for reaching out about this concern. I'd be happy to clarify our current policies and understand what specific changes you've encountered. May I have your account number so I can review your history with us?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's AC-4521-9K. I've been a customer for three years and always had sixty days for returns."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I appreciate your loyalty to our company. I can see your account AC-4521-9K shows consistent purchases since March 2021. You're correct that our return window was previously 60 days, and as of January 15, 2024, we've adjusted it to 30 days for most items."
+        },
+        {
+            "role": "Customer",
+            "content": "That's a significant reduction. When was this decision made, and why wasn't I informed directly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your frustration completely. The policy change was implemented on January 15, 2024, following a board decision in December. We sent notifications through our December 28 newsletter, but I can see that your email preferences show you opted out of marketing communications in November."
+        },
+        {
+            "role": "Customer",
+            "content": "I opted out of promotional emails, not important policy updates. Those should be separate categories entirely."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right. This is valuable feedback that I'll escalate to our communications team. Policy changes affecting customer rights should be communicated separately from marketing materials. I'm documenting this under feedback ticket FB-7829-XM for our management review."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Can you explain the reasoning behind cutting the return window in half?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. According to our internal documentation dated December 12, 2023, the change was implemented to align with industry standards and reduce return fraud, which increased by 47% last year. However, I want to ensure you're taken care of properly given this communication gap."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the transparency. What happens to the order I placed two weeks ago under the assumption of the old policy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. For your order placed on July 2, reference number ORD-6643-JK, I can apply an exception. I'm adding a note to extend your return window to the full 60 days, honoring the policy you reasonably expected to be in place."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very reasonable. Going forward, will there be a better system for communicating essential policy changes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm pushing this to our operations team for immediate review. As case number ESC-9921-OP, your feedback will be reviewed in the July 18 management meeting. I'm also adding you to our new critical updates list, which bypasses marketing preferences entirely."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Can you also clarify if the warranty policies have changed, since I'm now concerned about other modifications?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm reviewing all policy updates since January 1, 2024. Your warranty coverage remains unchanged at 24 months for electronics and 12 months for accessories. The only other modification was to our price matching window, which moved from 14 to 7 days effective February 1."
+        },
+        {
+            "role": "Customer",
+            "content": "I wasn't aware of the price matching change either. This really highlights a communication problem on your end."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely correct, and I sincerely apologize for these oversights. I'm creating a comprehensive report under incident number INC-3847-QR that will reach our VP of Customer Experience by end of business today, specifically addressing the need for dedicated policy change notifications."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate you taking this seriously. Will I receive confirmation of these exceptions and the feedback submission?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll receive an email within the next 30 minutes confirming your extended return window for order ORD-6643-JK, plus copies of tickets FB-7829-XM and INC-3847-QR. I've also credited your account with 500 loyalty points, valued at $25, for the inconvenience caused by our communication failure."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "5dff1570_script.json",
+    "professionalism": "professional",
+    "scenario": "confused because the company's policies seem to have changed without notice",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "graciously_disappointed",
+                "analytically_minded"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "formally_courteous",
+                "patiently_methodical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

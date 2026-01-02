@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Finalmente. Uma pessoa de verdade. Graças a Deus."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Sim! Oi! Então. Você conseguiu passar. Pelo sistema de menu maldito. Imagino que foi. Nada divertido. Deixa eu puxar sua conta—qual é o seu número de telefone?"
+        },
+        {
+            "role": "Customer",
+            "content": "É 555-0847. Levei vinte minutos. Vinte."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Beleza. Puxando a conta 555-0847 agora e. Nossa. Tô vendo o histórico de chamadas. Você foi transferida. Quatro vezes? Na última hora? Isso. Isso não tá certo."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* Pois é. Ficava voltando pro início. Começar tudo de novo. Toda vez."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tá bom, então. O que aconteceu. Nossa atualização do sistema em 28 de janeiro. Criou esse. Bug. Where option 3 loops back to the main menu instead of transferring to billing como deveria."
+        },
+        {
+            "role": "Customer",
+            "content": "Exatamente isso. Precisava do billing. Não conseguia falar com ninguém."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo, certo. Então tipo assim. Tô adicionando a nota BUG-4521-XK na sua conta. E hum. Aqui está o número direto. Preparada? It's 800-555-0199 extension 4412. Isso pula. Tudo."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp breath* Extension 4412. Perfeito. Você realmente resolveu isso."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! E. Melhor ainda. Tô creditando 25 dólares na sua conta pela inconveniência. Should post within. Tipo. Two business days. Número de referência CRD-8829-MN41."
+        },
+        {
+            "role": "Customer",
+            "content": "Vinte e cinco dólares? Sério? Isso é... incrivelmente generoso. Obrigada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza! Então. A questão de billing que você precisava de ajuda. Eu posso resolver agora mesmo. Te poupa a transferência. O que tá acontecendo?"
+        },
+        {
+            "role": "Customer",
+            "content": "Só preciso mudar a data do meu statement. Coisa rápida."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito. Fácil. A data atual do statement é dia 15. Que dia funciona melhor? Posso configurar. Qualquer dia. Between the 1st and 28th."
+        },
+        {
+            "role": "Customer",
+            "content": "Dia primeiro. Sempre dia primeiro. Makes budgeting simpler."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Feito! A partir de 1º de fevereiro. Ciclo novo. Código de confirmação SCC-7739-BB22. Você vai receber um email em. Hum. Uns trinta minutos confirmando a mudança."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* Isso é. O melhor atendimento que já tive. Ever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, isso é! Tão legal ouvir isso! E olha. Dica profissional. Save that direct number 800-555-0199 extension 4412. Funciona pra. Basicamente. Qualquer departamento. É só falar pra onde você precisa ir."
+        },
+        {
+            "role": "Customer",
+            "content": "Vou fazer isso. Sério. Você resolveu tudo. Rápida. Eficiente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tão feliz que pude ajudar! Seu ciclo de billing atualizado começa 1º de fevereiro. O crédito entra em dois dias. E. Você tem o número secreto. Estamos. Estamos resolvidas aqui!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Finally. A real person. Thank god."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Yes! Hello there! So. You made it through. The dreaded menu system. I'm guessing that was. Not fun. Let me pull up your account—what's your phone number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 555-0847. Took me twenty minutes. Twenty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Pulling up account 555-0847 now and. Oh wow. I see the call history. You've been transferred. Four times? In the last hour? That's. That's not okay."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* Right. Kept looping back. Start over. Every time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so. Here's what happened. Our system update on January 28th. It created this. Glitch. Where option 3 loops back to the main menu instead of transferring to billing like it should."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly it. Needed billing. Couldn't reach anyone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So basically. I'm adding note BUG-4521-XK to your account. And um. Here's the direct number. Ready? It's 800-555-0199 extension 4412. That bypasses. Everything."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp breath* Extension 4412. Perfect. You actually fixed this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! And. Even better. I'm crediting your account $25.00 for the inconvenience. Should post within. Like. Two business days. Reference number CRD-8829-MN41."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-five dollars? Seriously? That's... incredibly generous. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! So. The billing issue you needed help with. I can handle that right now. Save you the transfer. What's going on?"
+        },
+        {
+            "role": "Customer",
+            "content": "Just need my statement date changed. Quick fix."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Easy. Current statement date is the 15th. What day works better? I can set it. Anywhere. Between the 1st and 28th."
+        },
+        {
+            "role": "Customer",
+            "content": "The first. Always the first. Makes budgeting simpler."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done! Effective February 1st. New cycle. Confirmation code SCC-7739-BB22. You'll get an email within. Um. About thirty minutes confirming the change."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* This is. Best service I've had. Ever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's! That's so nice! And hey. Pro tip. Save that direct number 800-555-0199 extension 4412. Works for. Basically. Any department. Just tell them where you need to go."
+        },
+        {
+            "role": "Customer",
+            "content": "Will do. Seriously. You solved everything. Fast. Efficient."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So glad I could help! Your updated billing cycle starts February 1st. Credit posts in two days. And. You've got the secret number. We're. We're good here!"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3e8f84bb_script.json",
+    "professionalism": "casual",
+    "scenario": "frustrated about circular phone menu with no human option",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "genuinely_grateful",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "triumphant_problem_solver",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "classic_fillers",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

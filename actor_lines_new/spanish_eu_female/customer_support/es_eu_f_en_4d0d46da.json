@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need help with an overcharge on my equipment rental invoice for this weekend's events."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon. I'd be happy to assist you with that billing concern. May I have your account number or the invoice reference so I can pull up your rental details?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's account 7829-CC. I have three events Saturday and the invoice shows double charges for the warming equipment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm accessing account 7829-CC now, and I can see your rental order RNT-45782-SAT for Saturday's events. You have three separate venue deliveries scheduled with warming equipment packages at each location."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. The contract shows twelve chafing dishes total, but I'm being charged for twenty-four."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the discrepancy. Your original order confirmation from Wednesday shows twelve chafing dish units at $18.50 each for a total of $222.00, but the current invoice reflects $444.00 for that line item."
+        },
+        {
+            "role": "Customer",
+            "content": "This needs to be corrected immediately. I have to finalize vendor payments by five o'clock today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm correcting this right now. The system duplicated the warming equipment on order modification 45782-B when you added the beverage dispensers yesterday, creating an erroneous additional charge of $222.00."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate you finding that quickly. Will you send me the corrected invoice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you also confirm the delivery times remain unchanged? I can't afford any confusion this weekend."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. Your three deliveries remain scheduled as follows: Riverside venue at 10:00 AM, Downtown location at 11:30 AM, and the Westside address at 2:00 PM, all with our premium setup service included."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. What's the new total after removing the duplicate charges?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your corrected total is $1,847.50, which includes all equipment rentals, delivery fees, and setup services for the three locations. I'm processing the adjustment now and you'll receive confirmation within five minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. I also need the drivers to have my cell number in case of any issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm adding your mobile contact to all three delivery orders now. Each driver will have direct access to reach you, and I'm also assigning senior team lead Marcus, employee ID 4021, to oversee your Saturday deliveries personally."
+        },
+        {
+            "role": "Customer",
+            "content": "That's excellent service. Will this adjustment appear on my account immediately?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The credit adjustment of $222.00 is now reflected in your account, reference number ADJ-98234-M. You'll receive both the corrected invoice and adjustment confirmation at your registered email address within the next three minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "I really appreciate your efficiency. This takes significant pressure off my day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I understand how critical timing is in the catering business, especially with multiple events. If you need any assistance on Saturday, please call our priority line at 800-555-7829 and reference your VIP service code VSC-4521."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need help with an overcharge on my equipment rental invoice for this weekend's events."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon. I'd be happy to assist you with that billing concern. May I have your account number or the invoice reference so I can pull up your rental details?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's account 7829-CC. I have three events Saturday and the invoice shows double charges for the warming equipment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm accessing account 7829-CC now, and I can see your rental order RNT-45782-SAT for Saturday's events. You have three separate venue deliveries scheduled with warming equipment packages at each location."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. The contract shows twelve chafing dishes total, but I'm being charged for twenty-four."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the discrepancy. Your original order confirmation from Wednesday shows twelve chafing dish units at $18.50 each for a total of $222.00, but the current invoice reflects $444.00 for that line item."
+        },
+        {
+            "role": "Customer",
+            "content": "This needs to be corrected immediately. I have to finalize vendor payments by five o'clock today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm correcting this right now. The system duplicated the warming equipment on order modification 45782-B when you added the beverage dispensers yesterday, creating an erroneous additional charge of $222.00."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate you finding that quickly. Will you send me the corrected invoice?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you also confirm the delivery times remain unchanged? I can't afford any confusion this weekend."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. Your three deliveries remain scheduled as follows: Riverside venue at 10:00 AM, Downtown location at 11:30 AM, and the Westside address at 2:00 PM, all with our premium setup service included."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. What's the new total after removing the duplicate charges?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your corrected total is $1,847.50, which includes all equipment rentals, delivery fees, and setup services for the three locations. I'm processing the adjustment now and you'll receive confirmation within five minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. I also need the drivers to have my cell number in case of any issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm adding your mobile contact to all three delivery orders now. Each driver will have direct access to reach you, and I'm also assigning senior team lead Marcus, employee ID 4021, to oversee your Saturday deliveries personally."
+        },
+        {
+            "role": "Customer",
+            "content": "That's excellent service. Will this adjustment appear on my account immediately?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The credit adjustment of $222.00 is now reflected in your account, reference number ADJ-98234-M. You'll receive both the corrected invoice and adjustment confirmation at your registered email address within the next three minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "I really appreciate your efficiency. This takes significant pressure off my day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I understand how critical timing is in the catering business, especially with multiple events. If you need any assistance on Saturday, please call our priority line at 800-555-7829 and reference your VIP service code VSC-4521."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4d0d46da_script.json",
+    "professionalism": "professional",
+    "scenario": "caterer, juggling three events while trying to fix an equipment rental overcharge",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "cordially_concerned",
+                "politely_firm"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "confidently_authoritative",
+                "warmly_professional"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+=== Source: 81808b5e_script.json ===
+Language: German
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: casual
+Scenario: anxious because this charge is going to overdraft their account
+
+=== Translated Dialogue ===
+
+Customer [pure]: Moment, was für ne Abbuchung? Ich hab hier so ne Benachrichtigung, da steht vorgemerkt und ähm das wird alles überziehen...
+
+Customer Support [pure]: Okay, lassen Sie mich—warte, ich ruf mal Ihr Konto auf. Können Sie mir die letzten vier Ziffern der Karte geben, die auf 8827 endet?
+
+Customer [pure]: Acht acht? Nee, das ist ähm, neun neun zwei sieben. Die Abbuchung. Die ist riesig. Morgen ist Miete fällig.
+
+Customer Support [pure]: Ah ja, hab's jetzt, Konto endet auf 9927. Da ist eine vorgemerkte Autorisierung über 1.847,23 Euro vom Händlercode MRC-4429-X, das zeigt sich als—Moment mal—das ist von einem Händler namens Digital Services Group.
+
+Customer [pure]: Digital was? Nie gehört—das ist nicht von mir. Kann nicht sein...
+
+Customer Support [pure]: Ich verstehe, dass Sie—das ist beunruhigend. Die Transaktion kam um 3:42 Uhr morgens von der IP-Adresse 184.72.108.44, und unser Betrugssystem hat's tatsächlich markiert, aber irgendwie ist es trotzdem durchgegangen.
+
+Customer [pure]: Drei Uhr morgens? Da hab ich geschlafen. Das ergibt keinen Sinn, warum sollte ich...
+
+Customer Support [pure]: Sie haben völlig recht, besorgt zu sein. Ich werde—also ich leite jetzt sofort einen Widerspruch ein unter der Fallnummer DSP-7749821-M, und normalerweise können wir das innerhalb von 24 bis 48 Stunden rückgängig machen.
+
+Customer [pure]: Zwei Tage? Nee nee nee. Die Miete. Morgen. Konto ist heute Abend im Minus.
+
+Customer Support [pure]: Ich versteh Sie total. Lassen Sie mich—wissen Sie was? Ich seh, Sie sind seit 2019 bei uns, hatten noch nie ne Überziehung. Ich geb ne Sofort-Gutschrift durch mit Override-Code OVR-442-TMP.
+
+Customer [pure]: Vorläufig? Das ist also nur temporär? Wird das dann wieder abgezogen oder...
+
+Customer Support [pure]: Genau genau. Also die vorläufige Gutschrift wird sofort gebucht, Referenznummer PCR-8827-94X, und bleibt da während wir das untersuchen. Wenn der Widerspruch genehmigt wird—was ehrlich gesagt, das sieht ziemlich eindeutig aus—wird's dauerhaft.
+
+Customer [pure]: Ähm okay aber was wenn. Was wenn die nein sagen? Dann häng ich fest?
+
+Customer Support [pure]: Nach dem was ich hier sehe—der Zeitstempel, die IP-Location zeigt Belarus an, Ihr normales Ausgabeverhalten—würd ich sagen, die Chance liegt bei 99%, dass das durchgeht. Aber ich füg auch noch ne Betrugswarnung FA-7221 zu Ihrem Konto hinzu für extra Schutz.
+
+Customer [pure]: Belarus? Das ist nicht mal—ich mein, ich weiß nicht genau wo das liegt aber...
+
+Customer Support [pure]: Ja das ist—also das ist—Osteuropa. Definitiv nicht wo Sie normalerweise einkaufen. Ich seh, Ihre letzten zehn Transaktionen waren alle lokal, Postleitzahlenbereich 10115.
+
+Customer [pure]: Genau ja lokal. Also äh, das Geld. Wann ist es zurück? Heute Abend?
+
+Customer Support [pure]: Sollte in den nächsten zwei Stunden da sein. Ihr neuer Verfügungsbetrag zeigt dann 2.147,81 Euro an, sobald die vorläufige Gutschrift eingeht. Ich schick auch ne Bestätigung an Ihre hinterlegte E-Mail, die mit gmail endet.
+
+Customer [pure]: Zwei Stunden. Knapp aber. Okay. Okay ähm ja.
+
+Customer Support [pure]: Noch was—ich hab Ihnen gleich ne Ersatzkarte bestellt, Expressversand mit Tracking-Nummer 1Z999AA10398827442. Sollte morgen ankommen. Die kompromittierte Karte mit Endung 9927 ist jetzt gesperrt, also können keine weiteren unautorisierten Abbuchungen mehr durchgehen.
+
+
+=== Original (English) ===
+
+Customer: Wait what charge? I got this alert says pending and um it's gonna overdraft everything...
+
+Customer Support: Okay let me—actually, let me pull up your account here. Can you give me the last four digits of the card ending in 8827?
+
+Customer: Eight eight? No it's um, nine nine two seven. The charge. It's huge. Rent's due tomorrow.
+
+Customer Support: Right, I see it now, account ending in 9927. There's a pending authorization for $1,847.23 from vendor code MRC-4429-X, which is showing as—let me just—it's from a merchant called Digital Services Group.
+
+Customer: Digital what? Never heard of—that's not mine. Can't be right...
+
+Customer Support: I understand this is—this is concerning. The transaction originated at 3:42 AM Eastern from IP address 184.72.108.44, and our fraud detection system actually flagged it but it still went through somehow.
+
+Customer: Three AM? I was asleep. This makes no sense, why would I...
+
+Customer Support: You're right to be concerned. I'm going to—let me initiate a dispute right now under case number DSP-7749821-M, and we can get this reversed within 24 to 48 hours typically.
+
+Customer: Two days? No no no. Rent. Tomorrow. Account's gonna be negative tonight.
+
+Customer Support: I hear you. Let me—actually, you know what? I can see you've been with us since 2019, never had an overdraft before. I'm putting through an emergency provisional credit using override code OVR-442-TMP.
+
+Customer: Provisional? That's temporary? So it comes back out or...
+
+Customer Support: Right right. So the provisional credit posts immediately, reference number PCR-8827-94X, and it stays there while we investigate. If the dispute is approved—which honestly, this looks pretty clear cut—it becomes permanent.
+
+Customer: Um okay but what if. What if they decide no? Then I'm stuck?
+
+Customer Support: Based on what I'm seeing here—the time stamp, the IP location which is showing as Belarus, your normal spending pattern—I'd say there's about a 99% chance this gets approved. But I'm also adding fraud alert FA-7221 to your account for extra protection.
+
+Customer: Belarus? That's not even—I mean I don't know where that is exactly but...
+
+Customer Support: Yeah it's—let me just—it's Eastern Europe. Definitely not where you usually make purchases. I'm seeing your last ten transactions were all local, zip code 94122 area.
+
+Customer: Right yes local. So er, the money. When's it back? Tonight?
+
+Customer Support: Should see it within the next two hours. Your new available balance will show as $2,147.81 once the provisional credit hits. I'm also sending a confirmation to your email on file, the one ending in gmail.
+
+Customer: Two hours. Cutting it close but. Okay. Okay um yeah.
+
+Customer Support: One more thing—I went ahead and ordered you a replacement card, expedited shipping with tracking number 1Z999AA10398827442. Should arrive tomorrow. The compromised card ending in 9927 is now blocked, so no more unauthorized charges can go through.
+

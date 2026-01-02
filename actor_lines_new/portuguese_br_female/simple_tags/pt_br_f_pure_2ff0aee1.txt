@@ -1,0 +1,68 @@
+=== Source: 2ff0aee1_scenario.json ===
+Language: Brazilian Portuguese
+Gender: female
+Mode: pure
+Content Type: simple_tags
+Scenario: WIC coordinator and car wash attendant
+
+=== Translated Dialogue ===
+
+raw [pure]: {
+    "conversation": [
+        {"role": "Character 1", "content": "Pera, é a—Maria? Maria Santos? Não acredito que é você mesmo depois de todos esses anos trabalhando aqui no lava-rápido."},
+        {"role": "Character 2", "content": "[surprised] Meu Deus, Rachel? [laughs] Nossa, que situação, né, eu aqui com o uniforme todo molhado e você toda profissional com seu crachá do governo e tudo mais."},
+        {"role": "Character 1", "content": "[warmly] Por favor, não fala assim. [pause] Olha, eu tenho pensado muito em você ultimamente, me perguntando onde a vida te levou depois que a gente perdeu contato no último ano do colégio."},
+        {"role": "Character 2", "content": "[bitter] A vida não me levou pra lugar nenhum, como você tá vendo. [sighs] Ainda na mesma cidade que a gente jurou que ia fugir, só que agora eu lavo o carro de quem conseguiu sair e voltou."},
+        {"role": "Character 1", "content": "[gently] Isso não é verdade, Maria. Você tá trabalhando, se sustentando, e todo trabalho honesto tem dignidade—é algo que eu falo pras famílias que eu ajudo todo dia lá no programa de assistência alimentar."},
+        {"role": "Character 2", "content": "[defensive] Ah é, porque esfregar poeira de freio por salário mínimo é exatamente o que a gente sonhava quando tinha dezessete anos planejando nosso futuro. [quieter] Lembra que a gente ia ser médica, as duas?"},
+        {"role": "Character 1", "content": "[regretful] Eu lembro de tudo—as sessões de estudo, as inscrições pra faculdade, sua carta de aprovação pra Estadual. [pause] O que aconteceu com a bolsa?"},
+        {"role": "Character 2", "content": "[firmly] Minha mãe ficou doente no meio do primeiro ano, meu pai não conseguia dar conta sozinho, então eu voltei. [exhales] Quando ela faleceu, já era tarde demais pra voltar, muita dívida, muito tempo perdido."},
+        {"role": "Character 1", "content": "[empathetically] Maria, eu não fazia ideia. [sighs] Eu devia ter procurado você, devia ter estado lá em vez de simplesmente sumir na minha própria bolha da faculdade."},
+        {"role": "Character 2", "content": "[curious] Mas você conseguiu, né? Se formou, conseguiu um emprego no governo com benefícios e tudo?"},
+        {"role": "Character 1", "content": "[hesitantly] Não exatamente como a gente planejava—eu também nunca cheguei na medicina. [pause] Mudei pra saúde pública quando percebi que queria ajudar as pessoas a ter acesso a comida e saúde, não só tratar sintomas."},
+        {"role": "Character 2", "content": "[warmly] Na verdade isso combina perfeitamente com você. Você sempre se importou mais em consertar o sistema do que jogar pelas regras dele. [chuckles] Lembra quando você organizou aquele protesto sobre a cantina jogando comida boa fora?"},
+        {"role": "Character 1", "content": "[excited] E você fez aqueles panfletos no seu computador mesmo sabendo que a gente podia ser suspensa! [laughs] Caramba, a gente tinha tanta certeza que ia mudar o mundo naquela época."},
+        {"role": "Character 2", "content": "[thoughtful] Mas talvez você esteja mudando mesmo, sabe, só que um atendimento do programa por vez em vez de uma cirurgia por vez."},
+        {"role": "Character 1", "content": "[sincerely] Olha, eu sei que isso pode parecer loucura, mas a gente tá contratando assistentes administrativas lá no programa, e o salário é bem melhor que aqui, com benefícios completos ainda."},
+        {"role": "Character 2", "content": "[hesitantly] Rachel, você não precisa—quer dizer, [sighs] eu agradeço, mas não quero ser seu caso de caridade, sabe?"},
+        {"role": "Character 1", "content": "[firmly] Não é caridade, Maria. Você é bilíngue, conhece essa comunidade de cabo a rabo, e entende o que nossos clientes passam porque você viveu isso—essas são qualificações, não pontos de pena."},
+        {"role": "Character 2", "content": "[hopefully] Você acha mesmo que eu conseguiria fazer algo assim? [pause] Faz tanto tempo que eu não faço nada além disso, nem sei se lembro como trabalhar num escritório."},
+        {"role": "Character 1", "content": "[confidently] Eu sei que você consegue. [warmly] A Maria que eu conheço nunca fugiu de um desafio, e sinceramente, a gente precisa de alguém que entenda que pedir ajuda não é fraqueza—é sobrevivência."},
+        {"role": "Character 2", "content": "[grateful] Obrigada, Rachel. [emotional] Por me enxergar como mais do que só mais uma pessoa que ficou pra trás. [pause] Ah, seu carro tá pronto, mas olha, aqui meu número—vamos não perder mais dez anos."
+    ],
+    "scenario": "A WIC coordinator recognizes their former high school best friend working at a car wash while getting their car cleaned, discovering how differently their lives have turned out since they both had dreams of leaving their small town.",
+    "selected_tones": ["thankful", "tough", "inquisitive"],
+    "type": "scenario_conversation"
+}
+
+
+=== Original (English) ===
+
+raw: {
+    "conversation": [
+        {"role": "Character 1", "content": "Wait, is that—Maria? Maria Santos? I can't believe it's actually you after all these years working here at the car wash."},
+        {"role": "Character 2", "content": "[surprised] Oh my god, Rachel? [laughs] Wow, this is awkward, me in my wet uniform and you looking all professional in your government badge and everything."},
+        {"role": "Character 1", "content": "[warmly] Please, don't say that. [pause] I've been thinking about you so much lately, wondering where life took you after we lost touch senior year."},
+        {"role": "Character 2", "content": "[bitter] Life took me exactly nowhere, as you can see. [sighs] Still in the same town we swore we'd escape from, just now I'm washing the cars of people who actually made it out and came back."},
+        {"role": "Character 1", "content": "[gently] That's not true, Maria. You're working, supporting yourself, and there's dignity in every kind of honest work—something I tell the families I help every single day at the WIC office."},
+        {"role": "Character 2", "content": "[defensive] Right, because scrubbing brake dust for minimum wage is exactly what we dreamed about when we were seventeen and planning our futures. [quieter] Remember how we were both going to be doctors?"},
+        {"role": "Character 1", "content": "[regretful] I remember everything—the study sessions, the college applications, your acceptance letter to State. [pause] What happened with the scholarship?"},
+        {"role": "Character 2", "content": "[firmly] Mom got sick halfway through freshman year, Dad couldn't handle it alone, so I came back. [exhales] By the time she passed, it was too late to go back, too much debt, too much lost time."},
+        {"role": "Character 1", "content": "[empathetically] Maria, I had no idea. [sighs] I should have reached out, should have been there for you instead of just disappearing into my own college bubble."},
+        {"role": "Character 2", "content": "[curious] So you made it through though? Got your degree, landed a government job with benefits and everything?"},
+        {"role": "Character 1", "content": "[hesitantly] Not exactly how we planned—I never made it to medical school either. [pause] Changed majors to public health after realizing I wanted to help people access food and healthcare, not just treat symptoms."},
+        {"role": "Character 2", "content": "[warmly] That actually sounds perfect for you. You always cared more about fixing the system than playing by its rules. [chuckles] Remember when you organized that protest about the cafeteria throwing away perfectly good food?"},
+        {"role": "Character 1", "content": "[excited] And you made those flyers on your computer even though we could have gotten suspended! [laughs] God, we were so sure we could change the world back then."},
+        {"role": "Character 2", "content": "[thoughtful] Maybe you are changing it though, just one WIC appointment at a time instead of one surgery at a time."},
+        {"role": "Character 1", "content": "[sincerely] Listen, I know this might sound crazy, but we're actually hiring administrative assistants at the WIC office, and the pay is definitely better than here, plus full benefits."},
+        {"role": "Character 2", "content": "[hesitantly] Rachel, you don't have to—I mean, [sighs] I appreciate it, but I don't want to be your charity case, you know?"},
+        {"role": "Character 1", "content": "[firmly] It's not charity, Maria. You're bilingual, you know this community inside and out, and you understand what our clients are going through because you've lived it—those are qualifications, not sympathy points."},
+        {"role": "Character 2", "content": "[hopefully] You really think I could do something like that? [pause] It's been so long since I've done anything besides this, I don't even know if I remember how to work in an office."},
+        {"role": "Character 1", "content": "[confidently] I know you can. [warmly] The Maria I remember never backed down from a challenge, and honestly, we need someone who understands that asking for help isn't weakness—it's survival."},
+        {"role": "Character 2", "content": "[grateful] Thank you, Rachel. [emotional] For seeing me as more than just another person who got stuck. [pause] Your car's ready, by the way, but here's my number—let's not lose another ten years."
+    ],
+    "scenario": "A WIC coordinator recognizes their former high school best friend working at a car wash while getting their car cleaned, discovering how differently their lives have turned out since they both had dreams of leaving their small town.",
+    "selected_tones": ["thankful", "tough", "inquisitive"],
+    "type": "scenario_conversation"
+}
+

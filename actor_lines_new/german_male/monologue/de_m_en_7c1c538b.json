@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very excited] Oh my God, did you see that? [pause] Marcus just—he actually spoke up in the meeting! [delighted] I mean, after all these months of me basically nudging him under the table and mouthing \"say something,\" he finally did it. [laugh] And not just like a quiet little comment either. [proudly] He actually disagreed with Brad about the workflow changes! [short pause] I was sitting there thinking, okay, this is it, he's gonna back down when Brad pushed back, but no—Marcus held his ground. [warm] He explained his whole idea about reorganizing the packing stations, and honestly? It was brilliant. [empathetically] I could see his hands shaking a little bit, but his voice was steady. [pause] You know what really got me though? [very sincerely] When he said \"I've been thinking about this for months,\" I just—I almost teared up right there. [laugh softly] All those lunch breaks where I kept telling him his ideas mattered, that people would listen if he just... tried. [happy] And today he finally believed it. [sigh] God, I'm like a proud parent or something. [cheerful] But seriously, did you see Brad's face? [animated] He was actually impressed!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very excited] Oh my God, did you see that? [pause] Marcus just—he actually spoke up in the meeting! [delighted] I mean, after all these months of me basically nudging him under the table and mouthing \"say something,\" he finally did it. [laugh] And not just like a quiet little comment either. [proudly] He actually disagreed with Brad about the workflow changes! [short pause] I was sitting there thinking, okay, this is it, he's gonna back down when Brad pushed back, but no—Marcus held his ground. [warm] He explained his whole idea about reorganizing the packing stations, and honestly? It was brilliant. [empathetically] I could see his hands shaking a little bit, but his voice was steady. [pause] You know what really got me though? [very sincerely] When he said \"I've been thinking about this for months,\" I just—I almost teared up right there. [laugh softly] All those lunch breaks where I kept telling him his ideas mattered, that people would listen if he just... tried. [happy] And today he finally believed it. [sigh] God, I'm like a proud parent or something. [cheerful] But seriously, did you see Brad's face? [animated] He was actually impressed!"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "7c1c538b_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your shy packer colleague finally speaking up in meetings after months of your encouragement",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

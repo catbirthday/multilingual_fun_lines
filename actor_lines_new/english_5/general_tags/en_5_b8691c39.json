@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[firmly] These corneal abrasions aren't from normal wear and tear—they're laser burns, and I need you to tell me exactly what you've been doing to your eyes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Look, I've been researching vision correction techniques online for months, reading all the medical journals and watching procedures, so it's not like I went in completely blind."
+        },
+        {
+            "role": "Character 1",
+            "content": "[incredulous] You're telling me you attempted to perform laser eye surgery on yourself based on YouTube videos and medical journals you found online?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Not surgery exactly, more like controlled light therapy using a modified DVD burner and some specialized lenses I ordered from China. [nervous laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[measured] The damage to your left eye shows at least three separate burn patterns at different depths, which means you did this multiple times even after experiencing pain and vision problems."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly defensive] The first attempt actually improved my vision for about two days before things got blurry, so I thought I just needed to adjust the focal length and intensity settings."
+        },
+        {
+            "role": "Character 1",
+            "content": "You've permanently scarred your cornea in ways that might require actual surgery to repair, assuming we can even salvage full vision at this point. [exhales]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[insecure] I've successfully taught myself woodworking, basic plumbing, and even some electrical work from online tutorials—this shouldn't have been that different."
+        },
+        {
+            "role": "Character 1",
+            "content": "[guiding tone] The human eye isn't a home improvement project; it's one of the most complex and delicate organs in your body with zero margin for error."
+        },
+        {
+            "role": "Character 2",
+            "content": "The professional lasik consultations were quoting me eight thousand dollars for both eyes, and the procedure itself only takes fifteen minutes. [trailing off]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[patiently] That fifteen minutes represents decades of medical training, millions of dollars in precision equipment, and safeguards you can't replicate in your garage."
+        },
+        {
+            "role": "Character 2",
+            "content": "My setup cost less than three hundred dollars total, and I spent weeks calibrating everything using pig eyes from the butcher shop for practice runs."
+        },
+        {
+            "role": "Character 1",
+            "content": "[horrified] Pig eyes?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensively fast] They have similar optical properties to human eyes according to the veterinary journals I read, and I got pretty consistent results after the first dozen attempts."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] I'm prescribing antibiotic drops and scheduling you for emergency consultation with a corneal specialist tomorrow morning at eight sharp."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitant] Will they be able to fix this, or am I looking at permanent damage from my experimenting?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[carefully] The scarring is significant but not necessarily irreversible if we act quickly and you follow every single instruction without deviation or improvisation."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sheepishly] I actually have a follow-up question about whether vitamin A megadoses might accelerate corneal healing, because I found this study from 1987 that suggested—"
+        },
+        {
+            "role": "Character 1",
+            "content": "Stop. No more self-treatment, no more research, no more experiments. Your dabbling phase with your eyes ends today."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly resigned] I suppose you're going to report this to some medical board or insurance company, which means my premiums will skyrocket. [bitter sigh]"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "b8691c39_scenario.json",
+    "actor": 5,
+    "scenario": "An optometrist discovers their new patient, a dilettante who dabbles in various hobbies, has been attempting dangerous DIY laser eye procedures after watching YouTube tutorials.",
+    "type": "scenario_conversation",
+    "character_1_role": "optometrist",
+    "character_2_role": "dabbler",
+    "selected_tones": [
+        "firm",
+        "guiding",
+        "insecure"
+    ]
+}

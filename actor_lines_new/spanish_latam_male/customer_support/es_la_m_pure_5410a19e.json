@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ay, gracias a Dios que llegué al departamento correcto. Necesito ayuda urgente con un envío prioritario que está paralizando toda nuestra línea de producción."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entiendo perfectamente su urgencia y le pido disculpas por las múltiples transferencias que ha tenido que soportar. Déjeme abrir nuestro sistema de rastreo de envíos prioritarios ahora mismo. ¿Me puede dar su número de cuenta o la referencia del envío?"
+        },
+        {
+            "role": "Customer",
+            "content": "La referencia es PSX-4429-RT. Nos prometieron la entrega para el mediodía de hoy y ya son las 3 de la tarde."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias. Ya encontré el envío PSX-4429-RT en nuestro sistema. Muestra que el paquete de 47 libras se retrasó en nuestro centro de Cincinnati debido a un error de ruteo esta mañana a las 6:42 AM."
+        },
+        {
+            "role": "Customer",
+            "content": "Este envío contiene componentes críticos. Tengo veinte trabajadores parados ahorita por culpa de este retraso."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entiendo totalmente el impacto que esto está teniendo en sus operaciones. Estoy escalando esto inmediatamente a nuestro equipo de entrega express y voy a coordinar que un mensajero se lo lleve directamente desde Cincinnati en las próximas 3 horas."
+        },
+        {
+            "role": "Customer",
+            "content": "Tres horas nos serviría. ¿Qué garantía me puede dar de que esto sí va a pasar?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yo personalmente voy a monitorear este envío y le asigno el código de rastreo EXP-9901-Priority. Va a recibir actualizaciones por mensaje de texto cada 30 minutos, y le estoy acreditando $450.00 a su cuenta por la falla en el servicio."
+        },
+        {
+            "role": "Customer",
+            "content": "Agradezco el crédito, pero necesito confirmación de que alguien está manejando esto físicamente ahorita mismo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Estoy conectado con el gerente de nuestra instalación en Cincinnati, David Chen, quien tiene número de identificación CIN-3847. Él está personalmente sacando su paquete de la bahía 12 en este momento y se lo va a entregar al mensajero Marcus Williams."
+        },
+        {
+            "role": "Customer",
+            "content": "Bien. ¿Puede también documentar toda esta situación para mi gerencia? Van a necesitar un reporte completo del incidente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutamente. Estoy generando el reporte de incidente INC-20241122-5634 ahora mismo que va a detallar el error de ruteo, nuestro tiempo de respuesta, y la compensación de $450.00 aplicada a su cuenta."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfecto. ¿Cuál es su extensión directa por si hay algún problema adicional con la entrega?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Lo entiendo completamente. Mi línea directa es la extensión 4429, y también le voy a dar el número de mi supervisor que es 800-555-2900 extensión 3001 para escalación adicional si la necesita."
+        },
+        {
+            "role": "Customer",
+            "content": "Gracias. Una cosa más — tenemos otro envío programado para mañana. ¿Podemos asegurarnos de que no tenga problemas similares?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sí. Veo el envío de mañana, orden TRX-6672-MP programado para recogerse a las 8:00 AM. Lo estoy marcando para manejo prioritario y lo voy a asignar a nuestro equipo de cuentas dedicadas para que lo monitoreen personalmente."
+        },
+        {
+            "role": "Customer",
+            "content": "Excelente. Por favor mande toda esta información a nuestro correo de compras también."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Le voy a enviar el resumen completo incluyendo sus números de rastreo, el reporte de incidente INC-20241122-5634, y la confirmación de prioridad de mañana a su dirección de compras que tenemos en archivo en los próximos 10 minutos."
+        },
+        {
+            "role": "Customer",
+            "content": "Agradezco su asistencia tan completa. Esto es exactamente el apoyo que necesitaba después de ese frustrante proceso de transferencias."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias por su paciencia y profesionalismo durante toda esta situación. Su mensajero ya va en camino con hora estimada de llegada a las 6:15 PM, y voy a estar disponible en la extensión 4429 hasta que su envío esté confirmado como entregado."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Thank goodness I've reached the right department. I need urgent assistance with a priority shipment that's holding up our entire production line."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your urgency and I apologize for the multiple transfers you've experienced. Let me pull up our priority shipment tracking system right away. May I have your account number or shipment reference?"
+        },
+        {
+            "role": "Customer",
+            "content": "The reference is PSX-4429-RT. We were promised delivery by noon today and it's already three o'clock."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located shipment PSX-4429-RT in our system. It shows the package weighing 47 pounds was delayed at our Cincinnati hub due to a routing error this morning at 6:42 AM."
+        },
+        {
+            "role": "Customer",
+            "content": "This shipment contains critical components. We have twenty workers idle right now because of this delay."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I absolutely understand the impact this is having on your operations. I'm immediately escalating this to our expedited delivery team and arranging for a courier to deliver it directly from Cincinnati within the next 3 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Three hours would work. What guarantee can you provide that this will actually happen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm personally monitoring this shipment and assigning tracking code EXP-9901-Priority. You'll receive text updates every 30 minutes, and I'm crediting your account $450.00 for the service failure."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the credit, but I need confirmation that someone is physically handling this right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm connected with our Cincinnati facility manager, David Chen, who has badge number CIN-3847. He's personally retrieving your package from bay 12 as we speak and will hand it to courier Marcus Williams."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you also document this entire situation for my management? They'll need a full incident report."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm generating incident report INC-20241122-5634 right now which will detail the routing error, our response timeline, and the compensation of $450.00 applied to your account."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. What's your direct extension in case there are any further issues with the delivery?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. My direct line is extension 4429, and I'll also provide you my supervisor's number which is 800-555-2900 extension 3001 for additional escalation if needed."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. One more thing - we have another shipment scheduled for tomorrow. Can we ensure that doesn't face similar issues?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I see tomorrow's shipment order TRX-6672-MP scheduled for 8:00 AM pickup. I'm flagging it for priority handling and assigning it to our dedicated account team to monitor personally."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Please send all of this information to our procurement email as well."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'll send the complete summary including your tracking numbers, incident report INC-20241122-5634, and tomorrow's priority flag confirmation to your procurement address on file within the next 10 minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate your thorough assistance. This is exactly the support I needed after that frustrating transfer process."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for your patience and professionalism throughout this situation. Your courier is now en route with an ETA of 6:15 PM, and I'll remain available at extension 4429 until your shipment is confirmed delivered."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "5410a19e_script.json",
+    "professionalism": "professional",
+    "scenario": "relieved because they finally found the right department after being transferred five times",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "respectfully_urgent",
+                "matter_of_fact"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "reassuringly_calm",
+                "graciously_accommodating"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

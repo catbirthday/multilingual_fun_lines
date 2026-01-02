@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Do you know who I am? I run the lab at Mercy Medical."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I can definitely help you with that! So um, let me pull up your account here... I just need your member ID, it should be like MED followed by eight digits on your card."
+        },
+        {
+            "role": "Customer",
+            "content": "MED-77298461. There's a charge. Two hundred dollars. Yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay perfect, so I've got your account up here, member MED-77298461, and uh... yeah I can see the charge you're referring to. It's showing as transaction TXN-9847-VK2 from yesterday at 3:47 PM for exactly two hundred dollars, and it looks like it was processed through... hmm, let me check the merchant code here."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... I didn't buy anything. What's it for? This is fraud, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically what I'm seeing is, er, the merchant code MC-4812 indicates it's a telecommunication equipment purchase? And the vendor name is showing as TechMed Solutions LLC, which... actually let me cross-reference this real quick because sometimes these names can be confusing."
+        },
+        {
+            "role": "Customer",
+            "content": "TechMed? No. Never heard of them. Hmm, what if... wait, is that medical supplies?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh interesting! So actually, um, when I dig deeper into vendor ID VND-88291-TM, they're listed as a medical equipment supplier, not telecom—that merchant code was miscategorized. They sell like phlebotomy supplies, centrifuges, that kind of... but you're saying you didn't authorize this purchase?"
+        },
+        {
+            "role": "Customer",
+            "content": "No! Cancel it. Now. Do you know how many procedures I handle daily?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I totally understand your concern! So here's what I can do right away—I'm gonna flag this transaction with dispute code DSP-1122-PRIORITY and, uh, freeze any pending charges from that vendor. The thing is though... since it already posted, we'll need to file a formal dispute, which typically takes like three to five business days to resolve."
+        },
+        {
+            "role": "Customer",
+            "content": "Three days? What's the word... liability. Who's liable here? I need answers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so for HSA fraud cases, er, you're protected under regulation HSA-REG-7734, which means you have zero liability once we verify it's unauthorized. What I'm doing now is... actually, hmm, I can expedite this by marking it as case number CASE-99847-EXP for medical professional priority review."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... how fast? The hospital board reviews expenses monthly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So with the expedited code, we're looking at, um, twenty-four to forty-eight hours max. And actually what I'll do is—I'm generating a provisional credit authorization PCA-7739-TEMP right now, so basically the two hundred dollars will be credited back while we investigate, and that should show up by... let me check... tomorrow morning by 6 AM Eastern."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow? Hmm, what if they charge more? Block the whole card?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, er, I could block the entire card with security code SEC-FULL-BLOCK, but then you wouldn't be able to use it for anything until the replacement arrives. Or—and this might work better—I can do a selective merchant block just for vendor VND-88291-TM specifically, which means your card still works everywhere else but they can't charge you again."
+        },
+        {
+            "role": "Customer",
+            "content": "Selective block. Yes. Do that one. God, this is such a mess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, okay so I'm applying selective block SB-4421-ACTIVE right now and... there we go, it's active immediately. Oh and just so you know, um, I'm also adding a fraud alert flag FAF-HIGH to your account, which basically means we'll text you for any charge over fifty dollars for the next thirty days, just to be extra safe."
+        },
+        {
+            "role": "Customer",
+            "content": "Fifty's too low. Make it... what's reasonable... hundred fifty?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I can adjust that! So I'm updating the alert threshold to one hundred fifty dollars under modification code MOD-7754-THRESH, and uh... perfect, that's all set. You'll get confirmation text to your number ending in 8827, and er, is there anything else I can help you with today? I know this was stressful but we've got everything protected now."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "88139f86_script.json",
+    "actor": 1,
+    "scenario": "phlebotomist, anxious about an unexpected charge on her HSA card",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

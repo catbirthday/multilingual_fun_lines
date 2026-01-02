@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to speak with someone about recurring unauthorized charges on my account. This is the third time I'm calling about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your frustration with this situation. Let me pull up your account immediately. May I have your account number or the phone number associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is listed on my bill as 447-891-2245. I've been charged incorrectly for premium services I never authorized."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for that information. I'm accessing account 447-891-2245 now and I can see the premium service charges of $49.99 appearing on your last three billing cycles. I also see notes from your previous calls on October 12th and November 8th."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. Both times I was assured the charges would stop and I'd receive full refunds. Neither has happened."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize that this wasn't resolved properly the first time. I can see the refund requests REF-10122024-BTX and REF-11082024-MLK were initiated but appear to have encountered processing errors in our billing system."
+        },
+        {
+            "role": "Customer",
+            "content": "I expect this resolved today. What specifically are you going to do differently this time to ensure this actually gets fixed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm taking three immediate actions: First, I'm manually processing your refund totaling $149.97 under priority code PRI-12152024-XRS which bypasses the standard system. Second, I'm permanently removing the premium service code PSV-4478 from your account profile."
+        },
+        {
+            "role": "Customer",
+            "content": "And the third action? I need assurance this won't happen again next month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Third, I'm placing a billing protection flag BPF-EXEC-7731 on your account which requires manager approval for any service additions or changes. This flag remains permanently unless you specifically request its removal in writing."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. When exactly will I see the refund? I need a specific timeframe, not an estimate."
+        },
+        {
+            "role": "Customer Support",
+            "content": "The priority refund will post to your account by end of business today, December 15th, 2024, and the credit will appear on your payment method ending in 4429 within 24 to 48 hours maximum."
+        },
+        {
+            "role": "Customer",
+            "content": "I want written confirmation of everything we've discussed sent to my email on file."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm generating a detailed confirmation report now with reference number CNF-20241215-8847-KLM. You'll receive this at the email address we have on file within the next ten minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "If this happens again, what recourse do I have? I need to know my options."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You have several options protected under your service agreement section 14.2B. You're entitled to immediate account termination without penalty, twelve months of free service credit worth $587.88, or escalation to our executive resolution team through case number ERT-PRIORITY-001."
+        },
+        {
+            "role": "Customer",
+            "content": "I'll review that confirmation email carefully. Can you also note that I'm considering filing a complaint with the Better Business Bureau?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've documented your concern in your account notes under incident ID INC-BBB-2024-9982. I want to ensure we resolve this to your satisfaction today. Is there anything else I can address while I have your account open?"
+        },
+        {
+            "role": "Customer",
+            "content": "Just make sure this is actually fixed this time. I don't have time for a fourth call about the same issue."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Understood completely. Your refund is processing under priority code PRI-12152024-XRS, the protection flag BPF-EXEC-7731 is now active, and you'll have full documentation via email shortly. Thank you for your patience while we corrected this issue properly."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to speak with someone about recurring unauthorized charges on my account. This is the third time I'm calling about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your frustration with this situation. Let me pull up your account immediately. May I have your account number or the phone number associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is listed on my bill as 447-891-2245. I've been charged incorrectly for premium services I never authorized."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for that information. I'm accessing account 447-891-2245 now and I can see the premium service charges of $49.99 appearing on your last three billing cycles. I also see notes from your previous calls on October 12th and November 8th."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. Both times I was assured the charges would stop and I'd receive full refunds. Neither has happened."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize that this wasn't resolved properly the first time. I can see the refund requests REF-10122024-BTX and REF-11082024-MLK were initiated but appear to have encountered processing errors in our billing system."
+        },
+        {
+            "role": "Customer",
+            "content": "I expect this resolved today. What specifically are you going to do differently this time to ensure this actually gets fixed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm taking three immediate actions: First, I'm manually processing your refund totaling $149.97 under priority code PRI-12152024-XRS which bypasses the standard system. Second, I'm permanently removing the premium service code PSV-4478 from your account profile."
+        },
+        {
+            "role": "Customer",
+            "content": "And the third action? I need assurance this won't happen again next month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Third, I'm placing a billing protection flag BPF-EXEC-7731 on your account which requires manager approval for any service additions or changes. This flag remains permanently unless you specifically request its removal in writing."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. When exactly will I see the refund? I need a specific timeframe, not an estimate."
+        },
+        {
+            "role": "Customer Support",
+            "content": "The priority refund will post to your account by end of business today, December 15th, 2024, and the credit will appear on your payment method ending in 4429 within 24 to 48 hours maximum."
+        },
+        {
+            "role": "Customer",
+            "content": "I want written confirmation of everything we've discussed sent to my email on file."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm generating a detailed confirmation report now with reference number CNF-20241215-8847-KLM. You'll receive this at the email address we have on file within the next ten minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "If this happens again, what recourse do I have? I need to know my options."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You have several options protected under your service agreement section 14.2B. You're entitled to immediate account termination without penalty, twelve months of free service credit worth $587.88, or escalation to our executive resolution team through case number ERT-PRIORITY-001."
+        },
+        {
+            "role": "Customer",
+            "content": "I'll review that confirmation email carefully. Can you also note that I'm considering filing a complaint with the Better Business Bureau?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've documented your concern in your account notes under incident ID INC-BBB-2024-9982. I want to ensure we resolve this to your satisfaction today. Is there anything else I can address while I have your account open?"
+        },
+        {
+            "role": "Customer",
+            "content": "Just make sure this is actually fixed this time. I don't have time for a fourth call about the same issue."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Understood completely. Your refund is processing under priority code PRI-12152024-XRS, the protection flag BPF-EXEC-7731 is now active, and you'll have full documentation via email shortly. Thank you for your patience while we corrected this issue properly."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "16cb13b5_script.json",
+    "professionalism": "professional",
+    "scenario": "angry but trying to stay calm because they know yelling won't help",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "professionally_assertive",
+                "cordially_concerned"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "steadily_composed",
+                "briskly_efficient"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

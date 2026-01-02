@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Te llamo por un cargo no autorizado en mi cuenta de ayer por $287.43 que no reconozco."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entiendo tu preocupación. Déjame revisar tu cuenta inmediatamente para investigar este cargo. ¿Me puedes dar tu número de cuenta o los últimos cuatro dígitos de la tarjeta?"
+        },
+        {
+            "role": "Customer",
+            "content": "La tarjeta termina en 4782. El nombre del comercio aparece como TechGlobal Services LLC."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias. Ya encontré tu cuenta que termina en 4782 y puedo ver la transacción que mencionas. El cargo se procesó a las 2:47 PM hora del este ayer con número de referencia REF-98234-TG."
+        },
+        {
+            "role": "Customer",
+            "content": "Nunca he escuchado de esa empresa. ¿Qué tipo de negocio es TechGlobal Services?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Según nuestra base de datos de comercios, TechGlobal Services LLC con identificación de comercio MID-7789-GL es un procesador de gestión de suscripciones que maneja la facturación para varios servicios en línea y suscripciones de software."
+        },
+        {
+            "role": "Customer",
+            "content": "Uy, eso me preocupa. No he contratado ninguna suscripción nueva recientemente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Te entiendo completamente. Déjame hacer un rastreo más profundo de esta transacción usando nuestro sistema de detección de fraudes. El código de autorización AC-5521-X muestra que esto se procesó como un pago recurrente y no como un cargo nuevo."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Un pago recurrente? ¿Hace cuánto que esto viene cargando a mi cuenta?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Puedes revisar si ha habido cargos anteriores de este mismo comercio?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Estoy revisando tu historial de transacciones ahora. Puedo ver tres cargos anteriores de este identificador de comercio MID-7789-GL que datan desde enero, cada uno por $287.43 el día 15 de cada mes."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Tres cargos anteriores? ¿Tres? ¿Por qué no me había dado cuenta de estos antes? ¿Qué servicio podría ser este?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Los cargos están categorizados bajo el código de suscripción SUB-1122-PRO que nuestro sistema muestra que comúnmente está asociado con servicios de almacenamiento en la nube o software empresarial. Muchas empresas legítimas usan TechGlobal como su procesador de pagos."
+        },
+        {
+            "role": "Customer",
+            "content": "Necesito disputar los cuatro cargos ya mismo. Esto tiene que ser fraudulento."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sí."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Qué documentación voy a necesitar proporcionar para el proceso de disputa?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Para el caso de disputa DCN-8834-2024, necesitas completar nuestro formulario de declaración jurada que te voy a enviar por correo ahora mismo. El crédito provisional de $1,149.72 se aplicará a tu cuenta dentro de 24 horas mientras investigamos."
+        },
+        {
+            "role": "Customer",
+            "content": "Bien. ¿Van a emitir una tarjeta nueva para prevenir futuros cargos no autorizados?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sí, ya inicié el reemplazo de tarjeta con envío urgente con número de rastreo EX-9901-RUSH. Tu tarjeta nueva llegará en 1-2 días hábiles, y ya bloqueé todos los cargos futuros del identificador de comercio MID-7789-GL con efecto inmediato."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling about an unauthorized charge on my account from yesterday for $287.43 that I don't recognize."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me pull up your account immediately to investigate this charge. May I have your account number or the card ending in four digits?"
+        },
+        {
+            "role": "Customer",
+            "content": "The card ends in 4782. The merchant name shows as TechGlobal Services LLC."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account ending in 4782 and I can see the transaction you're referring to. The charge posted at 2:47 PM Eastern yesterday with reference number REF-98234-TG."
+        },
+        {
+            "role": "Customer",
+            "content": "I've never heard of that company. What type of business is TechGlobal Services?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "According to our merchant database, TechGlobal Services LLC with merchant ID MID-7789-GL is a subscription management processor that handles billing for various online services and software subscriptions."
+        },
+        {
+            "role": "Customer",
+            "content": "That's concerning. I haven't signed up for any new subscriptions recently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand. Let me run a deeper trace on this transaction using our fraud detection system. The authorization code AC-5521-X shows this was processed as a recurring payment rather than a new charge."
+        },
+        {
+            "role": "Customer",
+            "content": "A recurring payment? How long has this been charging my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you check if there have been previous charges from this same merchant?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm checking your transaction history now. I can see three previous charges from this merchant ID MID-7789-GL dating back to January, each for $287.43 on the 15th of the month."
+        },
+        {
+            "role": "Customer",
+            "content": "Three previous charges? Why haven't I noticed these before? What service could this be?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The charges are categorized under subscription code SUB-1122-PRO which our system shows is commonly associated with cloud storage or business software services. Many legitimate companies use TechGlobal as their payment processor."
+        },
+        {
+            "role": "Customer",
+            "content": "I need to dispute all four charges immediately. This has to be fraudulent."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "What documentation will I need to provide for the dispute process?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "For dispute case DCN-8834-2024, you'll need to complete our affidavit form which I'll email to you immediately. The provisional credit of $1,149.72 will post to your account within 24 hours while we investigate."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Will you be issuing a new card to prevent future unauthorized charges?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, I've already initiated a card replacement with expedited shipping via tracking number EX-9901-RUSH. Your new card will arrive in 1-2 business days, and I've blocked all future charges from merchant ID MID-7789-GL effective immediately."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "60ed18ba_script.json",
+    "professionalism": "professional",
+    "scenario": "worried because a charge appeared that they don't recognize and fear fraud",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "analytically_minded",
+                "calmly_frustrated"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "patiently_methodical",
+                "briskly_efficient"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

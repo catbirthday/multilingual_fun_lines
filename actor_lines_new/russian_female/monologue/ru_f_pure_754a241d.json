@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[warm] Знаешь, когда Маркус на прошлой неделе принёс мне свой первый расчётный листок, он просто... стоял и улыбался во весь рот. [chuckle] Это человек, который 18 месяцев назад спал за торговым центром. [very sincerely] А теперь он обучает наших новеньких. [pause] В смысле, как это вообще в голове укладывается? [emotional] Иногда я иду через парковку и вижу их всех в форме, шутят, смеются, и я просто— [crying while speaking] извини, что-то я совсем расклеилась. [sniffle] Просто мне все твердили, что я с ума сошла. [frustrated] \"Ты не можешь доверять им чужие машины,\" говорили. [mocking] \"А как же ответственность?\" [passionately] Но вот чего они не понимали — это же живые люди, которым просто нужен был кто-то, кто бы их, эм... по-настоящему увидел. [slowly] Вот прямо увидел. [excited] А теперь? У нас контракты с тремя отелями в центре! [laugh] Жером купил дочке велосипед на день рождения. [very quietly] Он мне видео показывал, как она на него смотрела. [happy] Антон снимает свою квартиру, на вечерние курсы ходит. [empathetically] Они не просто сотрудники, они... [pause] не знаю, они как доказательство, что второй шанс реально работает. [confidently] В следующем месяце открываем ещё 2 точки. [extremely happy] 2 новые точки — это ещё 20 рабочих мест, 20 жизней, которые могут измениться."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[warm] You know, when Marcus handed me his first paycheck stub last week, he just... he stood there grinning. [chuckle] This is a guy who eighteen months ago was sleeping behind the mall. [very sincerely] And now he's training our new hires. [pause] I mean, how do you even process that? [emotional] Sometimes I walk through the parking garage and I see them all in their uniforms, joking around, and I just— [crying while speaking] sorry, I'm getting all emotional about it. [sniffle] It's just, people told me I was crazy. [frustrated] \"You can't trust them with people's cars,\" they said. [mocking] \"What about liability?\" [passionately] But here's what they didn't understand—these are human beings who just needed someone to, um... to see them. [slowly] Really see them. [excited] And now? We've got contracts with three hotels downtown! [laugh] Jerome bought his daughter a bike for her birthday. [very quietly] He showed me the video of her face when she saw it. [happy] Anthony's got his own apartment, he's taking night classes. [empathetically] These aren't just employees, they're... [pause] I don't know, they're proof that second chances actually work. [confidently] We're expanding to two more locations next month. [extremely happy] Two more locations means twenty more jobs, twenty more lives that can change."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "754a241d_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The valet service you started employing formerly homeless individuals who are now thriving",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

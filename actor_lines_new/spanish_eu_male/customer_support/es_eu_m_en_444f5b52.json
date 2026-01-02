@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to report unauthorized transactions on my business account. This is extremely time-sensitive."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the urgency. Let me immediately secure your account and review the unauthorized activity. May I please have your account number and the last 4 digits of the card ending in question?"
+        },
+        {
+            "role": "Customer",
+            "content": "Account number is 4827-9915. The card ends in 7823."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account and I'm placing an immediate security hold to prevent any further transactions. I can see there were 3 suspicious charges totaling $1,847.92 posted between December 10 and December 12."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. None of those are mine. What are the next steps here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've initiated our fraud protection protocol. First, I'm canceling card 7823 effective immediately. Your replacement card will arrive via express delivery within 24 to 48 hours. Now let me document each unauthorized transaction for our fraud department."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. I have a payment due tomorrow. Will I have access to my funds?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Your funds remain fully accessible through online banking, wire transfers, and ACH payments. The first unauthorized charge is $623.41 to MerchantID XK9-4521 on December 10. Can you confirm this is fraudulent?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, that's fraudulent. I've never heard of that merchant."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Noted. The second charge is $891.76 to Vendor Code TRX-8834-PQ on December 11. The third is $332.75 to Gateway Processing LLC on December 12. Neither of these are legitimate transactions from your business?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, definitely not. When will these charges be reversed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm submitting these to our fraud resolution team with priority status. You'll receive provisional credit for the full $1,847.92 within 2 business days while we investigate. The final resolution typically completes within 7 to 10 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "That works. Should I file a police report as well?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's recommended for amounts over $500. I'll email you case number FRD-2024-128746 along with our fraud affidavit form. Having a police report strengthens your case and expedites the permanent credit."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Can you confirm my account is fully secured now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Confirmed. I've activated enhanced monitoring level 3 on your account, which includes real-time alerts for any transaction over $50. Additionally, I'm updating your security protocol to require dual authentication for all online transactions."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. How do I activate the replacement card when it arrives?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your new card ending in 4196 will arrive with activation instructions. You can activate it through our mobile app, online portal, or by calling 1-800-555-9823. The card will have our enhanced chip technology with dynamic CVV protection."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. This has been handled very efficiently. One last question about the investigation timeline."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. You'll receive an initial investigation update within 48 hours via secure message. If we need additional documentation, we'll contact you directly. Is your preferred contact number still 415-555-7734?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to report unauthorized transactions on my business account. This is extremely time-sensitive."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the urgency. Let me immediately secure your account and review the unauthorized activity. May I please have your account number and the last 4 digits of the card ending in question?"
+        },
+        {
+            "role": "Customer",
+            "content": "Account number is 4827-9915. The card ends in 7823."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account and I'm placing an immediate security hold to prevent any further transactions. I can see there were 3 suspicious charges totaling $1,847.92 posted between December 10 and December 12."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. None of those are mine. What are the next steps here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've initiated our fraud protection protocol. First, I'm canceling card 7823 effective immediately. Your replacement card will arrive via express delivery within 24 to 48 hours. Now let me document each unauthorized transaction for our fraud department."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. I have a payment due tomorrow. Will I have access to my funds?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Your funds remain fully accessible through online banking, wire transfers, and ACH payments. The first unauthorized charge is $623.41 to MerchantID XK9-4521 on December 10. Can you confirm this is fraudulent?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, that's fraudulent. I've never heard of that merchant."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Noted. The second charge is $891.76 to Vendor Code TRX-8834-PQ on December 11. The third is $332.75 to Gateway Processing LLC on December 12. Neither of these are legitimate transactions from your business?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, definitely not. When will these charges be reversed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm submitting these to our fraud resolution team with priority status. You'll receive provisional credit for the full $1,847.92 within 2 business days while we investigate. The final resolution typically completes within 7 to 10 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "That works. Should I file a police report as well?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's recommended for amounts over $500. I'll email you case number FRD-2024-128746 along with our fraud affidavit form. Having a police report strengthens your case and expedites the permanent credit."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Can you confirm my account is fully secured now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Confirmed. I've activated enhanced monitoring level 3 on your account, which includes real-time alerts for any transaction over $50. Additionally, I'm updating your security protocol to require dual authentication for all online transactions."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. How do I activate the replacement card when it arrives?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your new card ending in 4196 will arrive with activation instructions. You can activate it through our mobile app, online portal, or by calling 1-800-555-9823. The card will have our enhanced chip technology with dynamic CVV protection."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. This has been handled very efficiently. One last question about the investigation timeline."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. You'll receive an initial investigation update within 48 hours via secure message. If we need additional documentation, we'll contact you directly. Is your preferred contact number still 415-555-7734?"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "444f5b52_script.json",
+    "professionalism": "professional",
+    "scenario": "reporting unauthorized transactions on their account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "respectfully_urgent",
+                "patiently_persistent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "confidently_authoritative",
+                "diplomatically_firm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

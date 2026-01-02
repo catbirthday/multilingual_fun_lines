@@ -1,0 +1,93 @@
+=== Source: 1173eb02_script.json ===
+Language: Hindi
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: food delivery driver, desperate because his account was deactivated without warning
+
+=== Translated Dialogue ===
+
+Customer [pure]: सर, गुड मॉर्निंग। मेरा delivery driver account आज सुबह बिना किसी notification या reason के deactivate हो गया है।
+
+Customer Support [pure]: गुड मॉर्निंग जी, driver support में आपका स्वागत है। मैं समझ सकता हूं आपको कितनी tension हो रही होगी। क्या आप अपना driver ID number बता सकते हैं ताकि मैं तुरंत आपका account check कर सकूं?
+
+Customer [pure]: जी, DRV-882749 है। कल मैंने 12 deliveries complete की थीं, कोई complaint भी नहीं आई थी।
+
+Customer Support [pure]: धन्यवाद। मैं अभी आपका account देख रहा हूं, driver ID DRV-882749। देखिए, आपका account आज सुबह 3:47 AM पर हमारे automated system ने flag किया है। मैं अभी check करता हूं कि deactivation की exact वजह क्या है।
+
+Customer [pure]: मुझे समझना है कि ये trigger किस बात से हुआ। भाई, ये मेरी primary income है।
+
+Customer Support [pure]: जी, मैं पूरी तरह समझता हूं कि ये कितना urgent है। यहां दिख रहा है कि system ने कल शाम के transaction TXN-9847726 में payment verification issue flag किया है। लगता है 11:42 PM पर एक customer ने chargeback dispute file किया था।
+
+Customer [pure]: कौन सी delivery थी वो? मेरे पास कल की हर completed drop-off की photos हैं।
+
+Customer Support [pure]: जी बिल्कुल। Question में जो order है वो delivery number DEL-445892 है, 7:15 PM पर 2847 Madison Avenue के लिए place हुआ था। Customer का claim है कि उन्हें order नहीं मिला, जबकि आपने 7:58 PM पर completion confirm किया है।
+
+Customer [pure]: मेरे पास timestamped photos हैं जो दिखाती हैं कि खाना उनके door पर था। ये evidence मैं कैसे submit करूं?
+
+Customer Support [pure]: परफेक्ट। मैं अभी आपके लिए एक expedited appeal case create कर रहा हूं। आपका case number होगा APL-20241108-3562। आपको वो photos हमारे driver portal में Appeals section के under upload करनी होंगी।
+
+Customer [pure]: Review process में कितना time लगेगा? मेरे आज दोपहर से scheduled blocks हैं।
+
+Customer Support [pure]: जी, मैं समझता हूं। चूंकि आपके पास photographic evidence है, मैं इसे हमारी Trust and Safety team के पास priority review के लिए mark कर रहा हूं। Normal appeals में 48-72 hours लगते हैं, लेकिन मैं इसे expedited review के लिए flag कर रहा हूं जो 4-6 घंटे में हो जाना चाहिए।
+
+Customer [pure]: क्या आप guarantee दे सकते हैं कि अगर photos से delivery prove हो जाती है तो मेरा account आज ही reactivate हो जाएगा?
+
+Customer Support [pure]: देखिए, मैं specific outcome की guarantee तो नहीं दे सकता, लेकिन मैं ये confirm कर सकता हूं कि अगर clear photographic evidence है जो 2847 Madison Avenue पर delivery दिखाता है, तो उसे strongly consider किया जाएगा। जब drivers timestamped photos provide करते हैं जो delivery address से match करती हैं, तो हमारी review team की 94% reactivation rate है।
+
+Customer [pure]: कृपया note कर लीजिए कि मेरी perfect rating है और तीन हज़ार से ज़्यादा successful deliveries हैं।
+
+Customer Support [pure]: जी बिल्कुल। मैं ये information आपकी appeal में prominently add कर रहा हूं। आपके account में 3,247 completed deliveries दिख रही हैं, 4.9 rating के साथ, और पिछले 18 महीनों में सिर्फ़ दो previous reports हैं, दोनों आपके favor में resolve हुई थीं।
+
+Customer [pure]: अगर दोपहर तक account reactivate नहीं हुआ तो मेरे scheduled blocks का क्या होगा?
+
+Customer Support [pure]: मैं आपके scheduled blocks पर temporary hold लगा रहा हूं बजाय उन्हें release करने के। अगर आपका account 2:00 PM तक reactivate हो जाता है, जो कि आपके evidence और history को देखते हुए likely है, तो आपके 3:00 PM से आगे के blocks intact रहेंगे। मैंने automatic release रोकने के लिए note TSH-88492 add किया है।
+
+Customer [pure]: धन्यवाद। Photos exactly कहां upload करनी हैं, और मुझे confirmation मिलेगा?
+
+Customer Support [pure]: Upload option आपको driver.portal.com/appeals पर मिलेगा, फिर case number APL-20241108-3562 enter करना है। Upload के immediately बाद आपको automated confirmation email मिलेगा, और मैं personally आपका case monitor करूंगा। अगर आपको इस conversation का reference चाहिए तो मेरा agent ID है SUP-4429। आपको आज 2:00 PM तक response मिल जाना चाहिए।
+
+
+=== Original (English) ===
+
+Customer: Good morning. My delivery driver account was deactivated this morning without any notification or explanation.
+
+Customer Support: Good morning, and thank you for contacting driver support. I understand how concerning this must be for you. May I have your driver ID number so I can review your account immediately?
+
+Customer: It's DRV-882749. I completed twelve deliveries yesterday with no issues reported.
+
+Customer Support: Thank you. I'm pulling up your account now, driver ID DRV-882749. I can see your account was flagged by our automated system at 3:47 AM this morning. Let me investigate the specific reason for the deactivation.
+
+Customer: I need to understand what triggered this. This is my primary source of income.
+
+Customer Support: I completely understand the urgency. I can see here that the system flagged a payment verification issue with transaction TXN-9847726 from yesterday evening. It appears there was a chargeback dispute filed by a customer at 11:42 PM.
+
+Customer: Which delivery was that? I have photos of every completed drop-off from yesterday.
+
+Customer Support: Certainly. The order in question was delivery number DEL-445892, placed at 7:15 PM for 2847 Madison Avenue. The customer claimed they never received their order despite your completion confirmation at 7:58 PM.
+
+Customer: I have timestamped photos showing the food at their door. How do I submit this evidence?
+
+Customer Support: Perfect. I'm going to create an expedited appeal case for you right now. Your case number will be APL-20241108-3562. I'll need you to upload those photos through our driver portal under the Appeals section.
+
+Customer: How long will the review process take? I have scheduled blocks starting this afternoon.
+
+Customer Support: I understand. Given that you have photographic evidence, I'm marking this as priority review with our Trust and Safety team. Standard appeals take 48-72 hours, but I'm flagging this for expedited review within 4-6 hours.
+
+Customer: Can you guarantee my account will be reactivated today if the photos prove delivery?
+
+Customer Support: While I cannot guarantee a specific outcome, I can confirm that clear photographic evidence showing delivery to the address at 2847 Madison Avenue will be strongly considered. Our review team has a 94% reactivation rate when drivers provide timestamped photos matching the delivery address.
+
+Customer: Please note that I have a perfect rating and over three thousand successful deliveries.
+
+Customer Support: Absolutely. I'm adding that information prominently to your appeal. Your account shows 3,247 completed deliveries with a 4.9 rating and only two previous reports in eighteen months, both resolved in your favor.
+
+Customer: What happens to my scheduled blocks if the account isn't reactivated by noon?
+
+Customer Support: I'm going to place a temporary hold on your scheduled blocks rather than releasing them. If your account is reactivated by 2:00 PM, which is likely given your evidence and history, your blocks from 3:00 PM onward will remain intact. I've added note TSH-88492 to prevent automatic release.
+
+Customer: Thank you. Where exactly do I upload the photos, and will I receive confirmation?
+
+Customer Support: You'll find the upload option at driver.portal.com/appeals, then enter case number APL-20241108-3562. You'll receive an automated confirmation email immediately after upload, and I'll personally monitor your case. My agent ID is SUP-4429 if you need to reference this conversation. You should hear back by 2:00 PM today.
+

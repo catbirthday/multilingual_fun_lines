@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hum, olá. Preciso de cancelar a minha inscrição no ginásio. Eu só... já não aguento mais."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ai meu Deus, está bem, posso definitivamente ajudar-te com isso hoje, deixa-me só abrir aqui a tua conta rapidinho, if you could give me your member ID or the phone number associated with the account, vou já tratar disso imediatamente."
+        },
+        {
+            "role": "Customer",
+            "content": "É, ah... Meu Deus, nem sei. Talvez com o 312-555-8974?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito perfeito, deixa-me ver aqui... pronto, já tenho a tua conta aberta, member ID GYM-4482-NK, e vejo que estás connosco desde janeiro, mas hum, lamento muito mas há uma cena com a política de cancelamento, you need to give 30 days notice and there's also... bem, há uma taxa de cancelamento de 75 dólares."
+        },
+        {
+            "role": "Customer",
+            "content": "Setenta e cinco dólares? Eu nem sequer... ah, trabalho de noite. Sou enfermeira. Há meses que não vou."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ai não, eu percebo totalmente, isso é mesmo difícil, e sinceramente sinto-me terrível com isto, mas a questão é que o contrato que assinaste em janeiro, document number DOC-2024-0118, especifica mesmo que a taxa de rescisão antecipada aplica-se se cancelares antes do teu compromisso de 12 meses terminar, which would be, deixa-me verificar... 15 de janeiro de 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "Eu só... olha, mal durmo. Três turnos de doze horas. Pensei que ia usar mas..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pois pois, isso faz todo o sentido, turnos noturnos são brutais, e sabes que mais, let me see if there's something I can maybe do here, porque temos uma opção de suspensão médica que pode funcionar melhor para ti, basicamente pausa a tua inscrição até 6 meses com o formulário MED-HOLD-23."
+        },
+        {
+            "role": "Customer",
+            "content": "Uma suspensão? Hum, não. Preciso de cancelar. Desculpa, estou mesmo tão cansada..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro claro, pois, desculpa, provavelmente estou a complicar isto mais do que precisa, então o que posso fazer é processar o cancelamento hoje com efeito em 30 dias, which would be December 22nd, e a taxa seria processada com o teu pagamento final nessa data, ou espera, deixa-me verificar mais uma coisa aqui..."
+        },
+        {
+            "role": "Customer",
+            "content": "Podes só... não sei. Perdoar a taxa? Eu literalmente nunca vou."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, estou a ver aqui o teu histórico de utilização e sim, tens razão, last scan was August 3rd, badge number B-4482-NK-7, que foi há bastante tempo, e sinceramente acho... quer dizer, provavelmente não devia mas deixa-me fazer um pedido de isenção por dificuldades, code HW-2024-1122, porque tecnicamente profissionais médicos podem qualificar-se."
+        },
+        {
+            "role": "Customer",
+            "content": "A sério? Meu Deus. Isso seria... ah, desculpa por estar a ser difícil."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não não, não estás a ser difícil de todo, a sério, estás exausta e só a tentar poupar algum dinheiro, percebo totalmente, então o que vou fazer é submeter isto com aprovação do supervisor necessária até às 17h hoje, reference number SUP-88274, e sinceramente entre nós, these usually get approved for healthcare workers."
+        },
+        {
+            "role": "Customer",
+            "content": "Hum, está bem. Então o que acontece a seguir?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pronto, então basicamente quando isto for aprovado, provavelmente amanhã de manhã, vais receber um email para confirmar no endereço que temos registado que termina em gmail.com, and then your membership terminates immediately with no fee, o teu cartão 4482-NK fica desativado, e vais receber um número de confirmação que começa com CAN-."
+        },
+        {
+            "role": "Customer",
+            "content": "Amanhã? Isso é... ah, isso é ótimo mesmo. Obrigada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro claro, e sinceramente se por alguma razão não for aprovado, which I really doubt, mas se não for, liga de volta e menciona o ticket TKT-991102, and ask for a supervisor override, mas estou tipo 99% certa que isto vai ser aprovado sem problema."
+        },
+        {
+            "role": "Customer",
+            "content": "Eu só... agradeço isto. Ah, desculpa outra vez. Estou meio em baixo agora."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ai por favor não te desculpes, estás a trabalhar de noite a salvar vidas e estás exausta, that's completely understandable, só certifica-te de verificar o teu email amanhã por volta do meio-dia para a confirmação, and if you don't see it by like 2 PM, liga-nos definitivamente de volta para o 800-555-4GYM, está bem?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. I need to cancel my gym membership. I just... I can't anymore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh okay so I can definitely help you with that today, let me just pull up your account real quick here if you could give me your member ID or the phone number associated with the account, I'll get that sorted for you right away."
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh... God, I don't even know. Maybe under 312-555-8974?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, let me see here... okay so I've got your account pulled up, member ID GYM-4482-NK, and I can see you've been with us since January, but um, I'm really sorry but there's kind of a thing with the cancellation policy where you need to give 30 days notice and there's also... well there's a cancellation fee of $75."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventy-five dollars? I haven't even... er, I work nights. I'm a nurse. I haven't gone in months."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no I totally understand, that's really tough, and honestly I feel terrible about this but the thing is the contract you signed back in January, document number DOC-2024-0118, it does specify the early termination fee applies if you cancel before your 12-month commitment ends which would be, let me check... January 15th, 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... look, I'm barely sleeping. Three twelve-hour shifts. I thought I'd use it but..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm yeah no that makes complete sense, night shifts are brutal, and actually you know what, let me see if there's something I can maybe do here because we do have a medical hold option that might work better for you, basically it pauses your membership for up to 6 months with form MED-HOLD-23."
+        },
+        {
+            "role": "Customer",
+            "content": "A hold? Um, no. I need to cancel. I'm sorry, I'm just so tired..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right of course, I'm sorry I'm probably making this more complicated than it needs to be, so here's what I can do, I can process the cancellation today effective in 30 days which would be December 22nd, and the fee would process with your final payment on that date, or actually wait, let me check one more thing here..."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you just... I don't know. Waive it? I literally never go."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, so I'm looking at your usage history here and yeah you're right, last scan was August 3rd, badge number B-4482-NK-7, which is quite a while ago, and honestly I think... I mean I probably shouldn't but let me put in a hardship waiver request, code HW-2024-1122, because technically medical professionals might qualify."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? Oh God. That would be... er, I'm sorry for being difficult."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no you're not being difficult at all, seriously, you're exhausted and just trying to save some money, I totally get it, so what I'm gonna do is submit this with supervisor approval needed by 5 PM today, reference number SUP-88274, and honestly between you and me these usually get approved for healthcare workers."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay. So what happens next then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so basically once this gets approved, probably by tomorrow morning, you'll get an email to confirm at the address we have on file which ends in gmail.com, and then your membership terminates immediately with no fee, your keycard 4482-NK gets deactivated, and you'll get a confirmation number starting with CAN-."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow? That's... uh, that's great actually. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course of course, and honestly if for some reason it doesn't go through, which I really doubt, but if it doesn't just call back and reference ticket TKT-991102 and ask for a supervisor override, but I'm like 99% sure this will be approved no problem."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... I appreciate this. Er, sorry again. I'm kind of a mess right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh please don't apologize, you're working nights saving lives and you're exhausted, that's completely understandable, just make sure to check your email tomorrow around noon for that confirmation, and if you don't see it by like 2 PM definitely give us a call back at 800-555-4GYM, okay?"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2ff88a3b_script.json",
+    "professionalism": "casual",
+    "scenario": "nurse working nights, exhausted and trying to cancel a gym membership she never uses",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "desperate_pleading",
+                "apologetic_embarrassed"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "awkwardly_apologetic",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Tommy? Jesus Christ, what are you—you can't be here, man. You know what happens if anyone sees you talking to me after what you did to the Kellerman crew."
+        },
+        {
+            "role": "Character 2",
+            "content": "[urgently] Listen, I've got maybe five minutes before someone notices my car, but you need to hear this—they're using Pier 47, your pier, to move something big next week."
+        },
+        {
+            "role": "Character 1",
+            "content": "[dismissive] I don't want to know, alright? Whatever you think you're doing here, whatever guilt you're trying to work off by warning me, just... just forget it."
+        },
+        {
+            "role": "Character 2",
+            "content": "Frank, come on, this isn't about guilt, it's about keeping you alive—these aren't the usual guys we dealt with, these are, um, serious people from Newark. [exhales] The kind who don't leave witnesses."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stubbornly] I've been working these docks for twenty-three years without your help, and I'll be working them twenty-three more if you just leave me the hell alone, understand?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[pleading] You think I wanted this? You think I, uh, woke up one day and decided to flip? They had me on tape, Frank—five to ten years or wear a wire, those were my options."
+        },
+        {
+            "role": "Character 1",
+            "content": "Yeah well, you made your choice and now I'm making mine—I don't know anything, I don't want to know anything, and as far as I'm concerned, Tommy Rizzo died six months ago. [bitter laugh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Your son still work the night shift on Tuesdays? Because that's when they're planning to—look, I'm trying to protect you here, both of you."
+        },
+        {
+            "role": "Character 1",
+            "content": "[voice rising] Don't you dare bring Joey into this! You lost the right to care about my family when you started recording conversations in the break room, remembering who said what about which shipment."
+        },
+        {
+            "role": "Character 2",
+            "content": "I never gave them anything about you, Frank, not once—I kept your name out of everything even when they pressed me. [quietly] That's got to count for something."
+        },
+        {
+            "role": "Character 1",
+            "content": "It doesn't."
+        },
+        {
+            "role": "Character 2",
+            "content": "[desperately] They're bringing in twenty-two containers marked as industrial equipment but it's not equipment, it's—Christ, Frank, it's weapons. Automatic weapons going to, um, some militia group upstate. [sighs] When this goes bad, and it will, everyone on that pier becomes a federal witness or a corpse."
+        },
+        {
+            "role": "Character 1",
+            "content": "Then I guess I better make sure I'm sick that day, huh? Maybe come down with something real sudden-like, same as you came down with a bad case of conscience."
+        },
+        {
+            "role": "Character 2",
+            "content": "[wounded] That's not fair and you know it—I had a daughter to think about, medical bills that were drowning us, and no other way out."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softening slightly] Look, Tommy... I appreciate what you're trying to do here, I do. But you made your world and I've got mine, and they can't touch anymore, not even for five minutes. [exhales] You need to go."
+        },
+        {
+            "role": "Character 2",
+            "content": "Tuesday night, Pier 47, between two and four AM—just, uh, just remember that, okay? Make sure Joey calls in sick or something. Please."
+        },
+        {
+            "role": "Character 1",
+            "content": "[wearily] If I see you here again, I'll have to report it to Kellerman myself, you understand? That's not a threat, it's just... that's how things are now."
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] Take care of yourself, Tommy. And, um, thanks for the heads up about Tuesday, even though I definitely didn't hear anything about Tuesday from anybody, especially not from you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[small sad laugh] Never saw me, got it. Hey Frank? For what it's worth, I miss the old days—coffee at five AM, complaining about our backs, pretending we weren't getting too old for this shit. [pause] Stay safe, brother."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "c04d093a_scenario.json",
+    "actor": 6,
+    "scenario": "A former dock worker turned police informant risks everything to warn his old friend about a dangerous weapons smuggling operation planned for their pier.",
+    "type": "scenario_conversation",
+    "character_1_role": "dock worker",
+    "character_2_role": "informant",
+    "selected_tones": [
+        "stubborn",
+        "unwilling",
+        "caring"
+    ]
+}

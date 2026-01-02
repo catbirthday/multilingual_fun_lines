@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "Sorry, ich will dich echt nicht stören oder so, aber ich... ich musste einfach was sagen. [shy] Du erinnerst dich wahrscheinlich nicht, aber vorhin, als du deinen Latte bestellt hast, hast du mich angelächelt, als ich aus Versehen an deinen Stuhl gestoßen bin. [short pause] Und ich weiß, das klingt jetzt, ähm, total bekloppt von einer wildfremden Person, aber dieses Lächeln? [very sincerely] Das hat mir echt den Tag gerettet.\n\nAlso, ich wurde heute Morgen gefeuert. [sad] Ja, einfach so... aus dem Nichts, weißt du? 8 Jahre in der Firma und dann zack. [bitter] \"Budgetkürzungen,\" haben sie gesagt. [sigh] Und dann ist mein Auto in der Tiefgarage nicht angesprungen, also musste ich den Abschleppdienst rufen, und während ich gewartet hab, hat mir mein Ex geschrieben wegen—ach, ist auch egal. [laugh] Jedenfalls war einfach alles... am Arsch.\n\n[hesitantly] Als ich mich dann endlich hierher geschleppt hab, hab ich ehrlich gesagt dran gedacht, einfach alles hinzuschmeißen, na ja, alles halt. Aber dann hast du mich angelächelt. [warm] Nicht so ein höfliches Lächeln, sondern ein echtes, verstehst du? Als ob du mich wirklich als Mensch gesehen hast, nicht nur als irgendein Hindernis in deinem Weg. [emotional] Und da dachte ich, okay, wenn eine Fremde mir an ihrem ganz normalen Dienstag so eine Freundlichkeit zeigen kann, dann ist vielleicht... vielleicht doch nicht alles so hoffnungslos, wie es sich anfühlt. [relieved] Also, ähm, danke. Wirklich."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "I'm sorry, I don't mean to bother you or anything, but I just... I had to say something. [shy] You probably don't remember, but earlier when you were ordering your latte, you smiled at me when I accidentally bumped your chair. [short pause] And I know this sounds, um, really weird coming from a complete stranger, but that smile? [very sincerely] It literally saved my day. \n\nSee, I got laid off this morning. [sad] Yeah, just... out of nowhere, you know? Eight years at that company and then boom. [bitter] \"Budget cuts,\" they said. [sigh] And then my car wouldn't start in the parking garage, so I had to call a tow truck, and while I was waiting, my ex texted me about—actually, that doesn't even matter. [laugh] Point is, everything was just... falling apart.\n\n[hesitantly] So when I finally dragged myself in here, I was honestly thinking about just giving up on, well, everything. But then you smiled at me. [warm] Not like a polite smile, but a real one, you know? Like you actually saw me as a person, not just some obstacle in your way. [emotional] And I thought, okay, if a stranger can show me that kind of kindness on their random Tuesday, then maybe... maybe things aren't as hopeless as they feel. [relieved] So, um, thank you. Really."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "849a7292_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "A stranger at the coffee shop telling you that your smile made their terrible day better",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": false
+    }
+}

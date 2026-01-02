@@ -1,0 +1,93 @@
+=== Source: 4f7df375_script.json ===
+Language: European Spanish
+Gender: female
+Mode: en
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking why their autopay didn't process correctly
+
+=== Translated Dialogue ===
+
+Customer [en]: Good afternoon. I'm calling because my autopay didn't process this month and I received a late payment notice.
+
+Customer Support [en]: Thank you for contacting us. I apologize for the inconvenience. Let me pull up your account right away. May I have your account number or the phone number associated with your service?
+
+Customer [en]: My account number is 774-892-3011. This has never happened before in three years.
+
+Customer Support [en]: Thank you. I have your account here, showing a balance of $127.45 that was due on October 15th. I can see you've had autopay active since January 2021 without any previous issues.
+
+Customer [en]: Exactly. Please tell me what went wrong and how we fix this immediately.
+
+Customer Support [en]: I've identified the issue. Your payment method, the Visa ending in 4782, was declined with error code E401 indicating the card has expired. Our system attempted to process the payment three times between October 13th and 15th.
+
+Customer [en]: That card expired last month. I updated my payment information on October 10th through your website.
+
+Customer Support [en]: I see the update attempt here. Unfortunately, the CVV code 812 you entered didn't match what the bank has on file, so the system rejected the card update. You should have received an error notification to email address j.morrison@techcorp.com.
+
+Customer [en]: I never received that notification. This is completely unacceptable. What do we do now?
+
+Customer Support [en]: I understand your frustration. Let me resolve this immediately. First, I'm waiving the $35.00 late fee that was applied to your account. Now, would you like to update your payment method while I have you on the line?
+
+Customer [en]: Yes, please. And I need assurance this won't happen again.
+
+Customer Support [en]: Absolutely. I'm ready to process your new payment information. Please provide the sixteen-digit card number when you're ready.
+
+Customer [en]: The number is 5521-4000-8923-7715. It's a Mastercard that expires in December 2027.
+
+Customer Support [en]: Perfect. Now I'll need the three-digit CVV security code from the back of your card, and I'll also need to verify the billing ZIP code.
+
+Customer [en]: The CVV is 445 and the billing ZIP is 94105.
+
+Customer Support [en]: Excellent. I've successfully added your new Mastercard to the account and set it as the default for autopay. Your next automatic payment of $127.45 will process on November 15th at 12:01 AM Pacific time.
+
+Customer [en]: Good. Please process today's payment now and send me confirmation that everything is corrected.
+
+Customer Support [en]: Certainly. I'm processing the payment now. Transaction ID TXN-892743-QMP has been approved for $127.45. You'll receive an email confirmation within five minutes, and I'm also adding a note to flag your account for priority monitoring for the next three billing cycles.
+
+Customer [en]: Thank you. That's what I needed. Please ensure my autopay settings are locked in correctly.
+
+Customer Support [en]: Everything is confirmed and secure. Your autopay is scheduled for the 15th of each month, with email notifications going to j.morrison@techcorp.com three days before each payment. Is there anything else I can assist you with today?
+
+
+=== Original (English) ===
+
+Customer: Good afternoon. I'm calling because my autopay didn't process this month and I received a late payment notice.
+
+Customer Support: Thank you for contacting us. I apologize for the inconvenience. Let me pull up your account right away. May I have your account number or the phone number associated with your service?
+
+Customer: My account number is 774-892-3011. This has never happened before in three years.
+
+Customer Support: Thank you. I have your account here, showing a balance of $127.45 that was due on October 15th. I can see you've had autopay active since January 2021 without any previous issues.
+
+Customer: Exactly. Please tell me what went wrong and how we fix this immediately.
+
+Customer Support: I've identified the issue. Your payment method, the Visa ending in 4782, was declined with error code E401 indicating the card has expired. Our system attempted to process the payment three times between October 13th and 15th.
+
+Customer: That card expired last month. I updated my payment information on October 10th through your website.
+
+Customer Support: I see the update attempt here. Unfortunately, the CVV code 812 you entered didn't match what the bank has on file, so the system rejected the card update. You should have received an error notification to email address j.morrison@techcorp.com.
+
+Customer: I never received that notification. This is completely unacceptable. What do we do now?
+
+Customer Support: I understand your frustration. Let me resolve this immediately. First, I'm waiving the $35.00 late fee that was applied to your account. Now, would you like to update your payment method while I have you on the line?
+
+Customer: Yes, please. And I need assurance this won't happen again.
+
+Customer Support: Absolutely. I'm ready to process your new payment information. Please provide the sixteen-digit card number when you're ready.
+
+Customer: The number is 5521-4000-8923-7715. It's a Mastercard that expires in December 2027.
+
+Customer Support: Perfect. Now I'll need the three-digit CVV security code from the back of your card, and I'll also need to verify the billing ZIP code.
+
+Customer: The CVV is 445 and the billing ZIP is 94105.
+
+Customer Support: Excellent. I've successfully added your new Mastercard to the account and set it as the default for autopay. Your next automatic payment of $127.45 will process on November 15th at 12:01 AM Pacific time.
+
+Customer: Good. Please process today's payment now and send me confirmation that everything is corrected.
+
+Customer Support: Certainly. I'm processing the payment now. Transaction ID TXN-892743-QMP has been approved for $127.45. You'll receive an email confirmation within five minutes, and I'm also adding a note to flag your account for priority monitoring for the next three billing cycles.
+
+Customer: Thank you. That's what I needed. Please ensure my autopay settings are locked in correctly.
+
+Customer Support: Everything is confirmed and secure. Your autopay is scheduled for the 15th of each month, with email notifications going to j.morrison@techcorp.com three days before each payment. Is there anything else I can assist you with today?
+

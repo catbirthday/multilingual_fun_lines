@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Mira, llevo tres meses con facturas incorrectas. Esto se tiene que resolver hoy mismo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Le entiendo perfectamente. Déjeme que le busque la cuenta ahora mismo. ¿Me puede dar el número de cuenta o el teléfono asociado al servicio?"
+        },
+        {
+            "role": "Customer",
+            "content": "El número es el 555-0847. Trabajo en seguridad federal y no puedo permitirme cortes de servicio."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfecto. Ya tengo su cuenta localizada, referencia ACC-78294-MNP. Veo que efectivamente hay discrepancias de facturación recurrentes desde octubre. Voy a revisar cada cargo en detalle."
+        },
+        {
+            "role": "Customer",
+            "content": "Tengo documentado cada cargo incorrecto. Me estáis cobrando servicios premium que nunca he autorizado."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tiene toda la razón. Estoy viendo complementos premium no autorizados por un total de 47,99€ mensuales que se aplicaron incorrectamente a su cuenta desde el 15 de octubre, códigos de transacción TXN-9847-A hasta TXN-9847-C."
+        },
+        {
+            "role": "Customer",
+            "content": "Exacto. Necesito que se reviertan esos cargos y que se corrija mi cuenta de aquí en adelante."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Le proceso ahora mismo el reembolso completo de 143,97€, que cubre los tres meses. El número de confirmación del reembolso es REF-20241-KLM y lo recibirá en 3-5 días hábiles."
+        },
+        {
+            "role": "Customer",
+            "content": "Bien. ¿Cómo me aseguro de que esto no vuelve a pasar? No tengo tiempo para disputas de facturación todos los meses."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Le entiendo completamente. Voy a añadir un bloqueo de servicio a su cuenta con el código de protección PRT-5502-LOCK, que impide cualquier modificación sin su autorización directa a través de nuestro sistema de verificación."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Y qué pasa con los recargos por demora de cuando disputé los cargos y retuve el pago?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Le anulo todos los recargos por demora ahora mismo. Son 45€ adicionales de crédito, referencia CRD-8831-WV. Su cuenta también recibirá estado de revisión prioritaria de facturación de ahora en adelante."
+        },
+        {
+            "role": "Customer",
+            "content": "Necesito confirmación por escrito de todo lo que hemos hablado enviada a mi email hoy."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sin problema. Le genero un documento resumen completo ahora mismo, número de caso CSE-77429-BIL. Lo recibirá en su email registrado en los próximos treinta minutos con todas las confirmaciones de reembolso y modificaciones de cuenta."
+        },
+        {
+            "role": "Customer",
+            "content": "Una cosa más. Vuestro departamento de facturación me colgó dos veces ayer cuando llamé por esto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Le pido disculpas sinceramente por esa experiencia. Voy a presentar una queja de servicio con el ticket SVC-9982-ESC y le abono 25€ adicionales en su cuenta por las molestias que ha tenido."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale. ¿Me puedes garantizar que mi próxima factura será correcta con la tarifa base de 79,99€?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sí, se lo garantizo. Su próxima factura del 15 de enero reflejará exactamente 79,99€. También voy a asignar su cuenta al equipo especialista STM-4429 durante los próximos seis meses para asegurar la precisión."
+        },
+        {
+            "role": "Customer",
+            "content": "Me parece aceptable. Mándame el número directo para contactar con vuestro departamento si hay algún problema."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Nuestra línea prioritaria directa es el 1-888-555-0200, extensión 4429. Use la referencia del caso CSE-77429-BIL si necesita volver a llamar. ¿Hay algo más en lo que le pueda ayudar hoy?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I've been incorrectly billed for three months straight. This needs to be resolved today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your frustration. Let me pull up your account immediately. May I have your account number or the phone number associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "The number is 555-0847. I work in federal security and cannot have service interruptions."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account, reference number ACC-78294-MNP. I can see there have been recurring billing discrepancies since October. Let me review each charge in detail."
+        },
+        {
+            "role": "Customer",
+            "content": "I've documented every incorrect charge. You've been billing me for premium services I never authorized."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right. I'm seeing unauthorized premium add-ons totaling $47.99 monthly that were incorrectly applied to your account starting October 15th, transaction codes TXN-9847-A through TXN-9847-C."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. I need those charges reversed and my account corrected going forward."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm processing the full refund now for $143.97, which covers all three months. The refund confirmation number is REF-20241-KLM and you'll receive it within 3-5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. How do I ensure this doesn't happen again? I don't have time for monthly billing disputes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand. I'm adding a service lock to your account with protection code PRT-5502-LOCK, which prevents any modifications without your direct authorization through our verification system."
+        },
+        {
+            "role": "Customer",
+            "content": "What about the late fees from when I disputed the charges and withheld payment?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm waiving all late fees immediately. That's an additional $45.00 credit, reference number CRD-8831-WV. Your account will also receive priority billing review status going forward."
+        },
+        {
+            "role": "Customer",
+            "content": "I need written confirmation of everything we've discussed sent to my email today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm generating a comprehensive summary document now, case number CSE-77429-BIL. You'll receive it at your registered email within the next thirty minutes with all refund confirmations and account modifications."
+        },
+        {
+            "role": "Customer",
+            "content": "One more thing. Your billing department hung up on me twice yesterday when I called about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize for that experience. I'm filing a service complaint under ticket SVC-9982-ESC and crediting your account an additional $25 for the inconvenience you've experienced."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. Can you guarantee my next bill will be correct at the base rate of $79.99?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, I can guarantee that. Your next bill dated January 15th will reflect exactly $79.99. I'm also assigning your account to specialist team STM-4429 for the next six months to ensure accuracy."
+        },
+        {
+            "role": "Customer",
+            "content": "That's acceptable. Send me the direct number to reach your department if there are any issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Our direct priority line is 1-888-555-0200, extension 4429. Reference case number CSE-77429-BIL if you need to call back. Is there anything else I can resolve for you today?"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4496d110_script.json",
+    "professionalism": "professional",
+    "scenario": "airport security officer, dealing with TSA bureaucracy at work and now in personal billing too",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "businesslike_direct",
+                "matter_of_fact"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "steadily_composed",
+                "briskly_efficient"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[quietly] Je regarde sans cesse ses croquis, ces petites notes dans les marges. [pause] 3 semaines avant l'accident, il a dessiné exactement ce coucher de soleil—il disait que ça devait être ambré, pas orange, because it was about memory, not reality. [sigh] Sa femme a encore appelé aujourd'hui. [warm] Elle insiste pas, elle... elle demande juste comment ça avance, elle me dit qu'il y a pas d'urgence. Mais je l'entends dans sa voix, tu sais? [empathetically] Elle en a besoin. [slowly] Les enfants ont besoin de voir ce que leur père essayait de dire. [frustrated] Putain, j'aimerais tellement pouvoir lui demander—est-ce que cette couche est trop lourde? [quietly] Tu aurais voulu plus de texture dans les nuages ici? [pause] Je suis en train de peindre le rêve de quelqu'un d'autre, j'essaie de, euh... j'essaie de canaliser une vision qui n'est pas la mienne. [passionate] Mais je l'ai connu pendant 15 ans! [confidently] Je sais comment il pensait la lumière, how he'd build a scene from the emotional core outward. [shaky voice] Cette dernière image, c'est censé être l'espoir après la dévastation. [crying while speaking] Et je crois que j'y arrive parce que quand je prends du recul, I can feel what he wanted us to feel. [very quietly] Demain je leur montre. [relieved] Demain sa famille va enfin voir son adieu."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[quietly] I keep looking at his sketches, these little notes in the margins. [pause] Three weeks before the accident, he drew this exact sunset—said it had to be amber, not orange, because it was about memory, not reality. [sigh] His wife called again today. [warm] She doesn't push, she just... asks how it's going, tells me there's no rush. But I hear it in her voice, you know? [empathetically] She needs this. [slowly] The kids need to see what their dad was trying to say. [frustrated] God, I wish I could just ask him—is this layer too heavy? [quietly] Would you have wanted more texture in the clouds here? [pause] I'm painting someone else's dream, trying to, um... trying to channel a vision that isn't mine. [passionate] But I knew him for fifteen years! [confidently] I know how he thought about light, how he'd build a scene from the emotional core outward. [shaky voice] This final frame, it's supposed to be hope after devastation. [crying while speaking] And I think I'm getting it right because when I step back, I can feel what he wanted us to feel. [very quietly] Tomorrow I'll show them. [relieved] Tomorrow his family gets to see his goodbye."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "08e3be1e_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your matte painter background bringing a deceased director's final vision to life for their family",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

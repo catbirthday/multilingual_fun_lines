@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to change my—my address everywhere, pis je sais pas où commencer, y'a—y'a tellement de places."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so we're gonna tackle this together, okay? Sortez votre compte A4429-BK7, je vais vous guider pour chaque service."
+        },
+        {
+            "role": "Customer",
+            "content": "But what if I—what if I miss one? Quelque chose d'important? J'arrête pas de penser à mes prescriptions pis pis ma banque—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, breathe. Alors en gros, euh, j'ai votre profil ici qui montre 6 services actifs. On va tous les faire, promis."
+        },
+        {
+            "role": "Customer",
+            "content": "Six? C'est... attendez, c'est tout ça? Parce que j'ai aussi le—le programme de récompenses."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's service 4 of 6. Récompenses ID RWD-88271-Q, alors genre, euh, on va commencer par la facturation en premier, ensuite médical, ensuite récompenses. Systématique."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay. Celui de la facturation, c'est l'urgent, right? Ou attendez—attendez, est-ce que médical c'est plus urgent?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Medical's critical, yeah. Alors, euh, je mets à jour ça maintenant au 4782 rue Oak, unité 12B. Effectif le 1er novembre, c'est fait."
+        },
+        {
+            "role": "Customer",
+            "content": "November first? Mais je déménage—je déménage le 28 octobre, trois jours, qu'est-ce qui arrive avec ces trois jours-là?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, we're backdating it. Le 28 octobre, c'est réglé, fait que vos alertes de prescription, euh, elles vont être acheminées correctement. Le prochain c'est la facturation, compte BIL-9944-XJ."
+        },
+        {
+            "role": "Customer",
+            "content": "The alerts... J'en reçois pas, ça c'est—c'est un autre problème. Est-ce qu'elles vont à l'ancien courriel?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, checking... Ouais ouais, ancien courriel, alors ce que je—je fais là c'est mettre à jour les deux. Nouvelle adresse plus, euh, nouveau courriel, c'est quoi le nouveau?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's sarah dot chen at... Non attendez, Sarah underscore chen, à proton mail point com."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Sarah_chen@protonmail.com pour les 6 services, alors genre, euh, votre relevé de points de récompenses pour octobre, code RWD-88271-Q, ça se redirige maintenant."
+        },
+        {
+            "role": "Customer",
+            "content": "All six? T'es sûr? Parce que je peux pas—je peux pas dealer avec manquer quelque chose d'important encore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen. On va—on va rien manquer, d'accord? Alors, euh, j'ai l'expédition de mise à jour, référence SHP-7263. Médical c'est fait, facturation c'est fait, trois de faits."
+        },
+        {
+            "role": "Customer",
+            "content": "Three. D'accord, trois de faits, pis pour... mon Dieu je suis tellement tanné de ça."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Almost there. Alors en gros, euh, service 4 c'est les récompenses—fait. Service 5, votre protection de garantie WAR-5540-L, je mets à jour maintenant, il en reste un."
+        },
+        {
+            "role": "Customer",
+            "content": "Just... dis-moi juste quand c'est fini."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done. Les 6 services sont mis à jour, effectif le 28 octobre 2024, alors genre, euh, checkez votre courriel—j'envoie le numéro de confirmation CNF-9984-KT2 là maintenant."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to change my—my address everywhere and I don't know where to start, there's there's so many places."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. So we're gonna tackle this together, okay? Pull up your account A4429-BK7. I'll walk you through each service."
+        },
+        {
+            "role": "Customer",
+            "content": "But what if I—what if I miss one? Something important? I keep thinking about my prescriptions and and my bank—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, breathe. So basically, um, I've got your profile here showing 6 active services. We'll hit them all. Promise."
+        },
+        {
+            "role": "Customer",
+            "content": "Six? That's... Wait. Is that everything? Because I also have the—the rewards program."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's service 4 of 6. Rewards ID RWD-88271-Q. So like, er, let's start with billing first, then medical, then rewards. Systematic."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay. The billing one. That's the urgent one right? Or wait—wait is medical more urgent?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Medical's critical, yeah. So, um, updating that now to 4782 Oak Street, unit 12B. Effective November 1st. Done."
+        },
+        {
+            "role": "Customer",
+            "content": "November first? But I'm moving—I'm moving October twenty-eighth. Three days. What about those three days?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, we're backdating it. October 28th. Fixed. So basically your prescription alerts, uh, they'll route correctly. Next is billing, account BIL-9944-XJ."
+        },
+        {
+            "role": "Customer",
+            "content": "The alerts... I haven't been getting them. That's—that's another problem. Are they going to the old email?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, checking... Yeah yeah, old email. So what I'm—I'm doing is updating both. New address plus, er, new email. What's the updated one?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's sarah dot chen at... No wait. Sarah underscore chen. At proton mail dot com."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Sarah_chen@protonmail.com across all 6 services. So like, um, your rewards points statement for October, code RWD-88271-Q, that's rerouting now."
+        },
+        {
+            "role": "Customer",
+            "content": "All six? You're sure? Because I can't—I can't deal with missing something important again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen. We're—we're not missing anything, alright? So, er, I've got shipping updated, reference SHP-7263. Medical's done. Billing's done. Three down."
+        },
+        {
+            "role": "Customer",
+            "content": "Three. Okay. Three down. What about... God I'm so tired of this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Almost there. So basically, uh, service 4 is rewards—done. Service 5, your warranty protection WAR-5540-L, updating now. One left."
+        },
+        {
+            "role": "Customer",
+            "content": "Just... just tell me when it's over."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done. All 6 services updated. Effective October 28th, 2024. So like, um, check your email—I'm sending confirmation number CNF-9984-KT2 right now."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "07567652_script.json",
+    "professionalism": "casual",
+    "scenario": "trying to update contact information across multiple services",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "panicked_spiral",
+                "exhausted_worn"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "determined_advocate",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

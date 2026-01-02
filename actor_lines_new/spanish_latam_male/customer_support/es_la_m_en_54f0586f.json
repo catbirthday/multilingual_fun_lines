@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I've been trying to reach billing for two hours but keep getting disconnected during transfers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize for that frustrating experience. Let me personally handle your billing inquiry today without any transfers. May I have your account number to pull up your information?"
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. It's 557-921-348. This is my fourth attempt today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration, and I appreciate your patience. I have your account 557-921-348 pulled up here, and I can see three incomplete service tickets from today. What billing issue can I resolve for you?"
+        },
+        {
+            "role": "Customer",
+            "content": "I received a charge for $285 that doesn't match my service agreement."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the charge you're referring to. It posted on November 2nd with reference number CHG-285-11A and appears to be for premium support services. Let me review your service agreement details."
+        },
+        {
+            "role": "Customer",
+            "content": "My agreement specifically states premium support is included at no additional cost."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely correct. I'm looking at your enterprise agreement EA-2024-7739, and premium support is indeed included in your base package. This charge should never have been applied."
+        },
+        {
+            "role": "Customer",
+            "content": "I expected this would be straightforward, but the disconnections have made it incredibly difficult."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "When can I expect this to be corrected?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm processing the reversal right now with authorization code REV-445892-XK. The $285 credit will appear on your account within 24 hours, and you'll receive an email confirmation within the next fifteen minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful. Can you also ensure this doesn't happen again next month?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm adding a permanent billing exception note BX-7754 to your account that flags premium support as included. Our billing system will automatically bypass any charges for this service going forward."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate you handling this directly. The previous representatives seemed unfamiliar with enterprise accounts."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely, and I apologize that you weren't immediately connected to our enterprise support team. I'm noting in ticket TSK-918847 that all future calls should route directly to enterprise specialists who are familiar with your agreement type."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be an improvement. Please also document the time I've spent on this issue today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I've documented four call attempts totaling 127 minutes in your service record under incident INC-20241105-332. This will be reviewed by our service quality team, and you should expect a follow-up within 48 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for resolving this efficiently. I'd like a direct number if I have future issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm providing you with our enterprise priority line at 800-555-1847 extension 4429. You can also reach me directly at extension 7621, and I've sent these details along with your case summary to your email on file."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I've been trying to reach billing for two hours but keep getting disconnected during transfers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize for that frustrating experience. Let me personally handle your billing inquiry today without any transfers. May I have your account number to pull up your information?"
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. It's 557-921-348. This is my fourth attempt today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration, and I appreciate your patience. I have your account 557-921-348 pulled up here, and I can see three incomplete service tickets from today. What billing issue can I resolve for you?"
+        },
+        {
+            "role": "Customer",
+            "content": "I received a charge for $285 that doesn't match my service agreement."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the charge you're referring to. It posted on November 2nd with reference number CHG-285-11A and appears to be for premium support services. Let me review your service agreement details."
+        },
+        {
+            "role": "Customer",
+            "content": "My agreement specifically states premium support is included at no additional cost."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely correct. I'm looking at your enterprise agreement EA-2024-7739, and premium support is indeed included in your base package. This charge should never have been applied."
+        },
+        {
+            "role": "Customer",
+            "content": "I expected this would be straightforward, but the disconnections have made it incredibly difficult."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "When can I expect this to be corrected?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm processing the reversal right now with authorization code REV-445892-XK. The $285 credit will appear on your account within 24 hours, and you'll receive an email confirmation within the next fifteen minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful. Can you also ensure this doesn't happen again next month?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm adding a permanent billing exception note BX-7754 to your account that flags premium support as included. Our billing system will automatically bypass any charges for this service going forward."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate you handling this directly. The previous representatives seemed unfamiliar with enterprise accounts."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely, and I apologize that you weren't immediately connected to our enterprise support team. I'm noting in ticket TSK-918847 that all future calls should route directly to enterprise specialists who are familiar with your agreement type."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be an improvement. Please also document the time I've spent on this issue today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I've documented four call attempts totaling 127 minutes in your service record under incident INC-20241105-332. This will be reviewed by our service quality team, and you should expect a follow-up within 48 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for resolving this efficiently. I'd like a direct number if I have future issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm providing you with our enterprise priority line at 800-555-1847 extension 4429. You can also reach me directly at extension 7621, and I've sent these details along with your case summary to your email on file."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "54f0586f_script.json",
+    "professionalism": "professional",
+    "scenario": "frustrated because they keep getting disconnected every time they're transferred",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "graciously_disappointed",
+                "politely_firm"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "attentively_engaged",
+                "formally_courteous"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

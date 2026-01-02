@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Я звоню по поводу заявки номер 48291. Эта проблема с выставлением счетов тянется уже три недели."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Спасибо за звонок. Так, у меня тут ваша заявка 48291 открыта, и я вижу, что переписка идёт обширная с 15 октября. Давайте я сейчас всю историю просмотрю, чтобы мы это сегодня точно решили."
+        },
+        {
+            "role": "Customer",
+            "content": "Я уже разговаривал с четырьмя разными операторами и каждому отправлял одни и те же документы."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Я полностью понимаю, как это выматывает — постоянно одно и то же повторять. Вижу тут загрузки от 18-го, 22-го и 27-го октября, все показывают двойное списание по счёту INV-7739-Q2. Давайте я лично этим займусь прямо сейчас от начала до конца."
+        },
+        {
+            "role": "Customer",
+            "content": "Двойное списание на 2847 долларов. Это нужно убрать до нашего аудита на следующей неделе."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Безусловно. Я это сейчас же передаю в отдел корректировки счетов с приоритетным кодом P1-URGENT-2847. Подтверждение придёт в течение часа, и кредит будет зачислен на счёт 55B9012 до конца рабочего дня."
+        },
+        {
+            "role": "Customer",
+            "content": "Мне нужно это письменно. Последние два раза обещали решить — и ничего не вышло."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Конечно. Я прямо сейчас оформляю официальную документацию с референсным номером DOC-8847-CREDIT. Вы получите это по электронной почте на адрес, который у нас указан, в течение десяти минут."
+        },
+        {
+            "role": "Customer",
+            "content": "Можете подтвердить, на какой именно адрес вы это отправляете?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Разумеется. Я отправлю на krenner@techcorp.com — это основной контактный email для счёта 55B9012. Это правильный адрес для документации?"
+        },
+        {
+            "role": "Customer",
+            "content": "Да, правильный. Что конкретно будет включать этот документ о кредите?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "В документации будет полная сумма кредита 2847 долларов, номер исходного счёта INV-7739-Q2, сегодняшняя дата обработки и мой прямой добавочный 4412 для любых вопросов. Это также будет служить официальным подтверждением для вашего аудита."
+        },
+        {
+            "role": "Customer",
+            "content": "А если это не решится к концу рабочего дня, как вы обещали?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Понимаю ваше беспокойство, учитывая прошлые задержки. Если по какой-то причине это не будет выполнено сегодня, я лично позвоню вам до 16:30 по восточному времени со статусом и подключу директора департамента для немедленного решения."
+        },
+        {
+            "role": "Customer",
+            "content": "Мне также нужно подтверждение, что это не повлияет на продление нашего сервиса в следующем месяце."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Я сделал пометку в вашем аккаунте, что эта корректировка счёта никак не связана с продлением. Дата вашего продления 1 декабря остаётся без изменений, и я поставил флажок на счёте 55B9012, чтобы гарантировать отсутствие перебоев в обслуживании, пока мы обрабатываем этот кредит."
+        },
+        {
+            "role": "Customer",
+            "content": "Хорошо. Можете также снять все штрафы за просрочку, которые накопились за эти три недели?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Абсолютно, это более чем справедливо в данных обстоятельствах. Я снимаю все штрафы за просрочку на общую сумму 284,15 долларов, которые накопились с 15 октября по сегодняшний день. Это снятие появится отдельной строкой с кодом WAIVE-LF-8847 в вашей следующей выписке."
+        },
+        {
+            "role": "Customer",
+            "content": "Спасибо. Буду ждать подтверждение по почте в ближайшие десять минут."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Отлично. Вы получите документацию на krenner@techcorp.com совсем скоро, и я лично прослежу, чтобы кредит в 2847 долларов был зачислен сегодня. Меня зовут Сара Чен, и вы можете связаться со мной напрямую по добавочному 4412, если что-то ещё понадобится."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling about ticket number 48291. This billing issue has been ongoing for three weeks now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for calling. I have your ticket 48291 pulled up here, and I can see there's been extensive correspondence since October 15th. Let me review the full history to ensure we resolve this today."
+        },
+        {
+            "role": "Customer",
+            "content": "I've spoken with four different representatives and provided the same documentation each time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration with having to repeat this process. I can see the uploads here from October 18th, 22nd, and 27th, all showing the duplicate charges on invoice INV-7739-Q2. Let me personally handle this from start to finish right now."
+        },
+        {
+            "role": "Customer",
+            "content": "The duplicate charge is for $2,847. It needs to be removed before our audit next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm escalating this immediately to our billing corrections team with priority code P1-URGENT-2847. You'll receive confirmation within the hour, and the credit will be applied to account 55B9012 before close of business today."
+        },
+        {
+            "role": "Customer",
+            "content": "I need this in writing. The last two promised resolutions never materialized."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm generating formal documentation right now with reference number DOC-8847-CREDIT. You'll receive this via email at the address we have on file within the next ten minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you confirm which email address you're sending that to?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'll be sending it to krenner@techcorp.com, which is the primary contact email on account 55B9012. Is that still the correct address for this documentation?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, that's correct. What exactly will this credit documentation include?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The documentation will include the full credit amount of $2,847, the original invoice number INV-7739-Q2, today's processing date, and my direct extension 4412 for any follow-up questions. It will also serve as official confirmation for your audit requirements."
+        },
+        {
+            "role": "Customer",
+            "content": "And if this isn't resolved by end of business today as you've promised?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern given the previous delays. If for any reason this isn't completed today, I'll personally call you by 4:30 PM Eastern with a status update and will involve our department director to ensure immediate resolution."
+        },
+        {
+            "role": "Customer",
+            "content": "I also need confirmation that this won't affect our service renewal next month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've made a note on your account that this billing correction is completely separate from your renewal. Your renewal date of December 1st remains unchanged, and I've flagged account 55B9012 to ensure no service interruptions while we process this credit."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you also waive any late fees that accumulated during this three-week period?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, that's more than fair given the circumstances. I'm removing all late fees totaling $284.15 that accumulated between October 15th and today. This waiver will appear as a separate line item with code WAIVE-LF-8847 on your next statement."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. I'll be watching for that email confirmation within the next ten minutes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. You'll receive the documentation at krenner@techcorp.com shortly, and I'll personally monitor this to ensure the $2,847 credit posts today. My name is Sarah Chen, and you can reach me directly at extension 4412 if you need anything else."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6317e92a_script.json",
+    "professionalism": "professional",
+    "scenario": "exhausted after dealing with this for weeks and just wants it to be over",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "professionally_assertive",
+                "respectfully_urgent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "attentively_engaged",
+                "steadily_composed"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

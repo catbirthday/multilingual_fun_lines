@@ -1,0 +1,93 @@
+=== Source: 617bd8bf_script.json ===
+Language: Latin American Spanish
+Gender: female
+Mode: en
+Content Type: customer_support
+Professionalism: professional
+Scenario: school counselor, trying to help a student but also needing to fix her own insurance bill
+
+=== Translated Dialogue ===
+
+Customer [en]: Good afternoon. I need to resolve an incorrect charge on my health insurance bill from last month.
+
+Customer Support [en]: Good afternoon, and thank you for calling Premier Health Insurance. I'd be happy to help you resolve that billing issue today. May I have your member ID number to access your account?
+
+Customer [en]: Yes, it's PHI-78234-9901. The issue is a duplicate charge for my October premium.
+
+Customer Support [en]: Thank you. I'm pulling up account PHI-78234-9901 now, and I can see your payment history for the past six months. You're absolutely right about the duplicate charge of $487.50 on October 15th.
+
+Customer [en]: Exactly. I've already paid the premium through automatic withdrawal. This second charge shouldn't be there.
+
+Customer Support [en]: I completely understand your concern, and I apologize for this error. I can see your autopay processed successfully on October 1st for $487.50, and there was indeed an erroneous manual charge on October 15th from batch process ERR-10152024-B7.
+
+Customer [en]: I need this reversed immediately. It's affecting my ability to pay other bills this month.
+
+Customer Support [en]: Absolutely. I'm initiating an immediate reversal right now through our priority refund system, reference number REF-2024-78234. The full $487.50 will be credited back to your account ending in 4782 within 24 to 48 hours.
+
+Customer [en]: Good. Will I receive written confirmation of this correction and the refund?
+
+Customer Support [en]: Certainly. You'll receive an email confirmation within the next hour to your registered email address, and I'm also sending a formal letter with case number CS-112024-0987 that will arrive within 3 to 5 business days.
+
+Customer [en]: I also want to ensure this won't happen again. What caused this error?
+
+Customer Support [en]: I can see the issue originated from a system update on October 14th that affected 127 accounts in your region. We've already implemented patch version 3.7.2 to prevent any recurrence, and I'm adding a flag to your account for additional monitoring.
+
+Customer [en]: Thank you. Can you also verify my autopay is set up correctly for future payments?
+
+Customer Support [en]: Of course. Your autopay is confirmed active for the first of each month from checking account ending in 4782, next scheduled payment of $487.50 on December 1st, 2024. Everything is configured correctly in our system.
+
+Customer [en]: Perfect. One last thing - I need an itemized statement showing this correction for my records.
+
+Customer Support [en]: I'd be happy to provide that. I'm generating a detailed statement now showing the October 1st payment, the erroneous October 15th charge, and today's reversal with timestamp 14:32:07 EST. Would you prefer this emailed or mailed?
+
+Customer [en]: Email is fine. Please send it to the same address you have on file.
+
+Customer Support [en]: Perfect. The itemized statement with reference number DOC-78234-1124 has been sent to your email. Is there anything else I can help you with regarding your account today?
+
+Customer [en]: No, that covers everything. Thank you for handling this efficiently.
+
+Customer Support [en]: You're very welcome. Thank you for bringing this to our attention, and I apologize again for the inconvenience. Your refund tracking number is REF-2024-78234, and please don't hesitate to call us at 1-800-555-7823 if you need anything else.
+
+
+=== Original (English) ===
+
+Customer: Good afternoon. I need to resolve an incorrect charge on my health insurance bill from last month.
+
+Customer Support: Good afternoon, and thank you for calling Premier Health Insurance. I'd be happy to help you resolve that billing issue today. May I have your member ID number to access your account?
+
+Customer: Yes, it's PHI-78234-9901. The issue is a duplicate charge for my October premium.
+
+Customer Support: Thank you. I'm pulling up account PHI-78234-9901 now, and I can see your payment history for the past six months. You're absolutely right about the duplicate charge of $487.50 on October 15th.
+
+Customer: Exactly. I've already paid the premium through automatic withdrawal. This second charge shouldn't be there.
+
+Customer Support: I completely understand your concern, and I apologize for this error. I can see your autopay processed successfully on October 1st for $487.50, and there was indeed an erroneous manual charge on October 15th from batch process ERR-10152024-B7.
+
+Customer: I need this reversed immediately. It's affecting my ability to pay other bills this month.
+
+Customer Support: Absolutely. I'm initiating an immediate reversal right now through our priority refund system, reference number REF-2024-78234. The full $487.50 will be credited back to your account ending in 4782 within 24 to 48 hours.
+
+Customer: Good. Will I receive written confirmation of this correction and the refund?
+
+Customer Support: Certainly. You'll receive an email confirmation within the next hour to your registered email address, and I'm also sending a formal letter with case number CS-112024-0987 that will arrive within 3 to 5 business days.
+
+Customer: I also want to ensure this won't happen again. What caused this error?
+
+Customer Support: I can see the issue originated from a system update on October 14th that affected 127 accounts in your region. We've already implemented patch version 3.7.2 to prevent any recurrence, and I'm adding a flag to your account for additional monitoring.
+
+Customer: Thank you. Can you also verify my autopay is set up correctly for future payments?
+
+Customer Support: Of course. Your autopay is confirmed active for the first of each month from checking account ending in 4782, next scheduled payment of $487.50 on December 1st, 2024. Everything is configured correctly in our system.
+
+Customer: Perfect. One last thing - I need an itemized statement showing this correction for my records.
+
+Customer Support: I'd be happy to provide that. I'm generating a detailed statement now showing the October 1st payment, the erroneous October 15th charge, and today's reversal with timestamp 14:32:07 EST. Would you prefer this emailed or mailed?
+
+Customer: Email is fine. Please send it to the same address you have on file.
+
+Customer Support: Perfect. The itemized statement with reference number DOC-78234-1124 has been sent to your email. Is there anything else I can help you with regarding your account today?
+
+Customer: No, that covers everything. Thank you for handling this efficiently.
+
+Customer Support: You're very welcome. Thank you for bringing this to our attention, and I apologize again for the inconvenience. Your refund tracking number is REF-2024-78234, and please don't hesitate to call us at 1-800-555-7823 if you need anything else.
+

@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Bonjour, euh, y'a ce truc? Sur ma carte? D'un endroit où j'ai jamais mis les pieds."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, je peux certainement vous aider avec ça. Laissez-moi sortir votre compte... okay, alors j'aurais besoin de votre numéro de carte, euh, les quatre derniers chiffres s'il vous plaît?"
+        },
+        {
+            "role": "Customer",
+            "content": "C'est 7829. Hmm, attendez voir... ouais, Store Depot? Jamais entendu parler."
+        },
+        {
+            "role": "Customer",
+            "content": "Je vois ce débit là, euh, 487,23$ de Store Depot le 15 janvier. Ça doit vraiment être inquiétant de voir quelque chose que vous reconnaissez pas, surtout pour ce montant-là."
+        },
+        {
+            "role": "Customer",
+            "content": "Écoutez, je—je vis d'une paye à l'autre. J'peux pas me permettre une fraude maintenant."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je comprends complètement, et on va régler ça ensemble, d'accord? Alors ce que je fais, c'est, hmm, j'ouvre une contestation—c'est le dossier numéro DSP-2025-847M—et on va vous arranger ça."
+        },
+        {
+            "role": "Customer",
+            "content": "Attendez donc ça veut dire... comment on dit... crédit provisoire? J'vais avoir ça?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oui, exactement! Pendant qu'on enquête, vous allez recevoir un crédit temporaire dans, euh, 24 à 48 heures. Le montant complet, 487,23$, va retourner dans votre compte."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh mon Dieu. Okay. Mon loyer est dû—non attendez, c'est la semaine prochaine. Mais quand même."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ça va aller, je vous promets. Laissez-moi aussi, euh, laissez-moi vérifier s'il y a d'autres frais de ce marchand... non, juste cette transaction-là le 15/01 à 15h47."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, et s'ils... genre ils pourraient avoir mon numéro au complet?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "C'est une très bonne question. Ce que je recommanderais c'est, euh, on peut vous envoyer une nouvelle carte—livraison express, donc elle arrive dans 2-3 jours ouvrables à votre adresse enregistrée, appartement 4B, c'est ça?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ouais. Merde. Je viens de commencer ce job. J'peux pas avoir ce bordel."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je vous comprends, commencer un nouveau travail c'est déjà assez stressant sans ça. Alors je commande cette carte de remplacement maintenant—en fait attendez, laissez-moi upgrader ça en livraison le lendemain sans frais, numéro de tracking TRK-5598-QV2."
+        },
+        {
+            "role": "Customer",
+            "content": "Vous pouvez faire ça? Genre... okay donc ça veut dire demain?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolument, avant 10h30 demain matin. Et juste pour que vous sachiez, euh, votre carte actuelle va fonctionner jusqu'à ce que vous activiez la nouvelle, donc vous êtes pas coincée sans accès à vos fonds."
+        },
+        {
+            "role": "Customer",
+            "content": "Laissez-moi voir... est-ce que je devrais appeler mes autres banques? Tout vérifier?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "C'est vraiment intelligent de penser à ça, ouais. Je suggérerais aussi de configurer des alertes de transaction—je peux activer ça maintenant si vous voulez, ça va vous texter pour n'importe quel achat au-dessus de, hmm, quel montant vous conviendrait?"
+        },
+        {
+            "role": "Customer",
+            "content": "Vingt? Non attendez—cinquante. Cinquante dollars."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Parfait, les alertes sont configurées pour tout ce qui dépasse 50,00$. Votre référence de contestation encore c'est DSP-2025-847M, et honnêtement? Vous avez fait exactement ce qu'il fallait en nous appelant tout de suite."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, um, there's this charge? On my card? From somewhere I've never been."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I can definitely help you with that. Let me pull up your account here... okay, so I'll need your card number ending in, uh, the last four digits please?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 7829. Hmm, let me think... yeah, Store Depot? Never heard of it."
+        },
+        {
+            "role": "Customer",
+            "content": "I see that charge right here, er, $487.23 from Store Depot on January 15th. That must be really concerning to see something you don't recognize, especially for that amount."
+        },
+        {
+            "role": "Customer",
+            "content": "Look, I just—I'm living paycheck to paycheck. Can't afford fraud right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand, and we're going to figure this out together, okay? So what I'm doing is, hmm, initiating a dispute claim—that's claim number DSP-2025-847M—and we'll get this sorted for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait so that means... what's the word... provisional credit? Do I get that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, exactly! While we investigate, you'll receive a temporary credit within, uh, 24 to 48 hours. The full amount, $487.23, will go back into your account."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh God. Okay. My rent's due—no wait, that's next week. Still though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's going to be okay, I promise. Let me also, er, let me check if there are any other charges from this merchant... nope, just the one transaction on 01/15 at 3:47 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if they... I mean could they have my whole number?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's a really good question. What I'd recommend is, um, we can send you a new card—express shipping, so it arrives in 2-3 business days to your address on file, apartment 4B, right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. God. Just started this job. Can't have this mess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, starting a new job is stressful enough without this. So I'm ordering that replacement card now—actually wait, let me upgrade that to overnight delivery at no charge, tracking number TRK-5598-QV2."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? I mean... okay so that means tomorrow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, by 10:30 AM tomorrow. And just so you know, er, your current card will work until you activate the new one, so you're not stuck without access to your funds."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... should I call my other banks? Check everything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's actually really smart thinking, yeah. I'd also suggest setting up transaction alerts—I can enable those right now if you'd like, they'll text you for any charge over, hmm, what amount would work for you?"
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty? No wait—fifty. Fifty dollars."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, alerts are set for anything over $50.00. Your dispute reference again is DSP-2025-847M, and honestly? You handled this exactly right by calling us immediately."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "0e370d38_script.json",
+    "professionalism": "casual",
+    "scenario": "young professional, anxious about a credit card charge from a store she's never visited",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "vulnerable_trusting",
+                "desperate_pleading"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "word_searching",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "gently_reassuring",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

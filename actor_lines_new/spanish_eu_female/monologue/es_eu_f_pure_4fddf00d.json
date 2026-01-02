@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] ¡Dios mío, ha salido adelante! De verdad que—lo hemos conseguido. La ley de financiación artística, es... [exhales] Joder, no me lo puedo creer. Tres años. Tres años de reuniones y borradores y, eh, discutiendo con los del comité de presupuestos que no paraban de decir que no había suficiente dinero. [passionate] Pero siempre hay dinero, ¿no? Es que es cuestión de qué decidimos priorizar, ¿sabes?\n\nY la senadora Martínez, ella era... pues, la verdad es que no pensaba que fuera a cambiar de opinión. [chuckle] Pero cuando trajimos a los niños del Colegio Jefferson a tocar sus instrumentos—los que tenían cinta adhesiva sujetándolos—vi cómo le cambiaba la cara. Ese fue el momento, creo.\n\n[emotional] Madre mía, todos esos colegios van a tener... van a tener material artístico de verdad. Programas de música. Clases de teatro. [voice breaking] Niños que nunca han cogido un pincel van a—perdona, es que estoy...\n\nMi madre era profesora de arte, ¿sabes? En Carabanchel. Solía, eh, gastarse su propio sueldo en material porque el colegio no podía pagar ni el papel. [quietly] Le habría encantado esto. Siempre decía que el arte no era algo extra—era esencial.\n\n[determined] Mañana empezamos con la planificación de la implementación. Todavía queda muchísimo trabajo pero... ¿hoy? Hoy celebramos."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] Oh my God, it passed! It actually—we did it. The arts funding bill, it's... [exhales] Jesus, I can't believe it. Three years. Three years of meetings and drafts and, um, arguing with budget committees who kept saying there wasn't enough money. [passionate] But there's always money, right? It's just about what we choose to prioritize. \n\nAnd Senator Martinez, she was... hmm, I didn't think she'd come around, honestly. [chuckle] But when we brought in those kids from Jefferson Elementary to play their instruments—the ones with the duct tape holding them together—I saw her face change. That was the moment, I think.\n\n[emotional] God, all those schools are gonna have... they're gonna have actual art supplies. Music programs. Drama classes. [voice breaking] Kids who've never held a paintbrush are gonna—sorry, I'm just... \n\nMy mom was an art teacher, you know? In the Bronx. She used to, uh, spend her own paycheck on supplies because the school couldn't afford paper. [quietly] She would've loved this. She always said art wasn't extra—it was essential. \n\n[determined] Tomorrow we start implementation planning. There's still so much work but... today? Today we celebrate."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "4fddf00d_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The politician you advised just passed legislation that will fund arts programs in underfunded schools",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

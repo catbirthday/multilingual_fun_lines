@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "तो मुझे ये email आया था—मेरे payment के बारे में जो नहीं गया? Carpet cleaner rental के लिए?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे! हाँ, मैं अभी देखता हूँ आपके लिए... हम्म, यहाँ दिख रहा है। Unit RNT-4492-B का rental, लग रहा है Tuesday का payment, अ—decline हो गया। Really sorry यार—पर ऐसा हो जाता है ना।"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ हाँ, मैं—मैं कितना बेवकूफ हूँ। पैसे transfer करना भूल गया। कितनी शर्म की बात है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे नहीं नहीं, please टेंशन मत लो! सच में बहुत लोगों के साथ होता है। तो मैं क्या कर सकता हूँ... वैसे, card फिर से run करना पड़ेगा $89.99 के लिए plus एक, अ—sorry यार—returned payment fee है $25 की।"
+        },
+        {
+            "role": "Customer",
+            "content": "Obviously fee तो होगी ही। ठीक है ठीक है, क्या हम—अभी कर सकते हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल, हाँ। मैं बस... actually रुको, मुझे—sorry, system थोड़ा अजीब behave कर रहा है। Account number ACC-7739-ZK show कर रहा है कि unit अभी भी आपके पास है, सही है ना?"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ हाँ, मेरे पास है अभी। कल सुबह basically चाहिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, okay तो... हम्म, interesting। आपका account show कर रहा है last month का promo code, CLEAN20, जो अभी भी active है? इससे actually आपका total $71.99 हो जाएगा full amount की जगह, पर fee के साथ ये... रुको calculate करता हूँ... $96.99।"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait तो तो ये सस्ता है fee के साथ भी? ये तो... अजीब है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हाँ पता है, weird है ना? Code से 20% off मिलता है rentals पे पर, अ, obviously fees पे apply नहीं होता। Process कर दूं? Oh wait—sorry, पहले card के last four digits verify करने होंगे।"
+        },
+        {
+            "role": "Customer",
+            "content": "वो वो 4827 है। जैसे मुझे—बस account check कर लेना चाहिए था पहले।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, 4827... अभी process कर रहा हूँ। और honestly? आपको बताऊं तो, मेरे साथ भी bounce हो जाता है जब मैं भूल जाता हूँ, अ... जब salary का time अजीब होता है। Okay तो transaction ID TRX-9983-MLP अभी जा रहा है।"
+        },
+        {
+            "role": "Customer",
+            "content": "सच में? मुझे लगा सिर्फ मैं ही ऐसा disaster हूँ। तो हो गया?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अम्म, अभी भी processing में है... हो गया! हाँ, approved। आपकी new return date अभी भी Saturday 6PM तक है, confirmation number CNF-2847-QR। मैं late fee माफ कर दूंगा अगर एक घंटे late हो भी—बस किसी को बताना नहीं कि मैंने ये कहा।"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे वाह ये तो—really nice है actually। Thanks।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! मैं बस... अ, एक और चीज़। आपका account eligible है premium membership के लिए $12.99 monthly पे? इससे 15% off मिलता है सभी rentals पे plus future में कोई returned payment fees नहीं।"
+        },
+        {
+            "role": "Customer",
+            "content": "तो basically मैं ज्यादा pay करूं शायद पैसे बचाने के लिए? Classic।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हा, हाँ जब आप ऐसे कहते हैं तो... पर actually अगर आप महीने में दो बार से ज्यादा rent करते हैं तो सच में पैसे बचते हैं। पर no pressure! आपकी receipt email होगी RCP-20250114-8829 पे करीब 5 minute में।"
+        },
+        {
+            "role": "Customer",
+            "content": "छोड़ो यार, ठीक है ठीक है। कर दो। वैसे भी अब क्या फर्क पड़ता है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay मैं बस... अरे। ये क्या। System अभी add नहीं करने दे रहा recent payment issue की वजह से। पर मैं आपके account पे note डाल देता हूँ, NOTE-5541-X, और आप 24 घंटे बाद online add कर सकते हैं। Really sorry इस extra step के लिए।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I got this email about—about my payment not going through? For the carpet cleaner rental?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Yes, let me pull that up for you... hmm, I see it here. The rental for unit RNT-4492-B, looks like the payment from Tuesday was, er, declined. I'm really sorry about that—these things happen though."
+        },
+        {
+            "role": "Customer",
+            "content": "Right right, I'm—I'm such an idiot. Forgot to transfer money. So embarrassing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, please don't worry about it! Happens more than you'd think actually. So what I can do is... well, I need to run the card again for $89.99 plus there's a, uh—sorry about this—a returned payment fee of $25."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course there's a fee. Okay okay, can we just—just do it now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, yeah. Let me just... actually hold on, I need to—sorry, the system's being weird. Account number ACC-7739-ZK shows you still have the unit, is that right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah yeah, I still have it. Need it for tomorrow morning basically."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, okay so... hmm, interesting. Your account's showing a promo code from last month, CLEAN20, that's still active? That would actually bring your total down to $71.99 instead of the full amount, but then with the fee it's... let me calculate... $96.99."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait so so it's cheaper even with the fee? That's... huh."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I know, weird right? The code gives you 20% off rentals but, er, doesn't apply to fees obviously. Should I go ahead and process that? Oh wait—sorry, need to verify the last four digits of your card first."
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's 4827. Like I should've just—just checked my account first."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, 4827... processing now. And honestly? Between you and me, I bounce stuff all the time when I forget to, uh... when payday's weird. Okay so transaction ID TRX-9983-MLP is going through now."
+        },
+        {
+            "role": "Customer",
+            "content": "Seriously? Thought I was the only disaster. So it went through?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, still processing... there we go! Yes, approved. Your new return date is still Saturday by 6PM, confirmation number CNF-2847-QR. I'm gonna waive the late fee if you're like an hour late or whatever—just don't tell anyone I said that."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh wow that's—that's really nice actually. Thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! Let me just... er, one more thing. Your account's eligible for our premium membership at $12.99 monthly? Gets you 15% off all rentals plus no returned payment fees in the future."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically I pay more to maybe save money? Classic."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha, yeah when you put it like that... though actually if you rent more than twice a month it does save you money. But no pressure! Your receipt's going to email RCP-20250114-8829 in about five minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Whatever, sure sure. Sign me up. Nothing matters anymore anyway."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay let me just... oh. Huh. The system's not letting me add it right now because of the recent payment issue. But I'll put a note on your account, NOTE-5541-X, and you can add it online after 24 hours. Really sorry about that extra step."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1342c2f1_script.json",
+    "professionalism": "casual",
+    "scenario": "carpet cleaner, embarrassed about a bounced payment and trying to fix it",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "bitter_defeated"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "awkwardly_apologetic",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off",
+                    "filled_pauses",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

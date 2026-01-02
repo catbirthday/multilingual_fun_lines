@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Let me see here... so you're telling me. I need seventeen different forms. For one warranty claim?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Yeah. I get it. Look, it's not ideal. But the warranty division at 2244 Industrial Park needs everything documented. For the claim number WR-9982-TK to process. They're strict."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been doing this for fifteen years. Fifteen. Never had to jump through these hoops before."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I hear you. The new system rolled out January 11th. More requirements now. Everything needs the... what's the word... the verification trail. All documented."
+        },
+        {
+            "role": "Customer",
+            "content": "So the—wait, actually—how long is this gonna take once I submit everything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Standard processing. Seven to ten days. But here's what I can do. Mark it priority. Code P447. Cuts it to maybe four days."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... okay so that means I'm without the diagnostic tool for at least a week. My customers aren't gonna be happy about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah. Not great. Tell you what though. While you wait. We have loaner units. Warehouse has three available. Model DT-55X. Almost identical specs."
+        },
+        {
+            "role": "Customer",
+            "content": "I guess—no wait—will that affect my claim somehow? Like if I take the loaner?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nope. Separate thing entirely. Loaner agreement LA-2910. Doesn't touch your warranty. Just need your shop license number."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been loyal to your brand since 2009. This is honestly making me reconsider."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I get it. Really. Been here six years myself. Seen the changes. Not all good. But between you and me? Once you're in the system. Next time takes five minutes. Promise."
+        },
+        {
+            "role": "Customer",
+            "content": "Next time. Right. Because there's definitely gonna be a next time at this rate."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look. I'm gonna note everything. Account flag AF-1122. Any future claims. They'll see you're verified. Speeds things up considerably."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me think... I mean, I sort of need this resolved. But seventeen forms is insane."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's actually... hang on... checking here... it's really just eleven. Six are auto-filled. Takes maybe twenty minutes total."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty minutes I don't have. But okay. Fine. Send them over."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sending now. To the email on file. Also throwing in expedite code EX-5500. Just put that in box 14A. Helps push it through."
+        },
+        {
+            "role": "Customer",
+            "content": "I probably shouldn't have to mention I spend forty thousand a year with you guys. But here we are."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Noted. All of it. Making sure dispatch at extension 7714 knows too. They'll prioritize your loaner delivery. Should have it by tomorrow 2PM."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "96acb07d_script.json",
+    "actor": 3,
+    "scenario": "auto mechanic, annoyed that the warranty claim requires so much paperwork to process",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

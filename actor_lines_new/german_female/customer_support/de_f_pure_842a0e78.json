@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ich bräuchte mal eine Erklärung zu meinem Kontoauszug. Da sind mehrere Buchungen als vorgemerkt angezeigt und andere als gebucht. Was ist denn da der Unterschied?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Danke für Ihren Anruf. Ich erkläre Ihnen gerne den Unterschied zwischen vorgemerkten und gebuchten Transaktionen. Moment, ich rufe mal eben Ihr Konto mit der Endnummer 4782 auf, dann kann ich Ihnen das an konkreten Beispielen zeigen."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfekt. Ich hab da drei Restaurantbesuche vom Wochenende, die stehen immer noch als vorgemerkt drin."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja, die sehe ich hier in Ihrem Konto. Also, wenn Sie eine Zahlung tätigen, erscheint sie erstmal als vorgemerkt, das heißt, wir haben die Zahlung autorisiert, aber das Geld ist noch nicht überwiesen. Der Händler schließt die Buchung normalerweise innerhalb von 1-3 Werktagen ab, und dann wird sie als gebucht angezeigt."
+        },
+        {
+            "role": "Customer",
+            "content": "Das heißt, mein verfügbarer Saldo berücksichtigt die vorgemerkten Beträge schon, obwohl sie noch nicht gebucht sind?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Genau richtig. Ihr verfügbarer Saldo zieht vorgemerkte Transaktionen sofort ab, damit Sie nicht ins Minus rutschen. Ich sehe hier bei Ihrem Konto BAL-4782-GK, Ihr aktueller Kontostand ist 3.247,50 Euro, aber Ihr verfügbarer Saldo zeigt 2.983,50 Euro nach Abzug der 264 Euro an vorgemerkten Buchungen."
+        },
+        {
+            "role": "Customer",
+            "content": "Was passiert denn, wenn sich ein vorgemerkter Betrag ändert, wenn er dann gebucht wird?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sehr gute Frage. Bei Restaurantbesuchen ändert sich der Betrag oft, weil die erste Autorisierung das Trinkgeld noch nicht enthält. Zum Beispiel, Ihre vorgemerkte Buchung PND-78234-REST über 47,00 Euro könnte als 56,00 Euro gebucht werden, wenn das Trinkgeld dazukommt. Ihr verfügbarer Saldo passt sich dann automatisch an."
+        },
+        {
+            "role": "Customer",
+            "content": "Mir ist aufgefallen, da ist eine vorgemerkte Buchung von letztem Dienstag. Müsste die nicht längst gebucht sein?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Da haben Sie völlig recht, das sollten wir uns anschauen. Moment, ich prüfe mal die Transaktion TRX-9834521-P von Dienstag. Manchmal verzögern Händler ihre Stapelverarbeitung, besonders kleinere Geschäfte. Wenn eine vorgemerkte Transaktion nach fünf Werktagen noch nicht gebucht wurde, fällt sie normalerweise raus und wird eventuell später neu eingereicht."
+        },
+        {
+            "role": "Customer",
+            "content": "Beeinträchtigen diese vorgemerkten Buchungen denn meine Hypothekenzahlung morgen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Selbstverständlich."
+        },
+        {
+            "role": "Customer",
+            "content": "Äh, ich meine... reicht mein verfügbarer Saldo für die Abbuchung?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Das prüfe ich gerne für Sie. Ihre Hypothekenzahlung MCH-HYPO-8823 ist für morgen früh mit 1.850,00 Euro terminiert. Mit Ihrem aktuellen verfügbaren Saldo von 2.983,50 Euro haben Sie genügend Deckung für diese Zahlung und alle vorgemerkten Transaktionen."
+        },
+        {
+            "role": "Customer",
+            "content": "Gut. Können vorgemerkte Buchungen eigentlich auch einfach verschwinden, ohne gebucht zu werden?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja, das kann tatsächlich passieren. Wenn ein Händler die Autorisierung nicht innerhalb seines Bearbeitungsfensters abruft, also normalerweise 5-7 Werktage, dann verfällt die Vormerkung und Ihr Geld wird wieder verfügbar. Wir erfassen das in unserem System unter Referenzcodes wie EXP-VORM-2024-11."
+        },
+        {
+            "role": "Customer",
+            "content": "Woran erkenne ich denn, ob eine Transaktion schon final ist oder noch bearbeitet wird?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "In Ihrem Online-Banking-Portal unter Konto 4782-GIROKONTO-01 werden gebuchte Transaktionen mit einem grünen Häkchen angezeigt und haben ein Buchungsdatum. Vorgemerkte Transaktionen haben ein Sanduhr-Symbol und zeigen nur das Autorisierungsdatum. Sie können die Ansicht auch filtern, um nur gebuchte oder nur vorgemerkte Posten zu sehen."
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist hilfreich. Dann schau ich mal im Online-Portal nach diesen Markierungen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wunderbar. Ich habe Ihnen auch eine Übersicht über die verschiedenen Transaktionsstatus an Ihre hinterlegte E-Mail-Adresse geschickt. Gibt es noch etwas zu Ihrem Konto oder diesen Transaktionen, was ich Ihnen heute erklären kann?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need clarification on my account statement. Several transactions show as pending while others are posted. What's the distinction?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for calling. I'd be happy to explain the difference between pending and posted transactions for you. Let me pull up your account ending in 4782 to provide specific examples while we discuss this."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I have three restaurant charges from this weekend that still say pending."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can see those transactions in your account. When you make a purchase, it first appears as pending, which means we've authorized the payment but haven't transferred the funds yet. The merchant typically finalizes the charge within 1-3 business days, at which point it becomes posted."
+        },
+        {
+            "role": "Customer",
+            "content": "So my available balance already reflects the pending charges even though they haven't posted?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly right. Your available balance immediately deducts pending transactions to prevent overdrafts. Looking at your account BAL-4782-CK, your current balance is $3,247.50, but your available balance shows $2,983.50 after accounting for the $264 in pending charges."
+        },
+        {
+            "role": "Customer",
+            "content": "What happens if a pending transaction amount changes when it posts?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. Restaurant charges often change because the initial authorization doesn't include the tip. For example, your pending charge PND-78234-REST for $47.00 might post as $56.00 once the tip is added. Your available balance automatically adjusts when this happens."
+        },
+        {
+            "role": "Customer",
+            "content": "I noticed one pending charge from last Tuesday. Shouldn't that have posted by now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right to flag that. Let me check transaction ID TRX-9834521-P from Tuesday. Sometimes merchants delay batch processing, especially smaller businesses. If a pending transaction hasn't posted within five business days, it typically drops off and may be resubmitted later."
+        },
+        {
+            "role": "Customer",
+            "content": "Will these pending charges affect my ability to pay my mortgage tomorrow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, do I have enough available balance for the automatic payment?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me verify that for you. Your mortgage payment MCH-MORT-8823 is scheduled for $1,850.00 tomorrow morning. With your current available balance of $2,983.50, you have sufficient funds to cover it along with all pending transactions."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can pending transactions ever just disappear without posting?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, that can happen. If a merchant doesn't claim the authorization within their processing window, typically 5-7 business days, the pending charge expires and your funds become available again. We track these in our system under reference codes like EXP-PEND-2024-11."
+        },
+        {
+            "role": "Customer",
+            "content": "How can I tell if a transaction has been finalized versus still processing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "In your online banking portal under account 4782-CHECKING-01, posted transactions show with a green checkmark and include the posting date. Pending transactions display with an hourglass icon and show only the authorization date. You can also filter your transaction view to see only posted or only pending items."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful. I'll check the online portal for those indicators."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I've also sent a reference guide to your email on file explaining transaction statuses. Is there anything else about your account or these transactions I can clarify for you today?"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "842a0e78_script.json",
+    "professionalism": "professional",
+    "scenario": "confused about the difference between pending and posted transactions",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "businesslike_direct",
+                "matter_of_fact"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "attentively_engaged",
+                "precisely_technical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

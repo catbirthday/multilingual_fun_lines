@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So I'm looking at these charges and they're not—I mean nothing matches what we ordered, and if accounting sees this..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, inventory discrepancies, yeah I actually dealt with one of these yesterday. Let me pull up your account, um, what's your company ID?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's EQ-4492, but wait there's also this thing where some items are double-billed and others aren't even..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, EQ-4492. Hmm, okay I'm seeing—wait no, that's not—sorry, let me get into the right system. Purchase order management is kind of finicky."
+        },
+        {
+            "role": "Customer",
+            "content": "Finicky? We're talking about seventeen thousand dollars worth of equipment that just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Seventeen thousand, woah. Alright so I think what happened—er, looking at batch B-7739-NC here—someone probably uploaded the wrong CSV file. Happens more than you'd think actually."
+        },
+        {
+            "role": "Customer",
+            "content": "A CSV error? But how does that even—we submitted everything correctly on our end, I triple-checked before..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I believe you. On your side it's perfect. The issue is, hmm, when it hits our processing center—order PRO-8827-X—sometimes the fields get scrambled if there's, sort of, any special characters."
+        },
+        {
+            "role": "Customer",
+            "content": "Special characters? We don't use—oh wait, the ampersand in \"Tools & Equipment\", would that..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bingo. That'd do it. I had a customer last week, same exact thing. Let me just, uh, manually reconcile these line items real quick."
+        },
+        {
+            "role": "Customer",
+            "content": "But what about the double charges? Those are already hitting our credit line and if we can't order next quarter's supplies..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, the duplicates. So transaction TXN-90442-KL and, er, TXN-90443-KL are definitely the same order. I can reverse one right now, probably take two business days to show."
+        },
+        {
+            "role": "Customer",
+            "content": "Two days? Our CFO is reviewing accounts tomorrow morning and if she sees..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ooh, tomorrow morning's tight. Tell you what though, I'm gonna flag this as priority—case number CSE-1147-PRO—and, well, maybe email you a confirmation you can show her?"
+        },
+        {
+            "role": "Customer",
+            "content": "That would help but there's still three items that show as \"pending verification\" whatever that..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pending verification means, um, basically our warehouse is physically checking stock. Items SKU-7742, SKU-7743, and—hold on—SKU-7745. Should clear by tonight honestly."
+        },
+        {
+            "role": "Customer",
+            "content": "Tonight? Okay but if they don't clear, then what happens to our standing order for next month..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your standing order's safe. Different system entirely. Though actually, let me just, hmm, make a note here so billing knows to skip the auto-charge until we sort this mess."
+        },
+        {
+            "role": "Customer",
+            "content": "Skip the auto-charge? No wait, we need those supplies to ship, if you skip it then..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh sorry, I mean—not skip skip. Just postpone the charge, not the shipment. Order stays on schedule, invoice gets fixed, everybody's happy."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "8eff198e_script.json",
+    "actor": 2,
+    "scenario": "equipment manager, detail-oriented about inventory charges that don't match purchase orders",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

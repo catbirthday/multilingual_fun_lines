@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Mira, es que llevo—no espera, primero—¿están grabando esta llamada? Porque necesito documentación de que vamos a arreglar esto del cargo doble ahorita mismo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah sí sí, claro que sí, este, todas nuestras llamadas se graban para control de calidad. Entonces déjeme—nada más necesito buscar su cuenta rapidito, ¿me puede dar su número de cuenta o teléfono?"
+        },
+        {
+            "role": "Customer",
+            "content": "Está a nombre de—no espérate tantito—¿para qué necesitas eso si ya lo metí en el sistema automatizado? O sea, ¿no se supone que para eso es que lo pongo antes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tiene razón, tiene razón, disculpe, este, a veces el sistema no—no lo pasa bien. Entonces básicamente aquí veo, eh, parece que es la cuenta 447-299-8K, y me aparece un cargo del 3 de noviembre por $89.99, ¿eso—eso es lo que estamos viendo?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, ese es el—espera estás viendo mal—es que hay DOS, ¿me entiendes? Ese es el problema, debería haber solo uno pero ustedes me cobraron dos veces!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Ah! Ah okey okey, déjame bajar aquí... mmm, sí ya lo veo, hay otro cargo idéntico con número de referencia TXN-88429-QP3 también por $89.99. Entonces eso—eso definitivamente no está bien, de verdad lo siento mucho."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Cómo es que—o sea en serio—cómo es que un sistema así nomás decide cobrarle a alguien dos veces por su suscripción mensual?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sí no, es—es súper frustrante, este, lo que pasa a veces es que si hay un problema de conexión durante el proceso, el sistema puede—puede reintentar la transacción. Pero no se preocupe, entonces básicamente puedo reversar ese segundo cargo ahorita mismo, va a aparecer como crédito CR-9982-VML en su estado de cuenta."
+        },
+        {
+            "role": "Customer",
+            "content": "Espera, ¿puedes—a ver estás diciendo—de verdad puedes arreglar esto ahorita, no en cinco a siete días hábiles?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Claro que sí! Sí sí, lo—lo estoy haciendo ahorita de hecho, eh, nada más necesito... okey entonces el reembolso está procesándose, y la verdad debería caer en su cuenta en 24 horas, no—no lo de toda la semana."
+        },
+        {
+            "role": "Customer",
+            "content": "Pero cómo sé—espera de hecho—¿qué prueba tengo de que esto está pasando de verdad? Porque la última vez alguien dijo que había arreglado algo y luego no pasó nada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro claro, lo entiendo perfectamente, este, entonces lo que estoy haciendo es—le estoy mandando un correo de confirmación ahorita al email que tenemos registrado, ese es el que termina en @edu ¿verdad? Y va a tener el número de referencia REF-20241103-KP92 que puede usar para darle seguimiento."
+        },
+        {
+            "role": "Customer",
+            "content": "Espérame no estoy—espera estoy checando—okey sí ya lo veo llegando, órale qué rápido... okey entonces este número de referencia ¿es como legalmente válido o qué?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Sí! Bueno, o sea básicamente es—es nuestro registro oficial de transacción, y tipo si por alguna razón el reembolso no aparece, nomás llama con ese número y cualquier—cualquier agente puede ver exactamente lo que hice hoy a las, eh, 2:47 PM hora del este."
+        },
+        {
+            "role": "Customer",
+            "content": "Esto es de verdad—no espera no puedo creer—¿me estás diciendo que todo esto ya está listo, o sea no tengo que llamar tres veces más?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡No no, ya—ya quedó todo! O sea, este, también agregué una nota a su cuenta con el número de caso CS-447299-B nomás para que haya como documentación extra, pero sí el reembolso ya está—ya está en proceso."
+        },
+        {
+            "role": "Customer",
+            "content": "Estoy sinceramente—espera esto es—estoy en shock porque normalmente estas llamadas tardan una eternidad y no se resuelve nada pero tú lo arreglaste en ¿qué, tres minutos?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Ay, pues gracias! O sea, eh, ayuda cuando es un caso clarísimo como este, entonces básicamente el cargo duplicado era obvio en el sistema. ¡Ah! Y también—también apliqué un crédito de cortesía de $10, código COURTESY-NV10, nomás por la molestia."
+        },
+        {
+            "role": "Customer",
+            "content": "Espera qué—¿me estás dando—aparte del reembolso hay otro crédito también? ¡Eso está increíble, ni siquiera lo estaba pidiendo!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Por supuesto! Sí, entonces, este, su próxima factura va a mostrar los dos créditos, y básicamente si tiene cualquier otra pregunta, nuestra línea directa es 800-555-0147, pero la verdad creo—creo que ya tenemos todo resuelto!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look I've been—wait no actually first—are you recording this call because I need documentation that we're fixing this double charge thing right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yes yes, absolutely, um, all our calls are recorded for quality assurance. So let me just—I just need to pull up your account real quick, could you give me your account number or phone number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's under—no wait hold on—why do you need that when I already entered it in your automated system, I mean isn't that the whole point of entering it before?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're right, you're right, I'm sorry about that, um, sometimes the system doesn't—doesn't transfer it over properly. So basically I can see here, er, looks like it's account 447-299-8K, and I'm showing a charge on November 3rd for $89.99, is that—is that what we're looking at?"
+        },
+        {
+            "role": "Customer",
+            "content": "No that's the—wait you're looking at the wrong—there's TWO of them see that's the problem there should only be one but you guys charged me twice!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Oh okay okay, let me scroll down here... hmm, yes I see it now, there's another identical charge with reference number TXN-88429-QP3 also for $89.99. So that's—that's definitely not right, I'm really sorry about that."
+        },
+        {
+            "role": "Customer",
+            "content": "How does this even—I mean seriously—how does a system just randomly decide to charge someone twice for their monthly subscription?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, that's—that's totally frustrating, um, what happens sometimes is like if there's a network timeout during processing, the system might—might retry the transaction. But don't worry, so basically I can reverse that second charge right now, it'll show as credit CR-9982-VML on your statement."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait you can just—hold on you're saying—you can actually fix this right now not in five to seven business days?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely! Yes yes, I'm—I'm doing it right now actually, er, just need to... okay so the refund is processing, and honestly it should hit your account within 24 hours, not—not the whole week thing."
+        },
+        {
+            "role": "Customer",
+            "content": "But how do I—wait actually—what proof do I have that this is actually happening because last time someone said they fixed something and then nothing happened."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, totally understand, um, so what I'm doing is—I'm sending you a confirmation email right now to the address on file, that's the one ending in @edu right? And it'll have reference number REF-20241103-KP92 that you can use to track this."
+        },
+        {
+            "role": "Customer",
+            "content": "Hold on I'm not—wait I'm checking—okay yeah I see it coming through now that's actually... wow that was fast okay so this reference number that's like legally binding or what?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! Well, so basically it's—it's our official transaction record, and like if for any reason the refund doesn't appear, you just call back with that number and any—any rep can see exactly what I did today at, er, 2:47 PM Eastern."
+        },
+        {
+            "role": "Customer",
+            "content": "This is actually—no wait I can't believe—you're telling me this whole thing is just done, like I don't have to call back three more times?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nope nope, all—all done! I mean, um, I've also added a note to your account with case number CS-447299-B just so there's like extra documentation, but yeah the refund is already—already in motion."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm honestly—wait this is—I'm actually shocked because usually these calls take forever and nothing gets resolved but you just fixed it in what, three minutes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aww well thank you! I mean, er, it helps when it's a clear-cut case like this, so basically the duplicate charge was obvious in the system. Oh! And I've also—I've also applied a courtesy credit of $10, code COURTESY-NV10, just for the inconvenience."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait what—you're giving me—on top of the refund there's another credit too? That's actually amazing I wasn't even asking for that!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! Yeah so, um, your next bill will show both credits, and basically if you have any other questions, our direct support line is 800-555-0147, but honestly I think—I think we've got everything sorted now!"
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "55d55775_script.json",
+    "professionalism": "casual",
+    "scenario": "college professor, impatient about a simple billing error that should take seconds to fix",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "surprised_delighted"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "slightly_frazzled"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

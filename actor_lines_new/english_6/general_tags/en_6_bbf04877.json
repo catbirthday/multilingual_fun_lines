@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[shakily] I got your letter about the denial yesterday and I, um, I honestly don't understand how you can say we have too many assets when we've already spent everything on his care."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] Mrs. Patterson, I know this is incredibly difficult, and I want to help you understand the determination—the, uh, the assessment showed a joint savings account with forty-two thousand dollars."
+        },
+        {
+            "role": "Character 1",
+            "content": "That's our house money, we sold it last month because I couldn't, [voice breaking], I couldn't take care of him there anymore with the stairs and his wandering."
+        },
+        {
+            "role": "Character 2",
+            "content": "[carefully measured] Unfortunately, the proceeds from a home sale are considered countable assets unless they're reinvested in another primary residence within, um, within three months of the sale."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperately] But I'm living with my daughter now, temporarily, just until we figure this out—I can't buy another house when he needs twenty-four hour care that costs eight thousand a month!"
+        },
+        {
+            "role": "Character 2",
+            "content": "I understand your situation, I really do, and there are, well, there are some options we could explore like a qualified income trust or, um, spending down the assets on allowable expenses. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter laugh] Spending down? You mean I should waste forty years of savings in three months so the government will help us? That money was supposed to last us, to keep us safe."
+        },
+        {
+            "role": "Character 2",
+            "content": "It's not wasting if it goes toward his care, Mrs. Patterson—you could prepay the facility, purchase, erm, purchase burial plots, make home modifications at your daughter's house for accessibility."
+        },
+        {
+            "role": "Character 1",
+            "content": "[trembling] He doesn't even recognize me most days now, and you're talking about burial plots? [stifled sob] I just need him somewhere safe where they understand dementia, where he won't hurt himself."
+        },
+        {
+            "role": "Character 2",
+            "content": "There's also something called a spousal impoverishment provision that might apply here, which would let you keep about, let me check, um, about a hundred thirty thousand in assets as the community spouse."
+        },
+        {
+            "role": "Character 1",
+            "content": "Community spouse? [hollow laugh] I haven't lived in my community for six weeks—I'm sleeping on my daughter's couch and spending every day at that facility because he gets agitated when I'm not there."
+        },
+        {
+            "role": "Character 2",
+            "content": "[softer] Would you like me to schedule you with our financial counselor? They can walk through exactly how to structure things so you qualify while still protecting some resources for yourself."
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted] Every day I don't figure this out costs us two hundred and sixty dollars we don't have anymore—my daughter's been paying and she's a teacher, she can't keep doing this."
+        },
+        {
+            "role": "Character 2",
+            "content": "I can expedite the review if you bring in documentation showing the home sale was due to his medical needs, and, uh, we might be able to backdate the eligibility to when you first applied."
+        },
+        {
+            "role": "Character 1",
+            "content": "[suddenly hopeful] Backdate it? You mean they'd reimburse what we've already paid? Because that's almost, God, that's almost sixteen thousand dollars since October."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitant] Potentially, yes, but I need you to understand that's not guaranteed—it depends on, um, several factors including when the medical necessity was documented and whether the facility accepts retroactive payments."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] Okay. Yes. The counselor."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] I'll get you in this week, Thursday at two if that works? And Mrs. Patterson, bring any medical records from his neurologist about the home safety concerns—that really strengthens the case."
+        },
+        {
+            "role": "Character 1",
+            "content": "I have everything in a binder, three binders actually, every prescription, every incident report from when he fell, every letter from doctors saying he needs memory care. [shaky exhale] I'll bring them all."
+        },
+        {
+            "role": "Character 2",
+            "content": "[reassuring] That's perfect, that documentation will help immensely, and, listen, I'm marking your case for priority review—we should have an answer within ten business days instead of the usual thirty."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "bbf04877_scenario.json",
+    "actor": 6,
+    "scenario": "An elderly care receiver meets with a Medicaid eligibility worker to appeal a recent denial of coverage for her husband's memory care facility, which they can't afford without assistance.",
+    "type": "scenario_conversation",
+    "character_1_role": "care receiver",
+    "character_2_role": "Medicaid eligibility worker",
+    "selected_tones": [
+        "anxious",
+        "empathetic",
+        "distant"
+    ]
+}

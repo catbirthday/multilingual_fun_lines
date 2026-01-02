@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[quietly] Grandpa, I, um, I need to talk to you about something that's been keeping me up at night for weeks now, and honestly, you're the only person I trust enough to even say this out loud to."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] Well, come sit here next to me then, just like when you were little and had something weighing on that brilliant mind of yours. [chuckles] Though I suspect this is rather more serious than stolen cookies, hmm?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[nervously] You remember how I told you my company does, uh, data analytics for government contracts? [pause] Well, what I didn't mention is that we've been, I mean, I discovered we've been collecting way more than anyone realizes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[slowly] Ahh, I see. [sighs] You know, during the war, we intercepted messages that could save thousands of lives, but sometimes, well, sometimes we had to let people die to protect the fact that we'd broken their codes."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] This is different though, Grandpa—we're not protecting anyone, we're just, god, we're basically spying on millions of innocent Americans and selling their data to the highest bidder, and I built the whole system myself."
+        },
+        {
+            "role": "Character 2",
+            "content": "[thoughtfully] Mmm, yes, that is quite different indeed. [quietly] When I was at Bletchley Park, we had a saying: 'The weight of secrets either crushes you or shapes you into something harder.' Which one are you becoming, my dear boy?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] I don't know! [exhales] That's why I'm here, because every option feels wrong—if I blow the whistle, I destroy everything I've built, probably go to prison, but if I stay quiet, I'm complicit in something I know is fundamentally wrong."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] You know, your grandmother never knew what I did during the war until 1974 when they declassified some of it. [pause] Thirty years of carrying that burden alone, and yet, I'd make the same choice again because it was the right thing to do."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperate] But you were saving lives, protecting democracy! [shaky voice] I'm just, I'm trying to figure out if exposing this would even matter or if people would just shrug and keep scrolling on their phones anyway."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Listen to me—apathy is never an excuse for inaction when you know something is wrong. [coughs] We didn't defeat fascism so that my grandson could help build a surveillance state, even if it's wrapped in Silicon Valley marketing speak."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] I know, I know you're right."
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] The hardest decisions often come down to this: can you live with yourself if you do nothing? [sighs] Because that guilt, that regret, it doesn't fade with time—it calcifies, becomes part of who you are."
+        },
+        {
+            "role": "Character 1",
+            "content": "[resigned] I've already started documenting everything, actually—encrypted files, backed up in multiple locations, evidence that would be, well, undeniable if it came out. [pause] I just needed to hear from someone who's carried real secrets what the cost actually is."
+        },
+        {
+            "role": "Character 2",
+            "content": "The cost is everything and nothing, depending on how you measure it. [chuckles softly] But you're my grandson, which means you're stubborn enough to survive whatever comes next."
+        },
+        {
+            "role": "Character 1",
+            "content": "[emotional] God, Grandpa, what if they come after you too? [quickly] I mean, once this gets out, they'll dig into everyone I'm connected to, and you've already been through so much in your life."
+        },
+        {
+            "role": "Character 2",
+            "content": "[laughs] Son, I'm ninety-five years old—what are they going to do, ruin my retirement?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[tearfully] You always know exactly what to say, you know that? [sniffles] Mom said you were the same way when Dad was deployed, just this steady presence when everything else was falling apart."
+        },
+        {
+            "role": "Character 2",
+            "content": "[cherishing] Your father turned out just fine, and so will you. [warmly] Now, tell me about these encryption protocols you're using—are they at least as good as what we had at Station X, or has modern technology made you all lazy?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[laughs] Only you would turn my existential crisis into a coding competition, Grandpa."
+        },
+        {
+            "role": "Character 2",
+            "content": "[playfully] Well, if you're going to blow up your life for principle, you might as well do it with proper operational security, hmm? [pause] Now, let me tell you about the time we had to smuggle documents out of London using hollowed-out chess pieces..."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "ac7149e7_scenario.json",
+    "actor": 5,
+    "scenario": "A brilliant tech entrepreneur visits their 95-year-old grandfather who was a WWII codebreaker, seeking advice about a dangerous whistleblowing decision.",
+    "type": "scenario_conversation",
+    "character_1_role": "mastermind",
+    "character_2_role": "greatest generation",
+    "selected_tones": [
+        "cherishing",
+        "subdued",
+        "accepting"
+    ]
+}

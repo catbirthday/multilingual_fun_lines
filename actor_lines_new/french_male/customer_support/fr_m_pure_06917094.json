@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Bonjour. J'aurais besoin de discuter d'un changement de calendrier de facturation pour mon compte entreprise de services de nettoyage."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bonjour, et merci d'appeler les Services aux Entreprises. Je serais ravi de vous aider à ajuster votre calendrier de facturation aujourd'hui. Est-ce que je peux commencer par votre numéro de compte ou le nom de l'entreprise enregistrée ?"
+        },
+        {
+            "role": "Customer",
+            "content": "C'est Pristine Home Solutions. Le compte devrait être au nom de Mario Rodriguez."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Parfait, j'ai votre compte ici. Pristine Home Solutions avec le numéro de compte BUS-7834-MRZ. Je vois que vous êtes actuellement sur notre cycle de facturation mensuelle avec prélèvements automatiques le 15. Quels changements souhaitez-vous apporter ?"
+        },
+        {
+            "role": "Customer",
+            "content": "J'ai besoin de passer à... euh... une facturation toutes les deux semaines. La plupart de mes clients me paient maintenant aux deux semaines."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah mais c'est tout à fait logique pour la gestion de trésorerie. Je peux absolument mettre ça en place pour vous. Notre option bi-hebdomadaire traite les paiements un vendredi sur deux, avec la prochaine date de début disponible le 3 novembre. Est-ce que ce timing conviendrait à vos besoins d'entreprise ?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ça marcherait bien. Est-ce que ça va affecter mes fonctionnalités de service actuelles ou ma structure tarifaire ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellente question. Vos fonctionnalités de service restent exactement les mêmes, incluant votre forfait professionnel avec génération de factures et outils de suivi des dépenses. Le seul changement c'est que vos frais mensuels de 89,99$ seront divisés en deux paiements de 44,99$ traités toutes les deux semaines."
+        },
+        {
+            "role": "Customer",
+            "content": "J'apprécie cette précision. Dans combien de temps ce changement peut prendre effet ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je peux traiter ça immédiatement. Le changement prendra effet avec votre prochain cycle de facturation, qui commence le 3 novembre. Votre dernier paiement mensuel de 89,99$ sera traité ce 15 octobre, puis vous passerez au calendrier bi-hebdomadaire. Je vais envoyer une confirmation à votre courriel mrodriguez arobase pristinehomesolutions point com."
+        },
+        {
+            "role": "Customer",
+            "content": "Parfait. Est-ce que je dois, enfin, prévenir ma banque de ce changement de fréquence de paiement ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Comme vous avez les paiements automatiques activés par virement automatique avec le compte se terminant en 4782, votre banque traitera ceux-ci automatiquement sans aucune action requise de votre part. Par contre, je recommande toujours de garder vos dossiers personnels à jour pour des fins comptables."
+        },
+        {
+            "role": "Customer",
+            "content": "C'est très utile. Pouvez-vous aussi mettre à jour mes préférences de notification pour courriel au lieu de texto ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainement. Je mets à jour vos préférences de notification maintenant pour courriel seulement pour toutes les communications de facturation. Vous recevrez les confirmations à votre adresse courriel principale, et je vois que ce changement est complété dans notre système sous l'identifiant de préférence PREF-9923-MR."
+        },
+        {
+            "role": "Customer",
+            "content": "Merveilleux. Y a-t-il des frais pour faire ces modifications de compte ?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Il n'y a absolument aucuns frais pour ces changements. Les modifications de compte sont gratuites pour tous nos clients entreprise. En fait, j'ai appliqué un crédit de fidélité de 15$ à votre compte, référence crédit CRD-5547-B, qui apparaîtra sur votre première facture bi-hebdomadaire comme remerciement pour être avec nous depuis plus de deux ans."
+        },
+        {
+            "role": "Customer",
+            "content": "C'est... bon, c'est vraiment très apprécié. Merci d'avoir rendu ce processus si fluide."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Je vous en prie. C'est notre plaisir de soutenir la croissance de votre entreprise. J'ai documenté tous ces changements sous le billet de service SVC-8821-PMZ. Vous recevrez un courriel récapitulatif détaillé dans les dix prochaines minutes avec toutes les mises à jour dont on a discuté aujourd'hui."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Je suis soulagé que ça ait été aussi simple. Merci de votre aide aujourd'hui."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ça a été mon plaisir de vous assister aujourd'hui. Votre nouvelle facturation bi-hebdomadaire commence le 3 novembre, et vous recevrez cette confirmation par courriel bientôt avec le numéro de référence CONF-7734-BR. Merci de nous avoir choisis pour vos besoins d'entreprise, et passez une journée fructueuse."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need to discuss changing my billing schedule for my cleaning service business account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for calling Business Services. I'd be happy to help you adjust your billing schedule today. May I start with your account number or the business name on file?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's Pristine Home Solutions. The account should be under Maria Rodriguez."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, I have your account here. Pristine Home Solutions with account number BUS-7834-MRZ. I can see you're currently on our monthly billing cycle with automatic payments on the fifteenth. What changes would you like to make?"
+        },
+        {
+            "role": "Customer",
+            "content": "I need to switch to bi-weekly billing. Most of my clients now pay me every two weeks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That makes complete sense for cash flow management. I can definitely set that up for you. Our bi-weekly option processes on alternating Fridays, with the next available start date being November 3rd. Would that timing work for your business needs?"
+        },
+        {
+            "role": "Customer",
+            "content": "That would work well. Will this affect my current service features or pricing structure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. Your service features remain exactly the same, including your professional package with invoice generation and expense tracking tools. The only change is that your monthly fee of $89.99 will be split into two payments of $44.99 processed bi-weekly."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that clarification. How quickly can this change take effect?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can process this immediately. The change will take effect with your next billing cycle, which begins November 3rd. Your final monthly payment of $89.99 will process this October 15th, then you'll transition to the bi-weekly schedule. I'll send confirmation to your email at mrodriguez at pristinehomesolutions dot com."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will I need to notify my bank about this change in payment frequency?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Since you have automatic payments enabled through ACH transfer with account ending in 4782, your bank will process these automatically without any action needed on your part. However, I always recommend keeping personal records updated for accounting purposes."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very helpful. Can you also update my notification preferences to email instead of text?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm updating your notification preferences right now to email-only for all billing communications. You'll receive confirmations at your primary email address, and I'm showing that change as complete in our system under preference ID PREF-9923-MR."
+        },
+        {
+            "role": "Customer",
+            "content": "Wonderful. Is there a fee for making these account modifications?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "There's absolutely no fee for these changes. Account modifications are complimentary for all our business customers. I've actually applied a loyalty credit of $15 to your account, credit reference CRD-5547-B, which will appear on your first bi-weekly invoice as a thank you for being with us for over two years."
+        },
+        {
+            "role": "Customer",
+            "content": "That's unexpected and very appreciated. Thank you for making this process so smooth."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. It's our pleasure to support your business growth. I've documented all these changes under service ticket SVC-8821-PMZ. You'll receive a detailed email summary within the next ten minutes with all the updates we've discussed today."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. I'm relieved this was so straightforward. Thank you for your help today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's been my pleasure assisting you today. Your new bi-weekly billing begins November 3rd, and you'll receive that confirmation email shortly with reference number CONF-7734-BR. Thank you for choosing us for your business needs, and have a successful day."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "06917094_script.json",
+    "professionalism": "professional",
+    "scenario": "house cleaner, worried about explaining why she needs to change her service billing schedule",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "cordially_concerned",
+                "calmly_frustrated"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "precisely_technical",
+                "warmly_professional"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

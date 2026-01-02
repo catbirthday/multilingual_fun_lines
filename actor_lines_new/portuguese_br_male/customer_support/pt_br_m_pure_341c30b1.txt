@@ -1,0 +1,93 @@
+=== Source: 341c30b1_script.json ===
+Language: Brazilian Portuguese
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: distillery owner, frustrated that tax classification errors keep appearing on his account
+
+=== Translated Dialogue ===
+
+Customer [pure]: Boa tarde. Preciso falar sobre uns erros recorrentes de classificação tributária na nossa conta que tão afetando nossas declarações trimestrais.
+
+Customer Support [pure]: Boa tarde, obrigado por entrar em contato. Vou verificar esses erros de classificação pra você agora mesmo. Você pode me passar o número da conta e o nome da empresa pra eu puxar o perfil tributário completo?
+
+Customer [pure]: Claro. Somos a Destilaria Copper Ridge, conta número 47829-B. É o terceiro trimestre consecutivo que a gente tem classificações erradas.
+
+Customer Support [pure]: Perfeito. Tô com sua conta aqui, Destilaria Copper Ridge, conta 47829-B, e tô vendo que vocês estão registrados como destilaria licenciada com permissão federal DSP-TX-20147. Deixa eu revisar o histórico recente de classificação tributária pra identificar o padrão.
+
+Customer [pure]: É... o que eu preciso entender, né, é por que nossos destilados ficam sendo classificados como cerveja e vinho. Isso cria umas discrepâncias tributárias enormes.
+
+Customer Support [pure]: Ah, agora tô vendo o problema claramente. Seus produtos tão sendo codificados na categoria BW-142 ao invés da categoria correta de destilados DS-310, o que gera uma diferença tributária de aproximadamente R$ 67,50 por galão-prova. Isso é absolutamente um erro crítico que precisa de resolução permanente.
+
+Customer [pure]: Exatamente isso. Tá, mas você pode me explicar como isso continua acontecendo apesar das correções anteriores? A gente já forneceu toda a documentação necessária várias vezes.
+
+Customer Support [pure]: Claro. Olhando aqui o histórico do caso, os tickets CR-20240115, CR-20240423 e CR-20240718 todos mostram que foram aplicadas correções manuais, mas o mapeamento base do produto no nosso sistema não foi atualizado no nível de origem. Os ajustes temporários não tavam resolvendo a configuração na raiz do problema.
+
+Customer [pure]: Ah, então é isso... bom, quais passos específicos a gente pode tomar pra resolver definitivamente esse problema de classificação?
+
+Customer Support [pure]: Tô implementando uma solução completa agora mesmo. Primeiro, tô atualizando seu catálogo mestre de produtos com a classificação DS-310 correta pra todos os 47 SKUs do seu portfólio, e segundo, tô colocando um código de trava no sistema SL-PERM-9847 pra impedir qualquer reclassificação automática.
+
+Customer [pure]: Tá, mas essa correção vai valer retroativamente pra nossa declaração trimestral pendente? A gente tem prazo em duas semanas.
+
+Customer Support [pure]: Com certeza. O ajuste retroativo vai cobrir todas as transações de 1º de janeiro até hoje, afetando 3.847 itens com um ajuste tributário total de R$ 262.099,15 a favor de vocês. Vocês vão receber os formulários corrigidos em 48 horas.
+
+Customer [pure]: Beleza. E como é que a gente garante que novos produtos que adicionarmos ao catálogo recebam a classificação certa desde o início?
+
+Customer Support [pure]: Tô concedendo pra conta de vocês privilégios avançados de classificação sob o protocolo ECP-2024-11. Daqui pra frente, qualquer SKU novo que vocês adicionarem vai herdar automaticamente a classificação DS-310, e vocês vão ter acesso direto pra sobrescrever qualquer sugestão do sistema através do portal empresarial.
+
+Customer [pure]: Isso deve prevenir problemas futuros. Você pode confirmar com quem eu devo falar se aparecer alguma discrepância de novo?
+
+Customer Support [pure]: Claro. Tô direcionando a conta de vocês pra nossa equipe especializada em tributos de bebidas alcoólicas, especificamente pra especialista sênior Maria Chen, ramal 4429. Além disso, tô documentando toda essa resolução sob o número de caso principal MC-784291-PERM pra tratamento prioritário de qualquer consulta futura.
+
+Customer [pure]: Excelente. Vou receber confirmação por escrito de todas essas mudanças e dos novos protocolos de classificação?
+
+Customer Support [pure]: Sim, você vai receber a documentação completa nas próximas quatro horas no email cadastrado. Isso vai incluir o relatório de correção de classificação, os detalhes do seu ajuste retroativo totalizando R$ 262.099,15, e suas credenciais de acesso ao novo protocolo ECP-2024-11.
+
+Customer [pure]: Perfeito, era exatamente essa solução definitiva que a gente precisava. Obrigado pela resolução completa.
+
+Customer Support [pure]: De nada, fico feliz em ajudar. Também já agendei uma ligação de acompanhamento pro dia 15 de novembro às 14h no horário de Brasília pra garantir que tudo tá processando corretamente no seu próximo ciclo de declaração. Tem mais alguma coisa que eu possa ajudar hoje sobre suas classificações tributárias?
+
+
+=== Original (English) ===
+
+Customer: Good afternoon. I need to discuss recurring tax classification errors on our account that are affecting our quarterly filings.
+
+Customer Support: Good afternoon, and thank you for reaching out. I'll be happy to investigate these classification errors for you today. May I have your account number and business name to pull up your complete tax profile?
+
+Customer: Certainly. We're Copper Ridge Distillery, account number 47829-B. This is the third consecutive quarter we've had incorrect classifications.
+
+Customer Support: Thank you. I have your account here, Copper Ridge Distillery, account 47829-B, and I can see you're registered as a licensed distillery with federal permit DSP-TX-20147. Let me review your recent tax classification history to identify the pattern.
+
+Customer: What I need to understand is why our spirits keep getting classified under beer and wine categories. This creates significant tax discrepancies.
+
+Customer Support: I see the issue clearly now. Your products are being miscoded under category BW-142 instead of the correct distilled spirits category DS-310, which creates a tax differential of approximately $13.50 per proof gallon. This is absolutely a critical error that needs permanent resolution.
+
+Customer: Exactly. Can you explain how this keeps happening despite our previous corrections? We've provided all proper documentation multiple times.
+
+Customer Support: Of course. Looking at your case history, tickets CR-20240115, CR-20240423, and CR-20240718 all show manual corrections were applied, but the underlying product mapping in our system wasn't updated at the source level. The temporary fixes weren't addressing the root cause configuration.
+
+Customer: That explains the recurrence. What specific steps can we take to permanently resolve this classification issue?
+
+Customer Support: I'm implementing a comprehensive solution right now. First, I'm updating your master product catalog with the correct DS-310 classification for all 47 SKUs in your portfolio, and second, I'm placing a system lock code SL-PERM-9847 to prevent any automatic reclassification.
+
+Customer: Will this correction apply retroactively to our pending quarterly filing? We have a deadline in two weeks.
+
+Customer Support: Absolutely. The retroactive adjustment will cover all transactions from January 1st through today, affecting 3,847 line items with a total tax adjustment of $52,419.83 in your favor. You'll receive the corrected forms within 48 hours.
+
+Customer: Good. How do we ensure new products we add to our catalog receive the correct classification from the start?
+
+Customer Support: I'm granting your account enhanced classification privileges under protocol ECP-2024-11. Moving forward, any new SKU you add will automatically inherit the DS-310 classification, and you'll have direct access to override any system suggestions through your business portal.
+
+Customer: That should prevent future issues. Can you confirm who I should contact if any discrepancies appear again?
+
+Customer Support: Certainly. I'm assigning your account to our specialized alcohol tax team, specifically to senior specialist Maria Chen, extension 4429. Additionally, I'm documenting this entire resolution under master case number MC-784291-PERM for priority handling of any future inquiries.
+
+Customer: Excellent. Will I receive written confirmation of all these changes and the new classification protocols?
+
+Customer Support: Yes, you'll receive comprehensive documentation within the next four hours to your registered email. This will include the classification correction report, your retroactive adjustment details totaling $52,419.83, and your new ECP-2024-11 protocol access credentials.
+
+Customer: Perfect. This is exactly the permanent solution we needed. Thank you for the thorough resolution.
+
+Customer Support: You're very welcome. I've also scheduled a follow-up call for November 15th at 2:00 PM Central to ensure everything is processing correctly through your next filing cycle. Is there anything else I can assist you with today regarding your tax classifications?
+

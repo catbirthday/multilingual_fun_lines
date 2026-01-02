@@ -1,0 +1,93 @@
+=== Source: 645a2a87_script.json ===
+Language: Russian
+Gender: male
+Mode: en
+Content Type: customer_support
+Professionalism: professional
+Scenario: specialty grocer, small margins meaning every incorrect vendor charge really hurts
+
+=== Translated Dialogue ===
+
+Customer [en]: Good afternoon. I need help with incorrect vendor charges on our account. We're a specialty grocer and these errors are impacting our operations.
+
+Customer Support [en]: Good afternoon, and thank you for reaching out. I understand how critical accurate billing is for your business. May I have your account number so I can review the specific charges you're referring to?
+
+Customer [en]: It's account number 447-892-GRO. We've had three incorrect charges this month alone.
+
+Customer Support [en]: Thank you. I'm pulling up account 447-892-GRO now and I can see your recent transaction history. I notice there were charges on the 3rd for $487.92, the 11th for $329.50, and the 18th for $612.88. Which of these amounts appear to be incorrect?
+
+Customer [en]: All three are wrong. Our purchase orders don't match any of those amounts.
+
+Customer Support [en]: I understand the urgency of resolving this. Let me cross-reference these charges with your purchase order records. I can see PO-88741 was for $397.92, PO-88759 was for $229.50, and PO-88763 was for $512.88. You're absolutely right about the discrepancies.
+
+Customer [en]: Exactly. With our margins at three percent, these overcharges really affect our cash flow.
+
+Customer Support [en]: Absolutely.
+
+Customer [en]: This has happened before. We need a permanent solution, not just corrections after the fact.
+
+Customer Support [en]: You're completely justified in that expectation. I'm going to do two things immediately. First, I'll process refunds for the overcharges totaling $290.00, which will appear in your account within 24 hours. Second, I'm escalating this to our billing accuracy team with priority code PAT-7761 to review your entire account configuration.
+
+Customer [en]: When can I expect to hear from the billing accuracy team?
+
+Customer Support [en]: The billing accuracy team will contact you within two business hours. They'll be calling from extension 4412 and will have your complete billing history from the past six months to identify any patterns causing these errors.
+
+Customer [en]: Good. We also need documentation of all corrections for our accounting department.
+
+Customer Support [en]: Certainly. I'm generating a detailed adjustment report with reference number ADJ-20241-KLM that will be emailed to you within the next fifteen minutes. This report will include all three original charges, the corrected amounts, and refund confirmation codes.
+
+Customer [en]: Will this report show the actual items that were incorrectly billed?
+
+Customer Support [en]: Yes, it will include complete itemization. I can see the discrepancies involve SKUs 7789-A, 7790-B, and 7791-C, which were all billed at incorrect wholesale tier pricing. The report will show both the charged prices and what your contracted rates should have been.
+
+Customer [en]: Our contracted rates should be tier two wholesale. Can you confirm that's what's in the system?
+
+Customer Support [en]: I'm reviewing your contract details now. I can see your account is actually set to tier three, not tier two, which explains the systematic overcharging. This is definitely an error on our end that needs immediate correction.
+
+Customer [en]: This is disappointing. We've been a customer for eight years and specifically negotiated tier two pricing.
+
+Customer Support [en]: I sincerely apologize for this oversight and the impact it's had on your business. I'm immediately updating your account to reflect tier two pricing effective today, and our billing accuracy team will calculate retroactive adjustments for the past ninety days under case number RETRO-5524-SP. You deserve better from us, and we'll make this right.
+
+
+=== Original (English) ===
+
+Customer: Good afternoon. I need help with incorrect vendor charges on our account. We're a specialty grocer and these errors are impacting our operations.
+
+Customer Support: Good afternoon, and thank you for reaching out. I understand how critical accurate billing is for your business. May I have your account number so I can review the specific charges you're referring to?
+
+Customer: It's account number 447-892-GRO. We've had three incorrect charges this month alone.
+
+Customer Support: Thank you. I'm pulling up account 447-892-GRO now and I can see your recent transaction history. I notice there were charges on the 3rd for $487.92, the 11th for $329.50, and the 18th for $612.88. Which of these amounts appear to be incorrect?
+
+Customer: All three are wrong. Our purchase orders don't match any of those amounts.
+
+Customer Support: I understand the urgency of resolving this. Let me cross-reference these charges with your purchase order records. I can see PO-88741 was for $397.92, PO-88759 was for $229.50, and PO-88763 was for $512.88. You're absolutely right about the discrepancies.
+
+Customer: Exactly. With our margins at three percent, these overcharges really affect our cash flow.
+
+Customer Support: Absolutely.
+
+Customer: This has happened before. We need a permanent solution, not just corrections after the fact.
+
+Customer Support: You're completely justified in that expectation. I'm going to do two things immediately. First, I'll process refunds for the overcharges totaling $290.00, which will appear in your account within 24 hours. Second, I'm escalating this to our billing accuracy team with priority code PAT-7761 to review your entire account configuration.
+
+Customer: When can I expect to hear from the billing accuracy team?
+
+Customer Support: The billing accuracy team will contact you within two business hours. They'll be calling from extension 4412 and will have your complete billing history from the past six months to identify any patterns causing these errors.
+
+Customer: Good. We also need documentation of all corrections for our accounting department.
+
+Customer Support: Certainly. I'm generating a detailed adjustment report with reference number ADJ-20241-KLM that will be emailed to you within the next fifteen minutes. This report will include all three original charges, the corrected amounts, and refund confirmation codes.
+
+Customer: Will this report show the actual items that were incorrectly billed?
+
+Customer Support: Yes, it will include complete itemization. I can see the discrepancies involve SKUs 7789-A, 7790-B, and 7791-C, which were all billed at incorrect wholesale tier pricing. The report will show both the charged prices and what your contracted rates should have been.
+
+Customer: Our contracted rates should be tier two wholesale. Can you confirm that's what's in the system?
+
+Customer Support: I'm reviewing your contract details now. I can see your account is actually set to tier three, not tier two, which explains the systematic overcharging. This is definitely an error on our end that needs immediate correction.
+
+Customer: This is disappointing. We've been a customer for eight years and specifically negotiated tier two pricing.
+
+Customer Support: I sincerely apologize for this oversight and the impact it's had on your business. I'm immediately updating your account to reflect tier two pricing effective today, and our billing accuracy team will calculate retroactive adjustments for the past ninety days under case number RETRO-5524-SP. You deserve better from us, and we'll make this right.
+

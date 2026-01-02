@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[concerned] These stress fractures in your metatarsals aren't healing properly, Martin. [firmly] The bone density scans show significant deterioration since your last expedition, and frankly, your feet can't handle another journey like that."
+        },
+        {
+            "role": "Character 2",
+            "content": "They'll hold up fine."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] You're limping just walking across my office! [exhales] Whatever you're planning, and I can see it in your eyes that you're planning something, your body is telling you to stop."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] My body has carried me through the Amazon basin, across Antarctic ice shelves, and up mountains that weren't supposed to be climbable. [quietly] These feet have taken me places no human has ever stood before."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] And look at them now."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] You think I don't know what I've sacrificed? [pause] Every scar, every broken bone, they're all entries in a ledger I've been keeping since I was twenty-three years old."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] There's a difference between sacrifice and self-destruction, Martin. [sighs] The arthritis alone should have you reconsidering, but combined with the nerve damage and these fractures that won't heal properly..."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] One more expedition."
+        },
+        {
+            "role": "Character 1",
+            "content": "[upset] Where?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] The Darién Gap, but not the tourist routes or the documented paths. [very quietly] There's a valley system that satellite imagery suggests might contain pre-Columbian settlements nobody's catalogued yet."
+        },
+        {
+            "role": "Character 1",
+            "content": "The Darién Gap is one of the most dangerous places on Earth! [angrily] Paramilitaries, drug traffickers, not to mention the terrain itself would destroy what's left of your feet."
+        },
+        {
+            "role": "Character 2",
+            "content": "[passionately] But imagine being the first to document an entire lost civilization! [excited] The pottery fragments washing downstream suggest something extraordinary is waiting up there, something that could rewrite our understanding of early American cultures."
+        },
+        {
+            "role": "Character 1",
+            "content": "[pleading] You'll die out there, Martin. [shaky voice] Your feet will give out in the jungle, miles from any help, and all for what? Another discovery to add to your list?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very sincerely] It's not about the list anymore. [slowly] It's about the fact that I can still feel the pull of unknown places, that despite everything broken in my body, my spirit still wants to see what's beyond the next ridge."
+        },
+        {
+            "role": "Character 1",
+            "content": "[resigned] You've already bought the plane tickets, haven't you? [sighs] All this appointment was about was getting me to clear you medically, give you some cover story for your insurance."
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] I leave in three weeks. [pause] I was hoping you'd give me cortisone injections, maybe some prescription painkillers, something to get me through just one more journey."
+        },
+        {
+            "role": "Character 1",
+            "content": "I became a podiatrist to help people walk without pain, to give them mobility and freedom. [frustrated] But you're asking me to enable what could very well be your death march."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] You're a good doctor, Sarah, and you're right about everything. [quietly] My body is failing, the expedition is dangerous beyond reason, and I'll probably die out there. [exhales] But dying while discovering feels more alive than sitting safely at home."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] Then let me at least give you the best chance I can. [resignedly] Custom orthotics, anti-inflammatories, and a strict regimen of exercises that might buy you a few more miles when everything starts breaking down."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gratefully] Thank you for understanding what I can't even explain to myself. [chuckles] Most people think I'm addicted to fame or glory, but it's simpler than that—I'm addicted to the moment when you realize you're standing somewhere nobody has ever stood before."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "9111c91c_scenario.json",
+    "actor": 2,
+    "scenario": "A podiatrist treating a famous discoverer's chronic foot injury realizes the explorer is planning one last dangerous expedition despite being physically unfit for the journey.",
+    "type": "scenario_conversation",
+    "character_1_role": "podiatrist",
+    "character_2_role": "discoverer",
+    "selected_tones": [
+        "concealing",
+        "dissenting",
+        "expressive"
+    ]
+}

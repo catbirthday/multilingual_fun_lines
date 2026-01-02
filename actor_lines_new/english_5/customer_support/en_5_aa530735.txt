@@ -1,0 +1,48 @@
+=== Source: aa530735_script.json ===
+Actor: english_5
+Content Type: customer_support
+Professionalism: professional
+Scenario: trying to understand their itemized bill breakdown
+
+=== Dialogue ===
+
+Customer: I received my monthly statement and need help understanding several line items on the bill.
+
+Customer Support: Certainly. I'd be happy to review your bill with you. May I have your account number so I can pull up your statement?
+
+Customer: It's account number 7829-4516-XK. The bill came to $487.23, which seems higher than usual.
+
+Customer Support: Thank you. I have your October statement showing a total of $487.23, and I can see there are 12 individual line items. Would you like me to walk through each charge, or are there specific items you'd like clarified?
+
+Customer: Let's start with the three charges labeled "premium service addon" that I don't recognize.
+
+Customer Support: Of course.
+
+Customer: Those charges are dated October 2nd, October 9th, and October 16th.
+
+Customer Support: I see those charges now. The first premium addon for $24.99 on October 2nd is for the enhanced security package you activated. The second charge of $19.99 is for priority technical support, and the third for $34.50 is for the data acceleration service.
+
+Customer: I don't recall authorizing the data acceleration service. Can you provide more details about that activation?
+
+Customer Support: Absolutely. According to our records, the data acceleration service was activated on October 16th at 3:47 PM through your online account portal. The confirmation number is CNF-892341-DA, and it appears to have been initiated from IP address 192.168.1.142.
+
+Customer: That IP address isn't familiar. Is that from my home network?
+
+Customer Support: Let me verify that for you. Your registered home IP range is 74.125.68.100 through 74.125.68.105, so this activation came from a different location. This could indicate someone else with account access made the change.
+
+Customer: That's concerning. Can we reverse that charge and remove the service immediately?
+
+Customer Support: I understand your concern.
+
+Customer: I also need to update my account security after we resolve this billing issue.
+
+Customer Support: I've already initiated the removal of the data acceleration service and submitted a credit request for the full $34.50 charge. The credit reference number is CRD-7829-1042, and it will appear on your next statement within 3-5 business days.
+
+Customer: Excellent. Now what about the charge for "system maintenance fee" at forty-two dollars?
+
+Customer Support: The $42.00 system maintenance fee is an annual charge that appears every October for infrastructure upgrades and network improvements. This was outlined in the service agreement section 4.2B, and you should have received an email notification 30 days prior on September 15th.
+
+Customer: I'll check my emails for that notification. Can you send me a detailed breakdown of all charges?
+
+Customer Support: I'll send that immediately. You'll receive a comprehensive PDF breakdown at your registered email by 4:45 PM today, including all 12 line items with descriptions and authorization dates. Is there anything else I can help clarify about your statement?
+

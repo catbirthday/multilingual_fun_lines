@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] Eles acabaram de... acabaram de nos dizer. O departamento todo. Acabou. [pause] Quer dizer, eu sabia que as coisas não estavam bem, mas dissolvido? A sério? Estamos aqui há quanto, 7 anos? 8? E agora estão só, hum... a espalhar-nos por aí como se fôssemos—sei lá, tipo peças num jogo de tabuleiro ou assim.\n\n[upset] A Sarah vai para a contabilidade. O Mike vai ser enviado para o escritório de Boston. Boston! Os filhos dele acabaram de entrar na escola aqui. [sigh] E eu? They're \"still figuring out where I'd be the best fit.\" Sei lá o que isso quer dizer.\n\nNós construímos algo aqui, sabes? [quietly] Esta equipa, nós realmente... cuidávamos uns dos outros. Os almoços de sexta, as piadas parvas sobre a impressora. Lembras-te quando ficámos todos até tarde para ajudar a Jenny com aquele projeto infernal? That's just... gone now.\n\n[bitter] \"Reestruturação para eficiência,\" disseram eles. O consultor nem sequer nos olhou nos olhos. Só leu do seu script como se fôssemos, ah... como se fôssemos números numa folha de cálculo. [pause]\n\nFico a pensar que talvez devesse ter visto isto a chegar. Os cortes no orçamento, o congelamento de contratações. Mas sinceramente? [very sad] I thought we mattered more than this."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] They just... they just told us. The whole department. Gone. [pause] I mean, I knew things weren't great, but dissolved? Really? We've been here for, what, seven years? Eight? And now they're just, um... scattering us around like we're—I don't know, like pieces on a board game or something. \n\n[upset] Sarah's going to accounting. Mike's being sent to the Boston office. Boston! His kids just started school here. [sigh] And me? They're \"still figuring out where I'd be the best fit.\" Whatever that means.\n\nWe built something here, you know? [quietly] This team, we actually... we cared about each other. Friday lunches, the stupid inside jokes about the printer. Remember when we all stayed late to help Jenny with that nightmare project? That's just... gone now.\n\n[bitter] \"Restructuring for efficiency,\" they said. The advisor didn't even look us in the eye. Just read from his little script like we're, uh... like we're numbers on a spreadsheet. [pause] \n\nI keep thinking maybe I should've seen this coming. The budget cuts, the hiring freeze. But honestly? [very sad] I thought we mattered more than this."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "29c7e0b7_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The restructuring advisor delivered the news that your department is being dissolved and your team scattered across the company",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

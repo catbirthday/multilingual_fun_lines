@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. Estoy llamando por mi cuenta del cable que parece haber subido como 40 dólares este mes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for calling. Con mucho gusto reviso su cuenta y le explico cualquier cambio. ¿Me podría dar su número de cuenta o el teléfono asociado con su servicio?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is on my bill here. Es 447-298-3156."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. Estoy buscando la cuenta 447-298-3156 ahora mismo. Veo que su estado de cuenta de enero muestra un saldo de $147.82, que efectivamente es más alto que su monto de diciembre de $107.82. Déjeme revisar los cargos detallados para identificar qué cambió."
+        },
+        {
+            "role": "Customer",
+            "content": "I'd appreciate that. He tenido el mismo paquete por tres años sin ningún problema."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern. Puedo ver aquí que su tarifa promocional para el Premium Entertainment bundle, que era $79.99 mensual, se venció el 31 de diciembre del 2024. La tarifa regular para este paquete es $119.99, lo cual explica el aumento de 40 dólares que está viendo."
+        },
+        {
+            "role": "Customer",
+            "content": "Nobody informed me that my promotional rate was ending. Esto me parece bastante excesivo por el mismo servicio."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize that you weren't properly notified about the rate change. Según nuestros registros, se incluyó un aviso con su estado de cuenta de noviembre 2024 en la página 3, pero entiendo que estos pueden ser fáciles de pasar por alto. Déjeme verificar qué promociones actuales puedo aplicarle para reducir su factura."
+        },
+        {
+            "role": "Customer",
+            "content": "Please do. Estoy con ingresos fijos y este aumento no es sostenible para mí."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I understand the importance of managing your monthly expenses. Tengo buenas noticias. Puedo ofrecerle nuestro Senior Saver package a $89.99 por mes, que incluye todos sus canales actuales más nuestro enhanced DVR service con 500 horas de almacenamiento. Esto en realidad le daría más funciones que su plan actual."
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds reasonable. ¿Esa tarifa estaría fija, o va a subir otra vez el próximo año?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. Esta tarifa está garantizada por 24 meses hasta el 31 de enero del 2027, sin aumentos escondidos. Después de eso, la tarifa subiría a $109.99, pero siempre puede llamarnos antes para revisar otras promociones disponibles. También voy a agregar una nota para enviarle un recordatorio 60 días antes de que termine el período promocional."
+        },
+        {
+            "role": "Customer",
+            "content": "That's much better. ¿También me puede explicar qué incluye el enhanced DVR service?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. El enhanced DVR service, modelo DVR-X500, le permite grabar hasta seis programas simultáneamente y almacenar hasta 500 horas de contenido HD. También puede descargar la app CableView usando el código APP-CABLE-2025 para ver sus grabaciones en cualquier dispositivo móvil cuando esté fuera de casa."
+        },
+        {
+            "role": "Customer",
+            "content": "I see. ¿Y cuándo entraría en efecto esta nueva tarifa en mi factura?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'll apply this change immediately, effective today January 15th, 2025. Su próxima factura mostrará un crédito prorrateado de $23.47 por la diferencia entre la tarifa vieja y la nueva para enero, y comenzando con su estado de cuenta de febrero, verá el cargo consistente de $89.99 más los impuestos y cargos aplicables."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. ¿Me podría enviar por favor una confirmación por email con todos estos detalles?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. Estoy enviando una confirmación detallada al correo electrónico que tenemos en archivo, que termina en @gmail.com. La recibirá en los próximos 15 minutos con el número de confirmación CS-20250115-4472. Este email incluirá su nueva tarifa, los términos, y mi extensión directa 5547 si necesita cualquier ayuda adicional."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Ha sido muy útil resolviendo este problema rápidamente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. Me alegra mucho que pude ayudarla hoy. Su nuevo Senior Saver package ya está activo en la cuenta 447-298-3156, y debería recibir ese email de confirmación en breve. ¿Hay algo más en lo que pueda asistirla con su servicio de cable o cualquier otro servicio que proveemos?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling about my cable bill which seems to have increased by forty dollars this month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for calling. I'd be happy to review your account and explain any changes. May I please have your account number or the phone number associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is on my bill here. It's 447-298-3156."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm pulling up account 447-298-3156 now. I can see your statement for January shows a balance of $147.82, which is indeed higher than your December amount of $107.82. Let me review the itemized charges to identify what changed."
+        },
+        {
+            "role": "Customer",
+            "content": "I'd appreciate that. I've had the same package for three years without any issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern. I can see here that your promotional rate for the Premium Entertainment bundle, which was $79.99 monthly, expired on December 31st, 2024. The standard rate for this package is $119.99, which accounts for the forty dollar increase you're seeing."
+        },
+        {
+            "role": "Customer",
+            "content": "Nobody informed me that my promotional rate was ending. This seems quite excessive for the same service."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize that you weren't properly notified about the rate change. According to our records, a notice was included with your November 2024 statement on page 3, but I understand these can be easy to miss. Let me check what current promotions I can apply to reduce your bill."
+        },
+        {
+            "role": "Customer",
+            "content": "Please do. I'm on a fixed income and this increase isn't sustainable for me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I understand the importance of managing your monthly expenses. I have good news. I can offer you our Senior Saver package at $89.99 per month, which includes all your current channels plus our enhanced DVR service with 500 hours of storage. This would actually give you more features than your current plan."
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds reasonable. Would that rate be locked in, or will it increase again next year?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. This rate is guaranteed for 24 months through January 31st, 2027, with no hidden increases. After that, the rate would go to $109.99, but you can always call us before then to review other available promotions. I'll also add a note to send you a reminder 60 days before the promotional period ends."
+        },
+        {
+            "role": "Customer",
+            "content": "That's much better. Can you also explain what the enhanced DVR service includes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The enhanced DVR service, model DVR-X500, allows you to record up to six shows simultaneously and store up to 500 hours of HD content. You can also download the CableView app using code APP-CABLE-2025 to watch your recordings on any mobile device when you're away from home."
+        },
+        {
+            "role": "Customer",
+            "content": "I see. And when would this new rate take effect on my bill?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'll apply this change immediately, effective today January 15th, 2025. Your next bill will show a prorated credit of $23.47 for the difference between the old and new rate for January, and starting with your February statement, you'll see the consistent charge of $89.99 plus applicable taxes and fees."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Could you please send me an email confirmation with all these details?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a detailed confirmation to the email address we have on file, which ends in @gmail.com. You'll receive it within the next 15 minutes with confirmation number CS-20250115-4472. This email will include your new rate, the terms, and my direct extension 5547 if you need any further assistance."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. You've been very helpful in resolving this issue quickly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I'm glad I could help you today. Your new Senior Saver package is now active on account 447-298-3156, and you should receive that confirmation email shortly. Is there anything else I can assist you with regarding your cable service or any other services we provide?"
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "625f610c_script.json",
+    "professionalism": "professional",
+    "scenario": "elderly retiree, confused about why her cable bill increased by forty dollars",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "politely_firm",
+                "matter_of_fact"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "reassuringly_calm",
+                "graciously_accommodating"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

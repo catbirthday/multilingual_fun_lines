@@ -1,0 +1,93 @@
+=== Source: 244252cf_script.json ===
+Language: European Portuguese
+Gender: male
+Mode: en
+Content Type: customer_support
+Professionalism: professional
+Scenario: trying to cancel a subscription they forgot they signed up for
+
+=== Translated Dialogue ===
+
+Customer [en]: Good morning. I need to cancel a subscription that's been charging my credit card. I just noticed it on my statement.
+
+Customer Support [en]: Good morning, and thank you for contacting us. I'll be happy to help you cancel that subscription right away. May I have your email address or account number so I can locate your subscription in our system?
+
+Customer [en]: The email is michael.davidson@techcorp.com. The charges show as "Premium Analytics Plus" for thirty-nine ninety-five monthly.
+
+Customer Support [en]: Thank you, Mr. Davidson. I've located your account, subscription ID PA-2019-847362, which has been active since March 2019. I can see you've been charged $39.95 on the fifteenth of each month, with your most recent charge processed three days ago on October 15th.
+
+Customer [en]: Five years? I completely forgot about this service. We stopped using it when we switched platforms in 2021.
+
+Customer Support [en]: I understand completely. I can see your last login to the platform was actually on November 8th, 2021, nearly two years ago. Let me process the cancellation immediately and we'll also discuss what we can do about recent charges since you haven't been using the service.
+
+Customer [en]: That would be excellent. What's the process for getting a refund for the unused months?
+
+Customer Support [en]: Certainly. Our standard refund policy covers up to 90 days, which would be three months at $39.95 each, totaling $119.85. However, given that your account shows zero platform usage since 2021, I'm going to escalate this to our retention team for a potential extended refund review, case number RF-10287-MD.
+
+Customer [en]: I appreciate that. When will I hear back about the extended refund review?
+
+Customer Support [en]: The retention team typically responds within 24 to 48 hours, so you should receive an email by Thursday, October 19th at the latest. In the meantime, I'm processing your immediate cancellation right now, and you'll receive a confirmation email within the next 5 minutes to michael.davidson@techcorp.com.
+
+Customer [en]: Perfect. Will the cancellation stop the next charge from processing? I want to make sure nothing hits on November fifteenth.
+
+Customer Support [en]: Absolutely. The cancellation is effective immediately, confirmation number CX-994521-B, and I've specifically flagged your account to prevent any November 15th charge from processing. Your subscription status now shows as terminated as of today, October 17th, 2024, at 9:47 AM Eastern Time.
+
+Customer [en]: Excellent. Can you also remove my stored payment information from your system?
+
+Customer Support [en]: Of course. I'm removing your payment method ending in 4782 from our system right now. For security compliance under PCI DSS standards, the deletion will be complete within 24 hours, and you'll receive a separate confirmation email when the payment data has been fully purged from all our systems, including backups.
+
+Customer [en]: Thank you. Is there anything else I need to do on my end to ensure this is completely closed out?
+
+Customer Support [en]: No additional action is required from you. Your account is fully cancelled, reference number CX-994521-B, the standard refund of $119.85 will process within 5 to 7 business days, and the retention team will contact you about the extended refund by October 19th. I'd also recommend checking your email for our confirmation messages over the next hour.
+
+Customer [en]: This has been very helpful. Can I get a copy of my account history for my records?
+
+Customer Support [en]: Certainly. I'll generate a complete account history report including all transactions from March 2019 through today. The report, document ID DOC-773492-PMD, will be sent to your email within the next 30 minutes in PDF format, and will include all charges, totaling $2,397.00 over the sixty-month period.
+
+Customer [en]: That's perfect for our accounting department. Thank you for handling this so efficiently.
+
+Customer Support [en]: You're very welcome, Mr. Davidson. I'm glad I could resolve this quickly for you. The cancellation is complete, your refund is being processed, and all confirmation documents will arrive shortly. If you need anything else, please reference case number RF-10287-MD, and have an excellent rest of your day.
+
+
+=== Original (English) ===
+
+Customer: Good morning. I need to cancel a subscription that's been charging my credit card. I just noticed it on my statement.
+
+Customer Support: Good morning, and thank you for contacting us. I'll be happy to help you cancel that subscription right away. May I have your email address or account number so I can locate your subscription in our system?
+
+Customer: The email is michael.davidson@techcorp.com. The charges show as "Premium Analytics Plus" for thirty-nine ninety-five monthly.
+
+Customer Support: Thank you, Mr. Davidson. I've located your account, subscription ID PA-2019-847362, which has been active since March 2019. I can see you've been charged $39.95 on the fifteenth of each month, with your most recent charge processed three days ago on October 15th.
+
+Customer: Five years? I completely forgot about this service. We stopped using it when we switched platforms in 2021.
+
+Customer Support: I understand completely. I can see your last login to the platform was actually on November 8th, 2021, nearly two years ago. Let me process the cancellation immediately and we'll also discuss what we can do about recent charges since you haven't been using the service.
+
+Customer: That would be excellent. What's the process for getting a refund for the unused months?
+
+Customer Support: Certainly. Our standard refund policy covers up to 90 days, which would be three months at $39.95 each, totaling $119.85. However, given that your account shows zero platform usage since 2021, I'm going to escalate this to our retention team for a potential extended refund review, case number RF-10287-MD.
+
+Customer: I appreciate that. When will I hear back about the extended refund review?
+
+Customer Support: The retention team typically responds within 24 to 48 hours, so you should receive an email by Thursday, October 19th at the latest. In the meantime, I'm processing your immediate cancellation right now, and you'll receive a confirmation email within the next 5 minutes to michael.davidson@techcorp.com.
+
+Customer: Perfect. Will the cancellation stop the next charge from processing? I want to make sure nothing hits on November fifteenth.
+
+Customer Support: Absolutely. The cancellation is effective immediately, confirmation number CX-994521-B, and I've specifically flagged your account to prevent any November 15th charge from processing. Your subscription status now shows as terminated as of today, October 17th, 2024, at 9:47 AM Eastern Time.
+
+Customer: Excellent. Can you also remove my stored payment information from your system?
+
+Customer Support: Of course. I'm removing your payment method ending in 4782 from our system right now. For security compliance under PCI DSS standards, the deletion will be complete within 24 hours, and you'll receive a separate confirmation email when the payment data has been fully purged from all our systems, including backups.
+
+Customer: Thank you. Is there anything else I need to do on my end to ensure this is completely closed out?
+
+Customer Support: No additional action is required from you. Your account is fully cancelled, reference number CX-994521-B, the standard refund of $119.85 will process within 5 to 7 business days, and the retention team will contact you about the extended refund by October 19th. I'd also recommend checking your email for our confirmation messages over the next hour.
+
+Customer: This has been very helpful. Can I get a copy of my account history for my records?
+
+Customer Support: Certainly. I'll generate a complete account history report including all transactions from March 2019 through today. The report, document ID DOC-773492-PMD, will be sent to your email within the next 30 minutes in PDF format, and will include all charges, totaling $2,397.00 over the sixty-month period.
+
+Customer: That's perfect for our accounting department. Thank you for handling this so efficiently.
+
+Customer Support: You're very welcome, Mr. Davidson. I'm glad I could resolve this quickly for you. The cancellation is complete, your refund is being processed, and all confirmation documents will arrive shortly. If you need anything else, please reference case number RF-10287-MD, and have an excellent rest of your day.
+

@@ -1,0 +1,91 @@
+=== Source: dialogue12_30.txt ===
+Language: European Portuguese
+Gender: female
+Mode: en
+Content Type: dialogue
+
+=== Translated Dialogue ===
+
+Character 1 [en]: How do you make sure your website works for people with disabilities?
+
+Character 2 [en]: Oh wow, I really appreciate you asking about this! Most people don't even, uh, think to consider accessibility, but it's honestly fundamental to what we do. We follow WCAG guidelines—that's Web Content Accessibility Guidelines—and basically ensure everything works with screen readers, keyboard navigation, and, mmm, various assistive technologies.
+
+Character 1 [en]: Is that expensive to implement?
+
+Character 2 [en]: [mumbling] Well, it's... it's actually more cost-effective when you build it in from the start rather than retrofitting later. The upfront investment is maybe, err, ten to fifteen percent more, but you're avoiding potential lawsuits and, more importantly, you're including like twenty percent of your potential user base who might otherwise be excluded.
+
+Character 1 [en]: I didn't realize it was that many people.
+
+Character 2 [en]: Yeah, absolutely! And that's just people with permanent disabilities—when you factor in temporary and situational impairments, like, someone with a broken arm or trying to use their phone in bright sunlight, accessible design benefits literally everyone. It's this beautiful thing called the curb-cut effect.
+
+Character 1 [en]: What's the curb-cut effect?
+
+Character 2 [en]: Okay so, you know those ramps cut into sidewalks for wheelchairs? Well, turns out everyone uses them—parents with strollers, delivery people with dollies, cyclists, people with luggage. That's the curb-cut effect: when you design for disability, you often, uhh, create solutions that make life better for everyone.
+
+Character 1 [en]: That makes sense. What specific things do you test for?
+
+Character 2 [en]: Geez, there's so much—we test color contrast ratios, ensure all images have alt text, verify that every interactive element is keyboard accessible. We also, um, check that forms have proper labels, videos have captions, and honestly, we run everything through multiple screen readers because they all behave slightly differently.
+
+Character 1 [en]: Do you have disabled people test it too?
+
+Character 2 [en]: [cheerful] Yes! Oh my god, yes, and I'm so glad you brought that up! Nothing beats actual user testing with people who use assistive tech daily—they catch things automated tools miss and, err, provide insights that are just invaluable. We pay them as consultants because their expertise is genuinely irreplaceable.
+
+Character 1 [en]: What's the most common mistake you see?
+
+Character 2 [en]: Oof, probably assuming that adding alt text to images is enough and calling it done. But accessibility is about, like, the entire user journey—can someone navigate your menu structure, fill out forms, understand error messages? It's really about creating equivalent experiences, not just checking compliance boxes.
+
+Character 1 [en]: How do you convince companies who don't care?
+
+Character 2 [en]: [passionately] Look, I get fired up about this because beyond the moral imperative, the business case is undeniable! You're expanding your market, improving SEO, reducing legal risk, and honestly, accessible sites typically have better usability metrics across the board because they're just, fundamentally, better designed!
+
+Character 1 [en]: What about mobile apps?
+
+Character 2 [en]: Mobile accessibility is, uhh, its own beast but equally critical—we ensure compatibility with VoiceOver on iOS and TalkBack on Android, proper touch target sizes, and gesture alternatives. The beautiful thing is both platforms have gotten, mmm, really sophisticated with their accessibility APIs, so developers have no excuse anymore.
+
+Character 1 [en]: Where should someone start if they want to learn more?
+
+Character 2 [en]: Honestly? Start with WebAIM's resources—they're fantastic and free. But also, and I mean this sincerely, just install a screen reader and try navigating your favorite websites with your monitor off. That experience will teach you more in an hour than, err, weeks of reading about accessibility theory ever could.
+
+
+=== Original (English) ===
+
+Character 1: How do you make sure your website works for people with disabilities?
+
+Character 2: Oh wow, I really appreciate you asking about this! Most people don't even, uh, think to consider accessibility, but it's honestly fundamental to what we do. We follow WCAG guidelines—that's Web Content Accessibility Guidelines—and basically ensure everything works with screen readers, keyboard navigation, and, mmm, various assistive technologies.
+
+Character 1: Is that expensive to implement?
+
+Character 2: [mumbling] Well, it's... it's actually more cost-effective when you build it in from the start rather than retrofitting later. The upfront investment is maybe, err, ten to fifteen percent more, but you're avoiding potential lawsuits and, more importantly, you're including like twenty percent of your potential user base who might otherwise be excluded.
+
+Character 1: I didn't realize it was that many people.
+
+Character 2: Yeah, absolutely! And that's just people with permanent disabilities—when you factor in temporary and situational impairments, like, someone with a broken arm or trying to use their phone in bright sunlight, accessible design benefits literally everyone. It's this beautiful thing called the curb-cut effect.
+
+Character 1: What's the curb-cut effect?
+
+Character 2: Okay so, you know those ramps cut into sidewalks for wheelchairs? Well, turns out everyone uses them—parents with strollers, delivery people with dollies, cyclists, people with luggage. That's the curb-cut effect: when you design for disability, you often, uhh, create solutions that make life better for everyone.
+
+Character 1: That makes sense. What specific things do you test for?
+
+Character 2: Geez, there's so much—we test color contrast ratios, ensure all images have alt text, verify that every interactive element is keyboard accessible. We also, um, check that forms have proper labels, videos have captions, and honestly, we run everything through multiple screen readers because they all behave slightly differently.
+
+Character 1: Do you have disabled people test it too?
+
+Character 2: [cheerful] Yes! Oh my god, yes, and I'm so glad you brought that up! Nothing beats actual user testing with people who use assistive tech daily—they catch things automated tools miss and, err, provide insights that are just invaluable. We pay them as consultants because their expertise is genuinely irreplaceable.
+
+Character 1: What's the most common mistake you see?
+
+Character 2: Oof, probably assuming that adding alt text to images is enough and calling it done. But accessibility is about, like, the entire user journey—can someone navigate your menu structure, fill out forms, understand error messages? It's really about creating equivalent experiences, not just checking compliance boxes.
+
+Character 1: How do you convince companies who don't care?
+
+Character 2: [passionately] Look, I get fired up about this because beyond the moral imperative, the business case is undeniable! You're expanding your market, improving SEO, reducing legal risk, and honestly, accessible sites typically have better usability metrics across the board because they're just, fundamentally, better designed!
+
+Character 1: What about mobile apps?
+
+Character 2: Mobile accessibility is, uhh, its own beast but equally critical—we ensure compatibility with VoiceOver on iOS and TalkBack on Android, proper touch target sizes, and gesture alternatives. The beautiful thing is both platforms have gotten, mmm, really sophisticated with their accessibility APIs, so developers have no excuse anymore.
+
+Character 1: Where should someone start if they want to learn more?
+
+Character 2: Honestly? Start with WebAIM's resources—they're fantastic and free. But also, and I mean this sincerely, just install a screen reader and try navigating your favorite websites with your monitor off. That experience will teach you more in an hour than, err, weeks of reading about accessibility theory ever could.
+

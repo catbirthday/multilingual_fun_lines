@@ -1,0 +1,93 @@
+=== Source: 06598723_script.json ===
+Language: French
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: conservation officer, straightforward and wanting direct answers about vehicle maintenance fees
+
+=== Translated Dialogue ===
+
+Customer [pure]: Bon, j'appelle au sujet d'anomalies sur nos frais d'entretien de flotte. On nous a surfacturé pendant trois mois d'affilée.
+
+Customer Support [pure]: Merci de me signaler ça. Je vais regarder ça tout de suite pour vous. Est-ce que je peux avoir votre numéro de compte flotte pour consulter votre historique de facturation ?
+
+Customer [pure]: C'est le District de Conservation Sept, le numéro de compte devrait être dans votre système.
+
+Customer Support [pure]: J'ai trouvé votre compte, CD-7-FLEET-892. Je vois que vous gérez 12 véhicules de patrouille et 3 unités spécialisées. Laissez-moi examiner vos factures d'entretien des trois derniers mois pour identifier ces anomalies.
+
+Customer [pure]: Écoutez, le contrat stipule un forfait d'entretien à 2000 par véhicule par mois. On nous facture bien plus que ça.
+
+Customer Support [pure]: Ah, je vois le problème maintenant. Votre contrat référence MAINT-2024-CD7 spécifie bien 2000 $ par véhicule de patrouille standard. Par contre, je vois des frais supplémentaires codés ENV-SURCHARGE-15 qui ne devraient pas s'appliquer aux comptes gouvernementaux de conservation.
+
+Customer [pure]: Voilà, exactement. Ces surcharges environnementales ne devraient pas du tout nous concerner.
+
+Customer Support [pure]: Vous avez tout à fait raison. Ces surcharges de 4500 $ par mois ont été appliquées par erreur depuis septembre. Je lance un remboursement intégral de ces frais, ce qui fait 13 500 $ pour la période de trois mois.
+
+Customer [pure]: Bien. Quand est-ce que le remboursement sera traité, et comment on évite que ça se reproduise ?
+
+Customer Support [pure]: D'accord.
+
+Customer [pure]: Euh, il me faut quand même plus de détails que ça.
+
+Customer Support [pure]: Pardon pour le manque de précision. Le remboursement sera traité aujourd'hui sous la référence REF-2024-31542 et devrait apparaître sur votre compte dans un délai de 3 à 5 jours ouvrables. Je mets aussi un code d'exemption permanent GOVT-EXEMPT-ENV sur votre compte.
+
+Customer [pure]: Est-ce que ce code d'exemption va bloquer automatiquement toutes les futures surcharges environnementales ?
+
+Customer Support [pure]: Oui, le code GOVT-EXEMPT-ENV crée un blocage automatique sur tous les frais environnementaux. En plus, j'assigne votre compte à notre spécialiste services gouvernementaux, poste 4412, qui vérifie toutes les charges avant facturation.
+
+Customer [pure]: C'est mieux, ça. Vous pouvez m'envoyer la documentation de ces changements par courriel aujourd'hui ?
+
+Customer Support [pure]: Bien sûr. Je vous envoie un récapitulatif complet à votre adresse courriel enregistrée dans les 30 minutes, incluant la confirmation de remboursement REF-2024-31542, la documentation du code d'exemption, et les coordonnées directes de votre spécialiste.
+
+Customer [pure]: Il me faut aussi notre facture d'octobre corrigée avant qu'elle soit traitée la semaine prochaine.
+
+Customer Support [pure]: Je m'en occupe tout de suite. Le montant corrigé sera exactement 30 000 $ pour vos 15 véhicules à 2000 $ chacun. La facture mise à jour OCT-2024-REVISED-CD7 va remplacer la version précédente dans notre système immédiatement.
+
+Customer [pure]: Parfait. Ben ça règle tout ce que j'avais à voir aujourd'hui.
+
+Customer Support [pure]: Excellent. J'ai pris des notes détaillées dans votre compte concernant les corrections d'aujourd'hui et l'exemption permanente. Votre spécialiste dédié va aussi faire un suivi dans les 48 heures pour s'assurer que tout se traite correctement. Merci de votre patience pendant qu'on réglait ce problème.
+
+
+=== Original (English) ===
+
+Customer: I'm calling about discrepancies in our fleet vehicle maintenance fees. We've been overcharged for three consecutive months.
+
+Customer Support: Thank you for bringing this to my attention. I'd be happy to investigate this issue for you. May I have your fleet account number to pull up your billing history?
+
+Customer: It's Conservation District Seven, account number should be on file.
+
+Customer Support: I've located your account, CD-7-FLEET-892. I can see you manage 12 patrol vehicles and 3 specialized units. Let me review your maintenance billing from the past three months to identify those discrepancies.
+
+Customer: The contract states flat rate maintenance at two thousand per vehicle monthly. We're being charged considerably more.
+
+Customer Support: I see the issue now. Your contract reference MAINT-2024-CD7 does specify $2,000 per standard patrol vehicle. However, I'm showing additional charges coded as ENV-SURCHARGE-15 that shouldn't apply to government conservation accounts.
+
+Customer: Exactly. Those environmental surcharges shouldn't apply to us at all.
+
+Customer Support: You're absolutely correct. These surcharges totaling $4,500 monthly were incorrectly applied starting in September. I'm initiating a full refund for these charges, which comes to $13,500 for the three-month period.
+
+Customer: Good. When will the refund be processed, and how do we prevent this recurring?
+
+Customer Support: Certainly.
+
+Customer: I need more specific information than that.
+
+Customer Support: I apologize for the brevity. The refund will be processed today under reference number REF-2024-31542 and should reflect in your account within 3 to 5 business days. I'm also placing a permanent exemption code GOVT-EXEMPT-ENV on your account.
+
+Customer: Will this exemption code prevent all future environmental surcharges automatically?
+
+Customer Support: Yes, the GOVT-EXEMPT-ENV code creates an automatic block on all environmental fees. Additionally, I'm assigning your account to our government services specialist, extension 4412, who reviews all charges before billing.
+
+Customer: That's better. Can you email me documentation of these changes today?
+
+Customer Support: Absolutely. I'll send a comprehensive summary to your registered email within the next 30 minutes, including refund confirmation REF-2024-31542, the exemption code documentation, and your specialist's direct contact information.
+
+Customer: I also need our October invoice corrected before it processes next week.
+
+Customer Support: I'm adjusting October's invoice right now. The corrected amount will be exactly $30,000 for your 15 vehicles at $2,000 each. The updated invoice OCT-2024-REVISED-CD7 will replace the previous version in our system immediately.
+
+Customer: Perfect. That resolves everything I needed addressed today.
+
+Customer Support: Excellent. I've made detailed notes in your account regarding today's corrections and the permanent exemption. Your dedicated specialist will also follow up within 48 hours to ensure everything is processing correctly. Thank you for your patience while we corrected this issue.
+

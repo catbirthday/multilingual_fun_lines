@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Так я просто—я только что получил списание и типа... я не понимаю, потому что в общем вы же говорили, что будет бесплатно?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "О, привет! Эм, с удовольствием помогу разобраться, сейчас только—а, стоп, дайте-ка я сначала вашу учётку открою, какой у вас номер заказа или email?"
+        },
+        {
+            "role": "Customer",
+            "content": "Это это sarah.chen собака gmail. То есть, простите, я наверное просто что-то не так понял."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да не извиняйтесь! Так, хм, вижу ваш аккаунт, Сара, и смотрю тут списание на $47.99, которое прошло сегодня утром в 9:14, это оно, да?"
+        },
+        {
+            "role": "Customer",
+            "content": "Да это—это оно. Так вот мне в общем сказали... секунду, дайте вспомнить, как именно они это сформулировали..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Конечно, не торопитесь! Пока вы думаете, э, я тут вижу, что это списание привязано к заказу ORD-9847-ZM22, который был оформлен 3 ноября, и похоже—ой, стоп, кажется, я понял, что произошло."
+        },
+        {
+            "role": "Customer",
+            "content": "Ага ага, так вот что я помню, типа... они говорили первый месяц бесплатно. Вот что в рекламе было написано."
+        },
+        {
+            "role": "Customer Support",
+            "content": "А-а-а, точно точно, да! Так вот что случилось—э, вообще давайте я нормально объясню—премиум-подписка SKU-PREM-2024 действительно идёт с первым месяцем бесплатно, но этот промокод PRM-FREE30 нужно вводить при оформлении, и хм, я не вижу, чтобы он был применён."
+        },
+        {
+            "role": "Customer",
+            "content": "Стоп, но я—нет, погодите, я точно... хотя... ой. Может, я его не ввёл?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Дайте-ка проверю логи сессии... эм, так, смотрю на временную метку 11:47:23 от 3 ноября, тут показано, что вы начали вводить код, но, э, поле осталось пустым, когда вы завершили оформление."
+        },
+        {
+            "role": "Customer",
+            "content": "Блин. Мне так—это же стыдно просто. Я, наверное, отвлёкся или или ещё что-то."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да не переживайте, честно, это постоянно происходит! Типа, э, наверное раза три-четыре в день мне точно такие же звонки поступают, так что вы точно не один такой, но к сожалению—и тут мне придётся вас расстроить—эту промо-ставку можно применить только при первичном оформлении."
+        },
+        {
+            "role": "Customer",
+            "content": "Но это—в смысле я же ваш клиент уже... уже типа три года. Неужели нельзя просто добавить сейчас?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Я бы очень хотел! Эм, система просто не даёт мне задним числом применять эти промо для новых пользователей к завершённым заказам, но погодите, что я могу сделать—вообще дайте-ка посмотрю—я могу предложить вам бонус лояльности $15.00 скидки на следующий платёжный цикл?"
+        },
+        {
+            "role": "Customer",
+            "content": "То есть по сути я просто... я теряю тридцать три доллара из-за того, что забыл что-то напечатать?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ммм, понимаю, это обидно. Знаете что—я сейчас оставлю пометку в тикете TKT-847291 для моего супервайзера, и иногда они могут сделать исключение и начислить кредит, особенно для клиентов с таким стажем как у вас, 37 месяцев если точно."
+        },
+        {
+            "role": "Customer",
+            "content": "Я просто—ладно, слушайте, я ценю, что вы пытаетесь помочь, но типа... это как-то неправильно всё равно."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Полностью понимаю."
+        },
+        {
+            "role": "Customer",
+            "content": "Когда мне... когда мне ждать ответа по поводу супервайзера?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так, обычно они рассматривают такое в течение 24-48 часов, и вам придёт email на sarah.chen собака gmail—э, стоп, дайте-ка уточню, что это всё ещё ваш основной—да, правильно—так что да, максимум к четвергу точно, и честно говоря есть довольно хорошие шансы, что они одобрят хотя бы частичный возврат."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I just—I just got charged and like... I'm confused because basically you guys said it would be free?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh hi there! Um, I'd love to help you figure this out, let me just—actually wait, let me pull up your account real quick, what's your order number or email address?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's sarah.chen at gmail. I mean, I'm sorry, I'm probably just missing something here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, don't apologize! Okay so, hmm, I see your account here, Sarah, and I'm looking at a charge for $47.99 that went through this morning at 9:14 AM, is that the one you're asking about?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that's—that's the one. So basically I was told... hold on let me think how they said it..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sure, take your time! While you're thinking, uh, I can see here that this charge is linked to order ORD-9847-ZM22, which was placed on November 3rd, and it looks like—oh wait, I think I might see what happened here."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay, so what I remember is like... they said first month free. That's what the ad said."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ohhh right right, yes! So what happened is—er, actually let me explain this properly—the premium subscription SKU-PREM-2024 does have a first month free, but that promotional code PRM-FREE30 needs to be entered at checkout, and hmm, I'm not seeing it applied here."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait but I—no wait, I definitely... actually... oh. Maybe I didn't enter it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me check the session logs real quick... um, so looking at timestamp 11:47:23 on November 3rd, it shows you started entering a code but, uh, the field was left blank when you completed checkout."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god. I'm so—this is embarrassing. I must have gotten distracted or or something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, honestly this happens all the time! Like, er, probably three or four times a day I get this exact call, so you're definitely not alone here, but unfortunately—and this is where I have to be the bearer of bad news—that promotional rate can only be applied at initial checkout."
+        },
+        {
+            "role": "Customer",
+            "content": "But that's—I mean I've been a customer for... for like three years. Can't you just add it now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I really wish I could! Um, the system just doesn't let me retroactively apply those new-user promos to completed orders, but hang on, what I can do is—actually let me see—I can offer you a loyalty credit of $15.00 off your next billing cycle?"
+        },
+        {
+            "role": "Customer",
+            "content": "So basically I just... I lose thirty-three dollars because I forgot to type something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, I know, it's frustrating. Tell you what though—I'm putting a note here in ticket TKT-847291 for my supervisor, and sometimes they can do an exception credit, especially for customers with tenure like yours, 37 months to be exact."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—okay look, I appreciate you trying but like... this feels wrong somehow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally get it."
+        },
+        {
+            "role": "Customer",
+            "content": "When would I... when would I hear back about the supervisor thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So typically they review these within 24 to 48 hours, and you'll get an email to sarah.chen at gmail—er, wait, actually let me make sure that's still your preferred—yep, that's correct—so yeah, definitely by Thursday at the latest, and honestly there's a pretty good chance they'll approve at least a partial credit."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6565da69_script.json",
+    "professionalism": "casual",
+    "scenario": "confused about why they were charged when they were told it would be free",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "indignant_righteous"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "filled_pauses",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "new_and_eager",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "self_corrections",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need to switch from electronic statements to paper statements for my account, please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning. I'd be happy to help you with that change. May I have your account number and the last 4 digits of your social security number for verification?"
+        },
+        {
+            "role": "Customer",
+            "content": "My account number is 4829-7631-902 and the last four digits are 7264."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account. I see you've been receiving electronic statements since March 2022. Before I make this change, I should mention there's a $2.95 monthly fee for paper statements."
+        },
+        {
+            "role": "Customer",
+            "content": "I understand there's a fee. I still need to make this change for my records."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm updating your preferences now. Your first paper statement will arrive within 7 to 10 business days, and you'll receive them monthly after that."
+        },
+        {
+            "role": "Customer",
+            "content": "Will I still have access to the electronic versions as well?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll continue to have full access to your online portal where you can view and download statements from the past 24 months. The paper statements are an additional service, not a replacement for digital access."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Can you confirm which address the statements will be sent to?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I show your mailing address as 1847 Riverside Drive, Suite 200, Columbus, Ohio 43215. Is that correct?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. How far back can I request paper copies of previous statements?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You can request paper copies of statements from the past 7 years. There's a $5 fee per statement for historical copies, and they typically arrive within 5 business days of the request."
+        },
+        {
+            "role": "Customer",
+            "content": "I'd like to order copies for January through June of this year, please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can process that for you right now. That's 6 statements at $5 each, for a total of $30, which will appear on your next billing cycle. Would you like me to proceed?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, please proceed with that order."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I've submitted your request for historical statements covering January through June 2024. You should receive those within 5 business days at your registered address."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Can you send me an email confirmation of these changes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm sending a confirmation email to your registered address at m.davidson@techcorp.com right now. It will include your reference number REF-892734-ST for this service change."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. That covers everything I needed today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. Your changes are all set, and you should receive your email confirmation within the next 10 minutes. Is there anything else I can help you with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "87020fcb_script.json",
+    "actor": 1,
+    "scenario": "trying to get a paper statement instead of electronic",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

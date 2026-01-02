@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Mira, necesito que me aclaren algo sobre sus planes de precios. Es que la información del sitio web como que no cuadra con lo que me cotizaron la semana pasada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, entiendo tu preocupación. Déjame revisar nuestra estructura de precios actual y ver la cotización que te dieron la semana pasada. ¿Me das tu número de cuenta o la referencia de la cotización?"
+        },
+        {
+            "role": "Customer",
+            "content": "La referencia es QT-8847-ML. Es que me dijeron que el plan Profesional incluía llamadas API ilimitadas."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias. Aquí tengo tu cotización QT-8847-ML, del 8 de noviembre. El plan Profesional a $299 mensuales incluye 50,000 llamadas API, y las adicionales van a $0.002 cada una."
+        },
+        {
+            "role": "Customer",
+            "content": "Es que ahí está el problema. Su página web dice que el Profesional incluye llamadas ilimitadas. ¿Me puedes explicar por qué la diferencia?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, ya veo la confusión. Nuestro sitio web se actualizó el 10 de noviembre para reflejar nuestra nueva estructura de precios que entra en vigor el 1 de diciembre. Tu cotización muestra los precios actuales, que siguen válidos hasta el 30 de noviembre."
+        },
+        {
+            "role": "Customer",
+            "content": "O sea, ¿qué precio me aplica si me registro hoy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Qué buena pregunta. Si te registras hoy, vas a asegurar la estructura de precios actual con 50,000 llamadas API a $299 mensuales por tu primer año, garantizado sin aumentos hasta noviembre de 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Y qué pasa después del primer año? ¿Me cambian automático a la estructura nueva con ilimitadas?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Después de tu primer año, vas a tener la opción de seguir con tu tarifa protegida o cambiarte a nuestra nueva estructura. El nuevo plan Profesional Plus a $349 mensuales sí incluye llamadas API ilimitadas, que tal vez te convenga más para lo que necesitas."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Me puedes desglosar las diferencias exactas entre el Profesional y el Profesional Plus?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sí. El Profesional a $299 incluye 50,000 llamadas API, 5 lugares para el equipo, y soporte estándar con tiempo de respuesta de 24 horas. El Profesional Plus a $349 ofrece llamadas API ilimitadas, 10 lugares para el equipo, soporte prioritario con respuesta en 4 horas, y acceso a nuestras funciones beta."
+        },
+        {
+            "role": "Customer",
+            "content": "A ver, estoy proyectando como unas 75,000 llamadas mensuales. ¿Cuál me conviene más económicamente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Basándome en 75,000 llamadas mensuales, el Profesional te saldría en $299 más... este... $50 por las 25,000 llamadas adicionales, o sea un total de $349. El Profesional Plus a $349 te da llamadas ilimitadas más las funciones adicionales que te mencioné."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso ayuda mucho. ¿Y qué hay de la retención de datos y las funciones de analíticas entre estos planes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto."
+        },
+        {
+            "role": "Customer",
+            "content": "Necesito esos detalles específicos antes de decidir."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ambos planes incluyen retención de datos por 90 días y nuestro tablero de analíticas estándar. Sin embargo, el Profesional Plus agrega retención extendida de 365 días, el generador de reportes personalizados RB-7.2, y analíticas en tiempo real con tasas de actualización de menos de un segundo versus los intervalos de 5 minutos del Profesional."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Puedo empezar con el Profesional y actualizar a mitad de contrato si lo necesito?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sí, sin problema. Puedes actualizar cuando quieras y los cambios entran en vigor el siguiente ciclo de facturación. Si actualizas dentro de los primeros 30 días, te acreditamos la diferencia de precio a tu cuenta usando el código de ajuste ADJ-TIER-UP para una transición sin problemas."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need clarification on your pricing tiers. The website information seems contradictory to what I was quoted last week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me pull up our current pricing structure and review your quote from last week. May I have your account number or the quote reference?"
+        },
+        {
+            "role": "Customer",
+            "content": "The quote reference is QT-8847-ML. I was told the Professional tier included unlimited API calls."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your quote QT-8847-ML here, dated November 8th. The Professional tier at $299 monthly includes 50,000 API calls, with additional calls at $0.002 each."
+        },
+        {
+            "role": "Customer",
+            "content": "That's the issue. Your website says Professional includes unlimited calls. Can you explain the discrepancy?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the confusion now. Our website was updated on November 10th to reflect our new pricing structure effective December 1st. Your quote shows our current pricing, which remains valid through November 30th."
+        },
+        {
+            "role": "Customer",
+            "content": "So which pricing applies to me if I sign up today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. If you sign up today, you'll lock in the current pricing structure with 50,000 API calls at $299 monthly for your first year, guaranteed no increases until November 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "What happens after the first year? Will I automatically switch to the new unlimited structure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "After your first year, you'll have the option to continue with your grandfathered rate or switch to our new structure. The new Professional Plus tier at $349 monthly does include unlimited API calls, which might better suit your needs."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you break down the exact differences between Professional and Professional Plus?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Professional at $299 includes 50,000 API calls, 5 team seats, and standard support with 24-hour response time. Professional Plus at $349 offers unlimited API calls, 10 team seats, priority support with 4-hour response, and access to our beta features."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm projecting about 75,000 calls monthly. Which option makes more financial sense?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Based on 75,000 calls monthly, Professional would cost you $299 plus $50 for the additional 25,000 calls, totaling $349. Professional Plus at $349 gives you unlimited calls plus the additional features I mentioned."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful. What about data retention and analytics features between these tiers?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "I need those specific details before making a decision."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Both tiers include 90-day data retention and our standard analytics dashboard. However, Professional Plus adds extended 365-day retention, custom report builder RB-7.2, and real-time analytics with sub-second refresh rates versus the 5-minute intervals on Professional."
+        },
+        {
+            "role": "Customer",
+            "content": "Can I start with Professional and upgrade mid-contract if needed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You can upgrade anytime with changes taking effect the next billing cycle. If you upgrade within the first 30 days, we'll credit the price difference back to your account using adjustment code ADJ-TIER-UP for seamless transition."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "59ea07bc_script.json",
+    "professionalism": "professional",
+    "scenario": "confused about different pricing tiers and features",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "patiently_persistent",
+                "calmly_frustrated"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "precisely_technical",
+                "graciously_accommodating"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

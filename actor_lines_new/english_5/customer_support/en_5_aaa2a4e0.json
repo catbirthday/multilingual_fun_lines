@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So I'm probably calling the wrong department but, um, my dad passed away and I think I need to... handle his account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh. I'm so sorry for your loss. Let me see here... okay, I can absolutely help you with this. Um, first I'll need the account number if you have it. Or the phone number associated with account 877-293-4819."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't. Know. Sorry, I'm kind of useless at this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, you're not—hey, this is hard stuff. Totally understandable. Hmm, let's try a different way. What was your father's full name? And, er, approximately what zip code did he live in?"
+        },
+        {
+            "role": "Customer",
+            "content": "Robert Chen. Um, 94102. Or maybe 94103? God, I should know this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Robert Chen... okay perfect. Got it. Account number ACC-7739-RC in zip 94102. So what I'm seeing here, uh... looks like there's a balance of $127.43. And there's also—wait, that's interesting—an autopay scheduled for the 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Yeah. So like, what do I need to do?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so. Here's what happens. First thing—do you have, um, a death certificate yet? Usually takes about 5 to 7 business days. Once you have that, you can email it to bereavement@company.com."
+        },
+        {
+            "role": "Customer",
+            "content": "Not yet. The funeral home said, er, probably Tuesday?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That timing sounds right. Hmm, what I can do right now though... let me put a hold on the account. Reference number REF-8827-HOLD. That way nothing gets charged. Or disconnected. Until we sort everything out."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay. Thanks. I just... I don't really know what I'm doing here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, you're doing fine. Really. So once you send that certificate—actually, wait. Let me check something. Were there any other services? Internet? Cable? Security system reference SEC-4421?"
+        },
+        {
+            "role": "Customer",
+            "content": "Um, yeah. Internet I think? Maybe cable too. I honestly have no idea."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me pull up... yep. Bundle package BDL-9902-PREMIUM. Internet, cable, home phone. Monthly total $189.99. What I'm gonna do, er... I'm freezing all three services effective today."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically they just... stop? Like, should I be doing something else?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "They're on hold. Not cancelled. Important difference. Look, here's what'll happen. After you submit the documentation to that bereavement email. Our specialized team reviews it within 48 hours. Then they'll call you at—what's the best number?"
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, this one? 415-555-0147."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Added to file CAS-2847-BEREAVE. So they'll walk you through options. Transfer services to your name. Or close everything out. Whatever makes sense. Oh and—hang on—there might be a final credit of about $67."
+        },
+        {
+            "role": "Customer",
+            "content": "A credit? I don't. Sorry. My brain's just not working today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally normal. Don't apologize. So your dad, uhh, he prepaid through November 30th. Today's the 8th. So we'd refund those unused days. The bereavement team handles all that though. They're really good. Patient. They'll explain everything twice if you need."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "aaa2a4e0_script.json",
+    "actor": 5,
+    "scenario": "worried because a family member passed away and they need to handle the account",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

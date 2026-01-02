@@ -1,0 +1,95 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[quietly] You said my compound would help people, Rebecca, that we'd take our time with the trials and make sure everything was perfect before launch."
+        },
+        {
+            "role": "Character 2",
+            "content": "I know what I said, but the board wanted results by Q3, and your initial data looked so promising that pushing ahead seemed like the right call."
+        },
+        {
+            "role": "Character 1",
+            "content": "[voice getting smaller] Three people died because we didn't run the interaction tests with common blood pressure medications, tests I begged you to let me complete. [swallows hard]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Every pharmaceutical has risks, and we followed FDA guidelines to the letter—those interactions were statistically improbable based on your preliminary models, remember?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[almost whispered] Improbable."
+        },
+        {
+            "role": "Character 2",
+            "content": "Look, I understand you're upset, but dwelling on what happened six months ago won't bring those people back or change the fact that the drug helped thousands of others."
+        },
+        {
+            "role": "Character 1",
+            "content": "I keep their names on a Post-it note above my bench—Margaret Chen, Robert Torres, Jamal Washington—and every morning I think about the two weeks we could have used. [voice cracking]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] You think I don't remember them? I testified at the hearings, faced their families, took responsibility while you hid in your lab refusing to answer anyone's calls."
+        },
+        {
+            "role": "Character 1",
+            "content": "[barely audible] Because I knew what we'd done the moment I saw the first adverse event report, knew we'd chosen speed over safety like every cautionary tale I studied in grad school."
+        },
+        {
+            "role": "Character 2",
+            "content": "We made a business decision based on the data available at the time, and yes, it went wrong, but that's the nature of innovation—sometimes you fail. [sighs heavily]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Fail? [quieter still] We didn't fail a test or miss a deadline, we put poison in medicine bottles because quarterly earnings mattered more than my concerns."
+        },
+        {
+            "role": "Character 2",
+            "content": "That's not fair and you know it—I fought for your project when everyone else wanted to kill it after the mouse studies showed irregularities."
+        },
+        {
+            "role": "Character 1",
+            "content": "[fading] Maybe you should have let them."
+        },
+        {
+            "role": "Character 2",
+            "content": "So what, you're just going to keep shrinking into yourself, becoming this ghost haunting the lab at 2 AM running the same analyses over and over? [frustrated exhale]"
+        },
+        {
+            "role": "Character 1",
+            "content": "I run them because I keep finding things we missed, little signals in the data that should have warned us if we'd just looked closer, taken more time. [voice breaking]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[softer] The review board cleared us both, said our protocols were standard for accelerated approval pathways, that no one could have predicted those specific drug interactions without extensive testing."
+        },
+        {
+            "role": "Character 1",
+            "content": "[almost inaudible] But I could have predicted them if you'd given me two more weeks, and now I can't even look at my own research without seeing their faces."
+        },
+        {
+            "role": "Character 2",
+            "content": "You want to know what I see when I look back? A brilliant scientist who created something that's helped twelve thousand people manage chronic pain, even if we lost three along the way."
+        },
+        {
+            "role": "Character 1",
+            "content": "[whispered] Those three had names."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly resigned] I know their names, David. I wake up at 3 AM reciting them like some kind of penance, but we can't change what happened, only what comes next."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "b98323f7_scenario.json",
+    "actor": 5,
+    "scenario": "A lab assistant confronts the product manager who rushed their drug to market, resulting in three deaths from untested interactions.",
+    "type": "scenario_conversation",
+    "character_1_role": "lab assistant",
+    "character_2_role": "product manager",
+    "selected_tones": [
+        "shrinking",
+        "past-dwelling"
+    ]
+}

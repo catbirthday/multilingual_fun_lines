@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I know this isn't your fault. But my delivery says complete. Never showed up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh oh oh, yeah, the phantom deliveries, we get these all the time—it's it's honestly ridiculous. Let me pull up—actually wait—your tracking number should be TRK-9841-ZZ3, checking that now..."
+        },
+        {
+            "role": "Customer",
+            "content": "Right, exactly. I was home all day. Nothing. I just—I mean—sorry, I'm frustrated with the situation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, totally get it, I'd be mad too if I'm sitting there waiting and the driver just—marks it done and vanishes, happens way too much with our contracted drivers on Route 47-B, lemme see what actually went down here..."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate you understanding. Been a customer eight years. This is... new for me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, pulling your history now, account ID ACC-2847-MNK shows yeah, spotless record, eight years, zero issues—look, between us? The system's been glitchy since they updated it November 3rd and drivers just mark stuff complete to hit quotas..."
+        },
+        {
+            "role": "Customer",
+            "content": "So what—no wait—can you actually track where it went? Like specifically?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay so GPS shows delivery marked at 2:47 PM to coordinates that are—lemme just—yeah that's not even your address, that's 1822 Oak Street which is three blocks away from your verified address at 1509 Pine Avenue..."
+        },
+        {
+            "role": "Customer",
+            "content": "Three blocks away. Great. Do you know how much this order cost? Premium member here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah yeah, I see it, order total $847.92, premium member since 2016, this is—I'm gonna be honest? Embarrassing for us, completely unacceptable, let me just..."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't want to be difficult but—actually no—I need this resolved. Today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you call the driver? Get them back? I mean... is that even possible?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Driver's already off shift but—here's what I'm doing—replacement order RMA-6632-QPL shipping overnight, no charge obviously, arrives tomorrow by 10 AM guaranteed, plus I'm adding a $150 credit code CMP-8874-X to your account..."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow morning. That works. Sorry for getting—you know—it's just frustrating when things disappear."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Don't don't apologize, seriously, you paid for something, it should show up, basic stuff, and the fact our driver delivered to some random house—probably 1822 Oak got a nice surprise today..."
+        },
+        {
+            "role": "Customer",
+            "content": "Ha. Yeah. Lucky them. So just—to confirm—tomorrow before ten?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "And I should—what—just watch for it? Or will you send updates?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You'll get SMS updates to your phone ending in 7739 starting at 6 AM with live tracking, driver name'll be listed, probably Marcus or Janet on that route, and honestly? If anything anything weird happens, reference case number SUP-9982-RTK and ask for me directly."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "8ca56563_script.json",
+    "actor": 1,
+    "scenario": "reporting that their delivery was marked complete but never arrived",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

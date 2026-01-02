@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[bitter] Tu sais ce qui est drôle ? Toute ma vie, j'ai été celle que personne choisit jamais. [mumbling] Trop petite pour le basket, trop timide pour le club de débat, trop... j'sais pas, moi. [pause] Toujours à regarder mes frères et sœurs décrocher les bourses, l'attention, les—tout, en fait. [frustrated] Et je l'acceptais, tu vois ? Genre, c'est comme ça, c'est moi. Le plan B. Celle qu'on appelle quand, euh, quand tous les autres sont pris. [sigh]\n\n[confused] Mais là, d'un coup, ils ont besoin de moi ? [incredulous] Le truc de code que je fais toute seule dans ma chambre depuis des années—ce passe-temps bizarre qui était, euh, \"pas très concret\" selon Papa—c'est ça qui va sauver toute la boîte ? [nervous laugh] Je veux dire, y'a personne d'autre qui connaît ce système. [speeding up] C'est littéralement que moi qui sais comment réparer ce bordel, et ils sont tous là à me regarder comme si j'étais... comme si j'étais importante ou un truc du genre. [pause]\n\n[shaky voice] J'sais même pas quoi ressentir. Une partie de moi a envie de dire \"vous voyez, je vous l'avais dit que j'étais pas nulle,\" mais... [trailing off] [quietly] Franchement ? [very sincerely] Je crois que j'ai juste envie de régler ça. Leur montrer ce que je sais faire. [confidently] Me le prouver à moi-même, peut-être."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[bitter] You know what's funny? My whole life, I've been the one nobody picks. [mumbling] Too small for basketball, too quiet for debate team, too... whatever. [pause] Always watching my siblings get the scholarships, the attention, the—everything, basically. [frustrated] And I just accepted it, you know? Like, that's just who I am. The backup option. The one you call when, um, when everyone else is busy. [sigh] \n\n[confused] But now suddenly they need me? [incredulous] The coding thing that I've been doing alone in my room for years—that weird hobby that Dad said was, er, \"not practical\"—that's what's going to save the whole company? [nervous laugh] I mean, nobody else knows this system. [speeding up] It's literally just me who understands how to fix this mess, and they're all standing around looking at me like I'm... like I'm actually important or something. [pause]\n\n[shaky voice] I don't even know how to feel about it. Part of me wants to say \"see, I told you I wasn't useless,\" but... [trailing off] [quietly] Honestly? [very sincerely] I think I just want to fix it. Show them what I can do. [confidently] Show myself, maybe."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "1143af8f_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Being the runt of the litter your whole life, then having your moment to shine when your specific skills are desperately needed",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

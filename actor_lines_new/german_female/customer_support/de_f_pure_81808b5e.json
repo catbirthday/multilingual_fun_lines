@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Moment, was für ne Abbuchung? Ich hab hier so ne Benachrichtigung, da steht vorgemerkt und ähm das wird alles überziehen..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, lassen Sie mich—warte, ich ruf mal Ihr Konto auf. Können Sie mir die letzten vier Ziffern der Karte geben, die auf 8827 endet?"
+        },
+        {
+            "role": "Customer",
+            "content": "Acht acht? Nee, das ist ähm, neun neun zwei sieben. Die Abbuchung. Die ist riesig. Morgen ist Miete fällig."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah ja, hab's jetzt, Konto endet auf 9927. Da ist eine vorgemerkte Autorisierung über 1.847,23 Euro vom Händlercode MRC-4429-X, das zeigt sich als—Moment mal—das ist von einem Händler namens Digital Services Group."
+        },
+        {
+            "role": "Customer",
+            "content": "Digital was? Nie gehört—das ist nicht von mir. Kann nicht sein..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich verstehe, dass Sie—das ist beunruhigend. Die Transaktion kam um 3:42 Uhr morgens von der IP-Adresse 184.72.108.44, und unser Betrugssystem hat's tatsächlich markiert, aber irgendwie ist es trotzdem durchgegangen."
+        },
+        {
+            "role": "Customer",
+            "content": "Drei Uhr morgens? Da hab ich geschlafen. Das ergibt keinen Sinn, warum sollte ich..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sie haben völlig recht, besorgt zu sein. Ich werde—also ich leite jetzt sofort einen Widerspruch ein unter der Fallnummer DSP-7749821-M, und normalerweise können wir das innerhalb von 24 bis 48 Stunden rückgängig machen."
+        },
+        {
+            "role": "Customer",
+            "content": "Zwei Tage? Nee nee nee. Die Miete. Morgen. Konto ist heute Abend im Minus."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich versteh Sie total. Lassen Sie mich—wissen Sie was? Ich seh, Sie sind seit 2019 bei uns, hatten noch nie ne Überziehung. Ich geb ne Sofort-Gutschrift durch mit Override-Code OVR-442-TMP."
+        },
+        {
+            "role": "Customer",
+            "content": "Vorläufig? Das ist also nur temporär? Wird das dann wieder abgezogen oder..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Genau genau. Also die vorläufige Gutschrift wird sofort gebucht, Referenznummer PCR-8827-94X, und bleibt da während wir das untersuchen. Wenn der Widerspruch genehmigt wird—was ehrlich gesagt, das sieht ziemlich eindeutig aus—wird's dauerhaft."
+        },
+        {
+            "role": "Customer",
+            "content": "Ähm okay aber was wenn. Was wenn die nein sagen? Dann häng ich fest?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nach dem was ich hier sehe—der Zeitstempel, die IP-Location zeigt Belarus an, Ihr normales Ausgabeverhalten—würd ich sagen, die Chance liegt bei 99%, dass das durchgeht. Aber ich füg auch noch ne Betrugswarnung FA-7221 zu Ihrem Konto hinzu für extra Schutz."
+        },
+        {
+            "role": "Customer",
+            "content": "Belarus? Das ist nicht mal—ich mein, ich weiß nicht genau wo das liegt aber..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja das ist—also das ist—Osteuropa. Definitiv nicht wo Sie normalerweise einkaufen. Ich seh, Ihre letzten zehn Transaktionen waren alle lokal, Postleitzahlenbereich 10115."
+        },
+        {
+            "role": "Customer",
+            "content": "Genau ja lokal. Also äh, das Geld. Wann ist es zurück? Heute Abend?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sollte in den nächsten zwei Stunden da sein. Ihr neuer Verfügungsbetrag zeigt dann 2.147,81 Euro an, sobald die vorläufige Gutschrift eingeht. Ich schick auch ne Bestätigung an Ihre hinterlegte E-Mail, die mit gmail endet."
+        },
+        {
+            "role": "Customer",
+            "content": "Zwei Stunden. Knapp aber. Okay. Okay ähm ja."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Noch was—ich hab Ihnen gleich ne Ersatzkarte bestellt, Expressversand mit Tracking-Nummer 1Z999AA10398827442. Sollte morgen ankommen. Die kompromittierte Karte mit Endung 9927 ist jetzt gesperrt, also können keine weiteren unautorisierten Abbuchungen mehr durchgehen."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Wait what charge? I got this alert says pending and um it's gonna overdraft everything..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay let me—actually, let me pull up your account here. Can you give me the last four digits of the card ending in 8827?"
+        },
+        {
+            "role": "Customer",
+            "content": "Eight eight? No it's um, nine nine two seven. The charge. It's huge. Rent's due tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, I see it now, account ending in 9927. There's a pending authorization for $1,847.23 from vendor code MRC-4429-X, which is showing as—let me just—it's from a merchant called Digital Services Group."
+        },
+        {
+            "role": "Customer",
+            "content": "Digital what? Never heard of—that's not mine. Can't be right..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand this is—this is concerning. The transaction originated at 3:42 AM Eastern from IP address 184.72.108.44, and our fraud detection system actually flagged it but it still went through somehow."
+        },
+        {
+            "role": "Customer",
+            "content": "Three AM? I was asleep. This makes no sense, why would I..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're right to be concerned. I'm going to—let me initiate a dispute right now under case number DSP-7749821-M, and we can get this reversed within 24 to 48 hours typically."
+        },
+        {
+            "role": "Customer",
+            "content": "Two days? No no no. Rent. Tomorrow. Account's gonna be negative tonight."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you. Let me—actually, you know what? I can see you've been with us since 2019, never had an overdraft before. I'm putting through an emergency provisional credit using override code OVR-442-TMP."
+        },
+        {
+            "role": "Customer",
+            "content": "Provisional? That's temporary? So it comes back out or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So the provisional credit posts immediately, reference number PCR-8827-94X, and it stays there while we investigate. If the dispute is approved—which honestly, this looks pretty clear cut—it becomes permanent."
+        },
+        {
+            "role": "Customer",
+            "content": "Um okay but what if. What if they decide no? Then I'm stuck?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Based on what I'm seeing here—the time stamp, the IP location which is showing as Belarus, your normal spending pattern—I'd say there's about a 99% chance this gets approved. But I'm also adding fraud alert FA-7221 to your account for extra protection."
+        },
+        {
+            "role": "Customer",
+            "content": "Belarus? That's not even—I mean I don't know where that is exactly but..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah it's—let me just—it's Eastern Europe. Definitely not where you usually make purchases. I'm seeing your last ten transactions were all local, zip code 94122 area."
+        },
+        {
+            "role": "Customer",
+            "content": "Right yes local. So er, the money. When's it back? Tonight?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Should see it within the next two hours. Your new available balance will show as $2,147.81 once the provisional credit hits. I'm also sending a confirmation to your email on file, the one ending in gmail."
+        },
+        {
+            "role": "Customer",
+            "content": "Two hours. Cutting it close but. Okay. Okay um yeah."
+        },
+        {
+            "role": "Customer Support",
+            "content": "One more thing—I went ahead and ordered you a replacement card, expedited shipping with tracking number 1Z999AA10398827442. Should arrive tomorrow. The compromised card ending in 9927 is now blocked, so no more unauthorized charges can go through."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "81808b5e_script.json",
+    "professionalism": "casual",
+    "scenario": "anxious because this charge is going to overdraft their account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "confused_lost",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "burned_out_but_trying",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

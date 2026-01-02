@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ich muss da eine Abbuchung reklamieren, aber ich muss leise sprechen während der Mittagsruhe."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Verstehe ich vollkommen. Danke für Ihren Anruf wegen Ihres Kontos. Ich helfe Ihnen gerne, diese Reklamation schnell und effizient zu klären. Darf ich Ihre Kontonummer haben oder die Telefonnummer, die mit Ihrem Vertrag verknüpft ist?"
+        },
+        {
+            "role": "Customer",
+            "content": "Die Nummer ist 555-0847. Da ist eine 90-Euro-Auslandsgebühr, die ich nie verursacht hab."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Danke schön. Ich hab Ihr Konto mit der Endung 0847 gefunden und kann die Auslandsgebühr über 90,00 Euro vom 12. November sehen. Der Anruf zeigt eine 47-minütige Verbindung nach Deutschland um 14:34 Uhr Ostküstenzeit."
+        },
+        {
+            "role": "Customer",
+            "content": "Das kann gar nicht sein. Da war ich gerade beim Stuhlkreis und mein Handy lag in der Schreibtischschublade."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich verstehe Ihre Bedenken. Lassen Sie mich mal die detaillierten Verbindungsdaten für diesen Zeitraum durchgehen. Ich sehe hier, dass Ihr typisches Nutzungsmuster in den letzten 24 Monaten keine Auslandsgespräche zeigt, was diese Gebühr wirklich ungewöhnlich macht."
+        },
+        {
+            "role": "Customer",
+            "content": "Eben! Ich ruf nur Eltern und meine Familie an, alles Ortsnummern."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich leite sofort eine Betrugsuntersuchung ein. Die Fallnummer FRD-2847-NK9 wurde für diese strittige Abbuchung angelegt. Während wir das untersuchen, buche ich Ihnen ab heute eine vorläufige Gutschrift von 90,00 Euro auf Ihr Konto."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfekt. Wie lange dauert die Untersuchung? Ich brauch das geklärt vor der Monatsendabrechnung."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Auf jeden Fall. Die Untersuchung dauert normalerweise so 5-7 Werktage, also deutlich vor Ihrem Abrechnungszyklus am 1. Dezember. Sie bekommen innerhalb der nächsten 30 Minuten eine E-Mail-Bestätigung an Ihre registrierte Adresse mit allen Falldetails."
+        },
+        {
+            "role": "Customer",
+            "content": "Wird das meinen Service beeinträchtigen? Ich kann während der Arbeitszeiten keine Unterbrechungen gebrauchen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ihr Service läuft ohne Unterbrechung weiter. Ich hab eine Schutzmarkierung PRT-4521 auf Ihr Konto gesetzt, damit es während der Untersuchung zu keinen Service-Einschränkungen kommt. Zusätzlich aktiviere ich erweiterte Sicherheitsmaßnahmen, um zukünftige unberechtigte Abbuchungen zu verhindern."
+        },
+        {
+            "role": "Customer",
+            "content": "Gut. Sollte ich vorsichtshalber meine Konto-PIN ändern?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Das ist eine ausgezeichnete Vorsichtsmaßnahme. Ich kann Ihnen dabei gleich helfen. Geben Sie mir bitte eine neue 6-stellige PIN, dann aktivier ich die sofort im System."
+        },
+        {
+            "role": "Customer",
+            "content": "Nehmen wir 428-517. Ach, und können Sie mir noch eine Dokumentation per E-Mail schicken für meine Unterlagen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Selbstverständlich."
+        },
+        {
+            "role": "Customer",
+            "content": "Noch was. Gibt es andere verdächtige Abbuchungen, von denen ich wissen sollte?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich hab Ihre Aktivitäten der letzten 90 Tage gründlich durchgeschaut. Die Abbuchung vom 12. November ist die einzige Auffälligkeit. Alle anderen Gebühren entsprechen Ihrem normalen Nutzungsmuster von ungefähr 850 Inlandsminuten monatlich, also gut innerhalb Ihres Tarifvolumens."
+        },
+        {
+            "role": "Customer",
+            "content": "Das beruhigt mich. Danke, dass Sie das so effizient geregelt haben."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sehr gerne. Ihr Fall FRD-2847-NK9 hat jetzt Prioritätsstatus, und Sie bekommen Updates per E-Mail und SMS. Kann ich Ihnen noch bei was anderem helfen, wobei ich natürlich auf Ihre zeitlichen Einschränkungen Rücksicht nehme?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to dispute a charge on my account, but I have to keep my voice down during naptime."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand. Thank you for calling about your account. I'll help you resolve this charge dispute quickly and efficiently. May I have your account number or the phone number associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "The number is 555-0847. There's a ninety-dollar international charge I never made."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account ending in 0847, and I can see the international charge for $90.00 posted on November 12th. The call shows as a 47-minute connection to Germany at 2:34 PM Eastern time."
+        },
+        {
+            "role": "Customer",
+            "content": "That's impossible. I was teaching circle time then and my phone was in my desk drawer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me review the detailed call records for that timeframe. I can see your typical usage pattern shows no international calls in the past 24 months, which definitely makes this charge unusual."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. I only call parents and my family, all local numbers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm initiating a fraud investigation immediately. Case number FRD-2847-NK9 has been created for this disputed charge. While we investigate, I'm applying a temporary credit of $90.00 to your account effective today."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. How long will the investigation take? I need this resolved before month-end billing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. The investigation typically completes within 5-7 business days, well before your December 1st billing cycle. You'll receive an email confirmation at your registered address within the next 30 minutes with all case details."
+        },
+        {
+            "role": "Customer",
+            "content": "Will this affect my service? I can't have interruptions during work hours."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your service will continue uninterrupted. I've placed a protection flag PRT-4521 on your account to prevent any service impacts while we investigate. Additionally, I'm enabling enhanced security to prevent future unauthorized charges."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Should I change my account PIN as a precaution?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's an excellent precaution. I can help you update that now. Please provide a new 6-digit PIN, and I'll activate it immediately in our system."
+        },
+        {
+            "role": "Customer",
+            "content": "Let's use 428-517. Also, can you email me documentation for my records?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "One more thing. Are there other suspicious charges I should know about?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've reviewed your last 90 days of activity thoroughly. The November 12th charge is the only anomaly. All other charges match your regular usage pattern of approximately 850 domestic minutes monthly, well within your plan allowance."
+        },
+        {
+            "role": "Customer",
+            "content": "That's a relief. Thank you for handling this so efficiently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. Your case FRD-2847-NK9 is now priority status, and you'll receive updates via email and text. Is there anything else I can help you with while keeping mindful of your time constraints?"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "76cb4f9d_script.json",
+    "professionalism": "professional",
+    "scenario": "daycare worker, whispering because the kids are napping while she disputes a phone charge",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "calmly_frustrated",
+                "respectfully_urgent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "warmly_professional",
+                "attentively_engaged"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Menos mal que por fin hablo con una persona de verdad. Su sistema automático me ha tenido dando vueltas durante diez minutos."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Le pido sinceras disculpas por esa experiencia tan frustrante con nuestro sistema telefónico. Estoy aquí para ayudarla directamente ahora, y me aseguraré de que resolvamos su problema de forma eficaz hoy mismo."
+        },
+        {
+            "role": "Customer",
+            "content": "Se lo agradezco. Llamo por una discrepancia en la facturación de mi cuenta que necesita atención inmediata."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto."
+        },
+        {
+            "role": "Customer",
+            "content": "Mi último extracto muestra un cargo de 347,82€, pero mi orden de compra indica claramente que el importe acordado era de 297,82€."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Voy a investigar esa discrepancia ahora mismo. ¿Me puede dar su número de cuenta para poder acceder a su historial completo de facturación y la orden de compra en cuestión?"
+        },
+        {
+            "role": "Customer",
+            "content": "Es el 48726-B. Mire, este es el tercer error de facturación en seis meses, y estoy bastante preocupada por este patrón."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias. Ya tengo su cuenta 48726-B en pantalla, y puedo ver el cargo del 3 de noviembre por 347,82€. Déjeme localizar la orden de compra original para verificar el importe correcto."
+        },
+        {
+            "role": "Customer",
+            "content": "Mientras busca, ¿puede comprobar también por qué no se ha abonado en mi cuenta la devolución que hice el mes pasado?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Veo aquí que devolvió el artículo con referencia SKU-7741-QZ el 15 de octubre por valor de 89,99€, y tiene razón, ese abono todavía no se ha aplicado. Esto definitivamente necesita corrección inmediata."
+        },
+        {
+            "role": "Customer",
+            "content": "Exacto. Es que estos problemas continuos están afectando la conciliación presupuestaria de mi departamento, y necesito que esto se resuelva hoy."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entiendo perfectamente la urgencia, especialmente para temas de conciliación presupuestaria. He encontrado la orden de compra original PO-2847-NOV que muestra el precio acordado de 297,82€, lo que confirma el sobrecargo de 50,00€ que menciona."
+        },
+        {
+            "role": "Customer",
+            "content": "Bien. ¿Qué pasos va a seguir para corregir ambos problemas y evitar que esto vuelva a pasar?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Estoy procesando ambas correcciones inmediatamente. Primero, voy a emitir un abono de 50,00€ por el error de facturación y 89,99€ por el abono pendiente de la devolución, un total de 139,99€ que se aplicará en las próximas 24 horas."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale, eso soluciona el problema inmediato. Pero ¿cómo evitamos futuros errores de facturación en mi cuenta?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excelente pregunta. Voy a marcar su cuenta 48726-B para revisión mejorada de facturación, lo que significa que todos los cargos futuros pasarán por un proceso de verificación secundaria antes de aparecer en su extracto."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso me tranquiliza. ¿Me puede enviar confirmación por escrito de estas correcciones y del nuevo proceso de revisión?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfecto. Y por favor, incluya su extensión directa para poder saltarme ese sistema telefónico si lo necesito."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Le enviaré un correo de confirmación en la próxima hora a la dirección que tenemos registrada, incluyendo los números de referencia CR-5547-A y CR-5548-A para ambos abonos, y mi línea directa es la extensión 4412."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Thank goodness I finally reached a real person. Your automated system had me going in circles for ten minutes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize for that frustrating experience with our phone system. I'm here to help you directly now, and I'll make sure we resolve your concern efficiently today."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. I'm calling about a billing discrepancy on my account that needs immediate attention."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "My last statement shows a charge for $347.82, but my purchase order clearly shows the agreed amount was $297.82."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'll investigate that discrepancy right away. May I have your account number so I can pull up your complete billing history and the purchase order in question?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 48726-B. This is the third billing error in six months, and I'm quite concerned about the pattern."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your account 48726-B on my screen now, and I can see the charge dated November 3rd for $347.82. Let me locate the original purchase order to verify the correct amount."
+        },
+        {
+            "role": "Customer",
+            "content": "While you're looking, can you also check why my account wasn't credited for the return I made last month?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I see here that you returned item SKU-7741-QZ on October 15th for $89.99, and you're right, that credit hasn't been applied yet. This definitely needs immediate correction."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. These ongoing issues are affecting my department's budget reconciliation, and I need this resolved today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the urgency, especially for budget reconciliation purposes. I've found the original purchase order PO-2847-NOV showing the agreed price of $297.82, confirming the $50.00 overcharge you mentioned."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. What steps will you take to correct both issues and prevent this from happening again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm processing both corrections immediately. First, I'm issuing a credit for $50.00 for the billing error and $89.99 for the missing return credit, totaling $139.99 to be applied within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "That addresses the immediate problem. But how do we prevent future billing errors on my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. I'm flagging your account 48726-B for enhanced billing review, which means all future charges will go through a secondary verification process before appearing on your statement."
+        },
+        {
+            "role": "Customer",
+            "content": "That's reassuring. Can you send me written confirmation of these corrections and the new review process?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. And please include your direct extension so I can bypass that phone system if needed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'll email you confirmation within the hour to the address on file, including reference numbers CR-5547-A and CR-5548-A for both credits, and my direct line is extension 4412."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4ed2c0a5_script.json",
+    "professionalism": "professional",
+    "scenario": "relieved to reach a human after navigating the phone tree for ten minutes",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "cordially_concerned",
+                "calmly_frustrated"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "reassuringly_calm",
+                "patiently_methodical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

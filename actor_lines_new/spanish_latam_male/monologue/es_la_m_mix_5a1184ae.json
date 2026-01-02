@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] Oh God, oh no no no, they got in. Se metieron de verdad—puedo verlo aquí mismo en los logs. [pause] Three days ago. El breach pasó hace 3 días y apenas... apenas me estoy dando cuenta.\n\n[anxious] How did I miss this? O sea, he estado monitoreando todo, he estado—espera, enmascararon su entrada por ese, este... por ese vendor portal que actualizamos la semana pasada. [frustrated] Of course. Claro que así fue como entraron.\n\nSixteen thousand accounts. [very quietly] 16,000 cuentas de clientes comprometidas.\n\n[sigh] I need to tell Richardson immediately. Dios, ¿qué le voy a decir? \"Oye jefe, eh... ¿te acuerdas que me pediste que mantuviera seguros nuestros sistemas? Pues...\" [bitter] Yeah, that'll go great. Va a salir padrísimo.\n\n[upset] All those people. Sus tarjetas de crédito, sus cuentas de ahorro, sus—Jesús, algunas de estas son fondos de retiro. And it's my job to catch this. Se supone que yo tenía que detectar esto. Para eso me contrataron, carajo. [regretful] I kept telling them we needed better monitoring tools. Les estuve diciendo que necesitábamos mejores herramientas de monitoreo, ¿pero me hicieron caso?\n\n[exhausted] Okay, okay. Bueno, necesito documentar todo. El punto de entrada, este... la línea de tiempo, qué datos accesaron. [pause] This is going to be everywhere by tomorrow. Va a estar en las noticias, en redes sociales...\n\n[very sad] Three days too late. 3 días demasiado tarde."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] Oh God. Oh no no no. They got in. They actually—I can see it right here in the logs. [pause] Three days. The breach happened three days ago and I'm just... I'm just now seeing this. \n\n[anxious] How did I miss this? I mean, I've been monitoring everything, I've been—wait, they masked their entry through that, um... through that vendor portal we updated last week. [frustrated] Of course. Of course that's how they got in.\n\nSixteen thousand accounts. [very quietly] Sixteen thousand customer accounts compromised. \n\n[sigh] I need to, uh... I need to tell Richardson immediately. God, what do I even say? \"Hey boss, errr, remember how you asked me to keep our systems secure? Well...\" [bitter] Yeah, that'll go great.\n\n[upset] All those people. Their credit cards, their savings accounts, their—Jesus, some of these are retirement funds. And it's my job to... I was supposed to catch this. That's literally why they hired me. [regretful] I kept telling them we needed better monitoring tools, but did they listen? \n\n[exhausted] Okay. Okay, I need to document everything. The entry point, the, um... the timeline, what data they accessed. [pause] This is going to be everywhere by tomorrow. The news, social media... \n\n[very sad] Three days too late."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "5a1184ae_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your malware analyst discovery of the security breach came too late - hackers already stole customer financial data from your bank",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

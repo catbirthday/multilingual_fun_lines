@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Buenas tardes. Necesito información sobre cómo hacer un hardship withdrawal de mi cuenta 401k."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Buenas tardes. Estaré encantada de ayudarle con su consulta sobre el retiro del 401k. ¿Me puede facilitar su número de empleado y el nombre de la empresa donde está administrado su plan?"
+        },
+        {
+            "role": "Customer",
+            "content": "Mi número de empleado es el 447829. The company is Midwest Distribution Centers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias. He localizado su cuenta terminada en 8294 con un balance actual de $47,832.15. Antes de hablar sobre las opciones de retiro, ¿me podría decir qué tipo de situación de hardship está enfrentando?"
+        },
+        {
+            "role": "Customer",
+            "content": "Necesito cubrir gastos médicos. What documentation do I need to provide?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Para retiros por gastos médicos, tendrá que enviar el Form HW-2024-MED junto con copias de facturas médicas que sumen al menos $1,000. Las facturas deben estar fechadas en los últimos 12 meses, and they cannot be covered by insurance."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Cuánto tarda el proceso de aprobación una vez que envíe todo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto."
+        },
+        {
+            "role": "Customer",
+            "content": "Y de mi balance, what percentage can I actually withdraw?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "El retiro máximo está limitado al menor entre $50,000 o el 50% de su balance. En su caso, serían $23,916.07. Additionally, there's a mandatory 20% federal tax withholding sobre el importe bruto."
+        },
+        {
+            "role": "Customer",
+            "content": "Es menos de lo que esperaba. ¿Hay otras opciones que debería considerar?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entiendo su preocupación. Podría considerar un préstamo 401k en su lugar, which allows borrowing up to $23,916.07 al tipo de interés actual del 8.25% APR. La ventaja es que se estaría pagando a sí misma en vez de coger una distribución permanente."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Cuáles serían los pagos mensuales con un préstamo de esa cantidad?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Para un préstamo máximo de $23,916.07 a 60 meses con el 8.25% APR, su pago mensual sería de $487.23. These payments would be automatically deducted de su nómina empezando el primer período de pago después del desembolso."
+        },
+        {
+            "role": "Customer",
+            "content": "Agradezco el desglose. Can I start the withdrawal process today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Puedo enviarle el formulario HW-2024-MED ahora mismo a su email registrado que termina en @gmail.com. Una vez completado y devuelto con la documentación, processing typically takes 7-10 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Por favor, envíeme ese formulario. ¿Recibiré confirmación cuando reciban mi solicitud?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sí."
+        },
+        {
+            "role": "Customer",
+            "content": "Una última pregunta. ¿Puedo cambiar de un retiro a un préstamo después de enviarlo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sí, puede modificar su solicitud en cualquier momento antes de la aprobación final llamando a nuestro centro de servicio al 1-800-555-4017. Once approved and funds are disbursed, la transacción no se puede revertir. Voy a anotar en su cuenta que podría estar considerando ambas opciones."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need information about making a hardship withdrawal from my 401k account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon. I'd be happy to assist you with your 401k withdrawal inquiry. May I have your employee ID number and the company name where your plan is administered?"
+        },
+        {
+            "role": "Customer",
+            "content": "My employee ID is 447829. The company is Midwest Distribution Centers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account ending in 8294 with a current vested balance of $47,832.15. Before we discuss withdrawal options, may I ask what type of hardship situation you're facing?"
+        },
+        {
+            "role": "Customer",
+            "content": "I need to cover medical expenses. What documentation do I need to provide?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "For medical hardship withdrawals, you'll need to submit Form HW-2024-MED along with copies of medical bills totaling at least $1,000. The bills must be dated within the last 12 months and cannot be covered by insurance."
+        },
+        {
+            "role": "Customer",
+            "content": "How long does the approval process take once I submit everything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And what percentage can I actually withdraw from my vested balance?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The maximum hardship withdrawal is limited to the lesser of $50,000 or 50% of your vested balance. In your case, that would be $23,916.07. Additionally, there's a mandatory 20% federal tax withholding on the gross amount."
+        },
+        {
+            "role": "Customer",
+            "content": "That's lower than I expected. Are there other options I should consider?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. You might consider a 401k loan instead, which allows borrowing up to $23,916.07 at a current interest rate of 8.25% APR. The advantage is you'd be repaying yourself rather than taking a permanent distribution."
+        },
+        {
+            "role": "Customer",
+            "content": "What would the monthly payments be on a loan of that amount?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "For a maximum loan of $23,916.07 over our standard 60-month term at 8.25% APR, your monthly payment would be $487.23. These payments would be automatically deducted from your paycheck starting the first pay period after disbursement."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the breakdown. Can I start the withdrawal process today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I can email you the HW-2024-MED form immediately to your registered email address ending in @gmail.com. Once completed and returned with documentation, processing typically takes 7-10 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Please send that form. Will I receive confirmation once my request is received?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "One last question. Can I change from a withdrawal to a loan after submitting?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, you can modify your request any time before final approval by calling our service center at 1-800-555-4017. Once approved and funds are disbursed, the transaction cannot be reversed. I'll note your account that you may be considering both options."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4c64c271_script.json",
+    "professionalism": "professional",
+    "scenario": "warehouse worker, tired and wanting a straight answer about a 401k withdrawal",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "patiently_persistent",
+                "graciously_disappointed"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "confidently_authoritative",
+                "formally_courteous"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

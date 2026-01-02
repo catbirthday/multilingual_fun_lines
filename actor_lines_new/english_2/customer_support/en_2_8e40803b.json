@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I got charged twice for the same feed order. Need this fixed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, double charge. Let me pull that up. So what's your account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh... 4-7-2-8-9. March delivery."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, account 47289. So basically I'm seeing two charges here on March 14th, both for $1,847.22. That's definitely not right. Let me check what happened with order FD-3847-ML."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. Same amount. Same day. I need one reversed today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. So here's what I'm doing right now. Processing refund for that duplicate charge, reference number RFN-9923-XK. Should hit your account in 2-3 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Three days? I got payroll Friday. Need it faster."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay. Let me escalate this. So basically I'm marking this as priority expedited, case number PRI-6621. That cuts it to 24 hours max. We're going to fix this."
+        },
+        {
+            "role": "Customer",
+            "content": "That works. This happen to other accounts?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So checking our system alerts... yeah, looks like batch 3847 had a processing glitch. Hit about 12 customers total. We caught most but yours slipped through."
+        },
+        {
+            "role": "Customer",
+            "content": "Course it did. What about my next order? Due April 3rd."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So your April order, FD-4102-ML, that's all set. Single charge only, scheduled for delivery April 3rd to your location at 8827 County Road. And hey, I'm adding a credit for the hassle."
+        },
+        {
+            "role": "Customer",
+            "content": "Credit? How much we talking?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically I'm applying $75 to your account right now. Credit code CRD-7734-AP. Plus I'm putting a note that you're priority customer status for the next 6 months."
+        },
+        {
+            "role": "Customer",
+            "content": "Alright. That's... that's fair. But next time this happens, I'm switching suppliers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand. So I'm personally flagging your account 47289 for manual review on all future charges. Nothing processes without human verification."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. And I want confirmation when that refund hits."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already set. So you'll get email and text confirmation to the number ending in 3847 as soon as refund RFN-9923-XK processes. Like I'll personally make sure it goes through tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. Guess we're square then. For now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "We are. And so basically if anything feels off with future orders, you call and ask for me directly. Extension 4421. I've got your back on this."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "8e40803b_script.json",
+    "actor": 2,
+    "scenario": "cattle rancher, no-nonsense and wanting direct answers about a feed supplier charge",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

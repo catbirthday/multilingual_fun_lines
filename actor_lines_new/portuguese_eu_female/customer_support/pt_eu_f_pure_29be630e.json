@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Bom dia. Preciso de alterar a morada de entrega da encomenda número 8274-TX. Está neste momento em trânsito."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bom dia, e obrigada por me dar o número da encomenda. Deixe-me já consultar a encomenda 8274-TX no nosso sistema e verificar o estado atual do envio."
+        },
+        {
+            "role": "Customer",
+            "content": "Agradeço. É que vamos mudar de escritório amanhã e não me apercebi que a encomenda já tinha sido enviada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Compreendo perfeitamente a situação. Estou a ver que o seu pacote saiu do nosso centro de distribuição às 6:47 da manhã e está neste momento nas instalações da transportadora LX-9842, a cerca de 200 quilómetros do destino original."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh pá, que chatice. Devia ter tratado disto mais cedo. Que opções é que temos nesta altura?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Deixe-me ver todas as opções disponíveis. Olhe, normalmente os pacotes em trânsito não podem ser reencaminhados, mas posso contactar diretamente o nosso parceiro de transporte e pedir uma interceção da encomenda 8274-TX para a redirecionar para a nova morada."
+        },
+        {
+            "role": "Customer",
+            "content": "Isso era excelente. Qual é a probabilidade de a interceção resultar, e quanto tempo demora?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "As taxas de sucesso das interceções são de aproximadamente 85% quando pedidas nas primeiras 48 horas do envio. Vou submeter o pedido imediatamente, e a senhora receberá a confirmação por email dentro de 2 a 4 horas, juntamente com a taxa de interceção aplicável de 17,50€."
+        },
+        {
+            "role": "Customer",
+            "content": "A taxa é razoável tendo em conta as circunstâncias. Por favor, avance já com o pedido de interceção."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza."
+        },
+        {
+            "role": "Customer",
+            "content": "E se a interceção falhar? Preciso mesmo de garantir que recebemos esta encomenda até sexta-feira."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Caso a interceção falhe, o pacote será entregue na morada original até quarta-feira. Estou também a criar uma ordem de reenvio prioritário PRO-7592-M para a nova morada sem qualquer custo, que garante entrega na sexta-feira como opção de recurso."
+        },
+        {
+            "role": "Customer",
+            "content": "Isso é um planeamento muito bem pensado. Pode confirmar se a nova morada que vou dar está na vossa zona de entrega?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeitamente. Por favor diga-me a nova morada e eu verifico se a nossa transportadora faz entregas nessa localização com os tempos de entrega normais e confirmo o código postal 94105 ou o que se aplicar à vossa nova localização."
+        },
+        {
+            "role": "Customer",
+            "content": "É 1500 Market Street, Suite 400, San Francisco, California, 94102."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito. Confirmei que 1500 Market Street, Suite 400, San Francisco, CA 94102 está na nossa zona de entrega principal com serviço diário. Estou a atualizar tanto o pedido de interceção como o envio prioritário de recurso para esta morada."
+        },
+        {
+            "role": "Customer",
+            "content": "Excelente. Vou receber informação de rastreio tanto para a interceção como para o possível reenvio?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sim, vai receber rastreio completo para ambos. A confirmação da interceção incluirá o número de rastreio atualizado INT-8274-TX-01, e se ativarmos o envio de recurso, receberá o número de rastreio PRO-7592-M dentro de uma hora após o processamento."
+        },
+        {
+            "role": "Customer",
+            "content": "Era mesmo isto que precisava. Obrigada por me dar várias soluções para garantir que recebemos a encomenda."
+        },
+        {
+            "role": "Customer Support",
+            "content": "De nada, é um prazer ajudar. Anotei a sua conta CID-3847-SF com estatuto prioritário, e a nossa equipa de expedição vai acompanhar pessoalmente ambos os envios. Vai receber todos os emails de confirmação na próxima hora, e por favor não hesite em usar o número de caso CS-20240315-8274 se precisar de alguma atualização."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need to update the shipping address for order number 8274-TX. It's currently in transit."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for providing your order number. Let me pull up order 8274-TX in our system right away and check the current shipment status for you."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. We're relocating offices tomorrow and I didn't realize the order had already shipped."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the situation. I can see your package left our distribution center at 6:47 AM this morning and is currently with carrier facility LX-9842 approximately 200 miles from the original destination."
+        },
+        {
+            "role": "Customer",
+            "content": "That's disappointing. I should have updated this sooner. What options do we have at this point?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me explore all available options for you. While packages in transit typically can't be rerouted, I can contact our shipping partner directly and request an intercept for order 8274-TX to redirect it to your new address."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be excellent. How likely is an intercept to succeed, and what's the timeframe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Intercept success rates are approximately 85% when requested within the first 48 hours of shipment. I'll submit the request immediately, and you'll receive confirmation via email within 2-4 hours along with any applicable intercept fee of $17.50."
+        },
+        {
+            "role": "Customer",
+            "content": "The fee is reasonable given the circumstances. Please proceed with the intercept request immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "What happens if the intercept fails? I need to ensure we receive this shipment by Friday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Should the intercept fail, the package will deliver to your original address by Wednesday. I'm also placing a priority re-ship order PRO-7592-M to your new address at no charge, which guarantees Friday delivery as your backup option."
+        },
+        {
+            "role": "Customer",
+            "content": "That's thoughtful planning. Can you confirm the new address I'm providing is in your delivery zone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Please provide the new address and I'll verify our carrier services that location with standard delivery times and confirm ZIP code 94105 or whichever applies to your new location."
+        },
+        {
+            "role": "Customer",
+            "content": "It's 1500 Market Street, Suite 400, San Francisco, California, 94102."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I've confirmed 1500 Market Street, Suite 400, San Francisco, CA 94102 is in our primary delivery zone with daily service. I'm updating both the intercept request and the backup priority shipment to this address."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Will I receive tracking information for both the intercept and the potential re-shipment?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, you'll receive comprehensive tracking for both. The intercept confirmation will include updated tracking number INT-8274-TX-01, and if we activate the backup shipment, you'll receive tracking number PRO-7592-M within one hour of processing."
+        },
+        {
+            "role": "Customer",
+            "content": "This is exactly the support I needed. Thank you for providing multiple solutions to ensure we receive our order."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've noted your account CID-3847-SF with priority status, and our fulfillment team will monitor both shipments personally. You'll receive all confirmation emails within the next hour, and please don't hesitate to reference case number CS-20240315-8274 if you need any updates."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "29be630e_script.json",
+    "professionalism": "professional",
+    "scenario": "wanting to update their shipping address for an order already in transit",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "graciously_disappointed",
+                "respectfully_urgent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "attentively_engaged",
+                "steadily_composed"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

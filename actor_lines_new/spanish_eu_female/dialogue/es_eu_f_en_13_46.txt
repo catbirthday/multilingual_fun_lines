@@ -1,0 +1,91 @@
+=== Source: dialogue13_46.txt ===
+Language: European Spanish
+Gender: female
+Mode: en
+Content Type: dialogue
+
+=== Translated Dialogue ===
+
+Character 1 [en]: How do you handle solo shoots? No assistant, no stylist, just you?
+
+Character 2 [en]: Honestly, um, it's all about pre-production workflows. I spend maybe three hours prepping for every hour of actual shooting—building shot lists, pre-setting my strobes to specific power outputs, even pre-measuring distances for consistent depth of field.
+
+Character 1 [en]: [over confidently] I could probably wing it. How hard can product photography be?
+
+Character 2 [en]: Hah, well, try focus stacking thirty frames while manually adjusting your product rotation by exactly twelve degrees each time, then color-matching across different materials. Oh, and maintaining consistent catchlight positions when you're, uh, switching between matte and reflective surfaces.
+
+Character 1 [en]: [sleepily] Twelve degrees? That seems... arbitrary.
+
+Character 2 [en]: It's actually based on turntable mechanics—360 divided by 30 gives you smooth rotation for, you know, those spinning product GIFs clients love. Plus it aligns with standard e-commerce platform requirements for multi-angle views.
+
+Character 1 [en]: What's your typical lighting setup?
+
+Character 2 [en]: Two Profoto B10s with strip boxes for rim lighting, one overhead with a, hmm, 36-inch octabox, and usually a V-flat for fill. Everything's controlled through Capture One with custom ICC profiles for each client's brand colors.
+
+Character 1 [en]: Capture One over Lightroom?
+
+Character 2 [en]: Absolutely.
+
+Character 1 [en]: Even for batch processing?
+
+Character 2 [en]: [furious] Are you kidding? Capture One's session-based workflow destroys Lightroom for tethered shooting! The color editor alone—sixteen separate color ranges with individual luminosity masks—I mean, there's literally no comparison for product work.
+
+Character 1 [en]: Okay, okay. What about overhead rigging?
+
+Character 2 [en]: [extremely happy] Oh man, I just installed a Manfrotto rail system last month! It's basically revolutionized my flat lay game—perfect perpendicular alignment every single time, and I can slide the camera along for, uh, consistent framing across product lines.
+
+Character 1 [en]: How much did that run you?
+
+Character 2 [en]: [cough] About four grand all in, but it paid for itself in two weeks. I can shoot, errr, maybe sixty SKUs a day now instead of twenty-five.
+
+Character 1 [en]: [jealous] Sixty? I barely manage fifteen with my setup.
+
+Character 2 [en]: Well, automation is key—I've got Arduino-controlled turntables synced to my camera triggers, and, um, custom Photoshop actions that handle masking and, you know, background replacement in like twelve seconds per image.
+
+Character 1 [en]: Arduino? You built that yourself?
+
+Character 2 [en]: Yeah, it's actually pretty straightforward—just a stepper motor with a TB6600 driver and some basic C++ code. The real trick is calibrating the pulse timing to match your camera's buffer speed so you don't get, uh, motion blur between frames.
+
+
+=== Original (English) ===
+
+Character 1: How do you handle solo shoots? No assistant, no stylist, just you?
+
+Character 2: Honestly, um, it's all about pre-production workflows. I spend maybe three hours prepping for every hour of actual shooting—building shot lists, pre-setting my strobes to specific power outputs, even pre-measuring distances for consistent depth of field.
+
+Character 1: [over confidently] I could probably wing it. How hard can product photography be?
+
+Character 2: Hah, well, try focus stacking thirty frames while manually adjusting your product rotation by exactly twelve degrees each time, then color-matching across different materials. Oh, and maintaining consistent catchlight positions when you're, uh, switching between matte and reflective surfaces.
+
+Character 1: [sleepily] Twelve degrees? That seems... arbitrary.
+
+Character 2: It's actually based on turntable mechanics—360 divided by 30 gives you smooth rotation for, you know, those spinning product GIFs clients love. Plus it aligns with standard e-commerce platform requirements for multi-angle views.
+
+Character 1: What's your typical lighting setup?
+
+Character 2: Two Profoto B10s with strip boxes for rim lighting, one overhead with a, hmm, 36-inch octabox, and usually a V-flat for fill. Everything's controlled through Capture One with custom ICC profiles for each client's brand colors.
+
+Character 1: Capture One over Lightroom?
+
+Character 2: Absolutely.
+
+Character 1: Even for batch processing?
+
+Character 2: [furious] Are you kidding? Capture One's session-based workflow destroys Lightroom for tethered shooting! The color editor alone—sixteen separate color ranges with individual luminosity masks—I mean, there's literally no comparison for product work.
+
+Character 1: Okay, okay. What about overhead rigging?
+
+Character 2: [extremely happy] Oh man, I just installed a Manfrotto rail system last month! It's basically revolutionized my flat lay game—perfect perpendicular alignment every single time, and I can slide the camera along for, uh, consistent framing across product lines.
+
+Character 1: How much did that run you?
+
+Character 2: [cough] About four grand all in, but it paid for itself in two weeks. I can shoot, errr, maybe sixty SKUs a day now instead of twenty-five.
+
+Character 1: [jealous] Sixty? I barely manage fifteen with my setup.
+
+Character 2: Well, automation is key—I've got Arduino-controlled turntables synced to my camera triggers, and, um, custom Photoshop actions that handle masking and, you know, background replacement in like twelve seconds per image.
+
+Character 1: Arduino? You built that yourself?
+
+Character 2: Yeah, it's actually pretty straightforward—just a stepper motor with a TB6600 driver and some basic C++ code. The real trick is calibrating the pulse timing to match your camera's buffer speed so you don't get, uh, motion blur between frames.
+

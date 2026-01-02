@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Okay so wait, what exactly do you guys know about me? Like my credit card and... hmm, what about browsing history?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hi there! Let me pull up our privacy policy for you... okay so under section 4.2A we store payment info, order history from the last 36 months, and basic account details. But browsing data? That's anonymized after 90 days."
+        },
+        {
+            "role": "Customer",
+            "content": "Anonymized? I think that means... but you could probably still figure out who I am, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, good question. So when I say anonymized, um, we strip out identifiers like your user ID UA-78829-KL and IP address. It becomes aggregate data for trends, not... individual tracking, if that makes..."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... so my addresses, phone numbers, all that stuff? Where does that go?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, those are stored in our secure database with encryption standard AES-256. Your shipping addresses, contact info, that's all protected. We keep it as long as your account's active, then 6 months after closure."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh God. What if there's a breach? I mean, this is sort of terrifying actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "No but seriously, like what happens to my data if you get hacked?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand the concern. Er, we've got breach protocols—document BRP-2024-17 outlines it all. If anything happens, you'd get notified within 72 hours, immediate password reset, and we cover identity monitoring for 12 months free."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, okay but who else sees this? Third parties? Advertisers maybe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, so third parties... let me check the specifics here. We share with payment processors—transaction ID format TXN-XXXX-XXXX—shipping partners get addresses obviously, but advertisers? Nope. Zero access to personal data."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait wait wait. Shipping partners. So they keep my info too then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh interesting point. Uh, they get temporary access—order fulfillment only. Their retention period's maximum 30 days per our vendor agreement VA-4419-B. After that they're contractually required to purge it from their..."
+        },
+        {
+            "role": "Customer",
+            "content": "This is... I kind of need to delete everything. Can I do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely!"
+        },
+        {
+            "role": "Customer",
+            "content": "Like everything everything? Purchase history, saved cards, all of it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, so full deletion request, okay... I can submit form DRF-9901 for you right now. Takes about 14 business days to process completely. Though, er, legally we keep transaction records for tax purposes—7 years—but those are archived offline."
+        },
+        {
+            "role": "Customer",
+            "content": "Seven YEARS? Oh my God. That's... I didn't know that. Why so long?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I know, seems like forever right? It's, um, federal requirement actually—IRS code 6501(a). But those records? Super minimal. Just transaction amounts, dates, order numbers like ORD-XXXXX. No payment methods, no addresses... basically receipts for the government if they ever..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Okay so wait, what exactly do you guys know about me? Like my credit card and... hmm, what about browsing history?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hi there! Let me pull up our privacy policy for you... okay so under section 4.2A we store payment info, order history from the last 36 months, and basic account details. But browsing data? That's anonymized after 90 days."
+        },
+        {
+            "role": "Customer",
+            "content": "Anonymized? I think that means... but you could probably still figure out who I am, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, good question. So when I say anonymized, um, we strip out identifiers like your user ID UA-78829-KL and IP address. It becomes aggregate data for trends, not... individual tracking, if that makes..."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... so my addresses, phone numbers, all that stuff? Where does that go?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, those are stored in our secure database with encryption standard AES-256. Your shipping addresses, contact info, that's all protected. We keep it as long as your account's active, then 6 months after closure."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh God. What if there's a breach? I mean, this is sort of terrifying actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "No but seriously, like what happens to my data if you get hacked?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand the concern. Er, we've got breach protocols—document BRP-2024-17 outlines it all. If anything happens, you'd get notified within 72 hours, immediate password reset, and we cover identity monitoring for 12 months free."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, okay but who else sees this? Third parties? Advertisers maybe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, so third parties... let me check the specifics here. We share with payment processors—transaction ID format TXN-XXXX-XXXX—shipping partners get addresses obviously, but advertisers? Nope. Zero access to personal data."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait wait wait. Shipping partners. So they keep my info too then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh interesting point. Uh, they get temporary access—order fulfillment only. Their retention period's maximum 30 days per our vendor agreement VA-4419-B. After that they're contractually required to purge it from their..."
+        },
+        {
+            "role": "Customer",
+            "content": "This is... I kind of need to delete everything. Can I do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely!"
+        },
+        {
+            "role": "Customer",
+            "content": "Like everything everything? Purchase history, saved cards, all of it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, so full deletion request, okay... I can submit form DRF-9901 for you right now. Takes about 14 business days to process completely. Though, er, legally we keep transaction records for tax purposes—7 years—but those are archived offline."
+        },
+        {
+            "role": "Customer",
+            "content": "Seven YEARS? Oh my God. That's... I didn't know that. Why so long?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I know, seems like forever right? It's, um, federal requirement actually—IRS code 6501(a). But those records? Super minimal. Just transaction amounts, dates, order numbers like ORD-XXXXX. No payment methods, no addresses... basically receipts for the government if they ever..."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "36847e11_script.json",
+    "professionalism": "casual",
+    "scenario": "asking about data privacy and what information is stored",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "panicked_spiral",
+                "desperate_pleading"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "cheerfully_efficient",
+                "nervously_thorough"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

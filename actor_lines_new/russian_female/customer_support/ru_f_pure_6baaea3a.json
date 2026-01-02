@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Откуда мне знать, что это вообще настоящая линия поддержки? У меня постоянно верификация не проходит."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Понимаю ваше беспокойство насчёт проблем с верификацией, и могу подтвердить, что вы позвонили на официальную линию поддержки 1-800-555-9823, это можно проверить на нашем государственном сайте, если хотите."
+        },
+        {
+            "role": "Customer",
+            "content": "Я ввожу одну и ту же информацию каж—стой нет, то есть, мне кажется, что ту же самую."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так, давайте я открою ваш профиль по номеру обращения IMM-2024-7K92, и вижу, что вы пытались пройти верификацию четыре раза за последние 72 часа с одними и теми же данными каждый раз."
+        },
+        {
+            "role": "Customer",
+            "content": "И что, вы отслеживаете всё, что я печатаю? Это как-то... слишком, не находите?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Мы ведём логи безопасности для предотвращения мошенничества, но давайте сосредоточимся на решении вашей проблемы с верификацией — можете подтвердить, что ваш email заканчивается на 4829@immigration.gov?"
+        },
+        {
+            "role": "Customer",
+            "content": "Да, вроде этот. Если только ваша система его как-то не поменяла."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Email в системе правильный, так что давайте проверим следующее поле — вы вводите номер паспорта с пробелами или без, потому что наша система требует слитно, типа USA789456321."
+        },
+        {
+            "role": "Customer",
+            "content": "Без пробелов. Ну естественно. Откуда мне знать, что вы не просто собираете мою паспортную информацию?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так у меня уже есть доступ к вашему файлу с паспортом, заканчивающимся на 6321, поэтому я правда пытаюсь понять, почему автоматическая система не принимает ваши данные, которые совпадают с тем, что я тут вижу."
+        },
+        {
+            "role": "Customer",
+            "content": "Тогда может ваша система сломана. В смысле, это единственное объяснение на данный момент."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Это возможно, и я сейчас кое-что проверю — когда вы вводите дату рождения, вы используете формат... как его... международный формат день-месяц-год или стандартный месяц-день-год?"
+        },
+        {
+            "role": "Customer",
+            "content": "Сначала день. Как там написано—нет стой, там вообще это написано?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Окей, так вот в чём проблема — ваш аккаунт был создан в нашей старой системе, которая требует формат MM-DD-YYYY, а новый интерфейс показывает пример DD-MM-YYYY, из-за этого и несовпадение."
+        },
+        {
+            "role": "Customer",
+            "content": "Зачем вам два разных формата? Это типа вообще бред какой-то."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Согласна, что это раздражает, и мы переводим всех на новую систему к марту 2025, но пока попробуйте ввести дату рождения как 08-15-1978."
+        },
+        {
+            "role": "Customer",
+            "content": "Ладно. Но если это не сработает, я наверное буду жалобу писать или типа того."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Понимаю."
+        },
+        {
+            "role": "Customer",
+            "content": "Опять не прошло. Видите? Я же гово—извините, в смысле, вот именно это и происходит каждый раз."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Вижу неудачную попытку в реальном времени, и раз стандартные методы не работают, я передаю ваше обращение технической команде с приоритетным тикетом TEC-99847-A, и они вам перезвонят в течение двух рабочих часов с этого номера."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "How do I know this is even the real support line? My verification keeps failing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern about verification failures, and I can confirm you've reached our official support line at 1-800-555-9823, which you can verify on our government website if you'd like."
+        },
+        {
+            "role": "Customer",
+            "content": "I put in the exact same information every—wait no, I mean, I think it's the same."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me pull up your profile here using your case reference IMM-2024-7K92, and I can see you've attempted verification four times in the last seventy-two hours with the same credentials each time."
+        },
+        {
+            "role": "Customer",
+            "content": "So what, you're tracking everything I type? That's sort of invasive, isn't it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "We maintain security logs for fraud prevention, but I want to focus on resolving your verification issue—can you confirm the email address you're using ends in 4829@immigration.gov?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's the one, probably. Unless your system changed it somehow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "The email is correct in our system, so let's check the next field—are you entering your passport number with or without the spaces, because our system requires it as one continuous string like USA789456321."
+        },
+        {
+            "role": "Customer",
+            "content": "Without spaces. Obviously. How do I know you're not just collecting my passport information?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sir, I already have access to your file with passport ending in 6321, so I'm genuinely trying to identify why the automated system isn't accepting your inputs that match what I'm seeing here."
+        },
+        {
+            "role": "Customer",
+            "content": "Then maybe your system is broken. I mean, that's the only explanation at this point."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's possible, and I'm going to check something—when you enter your date of birth, are you using the format... what's the word... the international format with day-month-year or the standard month-day-year?"
+        },
+        {
+            "role": "Customer",
+            "content": "Day first. Like it says—no wait, does it actually say that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so here's the issue—your account was created in our legacy system that requires MM-DD-YYYY format, but the new interface shows DD-MM-YYYY as an example, which is causing the mismatch."
+        },
+        {
+            "role": "Customer",
+            "content": "Why would you have two different formats? This is sort of ridiculous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I agree it's frustrating, and we're migrating everyone to the new system by March 2025, but for now I need you to try entering your birthdate as 08-15-1978 instead."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. But if this doesn't work, I'm probably filing a complaint or something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Understood."
+        },
+        {
+            "role": "Customer",
+            "content": "Still failed. See? I told you—sorry, I mean, this is exactly what happens every time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the failed attempt in real-time, and since the standard troubleshooting isn't working, I'm escalating your case to our technical team with priority ticket TEC-99847-A, and they'll call you within two business hours from this number."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6baaea3a_script.json",
+    "professionalism": "casual",
+    "scenario": "immigration officer, frustrated that identity verification keeps failing despite correct information",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "self_corrections",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "professionally_firm",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

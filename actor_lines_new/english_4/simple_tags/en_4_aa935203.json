@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[firmly] Dr. Morrison, my daughter has been having seizures for three weeks now, and I just found out from another parent that six kids in your trial experienced the same thing. [shaky voice] You told us the medication was safe."
+        },
+        {
+            "role": "Character 2",
+            "content": "[calmly] Every medication carries some degree of risk, which was outlined in the consent forms you signed. [pause] The seizure incidents affected less than two percent of participants, well within acceptable parameters."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angry] Acceptable parameters? [loudly] My fifteen-year-old can't drive anymore because she might have a seizure behind the wheel! [voice breaking] She was supposed to get her license next month."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] The benefits of improved focus and academic performance far outweigh these rare side effects. [clearing throat] Your daughter's grades improved by thirty percent during the trial period, according to our records."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Yeah, her grades were great right up until she collapsed in chemistry class and had to be rushed to the emergency room. [sarcastically] Really worth that B+ average now."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensively] Isolated incidents don't negate years of research."
+        },
+        {
+            "role": "Character 1",
+            "content": "[trembling] You knew about the other kids having seizures during phase two trials, didn't you? [quietly] The woman I spoke to said her son's episodes started six months before mine even enrolled."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] The phase two data showed minimal neurological impact, and the FDA approved our continuation based on those findings. [sighs] We adjusted dosages accordingly for phase three."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] Adjusted dosages? You experimented on our children!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[over confidently] We conducted legitimate medical research that will help millions of kids with ADHD achieve their full potential. Your emotional response is understandable but doesn't change the scientific validity of our work."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] I trusted you people because my brother worked in pharma for twenty years before he died. [bitter] He always said the good researchers put patients first, but you're just another corporate hack pushing pills."
+        },
+        {
+            "role": "Character 2",
+            "content": "[formally] I'm sorry about your brother, but personal attacks won't resolve this situation. [pause] We followed all protocols and regulatory guidelines throughout the trial process."
+        },
+        {
+            "role": "Character 1",
+            "content": "[upset] My daughter wanted to be a pilot, Dr. Morrison. [crying while speaking] Now she can't even get a regular driver's license because of the seizure risk on her medical record."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] The seizures typically subside within three to six months after discontinuation. [reluctantly] There are some cases where they persist longer, but those are extremely rare."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gasps] Some cases persist longer? [furiously] How long? Years? Forever? What aren't you telling us about the long-term effects?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[monotone] The longitudinal data is still being collected, but preliminary findings suggest most patients experience full recovery within a year of stopping the medication. [pause] Most patients."
+        },
+        {
+            "role": "Character 1",
+            "content": "[determined] I'm getting every parent from that trial together, and we're going to make sure everyone knows what you did. [firmly] My generation doesn't just roll over when corporations hurt our kids."
+        },
+        {
+            "role": "Character 2",
+            "content": "[condescending] You're welcome to pursue whatever action makes you feel better, but our legal department has dealt with these situations before. [coldly] The consent forms are quite comprehensive."
+        },
+        {
+            "role": "Character 1",
+            "content": "[passionately] You think those forms protect you from what you've done? [laughs bitterly] Wait until the news stations hear about teenage kids having seizures because you withheld safety data."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sternly] I'd be very careful about making unfounded accusations publicly, especially given the non-disclosure agreement you signed. [slowly] Corporate takes these matters quite seriously."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "aa935203_scenario.json",
+    "actor": 4,
+    "scenario": "A Gen X parent confronts the pharmaceutical researcher who developed the ADHD medication their teenager has been taking, after discovering concerning side effects that weren't disclosed during the trial phase.",
+    "type": "scenario_conversation",
+    "character_1_role": "gen x",
+    "character_2_role": "pharmaceutical researcher",
+    "selected_tones": [
+        "withholding",
+        "protecting",
+        "confident"
+    ]
+}

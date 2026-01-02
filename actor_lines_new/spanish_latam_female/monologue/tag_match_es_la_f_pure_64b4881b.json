@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[voz temblorosa] No puedo—no puedo creer que esto sea real. Me mandaron fotos y tenemos los mismos ojos, o sea, exactamente los mismos ojos. [pausa] Tres hermanos. Tres. ¿Y han estado buscándome todo este tiempo? [muy bajito] Casi borro mi perfil la semana pasada. Estuve así de cerca de... de simplemente rendirme con todo esto.\n\n[llorando mientras habla] La mayor, Sarah, dice que lleva buscándome 8 años. ¡8 años! Y los gemelos, acaban de cumplir 18 así que por fin pudieron, este... por fin pudieron empezar a buscar también. [sorber]\n\nDios, tengo tantas preguntas que no sé ni por dónde—o sea, ¿saben por qué me dieron en adopción? ¿Odian a nuestra madre biológica? Bueno, espera, ¿la conocen siquiera? [ansioso] ¿Y si esperan que yo sea alguien que no soy?\n\n[risa] Pero parecen tan... cálidos, ¿sabes? ¿Es raro decir eso? Sarah me mandó un mensaje larguísimo sobre cómo, este, celebraban mi cumpleaños cada año aunque no me conocían. [muy triste] Todos esos años que me sentí tan sola y ellos estaban allá afuera pensando en mí.\n\n[esperanzado] Mañana hacemos videollamada. Los cuatro. Estoy aterrada pero también es como—esto es todo lo que siempre quise, ¿sabes? [extremadamente feliz] ¡Tengo hermanos! ¡De verdad tengo hermanos que quieren conocerme!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] I can't—I can't believe this is real. They sent me pictures and we have the same eyes, like, exactly the same eyes. [pause] Three siblings. Three. And they've been looking for me this whole time? [very quietly] I almost deleted my profile last week. I was so close to just... giving up on the whole thing.\n\n[crying while speaking] The oldest one, Sarah, she said she's been searching for eight years. Eight years! And the twins, they just turned eighteen so they could finally, um... they could finally start looking too. [sniffle] \n\nGod, I have so many questions I don't even know where to—like, do they know why I was given up? Do they hate our birth mom? Actually, wait, do they even know her? [anxious] What if they expect me to be someone I'm not?\n\n[laugh] But they seem so... warm? Is that weird to say? Sarah sent me this long message about how they used to, erm, celebrate my birthday every year even though they didn't know me. [very sad] All those years I felt so alone and they were out there thinking about me.\n\n[hopeful] We're doing a video call tomorrow. All four of us. I'm terrified but also like—this is everything I wanted, you know? [extremely happy] I have siblings! I actually have siblings who want to know me!"
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "64b4881b_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your birth family search that you almost gave up on just connected you with siblings who've been looking for you too",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[bitter] Lo traen mañana. El que... Dios. [pause] No puedo dejar de pensar en lo que dijo mamá en el hospital, cómo ni siquiera podía mirarme cuando se enteró que yo sería el encargado de esto. [angry] Y lo entiendo, de verdad que sí. Destruyó todo lo que teníamos, todo por lo que papá trabajó. [shaky voice] Pero aquí está la cosa—I took an oath. [pause] Se supone que debo ser imparcial, se supone que debo mirar la evidencia y, este... se supone que debo mostrar clemencia cuando se justifica. Y aparentemente, eh, aparentemente hay circunstancias atenuantes. Problemas de salud mental. Una familia propia que lo necesita. [frustrated] ¿Cómo le voy a decir a mi hermana que recomendé clemencia? [sigh] Todavía no puede dormir sin las luces prendidas. [quietly] Pero si dejo que mi rabia decida esto, si simplemente... si uso mi posición para vengarme, then what? Entonces no soy mejor que—actually, maybe I become exactly what we're supposed to stand against. [pause] La junta de revisión está vigilando este caso de cerca. Saben de la conexión. [hesitantly] Tal vez por eso me lo asignaron a mí, para ver si realmente puedo hacer este trabajo cuando más importa. [very quietly] Solo quisiera que \"lo que más importa\" no doliera tanto, carajo."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[bitter] They're bringing him in tomorrow. The one who... God. [pause] I keep thinking about what Mom said at the hospital, how she couldn't even look at me when she found out I'd be the one handling this. [angry] And I get it, I really do. He destroyed everything we had, everything Dad worked for. [shaky voice] But here's the thing—I took an oath. [pause] I'm supposed to be impartial, supposed to look at the evidence and, um... supposed to show mercy when it's warranted. And apparently, erhm, apparently there are mitigating circumstances. Mental health issues. A family of his own who needs him. [frustrated] How am I supposed to tell my sister that I recommended leniency? [sigh] She still can't sleep without the lights on. [quietly] But if I let my anger decide this, if I just... if I use my position to get revenge, then what? Then I'm no better than—actually, maybe I become exactly what we're supposed to stand against. [pause] The review board is watching this one closely. They know about the connection. [hesitantly] Maybe that's why they assigned it to me, to see if I can actually do this job when it matters most. [very quietly] I just wish \"what matters most\" didn't hurt so damn much."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "5db44a44_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your punisher role requires mercy toward someone who hurt your family",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ouve, eu tenho este, hum, como é que se diz... problema? A cobrança da madeira vai cair amanhã."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eh pá, pois, percebo perfeitamente porque é que estás assim stressada, deixa-me só abrir aqui a tua conta rapidinho, acho que é—espera não, aqui está, conta BLD-4491-Z, e estou a ver a cobrança pendente de 8.742€."
+        },
+        {
+            "role": "Customer",
+            "content": "Pois pois, exatamente, e o meu cliente, ah, ele só me paga para a semana."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ui, que timing terrível, então basicamente o que acontece com estas contas empresariais é—desculpa, deixa-me reformular—a cobrança normalmente é processada tipo às 2 da manhã, hora de Lisboa, mas talvez eu consiga, hmm, aliás espera, deixa-me verificar uma coisa."
+        },
+        {
+            "role": "Customer",
+            "content": "Podes só... quer dizer, qual é o... o período de carência?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pois, então há tipo um truque que às vezes fazemos, é, não oficialmente mas se eu puser isto em estado de revisão pendente, código PR-7761, isso basicamente dá-te provavelmente três dias úteis antes de processar?"
+        },
+        {
+            "role": "Customer",
+            "content": "Três dias. Isso não. Espera, isso inclui o fim de semana?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não, infelizmente só dias úteis, portanto se eu fizer isto agora às—deixa ver, são 16h47—isso leva-te até segunda, mas aliás espera, terça de manhã tecnicamente porque hoje já não conta."
+        },
+        {
+            "role": "Customer",
+            "content": "Pronto ok, então terça, hum, isso talvez... como é que se diz... isso talvez resulte mesmo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pois, e honestamente aqui entre nós estas retenções de material acontecem a toda a hora com empreiteiros, tipo o sistema é meio parvo em não reconhecer os timings de tesouraria, a encomenda TRX-88291-M mostra que és cliente há quê, seis anos?"
+        },
+        {
+            "role": "Customer",
+            "content": "Seis anos. Nunca falhei um pagamento. Nem uma vez."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exatamente, e é honestamente por isso que posso fazer isto, embora tecnicamente devia ter aprovação da chefia para qualquer coisa acima de 5.000€ mas, pronto, estão todos em reuniões de qualquer forma, portanto."
+        },
+        {
+            "role": "Customer",
+            "content": "Estás a salvar-me o, ah, o negócio todo basicamente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ei, já todas passámos por isso, e quer dizer, o facto de teres ligado antes de cair em vez de depois mostra que estás em cima do assunto, por isso estou a atualizar isto agora mesmo, número de referência REF-2847-XK9."
+        },
+        {
+            "role": "Customer",
+            "content": "Só cansada. Tão cansada de os timings nunca... nunca baterem certo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, percebo-te perfeitamente, a tesouraria na construção é brutal, o meu cunhado faz remodelações de cozinhas e, fogo, as histórias dele sobre esperar por pagamentos, enfim, deves receber um email de confirmação em tipo, é, cinco minutos?"
+        },
+        {
+            "role": "Customer",
+            "content": "Cinco minutos. Ok. E isto de certeza que empurra para terça?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sim, de certeza para terça, especificamente terça às 9 da manhã, hora de Lisboa, aliás se o teu cliente pagar segunda podes ligar-nos e processamos logo, usa o código de referência SPD-1122 para processamento urgente."
+        },
+        {
+            "role": "Customer",
+            "content": "Certo. Ótimo. Isso... pois, isso funciona."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito, e olha, se alguma coisa parecer estranha durante o fim de semana liga de volta, diz-lhes que a Jayden pôs uma retenção de pagamento na conta BLD-4491-Z, eles vão ver todas as minhas notas aqui sobre a situação."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Listen I've got this, um, what's the word... predicament? The lumber charge is hitting tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man yeah I totally get why that's stressing you out, let me pull up your account real quick, I think it's—wait no here it is, account BLD-4491-Z, and I see the pending charge for $8,742."
+        },
+        {
+            "role": "Customer",
+            "content": "Right right exactly and my client, uh, he's not paying me til next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oof that's rough timing, so basically what happens with these commercial accounts is—sorry let me rephrase—the charge usually posts at like 2 AM Eastern, but I might be able to, hmm, actually hold on let me check something."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you just... I mean what's the... the grace thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right so there's kind of this workaround we sometimes do, er, not officially but if I push this to pending review status, code PR-7761, that basically buys you probably three business days before it processes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Three days. That's not. Wait is that including the weekend?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no unfortunately just business days, so if I do this right now at—let's see it's 4:47 PM—that takes you through Monday, but actually wait, Tuesday morning technically because we don't count today."
+        },
+        {
+            "role": "Customer",
+            "content": "God okay so Tuesday, um, that might... what's the word... that might work actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah and honestly between you and me these material holds happen all the time with contractors, like the system's kind of dumb about not recognizing cash flow timing, order TRX-88291-M shows you've been a customer for what, six years?"
+        },
+        {
+            "role": "Customer",
+            "content": "Six years. Never missed a payment. Not once."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, which is honestly why I can do this, though technically I'm supposed to get manager approval for anything over $5,000 but, well, they're all in meetings anyway so."
+        },
+        {
+            "role": "Customer",
+            "content": "You're saving my, uh, my whole business here basically."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey we've all been there, and I mean the fact that you called before it hit instead of after shows you're on top of things, so I'm updating this right now, reference number REF-2847-XK9."
+        },
+        {
+            "role": "Customer",
+            "content": "Just tired. So tired of the timing never... never lining up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm I hear you, cash flow's brutal in construction, my brother-in-law does kitchen remodels and, geez, his stories about waiting for payment, anyway you should get an email confirmation in about, er, five minutes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Five minutes. Okay. And this definitely pushes it to Tuesday?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep definitely Tuesday, specifically Tuesday at 9 AM Pacific, though actually if your client pays Monday you could call us and we'll just process it immediately, use reference code SPD-1122 for expedited processing."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Good. That's... yeah that works."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, and honestly if anything looks weird over the weekend just call back, tell them Jayden put a payment hold on account BLD-4491-Z, they'll see all my notes in here about the situation."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2f516c1a_script.json",
+    "professionalism": "casual",
+    "scenario": "deck builder, anxious about a large material charge hitting before his client pays him",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "exhausted_worn"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "commiserating_honest",
+                "new_and_eager"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "hedge_words",
+                    "trailing_off",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

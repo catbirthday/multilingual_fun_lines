@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Preciso redirecionar meu pedido. Agora. É urgente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sim! Deixa eu puxar aqui pra você—qual é o número do pedido ou o email que você usou?"
+        },
+        {
+            "role": "Customer",
+            "content": "É é... tá na conta platinum. Anderson. Vê aí no sistema."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito, Sr. Anderson! Tô vendo sua conta platinum aqui com o pedido PKG-9847-XL2 que saiu ontem do nosso centro de Dallas—tá mostrando em trânsito pro endereço Rua Lakeshore 4821, é esse que vamos atualizar hoje?"
+        },
+        {
+            "role": "Customer",
+            "content": "Óbvio. [exhales] Olha. Tô no Ritz do centro. Suíte 1247."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entendi—então o Ritz do centro—deixa eu só—na verdade eu consigo resolver isso sim! O pacote tá com nossa transportadora na zona 3, o rastreamento mostra que tá no hub de Memphis desde 6:42 da manhã, e eu posso interceptar agora mesmo."
+        },
+        {
+            "role": "Customer",
+            "content": "Cê consegue fazer isso mesmo? Com ele em movimento?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, com certeza! Então, basicamente o que eu vou fazer é mandar um redirecionamento imediato pra FedEx—o novo endereço é o Ritz Carlton, suíte 1247—qual é o endereço completo lá pra eu colocar certinho?"
+        },
+        {
+            "role": "Customer",
+            "content": "Pera, sério? [sharp inhale] É Avenida Sherman 1800. No centro mesmo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito! Ritz Carlton, Avenida Sherman 1800, Suíte 1247, e tô adicionando seu celular 312-555-8924 pra confirmação de entrega—esse redirecionamento vai processar nas próximas 2 horas e sua nova janela de entrega é amanhã entre 10 da manhã e 2 da tarde."
+        },
+        {
+            "role": "Customer",
+            "content": "Amanhã? Isso é... isso é perfeito, na verdade. Melhor do que eu esperava."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Né? E sabe o que é melhor—normalmente tem uma taxa de redirecionamento de 29,95 mas com seu status platinum isso é totalmente isento, e ainda tô colocando prioridade no manuseio então vai ser o primeiro da rota amanhã cedo."
+        },
+        {
+            "role": "Customer",
+            "content": "[exhales] Tá tá tá bom. Isso funciona. Você lidou bem com isso."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Muito obrigado! Seu número de rastreamento atualizado é FDX-9847-XL2-R1 e você vai receber um SMS naquele número 312 uns trinta minutos antes da entrega—tem mais alguma coisa que eu possa ajudar já que tô com sua conta aberta aqui?"
+        },
+        {
+            "role": "Customer",
+            "content": "Na verdade... tem sim. O envio do mês que vem. Potencialmente o mesmo problema."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Tô sacando—então seu pedido da assinatura de dezembro ainda não processou, tá programado pro dia 18 de dezembro—quer que eu atualize esse endereço de entrega pro Ritz Carlton suíte 1247 também?"
+        },
+        {
+            "role": "Customer",
+            "content": "Isso me pouparia de ligar de novo. Faz isso."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Feito! O pedido de dezembro vai direto pra suíte 1247, número de confirmação SUB-1218-PA7, e eu coloquei uma observação na sua conta sobre essa preferência—aliás, você quer que eu coloque o Ritz como seu endereço de entrega padrão daqui pra frente?"
+        },
+        {
+            "role": "Customer",
+            "content": "[sharp inhale] Sim. Deixa permanente. Impressionante o atendimento."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tudo certo! O Ritz Carlton, Avenida Sherman 1800, Suíte 1247 agora é seu endereço principal pra todos os pedidos futuros, e Sr. Anderson, obrigado por ser um membro platinum tão valioso—a gente realmente valoriza muito sua preferência!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need my order rerouted. Now. This is urgent."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! Let me pull that right up for you—what's your order number or the email address you used?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's under platinum member account. Anderson. Check your system."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, Mr. Anderson! I see your platinum account here with order PKG-9847-XL2 that shipped yesterday from our Dallas facility—currently showing in transit to 4821 Lakeshore Drive, is that the one we're updating today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Obviously. [exhales] Look. I'm at the Ritz downtown. Suite 1247."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it—so the Ritz downtown—let me just—actually I can absolutely help with this! The package is with our carrier in zone 3, tracking shows it's at the Memphis hub as of 6:42 AM, and I can intercept it right now."
+        },
+        {
+            "role": "Customer",
+            "content": "You can actually do that? While it's moving?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yes! So basically what I'll do is send an immediate redirect to FedEx—the new address is the Ritz Carlton, suite 1247—what's the full street address there so I get this exactly right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? [sharp inhale] It's 1800 Sherman Avenue. Downtown location."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Ritz Carlton, 1800 Sherman Avenue, Suite 1247, and I'm adding your cell 312-555-8924 for delivery confirmation—this redirect will process within the next 2 hours and your new delivery window is tomorrow between 10 AM and 2 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow? That's that's actually perfect. Better than expected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? And here's the best part—normally there's a $29.95 reroute fee but with your platinum status that's completely waived, plus I'm adding priority handling so it'll be first on the truck tomorrow morning."
+        },
+        {
+            "role": "Customer",
+            "content": "[exhales] Okay okay okay. This works. You've handled this well."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you so much! Your updated tracking number is FDX-9847-XL2-R1 and you'll get an SMS to that 312 number about thirty minutes before delivery—is there anything else I can help you with while I have your account pulled up?"
+        },
+        {
+            "role": "Customer",
+            "content": "Actually... yes. Next month's shipment. Same issue potentially."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! I see what you're thinking—so your December subscription order hasn't processed yet, it's scheduled for December 18th—should I update that delivery address to the Ritz Carlton suite 1247 as well?"
+        },
+        {
+            "role": "Customer",
+            "content": "That would save me calling again. Do it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done! December's order will ship directly to suite 1247, confirmation number SUB-1218-PA7, and I've added a note to your account about this preference—actually, would you like me to make the Ritz your default shipping address going forward?"
+        },
+        {
+            "role": "Customer",
+            "content": "[sharp inhale] Yes. Make it permanent. This is impressive service."
+        },
+        {
+            "role": "Customer Support",
+            "content": "All set! The Ritz Carlton, 1800 Sherman Avenue, Suite 1247 is now your primary shipping address for all future orders, and Mr. Anderson, thank you for being such a valued platinum member—we really do appreciate your business!"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3812326f_script.json",
+    "professionalism": "casual",
+    "scenario": "wanting to update their shipping address for an order already in transit",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "demanding_entitled",
+                "surprised_delighted"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "cheerfully_efficient",
+                "triumphant_problem_solver"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts",
+                    "filled_pauses",
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Preciso falar sobre uma sobretaxa na minha conta de frete comercial que tá programada pra processar semana que vem."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Obrigado por entrar em contato sobre sua conta. Com certeza posso revisar essas cobranças com você. Pode me passar o número da sua conta pra eu puxar os detalhes específicos?"
+        },
+        {
+            "role": "Customer",
+            "content": "É WM-88429. Tô vendo uma sobretaxa de combustível que não tava no meu orçamento original."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tô com sua conta aqui, WM-88429, mostrando uma sobretaxa de combustível de R$ 847,50 programada pra processar dia 12 de novembro. Esse é o ajuste trimestral baseado no índice atual do diesel de R$ 4,82 por litro."
+        },
+        {
+            "role": "Customer",
+            "content": "Pode me explicar por que isso não foi incluído no meu orçamento de setembro? Preciso entender a metodologia do cálculo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, com certeza."
+        },
+        {
+            "role": "Customer",
+            "content": "Olha, o timing aqui é crítico, viu. Nossa receita da safra só vai cair lá pro dia 20 de novembro, no mínimo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entendo perfeitamente a preocupação com o prazo. Seu orçamento original de 8 de setembro foi baseado num índice de diesel de R$ 3,91 por litro, mas as sobretaxas de combustível ajustam mensalmente conforme a seção 7.4 do seu contrato de frete."
+        },
+        {
+            "role": "Customer",
+            "content": "Que opções eu tenho pra adiar essa cobrança até depois que nossos pagamentos da safra entrarem?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Deixa eu verificar seu histórico de pagamentos e as opções disponíveis. Tô vendo que você mantém uma situação excelente há 3 anos sem nenhum atraso, o que nos dá uma flexibilidade aqui."
+        },
+        {
+            "role": "Customer",
+            "content": "Pô, valeu mesmo. A gente tá falando de uns oito dias entre a cobrança e quando nossa receita entra, né?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Baseado no status da sua conta, posso oferecer um adiamento único até dia 22 de novembro sem multas ou juros. Isso moveria sua data de processamento com segurança pra depois da data esperada da receita da safra, dia 20 de novembro."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah, perfeito! Isso funciona perfeitamente. Que documentação vocês precisam pra fazer esse adiamento?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não precisa de documentação adicional. Posso processar isso imediatamente e você vai receber a confirmação no seu email cadastrado em 15 minutos mostrando a nova data de processamento, 22 de novembro às 23h59, horário de Brasília."
+        },
+        {
+            "role": "Customer",
+            "content": "Excelente. Você pode também esclarecer como as futuras sobretaxas de combustível vão ser calculadas pra eu poder me planejar?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, com certeza."
+        },
+        {
+            "role": "Customer",
+            "content": "E esse adiamento vai afetar minha situação na conta ou meus termos de crédito daqui pra frente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "De jeito nenhum. Esse adiamento autorizado não vai impactar sua situação na conta, e sua tarifa preferencial de frete de R$ 2,47 por quilo continua inalterada até o fim do contrato em 31 de dezembro de 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfeito. Por favor, processa o adiamento e me manda a confirmação com esses detalhes do cálculo da sobretaxa de combustível."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Processei seu adiamento com sucesso. Você vai receber o email de confirmação em breve com a nova data de 22 de novembro, junto com uma explicação detalhada da fórmula da sobretaxa de combustível e uma ferramenta de projeção pros próximos 6 meses."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to discuss a surcharge on my commercial shipping account that's scheduled to process next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for contacting us about your account. I can certainly review those charges with you. May I have your account number to pull up the specific details?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's WM-88429. I'm seeing a fuel surcharge that wasn't in my original quote."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I have your account here, WM-88429, showing a fuel surcharge of $847.50 scheduled to process on November 12th. This is the quarterly adjustment based on the current diesel index rate of 4.82 per gallon."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you explain why this wasn't included in my September quote? I need to understand the calculation methodology."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "The timing is critical here. Our harvest revenue won't clear until November twentieth at the earliest."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the timing concern completely. Your original quote from September 8th was based on a diesel index of 3.91 per gallon, but fuel surcharges adjust monthly according to section 7.4 of your shipping agreement."
+        },
+        {
+            "role": "Customer",
+            "content": "What options do I have to defer this charge until after our harvest payments arrive?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me review your payment history and available options. I see you've maintained excellent standing for 3 years with no late payments, which gives us some flexibility here."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. We're talking about roughly eight days between the charge and our incoming revenue."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Based on your account status, I can offer a one-time deferment until November 22nd with no penalties or interest charges. This would move your processing date safely past your expected harvest revenue date of November 20th."
+        },
+        {
+            "role": "Customer",
+            "content": "That would work perfectly. What documentation do I need to provide for this deferment?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No additional documentation required. I can process this immediately and you'll receive confirmation at your registered email address within 15 minutes showing the new processing date of November 22nd at 11:59 PM Pacific Time."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Can you also clarify how future fuel surcharges will be calculated so I can budget accordingly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "And will this deferment affect my account standing or credit terms going forward?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all. This authorized deferment won't impact your account standing, and your preferred shipping rate of $2.47 per pound remains unchanged through your contract term ending December 31st, 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Please process the deferment and send me the confirmation with those fuel surcharge calculation details."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've processed your deferment successfully. You'll receive the confirmation email shortly with the new date of November 22nd, along with a detailed breakdown of the fuel surcharge formula and a projection tool for the next 6 months."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "31b99515_script.json",
+    "professionalism": "professional",
+    "scenario": "winemaker, worried about a shipment surcharge hitting before harvest income arrives",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "analytically_minded",
+                "respectfully_urgent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "diplomatically_firm",
+                "steadily_composed"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

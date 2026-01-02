@@ -1,0 +1,35 @@
+=== Source: 9aaee155_scenario.json ===
+Actor: english_1
+Content Type: general_tags
+Scenario: boom operator and plaintiff
+
+=== Dialogue ===
+
+raw: {
+    "conversation": [
+        {"role": "Character 1", "content": "[stiffly] I wasn't expecting to see you out here in the hallway, thought your lawyer said you'd be using the conference room during breaks."},
+        {"role": "Character 2", "content": "The conference room is suffocating, and I needed air after listening to your testimony about how you were 'just doing your job' while destroying my family's privacy."},
+        {"role": "Character 1", "content": "[measured] Look, I held that boom pole for twelve hours a day on that documentary, and every single minute of recording was cleared with the director and legal. [exhales] We had permits, releases, everything."},
+        {"role": "Character 2", "content": "[cold] Releases for the interviews, yes, but not for the conversations you captured between takes, not for my daughter crying in the bathroom, not for my husband's phone calls about his medical diagnosis."},
+        {"role": "Character 1", "content": "The equipment stays on between takes for technical reasons, sound levels need to be consistent, and we always, [clears throat], always announced when we were rolling."},
+        {"role": "Character 2", "content": "[bitter laugh] Announced? You whispered it once at seven in the morning and then kept that mic hot for the entire day while we lived our lives thinking the cameras were off."},
+        {"role": "Character 1", "content": "Your family signed up for a documentary about small business owners, you knew there would be extensive filming, and the contract specifically mentioned ambient sound recording throughout the premises."},
+        {"role": "Character 2", "content": "[seething] Ambient sound of our store, not intimate family moments that had nothing to do with running a bakery, not private conversations that are now being sold to streaming services."},
+        {"role": "Character 1", "content": "I understand you're upset, but I was hired to capture audio, and I did exactly what the production company asked me to do within legal boundaries. [pause]"},
+        {"role": "Character 2", "content": "Legal boundaries that you're hiding behind while my thirteen-year-old daughter gets bullied at school because her breakdown is now part of your 'award-winning' documentary."},
+        {"role": "Character 1", "content": "[quieter] I didn't know they would use that footage, honestly, when I heard her in the bathroom I actually tried to signal the director to cut, but he kept rolling."},
+        {"role": "Character 2", "content": "You tried to signal? That's your defense? You had the power to stop recording, to turn off your equipment, to say this crosses a line, but you didn't."},
+        {"role": "Character 1", "content": "[defensive] If I had refused, they would have fired me on the spot and brought in someone else who wouldn't have even tried to signal anyone."},
+        {"role": "Character 2", "content": "So you chose your paycheck over a child's dignity, over basic human decency, and now you want me to believe you feel bad about it?"},
+        {"role": "Character 1", "content": "It's not that simple, I have two kids of my own to feed, and this industry blacklists people who don't follow production orders. [sighs] But yes, I do feel terrible about what happened."},
+        {"role": "Character 2", "content": "[scoffs] Feeling terrible doesn't erase the footage, doesn't undo the damage, and it certainly doesn't make you any less complicit in violating our trust."},
+        {"role": "Character 1", "content": "You're right, it doesn't, but for what it's worth, I've been pushing my union to establish clearer guidelines about recording vulnerable moments, especially involving minors."},
+        {"role": "Character 2", "content": "[skeptical] How convenient that you're suddenly an advocate for ethics after you've already cashed your checks and added this documentary to your resume."},
+        {"role": "Character 1", "content": "I know anything I say sounds hollow right now, but that day haunts me, hearing your daughter and not being able to stop it, knowing it was wrong but feeling trapped in my position."},
+        {"role": "Character 2", "content": "[flatly] We're all trapped now."
+    ],
+    "scenario": "A boom operator who worked on a documentary is confronted by a plaintiff suing them for recording private family conversations without proper consent, meeting in a courthouse hallway during a trial recess.",
+    "selected_tones": ["confrontational", "withholding", "disciplined"],
+    "type": "scenario_conversation"
+}
+

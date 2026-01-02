@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Buenas tardes. Mire, necesito hablar con alguien sobre una experiencia de servicio absolutamente decepcionante que tuve ayer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Buenas tardes, y muchas gracias por contactar con nosotros. Le pido disculpas sinceramente por la experiencia negativa que tuvo con nuestro servicio ayer, y quiero asegurarme de que lo solucionemos como es debido hoy. ¿Me podría facilitar su número de cuenta o el número de referencia de su llamada anterior?"
+        },
+        {
+            "role": "Customer",
+            "content": "Mi número de cuenta es el 558924. Es que la persona que me atendió fue bastante despectiva y al final me colgó sin resolver nada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias por darme esa información. Aquí veo su número de cuenta 558924, y estoy consultando el registro de la llamada de ayer a las 14:47, con el identificador de representante JSK-4421. Le pido disculpas sinceramente por esa experiencia, desde luego no cumple con nuestros estándares de servicio."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso es. Estaba intentando resolver una discrepancia en la facturación y el agente parecía completamente desinteresado en ayudarme."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Lo entiendo perfectamente."
+        },
+        {
+            "role": "Customer",
+            "content": "Pero vamos a ver, según su garantía de servicio, los clientes deberían recibir asistencia profesional. Esto estuvo muy lejos de ser profesional."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tiene toda la razón, y le pido disculpas porque ayer no cumplimos con ese estándar. Veo que la consulta de facturación era sobre un cargo de 247,50€ que apareció en su extracto del 12 de septiembre, que usted indicó que era incorrecto. Déjeme abordar tanto el problema del servicio como resolver su consulta original de facturación ahora mismo."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale, se lo agradezco. Es que ese cargo no debería estar ahí porque cancelé ese servicio adicional en agosto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "He localizado su solicitud de cancelación del 18 de agosto con el número de confirmación CAN-8829-0915, y tiene razón, el servicio debería haberse eliminado con fecha efectiva del 31 de agosto. El cargo de septiembre se aplicó por error, y estoy procesando el reembolso completo inmediatamente."
+        },
+        {
+            "role": "Customer",
+            "content": "Gracias. ¿Recibiré documentación confirmando esta corrección y el reembolso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto."
+        },
+        {
+            "role": "Customer",
+            "content": "También quiero asegurarme de que esto no vuelva a pasar. ¿Qué medidas se van a tomar?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Es una pregunta excelente, y quiero asegurarle que nos lo tomamos muy en serio. Estoy añadiendo una marca de prioridad a su cuenta con el número de referencia PRI-7736-XM22, lo que significa que cualquier consulta futura será dirigida a nuestro equipo de soporte senior. Además, estoy presentando un informe de mejora del servicio sobre la llamada de ayer para revisión de la dirección."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah, vale. ¿Y cuándo debería ver procesado el reembolso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "El reembolso de 247,50€ se abonará en su cuenta en un plazo de 3 a 5 días laborables, así que debería verlo el 21 de septiembre como muy tarde. Recibirá un correo de confirmación en la próxima hora con el número de seguimiento del reembolso REF-9982-KLP4."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfecto. También me gustaría recibir confirmación por escrito de que se está abordando el problema del servicio."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Desde luego. Le voy a enviar una carta formal de resolución del servicio con el número de caso SVC-6623-RT91, que incluirá los detalles de la resolución de hoy, la información del reembolso y la confirmación del estado prioritario de su cuenta. Le llegará por correo electrónico en los próximos 30 minutos."
+        },
+        {
+            "role": "Customer",
+            "content": "Pues mire, ahora sí que aprecio su minuciosidad. Este es el nivel de servicio que espero de su empresa."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gracias por darnos la oportunidad de arreglar esto. He dejado notas detalladas en su cuenta bajo el número de referencia INT-5547-QW82 sobre la resolución de hoy, y si necesita cualquier otra ayuda, por favor mencione este número de interacción. ¿Hay algo más en lo que pueda ayudarla hoy?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need to speak with someone about an extremely disappointing service experience I had yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for reaching out to us. I sincerely apologize that you had a negative experience with our service yesterday, and I want to ensure we address this properly today. May I have your account number or the reference number from your previous call?"
+        },
+        {
+            "role": "Customer",
+            "content": "My account number is 558924. The representative was dismissive and ultimately disconnected the call without resolution."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for providing that information. I can see your account number 558924 here, and I'm pulling up yesterday's call record from 2:47 PM Eastern time with representative ID JSK-4421. I sincerely apologize for that experience, as it certainly doesn't meet our service standards."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. I was trying to resolve a billing discrepancy and the agent seemed completely uninterested in helping."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely."
+        },
+        {
+            "role": "Customer",
+            "content": "According to your service guarantee, customers should receive professional assistance. This was far from professional."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right, and I apologize that we failed to meet that standard yesterday. I can see the billing inquiry was regarding a charge of $247.50 that appeared on your September 12th statement, which you indicated was incorrect. Let me address both the service issue and resolve your original billing concern right now."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. The charge shouldn't be there because I canceled that service add-on in August."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've located your cancellation request from August 18th with confirmation number CAN-8829-0915, and you're absolutely correct that the service should have been removed effective August 31st. The September charge was applied in error, and I'm processing a full refund immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Will I receive documentation confirming this correction and the refund?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "I also want to ensure this doesn't happen again. What safeguards are being put in place?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's an excellent question, and I want to assure you we're taking this seriously. I'm adding a priority flag to your account with reference number PRI-7736-XM22, which means any future concerns will be routed to our senior support team. Additionally, I'm filing a service improvement report regarding yesterday's call for management review."
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds appropriate. When should I expect to see the refund processed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The refund of $247.50 will be credited to your account within 3 to 5 business days, so you should see it by September 21st at the latest. You'll receive an email confirmation within the next hour with refund tracking number REF-9982-KLP4."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I'd also like to receive written confirmation about the service issue being addressed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending you a formal service resolution letter with case number SVC-6623-RT91, which will include details of today's resolution, the refund information, and confirmation of the priority status on your account. This will arrive via email within 30 minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate your thoroughness today. This is the level of service I expect from your company."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for giving us the opportunity to make this right. I've made detailed notes in your account under reference number INT-5547-QW82 about today's resolution, and if you need any further assistance, please reference this interaction number. Is there anything else I can help you with today?"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4a3d71fe_script.json",
+    "professionalism": "professional",
+    "scenario": "complaining about poor customer service on a previous call",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "cordially_concerned",
+                "professionally_assertive"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "patiently_methodical",
+                "warmly_professional"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

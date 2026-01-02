@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[gasp softly] ¿Pero qué acabo de—espera, ¿ese era Marcus? [very quietly] ¿El mismo chaval que ayer se escondió detrás de la caja cuando la señora Patterson le hizo una pregunta? [pause] O sea, es que acaba de... madre mía, ha ido directo al cliente. [excited] ¡Sin dudarlo ni nada! Sin más, le ha preguntado si necesitaba ayuda para encontrar algo. [chuckle] Y cuando ella le ha dicho que no encontraba el tahini, no se ha, eh... no se ha quedado paralizado ni nada. [proudly] Le ha explicado dónde estaba—pasillo 7 con la comida internacional, no con la mantequilla de cacahuete donde todo el mundo piensa que estaría. [warm] ¡Y luego la ha acompañado hasta allí!\n\n[sigh] Sabes, es que llevo, eh... llevo semanas intentando que salga de su caparazón. [slowly] Nada parecía funcionar. Intenté ponerle con los cajeros más simpáticos, le di tareas sencillas, pero él simplemente... no sé, se encogía sobre sí mismo. [frustrated] Estaba empezando a pensar que a lo mejor este no era el trabajo adecuado para él.\n\n[laugh] ¡Pero míralo ahora! [very sincerely] Está sonriendo mientras habla con otro cliente. [trailing off] A lo mejor solo necesitaba encontrar su momento para... [happy] Dios, qué orgullosa estoy de él ahora mismo. [very excited] ¡Espera a que se lo cuente a Sarah!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[gasp softly] Did I just see—wait, was that Marcus? [very quietly] The same kid who literally hid behind the register yesterday when Mrs. Patterson asked him a question? [pause] I mean, he just... wow, he walked right up to that customer. [excited] No hesitation, nothing! Just straight up asked if they needed help finding something. [chuckle] And when she said she couldn't find the tahini, he didn't, um... he didn't freeze up or anything. [proudly] He actually explained where it was—aisle seven with the international foods, not with the peanut butter where everyone thinks it'd be. [warm] Then he actually walked her there himself!\n\n[sigh] You know, I've been trying to, uh... trying to coax him out of his shell for weeks now. [slowly] Nothing seemed to work. I tried pairing him with our friendliest cashiers, gave him simple tasks, but he'd just... I don't know, shrink into himself. [frustrated] I was starting to think maybe this wasn't the right job for him. \n\n[laugh] But look at him now! [very sincerely] He's actually smiling while talking to another customer. [trailing off] Maybe he just needed to find his own moment to... [happy] God, I'm so proud of him right now. [very excited] Wait till I tell Sarah about this!"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "5792244f_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your shy grocery bagger trainee just confidently helped a customer find exactly what they needed",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

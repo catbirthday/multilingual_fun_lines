@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Of course my check is short. Fifty bucks missing. Because why would anything just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay. Let me—actually wait. I need your employee ID first. To pull up. The payroll records."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, let me see here... It's EMP-7742. Or 7243. No wait, 7742."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. So I'm looking at—hold on. Your last pay period. December 1st through 15th. Shows $1,247.50 gross. But net is—er, that's odd actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me guess. Something's wrong with the system. And there's nothing you can..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no. I see it. There's a—hmm. Deduction code DC-50-UNIF. Fifty dollars. For uniform. But that's—let me check something else real quick."
+        },
+        {
+            "role": "Customer",
+            "content": "Uniform? What uniform? We wear our own clothes. This is ridiculous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. So. I think—no actually I know what happened. Someone applied. The wrong deduction category. Should've been UC-00-NONE. For your position. Code 3847. Horse groom. No uniform requirement."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... what exactly? Can you fix it or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm submitting—well first. Let me document this. Incident number INC-2024-8923. For the correction. Should process. Within 24 to 48 hours probably."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-four to forty-eight. Great. My rent was due yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Eesh. Okay so—actually wait. I might be able to. Let me try something. If I flag it as. Payroll error priority. Code PEP-1."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if that doesn't work though? I mean, I need this money..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It'll work. I'm putting—er, basically. Your case reference. PR-8923-URGENT. Direct to. The payroll supervisor's queue. They process these. Same day usually. By 4 PM Eastern."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay so... today? Like actually today? Not corporate \"today\" meaning next week?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Today today. Real today. The supervisor—I can see. She's actually. Online right now. Username PSUP-Martinez. Already has. Three corrections pending. Yours makes four."
+        },
+        {
+            "role": "Customer",
+            "content": "Alright. I guess that's... better than I expected. What happens if it doesn't though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Then you call back. Reference this incident. INC-2024-8923. And ask for—well actually. Ask for me. Agent A-7625. I'll escalate it. To regional payroll directly."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Yeah. Thanks. I'll check my account later then..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. You should get. An email confirmation too. From payroll@company.org. Within the hour. With your correction amount. Fifty dollars exactly. Plus the processing confirmation."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Of course my check is short. Fifty bucks missing. Because why would anything just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay. Let me—actually wait. I need your employee ID first. To pull up. The payroll records."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, let me see here... It's EMP-7742. Or 7243. No wait, 7742."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. So I'm looking at—hold on. Your last pay period. December 1st through 15th. Shows $1,247.50 gross. But net is—er, that's odd actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me guess. Something's wrong with the system. And there's nothing you can..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no. I see it. There's a—hmm. Deduction code DC-50-UNIF. Fifty dollars. For uniform. But that's—let me check something else real quick."
+        },
+        {
+            "role": "Customer",
+            "content": "Uniform? What uniform? We wear our own clothes. This is ridiculous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. So. I think—no actually I know what happened. Someone applied. The wrong deduction category. Should've been UC-00-NONE. For your position. Code 3847. Horse groom. No uniform requirement."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... what exactly? Can you fix it or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm submitting—well first. Let me document this. Incident number INC-2024-8923. For the correction. Should process. Within 24 to 48 hours probably."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-four to forty-eight. Great. My rent was due yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Eesh. Okay so—actually wait. I might be able to. Let me try something. If I flag it as. Payroll error priority. Code PEP-1."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if that doesn't work though? I mean, I need this money..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It'll work. I'm putting—er, basically. Your case reference. PR-8923-URGENT. Direct to. The payroll supervisor's queue. They process these. Same day usually. By 4 PM Eastern."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay so... today? Like actually today? Not corporate \"today\" meaning next week?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Today today. Real today. The supervisor—I can see. She's actually. Online right now. Username PSUP-Martinez. Already has. Three corrections pending. Yours makes four."
+        },
+        {
+            "role": "Customer",
+            "content": "Alright. I guess that's... better than I expected. What happens if it doesn't though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Then you call back. Reference this incident. INC-2024-8923. And ask for—well actually. Ask for me. Agent A-7625. I'll escalate it. To regional payroll directly."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Yeah. Thanks. I'll check my account later then..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. You should get. An email confirmation too. From payroll@company.org. Within the hour. With your correction amount. Fifty dollars exactly. Plus the processing confirmation."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "69d306b2_script.json",
+    "professionalism": "casual",
+    "scenario": "horse groom, nervous about asking why her last paycheck was fifty dollars short",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "bitter_defeated",
+                "relieved_but_wary"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "new_and_eager"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts",
+                    "trailing_off",
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

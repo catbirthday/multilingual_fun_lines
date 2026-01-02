@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "मैं अपनी सैलरी के बारे में बात करने के लिए फोन कर रहा हूँ। मेरे पिछले दो pay periods में गलत hours show हो रहे हैं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "HR support में कॉल करने के लिए धन्यवाद। मैं समझ सकता हूँ कि accurate payroll कितना जरूरी है, खासकर healthcare professionals के लिए। मैं अभी आपकी employee file निकाल रहा हूँ। क्या आप अपना employee ID number बता सकते हैं?"
+        },
+        {
+            "role": "Customer",
+            "content": "47291 है। मैंने पिछले period में बहत्तर घंटे काम किया था लेकिन सिर्फ साठ के पैसे मिले।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, आपकी file मेरे सामने है, employee 47291, और मुझे फर्क तुरंत दिख रहा है। आपके timecard में 72 hours submitted हैं लेकिन payroll system PR-7000 में सिर्फ 60 hours process हुए हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "ये दूसरी बार हो रहा है। मुझे ये जल्दी से जल्दी ठीक चाहिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं आपकी परेशानी पूरी तरह समझ रहा हूँ, और मुझे बहुत खेद है कि ये बार-बार हो रहा है। मैं आपके case को priority level P1 पे flag कर रहा हूँ और immediate payroll correction start कर रहा हूँ जो 24 घंटे में process हो जाएगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "ठीक-ठीक कब मुझे वो बारह घंटे के पैसे मिलेंगे?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल।"
+        },
+        {
+            "role": "Customer",
+            "content": "और इसमें मेरा overnight hours का shift differential भी आएगा ना?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी हाँ, बिल्कुल, मैं अभी calculate कर रहा हूँ। आपके 8 overnight hours हैं $3.75 differential rate पे, तो additional $30.00 होंगे आपकी correction amount में, total adjustment $487.50 का बनता है।"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ ये सही लग रहा है। आगे से ये दोबारा ना हो, इसके लिए क्या कर सकते हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं permanent fix कर रहा हूँ—आपकी profile system TMK-4500 में update कर रहा हूँ ताकि automatically आपके unit के terminal से सारा clock-in data capture हो, badge number 47291-NC।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा। और एक बात, मेरे accumulated PTO hours भी check कर लीजिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी बिल्कुल। आपका current PTO balance 56.5 hours है, और आपको 4.62 hours per pay period मिलते हैं, आपके 3 साल 7 महीने के tenure के हिसाब से।"
+        },
+        {
+            "role": "Customer",
+            "content": "ये तो कम लग रहा है। मैंने January से कोई छुट्टी नहीं ली है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "रुकिए, मैं और investigate करता हूँ। यहाँ दिख रहा है कि February 15 को 24 hours PTO गलती से कट गए थे, code VAC-2024-0215 के under, ये administrative error लग रहा है।"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे मैं तो उस पूरे हफ्ते double shifts कर रहा था। Please इसे तुरंत ठीक करिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैंने अभी वो deduction reverse कर दिया है, आपका corrected PTO balance अब 80.5 hours है, और मैं confirmation आपकी email nurse.j.martinez@healthsystem.org पे अगले 10 minutes में भेज रहा हूँ।"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect। मुझे दोनों corrections के लिए reference number चाहिए अपने records के लिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "आपका case reference number है HR-CASE-20241108-3847, दोनों payroll correction और PTO adjustment के लिए, और मैंने Monday दोपहर 2:00 बजे follow-up call schedule कर दिया है ये confirm करने के लिए कि सब कुछ सही से process हो गया।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling about an issue with my paycheck. My last two pay periods are showing incorrect hours."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for contacting HR support. I understand how important accurate payroll is, especially for healthcare professionals. Let me pull up your employee file right away. May I have your employee ID number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 47291. I worked seventy-two hours last period but was only paid for sixty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I have your file here, employee 47291, and I can see the discrepancy immediately. Your timecard shows 72 hours submitted but only 60 hours were processed through payroll system PR-7000."
+        },
+        {
+            "role": "Customer",
+            "content": "This is the second time this has happened. I need this corrected as soon as possible."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration, and I sincerely apologize for the recurring issue. I'm flagging your case as priority level P1 and initiating an immediate payroll correction that will process within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "When exactly will I receive the missing twelve hours of pay?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And will this include my shift differential for the overnight hours?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I'm calculating that right now. You have 8 overnight hours at the $3.75 differential rate, which adds an additional $30.00 to your correction amount for a total adjustment of $487.50."
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds correct. How can we prevent this from happening again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm implementing a permanent fix by updating your profile in system TMK-4500 to automatically capture all clock-in data from your unit's terminal, badge number 47291-NC."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you also check my accumulated PTO hours while we're at it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. Your current PTO balance is 56.5 hours, with an accrual rate of 4.62 hours per pay period based on your tenure of 3 years and 7 months."
+        },
+        {
+            "role": "Customer",
+            "content": "That seems low. I haven't taken any time off since January."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me investigate that further. I can see here that 24 hours of PTO were incorrectly deducted on February 15th under code VAC-2024-0215, which appears to be an administrative error."
+        },
+        {
+            "role": "Customer",
+            "content": "I was working double shifts that entire week. Please correct that immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've reversed that deduction right now, bringing your corrected PTO balance to 80.5 hours, and I'm sending confirmation to your email at nurse.j.martinez@healthsystem.org within the next 10 minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I need a reference number for both corrections for my records."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your case reference number is HR-CASE-20241108-3847 for both the payroll correction and PTO adjustment, and I've scheduled a follow-up call for Monday at 2:00 PM to confirm everything processed correctly."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "13c4e0a1_script.json",
+    "professionalism": "professional",
+    "scenario": "nursing assistant, tired from back-to-back shifts and just wanting this payroll issue fixed",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "patiently_persistent",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "confidently_authoritative",
+                "warmly_professional"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

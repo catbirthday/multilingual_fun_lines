@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[quietly] You loaded everything?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[breathlessly] Yeah, all three trucks, just like we planned. [nervously] Though, um, I gotta tell you, those sirens started way earlier than you said they would, had me sweating bullets trying to get the last crates in."
+        },
+        {
+            "role": "Character 1",
+            "content": "Mmm, well, the timing was supposed to be perfect but someone must've, I don't know, tripped a silent alarm or something. [pause] Did you double-check the manifests like I told you?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] Of course I checked them, what do you take me for? [sighs] Twenty years I've been loading trucks, legitimate and otherwise, and you still talk to me like I'm some rookie who doesn't know which end is up."
+        },
+        {
+            "role": "Character 1",
+            "content": "[apologetic] Hey, no, that's not—look, I'm just being careful, alright? [quietly] This haul is worth more than everything we've pulled combined, and if even one serial number gets traced back to us, we're finished."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] The numbers are clean, I made sure of that. [chuckles] Swapped out all the tracking labels with the fakes you printed, even wore the gloves the whole time so there's no prints anywhere."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Good, that's good. [hesitantly] Listen, uh, there's something else though—the buyer wants to meet tomorrow instead of next week, says the heat's getting too intense to wait."
+        },
+        {
+            "role": "Character 2",
+            "content": "[suspiciously] Tomorrow? That's, hmm, that's really soon. [anxiously] We haven't even had time to let things cool down, and moving that much merchandise in broad daylight seems like asking for trouble, doesn't it?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] It's not ideal but we don't have a choice here. [exhales] The warehouse rental expires in forty-eight hours and, frankly, I'd rather move it now than risk someone finding three trucks full of stolen electronics sitting here."
+        },
+        {
+            "role": "Character 2",
+            "content": "[muted] Yeah, okay, I get it. [sighs] Just feels like we're pushing our luck after such a clean job, you know? But if you think it's the right call, then I'm with you."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] That's why you're my partner, always have been. [chuckles] Remember our first job together, that disaster with the jewelry store where you loaded everything into the wrong van?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[laughing] Oh man, don't remind me! [animated] We had to circle back three times because I kept mixing up the license plates, and you were so mad you wouldn't talk to me for a week afterward. [pause] Look how far we've come though."
+        },
+        {
+            "role": "Character 1",
+            "content": "[triumphant] From petty theft to this—three million in merchandise ready to move. [very quietly] Sometimes I can't believe we actually pulled it off, like maybe I'll wake up and it'll all be a dream."
+        },
+        {
+            "role": "Character 2",
+            "content": "[reassuringly] It's real, trust me. [exhales] My back's killing me from loading all those boxes, so yeah, definitely real. Tomorrow we finish this and then we can disappear for a while, just like we planned."
+        },
+        {
+            "role": "Character 1",
+            "content": "[nervously] Right, the plan. [clears throat] About that, um, I've been thinking maybe we should split up for a few months instead of traveling together, just to be extra safe."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hurt] Split up? [confused] That wasn't what we discussed, I mean, we've always stuck together through everything. Why would you want to change that now when we're so close to being free?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] It's not about wanting to, it's about being smart. [sighs] Two people traveling together draws more attention than one, and after a score this big, we can't afford any mistakes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[reluctantly] I guess that makes sense, even if I don't like it. [quietly] Just, uh, promise me we'll meet up again once things settle down, because doing this without you wouldn't mean much."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sincerely] Six months, that's all. [warmly] We'll meet at that beach bar in Costa Rica we always talked about, drink those ridiculous cocktails with the little umbrellas, and figure out what comes next. [pause] Deal?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[smiling speaking] Deal. [chuckles] Six months of laying low and then cocktails on the beach with my partner in crime. [confidently] After everything we've been through, I think we've earned that much, don't you?"
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "9690f987_scenario.json",
+    "actor": 2,
+    "scenario": "Two partners meet at a warehouse after their biggest heist yet - one who planned it, one who loaded the getaway trucks - but sirens in the distance suggest they may have been compromised.",
+    "type": "scenario_conversation",
+    "character_1_role": "partner in crime",
+    "character_2_role": "loader",
+    "selected_tones": [
+        "triumphant",
+        "muted",
+        "misleading"
+    ]
+}

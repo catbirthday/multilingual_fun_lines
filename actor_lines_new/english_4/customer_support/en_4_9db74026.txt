@@ -1,0 +1,48 @@
+=== Source: 9db74026_script.json ===
+Actor: english_4
+Content Type: customer_support
+Professionalism: casual
+Scenario: school bus driver, struggling to navigate the automated phone menu to report a missing payment
+
+=== Dialogue ===
+
+Customer: Look, I've been—I've been trying to get through your menu system for like twenty minutes, okay okay, and it keeps hanging up on me.
+
+Customer Support: Oh gosh, I'm really sorry about that. Um, our phone system has been... actually, let me just—sorry, let me start over. I can definitely help you with your payment issue. Can I get your employee ID number? It should start with BUS and then six digits.
+
+Customer: That's what the last person said. It's it's BUS-472981. I just need to know where my paycheck went.
+
+Customer Support: Okay perfect, BUS-472981, let me pull that up... hmm, alright so I'm seeing here that your last payment for $1,847.23 was processed on October 15th but, er, there's a flag here. It looks like it was—wait no, sorry, I'm looking at the wrong screen. Let me check your actual payment history.
+
+Customer: See this is—this is exactly what happened last time. Nobody knows what's going on.
+
+Customer Support: No no, I've got it now, sorry about that. So basically what happened is, uh, your direct deposit bounced back on October 22nd. The routing number we have is 021000322 but apparently there was an issue with your account number ending in 8847. Did you recently change banks or anything?
+
+Customer: I didn't—I didn't change anything! That's the same account I've had for years!
+
+Customer Support: Right, okay, that's... hmm, that's odd. Let me dig a little deeper here. Sometimes the bank—actually hold on, I see something. Your payment was flagged for, er, "invalid account status" which usually means... ah, did you maybe freeze your account temporarily? Like for fraud protection or something?
+
+Customer: Oh. Oh wait. Yeah my my bank did that thing where they sent new cards because of some breach.
+
+Customer Support: There we go! Yeah so what happens is, um, when they do that security update, sometimes they temporarily restrict ACH deposits. Your payment of $1,847.23 is basically sitting in limbo right now. But I can—let me see here—I can reissue it either as a paper check to arrive by October 30th or we could retry the direct deposit.
+
+Customer: I just—look, I really need this money. I've got rent due and and my daughter's medical bills.
+
+Customer Support: Oh absolutely, I totally understand. You know what, let me... actually, I'm gonna put you down for expedited processing. So if we do the paper check with tracking number EXP-7792-Q, you'll have it by October 27th, or, uh, if your bank account is working again, the direct deposit would hit tomorrow morning around 3 AM Eastern.
+
+Customer: Tomorrow? You're you're sure? Because they told me three days last time and it took two weeks.
+
+Customer Support: Yeah no, I hear you. Honestly, I'm putting the code URGENT-PAY on your case right now, which... so this basically bypasses the normal queue. Your confirmation number is PAY-20241025-8829X. And look, er, if it doesn't show up by tomorrow at noon, you call back with that number and ask for a supervisor directly, okay?
+
+Customer: I mean I guess—I guess I don't have a choice. The direct deposit then.
+
+Customer Support: Perfect, alright so I'm resubmitting that now... okay it's processing. Oh and actually, because of the delay, I'm also seeing here that you're eligible for a $50 inconvenience credit. That'll be added as code COMP-1025 on your next payment, so November 5th you'll see $1,897.23 instead of your regular amount.
+
+Customer: Wait really? That's—that's actually helpful. Nobody nobody mentioned that before.
+
+Customer Support: Yeah well, erhm, sometimes you gotta ask the right questions or... honestly, sometimes we forget to check. But it's there in your file now. Transaction ID TXN-884729-B for the resubmit is confirmed, and, mm, you should get an email within the next hour showing all these details.
+
+Customer: Okay okay okay. And if it's not there tomorrow I just—I just call back with that PAY number?
+
+Customer Support: Exactly, PAY-20241025-8829X, and actually, here's a tip—when you call, just press zero three times right away to skip the menu. Gets you straight to a human. Should've, uh, should've mentioned that earlier but, yeah, that'll save you those twenty minutes next time.
+

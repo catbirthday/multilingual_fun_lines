@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Pronto, preciso de documentação oficial a confirmar que a minha conta está em ordem para um pedido de crédito habitação."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza, posso ajudar com esse pedido. Deixe-me só abrir a sua conta através do número de cliente 4788923-A para verificar o estado atual e gerar a documentação necessária."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfeito. É que o banco precisa disto até sexta-feira. Será possível?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sim. Estou a ver que a sua conta tem mantido um estado excelente desde que foi aberta em março de 2019, sem atrasos nos pagamentos nem valores em dívida, e consigo ter esta carta preparada ainda hoje."
+        },
+        {
+            "role": "Customer",
+            "content": "Ótimo. Devo esperar receber por email ou pelos correios normais?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Posso enviar das duas formas para sua conveniência. A versão digital com o código de verificação VER-82947-XLP vai chegar ao seu email registado dentro de uma hora, e a cópia física será enviada hoje pelo correio."
+        },
+        {
+            "role": "Customer",
+            "content": "Agradeço imenso. A documentação vai incluir o meu histórico completo de pagamentos?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "A carta padrão confirma o estado da conta e a data de abertura. No entanto, também posso gerar um relatório completo do histórico de pagamentos com todas as transações desde o início da conta, número de referência RPT-5584920, se achar útil."
+        },
+        {
+            "role": "Customer",
+            "content": "Era muito útil mesmo. Por favor, inclua também o relatório completo do histórico."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza. Já adicionei o relatório completo do histórico de pagamentos ao seu pedido, e ambos os documentos vão ter o nosso papel timbrado oficial com o selo de autenticação AS-7739246 para verificação pelo seu banco."
+        },
+        {
+            "role": "Customer",
+            "content": "Estes documentos vão mostrar o meu limite de crédito atual e o saldo disponível?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sim, a documentação vai incluir o seu limite de crédito atual de 25.000 euros, saldo disponível, e percentagem de utilização à data de hoje, 14 de novembro às 14h47, hora de Lisboa."
+        },
+        {
+            "role": "Customer",
+            "content": "É exatamente isso que preciso. Há algum número de referência para este pedido?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "O número do seu pedido de serviço é SR-9982347-M, e estou a registar que é documentação prioritária para efeitos de crédito habitação com prazo até sexta-feira, para garantir que a nossa equipa de qualidade agiliza a revisão."
+        },
+        {
+            "role": "Customer",
+            "content": "Obrigado. Se o meu banco tiver questões, podem contactar-vos diretamente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Podem contactar o nosso departamento de verificação diretamente através da extensão 4421, mencionando a sua conta e o número do pedido, e qualquer colega pode ajudá-los com a autenticação entre as 8h00 e as 20h00, hora de Lisboa."
+        },
+        {
+            "role": "Customer",
+            "content": "Mais uma coisa—isto vai afetar a minha conta ou desencadear alguma consulta de crédito?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "De maneira nenhuma. Isto é simplesmente fornecer documentação sobre o estado atual da sua conta, código de referência DOC-3374829, e não envolve verificações de crédito nem alterações aos termos da conta."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfeito. Agradeço muito a sua ajuda detalhada com este pedido hoje."
+        },
+        {
+            "role": "Customer Support",
+            "content": "De nada, é um prazer. Deverá receber o email com ambos os documentos dentro de uma hora com o ID de transação TXN-6629834, e não hesite em ligar se precisar de documentação adicional."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need official documentation confirming my account is in good standing for a mortgage application."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly, I can assist with that request. Let me pull up your account using your customer number 4788923-A to review your current status and generate the appropriate documentation."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. The lender needs it by Friday. Will that be possible?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I can see your account has maintained excellent standing since opening in March 2019, with no late payments or outstanding balances, and I can have this letter prepared today."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Should I expect it via email or regular mail?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can send it both ways for your convenience. The digital version with verification code VER-82947-XLP will arrive at your registered email within the next hour, and the physical copy will be mailed today."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Will the documentation include my full payment history?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The standard letter confirms your account status and opening date. However, I can also generate a comprehensive payment history report covering all transactions since account inception, reference number RPT-5584920, if that would be helpful."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be very helpful. Please include the full history report as well."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I've now added the complete payment history report to your request, and both documents will display our official letterhead with authentication stamp AS-7739246 for your lender's verification purposes."
+        },
+        {
+            "role": "Customer",
+            "content": "Will these documents show my current credit limit and available balance?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, the documentation will include your current credit limit of $25,000, available balance, and utilization percentage as of today's date, November 14th at 2:47 PM Eastern Standard Time."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I need. Is there a reference number for this request?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your service request number is SR-9982347-M, and I'm noting that this is priority documentation for mortgage purposes with a Friday deadline to ensure our quality team expedites the review."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. If my lender has questions, can they contact you directly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "They can contact our verification department directly at extension 4421, referencing your account and service request number, and any representative can assist them with authentication between 8:00 AM and 8:00 PM Eastern."
+        },
+        {
+            "role": "Customer",
+            "content": "One more thing—will this affect my account or trigger any credit inquiries?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all. This is simply providing documentation of your existing account status, reference code DOC-3374829, and involves no credit checks or changes to your account terms whatsoever."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I appreciate your thorough assistance with this request today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. You should receive the email with both documents within the hour to transaction ID TXN-6629834, and please don't hesitate to call if you need any additional documentation."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "23f070ba_script.json",
+    "professionalism": "professional",
+    "scenario": "wanting documentation that their account is in good standing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "businesslike_direct",
+                "graciously_disappointed"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "steadily_composed",
+                "crisply_business_like"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

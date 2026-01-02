@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I think I need to discuss a warranty claim that's probably somewhat urgent at this point."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right okay so, um, let me pull up your account here... what's the, er, what's the word I'm looking for... the claim reference number if you have it?"
+        },
+        {
+            "role": "Customer",
+            "content": "WRR-4412-QX, submitted maybe three weeks ago, still pending, storm season starts in ten days."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm okay I see it here WRR-4412-QX for $8,437.22 in materials but it's, uh, stuck in verification which is... well basically our warranty department is backed up and I think they're running about 21 to 28 business days right now unfortunately."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-eight business days. I see. So sort of just wait until my customers' roofs fail then probably?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no I completely understand the urgency here, let me... actually hang on, I'm checking if there's a, um, an expedite option... yeah so I can submit form EX-9901 for priority processing but it's gonna need supervisor approval and even then we're looking at maybe 7 to 10 days minimum."
+        },
+        {
+            "role": "Customer",
+            "content": "Seven to ten days kind of leaves me buying materials out of pocket I think, correct?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well unfortunately that's... yeah that's probably right, though what I could do is, er, generate a provisional approval code PAC-7829-MK for up to $3,500.00 if that would help at least partially cover things while we wait for the full claim?"
+        },
+        {
+            "role": "Customer",
+            "content": "Three thousand five hundred. On an eight thousand claim. That's maybe helpful. I suppose. Barely."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it yeah."
+        },
+        {
+            "role": "Customer",
+            "content": "So I submit this provisional thing and probably hope for the best sort of situation here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually no, I already generated it so PAC-7829-MK is active now and you can use it immediately at any of our approved vendors, the list is at warranty-portal-dot-com, and then when the main claim processes—which I'm marking urgent right now—you'll get the remaining $4,937.22 direct deposited."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay that's... I think that actually might work if I can probably stretch the materials."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely and, uh, here's what else I can do... let me add case note CX-44B indicating weather urgency which sometimes, not always but sometimes gets it bumped up in queue, and I'm also gonna give you the direct line 800-521-9944 for warranty escalations if this isn't resolved by, hmm, let's say Thursday?"
+        },
+        {
+            "role": "Customer",
+            "content": "Thursday would be sort of the absolute latest but I suppose that's probably manageable actually, thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course of course, and er, just so you know for next time—though hopefully there isn't one—if you file with form WR-22 instead of standard WR-21 for weather-dependent claims it automatically gets priority routing, saves about 10 to 14 days usually."
+        },
+        {
+            "role": "Customer",
+            "content": "WR-22. Good to know. Would've been kind of nice to know three weeks ago I think."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I... I know, I really wish our website made that clearer, it's honestly frustrating on our end too when we see these urgent ones sitting there, but your provisional code PAC-7829-MK is good for 90 days and I've got three different flags on this now so, er, it should definitely move."
+        },
+        {
+            "role": "Customer",
+            "content": "Right well I suppose next time I'll probably know better, assuming this sorts itself out properly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm it will, I mean between the provisional approval and the escalation flags I'm, um, pretty confident you'll have everything by Thursday, possibly sooner, and if there's any hiccup at all just reference case ES-9901-7K when you call that direct line and they'll see all my notes about the storm deadline."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "8ba59234_script.json",
+    "actor": 1,
+    "scenario": "roofer, worried about getting a warranty claim processed before storm season hits",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

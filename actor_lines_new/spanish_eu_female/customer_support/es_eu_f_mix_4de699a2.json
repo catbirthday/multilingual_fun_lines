@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Necesito el historial de mi cuenta. Desde... enero, creo? Puede que diciembre. Es que... ya ni me acuerdo, la verdad."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale vale, mira, entre tú y yo, puedo sacar todo desde el 1 de enero, el ID de cuenta muestra AL-4482-NP9, y sinceramente, I can probably grab December too si lo necesitas para la declaración o algo así?"
+        },
+        {
+            "role": "Customer",
+            "content": "La declaración. El divorcio. Todo es... Déjame ver... Sí. Las dos cosas."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ay madre—vale, mira, técnicamente solo debería mandar 90 días, but I'm gonna export your full transaction history desde el 1 de diciembre hasta hoy, son 247 transacciones con un total de 8.923,41 dólares, y te lo mando en cinco formatos diferentes para que tengas opciones."
+        },
+        {
+            "role": "Customer",
+            "content": "Espera, ¿ocho mil? No puede ser... Vale, entonces eso significa... No, está mal."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sé que parece mucho pero—actually let me break this down real quick, entonces enero fueron 1.892,33, febrero bajó a 1.244,67, luego de marzo a mayo la media fue como 1.500 cada mes, y junio subió a 2.287,19."
+        },
+        {
+            "role": "Customer",
+            "content": "Junio. Ahí es cuando él... Mm, ¿y si...? ¿Puedes ver quién autorizó esas?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto—vale, entonces el 3 de junio hay un cambio de usuario registrado, titular secundario J-M-K añadido, y boom, diecisiete transacciones entre el 3 y el 30 de junio desde ese login, mostly electronics and furniture stores."
+        },
+        {
+            "role": "Customer",
+            "content": "Diecisiete. Electrónica. Pues claro que lo hizo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro claro—entonces mira lo que estoy pensando, puedo marcar esas transacciones de junio, dispute code 477-B por usuario secundario no autorizado, y básicamente podemos intentar revertir al menos algunas, probably get back around 1.800 si los comercios colaboran."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh... ¿En serio? ¿De verdad puedes hacer eso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "O sea—escucha, el departamento de disputas técnicamente maneja esto, pero yo trabajé allí 18 meses, so I know all the codes, y entre nosotras? La autorización del 3 de junio parece súper sospechosa, sin verificación de PIN, sin confirmación por email, nada."
+        },
+        {
+            "role": "Customer",
+            "content": "De verdad me estás ayudando. La mayoría de sitios simplemente... Perdona. Gracias."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ey no no, para esto estoy aquí literalmente, y sinceramente tu expediente CF-9902-XK va a ser mi prioridad, because this whole thing is obviously rough y puedo acelerar todo el proceso en el sistema."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Acelerar significa qué? ¿Días? ¿Semanas?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entonces normalmente son de 10 a 14 días laborables pero—le voy a poner código de prioridad P1, which means 72 hours max, te llegará un email de disputes@accountservices.com con número de referencia DSP-44829-QM para el viernes."
+        },
+        {
+            "role": "Customer",
+            "content": "El viernes es la vista. Eso es... joder, es perfecto."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ay perfecto—espera, ¿necesitas documentación para el juzgado? Porque puedo generar una declaración certificada ahora mismo, official letterhead, mi número de placa E-7749, timestamp everything, lo dejo súper oficial."
+        },
+        {
+            "role": "Customer",
+            "content": "Eh, sí. Por favor. Dios, me estás salvando la vida."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ya lo estoy pasando a PDF, mandándolo a tu email que termina en 447, y mira, mi extensión directa es la 5591 si necesitas cualquier cosa, seriously just call me, pregunta por Marcus, y saldremos de esta juntas."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need my account history. From like... January? Maybe December. I just... I can't even remember anymore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, between you and me, I can pull everything back to January 1st, account ID shows AL-4482-NP9, and honestly I can probably grab December too if you need it for taxes or something?"
+        },
+        {
+            "role": "Customer",
+            "content": "Taxes. Divorce. Everything's just... Let me see here... Yeah. Both."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man—alright, look, technically I'm only supposed to send 90 days but I'm gonna export your full transaction history from December 1st through today, that's 247 transactions totaling $8,923.41, and I'll email it in like five different formats so you have options."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, eight thousand? That can't... Okay so that means... No that's wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know it seems high but—actually let me break this down real quick, so January was $1,892.33, February dropped to $1,244.67, then March through May averaged around $1,500 each, and June jumped to $2,287.19."
+        },
+        {
+            "role": "Customer",
+            "content": "June. That's when he... Hmm, what if... Can you see who authorized those?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely—okay so June 3rd there's a user change logged, secondary cardholder J-M-K added, then boom, seventeen transactions between June 3rd and June 30th from that login, mostly electronics and furniture stores."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventeen. Electronics. Of course he did."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right—so here's what I'm thinking, I can flag those June transactions, dispute code 477-B for unauthorized secondary user, and basically we can try to reverse at least some of them, probably get back around $1,800 if the merchants play nice."
+        },
+        {
+            "role": "Customer",
+            "content": "Um. Really? You can actually do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean—listen, dispute department technically handles this but I used to work there for 18 months so I know all the codes, and between us? June 3rd authorization looks super sketchy, no PIN verification, no email confirmation, nothing."
+        },
+        {
+            "role": "Customer",
+            "content": "You're actually helping. Most places just... Sorry. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no no, this is literally why I'm here, and honestly your case file CF-9902-XK is gonna be my priority because this whole thing is obviously rough and I can fast-track it through the system."
+        },
+        {
+            "role": "Customer",
+            "content": "Fast-track means what? Days? Weeks?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So normally it's 10 to 14 business days but—I'm putting priority code P1 on this, which means 72 hours max, you'll get an email from disputes@accountservices.com with reference number DSP-44829-QM by Friday."
+        },
+        {
+            "role": "Customer",
+            "content": "Friday's the hearing. That's... that's actually perfect."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh perfect—wait, you need documentation for court? Because I can generate a certified statement right now, official letterhead, my badge number E-7749, timestamp everything, make it super official looking."
+        },
+        {
+            "role": "Customer",
+            "content": "Er, yes. Please. God, you're saving me here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already printing to PDF, sending to your email on file ending in 447, and look, my direct extension is 5591 if you need anything else, seriously just call me, ask for Marcus, and we'll get you through this."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4de699a2_script.json",
+    "professionalism": "casual",
+    "scenario": "asking for a detailed account history going back several months",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "overwhelmed_shutdown",
+                "warming_up"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "classic_fillers",
+                    "self_corrections"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "playfully_conspiratorial",
+                "new_and_eager"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

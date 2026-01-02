@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] रुको, ये सही नहीं हो सकता। मैं voting record देख रही हूँ और... हे भगवान। जो amendment मैंने लिखा था—environmental protections वाला—उसने पूरी तरह से पलट दिया है। [gasp softly] मेरा डेटा, मेरी research, वो सारी रातें जो मैंने जागकर बिताईं... लेकिन उसने सब कुछ मोड़कर opposite point argue करने के लिए इस्तेमाल किया है। वो ये कैसे कर—मेरा मतलब, मैंने specifically दिखाया था कि कैसे वो regulations contamination रोकेंगे, and he's using it to say they're unnecessary? [angry] ये मेरा काम है। ये मेरा काम है जिसे वो वहाँ खड़े होकर quote कर रहा है।\n\n[pause]\n\nऔर education policy brief? अरे नहीं। अम्म... उसने budget analysis लिया और funding काटने को justify करने के लिए इस्तेमाल किया। [bitter] मैंने वो इसलिए लिखा था कि दिखाऊं कि हमें और resources की ज़रूरत है, कम की नहीं। ये... मुझे उबकाई आ रही है। वो सारे परिवार जिनसे मैंने interview लिया, teachers जिन्होंने मुझ पर भरोसा करके अपनी कहानियाँ बताईं—मैंने उनसे वादा किया था कि ये research उनकी मदद करेगी। [shaky voice] And now it's being weaponized against everything I believe in.\n\n[sigh]\n\nपता नहीं, शायद मुझे पहले ही समझ जाना चाहिए था? वो बार-बार डेटा की, अम्म, \"alternative interpretations\" मांग रहा था। [frustrated] लेकिन मैंने सोचा कि वो बस सारे angles समझना चाहता है, पता है ना? ये नहीं... ये तो नहीं। हाय राम, मैं कितनी बेवकूफ़ हूँ। 2 साल। [furious] मेरी ज़िंदगी के 2 साल ये सोचकर बिताए कि मैं कुछ अच्छा कर रही हूँ, and instead I've been helping destroy everything I care about."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] Wait, this can't be right. I'm looking at the voting record and... oh my God. The amendment I wrote—the one about environmental protections—he completely flipped it. [gasp softly] He used my data, my research, all those late nights I spent... but he twisted it to argue the opposite point. How does he even—I mean, I specifically showed how those regulations would prevent contamination, and he's using it to say they're unnecessary? [angry] That's my work. That's MY work he's standing up there quoting.\n\n[pause]\n\nAnd the education policy brief? Oh no. Ummm... he took the budget analysis and used it to justify cutting funding. [bitter] I wrote that to show why we need MORE resources, not less. This is... I feel sick. All those families I interviewed, the teachers who trusted me with their stories—I promised them this research would help. [shaky voice] And now it's being weaponized against everything I believe in.\n\n[sigh]\n\nI don't know, maybe I should have seen this coming? He kept asking for, um, \"alternative interpretations\" of the data. [frustrated] But I thought he just wanted to understand all angles, you know? Not... not this. God, I'm such an idiot. Two years. [furious] Two years of my life thinking I was making a difference, and instead I've been helping destroy everything I care about."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "19bcf10c_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Finding out your politician boss has been using your policy research to support causes you morally oppose",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "Meu Deus, eu achei. Tá bem aqui nos logs do servidor. [shaky voice] Eles tão desviando dinheiro das contas dos clientes há... há três anos. [pause] Três anos. E tipo, o que é que eu faço agora? [frustrated] Essa é a empresa que apostou em mim quando eu tinha zero experiência! [sigh] Quando ninguém mais sequer olhava pro meu currículo.\n\n[very quietly] Mas tá tudo aqui nos dados. As transações redirecionadas, as contas fantasmas, tá tudo— [bitter] é tão óbvio quando você sabe o que procurar. [pause] Eles me ensinaram tudo que eu sei, e agora tô usando exatamente essas habilidades pra... pra quê? [regretful] Destruir eles?\n\nMinha chefe, a Sarah, ela foi quem acreditou em mim. [sad] Lutou pra me contratar. E agora eu vejo a assinatura dela nesses códigos de autorização. [anxious] Fico pensando que talvez tenha uma explicação, talvez eu tô entendendo errado, mas... não. [very quietly] As provas são cristalinas.\n\n[shaky voice] Eu podia fingir que nunca vi nada. Só apagar os logs, ir embora. [pause] Ninguém ia saber. Mas aí eu penso em todos aqueles clientes que confiaram na gente, e eu— [frustrated] Como é que você trai as pessoas que te fizeram ser quem você é? [crying while speaking] Como é que você não trai?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "God, I found it. Right there in the server logs. [shaky voice] They've been skimming off client accounts for... for three years. [pause] Three years. And I mean, what am I supposed to do now? [frustrated] This is the company that took a chance on me when I had zero experience! [sigh] When nobody else would even look at my resume. \n\n[very quietly] But it's right there in the data. The redirected transactions, the dummy accounts, it's all— [bitter] it's so obvious once you know what to look for. [pause] They taught me everything I know, and now I'm using those exact skills to... to what? [regretful] Destroy them?\n\nMy boss, Sarah, she's the one who believed in me. [sad] Fought for me to get hired. And now I see her signature on these authorization codes. [anxious] I keep thinking maybe there's an explanation, maybe I'm misunderstanding something, but... no. [very quietly] The evidence is crystal clear.\n\n[shaky voice] I could pretend I never saw it. Just delete the logs, walk away. [pause] Nobody would know. But then I think about all those clients who trusted us, and I— [frustrated] How do you betray the people who made you? [crying while speaking] How do you not?"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "3943896a_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your network engineer skills exposing corruption in the company that gave you your first chance",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": false
+    }
+}

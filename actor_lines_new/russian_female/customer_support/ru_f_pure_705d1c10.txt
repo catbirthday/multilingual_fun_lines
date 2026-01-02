@@ -1,0 +1,93 @@
+=== Source: 705d1c10_script.json ===
+Language: Russian
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: casual
+Scenario: beekeeper, needing to explain his unusual business to fix a merchant account classification
+
+=== Translated Dialogue ===
+
+Customer [pure]: Слушайте, мне нужно—мне нужно разобраться с торговым счётом, он... он почему-то помечен как высокорисковый?
+
+Customer Support [pure]: А, эм, сейчас открою ваш аккаунт... так, вижу номер MER-447291-BZ, и да, вы помечены как высокорисковая розница. Э-э, можете рассказать поподробнее, чем конкретно занимается ваш бизнес?
+
+Customer [pure]: Я пчеловод. Продаю—продаю мёд, продукты из воска, ну и всё такое.
+
+Customer Support [pure]: Хм, это правда интересно. Так, система записала вас под кодом 5999, это типа разная розница, но, э-э, это как раз и запускает наши протоколы высокого риска, потому что категория слишком общая. Дайте-ка посмотрю, какие у нас есть сельскохозяйственные коды.
+
+Customer [pure]: Дело в том, что это... это не только сельское хозяйство, я провожу образовательные программы, убираю ульи, оказываю услуги по опылению.
+
+Customer Support [pure]: Ага, понятно, у вас несколько источников дохода. Э-э, теперь всё сходится. Смотрю вашу историю транзакций с июня по сентябрь, вижу суммы от 15 до 3500 долларов, что, наверное, и запутало нашу автоматическую систему.
+
+Customer [pure]: Именно. Вот... вот большие суммы — это удаление ульев, маленькие — просто продажа мёда.
+
+Customer Support [pure]: Я полностью понимаю ваше раздражение. Эм, вот что я думаю: мы можем переклассифицировать вас под код 0279, это специализированные услуги с животными, и добавить вторичную классификацию для розничной части. Это должно убрать пометку о риске.
+
+Customer [pure]: Это—это повлияет на мои комиссии за обработку? Потому что мне и так уже тяжело.
+
+Customer Support [pure]: А, хороший вопрос. Так, с кодом 0279 ваша базовая ставка упадёт с 3,2% до 2,4%, что, э-э, при вашем среднем месячном обороте в 8750 долларов сэкономит вам примерно 70 долларов в месяц.
+
+Customer [pure]: О. Это... ладно, ладно, это правда поможет.
+
+Customer Support [pure]: Да, в смысле, если честно, пчеловодство супер важно для экологии и, э-э, между нами говоря? Система просто не знает, как категоризировать такие уникальные бизнесы, как ваш. Давайте я прямо сейчас запущу эту переклассификацию.
+
+Customer [pure]: Сколько это—сколько времени займёт?
+
+Customer Support [pure]: Обычно это 3-5 рабочих дней, но хм, так как сегодня четверг, 18-е число, всё должно быть готово максимум ко вторнику. Хотя я поставлю пометку "срочно".
+
+Customer [pure]: Вторник. Ладно. Ладно, я—я подожду.
+
+Customer Support [pure]: Отлично. А, ещё, я добавляю примечание к вашему аккаунту MER-447291-BZ, где объясняю сезонный характер вашего бизнеса, так что, э-э, вас больше не пометят, когда начнётся летний сезон удаления ульев.
+
+Customer [pure]: Никто никогда—никогда раньше не понимал эту сезонность.
+
+Customer Support [pure]: Ага, ага.
+
+Customer [pure]: Спасибо. В смысле, я уже была готова просто... неважно. Это... это помогает.
+
+Customer Support [pure]: Э-э, я очень рада, что мы смогли всё уладить. Ваш номер подтверждения REF-20241-HC, и эм, если после вторника будут какие-то проблемы, просто назовите этот номер и попросите команду по специальным бизнесам, они будут в курсе дела.
+
+
+=== Original (English) ===
+
+Customer: Look, I need—I need help with my merchant account, it's it's showing as high risk?
+
+Customer Support: Oh, um, let me pull up your account here... okay I see account number MER-447291-BZ, and yeah, you're flagged as high-risk retail. Er, can you tell me a bit more about what your business actually does?
+
+Customer: I'm a beekeeper. I sell—I sell honey, beeswax products, that kind of thing.
+
+Customer Support: Hmm, that's really interesting actually. So the system has you under code 5999, which is basically miscellaneous retail, but uh, that's triggering our high-risk protocols because it's such a broad category. Let me see what agricultural codes we have available here.
+
+Customer: It's it's not just agriculture though, I do educational programs, hive removals, pollination services.
+
+Customer Support: Right, okay, so you've got multiple revenue streams. Er, that makes sense now. Looking at your transaction history from June through September, I can see amounts ranging from $15 to $3,500, which probably confused our automated system.
+
+Customer: Exactly. The the big ones are hive removals, the small ones are just honey sales.
+
+Customer Support: I completely understand the frustration here. Um, what I'm thinking is we could reclassify you under code 0279, which is animal specialty services, and then add a secondary classification for your retail component. That should fix the risk flagging.
+
+Customer: Will that—will that affect my processing fees? Because I'm already struggling here.
+
+Customer Support: Ah, good question. So with code 0279, your base rate would actually drop from 3.2% to 2.4%, which, uh, over your average monthly volume of $8,750 would save you roughly $70 a month.
+
+Customer: Oh. That's... okay okay that would really help actually.
+
+Customer Support: Yeah, I mean, honestly beekeeping is super important for the environment and, er, between you and me? The system just doesn't know how to categorize unique businesses like yours. Let me get this reclassification started right now.
+
+Customer: How long will it—will it take to process?
+
+Customer Support: Typically it's 3-5 business days, but hmm, since today is Thursday the 18th, you should be all set by Tuesday at the latest. I'm putting a rush flag on it though.
+
+Customer: Tuesday. Okay. Okay I can—I can work with that.
+
+Customer Support: Perfect. Oh, also, I'm adding a note to your account MER-447291-BZ that explains the seasonal nature of your business, so, uh, you won't get flagged again when your summer removal season hits.
+
+Customer: Nobody's ever—ever actually understood the seasonal thing before.
+
+Customer Support: Right right.
+
+Customer: Thank you. I mean I was ready to just... never mind. This this helps.
+
+Customer Support: Er, I'm really glad we could sort this out. Your confirmation number is REF-20241-HC, and um, if you have any issues after Tuesday, just reference that and ask for the specialty business team, they'll know exactly what's going on.
+

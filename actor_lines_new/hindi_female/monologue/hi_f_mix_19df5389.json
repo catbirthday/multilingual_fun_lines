@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] I can't believe they just— वो मुझसे सच में ऐसा बोल गए। [pause] Affecting patient care. [bitter] यही कहा ना उन्होंने? कि मेरी anxiety patient care को affect कर रही है। [sigh] हे भगवान, बार-बार वही बात दिमाग में घूम रही है और... हर बार और भी बुरी लगती है। [quietly] Maybe they're right. [frustrated] नहीं, ये गलत— मैंने उस ER में कितनी जानें बचाई हैं! [voice breaking] I've been there for fourteen-hour shifts, codes run करती रही हूं, split-second decisions लेती रही हूं, और अब अचानक मैं क्या, बहुत anxious हो गई हूं? [sarcastic] Oh sorry, मैं अपनी इंसानियत बंद कर दूं जब हम रोज़ लोगों को मरते देख रहे हों। [long pause] [very quietly] The thing is, um... सच कहूं तो मेरे हाथ पिछले कुछ दिनों से काफी कांप रहे हैं। [regretful] Last week with that kid, मेरे हाथ— मैं IV नहीं लगा पा रही थी। तीन बार try किया। [sigh] And that cardiac patient Tuesday, मैं dosages को लेकर बार-बार doubt कर रही थी जबकि मुझे पता था। [defeated] Maybe I've been, uh, शायद मैं खुद को बेवकूफ बना रही थी कि बस push through कर लूंगी। [crying while speaking] But what am I supposed to do now? ये job मेरी सब कुछ है— [pause] [exhausted] They offered me time off. Administrative leave, उन्होंने कहा। [bitter] जैसे इससे सब ठीक हो जाएगा। [very sad] I became a doctor to help people, ना कि खुद एक problem बनने के लिए।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] I can't believe they just— they actually said that to me. [pause] Affecting patient care. [bitter] That's what they said, right? My anxiety is affecting patient care. [sigh] God, I keep replaying it in my head and it just... it sounds worse every time. [quietly] Maybe they're right. [frustrated] No, that's not— I've saved lives in that ER! [voice breaking] I've been there for fourteen-hour shifts, running codes, making split-second decisions, and now suddenly I'm what, too anxious? [sarcastic] Oh sorry, let me just turn off my humanity while we're watching people die every day. [long pause] [very quietly] The thing is, um... I have been shaking more lately. [regretful] Last week with that kid, my hands were— I couldn't get the IV in. Three tries. [sigh] And that cardiac patient Tuesday, I kept second-guessing the dosages even though I knew them. [defeated] Maybe I've been, uh, maybe I've been fooling myself thinking I could just push through this. [crying while speaking] But what am I supposed to do now? This job is everything I— [pause] [exhausted] They offered me time off. Administrative leave, they called it. [bitter] Like that's supposed to make it better. [very sad] I became a doctor to help people, not to become the problem."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "19df5389_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your emergency room physician colleague just told you they can't work with you anymore because your anxiety is affecting patient care",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

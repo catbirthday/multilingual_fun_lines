@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Eu simplesmente... não aguento mais isso. O sinistro. Foi foi negado."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não não. A gente resolve isso. Agora mesmo. O número do seu processo—qual qual é a referência que te deram? Preciso de todos os dígitos."
+        },
+        {
+            "role": "Customer",
+            "content": "CL-4892. Pera—não, desculpa. CL-4982-BX."
+        },
+        {
+            "role": "Customer Support",
+            "content": "CL-4982-BX. Anotado. Tô puxando aqui. Diz que foi negado dia 12 de outubro às 15:47. Sem observações de análise. Nada. Isso não tá certo."
+        },
+        {
+            "role": "Customer",
+            "content": "Nada. Eles simplesmente—eu mandei tudo—notas fiscais, fotos, o o boletim de ocorrência."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Escuta. Isso acontece. O sistema nega automaticamente às vezes. O limite é 2.500 reais. O seu foi 3.847,92. Ninguém nem olhou. Mas eu tô escalando. Agora mesmo."
+        },
+        {
+            "role": "Customer",
+            "content": "Três mil—eu dou aula pras crianças. Eu preciso—preciso do meu equipamento."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eu sei. Entendo. Suas cadeirinhas. Cordas. Mosquetões. Equipamento de segurança. Não dá pra trabalhar sem isso. O processo mostra 47 itens no total. Tudo documentado. Tudo legítimo."
+        },
+        {
+            "role": "Customer",
+            "content": "Então eles—pera, deixa eu—por que eles negariam sem nem—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Porque o sistema sinalizou. Valor alto. Vários itens. Mas saca só o que a gente faz. Tô te colocando na fila de revisão manual. Posição 7. Deve sair até amanhã às 14h."
+        },
+        {
+            "role": "Customer",
+            "content": "Amanhã. As as aulas do fim de semana. Já cancelei sábado."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pera pera pera. Você cancelou aulas? Perda de receita? Isso muda tudo. Documenta isso. Manda pro e-mail sinistros-urgente@segurocorp.com.br. Número de referência ESC-7829-MK. Te coloca como prioridade."
+        },
+        {
+            "role": "Customer",
+            "content": "Eu não—tá tá tá. Mando o quê exatamente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Simples. Cronograma das aulas. Avisos de cancelamento. Receita esperada. Até números aproximados servem. Hum, provavelmente tá olhando pra uns 400-600 reais de perda? Isso é adicionado ao seu sinistro."
+        },
+        {
+            "role": "Customer",
+            "content": "Seiscentos e cinquenta. Oito crianças. Clínica de segurança."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito. Seiscentos e cinquenta de receita perdida documentada. Valor total do sinistro agora é 4.497,92. Tô marcando como urgente. Urgente de verdade. Não urgente falso."
+        },
+        {
+            "role": "Customer",
+            "content": "Eu só... será que eles vão mesmo olhar dessa vez?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vão sim. Tô direcionando direto pro revisor Marcus Chen. Ramal 4421. Ele lida especificamente com equipamento de escalada. Conhece o material. Sabe da importância."
+        },
+        {
+            "role": "Customer",
+            "content": "Marcus Chen. Beleza. Se isso não funcionar—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Funciona. Me liga amanhã. Linha direta 0800-555-0147. Pede pelo Jordan. Sou eu. A gente resolve isso. Seu equipamento. Suas aulas. Tudo."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I just... I can't do this anymore. The claim. It's it's denied."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no. We're fixing this. Right now. Your claim number—what's what's the reference they gave you? I need every digit."
+        },
+        {
+            "role": "Customer",
+            "content": "CL-4892. Wait no—sorry. CL-4982-BX."
+        },
+        {
+            "role": "Customer Support",
+            "content": "CL-4982-BX. Got it. Pulling it up. Says here denied on October 12th at 3:47 PM. No review notes. Nothing. That's not right."
+        },
+        {
+            "role": "Customer",
+            "content": "Nothing. They just—I submitted everything—receipts, photos, the the accident report."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen. This happens. System auto-denies sometimes. Threshold is $2,500. Yours was $3,847.92. Nobody even looked at it. But I'm escalating. Right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Three thousand—I teach kids. I need—I need my gear."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know. I get it. Your harnesses. Ropes. Carabiners. Safety equipment. Can't work without it. Claim shows 47 items total. All documented. All legitimate."
+        },
+        {
+            "role": "Customer",
+            "content": "So they—let me just—why would they deny without even—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Because the system flagged it. High value. Multiple items. But here's what we do. I'm putting you in manual review queue. Position 7. Should process by tomorrow 2 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow. The the weekend classes. I already cancelled Saturday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wait wait wait. You cancelled classes? Lost income? That changes everything. Document that. Email it to claims-escalation@insurecorp.com. Reference number ESC-7829-MK. Makes you priority."
+        },
+        {
+            "role": "Customer",
+            "content": "I can't—okay okay okay. Email what exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Simple. Class schedule. Cancellation notices. Expected revenue. Even rough numbers work. Um, probably looking at $400-600 lost income? That gets added to your claim."
+        },
+        {
+            "role": "Customer",
+            "content": "Six fifty. Eight kids. Safety clinic."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Six fifty documented lost revenue. New claim total is $4,497.92. I'm marking this urgent. Genuinely urgent. Not fake urgent."
+        },
+        {
+            "role": "Customer",
+            "content": "I just... will they actually look this time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "They will. I'm assigning it directly to reviewer Marcus Chen. Extension 4421. He handles climbing equipment specifically. Knows the gear. Knows the stakes."
+        },
+        {
+            "role": "Customer",
+            "content": "Marcus Chen. Okay. If this doesn't work—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It works. Call me back tomorrow. Direct line 888-555-0147. Ask for Jordan. That's me. We get this solved. Your equipment. Your classes. Everything."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "37a8fd42_script.json",
+    "professionalism": "casual",
+    "scenario": "climbing instructor, frustrated that his equipment insurance claim was denied without review",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "overwhelmed_shutdown",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "self_corrections",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "determined_advocate",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

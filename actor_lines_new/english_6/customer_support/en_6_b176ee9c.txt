@@ -1,0 +1,48 @@
+=== Source: b176ee9c_script.json ===
+Actor: english_6
+Content Type: customer_support
+Professionalism: professional
+Scenario: wildlife rehabilitator, nonprofit status creating billing category confusion for supplies
+
+=== Dialogue ===
+
+Customer: Good morning. I'm calling about recurring billing errors with our wildlife rehabilitation center's supply orders.
+
+Customer Support: Good morning, and thank you for reaching out. I'll be happy to assist you with those billing concerns. May I have your account number or organization name so I can review your account details?
+
+Customer: Wildlife Haven Sanctuary. We're registered as a 501c3 nonprofit, but we're being charged commercial rates.
+
+Customer Support: Thank you. I've located your account, Wildlife Haven Sanctuary, account number WHS-7829-NPO. I can see you've been registered as a nonprofit since March 2023, but I'm noticing some inconsistencies in how your orders are being categorized.
+
+Customer: That explains the discrepancies. What's causing the system to misclassify our purchases?
+
+Customer Support: Certainly.
+
+Customer: Could you elaborate on which specific product categories are triggering the commercial pricing?
+
+Customer Support: I'm reviewing your recent orders now, and I can see that veterinary supplies ordered under SKU categories VM-4000 through VM-5999 are correctly applying your 15% nonprofit discount. However, specialized equipment like incubators and heating lamps, categories EQ-2000 through EQ-2499, are defaulting to standard commercial pricing.
+
+Customer: That's problematic. Those items are essential for wildlife rehabilitation. How do we correct this?
+
+Customer Support: I understand completely, and I apologize for this oversight. I'm going to reclassify those equipment categories under your nonprofit exemption code NPO-WILD-2024. This will retroactively adjust your last 6 invoices and ensure proper pricing going forward.
+
+Customer: Excellent. What's the total amount we'll be credited from those adjustments?
+
+Customer Support: One moment while I calculate the exact figures. Based on your purchase history from July through December 2024, the total credit will be $1,847.92. This includes the nonprofit discount differential plus applicable tax adjustments for your jurisdiction.
+
+Customer: That's substantial. When should we expect to see this credit applied to our account?
+
+Customer Support: The credit will be processed today by 5:00 PM Eastern Time and will appear on your account within 24 hours. I'm also generating a detailed adjustment report, reference number ADJ-184629-WHS, which will be emailed to your registered address within the next hour.
+
+Customer: Perfect. Will this correction prevent future billing category errors on these equipment purchases?
+
+Customer Support: Absolutely. I've permanently updated your account profile with exemption code EX-NPO-7742 to include all rehabilitation equipment categories. Additionally, I'm adding a priority flag that routes any orders over $500 through our nonprofit verification team for accuracy.
+
+Customer: That's a thorough solution. I appreciate you addressing both the immediate issue and prevention measures.
+
+Customer Support: Of course.
+
+Customer: One last question. Should we receive different invoicing or documentation going forward?
+
+Customer Support: Yes, you'll notice improved invoicing starting with your next order. Each invoice will now display your nonprofit registration number 47-8829451, show the discount percentage applied per line item, and include a summary section specifically breaking down your nonprofit savings. You'll also receive quarterly statements showing your cumulative nonprofit benefits.
+

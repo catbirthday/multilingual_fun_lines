@@ -1,0 +1,46 @@
+=== Source: dialogue5_43.txt ===
+Actor: english_5
+Content Type: dialogue
+
+=== Dialogue ===
+
+Character 1: So I've been messing around with GraphQL for this side project. You ever hear of it?
+
+Character 2: Oh yeah, actually. It's, um, it's like that query language thing for APIs, right? Honestly reminds me a bit of how we handle cue sheets in theater—you only request what you need for each scene.
+
+Character 1: Huh, that's a weird comparison. How does that even work?
+
+Character 2: [condescending] Well, think about it—in theater we don't, like, turn on every single light for every scene, we just pull the specific elements we need. GraphQL's basically doing that with data instead of, you know, spotlights.
+
+Character 1: I guess that makes sense. Been trying to figure out the whole schema thing.
+
+Character 2: Mmm, schemas are interesting. They're kind of like, err, blueprints? In set design we have these technical drawings that show every possible configuration, and then during the actual show we just use parts of them.
+
+Character 1: Yeah but the nested queries are killing me.
+
+Character 2: Oh man, nesting. So like, imagine you're designing a multi-level set piece, right? Each level has its own props and, uh, lighting needs, but they all connect to the main structure—that's basically what nested queries are doing.
+
+Character 1: Never thought about it that way. Still feels overly complex sometimes.
+
+Character 2: [empathetically] Yeah, I totally get that frustration. When I started doing projection mapping for shows, all the layering felt, hmm, unnecessarily complicated too, but once it clicks, you realize you're getting exactly the control you need.
+
+Character 1: The documentation says it reduces over-fetching. Is that actually true?
+
+Character 2: Oh absolutely, it's, uh, it's like when we're loading in a show—instead of bringing the entire prop warehouse, we just bring what's on the preset list. Way more efficient, less wasted effort moving stuff you won't even use.
+
+Character 1: My REST APIs work fine though.
+
+Character 2: Sure, REST is great for lots of things. It's like, um, traditional lighting boards versus modern programmable ones—both work, but one gives you more flexibility when you need to make quick adjustments mid-performance, you know?
+
+Character 1: What about the learning curve? Worth it?
+
+Character 2: [gasp loudly] Oh jeez, yes! Once you get it, it's like discovering you can control individual LED pixels instead of whole light fixtures—the precision is, err, game-changing for complex data relationships.
+
+Character 1: [loudly] Wait, you actually use GraphQL? I thought you just did theater!
+
+Character 2: Ha, well, modern theater tech is basically all software now. Our lighting boards, sound systems, projection mapping—it's all APIs and, like, data queries under the hood, so yeah, I picked it up for an interactive installation piece.
+
+Character 1: That's actually pretty cool. Any tips for a beginner?
+
+Character 2: Hmm, start simple, maybe? Like when you're learning stage management, you don't start with a three-act opera—build a basic schema first, get comfortable with simple queries, then, uh, gradually add the complex nested stuff as you need it.
+

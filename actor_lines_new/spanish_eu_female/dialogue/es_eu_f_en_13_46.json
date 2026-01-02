@@ -1,0 +1,194 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "How do you handle solo shoots? No assistant, no stylist, just you?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Honestly, um, it's all about pre-production workflows. I spend maybe three hours prepping for every hour of actual shooting—building shot lists, pre-setting my strobes to specific power outputs, even pre-measuring distances for consistent depth of field."
+        },
+        {
+            "role": "Character 1",
+            "content": "[over confidently] I could probably wing it. How hard can product photography be?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Hah, well, try focus stacking thirty frames while manually adjusting your product rotation by exactly twelve degrees each time, then color-matching across different materials. Oh, and maintaining consistent catchlight positions when you're, uh, switching between matte and reflective surfaces."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sleepily] Twelve degrees? That seems... arbitrary."
+        },
+        {
+            "role": "Character 2",
+            "content": "It's actually based on turntable mechanics—360 divided by 30 gives you smooth rotation for, you know, those spinning product GIFs clients love. Plus it aligns with standard e-commerce platform requirements for multi-angle views."
+        },
+        {
+            "role": "Character 1",
+            "content": "What's your typical lighting setup?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Two Profoto B10s with strip boxes for rim lighting, one overhead with a, hmm, 36-inch octabox, and usually a V-flat for fill. Everything's controlled through Capture One with custom ICC profiles for each client's brand colors."
+        },
+        {
+            "role": "Character 1",
+            "content": "Capture One over Lightroom?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Character 1",
+            "content": "Even for batch processing?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[furious] Are you kidding? Capture One's session-based workflow destroys Lightroom for tethered shooting! The color editor alone—sixteen separate color ranges with individual luminosity masks—I mean, there's literally no comparison for product work."
+        },
+        {
+            "role": "Character 1",
+            "content": "Okay, okay. What about overhead rigging?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[extremely happy] Oh man, I just installed a Manfrotto rail system last month! It's basically revolutionized my flat lay game—perfect perpendicular alignment every single time, and I can slide the camera along for, uh, consistent framing across product lines."
+        },
+        {
+            "role": "Character 1",
+            "content": "How much did that run you?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[cough] About four grand all in, but it paid for itself in two weeks. I can shoot, errr, maybe sixty SKUs a day now instead of twenty-five."
+        },
+        {
+            "role": "Character 1",
+            "content": "[jealous] Sixty? I barely manage fifteen with my setup."
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, automation is key—I've got Arduino-controlled turntables synced to my camera triggers, and, um, custom Photoshop actions that handle masking and, you know, background replacement in like twelve seconds per image."
+        },
+        {
+            "role": "Character 1",
+            "content": "Arduino? You built that yourself?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, it's actually pretty straightforward—just a stepper motor with a TB6600 driver and some basic C++ code. The real trick is calibrating the pulse timing to match your camera's buffer speed so you don't get, uh, motion blur between frames."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "How do you handle solo shoots? No assistant, no stylist, just you?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Honestly, um, it's all about pre-production workflows. I spend maybe three hours prepping for every hour of actual shooting—building shot lists, pre-setting my strobes to specific power outputs, even pre-measuring distances for consistent depth of field."
+        },
+        {
+            "role": "Character 1",
+            "content": "[over confidently] I could probably wing it. How hard can product photography be?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Hah, well, try focus stacking thirty frames while manually adjusting your product rotation by exactly twelve degrees each time, then color-matching across different materials. Oh, and maintaining consistent catchlight positions when you're, uh, switching between matte and reflective surfaces."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sleepily] Twelve degrees? That seems... arbitrary."
+        },
+        {
+            "role": "Character 2",
+            "content": "It's actually based on turntable mechanics—360 divided by 30 gives you smooth rotation for, you know, those spinning product GIFs clients love. Plus it aligns with standard e-commerce platform requirements for multi-angle views."
+        },
+        {
+            "role": "Character 1",
+            "content": "What's your typical lighting setup?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Two Profoto B10s with strip boxes for rim lighting, one overhead with a, hmm, 36-inch octabox, and usually a V-flat for fill. Everything's controlled through Capture One with custom ICC profiles for each client's brand colors."
+        },
+        {
+            "role": "Character 1",
+            "content": "Capture One over Lightroom?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Character 1",
+            "content": "Even for batch processing?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[furious] Are you kidding? Capture One's session-based workflow destroys Lightroom for tethered shooting! The color editor alone—sixteen separate color ranges with individual luminosity masks—I mean, there's literally no comparison for product work."
+        },
+        {
+            "role": "Character 1",
+            "content": "Okay, okay. What about overhead rigging?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[extremely happy] Oh man, I just installed a Manfrotto rail system last month! It's basically revolutionized my flat lay game—perfect perpendicular alignment every single time, and I can slide the camera along for, uh, consistent framing across product lines."
+        },
+        {
+            "role": "Character 1",
+            "content": "How much did that run you?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[cough] About four grand all in, but it paid for itself in two weeks. I can shoot, errr, maybe sixty SKUs a day now instead of twenty-five."
+        },
+        {
+            "role": "Character 1",
+            "content": "[jealous] Sixty? I barely manage fifteen with my setup."
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, automation is key—I've got Arduino-controlled turntables synced to my camera triggers, and, um, custom Photoshop actions that handle masking and, you know, background replacement in like twelve seconds per image."
+        },
+        {
+            "role": "Character 1",
+            "content": "Arduino? You built that yourself?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, it's actually pretty straightforward—just a stepper motor with a TB6600 driver and some basic C++ code. The real trick is calibrating the pulse timing to match your camera's buffer speed so you don't get, uh, motion blur between frames."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue13_46.txt"
+}

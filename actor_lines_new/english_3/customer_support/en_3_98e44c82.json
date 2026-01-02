@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Great, yeah, hi. Field season starts Monday. Monday. Got my equipment order?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hello! Yes, absolutely, let me pull that up for you right away. Can I get your order number or the email address you used when placing the order?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sure. ORD-4492. That's the one with all the GPS units."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, thank you so much. I have order ORD-4492-NP here on my screen, placed January 15th for twelve Garmin GPSMAP 66i units at $599.99 each, totaling $7,199.88 with the bulk discount applied."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. So. Where are they?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me just... okay, so I'm seeing here that the shipment left our distribution center in Portland on February 2nd, tracking number TRK-88234-OR-92, and it shows... let me refresh this page to make sure I have the most current information."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh fantastic. Love a good refresh. Always fixes everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your frustration, I really do. So the—actually wait, let me check something else here—the package weight shows 18.4 lbs which matches what we'd expect for your order, and it was last scanned at the regional facility in Boise."
+        },
+        {
+            "role": "Customer",
+            "content": "Boise. Cool. I'm in Yellowstone. Different state entirely."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right, and I apologize for the delay. According to what I'm seeing here, there was a routing issue on February 4th where several packages got misdirected to the Idaho facility instead of continuing to Montana ZIP codes starting with 597."
+        },
+        {
+            "role": "Customer",
+            "content": "Um. Okay so now what? Season starts Monday, I've got twelve researchers, no GPS units."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, I completely understand the urgency here. Let me—I'm going to do something—I can expedite this through our priority channel using code EXP-7744-RUSH which guarantees delivery within 48 hours from reshipment."
+        },
+        {
+            "role": "Customer",
+            "content": "Reshipment? You're reshipping? Not just forwarding from Boise?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I'm... what I'm proposing is actually better. We'll send a completely new set of units from our Denver warehouse, which is only 587 miles from you, overnight express, and you'll have them Saturday morning by 10:30 AM guaranteed."
+        },
+        {
+            "role": "Customer",
+            "content": "Saturday's cutting it real close but... wait, completely new units? What happens to the Boise ones?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The original shipment will be returned to us once it's recovered, but honestly that could take 5-7 business days and I know you need these now. The replacement order number will be ORD-4492-NP-R2 and I'm waiving all expedited shipping fees."
+        },
+        {
+            "role": "Customer",
+            "content": "Er... look I appreciate that but this whole thing's been—I ordered these three weeks ago specifically to avoid this exact situation happening."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right to be frustrated, and I'm... I want to make sure this gets resolved properly. Along with the free overnight shipping valued at $127.50, I'm also adding a 15% credit to your account for future purchases, which comes out to $1,079.98."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay fine yes Saturday works just—it'll definitely be there? Like definitely definitely? Can't do field work without them."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm putting my direct extension here in the notes—it's 4492, same as your order actually—and if there's any issue at all, you call me directly. The Saturday delivery is guaranteed, confirmation number SAT-GUAR-4492-0208, and you'll get tracking info within the hour."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "98e44c82_script.json",
+    "actor": 3,
+    "scenario": "park naturalist, patient but needing a definitive answer before field season starts",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

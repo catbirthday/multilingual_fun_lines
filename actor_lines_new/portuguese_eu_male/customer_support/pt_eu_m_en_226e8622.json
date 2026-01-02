@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling about several late payment notices I received. I was leading a wilderness expedition and had autopay configured."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me pull up your account right away. May I have your account number or the phone number associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is 4472819. I've been a customer for six years without a single late payment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm accessing account 4472819 now, and I can see your excellent payment history dating back to March 2018. Let me review what happened with your recent transactions."
+        },
+        {
+            "role": "Customer",
+            "content": "I specifically set up autopay to avoid this situation. I manage remote expeditions and need reliable service arrangements."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration, and you're absolutely right to expect better. I can see your autopay was configured on February 12th from card ending in 7741, but the March 3rd payment was declined with error code DEF-0923."
+        },
+        {
+            "role": "Customer",
+            "content": "That card is active with sufficient funds. I used it yesterday without any issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The decline appears to be from your bank flagging the transaction as potentially fraudulent due to an address verification mismatch. This sometimes happens when banks update their security protocols, particularly with recurring payments over $250."
+        },
+        {
+            "role": "Customer",
+            "content": "So this was a technical issue on the bank's end? What about these late fees totaling eighty dollars?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's correct. I'm immediately reversing all three late fees of $25 each from invoices INV-8847291, INV-8847734, and INV-8848102. The credits will appear within 24 hours on your account."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. How do we prevent this from happening during my next expedition in May?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. I recommend setting up a backup payment method in our system version 3.2, which allows automatic failover if the primary method is declined. Would you like me to help you configure that now?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, let's do that. I'll add my business credit card as the backup option."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I'm ready to add that backup card. Please provide the card number, expiration date, and billing ZIP code when you're ready."
+        },
+        {
+            "role": "Customer",
+            "content": "Before we proceed, can you confirm my account is now current and won't affect my service or credit?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I've updated your account status to current as of today, March 28th at 2:47 PM Eastern. The late notices sent to credit bureaus have been flagged for removal with reference number CRB-9981-VOID, which takes effect within 72 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I needed to hear. The backup card is 4521-8890-7745-2234, expires October 2026, ZIP 80301."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've successfully added your backup payment method ending in 2234 to your account profile PRF-4472819-B. Your next automatic payment of $287.50 is scheduled for April 3rd and will process using your primary card first."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Please send written confirmation of today's adjustments and the credit bureau corrections to my email."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a detailed summary to your email address on file within the next 15 minutes with confirmation number TKT-20240328-8847. Is there anything else I can help you with today regarding your account?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling about several late payment notices I received. I was leading a wilderness expedition and had autopay configured."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me pull up your account right away. May I have your account number or the phone number associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is 4472819. I've been a customer for six years without a single late payment."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm accessing account 4472819 now, and I can see your excellent payment history dating back to March 2018. Let me review what happened with your recent transactions."
+        },
+        {
+            "role": "Customer",
+            "content": "I specifically set up autopay to avoid this situation. I manage remote expeditions and need reliable service arrangements."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration, and you're absolutely right to expect better. I can see your autopay was configured on February 12th from card ending in 7741, but the March 3rd payment was declined with error code DEF-0923."
+        },
+        {
+            "role": "Customer",
+            "content": "That card is active with sufficient funds. I used it yesterday without any issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The decline appears to be from your bank flagging the transaction as potentially fraudulent due to an address verification mismatch. This sometimes happens when banks update their security protocols, particularly with recurring payments over $250."
+        },
+        {
+            "role": "Customer",
+            "content": "So this was a technical issue on the bank's end? What about these late fees totaling eighty dollars?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's correct. I'm immediately reversing all three late fees of $25 each from invoices INV-8847291, INV-8847734, and INV-8848102. The credits will appear within 24 hours on your account."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. How do we prevent this from happening during my next expedition in May?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. I recommend setting up a backup payment method in our system version 3.2, which allows automatic failover if the primary method is declined. Would you like me to help you configure that now?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, let's do that. I'll add my business credit card as the backup option."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I'm ready to add that backup card. Please provide the card number, expiration date, and billing ZIP code when you're ready."
+        },
+        {
+            "role": "Customer",
+            "content": "Before we proceed, can you confirm my account is now current and won't affect my service or credit?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I've updated your account status to current as of today, March 28th at 2:47 PM Eastern. The late notices sent to credit bureaus have been flagged for removal with reference number CRB-9981-VOID, which takes effect within 72 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I needed to hear. The backup card is 4521-8890-7745-2234, expires October 2026, ZIP 80301."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've successfully added your backup payment method ending in 2234 to your account profile PRF-4472819-B. Your next automatic payment of $287.50 is scheduled for April 3rd and will process using your primary card first."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Please send written confirmation of today's adjustments and the credit bureau corrections to my email."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a detailed summary to your email address on file within the next 15 minutes with confirmation number TKT-20240328-8847. Is there anything else I can help you with today regarding your account?"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "226e8622_script.json",
+    "professionalism": "professional",
+    "scenario": "wilderness guide, gone for three weeks and returning to late payment notices",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "graciously_disappointed",
+                "professionally_assertive"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "confidently_authoritative",
+                "reassuringly_calm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

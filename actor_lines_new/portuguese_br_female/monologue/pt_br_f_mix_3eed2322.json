@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "Eles tentaram mesmo. [shocked] Não acredito que eles realmente— [relieved] Meu Deus, o honeypot funcionou. [laugh] Tudo que a gente montou, the whole defense in depth strategy that everyone said was overkill? [vindicated] Pegou eles na terceira camada. Terceira! [excited] Nem chegaram perto do banco de dados de verdade. [chuckle]\n\nSabe o que é engraçado? [bitter] Seis meses atrás o board disse que eu tava sendo paranóica. [mocking] \"Pra que a gente precisa de segmentação de rede? Pra que multi-factor nos sistemas internos?\" [angry] Pois é, por isso! [loudly] Vinte e três milhões de registros de clientes poderiam ter saído pela porta! [pause]\n\nO pessoal do SOC, eles tão, hum... tão analisando ainda os vetores de ataque, mas parece, hmm, coisa sofisticada. [anxious] Nível de nation-state, possivelmente. [nervous] O que significa que eles vão tentar de novo, né? [worried] Mas pelo menos agora— [confidently] agora todo mundo sabe que isso não é mais teórico. [firmly] Every single control I fought for just paid for itself.\n\n[exhausted] Cara, preciso de um drink. [sigh] Quer saber? [proudly] Vou ligar pro CEO agora mesmo. [smiling speaking] Lembra daquele aumento de budget de segurança que eu pedi? [triumphant] Pois é, I think we're gonna have a very different conversation this time."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "They actually tried it. [shocked] I can't believe they actually— [relieved] Oh my God, the honeypot worked. [laugh] Everything we set up, the whole defense in depth strategy that everyone said was overkill? [vindicated] It caught them at layer three. Three! [excited] They didn't even get close to the actual database. [chuckle] \n\nYou know what's funny? [bitter] Six months ago the board said I was being paranoid. [mocking] \"Why do we need network segmentation? Why do we need multi-factor on internal systems?\" [angry] Well, this is why! [loudly] Twenty-three million customer records could have walked right out the door! [pause]\n\nThe SOC team, they're, um... they're still analyzing the attack vectors but it looks like, hmm, sophisticated stuff. [anxious] Nation-state level, possibly. [nervous] Which means they'll probably try again, right? [worried] But at least now— [confidently] now everyone knows this isn't theoretical anymore. [firmly] Every single control I fought for just paid for itself. \n\n[exhausted] God, I need a drink. [sigh] Actually, you know what? [proudly] I'm calling the CEO right now. [smiling speaking] Remember that security budget increase I requested? [triumphant] Yeah, I think we're gonna have a very different conversation this time."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "3eed2322_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The CISO security measures you insisted on just prevented your company's customer data from being stolen",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": false
+    }
+}

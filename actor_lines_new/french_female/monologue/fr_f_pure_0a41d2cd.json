@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[nervous] Je viens de raccrocher avec ma cheffe et je— j'sais même pas comment digérer ça. Elle me convoque à cette réunion de nulle part, tu vois ? Et moi j'suis là, assise, persuadée que j'allais me faire virer ou un truc du genre. [laugh] Mais là elle commence à parler de restructuration, de nouvelles opportunités, et moi je hoche la tête, complètement larguée. Et puis elle le dit. [pause] Directrice Senior. Moi. Putain de Directrice Senior. [very excited] T'imagines ? Genre, ça fait quoi, 6 ans que je bosse pour ça ? Mais j'pensais pas que ça arriverait vraiment— [sigh] Oh là là, faut que j'appelle ma mère. Elle va chialer. [happy] En fait non, c'est moi qui vais chialer d'abord. C'est réel ce truc ? Ce matin j'étais en stress pour payer mon loyer et maintenant je... [trailing off] Attends, et si j'y arrive pas ? Et s'ils se rendent compte qu'ils se sont plantés ? [anxious] Non, non, arrête. Ils me l'auraient pas proposé s'ils pensaient pas que— [confidently] Tu sais quoi ? Je l'ai mérité. Toutes les soirées à bosser tard, tous les weekends, toutes ces putains de présentations PowerPoint que personne n'a jamais regardées. [laugh loudly] Oh mon Dieu, j'ai besoin de champagne. Ou de vodka. Ou les deux. [extremely happy] C'est vraiment en train d'arriver !"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[nervous] I just got off the phone with my boss and I— I don't even know how to process this. She called me into this random meeting, right? And I'm sitting there thinking I'm about to get fired or something. [laugh] But then she starts talking about restructuring and new opportunities and I'm just nodding along, completely lost. Then she says it. [pause] Senior Director. Me. Senior fucking Director. [very excited] Can you believe that? I mean, I've been working toward this for what, six years? But I didn't think it would actually— [sigh] God, I need to call my mom. She's going to cry. [happy] Actually, no, I'm going to cry first. Is this real? This morning I was worried about making rent and now I'm... [trailing off] Wait, what if I can't do it? What if they realize they made a mistake? [anxious] No, no, stop it. They wouldn't offer it if they didn't think— [confidently] You know what? I earned this. Every late night, every weekend, every stupid PowerPoint presentation that nobody even looked at. [laugh loudly] Oh my God, I need champagne. Or vodka. Or both. [extremely happy] This is actually happening!"
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "0a41d2cd_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "# Each line is a specific scenario for emotional monologue",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

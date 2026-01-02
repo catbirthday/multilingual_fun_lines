@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] Ms. Rodriguez, I, um, I know I haven't been in touch since I left the conservatory, but I needed to talk to someone who understands what music actually means, you know?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] Come in, come in."
+        },
+        {
+            "role": "Character 1",
+            "content": "The thing is, everyone at home keeps saying I threw away this incredible opportunity, and maybe they're right, but I just [sighs] couldn't breathe there anymore, couldn't find myself in all those expectations."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] Sometimes the most prestigious path isn't the right one, and it takes real courage to admit that. [pause] What were you hoping to find when you auditioned for that place?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] I thought I'd find people who loved music the way I did, but it was all competition and rankings and who could practice sixteen hours without breaking. Nobody actually listened to what we were playing, just how technically perfect it was."
+        },
+        {
+            "role": "Character 2",
+            "content": "[thoughtfully] You know, I turned down Juilliard twice because I saw what it did to my friends, how it turned their passion into anxiety. [softly] Music should feed your soul, not consume it."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] But what if I'm just making excuses? What if I'm actually not good enough and I'm using this whole 'it wasn't right for me' thing as a way to avoid facing that I failed?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Listen to me, I've taught hundreds of students over twenty years, and you had something special that went beyond technique. [passionately] The way you played Chopin's Ballade made people cry, including me, remember?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] My parents spent their entire savings on that first year, remortgaged the house, and now I'm back here with nothing to show for it. [voice breaking] How do I even begin to justify that?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] Oh sweetheart, the only thing worse than losing money is losing yourself, and from what you're telling me, you were dangerously close to that. Your parents want you happy, not just successful."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Happy? I haven't touched the piano in three months because every time I sit down, I hear my professor's voice telling me I'm rushing the tempo or my fingering is sloppy or whatever."
+        },
+        {
+            "role": "Character 2",
+            "content": "[animated] Then we need to help you remember why you started playing in the first place, before all the judges and critics got into your head. [excitedly] Do you remember that summer when you learned jazz just for fun?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[surprised] You remember that? God, I, um, I used to sneak into the practice rooms at midnight just to play Bill Evans transcriptions without anyone hearing me butcher them. [small laugh] That was before everything got so serious."
+        },
+        {
+            "role": "Character 2",
+            "content": "[cheerfully] And you weren't butchering anything, you were experimenting, which is exactly what jazz is about! [leaning forward] What if we started meeting again, no pressure, no grades, just playing music that makes you feel something?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitant] I don't know if I can afford lessons right now, and honestly, I'm not even sure I deserve your time after disappearing the way I did. I didn't even thank you properly for writing that recommendation letter."
+        },
+        {
+            "role": "Character 2",
+            "content": "[dismissively] Forget about money, this isn't about lessons, it's about helping you find your way back to something you love. [warmly] And that recommendation letter? I meant every word, still do."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Maybe we could try, I mean, just once or twice to see if I can even [exhales] play without panicking. Would Tuesday afternoons work? That's when you used to have your free period."
+        },
+        {
+            "role": "Character 2",
+            "content": "[smiling speaking] Tuesday afternoons are perfect, and we'll start with something simple, maybe some Satie or even just improvisation. [gently] The goal is to remember that music is a conversation, not a performance."
+        },
+        {
+            "role": "Character 1",
+            "content": "[emotional] Thank you, Ms. Rodriguez, I, um, I really thought I'd lost this part of myself forever, but talking to you makes me think maybe, just maybe, I can find my way back to it somehow."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very sincerely] You never lose it completely."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "90fee3bd_scenario.json",
+    "actor": 2,
+    "scenario": "A domestic student returns to their former music teacher after dropping out of a prestigious music conservatory, seeking guidance about whether to give up music entirely.",
+    "type": "scenario_conversation",
+    "character_1_role": "domestic student",
+    "character_2_role": "music teacher",
+    "selected_tones": [
+        "grave",
+        "yielding",
+        "optimistic"
+    ]
+}

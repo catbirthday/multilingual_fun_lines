@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need assistance with claim form INS-4472. The sections about liability coverage are confusing me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for calling. I'd be happy to walk you through that form step by step. Let me pull up claim form INS-4472 in our system right now."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been trying to complete this for two hours. The terminology doesn't match what I expected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration. This particular form can be complex, especially sections 3A through 3C regarding liability determinations and coverage limits. Let's start with your claim number, which should be at the top right corner."
+        },
+        {
+            "role": "Customer",
+            "content": "It says CL-2024-78934. This is for equipment damage at my construction site last Tuesday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I have your claim CL-2024-78934 here, filed on December 3rd, 2024, for a backhoe loader incident at 4521 Industrial Parkway. The liability section you're struggling with determines responsibility allocation."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly it. I don't understand how to indicate that the damage was weather-related."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. In section 3B, you'll want to select \"Act of God/Natural Causes\" and reference weather report number WR-120324-TX, which I can see was already filed for your area that day."
+        },
+        {
+            "role": "Customer",
+            "content": "Should I list the equipment operator even though he wasn't at fault?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, absolutely. Include operator James Mitchell, license number CDL-4478-29-TX, in section 2A as the assigned operator, then clearly mark \"No Fault\" in the liability checkbox directly below."
+        },
+        {
+            "role": "Customer",
+            "content": "What about the estimated repair costs? I have three different contractor quotes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent that you have multiple estimates. List all three quotes in section 5C, starting with the lowest bid of $12,750 from Henderson Equipment Repair, and I'll note that in your file as well."
+        },
+        {
+            "role": "Customer",
+            "content": "The deductible section is asking for information I don't have access to right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can help with that. Your policy number POL-88934-COM has a standard deductible of $2,500 for equipment damage, which I'll email you documentation for within the next ten minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be helpful. Can you clarify what \"subrogation rights\" means in section seven?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Subrogation allows your insurance company to recover costs from responsible third parties. Since this was weather damage with no third-party liability, you can simply check \"Not Applicable\" for item 7A through 7D."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate your patience. This is much clearer than the written instructions provided."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I know these forms can be overwhelming, but you're asking all the right questions. Once you submit this, expect confirmation number beginning with CNF-2024 within 48 hours, and an adjuster will contact you at 214-555-8823 by Friday."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Should I mail this or can I submit it electronically somehow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You can submit electronically through our portal at claims.insurancecorp.com/submit using access code SUB-78934-TEMP, or fax directly to 888-555-0247, attention claim department, and reference your claim number CL-2024-78934 on the cover sheet."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need assistance with claim form INS-4472. The sections about liability coverage are confusing me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for calling. I'd be happy to walk you through that form step by step. Let me pull up claim form INS-4472 in our system right now."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been trying to complete this for two hours. The terminology doesn't match what I expected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration. This particular form can be complex, especially sections 3A through 3C regarding liability determinations and coverage limits. Let's start with your claim number, which should be at the top right corner."
+        },
+        {
+            "role": "Customer",
+            "content": "It says CL-2024-78934. This is for equipment damage at my construction site last Tuesday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I have your claim CL-2024-78934 here, filed on December 3rd, 2024, for a backhoe loader incident at 4521 Industrial Parkway. The liability section you're struggling with determines responsibility allocation."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly it. I don't understand how to indicate that the damage was weather-related."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. In section 3B, you'll want to select \"Act of God/Natural Causes\" and reference weather report number WR-120324-TX, which I can see was already filed for your area that day."
+        },
+        {
+            "role": "Customer",
+            "content": "Should I list the equipment operator even though he wasn't at fault?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, absolutely. Include operator James Mitchell, license number CDL-4478-29-TX, in section 2A as the assigned operator, then clearly mark \"No Fault\" in the liability checkbox directly below."
+        },
+        {
+            "role": "Customer",
+            "content": "What about the estimated repair costs? I have three different contractor quotes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent that you have multiple estimates. List all three quotes in section 5C, starting with the lowest bid of $12,750 from Henderson Equipment Repair, and I'll note that in your file as well."
+        },
+        {
+            "role": "Customer",
+            "content": "The deductible section is asking for information I don't have access to right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can help with that. Your policy number POL-88934-COM has a standard deductible of $2,500 for equipment damage, which I'll email you documentation for within the next ten minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be helpful. Can you clarify what \"subrogation rights\" means in section seven?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Subrogation allows your insurance company to recover costs from responsible third parties. Since this was weather damage with no third-party liability, you can simply check \"Not Applicable\" for item 7A through 7D."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate your patience. This is much clearer than the written instructions provided."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I know these forms can be overwhelming, but you're asking all the right questions. Once you submit this, expect confirmation number beginning with CNF-2024 within 48 hours, and an adjuster will contact you at 214-555-8823 by Friday."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Should I mail this or can I submit it electronically somehow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You can submit electronically through our portal at claims.insurancecorp.com/submit using access code SUB-78934-TEMP, or fax directly to 888-555-0247, attention claim department, and reference your claim number CL-2024-78934 on the cover sheet."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "441b0dbe_script.json",
+    "professionalism": "professional",
+    "scenario": "construction worker, embarrassed because he doesn't understand the insurance claim form",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "calmly_frustrated",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "reassuringly_calm",
+                "precisely_technical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

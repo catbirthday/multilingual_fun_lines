@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I ordered something and it's—it's been three days past when it was supposed to arrive."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, okay so let me pull up your account here... hmm, can I get your order number? Or actually, your email works too if that's easier."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah it's it's ORD-7294-something. Wait no, sorry—7924. ORD-7924-XL."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, got it. So I'm seeing ORD-7924-XL here and, ehhh, yeah this is showing... okay so basically it left our Memphis facility 5 days ago but then there's like this gap in the tracking. Let me check something else real quick."
+        },
+        {
+            "role": "Customer",
+            "content": "A gap? What does—I mean what does that even mean?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so essentially what happened is... hmm, looks like it hit a distribution snag at the Kansas City hub. Um, these things happen sometimes when shipments exceed their 48-hour processing window, but I mean... yeah this shouldn't have taken this long."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay but where is it now? Is it—is it even coming?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's definitely coming, yes. So what I'm seeing here is, er, it's currently at our Denver facility as of 6:47 AM this morning. Should be back in transit by... let's see... probably tonight."
+        },
+        {
+            "role": "Customer",
+            "content": "Tonight. So that's—wait, when does that mean I actually get it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so if it leaves Denver tonight, which it should, you're looking at delivery by Friday, maybe Saturday at the latest. But honestly, um, this is taking way longer than our standard 3-5 business days and I'm really sorry about that. What I could do is..."
+        },
+        {
+            "role": "Customer",
+            "content": "Friday? That's that's another two days minimum. Are you sure it's even gonna move tonight?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, you know what? Let me see if I can expedite this. Hang on... okay so I'm putting a priority flag on shipment ID DEN-7924-0847. That basically guarantees it leaves on the next truck out, which is at 11:30 PM Mountain Time tonight."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay but how do I—I mean how do I know it won't just get stuck again somewhere?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, I totally get that concern. So with the priority flag, it bypasses the regular sorting and goes straight through. Plus I'm, uh, I'm gonna give you my direct extension—it's 4412—so if anything weird happens, you can call me directly instead of going through the main queue again."
+        },
+        {
+            "role": "Customer",
+            "content": "Extension 4412. Alright. And you're you're positive about Friday?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mm-hmm, very positive."
+        },
+        {
+            "role": "Customer",
+            "content": "What if it's not? I mean—sorry, I'm just worried because I really need this by the weekend."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, okay so if for some reason it doesn't arrive by Friday—which it really should—but if it doesn't, we'll overnight you a replacement at no charge. Actually wait, let me just... yep, I'm adding a note to your account right now about the Saturday deadline so everyone can see it."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—okay that actually helps. So Friday latest, or you overnight another one?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly. And honestly, looking at the Denver facility's current volume—they're only at about 62% capacity today—I'd be pretty surprised if there's any more delays. But yeah, worst case, we overnight a new one and it'll be there Saturday morning guaranteed."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b7bb40b6_script.json",
+    "actor": 6,
+    "scenario": "asking about a delayed package that was supposed to arrive three days ago",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

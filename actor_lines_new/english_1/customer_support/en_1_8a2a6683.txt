@@ -1,0 +1,48 @@
+=== Source: 8a2a6683_script.json ===
+Actor: english_1
+Content Type: customer_support
+Professionalism: professional
+Scenario: hairstylist, worried about a mysterious recurring bank charge she doesn't recognize
+
+=== Dialogue ===
+
+Customer: Good afternoon. I'm calling about a recurring charge on my account that I don't recognize. It's been appearing for the past three months.
+
+Customer Support: Good afternoon, and thank you for calling. I'd be happy to help you investigate this charge. May I have your account number so I can pull up your transaction history?
+
+Customer: Certainly. My account number is 4829-7761-3342. The charges are for thirty-nine ninety-five each month.
+
+Customer Support: Thank you. I have your account here, showing three recurring charges of $39.95 on the 15th of each month. The merchant name appears as TechVault Solutions with reference number TVS-8829-M. Does this name sound familiar to you?
+
+Customer: No, TechVault Solutions doesn't ring any bells at all. I run a hair salon and I've checked all my business subscriptions.
+
+Customer Support: I understand your concern. Let me investigate further. I can see the initial authorization was on September 15th for $39.95, and it's coded as a digital subscription service. The merchant category code is 5817, which indicates software or digital services.
+
+Customer: I definitely haven't signed up for any software subscriptions recently. What information do you have about this merchant?
+
+Customer Support: According to our merchant database, TechVault Solutions provides cloud storage and backup services. Their customer service line is 1-800-555-8974. I can also initiate a dispute for all three charges totaling $119.85 while you contact them directly.
+
+Customer: I'd appreciate that. Can you tell me exactly when and how this authorization was first approved?
+
+Customer Support: Certainly. The initial authorization occurred on September 15th at 2:47 PM Eastern Time through an online transaction. The authorization included a CVV match and billing ZIP code 10019. Would you like me to proceed with disputing all three charges?
+
+Customer: Yes, please proceed with the dispute. And can you block any future charges from this merchant?
+
+Customer Support: Absolutely. I'm initiating the dispute now for the full amount of $119.85, and you'll see a provisional credit within 24 to 48 hours. I've also placed a block on merchant ID TVS-8829 to prevent future charges.
+
+Customer: Excellent. What documentation will I receive about this dispute, and what are the next steps?
+
+Customer Support: You'll receive an email confirmation within the next hour with dispute reference number DSP-2024-11-8847. We'll investigate over the next 5 to 7 business days, and the provisional credit of $119.85 will remain permanent unless the merchant provides valid authorization proof.
+
+Customer: That's very helpful. Should I still contact the merchant directly, or will your dispute process handle everything?
+
+Customer Support: I recommend contacting them directly at 1-800-555-8974 to ensure any active account is properly cancelled. This prevents issues beyond just the payment dispute and gives you confirmation that no services will be interrupted if this was somehow legitimate.
+
+Customer: Makes sense. I'll call them after this. Is there anything else I need to do to protect my account from unauthorized charges?
+
+Customer Support: I suggest reviewing your recent statements for any other unfamiliar charges. I can also set up transaction alerts for any charge over $25.00 if you'd like. These notifications would go to your mobile number ending in 7742.
+
+Customer: Yes, please set up those alerts. I should have done this sooner. Thank you for your thorough assistance with this issue.
+
+Customer Support: The alerts are now active and you'll receive SMS confirmation shortly. Your dispute reference again is DSP-2024-11-8847, and the provisional credit of $119.85 will appear soon. Is there anything else I can help you with today?
+

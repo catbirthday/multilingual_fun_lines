@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Buenas tardes. Necesito gestionar un reemplazo por garantía de mi ThermoVault Pro que dejó de funcionar ayer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Buenas tardes, y muchas gracias por contactar con nosotros. Estaré encantada de ayudarle con su reemplazo por garantía. Déjeme que busque su cuenta y verifique el estado de la garantía de su modelo ThermoVault Pro TPV-8200."
+        },
+        {
+            "role": "Customer",
+            "content": "Ese es el modelo correcto. Lo compré hace siete meses y simplemente no enciende, vamos, que no hay manera."
+        },
+        {
+            "role": "Customer Support",
+            "content": "La entiendo perfectamente, no se preocupe. Veo que su fecha de compra fue el 14 de marzo de 2024, lo que significa que le quedan 17 meses de los 24 meses de garantía. Antes de procesar el reemplazo, necesito repasar con usted una lista rápida de diagnóstico para documentar el problema correctamente."
+        },
+        {
+            "role": "Customer",
+            "content": "Sí, claro. Ya he probado... bueno, los pasos básicos del manual, pero vamos, sin problema los repaso."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Le agradezco que haya sido tan proactiva con la resolución de problemas. Primero, ¿me puede confirmar que el adaptador de corriente muestra una luz LED verde cuando está enchufado, y que ha probado que el enchufe funciona con otro aparato?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sí, sí, el adaptador está en verde y... eh... el enchufe funciona perfectamente, ¿eh? También he probado lo del botón de reset, vamos, los treinta segundos que indica."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfecto, ha cubierto todos los diagnósticos estándar. Por lo que me describe, esto parece ser un fallo de componente interno cubierto bajo la referencia de garantía WR-7829-Q3. Le apruebo el reemplazo inmediatamente y puedo ofrecerle dos opciones de envío."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah, estupendo. ¿Y cuáles son mis opciones y cuál es el tiempo de entrega típico para cada una?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sí."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah, perdona, antes de eso... ¿tengo que devolver primero la unidad defectuosa o podemos hacer un intercambio adelantado?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Me complace ofrecerle nuestro programa de intercambio adelantado. Le enviaremos su unidad de reemplazo hoy mismo por envío exprés para que llegue el 28 de octubre de 2024. Tendrá 14 días después de recibirla para devolver la unidad defectuosa usando nuestra etiqueta de envío prepagada."
+        },
+        {
+            "role": "Customer",
+            "content": "Pues eso es justo lo que esperaba, la verdad. ¿Necesita alguna información adicional de mi parte para procesar esto?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tengo todo lo que necesito de su perfil de cuenta. El número de serie de su reemplazo será TPV-8200-NK4521, y ahora mismo le estoy enviando por email el número RMA 10947-B junto con la etiqueta de devolución prepagada y la información de seguimiento."
+        },
+        {
+            "role": "Customer",
+            "content": "Genial. Oye, una cosa, ¿la garantía del aparato nuevo se extiende o mantiene la fecha de compra original?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Muy buena pregunta, me alegro de que lo pregunte. Su unidad de reemplazo mantiene el período de garantía original desde el 14 de marzo de 2024, dándole los 17 meses completos restantes de cobertura. Además, vamos a añadir una extensión gratuita de 90 días como disculpa por las molestias, extendiendo su cobertura hasta el 14 de julio de 2026."
+        },
+        {
+            "role": "Customer",
+            "content": "Vaya, pues muchas gracias, de verdad, es un detalle. ¿Hay algo específico que deba saber sobre el modelo de reemplazo o alguna mejora?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Su reemplazo será el TPV-8200 actualizado revisión B2, que incluye la versión de firmware 3.7.2 que soluciona el problema de regulación de energía que probablemente causó su fallo. Esta revisión ha mostrado una reducción del 94% en reclamaciones de garantía similares desde su lanzamiento en agosto."
+        },
+        {
+            "role": "Customer",
+            "content": "Bueno, pues me quedo más tranquila sabiendo eso. Te agradezco mucho toda la ayuda, ¿eh?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "De nada, ha sido un placer. He enviado todos los detalles a su dirección de email registrada, y recibirá una notificación de envío en las próximas 2 horas. Su número de caso es CS-20241025-4K9M por si necesita hacer referencia a esta conversación. ¿Hay algo más en lo que pueda ayudarle hoy?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need to arrange a warranty replacement for my ThermoVault Pro that stopped working yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for contacting us. I'd be happy to assist with your warranty replacement today. Let me pull up your account and verify the warranty status on your ThermoVault Pro model TPV-8200."
+        },
+        {
+            "role": "Customer",
+            "content": "That's the correct model. I purchased it seven months ago and it simply won't power on anymore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern completely. I can see your purchase date was March 14th, 2024, which means you have 17 months remaining on your 24-month warranty. Before we process the replacement, I need to run through a quick diagnostic checklist to document the issue properly."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course. I've already tried the basic troubleshooting steps from the manual but I'm happy to go through them again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I appreciate you being proactive with the troubleshooting. First, can you confirm the power adapter shows a green LED when plugged in, and that you've tested outlet functionality with another device?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, the adapter shows green and the outlet works fine. I've also tried the reset button for thirty seconds as instructed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, you've covered all the standard diagnostics. Based on what you're describing, this appears to be an internal component failure covered under warranty reference WR-7829-Q3. I'm approving your replacement immediately and can offer two fulfillment options for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. What are my options and what's the typical turnaround time for each?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And will I need to return the defective unit first or can we do an advance exchange?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm pleased to offer you our advance exchange program. We'll ship your replacement unit today via express delivery for arrival by October 28th, 2024. You'll have 14 days after receiving it to return the defective unit using our prepaid shipping label."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I was hoping for. Do you need any additional information from me to process this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I have everything I need from your account profile. Your replacement serial number will be TPV-8200-NK4521, and I'm emailing you the RMA number 10947-B along with the prepaid return label and tracking information right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will the warranty on the replacement unit be extended or does it maintain the original purchase date?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. Your replacement unit maintains the original warranty period from March 14th, 2024, giving you the full remaining 17 months of coverage. Additionally, we're adding a complimentary 90-day extension as an apology for the inconvenience, extending your coverage to July 14th, 2026."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very generous, thank you. Is there anything specific I should know about the replacement model or any improvements?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your replacement will be the updated TPV-8200 revision B2, which includes firmware version 3.7.2 that addresses the power regulation issue that likely caused your failure. This revision has shown a 94% reduction in similar warranty claims since its release in August."
+        },
+        {
+            "role": "Customer",
+            "content": "That's reassuring to know they've identified and fixed the issue. I appreciate your thorough assistance with this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've sent all the details to your email address on file, and you'll receive a shipping notification within 2 hours. Your case number is CS-20241025-4K9M if you need to reference this interaction. Is there anything else I can help you with today?"
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "50f77e66_script.json",
+    "professionalism": "professional",
+    "scenario": "trying to get a replacement for a product still under warranty",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "cordially_concerned",
+                "analytically_minded"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "graciously_accommodating",
+                "precisely_technical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

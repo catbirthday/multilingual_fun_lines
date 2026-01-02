@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ouve eu sei—eu sei que a culpa não é tua mas o vosso sistema de voz é que... não conseguiu perceber o meu número de conta."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah pois, hum, acontece imenso isso. Deixa-me—espera, deixa-me abrir aqui outro ecrã... pronto então qual é o número de conta?"
+        },
+        {
+            "role": "Customer",
+            "content": "É é A7K-90421. Sempre que—sempre que eu dizia 'K' ele percebia 'oito'."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah pois pois. Então A7K-90421... hmm, interessante. O sistema marca estes como, é, códigos problemáticos porque o reconhecimento de voz não consegue distinguir entre K e oito na terceira posição."
+        },
+        {
+            "role": "Customer",
+            "content": "Sou engenheira de software. Eu percebo. É só que—três tentativas, sabes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não, eu percebo perfeitam—espera aí, deixa-me só... ah! Aliás estou a ver o que aconteceu aqui. A tua conta ficou marcada com código de erro SYS-VR-003 que significa, hum, basicamente atingiste o limite de tentativas no sistema automático."
+        },
+        {
+            "role": "Customer",
+            "content": "Desculpa estar a ser seca. Dia longo. Só preciso de verificar o estado da garantia."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ei não te preocupes nada. Então... é, deixa ver. O serial do teu dispositivo é DV-2023-KLM-8827, comprado... hmm, 15 de março. Ainda tens sete meses de garantia."
+        },
+        {
+            "role": "Customer",
+            "content": "Sete meses? Espera isso—isso não está certo. Devia ser até ao ano que vem."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah espera, tens—aliás tens razão. Estava a ver... não espera, há aqui duas garantias. A básica expira em sete meses mas, hum, tens AppleCare+ com a referência APC-77294-XJ que vai até março de 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "Ok ok ok. Ótimo. O ecrã tem andado a piscar e eu é que... não consigo lidar com—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ecrã a piscar, percebi. Então o que vou—é, aliás, sabes que mais? Como ainda estás coberta pelo APC-77294-XJ, posso já marcar uma substituição agora mesmo. O armazém WH-WEST-4 tem stock."
+        },
+        {
+            "role": "Customer",
+            "content": "Consegues fazer isso? Sem—sem me obrigares a passar pelos diagnósticos?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bem tecnicamente... hmm, o sistema quer código de diagnóstico mas, hum, cá entre nós? Se me dizes que é piscar intermitente num modelo DV-2023-KLM, isso é problema conhecido KI-5589. Posso saltar essa parte toda."
+        },
+        {
+            "role": "Customer",
+            "content": "É—pois, intermitente. Principalmente no canto superior direito."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito perfeito. Então vou meter... pronto, ordem de substituição RPL-6677-TK2 a processar. Deve sair do centro FC-CAL-09 esta noite, é, provavelmente chega quinta."
+        },
+        {
+            "role": "Customer",
+            "content": "Quinta dá bem. Obrigada por—por não me obrigares a reiniciar aquilo três vezes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Oh pá, pois o clássico \"desliga e volta a ligar\". Olha, com o problema conhecido KI-5589, reiniciar não ia ajudar de qualquer forma. O teu tracking vai ser TRK-90554-KLMN quando gerar."
+        },
+        {
+            "role": "Customer",
+            "content": "Agradeço mesmo. A sério. Este dia todo tem sido... já não aguentava outro menu telefónico."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Percebo perfeitamente. Ei aliás—espera, antes de desligares. A tua conta diz que estás no código postal 94107? Há um, hum, há mesmo um centro de reparações no local RC-SF-03 que faz trocas no próprio dia se quinta for tarde demais."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look I know—I know it's not your fault but your voice system just... it couldn't get my account number right."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah, um, happens all the time actually. Let me—wait, let me pull up a different screen here... okay so what's that account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's A7K-90421. Every time—every time I said 'K' it heard 'eight'."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah right right. So A7K-90421... hmm, that's interesting. The system flags these as, er, problem codes because the speech recognition can't differentiate between K and eight in position three."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm a software engineer. I get it. It's just—three attempts, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No I totally—hold on, let me just... oh! Actually I see what happened here. Your account got tagged with error code SYS-VR-003 which means, uh, basically you hit the retry limit on the automated system."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry for being short. Long day. I just need to check my warranty status."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no worries at all. So... er, lemme see. Your device serial is DV-2023-KLM-8827, purchased... hmm, March fifteenth. Still got seven months on the warranty."
+        },
+        {
+            "role": "Customer",
+            "content": "Seven months? Wait that's—that's not right. Should be through next year."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh hang on, you're—actually you're right. I was looking at... no wait, there's two warranties here. The basic one expires in seven months but, um, you've got AppleCare+ through reference number APC-77294-XJ which goes through March 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay. Good. The screen's been flickering and I just... I can't deal with—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Flickering screen, got it. So what I'm gonna—er, actually, you know what? Since you're still covered under APC-77294-XJ, I can just schedule a replacement right now. Warehouse location WH-WEST-4 has stock."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? Without—without me going through diagnostics?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well technically... hmm, the system wants diagnostic code but, uh, between you and me? If you tell me it's intermittent flickering on a DV-2023-KLM model, that's known issue KI-5589. I can bypass the whole thing."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—yeah, intermittent. Top right corner mostly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect. So I'm putting in... okay, replacement order RPL-6677-TK2 is processing. Should ship from facility FC-CAL-09 tonight, er, probably arrives Thursday."
+        },
+        {
+            "role": "Customer",
+            "content": "Thursday works. Thanks for—for not making me restart it three times."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha! Oh man, yeah the old \"turn it off and on\" script. Look, with known issue KI-5589, rebooting won't help anyway. Your tracking'll be TRK-90554-KLMN when it generates."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate it. Really. This whole day's been... I just couldn't do another phone tree."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally get it. Hey actually—wait, before you go. Your account shows you're in ZIP 94107? There's a, um, there's actually a repair center at location RC-SF-03 that does same-day swaps if Thursday's too long."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "30abaac5_script.json",
+    "professionalism": "casual",
+    "scenario": "software engineer, annoyed that the automated system can't understand his account number",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "empathetic_to_rep",
+                "overwhelmed_shutdown"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "triumphant_problem_solver"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "classic_fillers",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

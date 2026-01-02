@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need help with my account. There's something wrong but I'm not exactly sure how to describe it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for calling. I'm absolutely here to help you figure this out. Let me start by pulling up your account with your customer ID or the email address associated with it."
+        },
+        {
+            "role": "Customer",
+            "content": "My email is james.morrison@techflow.com. The charges just don't look right to me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, I have your account here, customer ID CTM-489621-JM. I can see your billing history for the past six months. Could you tell me which charges specifically concern you or approximately when you noticed the discrepancy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Last Tuesday I think. There were three separate charges instead of my usual monthly bill."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see exactly what you're referring to. On November 12th, there were three transactions: $49.99, $15.00, and $89.99, totaling $153.98, rather than your standard monthly subscription of $49.99."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, that's it. Should I have authorized something? I don't remember making any changes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me investigate this thoroughly. I can see that on November 10th at 3:47 PM Eastern, an add-on service request was initiated from IP address 192.168.1.45, which doesn't match your usual login location."
+        },
+        {
+            "role": "Customer",
+            "content": "I definitely didn't do that. What do I need to do to fix this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm immediately flagging this as unauthorized activity. I'm reversing all three charges, issuing refund REF-7829-XK41 for the full $153.98, and securing your account with a mandatory password reset."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. How long will the refund take? And is my account safe now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely understood. The refund will appear within 3-5 business days, and I've added our enhanced security protocol SEC-PRO-256 to your account, which includes two-factor authentication and login notifications."
+        },
+        {
+            "role": "Customer",
+            "content": "Should I be worried about my other information? My credit card details or personal data?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's an excellent question. Our security scan shows no other compromised data, and your payment method is tokenized with encryption key TKN-889254-AES. However, I recommend updating your password on any accounts where you might have used similar credentials."
+        },
+        {
+            "role": "Customer",
+            "content": "Alright, I'll do that today. Can you send me something confirming all of this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm sending a detailed incident report to your email now, reference number INC-20231115-0847, which includes all actions taken, your refund details, and additional security recommendations."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. One more thing - how do I prevent this from happening again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I recommend three immediate steps. First, enable the SMS alerts I've just activated with code SMS-ALERT-7742. Second, review authorized devices monthly in your security dashboard. Third, use our new biometric login option available in app version 4.2.1."
+        },
+        {
+            "role": "Customer",
+            "content": "I'll set that up right away. Thank you for walking me through everything so clearly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've also scheduled a courtesy follow-up call for November 22nd at 2:00 PM to ensure everything is resolved satisfactorily. Is there anything else I can assist you with today?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need help with my account. There's something wrong but I'm not exactly sure how to describe it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for calling. I'm absolutely here to help you figure this out. Let me start by pulling up your account with your customer ID or the email address associated with it."
+        },
+        {
+            "role": "Customer",
+            "content": "My email is james.morrison@techflow.com. The charges just don't look right to me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, I have your account here, customer ID CTM-489621-JM. I can see your billing history for the past six months. Could you tell me which charges specifically concern you or approximately when you noticed the discrepancy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Last Tuesday I think. There were three separate charges instead of my usual monthly bill."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see exactly what you're referring to. On November 12th, there were three transactions: $49.99, $15.00, and $89.99, totaling $153.98, rather than your standard monthly subscription of $49.99."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, that's it. Should I have authorized something? I don't remember making any changes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me investigate this thoroughly. I can see that on November 10th at 3:47 PM Eastern, an add-on service request was initiated from IP address 192.168.1.45, which doesn't match your usual login location."
+        },
+        {
+            "role": "Customer",
+            "content": "I definitely didn't do that. What do I need to do to fix this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm immediately flagging this as unauthorized activity. I'm reversing all three charges, issuing refund REF-7829-XK41 for the full $153.98, and securing your account with a mandatory password reset."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. How long will the refund take? And is my account safe now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely understood. The refund will appear within 3-5 business days, and I've added our enhanced security protocol SEC-PRO-256 to your account, which includes two-factor authentication and login notifications."
+        },
+        {
+            "role": "Customer",
+            "content": "Should I be worried about my other information? My credit card details or personal data?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's an excellent question. Our security scan shows no other compromised data, and your payment method is tokenized with encryption key TKN-889254-AES. However, I recommend updating your password on any accounts where you might have used similar credentials."
+        },
+        {
+            "role": "Customer",
+            "content": "Alright, I'll do that today. Can you send me something confirming all of this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm sending a detailed incident report to your email now, reference number INC-20231115-0847, which includes all actions taken, your refund details, and additional security recommendations."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. One more thing - how do I prevent this from happening again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I recommend three immediate steps. First, enable the SMS alerts I've just activated with code SMS-ALERT-7742. Second, review authorized devices monthly in your security dashboard. Third, use our new biometric login option available in app version 4.2.1."
+        },
+        {
+            "role": "Customer",
+            "content": "I'll set that up right away. Thank you for walking me through everything so clearly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've also scheduled a courtesy follow-up call for November 22nd at 2:00 PM to ensure everything is resolved satisfactorily. Is there anything else I can assist you with today?"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "31cd2c98_script.json",
+    "professionalism": "professional",
+    "scenario": "nervous first-time caller who isn't sure how to explain their problem",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "businesslike_direct",
+                "professionally_assertive"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "attentively_engaged",
+                "confidently_authoritative"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

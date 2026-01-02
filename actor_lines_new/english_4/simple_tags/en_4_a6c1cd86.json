@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[shocked] Oh god, uh, Jamie? I didn't—I mean I had no idea you were doing this tour guide thing now, I just saw the sign and thought, you know, killing time might be nice."
+        },
+        {
+            "role": "Character 2",
+            "content": "[strained] Everyone, we'll be starting in just a moment, please gather round the fountain. [very quietly] What the hell are you doing here, Alex?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] I'm taking a tour, obviously. Look, I didn't know you'd be—[sighs] I can leave if this is too weird for you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] No, you paid for the tour, you can stay. [clearing throat] Just, um, try to blend in with the other tourists, okay? This is my actual job."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Right, your actual job. Because what I do isn't real work, is that what you're getting at here? Same old judgment, just a different venue."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] Not now, Alex."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] You haven't returned my calls for three years, Jamie. Mom keeps asking about you and I have to make up excuses about why you won't come to Sunday dinners anymore."
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] Ladies and gentlemen, welcome to the historic district walking tour! [forced cheerfulness] We'll be exploring three centuries of architecture and, uh, some fascinating stories about our city's founding families today."
+        },
+        {
+            "role": "Character 1",
+            "content": "Really? You're just going to start the tour and pretend I'm not here? [laughs bitterly] Classic avoidance technique, very mature of you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[loudly] As we move to our first stop, please stay with the group. [whispering] Stop making a scene or I swear I'll have security escort you out."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sarcastic] Oh that's rich, you threatening to have me escorted. The irony isn't lost on me, believe me. Maybe we should talk about what really bothers you about my profession."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] It's not about judgment, Alex. It's about watching my sibling put themselves in danger every night while I can't do anything to help or protect them."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softly] Jamie, I'm careful, okay? I screen clients, I have a panic button, there's a whole system in place. It's actually safer than you probably think it is."
+        },
+        {
+            "role": "Character 2",
+            "content": "Is it though? [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[sighs] Yeah, it is."
+        },
+        {
+            "role": "Character 2",
+            "content": "[trembling] Remember when we were kids and you'd always jump off the highest rocks at the quarry? I'd stand there terrified, watching, certain you'd crack your skull open one day."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] But I never did, did I? I always knew how to land, how to judge the distance. [gently] This isn't that different, Jamie—I know what I'm doing."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] The limestone building on your left dates from 1887. [voice breaking] Sorry folks, just, um, allergies acting up today. The building served as our city's first proper hospital."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] Hey, maybe we could grab coffee after your tour? Like actually talk instead of just, you know, trading voicemails with Mom as our go-between? I miss you, Jamie."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] I miss you too. [clearing throat] Coffee sounds good, yeah. The tour ends at four-thirty, there's a place around the corner that still makes those weird lavender lattes you like."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "a6c1cd86_scenario.json",
+    "actor": 4,
+    "scenario": "An escort discovers their estranged sibling is leading the historical walking tour they impulsively joined to kill time between clients.",
+    "type": "scenario_conversation",
+    "character_1_role": "escort",
+    "character_2_role": "tour guide",
+    "selected_tones": [
+        "subdued",
+        "volatile",
+        "disengaging"
+    ]
+}

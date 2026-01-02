@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] I need your help, and I don't know who else to call about this."
+        },
+        {
+            "role": "Character 2",
+            "content": "Okay, take a breath, what's happening? You sound scared, and that's not like you at all, so whatever this is, we'll handle it together."
+        },
+        {
+            "role": "Character 1",
+            "content": "Remember Dylan, my ex from sophomore year? He's been messaging me for weeks saying he'll post these photos from when we were together unless I send him money. [voice cracking]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[measured] Right, first things first—this is extortion, which is a federal crime, and I deal with these cases professionally, so you came to the right person even if this feels awkward between us."
+        },
+        {
+            "role": "Character 1",
+            "content": "I know we're not exactly close, and Mom would freak out if she knew, but I figured you'd understand the technical stuff better than the campus police would."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Listen, whatever distance exists between us as stepparent and stepdaughter doesn't matter right now—someone's threatening you, and I have the skills to stop them. Have you responded to any of his messages yet?"
+        },
+        {
+            "role": "Character 1",
+            "content": "I told him I'd think about it, which was probably stupid, but I was panicking and didn't know what else to say to buy time. [exhales shakily]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[professional tone] Actually, that was smart—it kept him engaged without escalating. I'm going to need you to screenshot everything, every message, timestamp, and platform he's contacted you through, while I start documenting the digital trail."
+        },
+        {
+            "role": "Character 1",
+            "content": "He said if I go to the police, he'll just claim the photos are deepfakes and then post them everywhere anyway. [quieter] He knows I'm applying to law schools next year."
+        },
+        {
+            "role": "Character 2",
+            "content": "That threat tells me he's already considered the legal implications, which means he's left digital fingerprints trying to cover his tracks—amateur criminals always do. We'll have him buried in evidence before he knows what hit him."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitant] Should I be worried about what you'll see in those screenshots? I mean, our conversations from back then were pretty personal, and this already feels humiliating enough."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] I'm going to treat this like any other case I handle at work—clinical, professional, and focused solely on the threat assessment and evidence collection. Your privacy matters to me."
+        },
+        {
+            "role": "Character 1",
+            "content": "I keep thinking about how I trusted him with those photos, how I thought we were in love, and now he's weaponizing the most vulnerable moments of my life. [voice breaking]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[protective edge] People who do this count on shame keeping their victims quiet, but you're being incredibly brave right now. By tomorrow morning, he'll be dealing with both FBI cybercrime and state prosecutors. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "You'd really involve the FBI for this? I thought maybe you'd just hack his computer or something less official, given that this is family."
+        },
+        {
+            "role": "Character 2",
+            "content": "The official route is the right route because it creates consequences he can't escape from—this isn't about revenge, it's about stopping him from doing this to you or anyone else ever again. [steady]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[wavering] Mom always said you were too rigid about rules and protocols, but right now that actually makes me feel safer, like there's a playbook for fixing this nightmare."
+        },
+        {
+            "role": "Character 2",
+            "content": "There absolutely is a playbook, and we're going to follow it to the letter. [softer] Can you come by my home office tonight so we can start the reports properly?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[grateful whisper] Yeah, I can do that."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] Good, and Melissa? What you're going through is not your fault, those photos were shared in trust, and we're going to make sure this ends with his accountability, not your shame."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "ac3a0b86_scenario.json",
+    "actor": 3,
+    "scenario": "A college-aged stepdaughter reaches out to her CISO stepfather for help after her ex-boyfriend begins blackmailing her with intimate photos.",
+    "type": "scenario_conversation",
+    "character_1_role": "stepdaughter",
+    "character_2_role": "CISO",
+    "selected_tones": [
+        "urgent",
+        "navigating",
+        "sensible"
+    ]
+}

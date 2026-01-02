@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[gasp softly] Espera, estos números no pueden estar bien. ¿Tres coma siete millones? [very quietly] Eso no es— eso no es posible. [pause] O sea, sabía que el algoritmo de rutas ayudaría, pero esto es... [extremely happy] ¡Madre mía, esto es real de verdad! [laugh] Todas esas noches mirando fijamente los albaranes de envío, haciendo esos diagramas ridículos en mi pizarra— todos pensaban que estaba perdiendo la cabeza. [animated] ¿Te acuerdas cuando Jake dijo que le estaba dando demasiadas vueltas a todo? ¿Que deberíamos seguir con las zonas estándar? [chuckle] Y yo ahí, insistiendo en que había un patrón, tipo, si agrupábamos los envíos de otra forma y, eh... renegociábamos los contratos con los transportistas basándonos en corredores de volumen real en vez de— [very excited] ¡Tres coma siete MILLONES de euros! [shaky voice] Me están temblando las manos literalmente ahora mismo. [warm] ¿Sabes qué es lo más fuerte? Es que era tan obvio una vez que lo plasmé todo. Básicamente estábamos pagando por transportar aire porque nadie cuestionó nunca por qué usábamos esos tamaños de caja. [confidently] Solo con cambiar a embalaje variable según la densidad del destino— eso solo nos ahorró ¿qué, novecientos mil? [very sincerely] Tengo que llamar a mi madre. Siempre decía que algún día conseguiría algo grande. [happy] Lo he conseguido de verdad."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[gasp softly] Wait, these numbers can't be right. Three point seven million? [very quietly] That's not— that's not possible. [pause] I mean, I knew the routing algorithm would help, but this is... [extremely happy] Oh my god, this is actually real! [laugh] All those nights staring at shipping manifests, drawing those ridiculous diagrams on my whiteboard— everyone thought I was losing it. [animated] Remember when Jake said I was overthinking everything? That we should just stick with the standard zones? [chuckle] And I kept insisting there was a pattern, like, if we just grouped the shipments differently and, um... renegotiated the carrier contracts based on actual volume corridors instead of— [very excited] Three point seven MILLION dollars! [shaky voice] My hands are literally shaking right now. [warm] You know what the crazy part is? It was so obvious once I mapped it out. We were basically paying to ship air because nobody ever questioned why we used those box sizes. [confidently] Just switching to variable packaging based on destination density— that alone saved us what, nine hundred thousand? [very sincerely] I need to tell my mom. She always said I'd figure out something big one day. [happy] I actually did it."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "4d2dc711_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Discovering your unique problem-solving approach in logistics has saved your company millions in shipping costs",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

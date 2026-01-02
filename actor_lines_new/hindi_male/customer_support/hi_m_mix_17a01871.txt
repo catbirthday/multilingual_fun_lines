@@ -1,0 +1,93 @@
+=== Source: 17a01871_script.json ===
+Language: Hindi
+Gender: male
+Mode: mix
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking why their service was downgraded without consent
+
+=== Translated Dialogue ===
+
+Customer [mix]: I need to understand why my enterprise account was downgraded, बिना किसी notification के platinum से standard पे कैसे आ गया?
+
+Customer Support [mix]: I apologize for this unexpected change. देखिए, मैं अभी आपका account check करता हूं। क्या आप अपना account number या registered email address बता सकते हैं?
+
+Customer [mix]: The account number is ENT-88423. पूरी team की productivity पर असर पड़ रहा है अभी।
+
+Customer Support [mix]: Thank you for providing that. मैं ENT-88423 account अभी pull कर रहा हूं। देख रहा हूं कि कल 3:47 PM Eastern time पे आपकी service में changes हुए हैं, जो बिल्कुल नहीं होना चाहिए था।
+
+Customer [mix]: We have client presentations scheduled for tomorrow. मुझे full functionality तुरंत वापस चाहिए।
+
+Customer Support [mix]: I understand completely.
+
+Customer [mix]: What caused this downgrade exactly? हम तीन साल से platinum members हैं, कभी कोई issue नहीं आया।
+
+Customer Support [mix]: I'm reviewing the system logs now. लग रहा है automated billing system ने October 31 को आपका renewal गलत process कर दिया, platinum की जगह standard renewal mark हो गया।
+
+Customer [mix]: Our payment method hasn't changed at all. हम annually pay करते हैं और renewal तो January में due है।
+
+Customer Support [mix]: You're absolutely correct about that. आपकी annual renewal date है January 15, 2025, और पिछले January में आपका $4,799 का payment successfully process हो गया था। ये definitely हमारी तरफ से system error है, billing issue नहीं।
+
+Customer [mix]: How quickly can you restore our platinum features? हमारे critical analytics और collaboration tools missing हैं अभी।
+
+Customer Support [mix]: I'm escalating this immediately to our technical team. Priority code P1-RESTORE के साथ भेज रहा हूं। आपका platinum status अगले 30 minutes में पूरी तरह restore हो जाएगा, और मैं personally restoration process monitor करूंगा।
+
+Customer [mix]: That's acceptable for now. क्या हमें इस service disruption के लिए कोई compensation मिलेगा?
+
+Customer Support [mix]: Absolutely, you'll be compensated. मैं आपके account में $500 का service credit authorize कर रहा हूं, और साथ में आपकी platinum membership 60 दिन extend कर रहा हूं बिना किसी additional charge के।
+
+Customer [mix]: Good to hear that. मुझे written confirmation भी चाहिए कि ये दोबारा नहीं होगा।
+
+Customer Support [mix]: Certainly, I'll send that right away. अगले 2 घंटे में आपके registered email पे detailed incident report भेजूंगा, और confirmation भी कि हमने आपका account ENT-88423 flag कर दिया है future automatic modifications रोकने के लिए।
+
+Customer [mix]: Perfect, that works for me. क्या आप confirm कर सकते हैं कि मेरे सभी twelve premium workspace licenses वापस आएंगे?
+
+Customer Support [mix]: Yes, I can confirm that completely. सभी 12 premium workspace licenses restore होंगे, आपका unlimited storage quota जो 5TB है वो भी, और advanced API access भी जिसमें 10,000 calls per day तक allowed हैं।
+
+Customer [mix]: Thank you for resolving this quickly. मैं email confirmation का इंतजार करूंगा।
+
+Customer Support [mix]: You're very welcome for that. आपकी service 4:30 PM Eastern तक fully restore हो जानी चाहिए। मैंने इस issue को case number SUP-92847-CRITICAL भी assign किया है, अगर कोई follow-up assistance चाहिए तो आप इसे reference कर सकते हैं।
+
+
+=== Original (English) ===
+
+Customer: I need to understand why my enterprise account was downgraded from platinum to standard without any notification.
+
+Customer Support: I apologize for this unexpected change. Let me access your account immediately to investigate what happened. May I have your account number or the email address associated with your service?
+
+Customer: The account number is ENT-88423. This is affecting our entire team's productivity right now.
+
+Customer Support: Thank you. I'm pulling up account ENT-88423 now. I can see your service was indeed modified yesterday at 3:47 PM Eastern time, which is certainly not what should have happened.
+
+Customer: We have client presentations scheduled for tomorrow. I need full functionality restored immediately.
+
+Customer Support: I understand completely.
+
+Customer: What caused this downgrade? We've been platinum members for three years without any issues.
+
+Customer Support: I'm reviewing the system logs now. It appears there was an automated billing system error that incorrectly processed your renewal on October 31st, marking it as a standard renewal instead of platinum.
+
+Customer: Our payment method hasn't changed. We pay annually and the renewal isn't due until January.
+
+Customer Support: You're absolutely correct. Your annual renewal date is January 15th, 2025, and your payment of $4,799 was successfully processed last January. This was definitely a system error on our end, not a billing issue.
+
+Customer: How quickly can you restore our platinum features? We're missing critical analytics and collaboration tools.
+
+Customer Support: I'm escalating this immediately to our technical team with priority code P1-RESTORE. Your platinum status will be fully reinstated within the next 30 minutes, and I'll personally monitor the restoration process.
+
+Customer: That's acceptable. Will we receive any compensation for this service disruption?
+
+Customer Support: Absolutely. I'm authorizing a service credit of $500 to your account for this inconvenience, plus I'm extending your platinum membership by 60 days at no additional charge.
+
+Customer: Good. I also need written confirmation that this won't happen again.
+
+Customer Support: Certainly. I'll send you a detailed incident report within 2 hours to your registered email, along with confirmation that we've flagged your account ENT-88423 to prevent any future automatic modifications.
+
+Customer: Perfect. Can you confirm my access will include all twelve premium workspace licenses?
+
+Customer Support: Yes, I can confirm all 12 premium workspace licenses will be restored, along with your unlimited storage quota of 5TB and advanced API access with up to 10,000 calls per day.
+
+Customer: Thank you for resolving this quickly. I'll watch for the email confirmation.
+
+Customer Support: You're very welcome. Your service should be fully restored by 4:30 PM Eastern. I've also assigned case number SUP-92847-CRITICAL to this issue, and you can reference that if you need any follow-up assistance.
+

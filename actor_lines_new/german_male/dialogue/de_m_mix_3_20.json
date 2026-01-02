@@ -1,0 +1,194 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Hallo, ich kann Ihnen bei allem helfen, was Sie brauchen. Was gibt's denn heute?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh, Gott sei Dank, dass jemand rangeht. Also, ähm, ich versuche seit einer Stunde auf mein Konto zuzugreifen und es sagt immer, mein Passwort wäre falsch, aber ich weiß—ich weiß hundertprozentig, dass es das richtige ist, weil ich's wortwörtlich gestern erst aufgeschrieben hab."
+        },
+        {
+            "role": "Character 1",
+            "content": "Das klingt wirklich frustrierend. Haben Sie schon die Passwort-zurücksetzen-Option probiert?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Ja, das ist ja das Ding—wenn ich draufklicke, passiert nichts. Also die Seite macht halt, äh, einen Refresh? Und dann bin ich wieder beim Login-Bildschirm, which is honestly making me lose my mind a little bit here."
+        },
+        {
+            "role": "Character 1",
+            "content": "Okay, lassen Sie mich mal Ihr Konto aufrufen. Welche E-Mail-Adresse ist damit verknüpft?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Das ist, ähm... Moment, Scheiße, welche hab ich genommen? Entweder sarah.m.collins bei gmail oder... nee warte, ich glaub es könnte die mit meinem zweiten Vornamen sein? S.marie.collins vielleicht?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[enunciating every word] Können Sie mal in Ihrem E-Mail-Postfach nachschauen, ob Sie frühere Nachrichten von uns haben?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Mmm, gute Idee. Lass mich mal eben... okay, ich such jetzt grad und, oh warte, hier ist eine von vor drei Monaten. Sieht so aus, als wäre sie an die Gmail-Adresse ohne den zweiten Vornamen geschickt worden, so that's gotta be it."
+        },
+        {
+            "role": "Character 1",
+            "content": "Perfekt. Ich sehe Ihr Konto hier. Wann hat dieses Problem angefangen?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Wortwörtlich heute Morgen. Gestern war alles noch in Ordnung, als ich mich eingeloggt hab um meinen Kontostand zu checken, and now suddenly it's like the system doesn't recognize me at all, verstehen Sie?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Ich sehe, dass es über Nacht ein Sicherheitsupdate gab. Das könnte damit zusammenhängen."
+        },
+        {
+            "role": "Character 2",
+            "content": "Ein Sicherheitsupdate? Mensch, wäre schön gewesen, wenn man uns vorgewarnt hätte. Ich mein, ich hab Rechnungen, die per Lastschrift über dieses Konto laufen, und wenn ich da nicht rankomme... na ja, das ist halt echt ein Problem."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gasp] Oh, ich seh grad, dass es eine Kontosperrung von unserer Betrugsabteilung gibt."
+        },
+        {
+            "role": "Character 2",
+            "content": "Betrug? Was? Nein nein nein, ich hab nichts Betrügerisches gemacht. Es sei denn... Moment, ich hab letzte Woche was von dieser ausländischen Website gekauft. Could that have, like, triggered something in your system?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Das ist sehr wahrscheinlich der Auslöser gewesen. Internationale Transaktionen lösen manchmal unsere Sicherheitsprotokolle aus."
+        },
+        {
+            "role": "Character 2",
+            "content": "Na gut, also wie beheben wir das jetzt? Because I really, really need to get in there today—ich hab 'ne Zahlung, die bis 17 Uhr durch sein muss, sonst krieg ich Mahngebühren."
+        },
+        {
+            "role": "Character 1",
+            "content": "[laugh loudly] Keine Sorge, wir kriegen das definitiv bis dahin geregelt!"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh Gott sei Dank. Sie haben keine Ahnung, wie gestresst ich deswegen war. Also was ist der nächste Schritt—muss ich, ähm, meine Identität verifizieren oder so?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Genau. Ich muss Ihnen nur erst ein paar Sicherheitsfragen stellen."
+        },
+        {
+            "role": "Character 2",
+            "content": "Klar, absolut. Schießen Sie los. Ich mein, an diesem Punkt beantworte ich alles, was Sie brauchen—ich will einfach nur mein Konto zurück, verstehen Sie?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "Hi there, I can help you with whatever you need. What's going on today?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh, thank god someone picked up. So, um, I've been trying to access my account for like an hour now and it keeps saying my password is wrong, but I know—I absolutely know it's the right one because I literally just wrote it down yesterday."
+        },
+        {
+            "role": "Character 1",
+            "content": "That sounds really frustrating. Have you tried the password reset option?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, that's the thing though—when I click on it, nothing happens. Like the page just, uh, refreshes? And then I'm back at the login screen again, which is honestly making me lose my mind a little bit here."
+        },
+        {
+            "role": "Character 1",
+            "content": "Okay, let me pull up your account. What's the email associated with it?"
+        },
+        {
+            "role": "Character 2",
+            "content": "It's, um... wait, shoot, which one did I use? Either sarah.m.collins at gmail or... no actually, I think it might be the one with my middle initial? S.marie.collins maybe?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[enunciating every word] Can you check your email inbox for any previous correspondence from us?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Mmm, good idea. Let me just... okay so I'm searching now and, oh wait, here's one from three months ago. Looks like it was sent to the gmail one without the middle initial, so that's gotta be it."
+        },
+        {
+            "role": "Character 1",
+            "content": "Perfect. I see your account here. When did this issue start?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Literally this morning. Everything was fine yesterday when I logged in to check my balance, and now suddenly it's like the system doesn't recognize me at all, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "I can see there was a security update overnight. That might be related."
+        },
+        {
+            "role": "Character 2",
+            "content": "A security update? Geez, would've been nice to get a heads up about that. I mean, I've got bills set to autopay through this account and if I can't access it... well, that's kind of a problem."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gasp] Oh, I just noticed there's a hold on your account from our fraud department."
+        },
+        {
+            "role": "Character 2",
+            "content": "Fraud? What? No no no, I haven't done anything fraudulent. Unless... wait, I did make a purchase from that overseas website last week. Could that have, like, triggered something in your system?"
+        },
+        {
+            "role": "Character 1",
+            "content": "That's very likely what happened. International transactions sometimes flag our security protocols."
+        },
+        {
+            "role": "Character 2",
+            "content": "Well okay, so how do we fix this? Because I really, really need to get in there today—I've got a payment that needs to go through by five or I'm gonna get hit with late fees."
+        },
+        {
+            "role": "Character 1",
+            "content": "[laugh loudly] Don't worry, we'll definitely get this sorted before then!"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh thank god. You have no idea how stressed I've been about this. So what's the next step here—do I need to, um, verify my identity or something?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Exactly. I'll just need to ask you a few security questions first."
+        },
+        {
+            "role": "Character 2",
+            "content": "Sure, absolutely. Fire away. I mean, at this point I'll answer whatever you need—I just want my account back, you know?"
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue3_20.txt"
+}

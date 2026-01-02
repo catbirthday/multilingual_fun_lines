@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[relieved] Two hundred jobs. Two hundred families that won't have to move away now. [pause] You know, when I first proposed this whole economic development officer thing, people thought I was—they literally laughed at the town hall meeting. [bitter] \"Another pipe dream,\" they said. [sigh] And honestly, there were nights I'd lie awake thinking maybe they were right. [anxious] Maybe I was just wasting everyone's time with, um, with committees and proposals and all those endless phone calls to companies who wouldn't even return them. [frustrated] God, the rejection letters. [laugh] I wallpapered my office with them at one point, just to—I don't know, spite myself into working harder? [warm] But then that first company said yes. [very excited] Just a small manufacturing outfit, twenty jobs, but it was something! [speeding up] And then another one came, and the tax incentives actually worked, and suddenly everyone who called me naive was asking how they could help. [crying while speaking] My dad would've been so proud. [sniffle] He worked at the old plant for thirty years before it closed. [very sincerely] This town raised me, you know? [passionately] It deserved someone who'd fight for it. [happy] And now kids can actually stay here after high school, build lives here. [very quietly] We did it. We actually did it."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[relieved] Two hundred jobs. Two hundred families that won't have to move away now. [pause] You know, when I first proposed this whole economic development officer thing, people thought I was—they literally laughed at the town hall meeting. [bitter] \"Another pipe dream,\" they said. [sigh] And honestly, there were nights I'd lie awake thinking maybe they were right. [anxious] Maybe I was just wasting everyone's time with, um, with committees and proposals and all those endless phone calls to companies who wouldn't even return them. [frustrated] God, the rejection letters. [laugh] I wallpapered my office with them at one point, just to—I don't know, spite myself into working harder? [warm] But then that first company said yes. [very excited] Just a small manufacturing outfit, twenty jobs, but it was something! [speeding up] And then another one came, and the tax incentives actually worked, and suddenly everyone who called me naive was asking how they could help. [crying while speaking] My dad would've been so proud. [sniffle] He worked at the old plant for thirty years before it closed. [very sincerely] This town raised me, you know? [passionately] It deserved someone who'd fight for it. [happy] And now kids can actually stay here after high school, build lives here. [very quietly] We did it. We actually did it."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "8528b7fd_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The economic development officer initiative you championed brought 200 jobs to your struggling hometown",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

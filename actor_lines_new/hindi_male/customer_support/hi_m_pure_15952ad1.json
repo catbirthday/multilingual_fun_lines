@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "देखिए, मुझे आपकी company की website के interface को लेकर काफी serious issues discuss करने हैं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, thank you बताने के लिए। मैं आपको website navigate करने में पूरी help करूंगा और आपका feedback हमारी development team को जरूर document करूंगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "वो... account dashboard जब open करता हूं ना, billing statements access करने के लिए, तो बार-बार expired pages पे redirect हो जाता है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे, इसके लिए sorry sir। अभी मैं आपका account pull up करता हूं... reference number है ACC-8847293... जी, मैं आपको correct billing portal पे guide करता हूं और साथ में ये redirect issue भी troubleshoot करते हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "और एक बात, आपका search function तो बिल्कुल ही बेकार results दे रहा है, चाहे मैं कुछ भी terms enter करूं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ये तो concerning है। Actually क्या है ना... हमारी IT team ने पिछले Tuesday को update deploy किया था, version 3.2.7, उससे शायद search indexing में problem आ गया है। मैं इसे ticket number INC-5524981 के under document कर रहा हूं immediate review के लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "भाई, एक professional organization से तो expect करता हूं कि कम से कम functional digital infrastructure तो maintain करें। मेरा काफी time waste हुआ है इसमें।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी बिल्कुल justified है आपकी बात। देखिए, immediate solution के तौर पे मैं आपके last 6 billing statements directly email कर देता हूं और future access के लिए एक direct link bypass code भी दे रहा हूं— DL-7739-STMT।"
+        },
+        {
+            "role": "Customer",
+            "content": "हां, ये helpful रहेगा। लेकिन ये जो ongoing website issues हैं, इनके बारे में customers को proactively बताया जाएगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, बिल्कुल।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा, तो search functionality और navigation के problems permanently कब तक resolve होंगे?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हमारे current sprint schedule के हिसाब से, navigation fixes December 15 तक deploy हो जाने चाहिए, और search functionality की repairs latest December 22 तक complete हो जाएंगी।"
+        },
+        {
+            "role": "Customer",
+            "content": "मैं इन technical failures से deal करने में जो time spent किया है, उसके लिए compensation भी चाहता हूं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, मैं completely समझता हूं। मैं आपके account में $45.00 का service credit apply करने के लिए authorized हूं और future में कोई भी technical issues के लिए आपको हमारी premium support line दे रहा हूं— 1-800-555-9823।"
+        },
+        {
+            "role": "Customer",
+            "content": "ठीक है, reasonable है। बस ये ensure कर दीजिए कि ये feedback directly आपकी website development team तक पहुंचे।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, मैंने आपका case हमारे Senior UX Director को escalate कर दिया है priority flag PRI-1 के साथ। 48 hours के अंदर उनकी team से आपको follow-up call आएगा आपके specific pain points discuss करने के लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा। मुझे आज जो भी discuss किया है, उसकी written confirmation भी चाहिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, of course। मैं आपके email address पे— जो file में है— एक detailed summary भेज रहा हूं, confirmation number है CNF-9982745, जिसमें सारे ticket numbers, credit details, और committed resolution dates होंगी।"
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you, professionally handle करने के लिए। मैं email confirmation और follow-up call का wait करूंगा।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you sir आपके patience और valuable feedback के लिए। आपकी summary email 15 minutes में आ जाएगी, और मैंने callback team के लिए note add कर दिया है कि वो आपको आपके preferred morning hours में call करें।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to discuss the significant issues I'm experiencing with your company's website interface."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for bringing this to our attention. I'd be happy to help you navigate our website more effectively and document your feedback for our development team."
+        },
+        {
+            "role": "Customer",
+            "content": "The account dashboard keeps redirecting me to expired pages when I try to access my billing statements."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for that frustration. Let me pull up your account using reference number ACC-8847293 and I can guide you to the correct billing portal while we troubleshoot the redirect issue."
+        },
+        {
+            "role": "Customer",
+            "content": "Additionally, your search function returns completely irrelevant results regardless of what terms I enter."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's concerning. Our IT team deployed update version 3.2.7 last Tuesday which may have affected search indexing. I'm documenting this under ticket INC-5524981 for immediate review."
+        },
+        {
+            "role": "Customer",
+            "content": "I expect a professional organization to maintain functional digital infrastructure. This has wasted considerable time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely justified. As an immediate solution, I can email your last 6 billing statements directly and provide you with a direct link bypass code DL-7739-STMT for future access."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be helpful. Will these ongoing website issues be addressed with your customers proactively?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "When can I expect the search functionality and navigation problems to be resolved permanently?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Based on our current sprint schedule, the navigation fixes should be deployed by December 15th, and search functionality repairs are targeted for completion by December 22nd at the latest."
+        },
+        {
+            "role": "Customer",
+            "content": "I'd also like compensation for the time I've spent dealing with these technical failures."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. I'm authorized to apply a $45.00 service credit to your account and provide you with our premium support line 1-800-555-9823 for any future technical issues."
+        },
+        {
+            "role": "Customer",
+            "content": "That's reasonable. Please ensure this feedback reaches your website development team directly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've escalated your case to our Senior UX Director with priority flag PRI-1. You'll receive a follow-up call from their team within 48 hours to discuss your specific pain points."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. I'll also need written confirmation of everything we've discussed today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a detailed summary to your email address on file, confirmation number CNF-9982745, which will include all ticket numbers, credit details, and committed resolution dates."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for handling this professionally. I'll await the email confirmation and follow-up call."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for your patience and valuable feedback. Your summary email will arrive within 15 minutes, and I've added a note for our callback team to reach you at your preferred morning hours."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "15952ad1_script.json",
+    "professionalism": "professional",
+    "scenario": "complaining about difficulty navigating the company website",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "professionally_assertive",
+                "graciously_disappointed"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "reassuringly_calm",
+                "briskly_efficient"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "अरे सुन! एक quick question है common stock के बारे में - voting और non-voting shares में असल में क्या फर्क है?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] अ, तो basically voting shares से तुम्हें, अम्म, company के decisions में actual say मिलती है, पर honestly यार ज्यादातर retail investors तो इन rights का use ही नहीं करते, जो कि थोड़ा अफ़सोस की बात है।"
+        },
+        {
+            "role": "Character 1",
+            "content": "[formal] अच्छा। और dividend distributions के मामले में, क्या दोनों classes में typically बराबर होते हैं?"
+        },
+        {
+            "role": "Character 2",
+            "content": "हाँ, usually तो same ही होते हैं, पर, अ, कुछ companies अलग तरीके से structure करती हैं। Google के Class A और C shares, मसलन, दोनों को equal dividends मिलते हैं लेकिन सिर्फ A में voting rights हैं, समझे ना?"
+        },
+        {
+            "role": "Character 1",
+            "content": "अरे बाप रे! तो फिर non-voting shares कोई क्यों खरीदेगा?"
+        },
+        {
+            "role": "Character 2",
+            "content": "वो क्या है, मेरा मतलब, वो अक्सर सस्ते होते हैं और ज्यादा liquid भी क्योंकि, जैसे, market में ज्यादा float कर रहे होते हैं। Plus, सच बताऊं तो, तुम्हारे सौ shares से कोई board election तो बदलने से रहा, है ना?"
+        },
+        {
+            "role": "Character 1",
+            "content": "सही सही! Stock splits का क्या - दोनों classes पर equally affect करते हैं?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[sleepily] हम्म, हाँ typically करते हैं... companies usually सभी share classes को proportionally split करती हैं ताकि, अम्म, existing ownership structure maintain रहे और कोई अजीब सी arbitrage opportunities वगैरह ना बनें।"
+        },
+        {
+            "role": "Character 1",
+            "content": "[trailing off] और preferred stock तो इन दोनों से बिल्कुल अलग है..."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very slowly] अरे हाँ बिल्कुल, preferred stock तो... वो basically bonds और equity के बीच का hybrid है, जिससे तुम्हें fixed dividends मिलते हैं लेकिन usually voting rights नहीं और bankruptcy में common stockholders से पहले priority मिलती है।"
+        },
+        {
+            "role": "Character 1",
+            "content": "Bankruptcy में priority तो काफी मस्त लगता है actually! फिर सब लोग preferred ही क्यों नहीं खरीदते?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] अरे यार, बात ये है कि preferred shares की value में ज्यादा appreciation नहीं होती। तुम basically growth potential को, अ, stability और उन fixed payments के लिए trade कर रहे हो, जो हमेशा best trade-off नहीं होता।"
+        },
+        {
+            "role": "Character 1",
+            "content": "समझ गया! Employee stock options के बारे में बताओ - वो हमेशा common stock ही होते हैं?"
+        },
+        {
+            "role": "Character 2",
+            "content": "हाँ तो, almost always common stock ही होते हैं क्योंकि, अम्म, companies चाहती हैं कि employees को growth से फायदा हो। हालांकि कभी-कभी restricted stock units issue करती हैं जो, जैसे, time के साथ vest होते हैं पर similarly function करते हैं।"
+        },
+        {
+            "role": "Character 1",
+            "content": "RSUs! सुना है वो tax के हिसाब से बेहतर होते हैं, सच है?"
+        },
+        {
+            "role": "Character 2",
+            "content": "अरे, exactly बेहतर नहीं, बस timing अलग होती है। Options में तुम exercise और selling करते वक्त tax pay करते हो, लेकिन RSUs में, हम्म, जब वो vest होते हैं तब ordinary income की तरह tax लगता है, चाहे तुम sell करो या ना करो।"
+        },
+        {
+            "role": "Character 1",
+            "content": "हाय राम, वो तो बहुत बड़ा tax bill हो सकता है! कोई तरीका है इससे बचने का?"
+        },
+        {
+            "role": "Character 2",
+            "content": "वैसे, एक चीज़ है 83(b) election जहाँ तुम, अ, grant value पर upfront tax pay कर सकते हो, पर risky है क्योंकि अगर stock गिर जाए या तुम vesting से पहले छोड़ दो, तो वो पैसा वापस नहीं मिलता।"
+        },
+        {
+            "role": "Character 1",
+            "content": "कमाल है! Last चीज़ - direct stock purchase plans और open market से खरीदने में क्या फर्क है?"
+        },
+        {
+            "role": "Character 2",
+            "content": "अच्छा हाँ, DSPPs से तुम directly company से खरीद सकते हो, अक्सर थोड़े discount पर और, अम्म, बिना broker fees के, जो अच्छा है। पर तुम usually limited होते हो कि कितना खरीद सकते हो और कब sell कर सकते हो, तो definitely trade-offs हैं वहाँ।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "Hey! Quick question about common stock - what's the real difference between voting and non-voting shares?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] Ah, so basically voting shares give you, um, actual say in company decisions, but honestly most retail investors don't really use those rights anyway, which is kind of a shame."
+        },
+        {
+            "role": "Character 1",
+            "content": "[formal] I see. And regarding dividend distributions, are they typically equivalent between the two classes?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, usually they're the same, though, uh, some companies structure it differently. Google's Class A and C shares, for instance, they both get equal dividends but only A has voting rights, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "That's wild! So why would anyone buy non-voting shares then?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, I mean, they're often cheaper and more liquid since there's, like, more of them floating around. Plus, let's be real, your hundred shares aren't swaying any board elections anyway, right?"
+        },
+        {
+            "role": "Character 1",
+            "content": "True true! What about stock splits - do they affect both classes equally?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[sleepily] Mmm, yeah typically they do... companies usually split all share classes proportionally to, um, maintain the existing ownership structure and avoid any weird arbitrage opportunities or whatever."
+        },
+        {
+            "role": "Character 1",
+            "content": "[trailing off] And preferred stock is completely different from both of these..."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very slowly] Oh absolutely, preferred stock is... well, it's basically a hybrid between bonds and equity, giving you fixed dividends but usually no voting rights and priority over common stockholders in bankruptcy."
+        },
+        {
+            "role": "Character 1",
+            "content": "Priority in bankruptcy sounds pretty sweet actually! Why doesn't everyone just buy preferred?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] Ah jeez, the thing is, preferred shares don't really appreciate much in value. You're basically trading growth potential for, uh, stability and those fixed payments, which isn't always the best trade-off."
+        },
+        {
+            "role": "Character 1",
+            "content": "Makes sense! How about employee stock options - are those always common stock?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah so, almost always common stock because, um, companies want employees to benefit from growth. Though sometimes they'll issue restricted stock units instead which, like, vest over time but function similarly."
+        },
+        {
+            "role": "Character 1",
+            "content": "RSUs! I've heard those are better tax-wise, is that true?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Err, not exactly better, just different timing. With options you pay taxes when exercising and selling, but RSUs, hmm, you're taxed as ordinary income when they vest, regardless of whether you sell."
+        },
+        {
+            "role": "Character 1",
+            "content": "Yikes, that could be a huge tax bill! Any way around that?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, there's something called an 83(b) election where you can, uh, pay taxes upfront on the grant value, but it's risky because if the stock tanks or you leave before vesting, you don't get that money back."
+        },
+        {
+            "role": "Character 1",
+            "content": "Brutal! Last thing - what about direct stock purchase plans versus buying on the open market?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh right, DSPPs let you buy directly from the company, often at a small discount and, um, without broker fees, which is nice. But you're usually limited in how much you can buy and when you can sell, so there's definitely trade-offs there."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue10_47.txt"
+}

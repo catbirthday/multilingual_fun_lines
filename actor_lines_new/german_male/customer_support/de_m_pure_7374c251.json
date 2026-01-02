@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Also ich... ich kann das jetzt echt nicht mehr, da ist so eine Abbuchung auf meiner Karte und ich war noch nie in diesem Laden?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh je, das tut mir echt leid, dass Sie das durchmachen müssen. Ähm, ich schau mir gleich mal Ihr Konto an—könnten Sie mir die letzten vier Ziffern Ihrer Karte geben, die auf, äh, moment, was ist eigentlich Ihre Kundennummer?"
+        },
+        {
+            "role": "Customer",
+            "content": "Die müsste hier irgendwo stehen, ich glaub M... M1847293, und die Abbuchung ist von einem Laden namens Luxe Boutique?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, hmm, ich hab's hier—M1847293, perfekt—und ja, da ist eine Abbuchung über 487,32 Euro von Luxe Boutique vom 14. November. Das tut mir echt, äh, das tut mir echt leid, das muss ja total stressig sein."
+        },
+        {
+            "role": "Customer",
+            "content": "Vierhundertsiebenund... ich kann einfach nicht, also das ist die Hälfte meiner Miete und ich weiß nicht mal, was das für ein Laden ist!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich verstehe total, warum Sie aufgebracht sind, und, äh, lassen Sie mich mal was nachschauen... der Transaktionscode ist TXN-9847-BK22, verarbeitet um 15:47 Uhr. Hmm, es wird als Einkauf vor Ort mit Chip-Verifizierung angezeigt."
+        },
+        {
+            "role": "Customer",
+            "content": "Vor Ort? Aber ich war auf der Arbeit, also ich war definitiv auf der Arbeit, wie ist das denn überhaupt möglich?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Das ist, äh, das ist auf jeden Fall besorgniserregend. Ich markiere das sofort als möglichen Betrug—ich trage die Referenznummer FRD-2847-XM91 in Ihr Konto ein, und wir müssen, ähm, also erstmal das Wichtigste, können Sie nachschauen, ob Sie Ihre physische Karte bei sich haben?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ja, sie ist nicht... warte. Oh mein Gott. Sie ist nicht da."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh nein, okay, also—ich meine, das tut mir echt leid—aber eigentlich hilft uns das, schnell zu handeln. Ich sperre sofort Ihre Karte mit der Endung 4782, und, äh, wir schicken Ihnen per Express eine neue raus, die sollte bis Montag da sein."
+        },
+        {
+            "role": "Customer",
+            "content": "Natürlich passiert das jetzt, also wirklich kurz vor den Feiertagen, wo ich alles kaufen muss."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ich weiß, das Timing ist einfach—uff, das kann ich echt nachvollziehen. Ähm, was ich aber machen kann, ist eine temporäre virtuelle Kartennummer zu erstellen, VCC-8827-TMP, die Sie für Online-Käufe nutzen können, während Sie warten?"
+        },
+        {
+            "role": "Customer",
+            "content": "Also bin ich halt bis Montag aufgeschmissen für alles vor Ort? Das ist ja... perfekt."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Na ja, eigentlich—hmm, lassen Sie mich mal was anderes für Sie checken... wenn Sie ein Smartphone mit kontaktlosem Bezahlen haben, kann ich, äh, ich kann die virtuelle Karte direkt in Ihre digitale Wallet pushen, Referenzcode PUSH-9901-DW."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Echt jetzt? Ich schätze, das ist, also das könnte irgendwie funktionieren?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Auf jeden Fall! Also ich schicke das durch—Sie bekommen in etwa dreißig Sekunden eine SMS an 917-555-0142 mit dem Aktivierungslink, und dann, äh, dann können Sie überall kontaktlos bezahlen."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay aber was ist denn mit der Betrugsabbuchung, weil ich brauch das Geld schon irgendwie zurück?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Richtig richtig, natürlich—also die vorläufige Gutschrift von 487,32 Euro wird innerhalb von 24 bis 48 Stunden auf Ihrem Konto sein, während wir das untersuchen, und, ähm, Sie müssen eine eidesstattliche Erklärung unterschreiben, die wir an Ihre hinterlegte E-Mail-Adresse schicken."
+        },
+        {
+            "role": "Customer",
+            "content": "Vierundzwanzig bis achtundvierzig Stunden... klar, warum nicht, es geht ja sowieso alles den Bach runter."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Es tut mir wirklich, wirklich leid wegen all dem. Äh, nur damit Sie alles haben—Ihre Fallnummer ist FRD-2847-XM91, und falls Sie irgendwas brauchen, die Direktnummer unserer Betrugsabteilung ist 0800-555-FRAUD, rund um die Uhr erreichbar."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I just... I can't even deal with this right now, like there's this charge on my card and I've literally never been to this place?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, I'm so sorry you're dealing with this. Um, let me pull up your account right away—could you give me the last four digits of your card ending in, er, actually, what's your member number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's probably on here somewhere, I think M... M1847293, and basically the charge is from someplace called Luxe Boutique?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, hmm, I see it here—M1847293, perfect—and yes, there's a charge for $487.32 from Luxe Boutique on November 14th. I'm really, uh, I'm really sorry this happened, that must be so stressful."
+        },
+        {
+            "role": "Customer",
+            "content": "Four hundred and... I just, I can't, like that's half my rent money and I don't even know what that store is!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand why you're upset, and, er, let me check something here... the transaction code is TXN-9847-BK22, processed at 3:47 PM Eastern. Hmm, it shows as an in-person purchase with chip verification."
+        },
+        {
+            "role": "Customer",
+            "content": "In person? But I was at work, I mean I think I was definitely at work, so how is that even possible?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's, uh, that's definitely concerning. Let me flag this right away as potential fraud—I'm putting reference number FRD-2847-XM91 on your account, and we'll need to, um, well first things first, are you able to check if you have your physical card with you?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah no it's... wait. Oh my God. It's not here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, okay, so—I mean, I'm so sorry—but actually this helps us move quickly. I'm immediately freezing your card ending in 4782, and, er, we'll get you a replacement rushed out via priority mail to arrive by Monday."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course this would happen now, like literally right before the holidays when I need to buy everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, the timing is just—ugh, I really feel for you. Um, what I can do though is generate a temporary virtual card number, VCC-8827-TMP, that you can use for online purchases while you wait?"
+        },
+        {
+            "role": "Customer",
+            "content": "So basically I'm just stuck until Monday for anything in person? This is just... perfect."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, actually—hmm, let me check something else for you... if you have a smartphone with tap-to-pay, I can, er, I can push the virtual card to your digital wallet right now, reference code PUSH-9901-DW."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Wait really? I guess that's, I mean that might work sort of?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! So I'll send that through—you'll get a text to 917-555-0142 in about thirty seconds with the activation link, and then, uh, then you're all set for contactless payments anywhere."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so like what about the fraud charge though, because I kind of need that money back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, of course—so the provisional credit of $487.32 will post to your account within 24 to 48 hours while we investigate, and, um, you'll need to sign an affidavit that we'll email to your address on file."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty four to forty eight hours... sure, why not, everything else is falling apart anyway."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm really, truly sorry about all of this. Er, just to make sure you have everything—your case number is FRD-2847-XM91, and if you need anything at all, our fraud department's direct line is 800-555-FRAUD, available twenty-four seven."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "7374c251_script.json",
+    "professionalism": "casual",
+    "scenario": "young professional, anxious about a credit card charge from a store she's never visited",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "overwhelmed_shutdown",
+                "bitter_defeated"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches",
+                    "filled_pauses",
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "awkwardly_apologetic",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

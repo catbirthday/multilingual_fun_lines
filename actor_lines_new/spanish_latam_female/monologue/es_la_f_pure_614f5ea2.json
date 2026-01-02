@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] ¡Dijeron que sí! En serio dijeron que—espera, no, no solo que sí, lo quieren destacar. [gasp] ¡Como la pieza principal de la exhibición! No puedo... literal no puedo procesar esto ahorita. [short pause] ¿Te acuerdas hace dos meses cuando literal iba a tirar todo a la basura? [laugh] Dios, ya no podía más con eso. Estaba tan... o sea, llevaba tanto tiempo mirándolo que ya ni sabía qué era. [shaky voice] Y mi mamá tuvo que, este, prácticamente detenerme físicamente para que no borrara todos los archivos. Me dijo \"solo mándalo, ¿qué es lo peor que puede pasar?\" [pause] Y yo estaba tan convencida de que era una porquería, ¿sabes? Tipo, de verdad pensaba que había desperdiciado, qué, 8 meses de mi vida en esta... esta cosa que ya ni tenía sentido. [sniffle] Pero ahora están diciendo que es—espérate, déjame leer esto otra vez—\"una meditación profunda sobre el aislamiento que habla de nuestro momento actual.\" [laugh loudly] ¿Me estás jodiendo? [very excited] ¡Lo van a poner en la galería principal! ¡La que tiene los tragaluces! [trailing off] Casi lo tiro a la basura... [extremely happy] ¡Ay Dios mío, tengo que llamar a mi mamá!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] They said yes! They actually—wait, no, not just yes, they want to feature it. [gasp] As their main exhibition piece! I can't... I literally cannot process this right now. [short pause] Remember two months ago when I was literally going to throw the whole thing in the trash? [laugh] God, I was so done with it. Just completely... I mean, I'd been staring at it for so long I couldn't even see what it was anymore. [shaky voice] And my mom had to basically, um, physically stop me from deleting all the files. She was like \"just submit it, what's the worst that could happen?\" [pause] And I was so convinced it was garbage, you know? Like, genuinely thought I'd wasted, what, eight months of my life on this... this thing that didn't even make sense anymore. [sniffle] But now they're saying it's—hold on, let me read this again—\"a profound meditation on isolation that speaks to our current moment.\" [laugh loudly] Are you kidding me? [very excited] They're going to put it in the main gallery! The one with the skylights! [trailing off] I almost threw it away... [extremely happy] Oh my God, I need to call my mom!"
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "614f5ea2_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The creative project you almost abandoned getting accepted beyond your wildest dreams",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

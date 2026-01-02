@@ -1,0 +1,87 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Is this webinar platform actually working now?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh gosh, yes! Finally got it sorted out. You were so patient while I, um, fumbled through all those settings—seriously, thank you for not just hanging up on me after the third crash."
+        },
+        {
+            "role": "Character 1",
+            "content": "The screen sharing kept freezing though."
+        },
+        {
+            "role": "Character 2",
+            "content": "Right, right, that was actually a bandwidth issue on our end. We've upgraded the servers now and, honestly, I can't thank you enough for flagging that specific error code—it helped us identify the root cause immediately."
+        },
+        {
+            "role": "Character 1",
+            "content": "Can you show me how to use the breakout rooms?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Absolutely! Oh wow, I love that you're asking about this feature. So basically, you'll click on the participants panel, then there's this little icon that looks like, uh, four squares? That opens the breakout room controls."
+        },
+        {
+            "role": "Character 1",
+            "content": "And people get assigned automatically?"
+        },
+        {
+            "role": "Character 2",
+            "content": "You can do automatic or manual assignment—both work great! The automatic feature is, mmm, really clever actually. It distributes participants evenly, but you can also pre-assign people if you upload a CSV file beforehand."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] This seems unnecessarily complicated for a basic function."
+        },
+        {
+            "role": "Character 2",
+            "content": "No no, you're absolutely right, and thank you for being honest about that! We're actually redesigning the whole interface based on feedback exactly like yours—the current version is, yeah, pretty clunky."
+        },
+        {
+            "role": "Character 1",
+            "content": "What about recording options?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Ooh, excellent question! So you've got cloud recording which is, um, super convenient, or local recording to your computer. Cloud gives you automatic transcripts too, which honestly saves me hours every week."
+        },
+        {
+            "role": "Character 1",
+            "content": "Does the transcript actually work well?"
+        },
+        {
+            "role": "Character 2",
+            "content": "It's about eighty-five percent accurate, which is, you know, pretty decent for automated transcription. The best part though—and seriously, thank you for letting me geek out about this—is that it timestamps everything for easy navigation."
+        },
+        {
+            "role": "Character 1",
+            "content": "How much storage do we get?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very slowly] With your current plan, you have ten gigabytes, which typically handles about, uh, twenty hours of standard definition recording, or roughly eight hours if you're recording in HD."
+        },
+        {
+            "role": "Character 1",
+            "content": "That's not very much."
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, I hear you. But here's the thing—and again, I really appreciate you bringing this up—we can bump you to the next tier for just, um, fifteen dollars more monthly, and that gets you unlimited storage basically."
+        },
+        {
+            "role": "Character 1",
+            "content": "[formal] I'll need to review this with my team first."
+        },
+        {
+            "role": "Character 2",
+            "content": "Of course, totally understand! And hey, genuinely, thank you so much for taking the time to go through all these features with me—your questions are helping us improve the platform for everyone."
+        }
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue4_22.txt",
+    "actor": 2
+}

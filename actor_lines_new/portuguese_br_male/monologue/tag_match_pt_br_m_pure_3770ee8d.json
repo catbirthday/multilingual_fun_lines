@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[muito animado] Consegui! A bolsa—a bolsa mesmo que eu venho sonhando desde... Meu Deus, desde sempre. [pausa] Ligaram hoje de manhã e eu fiquei lá segurando o telefone feito um idiota. [ri] Três anos em Genebra, tudo pago, trabalhando com o pessoal que escreveu os artigos que me fizeram querer fazer isso em primeiro lugar. [hesitantemente] Mas aí eu, hum... olhei pra caixinha de remédios da minha mãe em cima da pia. [triste] Aquela que eu organizo todo domingo porque as mãos do meu pai tremem demais agora. [suspiro] E é tipo—como é que eu vou contar pra eles? [ansioso] \"Ah, parabéns pelos 75 anos, tô me mudando pra outro continente\"? Meu pai já tá me pedindo pra levar ele nas consultas do cardiologista porque não confia mais em dirigir. [voz trêmula] E minha mãe finge que tá bem, mas ontem eu vi ela tentando abrir um vidro por, sei lá, uns cinco minutos antes de desistir. [pausa] Eles precisam de mim. [frustrado] Mas isso é literalmente—é A oportunidade, sabe? [muito triste] O foda é que eles nunca iam me pedir pra ficar. [fungar] Iam até me ajudar a fazer as malas, fingir que tão super felizes, fazer piada sobre vir me visitar mesmo sabendo que meu pai não pode mais voar com o problema do coração. [chorando enquanto fala] Eu não sei como... como é que dá pra querer as duas coisas assim, tanto assim."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very excited] I got it! The fellowship—the actual fellowship I've been dreaming about since... God, since forever. [pause] They called this morning and I just sat there holding the phone like an idiot. [laughs] Three years in Geneva, full funding, working with the exact people who wrote the papers that made me want to do this in the first place. [hesitantly] But then I, um... I looked over at Mom's pill organizer on the counter. [sad] The one I fill every Sunday because Dad's hands shake too much now. [sigh] And it's like—how do I even tell them? [anxious] \"Hey, congrats on turning seventy-five, I'm moving to another continent\"? Dad's already asking me to drive him to his cardiology appointments because he doesn't trust himself behind the wheel anymore. [shaky voice] And Mom pretends she's fine but I saw her trying to open a jar yesterday for like, hmm, five minutes before she gave up. [pause] They need me. [frustrated] But this is literally—this is THE opportunity, you know? [very sad] The thing is, they'd never ask me to stay. [sniffle] They'd probably help me pack, pretend they're thrilled, make jokes about visiting even though we all know Dad can't fly anymore with his heart. [crying while speaking] I don't know how to want both things this much."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "3770ee8d_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Being offered your dream fellowship but having to move away from your aging parents",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Boa tarde. Preciso de discutir uma cobrança não autorizada na minha conta HSA."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, sim claro, deixa-me já abrir isso aqui. *sharp inhale* Vou ter de verificar a sua conta primeiro—pode dar-me o seu member ID que começa com HSA, e depois só para confirmar, os últimos quatro dígitos do cartão que termina em?"
+        },
+        {
+            "role": "Customer",
+            "content": "HSA-471-9982. O cartão termina em 3847. The charge is from yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito, muito obrigado. Pronto então... deixa-me ver aqui... estou a ver a sua conta HSA-471-9982 e consigo ver a transação mais recente de 23 de outubro no valor de $287.43. É esta a cobrança sobre a qual está a ligar, ou estou a ver algo diferente?"
+        },
+        {
+            "role": "Customer",
+            "content": "É isso mesmo. Eu não autorizei essa transação."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* Certo, pronto, compreendo perfeitamente a sua preocupação. Deixa-me ver mais detalhes aqui—o código do comerciante aparece como MED-SUPPLY-0947 e está categorizado como equipamento médico durável. Por acaso encomendou alguma coisa online recentemente, maybe something that processed later than expected?"
+        },
+        {
+            "role": "Customer",
+            "content": "Não. Eu trabalho em saúde. I know exactly what I purchase."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro, claro, você saberia definitivamente. Hum, e se... pronto então às vezes estas cobranças podem aparecer com nomes de comerciantes diferentes do esperado. This particular vendor ID links to a company called Precision Medical Solutions—isso diz-lhe alguma coisa?"
+        },
+        {
+            "role": "Customer",
+            "content": "Nunca ouvi falar deles. Isto é, hum, preocupante dado o meu campo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*sharp inhale* Sim, consigo perceber perfeitamente porque isto seria especialmente preocupante para si. Deixa-me só... pronto então estou a iniciar uma disputa agora mesmo, o seu número de caso é DISP-20241024-8892A. The full $287.43 will be provisionally credited back within 24 to 48 hours while we investigate."
+        },
+        {
+            "role": "Customer",
+            "content": "Foi isso que o seu colega disse sobre a minha última cobrança disputada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. *exhale* Já teve isto antes? Deixa-me ver o seu histórico aqui... estou a ver uma disputa anterior de 15 de agosto no valor de $156.22 que foi... hum, isso demorou mais do que devia para resolver, não foi?"
+        },
+        {
+            "role": "Customer",
+            "content": "Três semanas, pá. For a simple fraudulent charge. Sim."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Isso é—lamento imenso, isso definitivamente não é o nosso padrão. E se nós... pronto então para esta, estou a marcar como investigação prioritária com código P1-MEDICAL porque envolve fundos HSA que têm diretrizes federais mais rigorosas. This should expedite everything significantly."
+        },
+        {
+            "role": "Customer",
+            "content": "E como é que isto vai ser diferente exatamente? Especificamente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* Certo, pergunta justa. Então com a flag P1-MEDICAL, o seu caso é revisto em 5 dias úteis no máximo em vez dos 10 a 15 standard, e vai receber atualizações por SMS a cada 48 horas para o número de tracking SMS-8892A. Also, I'm personally assigning myself as your case manager."
+        },
+        {
+            "role": "Customer",
+            "content": "Eu faço turnos de doze horas. I can't take calls during the day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah claro, deixa-me anotar isso já. Hum, e se... posso configurar as suas preferências de contacto para email apenas com callbacks à noite depois das 19h00 se necessário? O seu ficheiro agora mostra \"CONTACTO APENAS À NOITE\" a negrito, and honestly I'll make sure anyone who touches this case sees it."
+        },
+        {
+            "role": "Customer",
+            "content": "Está bem. Though I'm, hum, skeptical this will actually be resolved properly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* Compreendo perfeitamente o seu ceticismo dada a sua última experiência. Deixa-me só... estou a enviar-lhe uma mensagem segura agora mesmo com a minha extensão direta 4782 e a linha de escalação 1-800-555-9823 que contorna a fila normal. O seu número de confirmação para toda esta interação é CALL-102024-14:32:08, and genuinely, I'll be monitoring this personally."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need to discuss an unauthorized charge on my HSA account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, yes absolutely, let me pull that up for you right away. *sharp inhale* I'll need to verify your account first—could you provide me with your member ID that starts with HSA, and then just to confirm, the last four digits of the card ending in?"
+        },
+        {
+            "role": "Customer",
+            "content": "HSA-471-9982. Card ends in 3847. The charge is from yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, thank you so much for that. Okay so... let me see here... I'm showing your account HSA-471-9982 and I can see the most recent transaction from October 23rd for $287.43. Is this the charge you're calling about, or am I looking at something different?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. I did not authorize that transaction."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* Right, okay, I completely understand your concern about this. Let me dig deeper into the details here—the merchant code is showing as MED-SUPPLY-0947 and it's categorized as durable medical equipment. Did you by any chance order anything online recently, maybe something that processed later than expected?"
+        },
+        {
+            "role": "Customer",
+            "content": "No. I work in healthcare. I know exactly what I purchase."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, of course, you would definitely know. Hmm, what if... okay so sometimes these charges can appear under different merchant names than expected. This particular vendor ID links to a company called Precision Medical Solutions—does that ring any bells at all?"
+        },
+        {
+            "role": "Customer",
+            "content": "I've never heard of them. This is, um, concerning given my field."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*sharp inhale* Yes, I can absolutely see why this would be especially worrying for you. Let me just... okay so I'm initiating a dispute right now, your case number is DISP-20241024-8892A. The full $287.43 will be provisionally credited back within 24 to 48 hours while we investigate."
+        },
+        {
+            "role": "Customer",
+            "content": "That's what your colleague said about my last disputed charge."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. *exhale* You've had this happen before? Let me look at your history here... I'm seeing a previous dispute from August 15th for $156.22 that was... hmm, that took longer than it should have to resolve, didn't it?"
+        },
+        {
+            "role": "Customer",
+            "content": "Three weeks. For a simple fraudulent charge. Yes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's—I'm really sorry about that, that's definitely not our standard. What if we... okay so for this one, I'm flagging it as priority investigation with code P1-MEDICAL because it involves HSA funds which have stricter federal guidelines. This should expedite everything significantly."
+        },
+        {
+            "role": "Customer",
+            "content": "And how exactly will this be different? Specifically."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* Right, fair question. So with the P1-MEDICAL flag, your case gets reviewed within 5 business days maximum instead of the standard 10 to 15, and you'll receive text updates every 48 hours to tracking number SMS-8892A. Also, I'm personally assigning myself as your case manager."
+        },
+        {
+            "role": "Customer",
+            "content": "I work twelve-hour shifts. I can't take calls during the day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, let me note that right away. Hmm, what if... I can set your contact preferences to email-only with evening callbacks after 7:00 PM if needed? Your case file now shows \"EVENING CONTACT ONLY\" in bold, and honestly I'll make sure anyone who touches this case sees it."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. Though I'm, uh, skeptical this will actually be resolved properly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* I completely understand your skepticism given your last experience. Let me just... I'm sending you a secure message right now with my direct extension 4782 and the escalation line 1-800-555-9823 which bypasses the regular queue. Your confirmation number for this entire interaction is CALL-102024-14:32:08, and genuinely, I'll be monitoring this personally."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "238da0ed_script.json",
+    "professionalism": "casual",
+    "scenario": "phlebotomist, anxious about an unexpected charge on her HSA card",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "seething_controlled",
+                "skeptical_guarded"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "slightly_frazzled"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches",
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] I found your access logs in our system from last Tuesday at 2 AM, looking through internal communications and stress assessment reports. [pause] You're not supposed to have those credentials."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] My mother's password was saved on her home computer, and after what happened, I needed to understand why your wellness programs failed to catch the warning signs. [quietly] She filled out those surveys you send every month."
+        },
+        {
+            "role": "Character 1",
+            "content": "[resigned] Those surveys are confidential, but I can tell you she always marked herself as 'managing well' even when HR flagged concerning patterns in her response times and work hours."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Managing well while working eighteen-hour days and skipping her heart medication because she couldn't leave during the merger negotiations? [voice shaking] I found her pill bottles still sealed from three months ago."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] Listen, I've been trying to implement mandatory wellness checks for executives for two years, but the board keeps saying it would undermine leadership confidence. [sighs] Your mother was one of many I couldn't reach."
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] So you just watched her deteriorate along with dozens of others because the board didn't want to look weak to shareholders? That's your excuse for letting people destroy themselves?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] I sent seventeen referrals to her office for counseling services, meditation apps, even offered to arrange coverage so she could take leave. She declined everything."
+        },
+        {
+            "role": "Character 2",
+            "content": "[coldly] Because accepting help would have marked her as weak in a culture that rewards people for sacrificing everything. [pause] The company newsletter called her 'unstoppable' the week before she tried to stop everything permanently."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] I know exactly which newsletter you're talking about because I begged them not to run that piece after seeing her assessment scores. [exhales] They ran it anyway because it was 'good for morale.'"
+        },
+        {
+            "role": "Character 2",
+            "content": "[curious] Her assessment scores showed she was at risk? Then why didn't anyone intervene?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[resigned] Because technically she never crossed the threshold for mandatory intervention since she kept marking the self-harm question as 'never,' even though every other metric screamed crisis."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] I've been documenting everything I found in those files, the patterns, the ignored warning signs, the emails where she begged for deadline extensions. Would that be enough to change things?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] You could destroy your mother's career legacy if you go public with this, but honestly? [sighs] Maybe that's what it takes to save the next person."
+        },
+        {
+            "role": "Character 2",
+            "content": "[determined] Her legacy isn't worth more than someone else's life, and she'd be the first to say that if she could speak right now instead of being sedated in the psychiatric ward."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] You sound just like her when she first started here, before the system wore her down. She wanted to change things too."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] That's what scares me most, that she started out believing she could make a difference and ended up becoming another casualty of the same system she tried to improve."
+        },
+        {
+            "role": "Character 1",
+            "content": "[slowly] If you're serious about using those documents, I have ten years of wellness reports showing the pattern isn't just your mother. [pause] But we'd both be risking everything."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] Everything already feels pretty broken from where I'm sitting, watching her machines breathe for her while the company sends fruit baskets and get-well cards."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] Meet me tomorrow after visiting hours at the coffee shop on Fifth Street, and bring everything you've downloaded. [sighs] Maybe two people who've lost faith in the system can still find a way to fix it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] I'll be there at eight, and for what it's worth, thank you for trying to help her even when the system wouldn't let you. At least someone noticed she was drowning."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "aedafe94_scenario.json",
+    "actor": 5,
+    "scenario": "An employee wellness coordinator meets with an honor student whose parent (a company executive) recently attempted suicide due to work stress, after discovering the student has been accessing company systems to understand what happened.",
+    "type": "scenario_conversation",
+    "character_1_role": "employee wellness coordinator",
+    "character_2_role": "honor student",
+    "selected_tones": [
+        "resigned",
+        "focused",
+        "uncertain"
+    ]
+}

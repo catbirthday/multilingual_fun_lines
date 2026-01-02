@@ -1,0 +1,93 @@
+=== Source: 83d3bfa8_script.json ===
+Language: German
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: pharmacy assistant, frustrated that she understands the insurance system but can't fix her own claim
+
+=== Translated Dialogue ===
+
+Customer [pure]: Guten Morgen. Ich rufe wegen dem Ablehnungscode PA-107 bei meinem Rezept an. Ich arbeite in der Apotheke, also weiß ich, dass das eigentlich keine Vorabgenehmigung braucht.
+
+Customer Support [pure]: Guten Morgen und vielen Dank für Ihren Anruf bei MedChoice Versicherung. Schön, dass Sie mir das gleich mitteilen. Ähm, lassen Sie mich mal Ihr Konto aufrufen mit der Mitgliedsnummer, die auf 8924 endet, dann schaue ich mir die genauen Ablehnungsdetails an.
+
+Customer [pure]: Das Medikament ist Metformin retard, also das Generikum, und das ist ja auf Ihrer Preferred-Liste. Ich hab schon hunderte von diesen Anträgen bearbeitet, ohne Probleme.
+
+Customer Support [pure]: Ich sehe hier den Antrag vom 12. November von der Walgreens-Filiale 4827 in der Michigan Avenue. Sie haben vollkommen recht, dass Metformin ER 500mg auf unserer Preferred-Liste steht, ohne Vorabgenehmigung.
+
+Customer [pure]: Genau. Also, ich bin wirklich ratlos, warum mein Antrag abgelehnt wurde, wo ich mich doch wirklich auskenne mit dem System.
+
+Customer Support [pure]: Ich kann Ihre Frustration total verstehen, gerade bei Ihrer fachlichen Expertise. Also, das System zeigt hier eine fehlerhafte NDC-Zuordnung für die Charge RX-2847-QM, die hat Anträge betroffen, die zwischen dem 10. und 13. November bearbeitet wurden.
+
+Customer [pure]: Ach so, das macht Sinn. Ich hab mir schon gedacht, dass es ein Systemfehler ist und kein Problem mit der Abdeckung. Wann wird das denn behoben?
+
+Customer Support [pure]: Natürlich.
+
+Customer [pure]: Und muss die Apotheke das nochmal einreichen, oder können Sie das direkt bei sich neu bearbeiten?
+
+Customer Support [pure]: Ich kann das direkt aus unserem System neu bearbeiten mit dem Override-Code OVR-4521-XK. Der korrigierte Antrag zeigt dann eine Zuzahlung von 12,00 Dollar, und die 47,50 Dollar, die Sie aus eigener Tasche bezahlt haben, werden wir Ihnen gutschreiben.
+
+Customer [pure]: Perfekt. Das ist genau die Zuzahlung, die ich erwartet hatte. Wann erscheint denn die Gutschrift auf meinem Konto?
+
+Customer Support [pure]: Die Gutschrift wird innerhalb von 24 Stunden bearbeitet und erscheint als Transaktions-ID TRX-98234-MED auf Ihrer nächsten Abrechnung vom 1. Dezember. Ich vermerke auch in Ihrem Konto, dass ähnliche Probleme automatisch neu bearbeitet werden sollen.
+
+Customer [pure]: Das ist ja ein proaktiver Ansatz, sehr gut. Können Sie mir noch die Referenznummer für diesen Anruf bestätigen?
+
+Customer Support [pure]: Selbstverständlich.
+
+Customer [pure]: Danke. Noch eine Sache – gilt diese Korrektur auch für andere Mitglieder, die dasselbe Problem hatten?
+
+Customer Support [pure]: Ja, wir haben insgesamt 847 betroffene Anträge identifiziert und eine systemweite Korrektur eingeleitet unter dem Bulletin MED-2024-1193. Alle betroffenen Mitglieder bekommen bis zum 20. November einen Benachrichtigungsbrief mit den angepassten Beträgen.
+
+Customer [pure]: Ausgezeichnet. Genau so eine systematische Lösung hatte ich mir erhofft.
+
+Customer Support [pure]: Ich schätze Ihr Verständnis und Ihre Geduld bei diesem Problem sehr. Gibt es noch etwas anderes, wobei ich Ihnen heute helfen kann bezüglich Ihrer Rezeptleistungen oder dem Antrag zur Kontonummer 5589-2247-8924?
+
+Customer [pure]: Nein, Sie haben alles sehr gründlich geklärt. Vielen Dank für die effiziente Lösung und die klaren Erklärungen.
+
+Customer Support [pure]: Sehr gerne. Vielen Dank, dass Sie Ihre fachliche Einsicht zu diesem Problem beigetragen haben. Ihre Referenznummer SR-7829-QXM wurde an die E-Mail-Adresse geschickt, die wir gespeichert haben. Ich wünsche Ihnen noch einen schönen Tag.
+
+
+=== Original (English) ===
+
+Customer: Good morning. I'm calling about claim rejection code PA-107 on my prescription. I work in pharmacy, so I know this shouldn't require prior authorization.
+
+Customer Support: Good morning, and thank you for calling MedChoice Insurance. I appreciate you providing that context. Let me pull up your account using your member ID ending in 8924 to review the specific rejection details.
+
+Customer: The medication is generic metformin extended release, which is on your preferred formulary. I've processed hundreds of these claims without issues.
+
+Customer Support: I see the claim here from November 12th at Walgreens location 4827 on Michigan Avenue. You're absolutely right that metformin ER 500mg is on our preferred list without prior authorization requirements.
+
+Customer: Exactly. So I'm genuinely puzzled why my claim was rejected when I know the system inside and out.
+
+Customer Support: I completely understand your frustration, especially given your professional expertise. The system shows an incorrect NDC mapping for batch RX-2847-QM that affected claims processed between November 10th and 13th.
+
+Customer: That makes sense. I suspected a system error rather than a coverage issue. What's the resolution timeline?
+
+Customer Support: Certainly.
+
+Customer: And will this require resubmission from the pharmacy, or can you reprocess it on your end?
+
+Customer Support: I can reprocess this directly from our system using override code OVR-4521-XK. The corrected claim will show a patient responsibility of $12.00, and we'll credit the $47.50 you paid out of pocket.
+
+Customer: Perfect. That's the copay I expected. When will the credit appear on my account?
+
+Customer Support: The credit will process within 24 hours and appear as transaction ID TRX-98234-MED on your next statement dated December 1st. I'm also noting your account for automatic reprocessing of any similar issues.
+
+Customer: I appreciate that proactive approach. Can you confirm the reference number for this call?
+
+Customer Support: Of course.
+
+Customer: Thank you. One more thing - will this correction apply to other members who had the same issue?
+
+Customer Support: Yes, we've identified 847 affected claims in total and initiated a system-wide correction under bulletin MED-2024-1193. All impacted members will receive notification letters by November 20th with their adjusted amounts.
+
+Customer: Excellent. That's the kind of systematic resolution I was hoping to hear about.
+
+Customer Support: I appreciate your understanding and patience with this issue. Is there anything else I can help you with today regarding your prescription benefits or the claim at account number 5589-2247-8924?
+
+Customer: No, you've addressed everything thoroughly. Thank you for the efficient resolution and clear explanations.
+
+Customer Support: You're very welcome. Thank you for bringing your professional insight to this issue. Your reference number SR-7829-QXM has been emailed to the address we have on file. Have an excellent day.
+

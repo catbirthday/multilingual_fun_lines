@@ -1,0 +1,93 @@
+=== Source: 2956d713_script.json ===
+Language: European Portuguese
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: embarrassed to admit they don't understand technology very well
+
+=== Translated Dialogue ===
+
+Customer [pure]: Estou com problemas para aceder à minha conta online. O sistema de segurança novo não está a aceitar as minhas credenciais.
+
+Customer Support [pure]: Obrigado por ter ligado. Terei todo o gosto em ajudá-lo a aceder à sua conta. Pode dizer-me em que passo do processo de autenticação é que está a ter dificuldades?
+
+Customer [pure]: Depois de meter a password, pede-me uma coisa chamada autenticação de dois fatores. Não sei bem o que é que isso significa.
+
+Customer Support [pure]: Compreendo perfeitamente. A autenticação de dois fatores é a nossa funcionalidade de segurança reforçada que envia um código de verificação para o seu dispositivo registado. A sua conta mostra um número de telemóvel que termina em 7234. Consegue receber mensagens de texto aí?
+
+Customer [pure]: Sim, consigo receber SMS. Mas nunca vejo nenhum código chegar quando tento fazer login.
+
+Customer Support [pure]: Deixe-me verificar as suas definições de segurança. Estou a ver que a sua conta número ACC-8847-NM2 tem a autenticação de dois fatores ativa, mas parece que a entrega de SMS está bloqueada. Vou já reiniciar essa configuração.
+
+Customer [pure]: Agradeço. Esta transição toda para o digital tem sido, pronto... mais complicada do que eu esperava.
+
+Customer Support [pure]: Não é de certeza o único a sentir-se assim. Muitos dos nossos clientes acham as novas medidas de segurança desafiantes no início. Já reiniciei o seu método de autenticação, e gostaria de o acompanhar pelo processo passo a passo, se tiver uns minutinhos.
+
+Customer [pure]: Era uma grande ajuda. Tenho o computador aberto agora mesmo, se pudermos tentar juntos.
+
+Customer Support [pure]: Perfeito. Por favor, vá até à nossa página de login e introduza o seu nome de utilizador. Assim que tiver feito isso, vou guiá-lo por cada ecrã seguinte para garantir que tudo funciona bem desta vez.
+
+Customer [pure]: Já meti o nome de utilizador e a password. Agora está a mostrar aquele ecrã de autenticação outra vez.
+
+Customer Support [pure]: Excelente. Deverá receber uma mensagem de texto nos próximos trinta segundos com o código de verificação VER-7821-XX. Quando a receber, basta introduzir esses seis dígitos no campo que tem no ecrã.
+
+Customer [pure]: Acabei de receber a mensagem. Devo incluir as letras ou só os números?
+
+Customer Support [pure]: Só os seis números, por favor.
+
+Customer [pure]: Funcionou! Já estou dentro da minha conta. Obrigado pela paciência.
+
+Customer Support [pure]: Maravilha! Fico contente por termos resolvido isso. Para referência futura, vou adicionar uma nota à sua conta com o número de referência REF-20240115-9843 a documentar estas preferências de autenticação. Isto vai ajudar a nossa equipa a assisti-lo mais eficientemente se precisar de apoio novamente.
+
+Customer [pure]: É muito atencioso da vossa parte. Há alguma maneira mais simples de fazer login que mantenha a segurança?
+
+Customer Support [pure]: Sem dúvida. Posso ativar a autenticação biométrica para a aplicação móvel, o que lhe permitiria entrar usando a sua impressão digital ou reconhecimento facial. O seu modelo de dispositivo iPhone 13 suporta ambas as opções. Quer que ative essa funcionalidade?
+
+Customer [pure]: Sim, isso parece-me bem mais direto. Por favor, configure isso.
+
+Customer Support [pure]: Já ativei o login biométrico para a sua conta. Faça o download da nossa aplicação móvel usando o código APP-SECURE-4429, e quando fizer login pela primeira vez, vai pedir-lhe para configurar a sua impressão digital ou o Face ID. Depois disso, só vai precisar de usar a biometria para aceder à sua conta.
+
+
+=== Original (English) ===
+
+Customer: I'm having trouble accessing my account online. The new security system isn't accepting my credentials.
+
+Customer Support: Thank you for calling. I'd be happy to help you access your account. Can you tell me which step in the authentication process is giving you difficulty?
+
+Customer: After entering my password, it asks for something called two-factor authentication. I'm not sure what that means.
+
+Customer Support: I understand completely. Two-factor authentication is our enhanced security feature that sends a verification code to your registered device. Your account shows mobile number ending in 7234. Are you able to receive text messages there?
+
+Customer: Yes, I can receive texts. But I never see any code arrive when I try to log in.
+
+Customer Support: Let me check your security settings. I can see your account number ACC-8847-NM2 has two-factor enabled, but the SMS delivery appears to be blocked. I'll reset that configuration for you right now.
+
+Customer: I appreciate that. This whole digital transition has been more complicated than I expected.
+
+Customer Support: You're certainly not alone in feeling that way. Many of our clients find the new security measures challenging at first. I've reset your authentication method, and I'd like to walk you through the process step by step if you have a few minutes.
+
+Customer: That would be helpful. I have my computer open right now if we can try it together.
+
+Customer Support: Perfect. Please navigate to our login page and enter your username. Once you've done that, I'll guide you through each subsequent screen to ensure everything works properly this time.
+
+Customer: I've entered my username and password. Now it's showing that authentication screen again.
+
+Customer Support: Excellent. You should receive a text message within the next thirty seconds with verification code VER-7821-XX. When you receive it, simply enter those six digits in the field on your screen.
+
+Customer: I just got the text. Should I include the letters or just the numbers?
+
+Customer Support: Just the six numbers please.
+
+Customer: It worked. I'm in my account now. Thank you for your patience with this.
+
+Customer Support: Wonderful! I'm glad we got that resolved. For future reference, I'm adding a note to your account with reference number REF-20240115-9843 documenting these authentication preferences. This will help our team assist you more efficiently if you need support again.
+
+Customer: That's very thoughtful. Is there a simpler way to log in that still maintains security?
+
+Customer Support: Absolutely. I can enable biometric authentication for your mobile app, which would allow you to log in using your fingerprint or face recognition. Your device model iPhone 13 supports both options. Would you like me to activate that feature?
+
+Customer: Yes, that sounds much more straightforward. Please set that up for me.
+
+Customer Support: I've enabled biometric login for your account. Download our mobile app using app code APP-SECURE-4429, and when you first log in, it will prompt you to set up your fingerprint or Face ID. After that, you'll only need to use your biometric to access your account.
+

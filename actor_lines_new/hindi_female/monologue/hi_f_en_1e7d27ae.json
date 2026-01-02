@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[exhausted] Oh my God, wait wait wait. [pause] This is... hmm, let me read this again. [excited] Holy shit, this is it! [very quickly] Jenkins versus Memorial Hospital, 2019, almost the exact same circumstances—denied coverage, pre-existing condition clause, everything. [laughs] I can't believe I actually found it. [shaky voice] Four months of searching through medical malpractice cases and it was filed under insurance bad faith the whole time. [passionately] The judge ruled that when a child's life is at stake, the insurance company can't just hide behind technicalities. [pause] They won. [very quietly] They actually won. [crying while speaking] God, the Martinez family, they've been through so much already, and their little girl... she's only seven. [sniffle] This is going to change everything for them. [relieved] I mean, we still have to present it right, but this precedent, it's... it's literally identical to their situation. [excited] The insurance company used the same exact language in their denial letter! [emotional] I need to call David right now, he's not going to believe this. [laughs] Actually, wait, I should probably, um... I should double-check the appeals court first, make sure it wasn't overturned. [confidently] But no, this is solid. [extremely happy] We're going to win this. [whispered] We're actually going to win this for them."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[exhausted] Oh my God, wait wait wait. [pause] This is... hmm, let me read this again. [excited] Holy shit, this is it! [very quickly] Jenkins versus Memorial Hospital, 2019, almost the exact same circumstances—denied coverage, pre-existing condition clause, everything. [laughs] I can't believe I actually found it. [shaky voice] Four months of searching through medical malpractice cases and it was filed under insurance bad faith the whole time. [passionately] The judge ruled that when a child's life is at stake, the insurance company can't just hide behind technicalities. [pause] They won. [very quietly] They actually won. [crying while speaking] God, the Martinez family, they've been through so much already, and their little girl... she's only seven. [sniffle] This is going to change everything for them. [relieved] I mean, we still have to present it right, but this precedent, it's... it's literally identical to their situation. [excited] The insurance company used the same exact language in their denial letter! [emotional] I need to call David right now, he's not going to believe this. [laughs] Actually, wait, I should probably, um... I should double-check the appeals court first, make sure it wasn't overturned. [confidently] But no, this is solid. [extremely happy] We're going to win this. [whispered] We're actually going to win this for them."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "1e7d27ae_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your paralegal research finding the precedent that won an impossible case for a deserving family",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

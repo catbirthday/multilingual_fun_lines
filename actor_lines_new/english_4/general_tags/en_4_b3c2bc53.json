@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[trembling] I need to tell you something about the Cessna in bay three, the one you've been working on all week—something happened during my solo practice yesterday."
+        },
+        {
+            "role": "Character 2",
+            "content": "That plane's scheduled for a charter flight tomorrow morning with six passengers aboard, so whatever you're about to say better not involve damage. [sharp inhale]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[barely breathing] I took it up without clearance when you were at lunch, just wanted to log some extra hours, but I heard this grinding noise during descent."
+        },
+        {
+            "role": "Character 2",
+            "content": "[dangerously quiet] You flew my plane without authorization? The one I just spent forty hours rebuilding the hydraulic system on?"
+        },
+        {
+            "role": "Character 1",
+            "content": "I know, I know."
+        },
+        {
+            "role": "Character 2",
+            "content": "No, you don't know—that grinding could be metal shavings in the hydraulics, could be stress fractures, could be a dozen things that kill people. [voice rising]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperate] That's why I'm here, telling you now instead of letting you find out during pre-flight, because I couldn't live with myself if something happened to those passengers."
+        },
+        {
+            "role": "Character 2",
+            "content": "You couldn't live with yourself? [bitter laugh] Six people could die because you wanted to play pilot, and you're worried about your conscience?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Please, just let me help you inspect it, let me pay for whatever needs fixing—I'll work here for free, anything, just [exhales] don't let that plane fly tomorrow."
+        },
+        {
+            "role": "Character 2",
+            "content": "[coldly methodical] Get me the maintenance log from the office, then we're pulling every single panel off that aircraft tonight."
+        },
+        {
+            "role": "Character 1",
+            "content": "You're not calling the FAA?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Not yet—depends what we find in that engine compartment and whether you're telling me everything about what happened up there. [pause] Was there smoke?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[quickly] No smoke, no visible damage, just that sound on descent, like metal on metal, lasted maybe ten seconds then stopped completely when I leveled out."
+        },
+        {
+            "role": "Character 2",
+            "content": "That's classic bearing failure in the elevator trim system, which means we're looking at a complete tail section inspection. [grimly] This is a twelve-hour job minimum."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperate whisper] I'll stay all night, I'll do whatever you need, I just couldn't let those people get on that plane without saying something."
+        },
+        {
+            "role": "Character 2",
+            "content": "Grab the inspection lights from storage and pray we find the problem before dawn, because if we don't, [exhales heavily] your pilot's license is the least of your worries."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hollow] I know exactly what I've risked here—their lives, your reputation, everything—but keeping quiet would have been murder, wouldn't it?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Murder requires intent; what you did was criminally stupid, but at least you came forward. [softer] Now stop talking and start working—we have six lives to save."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky exhale] Thank you for not just walking away or calling security—I know you have every right to destroy me over this."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] I'm not doing this for you—I'm doing it for the family that chartered that flight, but after tonight, you never come near my hangar again. Understood?"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "b3c2bc53_scenario.json",
+    "actor": 4,
+    "scenario": "A pilot trainee confesses to an aircraft mechanic that they took an unauthorized flight in a plane scheduled for passengers the next day and heard concerning mechanical noises.",
+    "type": "scenario_conversation",
+    "character_1_role": "guilty",
+    "character_2_role": "aircraft mechanic",
+    "selected_tones": [
+        "chilling",
+        "focused",
+        "passionate"
+    ]
+}

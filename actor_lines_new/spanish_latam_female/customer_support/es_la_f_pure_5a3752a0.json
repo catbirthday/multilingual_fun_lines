@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Mira, yo pedí—no espera, o sea específicamente pedí el azul, no esto que sea lo que sea."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ay no, bueno bueno, déjame... déjame revisar tu pedido ahorita mismo. Número de cuenta 4782-B, y veo que lo hiciste el 23 de enero, el ID del pedido es ORD-9924-XL7, y tienes toda la razón, aquí dice el modelo azul marino."
+        },
+        {
+            "role": "Customer",
+            "content": "Exacto. Entonces ¿por qué tengo esta, eh, esta cosa roja aquí?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ay perdóname perdóname por la confusión. Lo que pasó fue... mm, déjame ver las notas del almacén... okay parece que el centro de distribución FC-04 tuvo un error de inventario el lunes en la mañana como a las 8:47 AM, y ellos— ay no, perdón, esa no es— déjame ver la pantalla correcta."
+        },
+        {
+            "role": "Customer",
+            "content": "Esto ya es medio ridículo. O sea, ¿qué tan difícil es azul versus rojo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No, tienes razón, tienes toda la razón. Esto no debería pasar. Así que mira lo que voy a hacer por ti, ¿va? Te voy a mandar rapidísimo el reemplazo, el azul marino correcto, el número de rastreo va a ser TRK-8827-QM92, y te va a llegar para— de hecho no, mejor aún, te lo voy a mandar con entrega al día siguiente."
+        },
+        {
+            "role": "Customer",
+            "content": "Ah. Pues eso... híjole, okay eso sí ayuda."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Qué bueno qué bueno! Y también... ¿sabes qué? quédate con el rojo. No lo tienes que regresar. Considéralo nuestra disculpa. El sistema dice que vale $47.99 pero la neta, después de esta molestia..."
+        },
+        {
+            "role": "Customer",
+            "content": "¿En serio? ¿Puedo solo—o sea, no tengo que mandarlo de vuelta?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡No! Todo tuyo. Además te voy a agregar un código de 25% de descuento, es SAVE25-FEB, vence el 31 de marzo, para tu próxima compra porque, este, francamente esto no debería— deberíamos haberlo hecho bien desde el principio, y quiero asegurarme completamente de que quedes bien atendida."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso sí está súper generoso. Eh, ¿cuándo exactamente va a llegar el correcto?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Mañana! Antes de las 8 PM garantizado. El rastreo muestra... déjame actualizar... sí, va a salir del almacén WH-7 en como, mmm, ¿dos horas? Tres máximo. Y le estoy poniendo una bandera de prioridad P1 a tu cuenta así que si algo sale mal— que no va a pasar, pero si pasa..."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Sabes qué? Te agradezco—no, de verdad te agradezco mucho que arregles esto tan rápido."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Ay claro que sí! Para eso estoy aquí. De hecho de hecho, espérame tantito... también veo que has sido clienta desde 2019, la cuenta muestra 47 pedidos en total, así que voy a— sí, te acabo de subir a estatus Premier."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Premier? ¿Ese es el que—espera, eso no cuesta normalmente algo?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Normalmente $79 al año pero... no para ti. No después de hoy. Envío gratis en todo, línea prioritaria de servicio al cliente 888-PREMIER, y ofertas exclusivas todos los martes empezando el 6 de febrero."
+        },
+        {
+            "role": "Customer",
+            "content": "Órale, okay esto salió muchísimo mejor de lo que esperaba. ¿Sabes a quién debo, eh, mencionar si quiero dejar comentarios positivos?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ay qué— qué linda. Mi ID de empleada es REP-3847-K. Pero la neta la neta, yo solo... quería asegurarme de que estés completamente feliz, ¿sabes? Nadie debería estresarse por pedidos equivocados."
+        },
+        {
+            "role": "Customer",
+            "content": "Pues definitivamente lo lograste. Gracias, este, en serio, muchísimas gracias."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡Es un placer! Tu azul sale en 90 minutos, te va a llegar un email con el rastreo TRK-8827-QM92, y oye— ¡disfruta los dos artículos! Que tengas un día padrísimo, ¿va?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I ordered—no wait, I mean I specifically ordered the blue one, not whatever this is."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, okay okay, let me... let me pull up your order right away. Account number 4782-B, and I see you placed this on January 23rd, order ID is ORD-9924-XL7, and you're absolutely right, it shows the navy blue model here."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah exactly. So why do I have this, uh, this red thing sitting here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm so so sorry about that mix-up. What happened was... hmm, let me check the warehouse notes... okay looks like fulfillment center FC-04 had an inventory error on Monday morning around 8:47 AM, and they— wait no, sorry, that's not— let me look at the right screen."
+        },
+        {
+            "role": "Customer",
+            "content": "This is actually kind of ridiculous. I mean, how hard is blue versus red?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No you're right, you're totally right. This shouldn't happen. So here's what I'm gonna do for you, alright? I'm expediting a replacement, the correct navy blue one, tracking number will be TRK-8827-QM92, and it'll arrive by— actually no, even better, I'm upgrading you to next-day delivery."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Well, that's... huh, okay that actually helps."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good good! And also... you know what, keep the red one. No need to return it. Consider it our apology. The system shows it's worth $47.99 but honestly, after this hassle..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? I can just—I mean, I don't have to send it back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nope! All yours. Plus I'm adding a 25% discount code, it's SAVE25-FEB, expires March 31st, for your next purchase because, er, frankly this shouldn't— we should've gotten it right the first time, and I want to make absolutely sure you're taken care of."
+        },
+        {
+            "role": "Customer",
+            "content": "That's actually really generous. Um, when exactly will the right one arrive?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tomorrow! Before 8 PM guaranteed. Tracking shows... let me refresh... yep, it'll ship from warehouse WH-7 in about, mmm, two hours? Three tops. And I'm putting a priority flag P1 on your account so if anything goes wrong— which it won't, but if it does..."
+        },
+        {
+            "role": "Customer",
+            "content": "You know what, I appreciate—no actually, I really appreciate you fixing this so quickly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, of course! That's what I'm here for. Actually actually, hold on one sec... I'm also seeing you've been a customer since 2019, account shows 47 orders total, so I'm gonna— yep, just upgraded you to Premier status."
+        },
+        {
+            "role": "Customer",
+            "content": "Premier? Is that the one with—wait, doesn't that usually cost something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Usually $79 a year but... not for you. Not after today. Free shipping on everything, priority customer service line 888-PREMIER, and exclusive deals every Tuesday starting February 6th."
+        },
+        {
+            "role": "Customer",
+            "content": "Wow, okay this went way better than expected. Do you know who I should, uh, mention if I want to leave positive feedback?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aww that's— that's so sweet! My employee ID is REP-3847-K. But honestly honestly, I just... I wanted to make sure you're completely happy, you know? Nobody should stress about wrong orders."
+        },
+        {
+            "role": "Customer",
+            "content": "Well you definitely succeeded. Thanks, er, seriously, thank you so much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "My pleasure! Your blue one ships in 90 minutes, you'll get an email with tracking TRK-8827-QM92, and hey— enjoy both items! Have a wonderful rest of your day, alright?"
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "5a3752a0_script.json",
+    "professionalism": "casual",
+    "scenario": "received the wrong item in their order",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "warming_up",
+                "demanding_entitled"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off",
+                    "self_corrections",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

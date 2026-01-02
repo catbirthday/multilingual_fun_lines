@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "Fundamentally flawed. [bitter] That's what she called it. Three years. [pause] Three years of my life poured into this case, and she dismantles it in what, forty-five minutes? [angry] Every single witness I tracked down, every document I verified, every late night connecting dots that nobody else would even look at— [frustrated] and she sits there with that smug little expression and calls it fundamentally flawed. [sarcastic] Oh, I'm sorry, did I miss something in law school about how to properly waste three years of my career? [furious] Because apparently I'm really good at it! [pause] [quietly] The worst part is now I'm sitting here wondering if she's right. [anxious] What if I did miss something obvious? What if I was so deep in it that I couldn't see the— [angry] No. No, that's exactly what she wants me to think. [passionately] I know that evidence was solid. I checked it, the team checked it, we had outside consultants verify everything twice. [very slowly] She's playing politics here. [bitter] Has to be. Judge Henderson needs a win after that disaster last month, and overturning my case makes her look, what's the word... discerning? [sarcastic] Thorough? [shouting] God, I could scream! [exhausted] I just... I need to figure out if I can appeal this or if everything's just gone."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "Fundamentally flawed. [bitter] That's what she called it. Three years. [pause] Three years of my life poured into this case, and she dismantles it in what, forty-five minutes? [angry] Every single witness I tracked down, every document I verified, every late night connecting dots that nobody else would even look at— [frustrated] and she sits there with that smug little expression and calls it fundamentally flawed. [sarcastic] Oh, I'm sorry, did I miss something in law school about how to properly waste three years of my career? [furious] Because apparently I'm really good at it! [pause] [quietly] The worst part is now I'm sitting here wondering if she's right. [anxious] What if I did miss something obvious? What if I was so deep in it that I couldn't see the— [angry] No. No, that's exactly what she wants me to think. [passionately] I know that evidence was solid. I checked it, the team checked it, we had outside consultants verify everything twice. [very slowly] She's playing politics here. [bitter] Has to be. Judge Henderson needs a win after that disaster last month, and overturning my case makes her look, what's the word... discerning? [sarcastic] Thorough? [shouting] God, I could scream! [exhausted] I just... I need to figure out if I can appeal this or if everything's just gone."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "36deb682_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your judge colleague just overturned the conviction you spent three years building, calling your evidence \"fundamentally flawed\"",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": false
+    }
+}

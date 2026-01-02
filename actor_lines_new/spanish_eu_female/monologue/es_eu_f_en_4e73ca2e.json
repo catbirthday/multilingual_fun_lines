@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] Wait, that can't be right. [quickly] Let me refresh this page because I must be— no, it still says the same thing. [upset] They gave my sound mixing credit to Derek? [laugh] Derek wasn't even there! [frustrated] He was literally in Cabo that entire week posting beach selfies while I was pulling sixteen-hour days in that freezing warehouse. [angry] Are you kidding me right now? [pause] I recorded every single take, I dealt with the generator noise, I fixed the lav mics when they kept cutting out— [very loudly] I was the only sound person there! [shaky voice] Three weeks of work, and they just... erased me. [bitter] And of course it's Derek, who's golf buddies with the producer. [sarcastic] How convenient. [quietly] God, I feel so stupid for not getting it in writing. [frustrated] But you don't expect to have to, um, defend credits for work you actually did. [angry] I have the call sheets! [passionate] I have photos from set! [exhausted] I even have the original sound files with my metadata on them. [pause] Should I say something? [anxious] I mean, this could burn bridges, but this is my work. [determined] This is my actual career they're messing with. [sigh] I can't just let this go."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] Wait, that can't be right. [quickly] Let me refresh this page because I must be— no, it still says the same thing. [upset] They gave my sound mixing credit to Derek? [laugh] Derek wasn't even there! [frustrated] He was literally in Cabo that entire week posting beach selfies while I was pulling sixteen-hour days in that freezing warehouse. [angry] Are you kidding me right now? [pause] I recorded every single take, I dealt with the generator noise, I fixed the lav mics when they kept cutting out— [very loudly] I was the only sound person there! [shaky voice] Three weeks of work, and they just... erased me. [bitter] And of course it's Derek, who's golf buddies with the producer. [sarcastic] How convenient. [quietly] God, I feel so stupid for not getting it in writing. [frustrated] But you don't expect to have to, um, defend credits for work you actually did. [angry] I have the call sheets! [passionate] I have photos from set! [exhausted] I even have the original sound files with my metadata on them. [pause] Should I say something? [anxious] I mean, this could burn bridges, but this is my work. [determined] This is my actual career they're messing with. [sigh] I can't just let this go."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "4e73ca2e_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Discovering your production sound mixer work is being credited to someone who wasn't even there",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

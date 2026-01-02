@@ -1,0 +1,194 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "तो advisory board member के तौर पे, enzyme research के नए grant proposal के बारे में तुम्हारी क्या राय है?"
+        },
+        {
+            "role": "Character 2",
+            "content": "अरे, वैसे honestly कहूं तो यह... यह promising तो है लेकिन कुछ real concerns हैं, अम्म, methodology को लेकर जो वो kinetic assays के लिए propose कर रहे हैं। वो बहुत पुराने buffer systems use कर रहे हैं जो results को काफी गड़बड़ कर सकते हैं, पता है ना?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Buffers के बारे में specifically क्या चिंता है तुम्हें?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[राहत से] अच्छा, बढ़िया, सही सवाल पूछ रही हो। तो basically वो phosphate buffers use कर रहे हैं ऐसे pH ranges पे जहाँ, अ, ionic strength बहुत fluctuate करता है, जिससे assays के दौरान enzyme की conformational stability पे असर पड़ सकता है।"
+        },
+        {
+            "role": "Character 1",
+            "content": "क्या इससे पूरी study ही invalidate हो सकती है?"
+        },
+        {
+            "role": "Character 2",
+            "content": "हम्म, invalidate exactly नहीं, पर इतनी variability आ सकती है कि, अम्म, reproducibility ही questionable हो जाए। और सच कहूं तो, तीन million dollar के grant के लिए, हम इस तरह की uncertainty afford ही नहीं कर सकते, है ना?"
+        },
+        {
+            "role": "Character 1",
+            "content": "तीन million? मुझे लगा था दो है।"
+        },
+        {
+            "role": "Character 2",
+            "content": "अरे नहीं नहीं, यह तो, अ, definitely तीन है overhead costs के साथ। इसीलिए मैं इतनी... इतनी बारीकी से experimental design को देख रही हूँ—इस funding level पे हमें एकदम पक्के protocols चाहिए।"
+        },
+        {
+            "role": "Character 1",
+            "content": "तुमने PI से इस बारे में बात की है क्या?"
+        },
+        {
+            "role": "Character 2",
+            "content": "हाँ, actually कल Dr. Chen से, अम्म, काफी तनावपूर्ण बातचीत हुई थी इस बारे में। वो brilliant हैं लेकिन कभी-कभी innovation पे इतना focus करती हैं कि ये fundamental issues को थोड़ा नज़रअंदाज़ कर देती हैं।"
+        },
+        {
+            "role": "Character 1",
+            "content": "उन्होंने तुम्हारा feedback कैसे लिया?"
+        },
+        {
+            "role": "Character 2",
+            "content": "अरे यार, शुरू में तो बिल्कुल अच्छे से नहीं। लेकिन जब मैंने similar enzyme systems में buffer-induced artifacts का literature दिखाया, तो वो, अ, approach revise करने को मानने लगीं।"
+        },
+        {
+            "role": "Character 1",
+            "content": "Timeline का क्या? क्या changes से सब कुछ delay हो जाएगा?"
+        },
+        {
+            "role": "Character 2",
+            "content": "यही तो मुश्किल बात है—हम पहले से ही, जैसे, दो महीने पीछे हैं और नए validation experiments add करने से कम से कम एक महीना और लग जाएगा। पर सच कहूं तो, जल्दबाज़ी में गलत करने से बेहतर है सही तरीके से करना, समझी ना?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[उदास] मैंने सुना Stanford की competing lab ने कुछ similar publish कर दिया है।"
+        },
+        {
+            "role": "Character 2",
+            "content": "अ, हाँ... हाँ, मैंने वो paper देखा। पर actually, अम्म, उनका approach बिल्कुल अलग है—वो crystallography use कर रहे हैं जबकि हम solution-state dynamics पे focus कर रहे हैं, तो अभी भी हमारे पास पूरा chance है।"
+        },
+        {
+            "role": "Character 1",
+            "content": "यह कुछ तसल्ली की बात है। तो अब next step क्या है?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[हंसना] अरे, पहले तो मुझे, अ, बाकी board को convince करना होगा कि proper controls पे extra पचास हज़ार खर्च करना actually सौदा है! पर seriously, हमें proposal के section तीन से पाँच तक rewrite करने होंगे।"
+        },
+        {
+            "role": "Character 1",
+            "content": "तुम्हें लगता है board revised budget approve करेगा?"
+        },
+        {
+            "role": "Character 2",
+            "content": "हम्म, मुझे लगता है हाँ। जब वो improved protocols के साथ preliminary data देखेंगे, तो फिर, अम्म, इसके against argue करना मुश्किल होगा—results इस तरीके से बहुत ज़्यादा clean और compelling आ रहे हैं।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "So as an advisory board member, what's your take on the new grant proposal for the enzyme research?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh, well, honestly I think it's... it's promising but there are some real concerns about the, um, methodology they're proposing for the kinetic assays. They're using outdated buffer systems that could really skew the results, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "What specifically worries you about the buffers?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Ah, good, you're asking the right questions. So basically they're using phosphate buffers at pH ranges where, uh, the ionic strength fluctuates too much, which could affect the enzyme's conformational stability during the assays."
+        },
+        {
+            "role": "Character 1",
+            "content": "Could that invalidate the whole study?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Mmm, not invalidate exactly, but it could introduce enough variability that the, um, the reproducibility becomes questionable. And honestly, for a three-million-dollar grant, we really can't afford that kind of uncertainty, right?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Three million? I thought it was two."
+        },
+        {
+            "role": "Character 2",
+            "content": "No no, it's, uh, it's definitely three with the overhead costs factored in. Which is why I'm being so... so nitpicky about the experimental design—we need bulletproof protocols at that funding level."
+        },
+        {
+            "role": "Character 1",
+            "content": "Have you brought this up with the PI yet?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, I actually had a, um, pretty tense conversation with Dr. Chen yesterday about it. She's brilliant but sometimes she gets so focused on the innovation that she kind of overlooks these fundamental issues."
+        },
+        {
+            "role": "Character 1",
+            "content": "How did she take your feedback?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh geez, not well initially. But after I showed her the literature on buffer-induced artifacts in similar enzyme systems, she started to, uh, come around to revising the approach."
+        },
+        {
+            "role": "Character 1",
+            "content": "What about the timeline? Will changes delay everything?"
+        },
+        {
+            "role": "Character 2",
+            "content": "That's the tricky part—we're already, like, two months behind schedule and adding new validation experiments would push us back another month at least. But honestly, better to do it right than rush and fail, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[sad] I heard the competing lab at Stanford just published something similar."
+        },
+        {
+            "role": "Character 2",
+            "content": "Ah, yeah... yeah, I saw that paper. But actually, um, their approach is totally different—they're using crystallography while we're focused on solution-state dynamics, so we're still very much in the game here."
+        },
+        {
+            "role": "Character 1",
+            "content": "That's somewhat reassuring. What's the next step then?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[laugh] Well, first I need to, uh, convince the rest of the board that spending an extra fifty thousand on proper controls is actually a bargain! But seriously, we need to rewrite sections three through five of the proposal."
+        },
+        {
+            "role": "Character 1",
+            "content": "Do you think the board will approve the revised budget?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Hmm, I think so, yeah. Once they see the preliminary data with the improved protocols, it'll be, um, it'll be hard to argue against it—the results are just so much cleaner and more compelling this way."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue11_26.txt"
+}

@@ -1,0 +1,93 @@
+=== Source: 1223fd46_script.json ===
+Language: Hindi
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: complaining about difficulty navigating the company website
+
+=== Translated Dialogue ===
+
+Customer [pure]: नमस्ते। देखिये, मुझे आपकी website के recent changes के बारे में बात करनी है। अब तो basic account information ढूंढना भी एकदम मुश्किल हो गया है।
+
+Customer Support [pure]: नमस्ते जी, और thank you ये बात हमारे notice में लाने के लिए। मैं समझ सकता हूं कि website के changes navigate करना frustrating हो सकता है। चलिये मैं आपकी account information access करने में help करता हूं और साथ ही आपका feedback हमारी web development team को भी document कर देता हूं।
+
+Customer [pure]: अरे भाई, मैं छह साल से customer हूं। पुराना layout कितना सीधा-सादा था। ये नया design तो सब कुछ कई-कई menus के अंदर छुपा देता है।
+
+Customer Support [pure]: जी हां, मैं पूरी तरह समझ सकता हूं आपकी frustration redesign को लेकर। हमारे analytics बता रहे हैं कि आप जैसे पुराने customers, खास तौर पे जिनके accounts 2020 से पहले बने थे, वो similar challenges face कर रहे हैं। मैं आपको नया navigation समझाना चाहूंगा और आपके most-used features के लिए shortcuts भी बना देता हूं।
+
+Customer [pure]: हां, ये तो helpful रहेगा। कल मैंने बीस मिनट लगा दिए सिर्फ अपने billing statements ढूंढने में।
+
+Customer Support [pure]: मुझे खेद है इतना time waste हुआ आपका। Billing statements को अब Account Dashboard में shift कर दिया गया है, जो homepage से 3 clicks दूर है। मैं आपको एक direct URL दे देता हूं जिससे आपका time बचेगा, और साथ ही आपके account पे quick-access tiles भी enable कर देता हूं।
+
+Customer [pure]: जी please करिये। और ये भी बताइये कि search function अब properly काम क्यों नहीं कर रहा?
+
+Customer Support [pure]: जी बिल्कुल। Search function को October 15 को update किया गया था predictive text include करने के लिए, लेकिन हमने कुछ browsers के साथ compatibility issues identify किये हैं, खास तौर पे Chrome version 118 और उससे पुराने में। मैं देख रहा हूं आपके account से कि आपने last time Chrome use करके login किया था। क्या मैं एक temporary workaround suggest कर सकता हूं जब तक हमारी team इसे fix नहीं कर देती?
+
+Customer [pure]: हां, मुझे आज ही solution चाहिए। मेरे quarterly reports निकालने हैं।
+
+Customer Support [pure]: जी बिल्कुल।
+
+Customer [pure]: ये workarounds कब तक चलाने पड़ेंगे? ये सब launch करने से पहले properly test करना चाहिए था ना।
+
+Customer Support [pure]: आप बिल्कुल सही कह रहे हैं testing phase के बारे में। हमारी development team ने November 3 को एक patch schedule किया है जो full search functionality restore करेगा और उन customers के लिए classic view option भी add करेगा जो पुराना layout prefer करते हैं। मैं आपका account priority notification list में add कर रहा हूं ताकि जब ये updates live हों तो आपको पता चल जाए।
+
+Customer [pure]: अच्छा, thank you। ये classic view में वो सारे features होंगे जो पहले थे?
+
+Customer Support [pure]: Classic view में original functionality का 95% maintain रहेगा, साथ में improved security features भी होंगे। इसमें वो सभी essential account management tools, billing access, और report generation होगा जिसके आप आदी हैं। बस फर्क इतना होगा कि updated security protocols की वजह से हर 30 दिन में two-factor authentication करना होगा।
+
+Customer [pure]: ये तो ठीक है। Transaction histories के लिए export function कहां है, ये बता सकते हैं?
+
+Customer Support [pure]: जी बिल्कुल। Export function अब Reports and Analytics के अंदर है, फिर Transaction History में जाइये, वहां आपको export icon दिखेगा जिसमें CSV, PDF, और Excel के options हैं। मैं अभी आपको एक email भेज रहा हूं जिसमें step-by-step screenshots हैं और एक bookmark link भी है जो आपको directly उस page पे ले जाएगा।
+
+Customer [pure]: Perfect। और हां, मैंने notice किया कि mobile app अब website के साथ properly sync नहीं हो रहा।
+
+Customer Support [pure]: ये एक known issue है जो October update के बाद से करीब 12% users को affect कर रहा है। Sync delay अभी real-time की जगह 10 से 15 मिनट का हो रहा है। हमारी mobile team ने कल ही version 4.2.1 release किया है जो इसे resolve करता है। क्या आपने पिछले 24 घंटों में अपना app update किया है?
+
+Customer [pure]: नहीं किया है। अभी update कर लेता हूं। Thank you इतने detail में solutions देने के लिए।
+
+Customer Support [pure]: आपका स्वागत है जी। मैंने आपका सारा feedback ticket WEB-78234-R में document कर दिया है हमारी development team के लिए, और आपको 48 घंटों में एक follow-up email मिलेगा implementation timeline के बारे में। क्या कुछ और है जिसमें मैं आज new platform पे navigate करने में आपकी help कर सकूं?
+
+
+=== Original (English) ===
+
+Customer: Good afternoon. I need to discuss the recent changes to your website. It's become nearly impossible to find basic account information.
+
+Customer Support: Good afternoon, and thank you for bringing this to our attention. I understand navigating website changes can be frustrating. Let me assist you with accessing your account information and also document your feedback for our web development team.
+
+Customer: I've been a customer for six years. The old layout was intuitive. This new design buried everything under multiple menus.
+
+Customer Support: I completely understand your frustration with the redesign. Our analytics show that longtime customers like yourself, particularly those with accounts created before 2020, are experiencing similar challenges. I'd like to walk you through the new navigation and create shortcuts for your most-used features.
+
+Customer: That would be helpful. I spent twenty minutes just trying to find my billing statements yesterday.
+
+Customer Support: I apologize for that time-consuming experience. The billing statements have been relocated to the Account Dashboard, which requires 3 clicks from the homepage. Let me provide you with a direct URL that will save you time, and I'll also enable quick-access tiles on your account.
+
+Customer: Please do. Can you also explain why the search function no longer works properly?
+
+Customer Support: Certainly. The search function was updated on October 15th to include predictive text, but we've identified compatibility issues with certain browsers, particularly Chrome versions 118 and earlier. I can see from your account that you last logged in using Chrome. May I suggest a temporary workaround while our team addresses this?
+
+Customer: Yes, I need a solution today. I have quarterly reports to pull.
+
+Customer Support: Of course.
+
+Customer: How long will these workarounds be necessary? This really should have been tested better before launch.
+
+Customer Support: You're absolutely right about the testing phase. Our development team has scheduled a patch for November 3rd that will restore full search functionality and add a classic view option for customers who prefer the previous layout. I'm adding your account to the priority notification list for when these updates go live.
+
+Customer: Thank you. Will the classic view have all the same features as before?
+
+Customer Support: The classic view will maintain 95% of the original functionality with improved security features. It will include all essential account management tools, billing access, and report generation that you're accustomed to. The only difference will be updated security protocols that require two-factor authentication every 30 days.
+
+Customer: That's acceptable. Can you help me locate the export function for transaction histories?
+
+Customer Support: Absolutely. The export function is now under Reports and Analytics, then Transaction History, where you'll see an export icon showing CSV, PDF, and Excel options. I'm sending you an email right now with step-by-step screenshots and a bookmark link that takes you directly to that page.
+
+Customer: Perfect. I also noticed the mobile app doesn't sync properly with the website anymore.
+
+Customer Support: That's a known issue affecting approximately 12% of our users since the October update. The sync delay is currently running 10 to 15 minutes instead of real-time. Our mobile team released version 4.2.1 yesterday that resolves this. Have you updated your app in the last 24 hours?
+
+Customer: I haven't. I'll update it now. Thank you for being so thorough with these solutions.
+
+Customer Support: You're very welcome. I've documented all your feedback in ticket WEB-78234-R for our development team, and you'll receive a follow-up email within 48 hours regarding the implementation timeline. Is there anything else I can help you navigate on the new platform today?
+

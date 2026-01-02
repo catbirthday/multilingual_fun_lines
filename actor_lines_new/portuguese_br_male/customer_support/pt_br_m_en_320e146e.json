@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "*exhales* I just... I don't even know where to start with this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, I've got your account pulled up here, member ID VHB-2847-MK, and I can already see what's happening—vineyard classifications change during off-season, so let's get this sorted out quick."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Wait, classifications? I thought I had the same plan all year."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's the thing—actually no, let me back up—when you're coded as seasonal agricultural worker, which you are under classification SAW-47B, your coverage runs April through October, then it switches to... well, that's where it gets complicated."
+        },
+        {
+            "role": "Customer",
+            "content": "*long exhale* God. I can't... I just can't deal with another thing right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, I really do, and look, I've handled probably three hundred of these exact cases, so here's what we're gonna do—I'm applying override code VINESEAS-2024 right now, which bridges that gap retroactively."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? I mean... I know this isn't your fault. The system is just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "The system's a mess, you're absolutely right, but the good news is—and I'm looking at your claims here, looks like $1,847.30 in pending charges—all of those are gonna get reprocessed under continuous coverage."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales slowly* Eighteen hundred. Jesus. I didn't even realize it was that much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, it adds up fast when you're in that coverage gap, but here's what I'm—actually, let me just... okay, I've initiated batch reprocess request BPR-9901-XZ, should clear within 48 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry. I'm being... This whole harvest was rough and now this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp breath* My prescriptions though. Those won't stop, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So your maintenance meds are protected under continuity provision MED-CONT-7, which means even if there's a gap in primary coverage, those three prescriptions—I see metformin, lisinopril, and sertraline at $47.50 monthly—those stay active no matter what."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. *long pause* Okay. That's... that's something at least."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "How did this even happen? I've been with the vineyard for four years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "What happens is—and this is super common—your employer submits form EMP-8834 for seasonal status changes, but if they miss the October 15th deadline, which yours did by six days, the system just... drops you into limbo basically."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Of course they missed it. Of course. Sorry, I know you're trying to help."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, I've backdated everything to October 1st using exemption code AGWORK-EX, so you're fully covered now, no gaps, and honestly? Your employer's getting a notification about this deadline issue, so hopefully next season goes smoother."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "*exhales* I just... I don't even know where to start with this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, I've got your account pulled up here, member ID VHB-2847-MK, and I can already see what's happening—vineyard classifications change during off-season, so let's get this sorted out quick."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Wait, classifications? I thought I had the same plan all year."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's the thing—actually no, let me back up—when you're coded as seasonal agricultural worker, which you are under classification SAW-47B, your coverage runs April through October, then it switches to... well, that's where it gets complicated."
+        },
+        {
+            "role": "Customer",
+            "content": "*long exhale* God. I can't... I just can't deal with another thing right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, I really do, and look, I've handled probably three hundred of these exact cases, so here's what we're gonna do—I'm applying override code VINESEAS-2024 right now, which bridges that gap retroactively."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? I mean... I know this isn't your fault. The system is just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "The system's a mess, you're absolutely right, but the good news is—and I'm looking at your claims here, looks like $1,847.30 in pending charges—all of those are gonna get reprocessed under continuous coverage."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales slowly* Eighteen hundred. Jesus. I didn't even realize it was that much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, it adds up fast when you're in that coverage gap, but here's what I'm—actually, let me just... okay, I've initiated batch reprocess request BPR-9901-XZ, should clear within 48 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry. I'm being... This whole harvest was rough and now this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp breath* My prescriptions though. Those won't stop, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So your maintenance meds are protected under continuity provision MED-CONT-7, which means even if there's a gap in primary coverage, those three prescriptions—I see metformin, lisinopril, and sertraline at $47.50 monthly—those stay active no matter what."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. *long pause* Okay. That's... that's something at least."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "How did this even happen? I've been with the vineyard for four years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "What happens is—and this is super common—your employer submits form EMP-8834 for seasonal status changes, but if they miss the October 15th deadline, which yours did by six days, the system just... drops you into limbo basically."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Of course they missed it. Of course. Sorry, I know you're trying to help."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen, I've backdated everything to October 1st using exemption code AGWORK-EX, so you're fully covered now, no gaps, and honestly? Your employer's getting a notification about this deadline issue, so hopefully next season goes smoother."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "320e146e_script.json",
+    "professionalism": "casual",
+    "scenario": "vineyard worker, confused about benefits coverage gaps during the off-season",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "overwhelmed_shutdown",
+                "empathetic_to_rep"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "patient_teacher"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off",
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

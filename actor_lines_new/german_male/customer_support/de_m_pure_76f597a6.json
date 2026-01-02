@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ich ich bin ausgesperrt. Zu viele Versuche. Muss... muss einfach rein."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah okay, also lass mich mal nachschauen, ähm, was da passiert ist halt nach 5 fehlgeschlagenen Versuchen sperrt das System aus Sicherheitsgründen. Ich denk mal ich kann das aber zurücksetzen—wie ist denn die E-Mail vom Account?"
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist das ist j.martinez bei... warte. Nein. J-M-A-R-T... zweiundsiebzig. Gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alles klar also j.martinez72@gmail.com, lass mich mal eben—hm, das ist ja interessant. Hier steht, dass, äh, jemand von drei verschiedenen Standorten versucht hat sich einzuloggen? New York um 14:47 Uhr, dann Dallas, dann Seattle alles innerhalb von Minuten. Waren Sie das?"
+        },
+        {
+            "role": "Customer",
+            "content": "Nein. Nein nein nein. Nur ich. Hier. In Portland."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm okay das ist echt komisch dann. Also was ich denke ist vielleicht versucht jemand in Ihren Account zu kommen? Lass mich mal das, äh—ja das Sicherheitsprotokoll zeigt Versuchs-ID SEC-4829-XK und es ist als verdächtig markiert. Ich kann irgendwie verstehen warum es Sie so krass ausgesperrt hat."
+        },
+        {
+            "role": "Customer",
+            "content": "Super. Jemand... jemand versucht mich zu hacken. Heute. Ausgerechnet heute."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Na ja eigentlich—warte lass mich das genauer anschauen. Die Versuche benutzen, mmm, alte Passwörter? So von vor 6 Monaten laut Hash-ID PWH-7263-B? Das ist irgendwie merkwürdig. Haben Sie vielleicht kürzlich Ihr Passwort geändert und es vergessen?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ich... ja. Ja ja. Letzte Woche geändert. Hab hab das alte benutzt."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Okay also also das erklärt's. Sie haben im Grunde gegen sich selbst gekämpft, äh, aus Gewohnheit sozusagen. Gut ich entsperre das jetzt aber zuerst—wissen Sie noch das neue Passwort das Sie gesetzt haben? Weil sonst müssen wir Verifizierungsstufe 2 machen."
+        },
+        {
+            "role": "Customer",
+            "content": "Denk schon. Ziemlich sicher. Bitte bitte entsperren Sie's einfach."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Klar, entsperre jetzt... so, erledigt, freigeschaltet. Aber, ähm, ich sollte erwähnen—wenn Sie nochmal scheitern wird's für 24 Stunden gesperrt statt nur 30 Minuten. Das System eskaliert nach so vielen Versuchen, Protokoll-ID PROT-892-LK."
+        },
+        {
+            "role": "Customer",
+            "content": "Vierundzwanzig Stunden? Das das geht nicht. Brauch das heute."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja nee das versteh ich total. Also hier ist was ich vorschlagen würde—vielleicht schreiben Sie das Passwort mal kurz auf? Oder eigentlich, hmm, wir haben da so'n Ding wo ich dranbleiben könnte während Sie sich einloggen. Dann wenn's schiefgeht kann ich's sofort wieder entsperren."
+        },
+        {
+            "role": "Customer",
+            "content": "Sie würden... Sie würden das machen? Echt?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Na klar! Das ist wirklich kein Problem. Öffnen Sie einfach, äh, die Login-Seite und ich warte. Lassen Sie sich aber Zeit—kein Stress."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay. Tippe jetzt... es ist... oh Gott. Hat geklappt. Endlich endlich geklappt."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfekt! Also ich seh hier Sie sind drin, Session-ID SESS-3847-Q aktiv. Eigentlich wo ich Sie schon hab—soll ich vielleicht 'ne Backup-Authentifizierungsmethode einrichten? So wie Telefonnummer für SMS-Codes? Falls das nochmal passiert?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ja. Bitte. Danke danke. Das war... Sie haben mich echt gerettet."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ach ich bin einfach froh dass wir's hingekriegt haben! Also lass mich mal das SMS-Backup einrichten—was ist die beste Nummer? Und dann, halt, sind Sie komplett abgesichert mit Fallback-Option TYPE-2FA aktiviert."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm I'm locked out. Too many tries. Just... need in."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay, so let me pull that up for you, um, what's happening is basically after 5 failed attempts the system locks for security. I think I can probably reset it though—what's the email on the account?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's j.martinez at... wait. No. J-M-A-R-T... seventy-two. Gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so j.martinez72@gmail.com, let me just—huh, that's interesting. It's showing here that, er, someone tried logging in from like three different locations? New York at 2:47 PM, then Dallas, then Seattle all within minutes. Was that you?"
+        },
+        {
+            "role": "Customer",
+            "content": "No. No no no. Just me. Here. In Portland."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm okay that's really weird then. So what I'm thinking is maybe someone's trying to get into your account? Let me check the, uh—yeah the security log shows attempt ID SEC-4829-XK and it's flagged as suspicious. I can sort of see why it locked you out so aggressively."
+        },
+        {
+            "role": "Customer",
+            "content": "Great. Someone's... someone's trying to hack me. Today. Of all days."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well actually—wait let me look at this closer. The attempts are using, mmm, old passwords? Like from maybe 6 months ago according to hash ID PWH-7263-B? That's kinda strange. Did you recently change your password and maybe forget?"
+        },
+        {
+            "role": "Customer",
+            "content": "I... yeah. Yeah yeah. Changed it last week. Been using the the old one."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! Okay so so that explains it. You were basically fighting yourself, er, muscle memory wise. Alright I'm gonna unlock this but first—do you remember the new password you set? Because if not we'll need to do verification level 2."
+        },
+        {
+            "role": "Customer",
+            "content": "Think so. Pretty sure. Just just unlock it please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sure thing, unlocking now... there we go, cleared. Though, um, I should mention—if you fail again it'll lock for 24 hours instead of just 30 minutes. System escalates after this many attempts, protocol ID PROT-892-LK."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty-four hours? Can't can't do that. Need this today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no I totally get that. So here's what I'd suggest—maybe write the password down just temporarily? Or actually, hmm, we have this thing where I could stay on while you try logging in. That way if it fails I can immediately unlock it again."
+        },
+        {
+            "role": "Customer",
+            "content": "You'd... you'd do that? Really?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! It's literally no problem. Just, erm, pull up the login page and I'll wait. Take your time though—no rush."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay. Typing now... it's... oh God. It worked. Finally finally worked."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So I see here you're in, session ID SESS-3847-Q active. Actually while I have you—would you like me to maybe set up a backup authentication method? Like a phone number for SMS codes? Just in case this happens again?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes. Please. Thank you thank you. This was... you really saved me here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw well I'm just glad we figured it out! So let me get that SMS backup going—what's the best number? And then, basically, you'll be all set with fallback option TYPE-2FA enabled."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "76f597a6_script.json",
+    "professionalism": "casual",
+    "scenario": "locked out of their account after too many failed password attempts",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "exhausted_worn",
+                "genuinely_grateful"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "professionally_firm"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses",
+                    "hedge_words",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Добрый день. Я сегодня получил свой заказ, но, к сожалению, мне прислали совсем не то."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Добрый день, спасибо, что обратились. Приношу извинения за ошибку с вашим заказом. Давайте сразу это исправим. Можете назвать номер заказа и email, который привязан к аккаунту?"
+        },
+        {
+            "role": "Customer",
+            "content": "Номер заказа 4829-KLM-772, а почта — jennifer.chen@techcorp.com."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Спасибо, господин Чен. Так, вижу ваш заказ 4829-KLM-772 от 8 ноября на документ-сканер ProScan X500. Расскажите, пожалуйста, что вам прислали вместо него?"
+        },
+        {
+            "role": "Customer",
+            "content": "Мне пришёл принтер для этикеток, модель LP-220. Это вообще некстати — мне же сканер нужен для презентации на следующей неделе."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Понимаю ваше беспокойство насчёт сроков. Принтер LP-220 по ошибке отправили со склада B-47 вместо вашего сканера ProScan X500. Сейчас оформляю срочную замену, чтобы вы точно получили нужный товар до презентации."
+        },
+        {
+            "role": "Customer",
+            "content": "Вот это хорошо. Когда я получу правильный сканер, и как мне вернуть этот принтер?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Так, смотрите. Ваш сканер ProScan X500 отправим сегодня экспресс-доставкой с нашего распределительного центра на Коммерс Бульвар, 2847, и он придёт завтра до 10:30 утра. Сейчас вышлю вам на почту этикетку для возврата с предоплаченной доставкой, номер RMA-88921-QX — курьер заберёт принтер, когда привезёт сканер."
+        },
+        {
+            "role": "Customer",
+            "content": "Отлично. Мне придёт подтверждение и новой отправки, и разрешения на возврат?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Конечно."
+        },
+        {
+            "role": "Customer",
+            "content": "И ещё, я хотел бы понять, как вообще произошла эта ошибка, чтобы в будущем такого не было с моим аккаунтом."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да, конечно, это резонный вопрос. По нашему расследованию, произошла путаница с артикулами во время комплектации заказа 11 ноября в 15:47, когда оба товара обрабатывались в соседних ячейках A-19 и A-20. Я поставил отметку на вашем аккаунте для проверки качества, чтобы такое больше не повторилось."
+        },
+        {
+            "role": "Customer",
+            "content": "Спасибо за разъяснение. Это как-то повлияет на мою корпоративную скидку или статус аккаунта?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Нет, что вы. Ваш корпоративный аккаунт сохраняет Платиновый статус со скидкой 22%, и я, кстати, добавлю 500 баллов лояльности — это 25 долларов — в качестве извинения за неудобства. После начисления у вас будет 3847 баллов."
+        },
+        {
+            "role": "Customer",
+            "content": "Очень профессионально с вашей стороны. Можете подтвердить, что в комплекте со сканером идёт автоподатчик документов?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Да, подтверждаю. ProScan X500, который мы отправляем, включает автоподатчик на 50 страниц, модель ADF-500X, плюс кабель USB-C и установочное ПО версии 12.3. Всё, что было в вашем изначальном заказе, будет в комплекте."
+        },
+        {
+            "role": "Customer",
+            "content": "Прекрасно. И вы сказали, курьер заберёт принтер завтра. Мне нужно его как-то упаковать?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Нет, специальная упаковка не нужна. Просто положите принтер LP-220 в любую подходящую коробку или в оригинальную упаковку, если сохранилась. Курьер, который приедет в 10:30, привезёт с собой защитные материалы и всё упакует прямо у вас — Экзекьютив Плаза, 3962, офис 400."
+        },
+        {
+            "role": "Customer",
+            "content": "Отличный сервис. Спасибо, что так оперативно всё решили. Ценю вашу внимательность."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Спасибо за ваше терпение и понимание, господин Чен. В течение пяти минут вам придёт письмо с новым трек-номером ZXP-40019-8K, этикеткой для возврата и моим прямым добавочным — 7341, если понадобится ещё какая-то помощь. Хорошего вам дня."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I received my order today, but unfortunately the wrong item was shipped to me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for reaching out. I apologize for the error with your order. I'd be happy to resolve this immediately. May I have your order number and the email address associated with your account?"
+        },
+        {
+            "role": "Customer",
+            "content": "The order number is 4829-KLM-772, and my email is jennifer.chen@techcorp.com."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you, Ms. Chen. I've located your order 4829-KLM-772 placed on November 8th for the ProScan X500 document scanner. Can you please describe what item you received instead?"
+        },
+        {
+            "role": "Customer",
+            "content": "I received a label printer, model LP-220. This is concerning as I need the scanner for a presentation next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern about the timing. The LP-220 label printer was incorrectly shipped from warehouse facility B-47 instead of your ProScan X500 scanner. I'm initiating an expedited replacement right now to ensure you receive the correct item before your presentation."
+        },
+        {
+            "role": "Customer",
+            "content": "That's appreciated. What's the timeline for receiving the correct scanner, and how do I return this printer?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Your ProScan X500 scanner will ship today via priority overnight from our distribution center at 2847 Commerce Boulevard and arrive tomorrow by 10:30 AM. I'm emailing you a prepaid return label with tracking number RMA-88921-QX for the printer, which our courier will collect when delivering your scanner."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Will I receive confirmation of both the new shipment and the return authorization?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "Also, I'd like to understand how this error occurred to prevent future issues with my account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, that's a valid concern. Our investigation shows that SKU confusion occurred during order fulfillment at 3:47 PM on November 11th when both items were being processed in adjacent bins A-19 and A-20. I've flagged your account for quality assurance review to prevent any recurrence."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for that explanation. Will this affect my corporate discount rate or account standing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all. Your corporate account maintains its Platinum status with the 22% discount rate, and I'm actually adding 500 loyalty points, valued at $25, to your account as an apology for this inconvenience. Your current points balance will be 3,847 after this adjustment."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very professional of you. Can you confirm the scanner includes the automatic document feeder attachment?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, I can confirm that. The ProScan X500 shipping from our facility includes the 50-page automatic document feeder, model ADF-500X, along with the USB-C cable and installation software version 12.3. Everything listed in your original order will be included."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. And you mentioned the courier will collect the printer tomorrow. Do I need to repackage it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No special packaging is required. Simply place the LP-220 printer in any suitable box or the original packaging if available. The courier arriving at 10:30 AM will have protective materials and will handle all packaging at your location, 3962 Executive Plaza, Suite 400."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent service. Thank you for resolving this so efficiently. I appreciate your thoroughness."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for your patience and professionalism, Ms. Chen. You'll receive an email within five minutes containing your new tracking number, ZXP-40019-8K, the return label, and my direct extension, 7341, should you need any further assistance. Have an excellent afternoon."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "64afae55_script.json",
+    "professionalism": "professional",
+    "scenario": "received the wrong item in their order",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "cordially_concerned",
+                "politely_firm"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "crisply_business_like",
+                "diplomatically_firm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

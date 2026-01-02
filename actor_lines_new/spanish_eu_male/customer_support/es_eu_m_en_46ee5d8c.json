@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to probably fix my merchant account. It says I'm retail but I sort of sell bees."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh bees! That's—wow that's actually fascinating and um, totally get why that'd be miscategorized, let me pull up your account real quick, what's your business ID number?"
+        },
+        {
+            "role": "Customer",
+            "content": "BZ-4492-K. I think they put me as general retail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it, BZ-4492-K, yep see it here and oh man they really did just dump you in retail category 5411, that's gonna mess up everything, your processing rates, risk assessment, the whole thing."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. So I just need the right code I guess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely and I'm—let me see here—agriculture's usually 0780 but bees are, what's the word, specialized? Like you're selling actual live bees not honey right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Live bees, queens, whole colonies actually. Maybe I should explain—people think it's weird."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no please explain! Honestly this is the most interesting call today and we need the details anyway for the reclassification form RCL-7729-M, the more specific the better."
+        },
+        {
+            "role": "Customer",
+            "content": "Well I breed queens mostly, ship them overnight in these special cages, and then there's package bees which are basically three pounds of bees in a box with a queen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Three pounds of—okay that's incredible, hmm, so livestock but tiny livestock, let me think, we might need agricultural code 0752 for animal specialty, updating your merchant profile now."
+        },
+        {
+            "role": "Customer",
+            "content": "And nucs. Those are sort of like starter colonies. Five frames of bees with brood and honey. People probably think I'm crazy shipping boxes of insects."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not crazy at all! Actually kinda brilliant? Okay so I'm documenting everything here, case number CS-8847-BEE, yes I made it spell bee, and we're gonna get this fixed today no question."
+        },
+        {
+            "role": "Customer",
+            "content": "Some credit cards flag it as suspicious. Probably because who spends eight hundred dollars on bees right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eight hundred—wow okay yeah that'd trigger fraud alerts under retail but under livestock specialty 0752? Totally normal, I'm adding notes about typical transaction range between 200 and 1000 dollars."
+        },
+        {
+            "role": "Customer",
+            "content": "Spring's insane though. I process maybe forty orders a day. The system just crashes sometimes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Forty orders of live bees! That's—er—that's actually amazing but yeah retail classification caps at 20 daily transactions, agricultural's unlimited, switching you to high-volume AG processing tier 3 right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Cool. I think that's everything then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wait wait no, one more thing, seasonal variance flag, let me just—okay putting April through June as peak season designation PSQ2, that'll prevent any automatic holds."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh right, yeah spring is basically when everyone wants bees."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, so everything's updated, merchant code 0752, high-volume agricultural tier 3, seasonal variance approved, you're all set and honestly? Thanks for the education about bees, genuinely made my day learning about this."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to probably fix my merchant account. It says I'm retail but I sort of sell bees."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh bees! That's—wow that's actually fascinating and um, totally get why that'd be miscategorized, let me pull up your account real quick, what's your business ID number?"
+        },
+        {
+            "role": "Customer",
+            "content": "BZ-4492-K. I think they put me as general retail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it, BZ-4492-K, yep see it here and oh man they really did just dump you in retail category 5411, that's gonna mess up everything, your processing rates, risk assessment, the whole thing."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. So I just need the right code I guess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely and I'm—let me see here—agriculture's usually 0780 but bees are, what's the word, specialized? Like you're selling actual live bees not honey right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Live bees, queens, whole colonies actually. Maybe I should explain—people think it's weird."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no please explain! Honestly this is the most interesting call today and we need the details anyway for the reclassification form RCL-7729-M, the more specific the better."
+        },
+        {
+            "role": "Customer",
+            "content": "Well I breed queens mostly, ship them overnight in these special cages, and then there's package bees which are basically three pounds of bees in a box with a queen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Three pounds of—okay that's incredible, hmm, so livestock but tiny livestock, let me think, we might need agricultural code 0752 for animal specialty, updating your merchant profile now."
+        },
+        {
+            "role": "Customer",
+            "content": "And nucs. Those are sort of like starter colonies. Five frames of bees with brood and honey. People probably think I'm crazy shipping boxes of insects."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not crazy at all! Actually kinda brilliant? Okay so I'm documenting everything here, case number CS-8847-BEE, yes I made it spell bee, and we're gonna get this fixed today no question."
+        },
+        {
+            "role": "Customer",
+            "content": "Some credit cards flag it as suspicious. Probably because who spends eight hundred dollars on bees right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eight hundred—wow okay yeah that'd trigger fraud alerts under retail but under livestock specialty 0752? Totally normal, I'm adding notes about typical transaction range between 200 and 1000 dollars."
+        },
+        {
+            "role": "Customer",
+            "content": "Spring's insane though. I process maybe forty orders a day. The system just crashes sometimes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Forty orders of live bees! That's—er—that's actually amazing but yeah retail classification caps at 20 daily transactions, agricultural's unlimited, switching you to high-volume AG processing tier 3 right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Cool. I think that's everything then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wait wait no, one more thing, seasonal variance flag, let me just—okay putting April through June as peak season designation PSQ2, that'll prevent any automatic holds."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh right, yeah spring is basically when everyone wants bees."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, so everything's updated, merchant code 0752, high-volume agricultural tier 3, seasonal variance approved, you're all set and honestly? Thanks for the education about bees, genuinely made my day learning about this."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "46ee5d8c_script.json",
+    "professionalism": "casual",
+    "scenario": "beekeeper, needing to explain his unusual business to fix a merchant account classification",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "resigned_going_through_motions",
+                "manic_oversharing"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching",
+                    "vocalized_thinking",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

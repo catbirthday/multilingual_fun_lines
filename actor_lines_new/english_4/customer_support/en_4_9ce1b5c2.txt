@@ -1,0 +1,48 @@
+=== Source: 9ce1b5c2_script.json ===
+Actor: english_4
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking for a supervisor after agent couldn't resolve issue
+
+=== Dialogue ===
+
+Customer: Good morning. I'm calling about a critical issue with my business account that needs immediate resolution.
+
+Customer Support: Good morning, and thank you for calling. I'll do everything I can to help resolve this quickly. May I have your account number so I can pull up your information?
+
+Customer: It's BIZ-45921-TK. We've been unable to process any transactions since yesterday afternoon.
+
+Customer Support: Thank you. I'm accessing account BIZ-45921-TK now, and I can see you're one of our Premier Business clients with transaction volumes averaging $85,000 daily. I understand the severity of this situation.
+
+Customer: Exactly. Every hour costs us thousands in lost revenue. What's causing this issue?
+
+Customer Support: I can see your account was flagged by our security system at 3:47 PM yesterday due to an unusual transaction pattern from IP address 192.168.45.22. The automatic hold requires verification before we can restore full functionality.
+
+Customer: That's our new warehouse location. We submitted the paperwork for that address last week.
+
+Customer Support: I do see the submission from October 12th for your warehouse at 4521 Industrial Boulevard, but it appears to still be pending in our verification queue. Let me check what options I have to expedite this.
+
+Customer: I appreciate you checking, but this really should have been processed already. We followed all the procedures.
+
+Customer Support: You're absolutely right, and I apologize for the delay in processing. The standard verification takes 5-7 business days, but given your Premier status and the revenue impact, I'm checking for override options in our system.
+
+Customer: And what are you finding? Can you lift the hold immediately?
+
+Customer Support: Unfortunately, the security protocols for addresses generating over $10,000 in daily transactions require Level 2 authorization, which is above my clearance level. I can submit an urgent escalation request that would be reviewed within 24 hours.
+
+Customer: Twenty-four hours is completely unacceptable. I need to speak with a supervisor who can resolve this now.
+
+Customer Support: I completely understand your position. Let me connect you with a supervisor immediately who will have Level 2 clearance and should be able to override this hold. Please stay on the line.
+
+Customer: Thank you. Please ensure they have all the details before transferring me.
+
+Customer Support: Absolutely. I'm documenting everything in ticket ESC-78234-HIGH, including the timeline, your Premier status, and the daily revenue impact of approximately $85,000. The supervisor will have full visibility of our conversation.
+
+Customer: Good. How long before the supervisor will be available?
+
+Customer Support: I've flagged this as priority one. Supervisor Martinez is finishing another call and will be with you within 2-3 minutes maximum. She has full authorization to remove security holds and process immediate verifications.
+
+Customer: I'll wait. Please confirm she'll be able to resolve this completely today.
+
+Customer Support: Yes, Supervisor Martinez has complete authority to lift the hold and whitelist your new IP address 192.168.45.22 immediately. She'll also ensure your warehouse verification is completed while you're on the call. Thank you for your patience with this situation.
+

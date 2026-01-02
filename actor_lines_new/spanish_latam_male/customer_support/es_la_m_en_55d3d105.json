@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need help with my equipment loan payment. It was supposed to process yesterday but didn't go through."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for contacting us. I'd be happy to investigate this issue for you. May I have your loan account number and the last four digits of your social security number for verification?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is EQ-778214. Last four digits are 4521. This is time-sensitive as I need confirmation for my insurance."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for that information. I've located your account, loan number EQ-778214-AG for the John Deere 6120M tractor. I can see there was an attempted payment of $2,847.50 on November 14th that failed to process."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. My bank shows sufficient funds were available. What caused the failure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the issue now. The routing number on file changed from 091000019 to 091000022 when your bank merged with First National last month. The payment was rejected due to the outdated routing information."
+        },
+        {
+            "role": "Customer",
+            "content": "I wasn't aware that would affect automatic payments. Can we process the payment today with the correct routing number?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I can update the routing number immediately and process the payment today. The new payment will post by 5:00 PM Eastern Time, and you'll receive confirmation via email at the address we have on file."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will there be any late fees since this was a banking error?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Given the circumstances with the bank merger, I'm waiving the $75.00 late fee as a one-time courtesy. Your account will show current once today's payment processes, with your next payment due December 14th."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Can you also update my insurance notification? They need confirmation by end of business today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'll send payment confirmation directly to your insurance provider, Farmers Mutual, reference number FM-2023-89412. They'll receive it within the next hour along with a note explaining the delay."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Should I keep my current payment schedule or will this shift everything by a day?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your payment schedule remains unchanged. Today's payment will be applied to your November 14th due date, keeping you on track for the 14th of each month. Your loan will mature as originally scheduled on March 14, 2027."
+        },
+        {
+            "role": "Customer",
+            "content": "Good to know. Is there anything else I need to do on my end?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I recommend verifying your other automatic payments with your bank to ensure they have the new routing number. I've also added a note to your account about the merger to prevent any future issues."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful advice. Can you email me a summary of these changes for my records?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for resolving this quickly. The payment confirmation and insurance notification are critical for my operation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. You'll receive the summary email within 15 minutes to farmops447@rural.net, and the payment will process by 5:00 PM today. Is there anything else I can assist you with regarding your equipment loan or other accounts?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need help with my equipment loan payment. It was supposed to process yesterday but didn't go through."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for contacting us. I'd be happy to investigate this issue for you. May I have your loan account number and the last four digits of your social security number for verification?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is EQ-778214. Last four digits are 4521. This is time-sensitive as I need confirmation for my insurance."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for that information. I've located your account, loan number EQ-778214-AG for the John Deere 6120M tractor. I can see there was an attempted payment of $2,847.50 on November 14th that failed to process."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. My bank shows sufficient funds were available. What caused the failure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the issue now. The routing number on file changed from 091000019 to 091000022 when your bank merged with First National last month. The payment was rejected due to the outdated routing information."
+        },
+        {
+            "role": "Customer",
+            "content": "I wasn't aware that would affect automatic payments. Can we process the payment today with the correct routing number?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I can update the routing number immediately and process the payment today. The new payment will post by 5:00 PM Eastern Time, and you'll receive confirmation via email at the address we have on file."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will there be any late fees since this was a banking error?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Given the circumstances with the bank merger, I'm waiving the $75.00 late fee as a one-time courtesy. Your account will show current once today's payment processes, with your next payment due December 14th."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Can you also update my insurance notification? They need confirmation by end of business today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'll send payment confirmation directly to your insurance provider, Farmers Mutual, reference number FM-2023-89412. They'll receive it within the next hour along with a note explaining the delay."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Should I keep my current payment schedule or will this shift everything by a day?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your payment schedule remains unchanged. Today's payment will be applied to your November 14th due date, keeping you on track for the 14th of each month. Your loan will mature as originally scheduled on March 14, 2027."
+        },
+        {
+            "role": "Customer",
+            "content": "Good to know. Is there anything else I need to do on my end?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I recommend verifying your other automatic payments with your bank to ensure they have the new routing number. I've also added a note to your account about the merger to prevent any future issues."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful advice. Can you email me a summary of these changes for my records?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for resolving this quickly. The payment confirmation and insurance notification are critical for my operation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. You'll receive the summary email within 15 minutes to farmops447@rural.net, and the payment will process by 5:00 PM today. Is there anything else I can assist you with regarding your equipment loan or other accounts?"
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "55d3d105_script.json",
+    "professionalism": "professional",
+    "scenario": "farmer, confused about why his equipment loan payment didn't process",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "respectfully_urgent",
+                "matter_of_fact"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "formally_courteous",
+                "diplomatically_firm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

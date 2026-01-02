@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Cancelei a subscrição dos vossos emails de marketing há três semanas, mas continuo a receber cinco ou seis emails por dia."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Obrigada por nos contactar. Peço imensa desculpa por esta situação. Deixe-me já aceder à sua conta e verificar as suas preferências de email. Pode dar-me o endereço de email que está a receber estas mensagens?"
+        },
+        {
+            "role": "Customer",
+            "content": "É o james.morrison@techcorpinc.com. Olhe, isto está a afetar a minha produtividade no trabalho e preciso mesmo que isto seja resolvido hoje."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Compreendo perfeitamente a urgência, Sr. Morrison. Estou a aceder à sua conta agora com o email james.morrison@techcorpinc.com. Estou a ver que submeteu um pedido de cancelamento no dia 23 de outubro às 14h47, hora de Lisboa, que devia ter entrado em vigor em 48 horas."
+        },
+        {
+            "role": "Customer",
+            "content": "Exatamente. Mas ainda recebi outro email promocional esta manhã às 8h15."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Isso é completamente inaceitável. Deixe-me ver... estou a verificar o seu estado de supressão e, ah, estou a ver que houve um erro de sincronização entre a nossa base de dados principal e a plataforma de email externa, código ERR-7294-SYNC. Vou fazer já uma alteração manual imediatamente."
+        },
+        {
+            "role": "Customer",
+            "content": "Quanto tempo é que vai demorar a processar essa alteração manual? É que tenho preocupações de conformidade com os regulamentos de proteção de dados."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Compreendo perfeitamente as suas preocupações de conformidade. A alteração manual vai ficar ativa em 2 horas no máximo. E olhe, vou também adicionar o seu domínio à nossa lista de supressão prioritária com o número de referência SUP-48392-PM para garantir que não chegam emails futuros a nenhum endereço da techcorpinc.com."
+        },
+        {
+            "role": "Customer",
+            "content": "E os emails que recebi desde que cancelei a subscrição? Pode confirmar que vão ficar documentados?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sim. Estou a gerar um relatório completo de auditoria que mostra todos os 87 emails enviados depois do seu pedido de cancelamento de 23 de outubro. Este relatório, referência DOC-2847-MOR, vai ser-lhe enviado por email nos próximos 30 minutos para os seus registos."
+        },
+        {
+            "role": "Customer",
+            "content": "Ótimo. Vou continuar a receber emails transacionais, ou vai ficar tudo bloqueado?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excelente pergunta. A sua conta vai continuar a receber emails transacionais críticos como alertas de segurança e confirmações de faturação, mas todas as comunicações de marketing estão agora bloqueadas com o código de supressão MKT-0000-FULL. Vai receber apenas cerca de 2 ou 3 emails essenciais por mês."
+        },
+        {
+            "role": "Customer",
+            "content": "Também quero garantir que isto não acontece a outros funcionários da minha empresa."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza. Vou implementar uma configuração de preferências para toda a empresa techcorpinc.com. Qualquer funcionário que se inscreva vai ter os emails de marketing automaticamente desativados, a não ser que opte especificamente por recebê-los. Esta política, referência CORP-8923-TC, entra em vigor imediatamente."
+        },
+        {
+            "role": "Customer",
+            "content": "Isso ajuda bastante. Pode enviar-me uma confirmação escrita de todas estas alterações?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sim. Vai receber um email detalhado dentro de 15 minutos com todas as alterações feitas hoje. Isto vai incluir a confirmação de supressão SUP-48392-PM, o relatório de auditoria, e o nosso pedido formal de desculpas com um crédito de 50 euros na conta pela inconveniência."
+        },
+        {
+            "role": "Customer",
+            "content": "Agradeço o crédito na conta. Como é que posso verificar se a supressão está a funcionar corretamente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Configurei um protocolo de verificação para si. Pode verificar o seu estado de supressão a qualquer altura visitando o nosso centro de preferências com o código de acesso VER-7739-JM. E pronto, estou também a agendar uma chamada de acompanhamento para 20 de novembro às 14h00 para confirmar que está tudo a funcionar bem."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfeito. Obrigada por tratar disto tudo de forma tão completa e por levar isto a sério."
+        },
+        {
+            "role": "Customer Support",
+            "content": "De nada, Sr. Morrison. Peço sinceramente desculpa pela frustração que isto causou. Se receber sequer um email de marketing depois das 16h00 de hoje, por favor contacte-me diretamente na extensão 4412, referência do caso CS-98234-MOR, e escalo isto imediatamente para a nossa equipa técnica."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I unsubscribed from your marketing emails three weeks ago, but I'm still receiving five to six emails daily."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for contacting us. I sincerely apologize for this issue. Let me pull up your account immediately and review your email preferences. May I have the email address that's receiving these messages?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's james.morrison@techcorpinc.com. This is affecting my work productivity and I need this resolved today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the urgency, Mr. Morrison. I'm accessing your account now under james.morrison@techcorpinc.com. I can see you submitted an unsubscribe request on October 23rd at 2:47 PM Eastern Time, which should have taken effect within 48 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. Yet I received another promotional email this morning at 8:15 AM."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's absolutely unacceptable. I'm reviewing your suppression status now, and I can see there's been a synchronization error between our main database and our third-party email platform, code ERR-7294-SYNC. I'm going to manually override this immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "How long will the manual override take to process? I have compliance concerns with data regulations."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your compliance concerns completely. The manual override will take effect within 2 hours maximum. Additionally, I'm adding your domain to our priority suppression list with reference number SUP-48392-PM to ensure no future emails reach any address at techcorpinc.com."
+        },
+        {
+            "role": "Customer",
+            "content": "What about the emails I've received since unsubscribing? Can you confirm those will be documented?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm generating a full audit report showing all 87 emails sent after your October 23rd unsubscribe request. This report, reference DOC-2847-MOR, will be emailed to you within the next 30 minutes for your records."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Will I receive any transactional emails, or will everything be blocked?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. Your account will still receive critical transactional emails such as security alerts and billing confirmations, but all marketing communications are now blocked under suppression code MKT-0000-FULL. You'll only receive approximately 2-3 essential emails per month."
+        },
+        {
+            "role": "Customer",
+            "content": "I also want to ensure this doesn't happen to other employees at my company."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm implementing a company-wide preference setting for techcorpinc.com. Any employee who signs up will automatically have marketing emails disabled unless they specifically opt in. This policy, reference CORP-8923-TC, takes effect immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful. Can you send me written confirmation of all these changes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. You'll receive a detailed confirmation letter via email within 15 minutes outlining all changes made today. This will include your suppression confirmation SUP-48392-PM, the audit report, and our formal apology with a $50 account credit for the inconvenience."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the account credit. How can I verify the suppression is working correctly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've set up a verification protocol for you. You can check your suppression status anytime by visiting our preference center with access code VER-7739-JM. Additionally, I'm scheduling a follow-up call for November 20th at 2:00 PM to confirm everything is working properly."
+        },
+        {
+            "role": "Customer",
+            "content": "That works. Thank you for handling this thoroughly and taking it seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome, Mr. Morrison. I genuinely apologize for the frustration this has caused. If you receive even one marketing email after 4:00 PM today, please contact me directly at extension 4412, reference case number CS-98234-MOR, and I'll escalate this immediately to our technical team."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2c5fc52e_script.json",
+    "professionalism": "professional",
+    "scenario": "frustrated about receiving spam emails after unsubscribing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "respectfully_urgent",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "formally_courteous",
+                "graciously_accommodating"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

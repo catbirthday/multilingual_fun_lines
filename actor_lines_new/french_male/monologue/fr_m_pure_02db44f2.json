@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very excited] Ils l'ont fait ! Mais ils l'ont vraiment fait ! [laugh] J'arrive pas à y croire qu'on ait réussi ce coup-là. Trois ans de réunions, de présentations, ces putains de comités budgétaires interminables où tout le monde répétait qu'il y avait pas assez d'argent. [exhausted] Bon sang, j'en pouvais plus de les entendre dire ça. Mais on a continué à pousser, continué à leur montrer les données. [passionately] Chaque étude qui montre comment l'éducation artistique transforme la vie des gamins, leurs résultats scolaires, leur confiance en eux—tout ! [pause] Et maintenant ces gosses vont enfin avoir ce qu'ils méritent. [crying while speaking] Je repense sans arrêt à cette petite fille qu'on a rencontrée à Brooklyn, celle qui, euh, qui dessinait ces portraits incroyables mais son école avait même pas de crayons de couleur. [sniffle] Elle va avoir du vrai matériel artistique maintenant. [slowly] De vrais profs qui peuvent cultiver ce talent. [very sincerely] Tu sais ce qui est le plus beau dans tout ça ? C'est pas juste pour faire des artistes. [animated] C'est donner une voix aux gamins quand ils arrivent pas à trouver les mots ! Des salles de musique où ils peuvent crier et chanter et digérer tout ce qu'ils traversent. [whispering] Certains de ces gosses ont déjà vécu tellement de trucs. [relieved] Et on a fait ça. On a vraiment changé quelque chose. [laugh loudly] Ce soir je m'achète du champagne—du bon ! [very happily] Ces gamins vont créer des trucs magnifiques, et on a aidé à rendre ça possible."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very excited] They did it! They actually did it! [laugh] I can't believe we pulled this off. Three years of meetings, presentations, those endless budget committees where everyone kept saying there wasn't enough money. [exhausted] God, I was so tired of hearing that. But we kept pushing, kept showing them the data. [passionately] Every single study about how arts education transforms kids' lives, their test scores, their confidence—everything! [pause] And now these kids are finally going to get what they deserve. [crying while speaking] I keep thinking about that little girl we met in Brooklyn, the one who, um, who drew those incredible portraits but her school didn't even have colored pencils. [sniffle] She's going to have real art supplies now. [slowly] Real teachers who can nurture that talent. [very sincerely] You know what the best part is? This isn't just about making artists. [animated] It's about giving kids a voice when they can't find the words! Music rooms where they can scream and sing and process everything they're going through. [whispering] Some of these kids have been through so much already. [relieved] And we did this. We actually changed something. [laugh loudly] I'm buying champagne tonight—the good stuff! [very happily] Those kids are going to create beautiful things, and we helped make that possible."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "02db44f2_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The politician you advised just passed legislation that will fund arts programs in underfunded schools",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

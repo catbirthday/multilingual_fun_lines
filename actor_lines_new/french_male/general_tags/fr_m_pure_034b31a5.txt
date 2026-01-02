@@ -1,0 +1,72 @@
+=== Source: 034b31a5_scenario.json ===
+Language: French
+Gender: male
+Mode: pure
+Content Type: general_tags
+Scenario: corporate development analyst and baroness
+
+=== Translated Dialogue ===
+
+raw [pure]: 
+{
+    "conversation": [
+        {"role": "Character 1", "content": "[carefully] Lady Hartwell, I appreciate you agreeing to meet with me about the Thornfield estate acquisition, though I realize this must be, well, incredibly difficult given your family's history there."},
+        {"role": "Character 2", "content": "[cool but curious] You have a familiar way of tilting your head when you speak, young man, though I can't quite place why that particular gesture strikes me as something I've seen before."},
+        {"role": "Character 3", "content": "My company's offer is forty percent above market value, which I know doesn't compensate for centuries of memories, but we're trying to be respectful of what this means. [pause] To you, specifically."},
+        {"role": "Character 2", "content": "[slowly] Respectful would have been not sending lawyers first, but since you're here now, tell me—what does a corporate analyst know about what Thornfield means to anyone?"},
+        {"role": "Character 1", "content": "[quieter] More than you might think, actually, because I spent three years of Saturday afternoons in your music room when you taught piano to scholarship kids from the village."},
+        {"role": "Character 2", "content": "Thomas? Little Tommy Morrison?"},
+        {"role": "Character 1", "content": "[regretfully] Not so little anymore, obviously, and here to take away the place where you taught me that poor kids could touch beautiful things without breaking them."},
+        {"role": "Character 2", "content": "You were eight years old, terrified of the grand piano, [laughs sadly], kept asking if you needed special gloves to play something so expensive."},
+        {"role": "Character 1", "content": "You told me pianos need fingerprints."},
+        {"role": "Character 2", "content": "[wistful] I said they need the oils from human hands to keep the keys from drying out, that instruments die without being touched. Rather like houses, really."},
+        {"role": "Character 1", "content": "[struggling] The development would create three hundred jobs in the village, Lady Hartwell, and the board's already approved the plans assuming this sale goes through."},
+        {"role": "Character 2", "content": "[bitter laugh] Assuming. How very corporate of them to assume a baroness would simply roll over for profit margins and employment statistics."},
+        {"role": "Character 1", "content": "They don't know about the piano lessons or the scholarship program you ran for twenty years without any recognition, using your own money when the estate started struggling. [softer] They just see property value."},
+        {"role": "Character 2", "content": "And what do you see?"},
+        {"role": "Character 1", "content": "[deliberately] I see my teacher losing her home because I got good enough at spreadsheets to make it happen, and I see myself completing the assignment anyway because I have my own family to feed now."},
+        {"role": "Character 2", "content": "[gently resigned] You always were too serious for your age, Tommy, carrying the world on those small shoulders even at eight years old."},
+        {"role": "Character 1", "content": "[voice breaking] There's a clause in the contract that would let you keep the music room, have it relocated brick by brick to wherever you want it."},
+        {"role": "Character 2", "content": "A music room without the estate around it is just four walls and a memory, [sighs], rather like a piano without fingerprints, wouldn't you say?"},
+        {"role": "Character 1", "content": "[desperately quiet] I tried to get myself removed from this project when I saw your name, but they said I was the only one with the right experience for a property this complex."},
+        {"role": "Character 2", "content": "The right experience. [hollow laugh] Well then, Tommy, hand me your papers and let me sign away four centuries of my family's history to the boy I taught to play Chopin."
+    ],
+    "scenario": "A corporate development analyst must convince a baroness to sell her ancestral estate for a major development project, but discovers she was his childhood piano teacher who changed his life.",
+    "selected_tones": ["regretful", "attached", "deliberate"],
+    "type": "scenario_conversation"
+}
+
+
+
+=== Original (English) ===
+
+raw: 
+{
+    "conversation": [
+        {"role": "Character 1", "content": "[carefully] Lady Hartwell, I appreciate you agreeing to meet with me about the Thornfield estate acquisition, though I realize this must be, well, incredibly difficult given your family's history there."},
+        {"role": "Character 2", "content": "[cool but curious] You have a familiar way of tilting your head when you speak, young man, though I can't quite place why that particular gesture strikes me as something I've seen before."},
+        {"role": "Character 3", "content": "My company's offer is forty percent above market value, which I know doesn't compensate for centuries of memories, but we're trying to be respectful of what this means. [pause] To you, specifically."},
+        {"role": "Character 2", "content": "[slowly] Respectful would have been not sending lawyers first, but since you're here now, tell me—what does a corporate analyst know about what Thornfield means to anyone?"},
+        {"role": "Character 1", "content": "[quieter] More than you might think, actually, because I spent three years of Saturday afternoons in your music room when you taught piano to scholarship kids from the village."},
+        {"role": "Character 2", "content": "Thomas? Little Tommy Morrison?"},
+        {"role": "Character 1", "content": "[regretfully] Not so little anymore, obviously, and here to take away the place where you taught me that poor kids could touch beautiful things without breaking them."},
+        {"role": "Character 2", "content": "You were eight years old, terrified of the grand piano, [laughs sadly], kept asking if you needed special gloves to play something so expensive."},
+        {"role": "Character 1", "content": "You told me pianos need fingerprints."},
+        {"role": "Character 2", "content": "[wistful] I said they need the oils from human hands to keep the keys from drying out, that instruments die without being touched. Rather like houses, really."},
+        {"role": "Character 1", "content": "[struggling] The development would create three hundred jobs in the village, Lady Hartwell, and the board's already approved the plans assuming this sale goes through."},
+        {"role": "Character 2", "content": "[bitter laugh] Assuming. How very corporate of them to assume a baroness would simply roll over for profit margins and employment statistics."},
+        {"role": "Character 1", "content": "They don't know about the piano lessons or the scholarship program you ran for twenty years without any recognition, using your own money when the estate started struggling. [softer] They just see property value."},
+        {"role": "Character 2", "content": "And what do you see?"},
+        {"role": "Character 1", "content": "[deliberately] I see my teacher losing her home because I got good enough at spreadsheets to make it happen, and I see myself completing the assignment anyway because I have my own family to feed now."},
+        {"role": "Character 2", "content": "[gently resigned] You always were too serious for your age, Tommy, carrying the world on those small shoulders even at eight years old."},
+        {"role": "Character 1", "content": "[voice breaking] There's a clause in the contract that would let you keep the music room, have it relocated brick by brick to wherever you want it."},
+        {"role": "Character 2", "content": "A music room without the estate around it is just four walls and a memory, [sighs], rather like a piano without fingerprints, wouldn't you say?"},
+        {"role": "Character 1", "content": "[desperately quiet] I tried to get myself removed from this project when I saw your name, but they said I was the only one with the right experience for a property this complex."},
+        {"role": "Character 2", "content": "The right experience. [hollow laugh] Well then, Tommy, hand me your papers and let me sign away four centuries of my family's history to the boy I taught to play Chopin."
+    ],
+    "scenario": "A corporate development analyst must convince a baroness to sell her ancestral estate for a major development project, but discovers she was his childhood piano teacher who changed his life.",
+    "selected_tones": ["regretful", "attached", "deliberate"],
+    "type": "scenario_conversation"
+}
+
+

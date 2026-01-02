@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[थका हुआ] तीन सौ सत्ताईस lines of code। बस इतना ही था। [विराम] तीन सौ सत्ताईस lines... normal Tuesday morning की coffee और पूरी तबाही के बीच में बस इतना सा। [कड़वाहट से] और उन्हें कभी पता नहीं चलेगा। कभी पता ही नहीं चलेगा कि कितने करीब— [आह] Eastern seaboard का पूरा banking system बस... गया होता। [धीरे से] फुस्स। Checking accounts, savings, mortgages, सब कुछ। [निराश] अरे नहीं नहीं, मैं तो बस वो अजीब सा बंदा हूं जो Monday को बिना वजह late तक रुका था, है ना? [व्यंग्य से] \"अरे यार तू इतनी देर तक क्यों रहता है? तेरी कोई life नहीं है क्या?\" [आहत] हाँ भाई, तुम्हारी life savings इसलिए बची है क्योंकि मेरी कोई life ही नहीं है, समझी Kavita मैडम। [विराम] भगवान, कितना दयनीय लग रहा हूं मैं। [माफी मांगते हुए] मैं कोई parade या कुछ नहीं मांग रहा, बस... [आवाज़ कम होते हुए] पता नहीं यार। [उदास] शायद अच्छा लगता अगर किसी को, अम्म, बस एक इंसान को पता होता कि update live होने से पहले मैंने वो vulnerability notice की थी। [चिंतित] दो करोड़ लोग सुबह उठते और कुछ नहीं होता उनके पास। [फुसफुसाते हुए] दो करोड़। [सामान्य स्वर, हार मानते हुए] लेकिन कल वो उठेंगे, phone check करेंगे, coffee लेंगे, और मैं बस वही IT वाला रहूंगा जो, अ, जो passwords reset करने में बहुत time लगाता है। [लंबा विराम] चलो ठीक है। [मुलायम आवाज़ में] Heroes हमेशा cape नहीं पहनते। [हल्की हंसी] कभी-कभी वो सिकुड़ी हुई polo shirts पहनते हैं और ज़्यादा Red Bull पीते हैं।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[exhausted] Three hundred and twenty-seven lines of code. That's all it was. [pause] Three hundred and twenty-seven lines standing between normal Tuesday morning coffee and absolute catastrophe. [bitter] And they'll never know. They'll never even know how close— [sigh] The whole banking system for the eastern seaboard would've just... gone. [quietly] Poof. Checking accounts, savings, mortgages, everything. [frustrated] But no, no, I'm just the weird guy who stayed late on Monday for no reason, right? [mocking] \"Why are you always here so late? Don't you have a life?\" [hurt] Yeah, well, your life savings still exists because I don't have one, Karen. [pause] God, I sound pathetic. [apologetic] I'm not asking for a parade or anything, I just... [trailing off] I don't know. [sad] Maybe it would be nice if someone, um, if just one person knew that I noticed the vulnerability before the update went live. [anxious] Twenty million people would've woken up to nothing. [whispering] Twenty million. [normal voice, resigned] But tomorrow they'll wake up, check their phones, buy their coffees, and I'll just be the IT guy who, uh, who takes too long to reset passwords. [long pause] I guess that's okay. [softly] Heroes don't always wear capes. [chuckle] Sometimes they wear wrinkled polo shirts and drink too much Red Bull."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "1906ad93_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your expertise preventing a disaster but nobody will ever know what you saved them from",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

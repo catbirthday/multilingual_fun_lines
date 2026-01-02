@@ -1,0 +1,48 @@
+=== Source: 8be56eea_script.json ===
+Actor: english_1
+Content Type: customer_support
+Professionalism: professional
+Scenario: confused because two different agents gave them completely different information
+
+=== Dialogue ===
+
+Customer: I need clarification on my warranty coverage. I've gotten conflicting information from two different representatives this week.
+
+Customer Support: I apologize for the confusion. Let me pull up your account and review the warranty details to provide you with accurate information. May I have your product serial number?
+
+Customer: It's TVC-88234-MK. One agent said I have full coverage until December, another said it expired last month.
+
+Customer Support: Thank you. I've located your product registration for unit TVC-88234-MK, purchased on December 15, 2023. Your standard warranty extends through December 15, 2024, with optional extended coverage available through plan code EXT-WARR-36M.
+
+Customer: That's exactly what I need to know. Can you document this in my account so there's no future confusion?
+
+Customer Support: Absolutely. I'm adding detailed notes to your account right now under reference ticket TKT-20240318-547. I'll also send you an email confirmation showing your warranty status and expiration date for your records.
+
+Customer: Perfect. While we're clarifying things, what exactly does the warranty cover? That was another point of disagreement.
+
+Customer Support: Certainly.
+
+Customer: The first agent mentioned parts only, the second said parts and labor were both included.
+
+Customer Support: Your warranty plan WRY-STANDARD-12M covers both parts and labor for manufacturer defects, normal wear items, and electrical components. The coverage excludes accidental damage, cosmetic issues, and consumable items like filters, which are listed in section 4.2 of your warranty documentation.
+
+Customer: That's much clearer. How should I proceed if I need to make a claim before December?
+
+Customer Support: You can initiate a claim through our online portal using claim code prefix CLM-2024, or call our warranty department directly at extension 4455. Processing typically takes 3-5 business days, and I recommend referencing today's ticket number TKT-20240318-547 for expedited service.
+
+Customer: Excellent. Can you also confirm whether I need to use authorized service centers for repairs?
+
+Customer Support: For warranty coverage to remain valid, repairs must be performed at authorized service centers using certification code AUTH-SERV-CERTIFIED. I can email you a list of the twelve authorized locations in your region, including their contact information and current availability schedules.
+
+Customer: That would be helpful. Please send that along with the warranty confirmation you mentioned earlier.
+
+Customer Support: I've queued both documents for delivery to your email address on file. You should receive them within the next fifteen minutes under email reference DOC-BUNDLE-85K42, and they'll include all the clarified information we've discussed today.
+
+Customer: Thank you for taking the time to clear this up properly. This is exactly what I needed.
+
+Customer Support: Of course.
+
+Customer: One last question. Who should I contact if I receive conflicting information again in the future?
+
+Customer Support: You can request a supervisor review by referencing case escalation protocol SUP-REVIEW-TIER2, or contact me directly at my agent ID AGT-4521-Sandra. I'm also flagging your account with priority status code PRI-GOLD-VERIFIED to ensure consistent, accurate support going forward.
+

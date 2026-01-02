@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, um, I'm probably doing this wrong but I think I got charged twice for..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm so sorry that happened. Let me, uh, pull up your account here. Can you maybe give me your order number or the email you used?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, uh—wait let me find—no actually it's under sarah.chen at... gmail..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, Sarah. Hmm, I'm seeing your account now and—oh wow, yeah, I can definitely see two charges here. One for $89.99 and another identical one just 3 minutes later. That's really frustrating."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah I mean, I'm sure I clicked something wrong or the page froze and I..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, this isn't your fault at all. Our system, er, it sometimes does this when there's a timeout. I see both charges hit at 2:14 PM and 2:17 PM yesterday. Really shouldn't happen."
+        },
+        {
+            "role": "Customer",
+            "content": "So can you just—I mean if it's possible to fix..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm gonna fix this right now. So transaction ID TXN-4429-B is the valid one, and I'm, um, immediately reversing TXN-4429-C. Should probably show in your account within 24 to 48 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, so—let me check—that's two whole days before I see...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, banks are, hmm, kind of slow with this stuff. But actually—you know what? Let me also add a $15 credit to your account. Code SORRY15. For the hassle."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Wow. That's actually—I wasn't expecting—thank you, that's really..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I mean, you shouldn't have to deal with this. The credit's already applied, so next purchase gets $15 off automatically. Reference number is CS-9847-CHEN if you need it."
+        },
+        {
+            "role": "Customer",
+            "content": "This is embarrassing but can I ask—no wait—is there a way to prevent this happening again...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not embarrassing at all! So what I'd suggest, er, if you get any loading screens, just wait like 30 seconds before clicking again. Our checkout timeout is set to 45 seconds. I know, it's kind of ridiculous."
+        },
+        {
+            "role": "Customer",
+            "content": "Forty-five seconds. Right. Because that's a totally normal amount of time to stare at a spinning wheel."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, right? Honestly, we've been, um, pushing tech to fix this for months. Customer ticket CT-2847 if you wanna track it. But yeah, it's... not great."
+        },
+        {
+            "role": "Customer",
+            "content": "Well at least you're honest about it being terrible, so that's...refreshing..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look, I'm gonna, hmm, make a note here in your file. Priority flag PF-1. If this ever happens again, any rep will see it and just instant-refund, no questions."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh that's—wow okay no that's actually amazing, thank you so much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Also sending confirmation to sarah.chen at gmail right now. Transaction reversal, the $15 credit, everything. Probably hit your inbox in like 2 minutes. Anything else I can help with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "8f6dfdd1_script.json",
+    "actor": 2,
+    "scenario": "yoga instructor, trying to stay calm but increasingly frustrated about a double charge",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

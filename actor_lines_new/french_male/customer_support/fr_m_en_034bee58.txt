@@ -1,0 +1,93 @@
+=== Source: 034bee58_script.json ===
+Language: French
+Gender: male
+Mode: en
+Content Type: customer_support
+Professionalism: casual
+Scenario: asking about data privacy and what information is stored
+
+=== Translated Dialogue ===
+
+Customer [en]: I've been a customer for six years and I just—I just found out you're selling my data?
+
+Customer Support [en]: Whoa. Okay. Between you and me? That's not exactly how it works. Let me pull up your privacy settings under account PVC-44281-B and I can show you what's really happening here.
+
+Customer [en]: My neighbor said you track everything. Every purchase, every click, it's it's all stored somewhere...
+
+Customer Support [en]: *sharp inhale* So I think what your neighbor might be mixing up is analytics versus personal data. Your account—and I'm looking at flag status FS-7 here—you've actually got most tracking turned off already.
+
+Customer [en]: Then why do I keep getting these targeted ads? It's creepy, it's wrong.
+
+Customer Support [en]: Right right. Here's the thing—and honestly? Most reps won't tell you this. Those ads probably aren't even from us. Your browser cookies, that's usually tracking ID TRK-9982-LOCAL, that's completely separate from what we store.
+
+Customer [en]: I don't—look, I just want to know what you have on me.
+
+Customer Support [en]: Got it. So I'm gonna do something for you. Pulling up your full data report now, reference number DRR-158423. Everything we have. Purchase history, saved addresses, payment tokens—but here's what we DON'T have that might surprise you.
+
+Customer [en]: Okay okay okay, what don't you have?
+
+Customer Support [en]: No browsing from incognito. No mic access. No location when app's closed. Your permissions dashboard shows restriction code RC-MAXIMUM. Basically? You're locked down tighter than Fort Knox. I'm kinda impressed actually.
+
+Customer [en]: But the email I got said there was a breach and...
+
+Customer Support [en]: *exhale* Yeah. Incident BRC-20231-Q4. I'm not gonna sugarcoat it. Some accounts were affected. But yours? Checking your security log SL-7749... you're clean. Wasn't even in the affected server cluster.
+
+Customer [en]: How do I know you're not just saying that to make me feel...
+
+Customer Support [en]: Fair. Totally fair. Tell you what—sending you verification code VER-823-PRIV right now. That gets you into our transparency portal. You can see every single data request, who accessed what, when, why. No corporate filter.
+
+Customer [en]: And this shows everything everything?
+
+Customer Support [en]: Mm. Every query, every access log under trace number TRC-4428-FULL. Even employee views like mine right now. See, I think you deserve to know exactly what's happening with your info. Not everyone asks these questions but they should.
+
+Customer [en]: I'm just... I'm tired of companies lying about this stuff.
+
+Customer Support [en]: *sharp breath* I get it. Look, here's what I'm gonna do. Enrolling you in our privacy shield program—code PSP-GOLD-847. It's technically for enterprise clients but... let's just say you qualify. Alerts you before ANY data sharing, even the legal stuff.
+
+Customer [en]: That's that's actually helpful. Finally someone who...
+
+Customer Support [en]: Right? And one more thing—I'm putting note NTE-99234 on your account. Any future privacy concerns, they escalate straight to specialized team, not regular support. These folks actually know the regulations, GDPR, everything. You shouldn't have to fight for this.
+
+
+=== Original (English) ===
+
+Customer: I've been a customer for six years and I just—I just found out you're selling my data?
+
+Customer Support: Whoa. Okay. Between you and me? That's not exactly how it works. Let me pull up your privacy settings under account PVC-44281-B and I can show you what's really happening here.
+
+Customer: My neighbor said you track everything. Every purchase, every click, it's it's all stored somewhere...
+
+Customer Support: *sharp inhale* So I think what your neighbor might be mixing up is analytics versus personal data. Your account—and I'm looking at flag status FS-7 here—you've actually got most tracking turned off already.
+
+Customer: Then why do I keep getting these targeted ads? It's creepy, it's wrong.
+
+Customer Support: Right right. Here's the thing—and honestly? Most reps won't tell you this. Those ads probably aren't even from us. Your browser cookies, that's usually tracking ID TRK-9982-LOCAL, that's completely separate from what we store.
+
+Customer: I don't—look, I just want to know what you have on me.
+
+Customer Support: Got it. So I'm gonna do something for you. Pulling up your full data report now, reference number DRR-158423. Everything we have. Purchase history, saved addresses, payment tokens—but here's what we DON'T have that might surprise you.
+
+Customer: Okay okay okay, what don't you have?
+
+Customer Support: No browsing from incognito. No mic access. No location when app's closed. Your permissions dashboard shows restriction code RC-MAXIMUM. Basically? You're locked down tighter than Fort Knox. I'm kinda impressed actually.
+
+Customer: But the email I got said there was a breach and...
+
+Customer Support: *exhale* Yeah. Incident BRC-20231-Q4. I'm not gonna sugarcoat it. Some accounts were affected. But yours? Checking your security log SL-7749... you're clean. Wasn't even in the affected server cluster.
+
+Customer: How do I know you're not just saying that to make me feel...
+
+Customer Support: Fair. Totally fair. Tell you what—sending you verification code VER-823-PRIV right now. That gets you into our transparency portal. You can see every single data request, who accessed what, when, why. No corporate filter.
+
+Customer: And this shows everything everything?
+
+Customer Support: Mm. Every query, every access log under trace number TRC-4428-FULL. Even employee views like mine right now. See, I think you deserve to know exactly what's happening with your info. Not everyone asks these questions but they should.
+
+Customer: I'm just... I'm tired of companies lying about this stuff.
+
+Customer Support: *sharp breath* I get it. Look, here's what I'm gonna do. Enrolling you in our privacy shield program—code PSP-GOLD-847. It's technically for enterprise clients but... let's just say you qualify. Alerts you before ANY data sharing, even the legal stuff.
+
+Customer: That's that's actually helpful. Finally someone who...
+
+Customer Support: Right? And one more thing—I'm putting note NTE-99234 on your account. Any future privacy concerns, they escalate straight to specialized team, not regular support. These folks actually know the regulations, GDPR, everything. You shouldn't have to fight for this.
+

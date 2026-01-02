@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[confused] Wait, you're the new kitchen assistant? [pause] I thought they were sending someone from the culinary school, not someone who clearly knows their way around professional knife work like that."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Yeah, first day on the job, just trying to learn the ropes and help where I can. [clearing throat] The agency said you needed someone who could start immediately without much training needed."
+        },
+        {
+            "role": "Character 1",
+            "content": "[slowly] Your brunoise is perfect, like actually perfect, and you've been organizing the walk-in exactly the way Chef Marcus used to before he left. Nobody does that unless they've worked fine dining for years."
+        },
+        {
+            "role": "Character 2",
+            "content": "[self-deprecating] Maybe I watched too many cooking shows during lockdown, picked up a few tricks here and there. [quietly] Just want to be useful and not get in anyone's way, that's all."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] Look, I recognize you now—you're Alexander Chen, aren't you? [pause] You ran Le Jardin until that whole embezzlement scandal broke, and your picture was all over the industry newsletters."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] That was a different person, a different life that ended six months ago when everything I built crumbled. [sighs] Now I'm just Alex, trying to pay rent and remember why I loved cooking before it all went wrong."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] Does management know who you are? Because if they find out I'm working with the guy who allegedly stole forty grand from his own restaurant, they might think I'm involved in something."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] The charges were dropped, not that anyone cares about that detail once your reputation is destroyed. [very melancholic] My business partner set me up, but try explaining that when the damage is already done."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] Jesus, I had no idea the charges were dropped—the stories just stopped appearing one day. [pause] Still, you went from running a Michelin-starred kitchen to peeling potatoes for fifteen an hour."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] Fifteen an hour is generous when you can't get references and every decent place googles your name. [exhales] I applied to thirty restaurants before this temp agency would even consider me."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] So what, you're just going to pretend to be some random helper and hope nobody else recognizes you? Half the line cooks here probably staged at Le Jardin at some point."
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] What else can I do—wear a sign saying 'disgraced chef, please give me a chance'? [self-deprecating laugh] I just need to work, to feel useful again, even if it's just doing prep work."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] Why didn't you leave the city, start fresh somewhere nobody knows your name? There are kitchens in Portland or Austin that wouldn't care about East Coast drama."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] My daughter's here, shared custody, and I already lost my restaurant, my savings, my reputation—I can't lose my weekends with her too. [pause] She thinks daddy just changed jobs, nothing more."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softly] Shit, okay, that changes things. [long pause] Look, I won't say anything, but you need to tell Chef Rivera yourself before someone else does."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] If I tell her, she'll fire me on the spot—liability issues, insurance concerns, the whole thing. [pleading] Can't we just see if I can make it through the week without causing problems?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] Fine, one week, but you're teaching me that thing you did with the shallot reduction earlier. [warmly] If I'm risking my job for you, I'm at least learning something from a Michelin-starred chef."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Former Michelin-starred chef, but yeah, I can do that—it's actually a simple technique once you understand the sugar content. [chuckles] Funny how the basic things matter most when everything else falls apart."
+        },
+        {
+            "role": "Character 1",
+            "content": "[attentive] Alright, Alex-not-Alexander, let's get through service without anyone getting suspicious. [pause] And maybe dial back the perfect knife skills—you're supposed to be learning, remember?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[grateful] Right, I'll fumble a few juliennes and ask you obvious questions about the menu. [warmly] Thank you for this, for seeing me as just another human trying to survive instead of a headline."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "84f332ac_scenario.json",
+    "actor": 1,
+    "scenario": "A prep cook at a high-end restaurant discovers their new kitchen assistant is actually the former executive chef who was fired for a scandal six months ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "prep",
+    "character_2_role": "helper",
+    "selected_tones": [
+        "concealing",
+        "attentive",
+        "self-deprecating"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "I keep meaning to write you this email, but I never know how to start. [nervous] Because how do you tell someone they basically saved your life? [pause] I was seventeen in your English class and, um... I was ready to drop out. [very quietly] My dad had just left, my mom was working three jobs, and I thought—well, I thought school was pointless. [bitter] Then you assigned that essay about our biggest fear. [chuckle] Remember? [warm] And I wrote about being invisible, about feeling like I'd never matter to anyone. [sad] You kept me after class and... [sniffle] God, you said something I'll never forget. [emotional] You said \"Your voice deserves to be heard, but first you have to believe it yourself.\" [pause] That sounds so simple now, but back then? [laugh] It was like—woah—someone actually saw me. [very sincerely] You made me apply to college when I thought community college was, er, out of reach even. [excited] And now I'm a published writer! [extremely happy] Three books! [laugh loudly] Sometimes I'm at readings and I think... she has no idea. [warm] You probably don't even remember that conversation, but it changed everything. [crying while speaking] I almost gave up on myself, and you wouldn't let me. [very sincerely] So, um... thank you. [whisper] Thank you for believing I had something worth saying."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "I keep meaning to write you this email, but I never know how to start. [nervous] Because how do you tell someone they basically saved your life? [pause] I was seventeen in your English class and, um... I was ready to drop out. [very quietly] My dad had just left, my mom was working three jobs, and I thought—well, I thought school was pointless. [bitter] Then you assigned that essay about our biggest fear. [chuckle] Remember? [warm] And I wrote about being invisible, about feeling like I'd never matter to anyone. [sad] You kept me after class and... [sniffle] God, you said something I'll never forget. [emotional] You said \"Your voice deserves to be heard, but first you have to believe it yourself.\" [pause] That sounds so simple now, but back then? [laugh] It was like—woah—someone actually saw me. [very sincerely] You made me apply to college when I thought community college was, er, out of reach even. [excited] And now I'm a published writer! [extremely happy] Three books! [laugh loudly] Sometimes I'm at readings and I think... she has no idea. [warm] You probably don't even remember that conversation, but it changed everything. [crying while speaking] I almost gave up on myself, and you wouldn't let me. [very sincerely] So, um... thank you. [whisper] Thank you for believing I had something worth saying."
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "3ee08800_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "A former student crediting your class with changing their entire life trajectory",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": false
+    }
+}

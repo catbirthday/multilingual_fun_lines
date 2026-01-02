@@ -1,0 +1,93 @@
+=== Source: 4b111537_script.json ===
+Language: European Spanish
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: auctioneer, fast-talking and impatient with the agent's slow verification process
+
+=== Translated Dialogue ===
+
+Customer [pure]: Buenas tardes, necesito ayuda urgente con mi cuenta de vendedor premium que está bloqueada desde esta mañana.
+
+Customer Support [pure]: Gracias por contactar con nosotros. Estaré encantada de ayudarla a recuperar el acceso a su cuenta. Por seguridad, ¿me podría facilitar su número de cuenta y el correo electrónico asociado a su perfil?
+
+Customer [pure]: La cuenta es la 447829. El correo es rapidbid arroba auctioneers punto com. Esto es extremadamente urgente.
+
+Customer Support [pure]: Perfecto. Aquí veo la cuenta ASN-447829-PRO en nuestro sistema, registrada a nombre de RapidBid Auctioneers LLC en Commerce Boulevard 2847. Ahora necesitaría verificar los últimos cuatro dígitos del método de pago que tiene registrado.
+
+Customer [pure]: Es 8923. Tengo tres subastas en directo programadas para hoy empezando a las dos de la tarde, hora del este.
+
+Customer Support [pure]: Entiendo la urgencia. La tarjeta que termina en 8923 coincide con nuestros registros, y veo que tiene los eventos E-9847, E-9848 y E-9849 programados para las 14:00, 16:00 y 19:00 hora del este respectivamente.
+
+Customer [pure]: Exacto. ¿Podemos agilizar esto? Mis clientes ya están cargando inventario en el sistema.
+
+Customer Support [pure]: Por supuesto. Ahora mismo lo estoy escalando a estado prioritario. Según nuestros registros de seguridad, su cuenta fue marcada después de 47 intentos fallidos de acceso desde la IP 192.168.44.221 entre las 3:17 y las 3:42 de esta madrugada.
+
+Customer [pure]: Eso no fui yo. Mi dirección IP es completamente distinta. Alguien habrá intentado hackear la cuenta.
+
+Customer Support [pure]: Ya veo. Su rango de IP registrado es 74.125.22.0/24, lo cual confirma que fue un acceso no autorizado. Estoy iniciando ahora mismo nuestro Protocolo de Recuperación de Cuenta ARP-7734, que normalmente tarda entre 10 y 15 minutos en completarse.
+
+Customer [pure]: Quince minutos es muy justo. ¿Hay alguna manera de acelerar el proceso?
+
+Customer Support [pure]: Déjeme comprobar las opciones rápidas. Como es usted miembro Premium Nivel 3 con más de 2,4 millones de dólares en transacciones este trimestre, puedo activar la restauración de emergencia bajo la Política EP-445B, que reduce la espera a unos 3 minutos aproximadamente.
+
+Customer [pure]: Perfecto. Por favor, hágalo inmediatamente. ¿Y podemos evitar que esto vuelva a pasar?
+
+Customer Support [pure]: Por supuesto. Estoy procesando la restauración de emergencia ahora con el número de ticket TK-98234-PRIORITY. Para futura seguridad, le recomendaría activar nuestro sistema de autenticación de doble factor, que habría bloqueado completamente esta intrusión.
+
+Customer [pure]: Vale, actívelo también. ¿Cómo va el estado de la restauración de la cuenta?
+
+Customer Support [pure]: Claro. Su restauración de cuenta está al 67% de completarse, quedan aproximadamente 90 segundos. También he programado la activación del 2FA para después de que termine su subasta de las 19:00 esta noche, así no interferirá con los eventos de hoy.
+
+Customer [pure]: Buena idea. ¿Recibiré confirmación cuando la cuenta esté totalmente restaurada?
+
+Customer Support [pure]: Sí, recibirá confirmación inmediata por correo electrónico y SMS al número registrado que termina en 7745. La restauración acaba de completarse con éxito, y puedo confirmar que las tres subastas siguen intactas con 847 lotes totales entre todas las sesiones.
+
+Customer [pure]: Excelente. Ya veo que he vuelto a entrar. Gracias por la resolución rápida.
+
+Customer Support [pure]: De nada. Su número de referencia del caso es SR-20241115-4478 para sus registros, y nuestro equipo de seguridad le enviará un informe detallado del incidente en las próximas 24 horas. ¿Hay algo más en lo que pueda ayudarla antes de que empiecen sus subastas?
+
+
+=== Original (English) ===
+
+Customer: Good afternoon, I need immediate assistance with my premium seller account that's been locked since this morning.
+
+Customer Support: Thank you for contacting us today. I'd be happy to help you regain access to your account. For security purposes, may I please have your account number and the email address associated with your profile?
+
+Customer: Account number is 447829. Email is rapidbid at auctioneers dot com. This is extremely time-sensitive.
+
+Customer Support: Thank you. I can see account ASN-447829-PRO in our system, registered to RapidBid Auctioneers LLC at 2847 Commerce Boulevard. Now I'll need to verify the last four digits of the payment method on file.
+
+Customer: It's 8923. I have three live auctions scheduled today starting at two o'clock Eastern.
+
+Customer Support: I understand the urgency. The card ending in 8923 matches our records, and I can see you have Event IDs E-9847, E-9848, and E-9849 scheduled for 2:00 PM, 4:00 PM, and 7:00 PM Eastern respectively.
+
+Customer: Exactly. Can we expedite this? My clients are already loading inventory into the system.
+
+Customer Support: Absolutely. I'm escalating this to priority status right now. According to our security logs, your account was flagged after 47 failed login attempts from IP address 192.168.44.221 between 3:17 AM and 3:42 AM this morning.
+
+Customer: That wasn't me. My IP address is completely different. Someone must have tried to hack in.
+
+Customer Support: I see. Your registered IP range is 74.125.22.0/24, which confirms this was unauthorized access. I'm initiating our Account Recovery Protocol ARP-7734 right now, which typically takes 10 to 15 minutes to complete.
+
+Customer: Fifteen minutes is cutting it very close. Is there any way to accelerate this process?
+
+Customer Support: Let me check for expedited options. Since you're a Premium Tier 3 member with over $2.4 million in transactions this quarter, I can invoke emergency restoration under Policy EP-445B, which reduces the wait to approximately 3 minutes.
+
+Customer: Perfect. Please do that immediately. And can we prevent this from happening again?
+
+Customer Support: Certainly. I'm processing the emergency restoration now with ticket number TK-98234-PRIORITY. For future security, I recommend enabling our two-factor authentication system, which would have blocked this intrusion completely.
+
+Customer: Fine, set that up too. What's the status on the account restoration?
+
+Customer Support: Of course. Your account restoration is at 67% completion, approximately 90 seconds remaining. I've also scheduled the 2FA activation to begin after your 7:00 PM auction concludes tonight, so it won't interfere with today's events.
+
+Customer: Good thinking. Will I receive confirmation when the account is fully restored?
+
+Customer Support: Yes, you'll receive immediate confirmation via email and SMS to your registered number ending in 7745. The restoration just completed successfully, and I can confirm all three auction events remain intact with 847 total lots across all sessions.
+
+Customer: Excellent. I can see I'm back in. Thank you for the quick resolution.
+
+Customer Support: You're very welcome. Your case reference number is SR-20241115-4478 for your records, and our security team will send a detailed incident report within 24 hours. Is there anything else I can assist you with before your auctions begin?
+

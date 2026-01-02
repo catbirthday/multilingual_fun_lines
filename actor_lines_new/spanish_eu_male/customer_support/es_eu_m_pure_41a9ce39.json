@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Perdona, es que... *exhales* Llevo cuarenta minutos esperando. Y ahora seguramente me vas a decir. Que no es tu departamento."
+        },
+        {
+            "role": "Customer Support",
+            "content": "¡No no no! Vamos a solucionarlo. ¿Número de cuenta rápido? Lo cargo todo, veo exactamente qué está pasando aquí a las 8:42 hora peninsular, y te lo arreglo."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale, entonces... ¿es por la reclamación de garantía? De hace dos semanas. A ver... número de reclamación W-4482."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale vale. W-4482. Lo busco ahora. Las reclamaciones de garantía sí que van por el equipo de protección en la extensión 3341, pero espera. Déjame mirar una cosa primero."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Claro. Ya decía yo. Perdona, te estoy haciendo perder el tiempo, ¿verdad?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Para para para. No pierdes nada. Mira lo que voy a hacer. ¿Transferirte? Es otra espera. En lugar de eso, te creo un ticket prioritario de llamada PCT-7826-ML. Te llaman en 20 minutos."
+        },
+        {
+            "role": "Customer",
+            "content": "¿De verdad van a llamar? Porque la última vez... *exhales* Da igual. Dime qué tengo que hacer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Llaman seguro. Le pongo mi código de agente SR-449. Así me responden a mí. Tu ventana de llamada empieza a las 9:05, termina a las 9:25. ¿Teléfono terminado en 7823?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sí, ese es. Mmm, ¿y si no lo cojo? Tengo una reunión. A las nueve y media."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pues perfecto entonces. Pero oye. ¿No lo coges? Lo intentan otra vez en 2 horas. También estoy mandando ahora mismo un correo a warranty@supportcenter.net con tu caso marcado como urgente."
+        },
+        {
+            "role": "Customer",
+            "content": "No hace falta que... O sea. Seguramente debería haber llamado directamente a ellos. Qué vergüenza."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eh eh. ¿Sabes cuántos departamentos tenemos? 47. Nadie sabe quién gestiona qué. Pero me voy a asegurar de que esto se arregle hoy. Añado notas sobre esa fecha de reclamación original, 15 de octubre."
+        },
+        {
+            "role": "Customer",
+            "content": "Vale, entonces eso significa... ¿tendrán todo? ¿No me harán explicarlo todo otra vez?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Todo todo. Historial completo. Tu número de serie del producto QX-7729-B4. Fecha de compra original. Interacciones anteriores. Sabrán que has sido paciente. Muy paciente."
+        },
+        {
+            "role": "Customer",
+            "content": "*long exhale* Bueno. Vale. Esperaré la llamada entonces."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Venga venga. Una cosa más. Línea directa si algo sale mal: 800-555-4429 extensión 2267. Es mi mesa de escalados. Úsala si esa llamada no llega."
+        },
+        {
+            "role": "Customer",
+            "content": "A ver... ¿has dicho extensión... dos dos seis siete?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "2267 sí. Apúntalo. Guárdalo. ¿Cualquier departamento te marea? Ese número se salta todo. Va a los jefes que arreglan cosas de verdad."
+        },
+        {
+            "role": "Customer",
+            "content": "Perdona por ser... difícil. Es que estoy harto de que me pasen de un lado a otro."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Qué va, difícil nada. El sistema es un lío. Eso es culpa nuestra. Tu llamada está confirmada. PCT-7826-ML. Van a llamar. Te lo prometo. Hoy lo dejamos arreglado."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I just... *exhales* I've been on hold for forty minutes. And now you're probably gonna tell me. Wrong department."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no! Let's figure this out. Account number real quick? I'll pull everything up, see exactly what's happening here at 8:42 AM Eastern, get you sorted."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so... it's about the warranty claim? From two weeks ago. Let me see here... claim number W-4482."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it. W-4482. Pulling that now. Warranty claims do route through our protection team at extension 3341, but hold on. Let me check something first."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Of course. I knew it. I'm sorry, I'm wasting your time, aren't I?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Stop stop stop. Not wasting anything. Here's what I'm gonna do. Transferring you? That's another wait. Instead, I'm creating a priority callback ticket PCT-7826-ML. They'll call you within 20 minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "They'll actually call? Because last time... *exhales* Never mind. Just tell me what I need to do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely calling. I'm putting my rep code SR-449 on this. Makes them accountable to me. Your callback window starts at 9:05 AM, ends 9:25 AM. Phone ending in 7823?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that's right. Hmm, what if I miss it though? I have a meeting. At nine-thirty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect timing then. But listen. Miss it? They try again in 2 hours. I'm also dropping an email to warranty@supportcenter.net right now with your case flagged urgent."
+        },
+        {
+            "role": "Customer",
+            "content": "You don't have to... I mean. I probably should've just called them first. This is embarrassing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey hey. Know how many departments we have? 47. Nobody knows who handles what. I'm gonna make sure this gets fixed today though. Adding notes about that original claim date, October 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... they'll have everything? Won't make me explain it all over again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything everything. Full history. Your product serial QX-7729-B4. Original purchase date. Prior interactions. They'll know you've been patient. Really patient."
+        },
+        {
+            "role": "Customer",
+            "content": "*long exhale* Fine. Okay. I'll wait for the call then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good good. One more thing. Direct line if something goes wrong: 800-555-4429 extension 2267. That's my escalation desk. Use it if that callback doesn't happen."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... did you say extension... two two six seven?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "2267 yes. Write it down. Keep it. Any department gives you runaround? That number bypasses everything. Goes to managers who actually fix things."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry for being... difficult. Just tired of getting bounced around."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not difficult at all. System's confusing. That's on us. Your callback's locked in. PCT-7826-ML. They'll call. Promise you that. We're gonna get this handled today."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "41a9ce39_script.json",
+    "professionalism": "casual",
+    "scenario": "frustrated that their issue requires a different department",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "resigned_going_through_motions"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "cheerfully_efficient",
+                "nurturing_protective"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

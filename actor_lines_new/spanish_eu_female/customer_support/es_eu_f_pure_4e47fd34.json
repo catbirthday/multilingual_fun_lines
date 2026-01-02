@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Acabo de mirar mis extractos. ¿Llevo pagando el doble? ¿Durante meses?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ay madre mía vale vale, déjame que mire tu cuenta ahora mismo, eh, ¿cuál es tu correo para ver qué está pasando con la facturación?"
+        },
+        {
+            "role": "Customer",
+            "content": "Es, espera—no perdona, es J-Miller-87 arroba gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfecto vale, pues veo dos cuentas activas aquí y, esto, sí, tienes razón, hay cargos duplicados desde el 23 de agosto, uno de 14,99€ y otro por la misma cantidad, o sea que definitivamente esto no debería estar pasando."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso es lo que dijeron la última vez. Lo de la garantía."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mm veo que has tenido problemas antes la verdad, hay una nota aquí del 15 de septiembre sobre una reclamación de garantía, y mira, entiendo perfectamente que estés frustrada ahora mismo."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Entonces puedes arreglarlo? ¿O tengo que—no sé, escalar esto?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, por supuesto que puedo solucionarlo ahora mismo, así que lo que voy a hacer es, eh, cancelar la cuenta duplicada que termina en X4782, y luego procesar un reembolso completo por todos esos cargos extra, que son 74,95€ en total."
+        },
+        {
+            "role": "Customer",
+            "content": "¿Setenta y cuatro? Eso son solo cinco meses. Creo que son más."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ay espera tienes razón, déjame que mire más atrás... uf vale, pues esto en realidad se remonta al 2 de mayo, no agosto, error mío, así que el reembolso real sería, em, 119,92€ por ocho meses de cargos duplicados."
+        },
+        {
+            "role": "Customer",
+            "content": "Ocho meses. Genial. Qué sistema más bueno tenéis, ¿eh?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ya, lo sé, esto es... mira, entre tú y yo, nuestro sistema de facturación tuvo una migración el 30 de abril y, pues, algunas cuentas se duplicaron por error, pero la verdad es que la mayoría de la gente no se da cuenta tan tarde."
+        },
+        {
+            "role": "Customer",
+            "content": "La mayoría de la gente seguramente confía en que les cobréis correctamente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Lo pillo. Tienes toda la razón. Así que estoy procesando ese reembolso de 119,92€ ahora mismo, debería llegarte en 3-5 días laborables, número de referencia RF-9928-QM7, y también te voy a añadir un crédito para el próximo mes como disculpa."
+        },
+        {
+            "role": "Customer",
+            "content": "Un crédito. Para el próximo mes. Después de cobrarme de más durante ocho."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vale pues de hecho, em, espera que mire qué más puedo... venga, te voy a aplicar un código de descuento del 50%, SAVE50-VIP, a tu cuenta para los próximos seis meses también, o sea que solo pagarás 7,49€ al mes hasta mayo."
+        },
+        {
+            "role": "Customer",
+            "content": "Eso—vale. Bien. ¿Cuándo llega el reembolso exactamente?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pues el sistema indica que se procesará como muy tarde el 18 de diciembre, aunque normalmente estos llegan más rápido, tipo en 48 horas, y te llegará un email de confirmación a J-Miller-87@gmail.com cuando se procese."
+        },
+        {
+            "role": "Customer",
+            "content": "Ya. Claro. El martes entonces, o el miércoles seguramente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exacto, y oye, si no te aparece para el miércoles por la tarde, llámanos al 900-ATENCION, menciona ese número de ticket RF-9928-QM7, y bueno, pregunta por mí directamente si quieres—estoy aquí de lunes a viernes, normalmente hasta las 18:00 más o menos."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I just checked my statements. I've been paying twice? For months?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh okay so let me pull up your account real quick here, um, what's your email address so I can see what's going on with the billing?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, wait—no sorry, it's J-Miller-87 at gmail."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect okay so I'm seeing two active accounts here and, er, yeah you're right there's been duplicate charges since August 23rd, one for $14.99 and another for the same amount, so basically that's definitely not supposed to happen."
+        },
+        {
+            "role": "Customer",
+            "content": "That's what they said last time. About the warranty thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm I can see you've had some issues before actually, there's a note here from September 15th about a warranty claim, and honestly I totally get why you'd be frustrated right now."
+        },
+        {
+            "role": "Customer",
+            "content": "So can you fix it? Or do I need to—I don't know, escalate?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no absolutely I can handle this right now, so what I'm gonna do is, uh, cancel the duplicate account ending in X4782, and then process a full refund for all those extra charges, which comes to $74.95 total."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventy-four? That's only five months. I think it's more."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wait you're right, let me scroll back further... yikes okay so this actually goes back to May 2nd, not August, my mistake there, so the actual refund amount would be, hmm, $119.92 for eight months of duplicate charges."
+        },
+        {
+            "role": "Customer",
+            "content": "Eight months. Great. Really great system you've got."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I know, this is... look, between you and me? Our billing system had this whole migration thing around April 30th and, er, some accounts got duplicated by accident, but most people don't catch it this late honestly."
+        },
+        {
+            "role": "Customer",
+            "content": "Most people probably trust you to bill them correctly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. You're absolutely right. So I'm processing that $119.92 refund right now, should hit your account within 3-5 business days, reference number RF-9928-QM7, and I'm also adding a credit for next month as an apology."
+        },
+        {
+            "role": "Customer",
+            "content": "A credit. For next month. After you overcharged me for eight."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so actually, um, hang on let me see what else I can... alright I'm applying a 50% discount code, SAVE50-VIP, to your account for the next six months too, so basically you'll only pay $7.49 monthly through May."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—okay. Fine. When's the refund hitting exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So the system shows it'll post by December 18th at the latest, though usually these come through faster, like within 48 hours, and you'll get an email confirmation to J-Miller-87@gmail.com once it processes."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Sure. Tuesday then, or Wednesday probably."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, and hey if it doesn't show up by Wednesday afternoon, call us back at 1-800-SERVICE, reference that ticket number RF-9928-QM7, and, well, ask for me directly if you want—I'm here Monday through Friday, usually till about 6 PM Eastern."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4e47fd34_script.json",
+    "professionalism": "casual",
+    "scenario": "panicked because they just realized they've been paying for two subscriptions",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "skeptical_guarded",
+                "seething_controlled"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "self_corrections",
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "slightly_frazzled",
+                "humanizing_personal"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "hedge_words",
+                    "filled_pauses"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

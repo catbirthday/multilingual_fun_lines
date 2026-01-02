@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Buenas tardes. Es la quinta vez que llamo por mi problema de suspensión de cuenta, I need this resolved today, por favor."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Le pido sinceramente disculpas por la frustración continua con su cuenta. Déjeme consultar su historial ahora mismo con el número de cuenta que termina en 7294, and I'll personally ensure we reach a resolution today."
+        },
+        {
+            "role": "Customer",
+            "content": "Gracias. Me suspendieron la cuenta hace tres semanas, despite my payment clearing on the fourteenth."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Veo que el pago de $487.50 se procesó el 14 de octubre, y tiene toda la razón, ha habido un error. Su número de caso CAS-90412-BK muestra múltiples contactos pero ninguna escalación apropiada, which is completely unacceptable on our part."
+        },
+        {
+            "role": "Customer",
+            "content": "He perdido acceso a herramientas críticas de negocio durante este tiempo. This has cost me significant revenue and client trust."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Entiendo completamente la gravedad de esta situación y el impacto en sus operaciones comerciales. Estoy escalando esto inmediatamente a nuestro equipo de resolución Tier 3 con código de prioridad RED-7X, and I'm going to stay on this case personally until it's resolved."
+        },
+        {
+            "role": "Customer",
+            "content": "Se lo agradezco, pero ya me han prometido escalación antes. What specifically will be different this time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Es una pregunta totalmente justa. A diferencia de los tickets anteriores que se codificaron como prioridad estándar ST-2, estoy marcando esto como escalación ejecutiva EE-9041, which requires resolution within four hours, con supervisión directa desde nuestro centro de operaciones en Building Delta, Floor 12."
+        },
+        {
+            "role": "Customer",
+            "content": "Bien. También necesito compensación por los 21 días de servicio perdido, and the time I've spent on this issue."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Por supuesto. Estoy autorizado a emitir un crédito de servicio de $1,463.70, which represents three full months at your current rate, más añado una mejora de soporte prioritario valorada en $299 anuales sin cargo durante los próximos 12 meses."
+        },
+        {
+            "role": "Customer",
+            "content": "Es razonable. When exactly will my account be reactivated?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Su cuenta será completamente restaurada en los próximos 30 minutos usando nuestro protocolo de reactivación de emergencia ERP-5521, and you'll receive confirmation emails to both your primary and backup addresses on file."
+        },
+        {
+            "role": "Customer",
+            "content": "Necesito documentación escrita de todo lo que hemos discutido, including the compensation and the failure points that led to this situation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sí. Estoy generando un informe completo del incidente con número de referencia INC-20241127-KM9 que detalla los cinco intentos de contacto, los pasos de resolución y el paquete de compensación, which will be emailed to you within the next hour."
+        },
+        {
+            "role": "Customer",
+            "content": "Por favor, asegúrense también de que esto no vuelva a pasar. What preventive measures are being implemented?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Vamos a colocar una marca de excepción permanente EXC-PRIO en su cuenta que activa revisión manual antes de cualquier acción de suspensión, and you're being assigned to our dedicated account management team in Suite 400, con un número de contacto directo."
+        },
+        {
+            "role": "Customer",
+            "content": "Quiero el nombre y la extensión de mi gestor de cuenta dedicado, once that's assigned."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Su gestora de cuenta será Sandra Martinez, extensión 5847, and she'll be reaching out within two business days, para presentarse y revisar la configuración de su cuenta para prevenir futuros problemas."
+        },
+        {
+            "role": "Customer",
+            "content": "Gracias por tomarse esto en serio. I expect the reactivation confirmation within 30 minutes as you stated."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutamente, tiene mi compromiso con ese plazo. Mi nombre es David Chen, ID de empleado DCH-4492, and I'll be monitoring your case until full resolution. Si no recibe la confirmación antes de las 2:45 PM hora del Este, please call me directly at extension 3961."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. This is the fifth time I've called about my account suspension issue. I need this resolved today, please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize for the ongoing frustration with your account. Let me pull up your case history right away using your account number ending in 7294, and I'll personally ensure we reach a resolution today."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. The account was suspended three weeks ago despite my payment clearing on the fourteenth."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can see the payment of $487.50 posted on October 14th, and you're absolutely right that there's been an error. Your case number CAS-90412-BK shows multiple contacts but no proper escalation, which is completely unacceptable on our part."
+        },
+        {
+            "role": "Customer",
+            "content": "I've lost access to critical business tools during this time. This has cost me significant revenue and client trust."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the severity of this situation and the impact on your business operations. I'm immediately escalating this to our Tier 3 resolution team with priority code RED-7X, and I'm going to stay on this case personally until it's resolved."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that, but I've been promised escalation before. What specifically will be different this time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely fair question. Unlike the previous tickets which were coded as standard priority ST-2, I'm marking this as executive escalation EE-9041 which requires resolution within four hours and direct supervisor oversight from our operations center in Building Delta, Floor 12."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. I also need compensation for the twenty-one days of lost service and the time I've spent on this issue."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm authorized to issue a service credit of $1,463.70, which represents three full months at your current rate, plus I'm adding a priority support upgrade valued at $299 annually at no charge for the next twelve months."
+        },
+        {
+            "role": "Customer",
+            "content": "That's reasonable. When exactly will my account be reactivated?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your account will be fully restored within the next thirty minutes using our emergency reactivation protocol ERP-5521, and you'll receive confirmation emails to both your primary and backup addresses on file."
+        },
+        {
+            "role": "Customer",
+            "content": "I need written documentation of everything we've discussed, including the compensation and the failure points that led to this situation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm generating a comprehensive incident report with reference number INC-20241127-KM9 that details all five contact attempts, the resolution steps, and the compensation package, which will be emailed to you within the next hour."
+        },
+        {
+            "role": "Customer",
+            "content": "Please also ensure this doesn't happen again. What preventive measures are being implemented?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "We're placing a permanent exception flag EXC-PRIO on your account that triggers manual review before any suspension action, and you're being assigned to our dedicated account management team in Suite 400 with a direct contact number."
+        },
+        {
+            "role": "Customer",
+            "content": "I want the name and extension of my dedicated account manager once that's assigned."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your account manager will be Sandra Martinez, extension 5847, and she'll be reaching out within two business days to introduce herself and review your account setup to prevent any future issues."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for taking this seriously. I expect the reactivation confirmation within thirty minutes as you stated."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, you have my commitment on that timeline. My name is David Chen, employee ID DCH-4492, and I'll be monitoring your case until full resolution. If you don't receive the confirmation by 2:45 PM Eastern, please call me directly at extension 3961."
+        }
+    ],
+    "language": "spanish_eu",
+    "language_name": "European Spanish",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "442bab9b_script.json",
+    "professionalism": "professional",
+    "scenario": "angry because this is the fifth time they've called about the same issue",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "politely_firm",
+                "calmly_frustrated"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "steadily_composed",
+                "diplomatically_firm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

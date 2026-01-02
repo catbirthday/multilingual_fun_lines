@@ -1,0 +1,48 @@
+=== Source: 96eed483_script.json ===
+Actor: english_3
+Content Type: customer_support
+Professionalism: professional
+Scenario: confused about charges appearing as a different company name
+
+=== Dialogue ===
+
+Customer: Good morning. I'm calling about some charges on my credit card statement that I don't recognize.
+
+Customer Support: Good morning. I'd be happy to help you identify those charges. May I have your account number or the phone number associated with your account?
+
+Customer: My account number is 4521-8847. The charges show as "TMG Holdings" but I haven't purchased anything from that company.
+
+Customer Support: Thank you. I've located your account, customer ID CUS-88471-MK. Let me pull up your recent transaction history to review those charges with you.
+
+Customer: I appreciate that. There are three charges from October that total about two hundred dollars.
+
+Customer Support: I can see those transactions now. The charges dated October 12th for $67.99, October 18th for $84.50, and October 23rd for $47.51 are actually from our online marketplace.
+
+Customer: But why would they appear under a completely different company name?
+
+Customer Support: Excellent question. TMG Holdings is our parent company's payment processing entity, registered under merchant code MCC-5734. When you make purchases through our platform, the billing descriptor shows the processor's legal name.
+
+Customer: That's confusing. Is there any way to make this clearer on future statements?
+
+Customer Support: I understand your concern completely. While we cannot change how your bank displays the merchant name, I can enable email confirmations with reference number REF-2847-OCT that will match your statement charges exactly.
+
+Customer: That would be helpful. Can you also confirm what those specific October purchases were for?
+
+Customer Support: Certainly. The October 12th charge was for your software subscription renewal, order number ORD-67991-AB. October 18th was for digital storage upgrade, and October 23rd was for premium support services.
+
+Customer: Now it makes sense. I did authorize those purchases but didn't connect them to TMG Holdings.
+
+Customer Support: Of course.
+
+Customer: Is this information documented anywhere in my account for future reference?
+
+Customer Support: Yes, I'm adding a detailed note to your account right now under case number CASE-981147-TMG. You'll also receive an email within the next hour explaining the billing descriptor relationship.
+
+Customer: Perfect. Will all future charges from your company appear this same way?
+
+Customer Support: Yes, all charges will continue to appear as TMG Holdings on your statement. However, with the new email confirmations activated under setting ID SET-4471-EM, you'll receive immediate purchase details that reference both names.
+
+Customer: Thank you for the thorough explanation. This resolves my concerns completely.
+
+Customer Support: You're very welcome. I've also credited your account with a $10 courtesy credit under transaction TXN-88447-CR for the confusion. Is there anything else I can assist you with today?
+

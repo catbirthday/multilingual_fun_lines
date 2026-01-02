@@ -1,0 +1,93 @@
+=== Source: 057b876a_script.json ===
+Language: French
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: groundskeeper, calling at 6am about a paycheck error before his shift starts
+
+=== Translated Dialogue ===
+
+Customer [pure]: Bonjour. Il faut que je vous parle d'une erreur sur mon virement de la paie d'hier.
+
+Customer Support [pure]: Bonjour, et merci d'appeler les Services de Paie. Je serais ravi de vous aider à régler ce problème. Est-ce que je peux avoir votre numéro d'employé pour accéder à votre dossier de paie ?
+
+Customer [pure]: C'est le 45812. Mes heures supplémentaires de la semaine dernière n'ont pas été incluses dans le virement.
+
+Customer Support [pure]: Merci. Alors, je recherche le numéro d'employé 45812... Voilà, je vois votre profil ici pour le service des espaces verts de la municipalité de Riverside. Bon, laissez-moi regarder vos feuilles de temps et le calcul de paie pour la période se terminant le 8 décembre.
+
+Customer [pure]: J'ai déclaré vingt-deux heures supplémentaires dans le système. Seulement les heures normales ont été payées.
+
+Customer Support [pure]: Je vois l'anomalie maintenant. Votre feuille de temps montre bien 22 heures supplémentaires approuvées par le superviseur Martinez avec le code OT-7734, mais le traitement de la paie n'a capturé que vos 40 heures standard. Ça semble être une erreur système de notre côté.
+
+Customer [pure]: Quand est-ce que ça peut être corrigé ? J'ai des prélèvements automatiques prévus pour demain.
+
+Customer Support [pure]: Je comprends l'urgence, tout à fait. Écoutez, je lance tout de suite une correction de paiement hors cycle avec le code prioritaire PAY-9021-EM. Ça va être traité aujourd'hui et arriver sur votre compte en fin de journée, bien avant vos prélèvements prévus.
+
+Customer [pure]: Est-ce que ça va inclure le bon taux majoré de 150% ?
+
+Customer Support [pure]: Absolument. La correction va calculer 22 heures à votre taux horaire majoré de 31,50 $ de l'heure, soit un total de 693,00 $ avant déductions. Votre paiement net supplémentaire sera de 521,48 $ après les retenues standard.
+
+Customer [pure]: Bien. Vous pouvez m'envoyer un justificatif de cette correction par mail pour mes dossiers ?
+
+Customer Support [pure]: Bien sûr. Je vais vous envoyer l'avis de correction à votre adresse mail qui se termine en 7842 dans les quinze prochaines minutes. Le document inclura le numéro de référence DOC-4456-XL pour le suivi.
+
+Customer [pure]: Il faut aussi que je m'assure que ça ne se reproduira pas à la prochaine paie.
+
+Customer Support [pure]: J'ai marqué votre compte pour une vérification manuelle pour les trois prochains cycles de paie avec la note MRV-2098. En plus, j'escalade ça à notre équipe systèmes pour enquêter sur pourquoi les heures sup' n'ont pas été traitées correctement.
+
+Customer [pure]: Qu'est-ce que je dois faire si le dépôt n'arrive pas en fin de journée aujourd'hui ?
+
+Customer Support [pure]: Bien entendu.
+
+Customer [pure]: C'est la ligne directe, ça ? Pas le système automatique que j'ai eu ce matin ?
+
+Customer Support [pure]: Exact, c'est ma ligne directe qui évite le système automatique. Vous pouvez aussi donner le numéro de dossier CSE-8831-PY si vous devez parler à un autre représentant, et ils auront toutes les notes de notre conversation disponibles.
+
+Customer [pure]: Bon, merci d'avoir géré ça rapidement. Faut que j'aille prendre mon poste maintenant.
+
+Customer Support [pure]: Je vous en prie. La correction de paiement est déjà en cours de traitement sous le code d'autorisation ATH-5524-QM, et vous allez recevoir ce mail de confirmation très bientôt. Merci de nous avoir signalé ça, et bonne journée au travail.
+
+
+=== Original (English) ===
+
+Customer: Good morning. I need to discuss an error with my direct deposit from yesterday's payroll.
+
+Customer Support: Good morning, and thank you for calling Payroll Services. I'd be happy to help you resolve this issue. May I have your employee ID number so I can access your payroll records?
+
+Customer: It's 45812. My overtime hours from last week weren't included in the deposit.
+
+Customer Support: Thank you. I'm pulling up employee ID 45812 now. I can see your profile here for the Riverside Municipal grounds department. Let me review your timesheets and payroll calculation for the period ending December 8th.
+
+Customer: I submitted twenty-two hours of overtime through the system. Only regular hours were paid.
+
+Customer Support: I see the discrepancy now. Your timesheet shows 22 overtime hours approved by supervisor Martinez with code OT-7734, but the payroll processing only captured your standard 40 hours. This appears to be a system error on our end.
+
+Customer: When can this be corrected? I have bills scheduled for automatic payment tomorrow.
+
+Customer Support: I understand the urgency. I'm initiating an off-cycle payment correction right now with priority code PAY-9021-EM. This will process today and reach your account by end of business, well before your scheduled payments.
+
+Customer: Will this include the proper overtime rate of time and a half?
+
+Customer Support: Absolutely. The correction will calculate 22 hours at your overtime rate of $31.50 per hour, totaling $693.00 before deductions. Your net additional payment will be $521.48 after standard withholdings.
+
+Customer: Good. Can you email me documentation of this correction for my records?
+
+Customer Support: Certainly. I'll send the correction notice to your email on file ending in 7842 within the next fifteen minutes. The document will include reference number DOC-4456-XL for tracking purposes.
+
+Customer: I also need to verify this won't happen again next pay period.
+
+Customer Support: I've flagged your account for manual review for the next three pay cycles with note MRV-2098. Additionally, I'm escalating this to our systems team to investigate why the overtime didn't process correctly.
+
+Customer: What should I do if the deposit doesn't arrive by end of business today?
+
+Customer Support: Of course.
+
+Customer: That's the direct number? Not the main automated system I called this morning?
+
+Customer Support: Correct, that's my direct line which bypasses the automated system. You can also reference case number CSE-8831-PY if you need to speak with another representative, and they'll have all our conversation notes available.
+
+Customer: Thank you for handling this quickly. I need to start my shift now.
+
+Customer Support: You're very welcome. The payment correction is already processing under authorization code ATH-5524-QM, and you'll receive that confirmation email shortly. Thank you for bringing this to our attention, and have a good day at work.
+

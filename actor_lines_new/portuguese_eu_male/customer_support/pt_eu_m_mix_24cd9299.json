@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Boa tarde. Já fui transferido 3 vezes sobre uma disputa de gorjeta na minha conta de tours de terça passada."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Peço imensa desculpa pelas múltiplas transferências. Vou já abrir a sua conta e garanto que resolvemos isto hoje, without any further delays."
+        },
+        {
+            "role": "Customer",
+            "content": "Obrigado. O problema é com a referência TG-8924-WL, where the client disputed the automatic gratuity."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tenho aqui a sua reserva TG-8924-WL no ecrã, mostra um grupo de 12 pessoas com 18% de gorjeta automática de 324 dólares que foi disputada ontem."
+        },
+        {
+            "role": "Customer",
+            "content": "Correto. Eles alegam que não foram informados sobre a política de gorjeta automática antecipadamente."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Estou a ver os detalhes da disputa aqui. De acordo com os nossos registos, the booking confirmation sent on October 3rd clearly states the automatic gratuity policy in section 4.2 of the terms."
+        },
+        {
+            "role": "Customer",
+            "content": "Exatamente. Também confirmei isto verbalmente durante o briefing pré-tour. Podemos reverter a disputa?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro que sim. Estou a rever o waiver digital assinado às 9:47 daquela manhã, which includes acknowledgment of the gratuity policy, o que nos dá documentação completa para reverter esta disputa."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfeito. Quanto tempo vai demorar o processo de reversão? Tenho obrigações de folha de pagamento esta sexta."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Compreendo. A reversão será processada dentro de 24 horas, and the full 324 dollars will be deposited into your account ending in 7829 by Thursday morning."
+        },
+        {
+            "role": "Customer",
+            "content": "Vou receber confirmação quando a reversão estiver completa?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza. Vai receber um email de confirmação no seu endereço registado dentro de 2 horas, followed by a second notification once the funds are successfully deposited."
+        },
+        {
+            "role": "Customer",
+            "content": "Ótimo. Preciso de fazer alguma coisa para prevenir disputas semelhantes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Recomendo implementar o nosso novo sistema de confirmação por SMS pré-tour, which sends guests a text at booking and again 24 hours before the tour explicitly stating the gratuity policy."
+        },
+        {
+            "role": "Customer",
+            "content": "Parece-me útil. Consegue ativar isso na minha conta agora?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com todo o gosto, ativo já. The SMS feature is now enabled for all your future bookings, e os clientes vão receber notificações do 844-TOUR-925."
+        },
+        {
+            "role": "Customer",
+            "content": "Excelente. Pode também anotar na minha conta que já tive este problema antes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Já adicionei uma nota detalhada ao seu perfil indicando 3 disputas anteriores de gorjetas, todas revertidas com sucesso, which will help expedite any future concerns."
+        },
+        {
+            "role": "Customer",
+            "content": "Obrigado por tratar disto tão eficientemente. Agradeço mesmo não ter sido transferido outra vez."
+        },
+        {
+            "role": "Customer Support",
+            "content": "É um prazer. I've also credited your account with 2 complimentary SMS packages worth 15 dollars each, pela inconveniência das múltiplas transferências de hoje."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I've been transferred three times already regarding a tip dispute on my tour account from last Tuesday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize for the multiple transfers. Let me pull up your account right away and ensure we resolve this today without any further delays."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. The issue is with booking reference TG-8924-WL where the client disputed the automatic gratuity."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I have your booking TG-8924-WL on my screen now, showing a party of 12 guests with an 18% automatic gratuity of $324.00 that was disputed yesterday."
+        },
+        {
+            "role": "Customer",
+            "content": "Correct. They claim they weren't informed about the automatic gratuity policy beforehand."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can see the dispute details here. According to our records, the booking confirmation sent on October 3rd clearly states the automatic gratuity policy in section 4.2 of the terms."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. I also verbally confirmed this during our pre-tour briefing. Can we reverse the dispute?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm reviewing the signed digital waiver from 9:47 AM that morning, which includes acknowledgment of the gratuity policy, giving us full documentation to reverse this dispute."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. How long will the reversal process take? I have payroll obligations this Friday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. The reversal will be processed within 24 hours, and the full $324.00 will be deposited into your account ending in 7829 by Thursday morning."
+        },
+        {
+            "role": "Customer",
+            "content": "Will I receive confirmation when the reversal is complete?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. You'll receive an email confirmation to your registered address within 2 hours, followed by a second notification once the funds are successfully deposited."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Is there anything needed from my end to prevent similar disputes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I recommend implementing our new pre-tour SMS confirmation system, which sends guests a text at booking and again 24 hours before the tour explicitly stating the gratuity policy."
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds helpful. Can you set that up for my account now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'd be happy to activate that immediately. The SMS feature is now enabled for all your future bookings, and guests will receive notifications from 844-TOUR-925."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Can you also note on my account that I've had this issue before?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've added a detailed note to your profile indicating 3 previous gratuity disputes, all successfully reversed, which will help expedite any future concerns."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for handling this efficiently. I appreciate not being transferred again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "My pleasure. I've also credited your account with 2 complimentary SMS packages worth $15.00 each for the inconvenience of the multiple transfers today."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "24cd9299_script.json",
+    "professionalism": "professional",
+    "scenario": "tour guide, friendly but exasperated after being transferred three times about a tip dispute",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "patiently_persistent",
+                "matter_of_fact"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "patiently_methodical",
+                "warmly_professional"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

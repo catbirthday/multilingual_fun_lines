@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need assistance with a direct deposit issue. My paycheck was sent to an account I closed last month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for reaching out. I understand the urgency of a payroll matter. Let me pull up your employee profile using your ID number to investigate this immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "My employee ID is 4782. I work at the downtown location as lead bartender."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your profile, employee ID 4782, showing you're with our downtown venue. I can see your most recent deposit of $1,847.23 was processed yesterday to an account ending in 7259."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. I closed that Wells Fargo account three weeks ago and submitted the change form."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the issue now. Your change request form HR-2201-B was received on October 5th, but it appears the update wasn't processed before this pay cycle. I sincerely apologize for this oversight on our end."
+        },
+        {
+            "role": "Customer",
+            "content": "What's the timeline for recovering these funds? I have rent due on Friday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely understood. I'm initiating an urgent payroll correction under case number PAY-88245-UR. Our accounting team will recall the funds from the closed account, which typically takes 24-48 hours once the bank confirms rejection."
+        },
+        {
+            "role": "Customer",
+            "content": "Will I need to provide documentation from Wells Fargo showing the account closure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That won't be necessary. Our payroll department handles these reversals directly with the financial institutions. However, I do need to verify your new routing number 021000021 and account ending in 8834 for the reissue."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, those numbers are correct. That's my new checking account with Chase."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I've confirmed those details and flagged this for priority processing. You'll receive the full $1,847.23 via direct deposit or, if needed faster, we can issue a paper check from our downtown location by Thursday morning."
+        },
+        {
+            "role": "Customer",
+            "content": "The paper check would be better given my rent situation. Can I pick that up Thursday?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm scheduling the check for pickup Thursday at 9:00 AM. Please bring your employee ID badge to the management office, and ask for check number 77429."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Will this also update my information for future deposits?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, I'm updating that right now. Your profile now shows the Chase account ending in 8834 as primary, effective immediately. Your next regular deposit on November 15th will go to this account."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the quick resolution. Can you send me an email confirmation with these details?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a detailed confirmation to your email on file, including case number PAY-88245-UR, the Thursday pickup information, and verification that your banking details have been permanently updated in our system."
+        },
+        {
+            "role": "Customer",
+            "content": "That covers everything I need. Thank you for handling this efficiently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've also added a note to your file documenting this issue to prevent any future occurrences. If you don't receive that confirmation email within 10 minutes or have any other concerns, please don't hesitate to call back."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need assistance with a direct deposit issue. My paycheck was sent to an account I closed last month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for reaching out. I understand the urgency of a payroll matter. Let me pull up your employee profile using your ID number to investigate this immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "My employee ID is 4782. I work at the downtown location as lead bartender."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your profile, employee ID 4782, showing you're with our downtown venue. I can see your most recent deposit of $1,847.23 was processed yesterday to an account ending in 7259."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. I closed that Wells Fargo account three weeks ago and submitted the change form."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the issue now. Your change request form HR-2201-B was received on October 5th, but it appears the update wasn't processed before this pay cycle. I sincerely apologize for this oversight on our end."
+        },
+        {
+            "role": "Customer",
+            "content": "What's the timeline for recovering these funds? I have rent due on Friday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely understood. I'm initiating an urgent payroll correction under case number PAY-88245-UR. Our accounting team will recall the funds from the closed account, which typically takes 24-48 hours once the bank confirms rejection."
+        },
+        {
+            "role": "Customer",
+            "content": "Will I need to provide documentation from Wells Fargo showing the account closure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That won't be necessary. Our payroll department handles these reversals directly with the financial institutions. However, I do need to verify your new routing number 021000021 and account ending in 8834 for the reissue."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, those numbers are correct. That's my new checking account with Chase."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I've confirmed those details and flagged this for priority processing. You'll receive the full $1,847.23 via direct deposit or, if needed faster, we can issue a paper check from our downtown location by Thursday morning."
+        },
+        {
+            "role": "Customer",
+            "content": "The paper check would be better given my rent situation. Can I pick that up Thursday?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm scheduling the check for pickup Thursday at 9:00 AM. Please bring your employee ID badge to the management office, and ask for check number 77429."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Will this also update my information for future deposits?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, I'm updating that right now. Your profile now shows the Chase account ending in 8834 as primary, effective immediately. Your next regular deposit on November 15th will go to this account."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the quick resolution. Can you send me an email confirmation with these details?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a detailed confirmation to your email on file, including case number PAY-88245-UR, the Thursday pickup information, and verification that your banking details have been permanently updated in our system."
+        },
+        {
+            "role": "Customer",
+            "content": "That covers everything I need. Thank you for handling this efficiently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've also added a note to your file documenting this issue to prevent any future occurrences. If you don't receive that confirmation email within 10 minutes or have any other concerns, please don't hesitate to call back."
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6b0f9c41_script.json",
+    "professionalism": "professional",
+    "scenario": "bartender, frustrated that his direct deposit went to a bank account he already closed",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "matter_of_fact",
+                "patiently_persistent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "attentively_engaged",
+                "diplomatically_firm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

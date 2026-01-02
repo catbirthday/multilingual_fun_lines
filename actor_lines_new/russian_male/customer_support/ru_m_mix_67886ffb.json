@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically I had to rent a car? Типа, ваш шаттл вообще не приехал, и я опоздал на самолёт."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm—hmm, I'm really sorry about that. Дайте-ка я проверю вашу бронь... так, вижу, бронирование REF-9942-XL на шаттл в 7:45 утра до аэропорта Ньюарк, и тут показывает—ох. Да. Водитель даже не отметился."
+        },
+        {
+            "role": "Customer",
+            "content": "Right! And then so—*exhales*—мне пришлось брать Uber, который обошёлся мне в 87 долларов."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eighty-seven—eesh, that's awful. Эм, я вижу тут, что ваш изначальный шаттл стоил всего 35 долларов, так что это, конечно, большая разница. Дайте-ка посмотрю, что я могу—э, вообще-то, секундочку... быстренько проверю нашу политику возмещения."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank God you're actually checking. Предыдущий сотрудник только извинялся и всё."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, I get it. Окей, так—хм, интересно. Между нами говоря? Ваш аккаунт показывает три сбоя в обслуживании за последние шесть месяцев в этой локации, индекс 07102. Это... это вообще не нормально."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait three? Я помню только—нет, стоп, точно да. Март. Июнь. И сейчас."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly. Так что вот что я сделаю—и честно говоря, этой локации пора проснуться—я провожу полное возмещение 87 долларов под номером инцидента INC-7739-QM22, плюс добавляю кредит 50 долларов за систематические сбои."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you serious? Это—в смысле—вау. Спасибо. Серьёзно, спасибо огромное."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look, three strikes? Это наш косяк, не ваш. Возмещение придёт на вашу карту, заканчивающуюся на 4429, в течение 3-5 рабочих дней, и э, кредит уже активен на вашем аккаунте."
+        },
+        {
+            "role": "Customer",
+            "content": "This is amazing. Так кредит—дайте уточню—работает для любого бронирования?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm-hmm, any shuttle service we offer. Срока действия нет вообще. Хотя, э... может, попробуйте локацию в Гамильтоне? Индекс 07109? У них показатель надёжности типа 98.7%."
+        },
+        {
+            "role": "Customer",
+            "content": "*Sharp inhale* Yes! Hamilton! Это вообще-то ближе к—стоп, вы можете видеть показатели надёжности?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Heh, well... технически это внутренняя метрика, но, эм, после того, что вы пережили? Думаю, вы заслуживаете знать. Станция Ньюарк сейчас на уровне 71.2%, что, уф, не очень-то."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventy-one percent?! Неудивительно—окей, так в принципе мне больше никогда не стоит бронировать Ньюарк."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean... я не могу официально вам это сказать, но, э, цифры говорят сами за себя, правда? Ваш номер подтверждения возмещения RMB-2847-KP33, кстати."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Got it. И типа—серьёзно, спасибо, что говорите как есть."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! Ой, вообще-то—ещё кое-что. Раз вы такой частый пользователь, я помечаю ваш аккаунт ACC-9984-TT2 для приоритетной поддержки. В следующий раз когда позвоните? Сразу к старшему специалисту."
+        },
+        {
+            "role": "Customer",
+            "content": "Stop. You're kidding. Это—я даже не—всё началось так ужасно, а теперь..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, three failures means we owe you premium treatment, honestly. Что-нибудь ещё могу для вас сделать сегодня? Или, э, надеюсь, не придётся помогать, потому что всё наконец-то будет работать?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically I had to rent a car? Like, your shuttle never showed and I missed my flight."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm—hmm, I'm really sorry about that. Let me pull up your reservation... okay I see it here, booking REF-9942-XL for the 7:45am shuttle to Newark Airport, and it shows—oh. Yeah. Driver never checked in."
+        },
+        {
+            "role": "Customer",
+            "content": "Right! And then so—*exhales*—I had to get an Uber which cost me eighty-seven dollars."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eighty-seven—eesh, that's awful. Um, I'm seeing here your original shuttle was only $35, so that's quite a difference. Let me see what I can—er, actually, hold on... checking our reimbursement policy real quick."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank God you're actually checking. The last person just kept saying sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah no, I get it. Okay so—hmm, interesting. Between you and me? Your account shows three service failures in the past six months at this location, ZIP 07102. That's... that's not okay."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait three? I only remember—no wait, actually yeah. March. June. Now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly. So what I'm gonna do here—and honestly this location needs a wake-up call—I'm putting through the full $87 reimbursement under incident ID INC-7739-QM22, plus I'm adding a $50 credit for the pattern of failures."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you serious? That's—I mean—wow. Thank you. Like really."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look, three strikes? That's on us, not you. The reimbursement'll hit your card ending in 4429 within 3-5 business days, and uh, the credit's already active on your account."
+        },
+        {
+            "role": "Customer",
+            "content": "This is amazing. So the credit—let me just—works for any booking?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm-hmm, any shuttle service we offer. No expiration either. Though, er... maybe try the Hamilton location instead? ZIP 07109? Their reliability score is like 98.7%."
+        },
+        {
+            "role": "Customer",
+            "content": "*Sharp inhale* Yes! Hamilton! That's actually closer to—wait, you can see reliability scores?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Heh, well... technically that's internal metrics but, um, after what you've been through? Figure you deserve to know. Newark station's sitting at 71.2% right now which is, oof, not great."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventy-one percent?! No wonder—okay so basically I should just never book Newark again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean... I can't officially tell you that, but, uh, the numbers speak for themselves, right? Your confirmation for this reimbursement is RMB-2847-KP33 by the way."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Got it. And like—seriously, thank you for being real about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! Oh, actually—one more thing. Since you're such a frequent user, I'm flagging your account ACC-9984-TT2 for priority support. Next time you call? Straight to a senior rep."
+        },
+        {
+            "role": "Customer",
+            "content": "Stop. You're kidding. That's—I don't even—this whole thing started so bad and now..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, three failures means we owe you premium treatment, honestly. Anything else I can help with today? Or, er, hopefully not need to help with because things actually work?"
+        }
+    ],
+    "language": "russian",
+    "language_name": "Russian",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "67886ffb_script.json",
+    "professionalism": "casual",
+    "scenario": "trying to get reimbursement for expenses caused by service failure",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "genuinely_grateful",
+                "manic_oversharing"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses",
+                    "false_starts",
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "awkwardly_apologetic",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "classic_fillers"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        }
+    }
+}

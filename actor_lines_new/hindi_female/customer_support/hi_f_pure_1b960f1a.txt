@@ -1,0 +1,93 @@
+=== Source: 1b960f1a_script.json ===
+Language: Hindi
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: trying to get reimbursement for expenses caused by service failure
+
+=== Translated Dialogue ===
+
+Customer [pure]: मैं INC-892741 वाले incident के बारे में call कर रही हूं। आपकी service outage ने पिछले Tuesday को मेरे काफी business expenses करवा दिए।
+
+Customer Support [pure]: जी, call करने के लिए धन्यवाद। मेरे पास आपकी incident report है INC-892741, जिसमें Tuesday, October 3rd को दोपहर 2 बजे से रात 11 बजे तक की service interruption दिख रही है। देख रही हूं आप related expenses के लिए reimbursement मांग रही हैं।
+
+Customer [pure]: जी हां, बिल्कुल। मुझे emergency equipment rent करना पड़ा और तीन contractors को overtime देना पड़ा।
+
+Customer Support [pure]: मैं समझ सकती हूं इससे आपके operations पर क्या impact पड़ा होगा। हमारे records के अनुसार, आप हमारे Business Pro plan पर हैं जिसमें 99.9% uptime guarantee है, और इसमें 4 घंटे से ज्यादा के extended outages के लिए reimbursement provisions भी हैं।
+
+Customer [pure]: अच्छा। मेरे पास कुल आठ सौ सैंतालीस डॉलर की receipts हैं। इन्हें submit करने का process क्या है?
+
+Customer Support [pure]: मैं अभी reimbursement claim शुरू कर देती हूं। आपका claim number है CLM-2847-RX, और आपको अगले 48 घंटों में हमारे secure portal पर receipts upload करनी होंगी, finance team review करेगी।
+
+Customer [pure]: Review में आम तौर पर कितना time लगता है? इससे मेरा cash flow already काफी disturb हो चुका है।
+
+Customer Support [pure]: जी बिल्कुल।
+
+Customer [pure]: अरे ये कोई जवाब थोड़े ही है। मुझे specific timeframe चाहिए reimbursement के लिए।
+
+Customer Support [pure]: अ... sorry मैं clear नहीं थी। देखिये, standard review तो 5 से 7 business days लेता है, लेकिन... आपका तो 9 घंटे का outage था ना, तो मैं इसे priority queue में escalate कर रही हूं, 72 घंटों में review हो जाएगा।
+
+Customer [pure]: ये ठीक है। क्या मुझे पूरे आठ सौ सैंतालीस डॉलर मिलेंगे?
+
+Customer Support [pure]: Finance team हर receipt को हमारी reimbursement policy guidelines से review करेगी। Direct costs जैसे equipment rental को usually 100% coverage मिलती है, जबकि contractor overtime को case by case देखा जाता है, standard rates के 150% तक।
+
+Customer [pure]: मेरे contractors standard rates ही charge करते हैं। सब कुछ qualify करना चाहिए। जब मैं upload करूं तो क्या आप receipt confirm कर सकती हैं?
+
+Customer Support [pure]: जी हां बिल्कुल। Upload करते ही आपको automated confirmation मिल जाएगा, और मैं note add कर रही हूं कि Tier 2 support की Agent Teresa पहले 24 घंटों में personally आपकी submission review करें।
+
+Customer [pure]: मुझे इस disruption के लिए तीन महीने के service credits भी चाहिए। क्या ये possible है?
+
+Customer Support [pure]: मैं समझ सकती हूं आपकी service failure से frustration। देखिये, मैं directly 3 महीने approve नहीं कर सकती, लेकिन मैं 2 महीने के service credits तुरंत apply कर सकती हूं, total $459.98 आपके account में।
+
+Customer [pure]: दो महीने तो काफी कम लग रहे हैं इतनी बड़ी problem के लिए। तीसरा महीना कौन approve कर सकता है?
+
+Customer Support [pure]: रुकिये, मैं इसे हमारी retention team को escalate करती हूं। Supervisor Martinez के पास 6 महीने तक के credits की authority है और वो आपकी account history review कर सकती हैं। वो आज दोपहर 3 से 5 बजे Eastern time के बीच आपको call back करेंगी।
+
+Customer [pure]: ठीक है। Please ये सब कुछ मेरे account में document कर दीजिये, escalation भी।
+
+Customer Support [pure]: सब कुछ आपके master ticket INC-892741 के अंदर document हो गया है, including reimbursement claim CLM-2847-RX, 2 महीने का credit $459.98, और आज दोपहर Supervisor Martinez का callback।
+
+
+=== Original (English) ===
+
+Customer: I'm calling about incident number INC-892741. Your service outage last Tuesday cost me significant business expenses.
+
+Customer Support: Thank you for calling. I have your incident report INC-892741 here showing the service interruption from Tuesday, October 3rd between 2 PM and 11 PM. I see you're requesting reimbursement for related expenses.
+
+Customer: That's correct. I had to rent emergency equipment and pay overtime to three contractors.
+
+Customer Support: I understand the impact this had on your operations. According to our records, you're on our Business Pro plan with 99.9% uptime guarantee, which does include reimbursement provisions for extended outages beyond 4 hours.
+
+Customer: Good. I have receipts totaling eight hundred forty-seven dollars. What's the process for submitting these?
+
+Customer Support: I'll initiate a reimbursement claim right now. Your claim number is CLM-2847-RX, and I'll need you to upload your receipts to our secure portal within 48 hours for our finance team to review.
+
+Customer: How long does the review typically take? This has already disrupted my cash flow considerably.
+
+Customer Support: Absolutely.
+
+Customer: That's not really an answer. I need a specific timeframe for the reimbursement.
+
+Customer Support: I apologize for not being clearer. Standard review takes 5 to 7 business days, but given the extended 9-hour outage, I'm escalating this to our priority queue for review within 72 hours.
+
+Customer: That's better. Will I receive the full eight hundred forty-seven dollars?
+
+Customer Support: The finance team will review each receipt against our reimbursement policy guidelines. Direct costs like the equipment rental typically receive 100% coverage, while contractor overtime is evaluated case by case up to 150% of standard rates.
+
+Customer: My contractors charge standard rates. Everything should qualify. Can you confirm receipt once I upload?
+
+Customer Support: Certainly. You'll receive an automated confirmation immediately upon upload, and I'm adding a note to have Agent Teresa from Tier 2 support personally review your submission within the first 24 hours.
+
+Customer: I also want three months of service credits for this disruption. Is that possible?
+
+Customer Support: I understand your frustration with the service failure. While I cannot approve 3 months directly, I am authorized to apply 2 months of service credits immediately, totaling $459.98 to your account.
+
+Customer: Two months seems insufficient given the severity. Who can approve the third month?
+
+Customer Support: Let me escalate this to our retention team. Supervisor Martinez has authority for credits up to 6 months and can review your account history. She'll call you back today between 3 PM and 5 PM Eastern.
+
+Customer: Fine. Please ensure all of this is documented in my account, including the escalation.
+
+Customer Support: Everything has been documented under your master ticket INC-892741, including the reimbursement claim CLM-2847-RX, the 2-month credit of $459.98, and the callback from Supervisor Martinez scheduled for this afternoon.
+

@@ -1,0 +1,225 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, I I was just checking my statement and there's this charge—I think I know what happened actually"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem at all, I'm happy to help you figure it out! Let me just pull up your account here, can you give me the last four digits of the card that was charged?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's 7829, and honestly I'm feeling pretty ridiculous right now"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ending in 7829, perfect! I can see the charge you're referring to, it's for $14.99 and that's your monthly subscription to our Premium Plus service that was activated back in June"
+        },
+        {
+            "role": "Customer",
+            "content": "June. Of course. I I completely forgot I even signed up for that"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, it happens more than you'd think! So this is billing cycle PPL-0614-M for the Premium Plus, and I can see you've had it running for about five months now"
+        },
+        {
+            "role": "Customer",
+            "content": "Five months of not even using it once, that's that's fantastic"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, the good news is we can definitely take care of this for you today. Would you like to cancel the subscription going forward, or were you thinking about maybe a refund for recent charges?"
+        },
+        {
+            "role": "Customer",
+            "content": "Both? I mean if that's even possible at this point"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, um, so here's what I can do—I'll cancel it effective immediately so you won't see any future charges, and for the refund, our standard policy covers the last 60 days which would be two billing cycles totaling $29.98"
+        },
+        {
+            "role": "Customer",
+            "content": "That's actually more than I expected, so yeah yeah let's do that"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! I'm processing the cancellation now, your confirmation number is CAN-8829-XK41, and the refund will post to your card within 3-5 business days"
+        },
+        {
+            "role": "Customer",
+            "content": "Next time I'll set myself a reminder or something"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what, that's actually really smart. A lot of our customers use calendar alerts for their subscriptions, just a monthly check-in to see what they're still using"
+        },
+        {
+            "role": "Customer",
+            "content": "Could've saved myself seventy-five dollars with one calendar alert"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well hey, at least you caught it now! And between you and me, I've seen people go a lot longer—had someone last week who'd been paying for three years"
+        },
+        {
+            "role": "Customer",
+            "content": "Three years? Okay okay I feel slightly better about my five months"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? So you're all set here, the cancellation is complete and your refund reference number is REF-2847-QM92, you should get an email confirmation within the next hour"
+        },
+        {
+            "role": "Customer",
+            "content": "Great, and next time I sign up for something I'll I'll actually remember it exists"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Happens to the best of us! Is there anything else I can help you with today while I have your account pulled up?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, I I was just checking my statement and there's this charge—I think I know what happened actually"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem at all, I'm happy to help you figure it out! Let me just pull up your account here, can you give me the last four digits of the card that was charged?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's 7829, and honestly I'm feeling pretty ridiculous right now"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ending in 7829, perfect! I can see the charge you're referring to, it's for $14.99 and that's your monthly subscription to our Premium Plus service that was activated back in June"
+        },
+        {
+            "role": "Customer",
+            "content": "June. Of course. I I completely forgot I even signed up for that"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, it happens more than you'd think! So this is billing cycle PPL-0614-M for the Premium Plus, and I can see you've had it running for about five months now"
+        },
+        {
+            "role": "Customer",
+            "content": "Five months of not even using it once, that's that's fantastic"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, the good news is we can definitely take care of this for you today. Would you like to cancel the subscription going forward, or were you thinking about maybe a refund for recent charges?"
+        },
+        {
+            "role": "Customer",
+            "content": "Both? I mean if that's even possible at this point"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, um, so here's what I can do—I'll cancel it effective immediately so you won't see any future charges, and for the refund, our standard policy covers the last 60 days which would be two billing cycles totaling $29.98"
+        },
+        {
+            "role": "Customer",
+            "content": "That's actually more than I expected, so yeah yeah let's do that"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! I'm processing the cancellation now, your confirmation number is CAN-8829-XK41, and the refund will post to your card within 3-5 business days"
+        },
+        {
+            "role": "Customer",
+            "content": "Next time I'll set myself a reminder or something"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what, that's actually really smart. A lot of our customers use calendar alerts for their subscriptions, just a monthly check-in to see what they're still using"
+        },
+        {
+            "role": "Customer",
+            "content": "Could've saved myself seventy-five dollars with one calendar alert"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well hey, at least you caught it now! And between you and me, I've seen people go a lot longer—had someone last week who'd been paying for three years"
+        },
+        {
+            "role": "Customer",
+            "content": "Three years? Okay okay I feel slightly better about my five months"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? So you're all set here, the cancellation is complete and your refund reference number is REF-2847-QM92, you should get an email confirmation within the next hour"
+        },
+        {
+            "role": "Customer",
+            "content": "Great, and next time I sign up for something I'll I'll actually remember it exists"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Happens to the best of us! Is there anything else I can help you with today while I have your account pulled up?"
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "28868bbb_script.json",
+    "professionalism": "casual",
+    "scenario": "embarrassed because they forgot about the recurring charge they set up",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "relieved_but_wary",
+                "annoyed_sarcastic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "patient_teacher",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

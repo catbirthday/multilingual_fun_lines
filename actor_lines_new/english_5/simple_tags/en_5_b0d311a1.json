@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[firmly] Mrs. Chen, the evacuation order isn't a suggestion this time. [pause] I watched everything I owned turn to ash three years ago, and I'm not letting you make the same mistake I did by staying too long."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sternly] My family has lived in this house for four generations, Sarah. [quietly] These walls hold more than just memories—they hold our ancestors' spirits, and I won't abandon them for some weather prediction."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] It's not just weather!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] We've survived earthquakes, floods, and riots in this neighborhood. [sighs] My grandmother refused to leave during the '65 riots and the house protected her then, just as it will protect me now."
+        },
+        {
+            "role": "Character 1",
+            "content": "Fire doesn't care about your family history or how many generations lived here. It consumed my parents' house in twelve minutes—twelve minutes, Mrs. Chen—and that included all the photo albums you helped my mother organize."
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] I remember those albums, such beautiful pictures of you growing up. [pause] But this is different, Sarah, this house has stood through everything because we've never abandoned it when it needed us most."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angrily] Houses don't need us, we need them, and only when they're not death traps! [shaky voice] Can you smell the smoke getting stronger? That's not from miles away anymore—that's from the next ridge over."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] My husband's ashes are in the garden under the cherry tree he planted. [very quietly] How can I leave him behind when I promised I'd tend that tree until I joined him?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] He wouldn't want you to die for a promise, Mrs. Chen. [pause] Take some soil from the garden, take a cutting from the tree, but please, take yourself out of here while you still can."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Easy for you to say when you've already lost everything. [sighs] Some of us still have something left to protect, even if others think we're foolish for trying."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] You think I don't have things to protect?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] I didn't mean it like that, I just—[exhales] this house is all I have left of him, of them, of the life we built together over forty years. [crying while speaking] Without it, I'm just another old woman in some evacuation shelter."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] You're the woman who taught me to make dumplings when mom was working late, who let me hide in your garden when dad was drinking. [pause] You're not just another anything, and you never will be."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sad] Those were better days, weren't they? Before the world started burning everything down. [sighs] Sometimes I think staying here would be easier than starting over at seventy-three."
+        },
+        {
+            "role": "Character 1",
+            "content": "[passionately] Starting over at thirty nearly killed me, but you know what saved me? [speeding up] Knowing that you sent me those cards every month, that someone from the old neighborhood still remembered who I was before the fire."
+        },
+        {
+            "role": "Character 2",
+            "content": "[surprised] You kept those cards? [warmly] I wasn't sure they even reached you at all those different addresses, but I kept sending them anyway because that's what neighbors do—we don't give up on each other."
+        },
+        {
+            "role": "Character 1",
+            "content": "Then don't give up on me now by making me watch another home burn with someone I love inside it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[long pause] The cherry tree won't survive the transplant, you know. [very sadly] Trees that old, their roots go too deep, they die when you try to move them to foreign soil."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] But their seeds don't, and their cuttings can grow new roots if you give them the chance. [pause] There's still time, Mrs. Chen, but not much—will you come with me?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[trembling] I'll need ten minutes to pack the photo albums and gather some soil. [exhales] And Sarah? Thank you for coming back for this stubborn old traditionalist who almost waited too long."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "b0d311a1_scenario.json",
+    "actor": 5,
+    "scenario": "A survivor of a house fire returns to their childhood neighborhood to convince their traditionalist former neighbor to evacuate from an approaching wildfire.",
+    "type": "scenario_conversation",
+    "character_1_role": "survivor",
+    "character_2_role": "traditionalist",
+    "selected_tones": [
+        "blunt",
+        "lingering",
+        "worsening"
+    ]
+}

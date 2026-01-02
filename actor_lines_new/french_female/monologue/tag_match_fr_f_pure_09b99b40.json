@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confus] Il doit y avoir une erreur. C'est pas—je vois que des zéros. [pause] Que des zéros. Vingt-trois ans d'économies et c'est... [très doucement] oh putain. [voix tremblante] Richard disait qu'il y avait un retard de traitement, il disait— [halètement] Attends, son numéro de bureau est coupé? [de plus en plus anxieux] Non non non non, c'est pas vrai. Je lui ai tout confié. Les fonds pour les études des enfants, les mensualités de la maison, tout notre— [furieux] Ce fils de pute! [voix brisée] Il venait à nos réveillons de Noël! Sarah gardait ses gamins! [pleurs] Comment il a pu juste... trente ans avant la retraite et maintenant j'ai plus rien? [paniqué] J'ai 58 ans, qu'est-ce que je suis censée—euh, peut-être qu'il y a une assurance ou, euh... une protection quelconque pour ça? [désespéré] Il doit bien y avoir quelque chose. [reniflement] Je peux pas recommencer. Physiquement, je peux pas retravailler trente ans. [très triste] Toutes ces heures sup, toutes ces vacances qu'on a pas prises parce qu'on était \"responsables.\" [amer] Et pour quoi? Pour que Richard puisse, quoi, s'acheter un yacht? [voix tremblante] Faut que j'appelle Patricia. Et, euh... sûrement un avocat. [épuisé] Putain, je crois que je vais vomir."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] There has to be some mistake. This can't—I'm looking at zeros. [pause] All zeros. Twenty-three years of savings and it's... [very quietly] oh my god. [shaky voice] Richard said there was a processing delay, he said— [gasp] Wait, his office number's disconnected? [increasingly anxious] No no no, this isn't happening. I trusted him with everything. My kids' college funds, the house payment, our entire— [furious] That son of a bitch! [voice breaking] He came to our Christmas parties! Sarah babysat his kids! [cry] How could he just... thirty years until retirement and now I have nothing? [panicked] I'm fifty-eight years old, what am I supposed to—hmm, maybe there's insurance or, um... some kind of protection for this? [desperate] There has to be something. [sniffle] I can't start over. I physically can't work another thirty years. [very sad] All those overtime shifts, all those vacations we didn't take because we were being \"responsible.\" [bitter] And for what? So Richard could, what, buy himself a yacht? [shaky voice] I need to call Patricia. And, uh... probably a lawyer. [exhausted] God, I think I'm going to be sick."
+        }
+    ],
+    "language": "french",
+    "language_name": "French",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "09b99b40_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Discovering your trusted wealth manager embezzled your entire retirement fund",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

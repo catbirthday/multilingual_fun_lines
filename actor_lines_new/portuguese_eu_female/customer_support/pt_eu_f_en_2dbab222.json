@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling regarding case number 45921. I was promised a full refund last Tuesday, but nothing has been processed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for providing that information. Let me pull up case number CS-45921-QT and review the notes from your previous interaction with our team."
+        },
+        {
+            "role": "Customer",
+            "content": "The representative specifically said it would be completed within 48 hours. It's been a full week now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize for this oversight. I can see agent Melissa Rodriguez did authorize the refund on November 5th, but it appears the request wasn't forwarded to our processing department."
+        },
+        {
+            "role": "Customer",
+            "content": "This is exactly what I need resolved today. When can I expect to see the refund?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely understood. I'm escalating this immediately with priority code PRI-8847-URGENT, and I'll personally ensure the refund of $487.92 is processed within the next four hours."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Will I receive confirmation when it's actually been processed this time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And how long after processing until the funds appear in my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Once I complete the processing today, which will be by 3:00 PM Eastern, the funds will appear in your account within 2-3 business days depending on your bank's policies."
+        },
+        {
+            "role": "Customer",
+            "content": "I also want to ensure there's proper documentation of this delay and the inconvenience it's caused."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm adding detailed notes to your account under reference number DOC-112024-7739, including the service failure and my personal guarantee of resolution today."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you also explain how this type of error happens in your system?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The issue occurred when the refund authorization form RF-2024-11-05-MR wasn't properly routed through our workflow system, likely due to a technical error during submission."
+        },
+        {
+            "role": "Customer",
+            "content": "What steps are being taken to prevent this from happening to other customers?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm flagging this incident for our quality assurance team under report QA-8892-PROCESS, and we're implementing additional verification checkpoints to catch any pending authorizations over 72 hours old."
+        },
+        {
+            "role": "Customer",
+            "content": "I need the email confirmation sent to my address on file. Is that still the Gmail account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, I have your email as michael.harrison@gmail.com, and you'll receive two confirmations: one immediately showing case PRI-8847-URGENT is being processed, and another when the refund completes."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I expect this to be handled correctly this time. Thank you for your assistance."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You have my personal assurance this will be resolved today. I'll monitor case PRI-8847-URGENT myself, and if you have any concerns, please reference my agent ID SR-4429 when calling back."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling regarding case number 45921. I was promised a full refund last Tuesday, but nothing has been processed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for providing that information. Let me pull up case number CS-45921-QT and review the notes from your previous interaction with our team."
+        },
+        {
+            "role": "Customer",
+            "content": "The representative specifically said it would be completed within 48 hours. It's been a full week now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize for this oversight. I can see agent Melissa Rodriguez did authorize the refund on November 5th, but it appears the request wasn't forwarded to our processing department."
+        },
+        {
+            "role": "Customer",
+            "content": "This is exactly what I need resolved today. When can I expect to see the refund?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely understood. I'm escalating this immediately with priority code PRI-8847-URGENT, and I'll personally ensure the refund of $487.92 is processed within the next four hours."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Will I receive confirmation when it's actually been processed this time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And how long after processing until the funds appear in my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Once I complete the processing today, which will be by 3:00 PM Eastern, the funds will appear in your account within 2-3 business days depending on your bank's policies."
+        },
+        {
+            "role": "Customer",
+            "content": "I also want to ensure there's proper documentation of this delay and the inconvenience it's caused."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm adding detailed notes to your account under reference number DOC-112024-7739, including the service failure and my personal guarantee of resolution today."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you also explain how this type of error happens in your system?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The issue occurred when the refund authorization form RF-2024-11-05-MR wasn't properly routed through our workflow system, likely due to a technical error during submission."
+        },
+        {
+            "role": "Customer",
+            "content": "What steps are being taken to prevent this from happening to other customers?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm flagging this incident for our quality assurance team under report QA-8892-PROCESS, and we're implementing additional verification checkpoints to catch any pending authorizations over 72 hours old."
+        },
+        {
+            "role": "Customer",
+            "content": "I need the email confirmation sent to my address on file. Is that still the Gmail account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, I have your email as michael.harrison@gmail.com, and you'll receive two confirmations: one immediately showing case PRI-8847-URGENT is being processed, and another when the refund completes."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I expect this to be handled correctly this time. Thank you for your assistance."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You have my personal assurance this will be resolved today. I'll monitor case PRI-8847-URGENT myself, and if you have any concerns, please reference my agent ID SR-4429 when calling back."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2dbab222_script.json",
+    "professionalism": "professional",
+    "scenario": "complaining that resolution promised on previous call wasn't implemented",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "matter_of_fact",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "diplomatically_firm",
+                "crisply_business_like"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

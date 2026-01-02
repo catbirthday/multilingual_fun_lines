@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Recebi uma ligação. De vocês. Mas como é que eu sei. Se é verdade mesmo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certo certo então eu posso perfeitamente verificar isso pra você deixa eu só—peraí na verdade—tô puxando sua conta aqui pelo telefone 555-0142 e tô vendo que a gente tentou entrar em contato às 14h47 hoje sobre sua solicitação de atendimento recente."
+        },
+        {
+            "role": "Customer",
+            "content": "Olha isso é. Isso ajuda mesmo. Obrigado. Agradeço muito que você tá... como é que fala... validando isso."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro claro agora tô vendo aqui—deixa eu confirmar se tenho o—isso tá certo então seu número de protocolo é CS-9847-ZM e ligamos sobre o ajuste de cobrança do dia 23 de outubro que deveria ser um crédito de R$ 47,82 mas tô notando uma coisa aqui que..."
+        },
+        {
+            "role": "Customer",
+            "content": "Peraí. Ajuste de cobrança? Ninguém falou. De dinheiro. Aí que tá. A parte do golpe."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não eu entendo totalmente a preocupação deixa eu—eu devia explicar—então no dia 15 de outubro você entrou em contato sobre cobranças duplicadas e a gente abriu o protocolo CS-9847-ZM pro reembolso que foi aprovado dia 20 de outubro mas o sistema mostra que ainda tá pendente."
+        },
+        {
+            "role": "Customer",
+            "content": "Cobranças duplicadas. Certo. Sim. Aquilo foi... o negócio do... pagamento recorrente. Duas vezes. Vocês resolveram isso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exato exato então a correção foi feita mas—e é isso que tô tentando—a parte do reembolso travou no processamento desde 23 de outubro às 15h15 quando o sistema marcou pra revisão manual então preciso liberar isso hoje basicamente."
+        },
+        {
+            "role": "Customer",
+            "content": "Como é que eu sei. Que você não tá só. Lendo minhas informações. De algum banco de dados que vocês hackearam."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Justo isso é totalmente justo então deixa eu—na verdade você pode—eu posso verificar algo que só a gente teria que é sua frase de segurança que você configurou dia 8 de setembro ou posso mandar um código de verificação pro seu email terminado em m-a-i-l ponto com agora mesmo."
+        },
+        {
+            "role": "Customer",
+            "content": "Frase de segurança. Hum. Manda o código. Mas pera. De que departamento. Você é mesmo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Eu tô na reconciliação de cobrança especificamente a equipe que cuida de transações travadas e meu ID de operador é TXB-4429 e se você quiser pode ligar pra nossa central no 0800-555-0100 e pedir o ramal 2847 pra verificar que eu sou real eu entendo totalmente a cautela hoje em dia."
+        },
+        {
+            "role": "Customer",
+            "content": "Isso é muito. Bom mesmo. Você me deu. Detalhes específicos. A maioria dos golpistas não... qual é a palavra... comprova assim."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Com certeza e olha eu agradeço você ser cuidadoso porque a gente recebe tantos relatos de ligações falsas se passando pela gente então—deixa eu só—tô mandando o código agora pro seu email deve chegar em 30 segundos vindo de noreply arroba company ponto com."
+        },
+        {
+            "role": "Customer",
+            "content": "Chegou. Diz. 7-4-2-9. É isso?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfeito é isso mesmo 7-4-2-9 confirmado então agora eu posso—peraí na verdade eu devia—então seu reembolso de R$ 47,82 eu posso processar agora mas vai levar de 3 a 5 dias úteis pra cair na sua conta terminada em 8834 ou posso agilizar pro próximo dia útil."
+        },
+        {
+            "role": "Customer",
+            "content": "Próximo dia. Por favor. E obrigado por. Ter paciência. Com toda minha... verificação."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Não não obrigado você por ser esperto com isso sério mesmo e tô processando o reembolso expresso agora com número de confirmação RFD-11258-Q então você deve ver o valor até às 17h de amanhã dia 8 de novembro no máximo."
+        },
+        {
+            "role": "Customer",
+            "content": "Ótimo. Mesmo. Agradeço você ter. Tirado tempo. Pra provar tudo."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Claro claro e só pra você saber tô adicionando uma nota na sua conta CS-9847-ZM que você verificou identidade hoje então se alguém ligar dizendo ser a gente sem mencionar esse número de protocolo do dia 7 de novembro às 15h22 você vai saber que não é legítimo tá bom?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Got a call. From you guys. But how do I know. It's real."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right so I can absolutely verify that for you let me just—actually wait—I'm pulling up your account using phone number 555-0142 and I see we did attempt contact at 2:47 PM today about your recent service inquiry."
+        },
+        {
+            "role": "Customer",
+            "content": "See that's. That's actually helpful. Thank you. Really appreciate that you're... what's the word... validating this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course of course now I'm seeing here—let me make sure I have the right—yes okay so your case number is CS-9847-ZM and we called regarding the billing adjustment from October 23rd which should've been a credit of $47.82 but I'm noticing something here that..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. Billing adjustment? Nobody said. About money. This is it. This is the scam part."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no I understand the concern completely let me—I should explain—so on October 15th you contacted us about duplicate charges and we issued case number CS-9847-ZM for the refund which was approved October 20th but the system shows it's still pending."
+        },
+        {
+            "role": "Customer",
+            "content": "Duplicate charges. Right. Yes. That was... the thing with the... recurring payment. Twice. You guys fixed that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly exactly so the fix went through but—and this is what I'm trying to—the refund part got stuck in processing since October 23rd at 3:15 PM when the system flagged it for manual review so I need to push this through today basically."
+        },
+        {
+            "role": "Customer",
+            "content": "How do I know. You're not just. Reading my info. From some database you hacked."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's fair that's totally fair so let me—actually can you—I can verify something only we would have which is your security phrase you set up on September 8th or I can send verification code to your email ending in m-a-i-l dot com right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Security phrase. Hmm. Send the code. But wait. What department. Are you even."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm in billing reconciliation specifically the team that handles stuck transactions and my operator ID is TXB-4429 and if you want you can call our main line at 800-555-0100 and ask for extension 2847 to verify I'm real I totally get the caution these days."
+        },
+        {
+            "role": "Customer",
+            "content": "That's actually. Really good. You gave me. Specifics. Most scammers don't... what's the word... substantiate like that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely and honestly I appreciate you being careful because we get so many reports of scam calls pretending to be us so—let me just—I'm sending that code now to your email should arrive within 30 seconds from noreply at company dot com."
+        },
+        {
+            "role": "Customer",
+            "content": "Got it. Says. 7-4-2-9. That right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect that's it 7-4-2-9 confirmed so now I can—actually wait I should—so your refund of $47.82 I can process right now but it'll take 3 to 5 business days to hit your account ending in 8834 or I can expedite for next business day."
+        },
+        {
+            "role": "Customer",
+            "content": "Next day. Please. And thank you for. Being patient. With all my... checking."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no thank you for being smart about it seriously and I'm putting through the expedited refund now with confirmation number RFD-11258-Q so you should see those funds by 5 PM tomorrow November 8th at the latest."
+        },
+        {
+            "role": "Customer",
+            "content": "That's great. Really. Appreciate you taking. Time. To prove everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course of course and just so you know I'm adding a note to your account CS-9847-ZM that you verified identity today so if anyone calls claiming to be us without referencing that case number from November 7th at 3:22 PM you'll know they're not legitimate okay?"
+        }
+    ],
+    "language": "portuguese_br",
+    "language_name": "Brazilian Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "320e4c72_script.json",
+    "professionalism": "casual",
+    "scenario": "suspicious that they're being scammed and wants verification this is really the company",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "genuinely_grateful",
+                "suspicious_paranoid"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "concentrating_quiet",
+                "carefully_diplomatic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching",
+                    "trailing_off",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[formally] I was told you're the only die caster within five hundred miles who can work with dragon scale alloy. [pause] My armor took significant damage in the battle at Thornhaven, and I need replacements for the chest piece and gauntlets."
+        },
+        {
+            "role": "Character 2",
+            "content": "Dragon scale alloy, yes, I can work with it. [coughs] Though most people don't realize it requires temperatures above three thousand degrees and specialized flux compounds that cost more than most houses."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confidently] Money isn't an issue, I've been well compensated by the kingdom for my services. [quickly] The dragon that destroyed Thornhaven's granaries is dead, and they were grateful enough to ensure I can afford whatever I need."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Thornhaven. [long pause] So you're the one who killed the beast last month, the famous dragon slayer everyone's been talking about in the taverns and markets."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Finally, someone who doesn't want to hear the whole story again. [exhales] I've had to recount that battle dozens of times, and frankly, I just need my armor fixed so I can move on to the next contract."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] The next contract. [slowly] Of course, there's always another dragon to slay, another town to save, another heroic deed to add to your legend, isn't there?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[confused] Is there a problem with the commission? [firmly] Look, if you don't want the work, just say so, but I was told you were professional enough to handle this without the attitude."
+        },
+        {
+            "role": "Character 2",
+            "content": "[controlled] No problem at all, I'll take the job. [clearing throat] I just need to know if you want the same design as before or if you'd like modifications based on what failed during the battle."
+        },
+        {
+            "role": "Character 1",
+            "content": "The dragon's fire was hotter than expected, melted right through the standard alloy mix. [thoughtfully] If you could increase the tungsten content by fifteen percent, that should handle anything I encounter going forward."
+        },
+        {
+            "role": "Character 2",
+            "content": "Fifteen percent more tungsten will make it heavier, probably add eight pounds to the total weight. [coldly] But I suppose collateral damage is less of a concern when you're protected by the finest armor money can buy."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sternly] Collateral damage is always a concern, but dragons don't exactly wait for civilians to evacuate before attacking. [passionately] Every second I waste is another building burned, another family that doesn't make it to safety."
+        },
+        {
+            "role": "Character 2",
+            "content": "Safety. [laughs bitterly] Right, because a sixteen-year-old girl running from her workshop definitely had time to reach safety when the great hero brought the dragon crashing down through the artisan quarter."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] The artisan quarter. [gasps softly] You're talking about the building collapse on West Street, where the dragon's tail brought down three shops when I drove my spear through its heart."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] Her name was Elisa, she was learning the trade from me, had real talent with the fine detail work. [crying while speaking] She was going to take over the business someday, had all these ideas about new alloy combinations."
+        },
+        {
+            "role": "Character 1",
+            "content": "[regretful] I didn't know there were apprentices working that late. [very quietly] The town guard told me the workshops were empty, that everyone had evacuated to the temple grounds when the warning bells rang."
+        },
+        {
+            "role": "Character 2",
+            "content": "[furious] The guard lied because they wanted you to kill it quickly, before it reached the wealthy district! [shouting] My daughter died because they decided some neighborhoods were worth more than others!"
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] God, I'm so sorry. [slowly] If I had known anyone was still in those buildings, I would have led the dragon elsewhere, even if it meant more damage to my armor or risk to myself."
+        },
+        {
+            "role": "Character 2",
+            "content": "Your armor. [exhales] You know what? I'll still make your damn armor, because I need the money to leave this place, start over somewhere that doesn't remind me of her every single day."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] I'll pay triple your rate, and I'll make sure the kingdom provides compensation for your loss. [firmly] It won't bring her back, but maybe it can help you rebuild somewhere else, honor her memory properly."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] Just leave the damaged pieces and come back in two weeks. [very quietly] And next time you save a town, remember that heroes and monsters both leave bodies in their wake."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "84f628ab_scenario.json",
+    "actor": 1,
+    "scenario": "A legendary dragon slayer seeks out a master die caster to forge replacement armor, not knowing the craftsman's daughter was killed in the collateral damage of their last battle.",
+    "type": "scenario_conversation",
+    "character_1_role": "dragon slayer",
+    "character_2_role": "die caster",
+    "selected_tones": [
+        "expert",
+        "controlled"
+    ]
+}

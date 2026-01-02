@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[hesitantly] I don't know if you remember me. November 18th, 2019, around two in the morning? Car accident on Route 9? [nervous laugh] That's okay if you don't—I mean, you probably see hundreds of people. But I, um... I remember everything about that night. [pause] You held my hand while they were cutting me out of the car. You kept telling me to look at you, just keep looking at you, and that I was going to make it home to my daughter. [voice breaking] I was so scared I couldn't even speak, but you just kept talking to me like—like we'd known each other forever. [sniffle] The other doctors said later that if you hadn't caught that internal bleeding when you did, I would've... [trailing off] Well. [clearing throat] My daughter's seven now. She's learning piano. [emotional laugh] She's terrible at it but she loves it so much. And every time I hear her practicing, I think about how I almost wasn't here for any of this. [very sincerely] I've been trying to find you for, uh, for about a year now. Just to say thank you. [pause] You probably hear this all the time, but you didn't just save my life that night. You saved hers too. [warm] So... thank you. For everything."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[hesitantly] I don't know if you remember me. November 18th, 2019, around two in the morning? Car accident on Route 9? [nervous laugh] That's okay if you don't—I mean, you probably see hundreds of people. But I, um... I remember everything about that night. [pause] You held my hand while they were cutting me out of the car. You kept telling me to look at you, just keep looking at you, and that I was going to make it home to my daughter. [voice breaking] I was so scared I couldn't even speak, but you just kept talking to me like—like we'd known each other forever. [sniffle] The other doctors said later that if you hadn't caught that internal bleeding when you did, I would've... [trailing off] Well. [clearing throat] My daughter's seven now. She's learning piano. [emotional laugh] She's terrible at it but she loves it so much. And every time I hear her practicing, I think about how I almost wasn't here for any of this. [very sincerely] I've been trying to find you for, uh, for about a year now. Just to say thank you. [pause] You probably hear this all the time, but you didn't just save my life that night. You saved hers too. [warm] So... thank you. For everything."
+        }
+    ],
+    "language": "spanish_latam",
+    "language_name": "Latin American Spanish",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "6042792f_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "A former patient tracking you down to thank you for saving their life during your emergency room shift five years ago",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

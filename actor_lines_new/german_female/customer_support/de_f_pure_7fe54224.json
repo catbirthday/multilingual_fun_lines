@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Ich glaube, da ist wieder irgendwas mit meiner Lohnsteuerkarte schiefgelaufen, vermutlich hat euer System mal wieder den Steuerabzug verkackt."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Probleme mit der Lohnsteuer, ja also... ähm, lass mich mal dein Konto aufrufen. Was ist deine Personalnummer? Sollte so eine... wie heißt das... sechsstellige Nummer mit E sein."
+        },
+        {
+            "role": "Customer",
+            "content": "E-478923. Das ist jetzt halt schon das dritte Mal, dass ich hier Steuerprobleme habe."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hab's, E-478923... okay also ich sehe hier—Moment, das ist ja interessant. Dein Bundessteuerabzug ist auf, äh, null gesetzt? Und beim Bundesland steht Kalifornien mit 9,3%. Hast du kürzlich eine neue W-4 eingereicht?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ich hab im Januar eine eingereicht, angeblich wurde die bearbeitet, aber offensichtlich ist da was schiefgelaufen, oder?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, ja Einreichung am 15. Januar... äh, warte mal. System zeigt, dass die nur teilweise bearbeitet wurde. Der Bundesteil hängt in—sozusagen in einer Prüfwarteschlange? Code PND-447-B. Ist mir tatsächlich auch mal passiert, als ich im Einzelhandel gearbeitet hab."
+        },
+        {
+            "role": "Customer",
+            "content": "Das ist genau das, was mir die letzte Person gesagt hat, dass es sofort behoben wird, also bin ich da ehrlich gesagt etwas skeptisch."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Stimmt stimmt, ich sehe die Notizen vom 3. Februar. Schau, was ich machen kann ist, ähh... eigentlich kann ich die Warteschlange komplett umgehen. Neue Referenznummer wird TX-20240315-92A."
+        },
+        {
+            "role": "Customer",
+            "content": "Und das wird diesmal auch wirklich klappen? Weil ich muss halt auch meine Miete zahlen können, ne?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Wird definitiv behoben. Also eigentlich—nee warte, lass mich präzise sein. Dein Bundessteuerabzug, ähm, sollte ab der nächsten Gehaltsperiode am 22. März auf ledig-null Freibeträge aktualisiert werden. Bundesland bleibt bei den Standard 9,3%."
+        },
+        {
+            "role": "Customer",
+            "content": "22. März? Das sind noch zwei Wochen, das finde ich ehrlich gesagt ziemlich inakzeptabel."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ooh, ja das ist... hmm. Weißt du was? Ich kann eine außerplanmäßige Korrektur für den 15. März durchdrücken mit Override-Code OVR-881-X. Das heißt, du kriegst die Anpassung früher."
+        },
+        {
+            "role": "Customer",
+            "content": "Das hab ich auch schon gehört, wird wahrscheinlich sowieso wieder irgendein Fehler oder eine Verzögerung geben oder so."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Nein nein, also halt... wenn ich OVR-881-X eingebe, ist das fest drin. Kann nicht rückgängig gemacht oder verzögert werden. Deine nächste Abrechnung am 15. zeigt dann, äh, lass mich rechnen... 487,23 Dollar zusätzliche Bundessteuer."
+        },
+        {
+            "role": "Customer",
+            "content": "Vierhundertsiebenundachtzig dreiundzwanzig, das muss ich mir irgendwie aufschreiben, kannst du das vielleicht nochmal wiederholen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Klar! 487,23 Dollar Bundessteueranpassung. Und ähm, dein Jahresbetrag korrigiert sich auf... was seh ich hier... 2.847,15 Dollar insgesamt einbehaltene Bundessteuer. Referenznummer TX-20240315-92A für deine Unterlagen."
+        },
+        {
+            "role": "Customer",
+            "content": "Na gut, ich glaub's halt wenn ich's sehe ehrlich gesagt, das ist echt ziemlich nervig alles."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, kann ich verstehen. Tatsächlich als ich noch Kellnerin war, hat unser Gehaltssystem meine Trinkgeldmeldung verkackt? Hat drei Monate gedauert bis das gefixt war. Also halt, was ich machen werde ist—ahh, ich setze eine Erinnerungsflagge RMD-0315 auf dein Konto, damit ich persönlich nachfasse."
+        },
+        {
+            "role": "Customer",
+            "content": "Du fasst persönlich nach? Das sagen alle, passiert wahrscheinlich sowieso nicht, aber von mir aus."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Schau, meine Dienstnummer ist 4481. Ruf Montag zurück wenn du willst, verlang direkt nach mir. Die Korrektur mit Code OVR-881-X wird heute Nacht um, ähh... Mitternacht Eastern Time verarbeitet. Du siehst die Bestätigung morgen früh in deinem Portal."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I think there's been some sort of mistake with my W-4, probably your system messed up the withholding again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Payroll tax issues, yeah so... hmm, let me pull up your account. What's your employee ID? Should be like a... what's the word... six-digit number starting with E."
+        },
+        {
+            "role": "Customer",
+            "content": "E-478923. This is kind of the third time I've had tax problems here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, E-478923... okay so basically I'm seeing—wait, that's interesting. Your federal withholding is set to, uh, zero? And your state shows California at 9.3%. Did you recently submit a new W-4?"
+        },
+        {
+            "role": "Customer",
+            "content": "I submitted one in January, supposedly it was processed, but clearly something went wrong, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, yeah January 15th submission... er, hang on. System shows it was only partially processed. The federal part got stuck in—basically like a review queue? Code PND-447-B. I actually had this happen to me once when I worked retail."
+        },
+        {
+            "role": "Customer",
+            "content": "That's what the last person said would be fixed immediately, so I'm sort of skeptical here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I see the notes from February 3rd. Look, what I can do is, uhh... actually, let me bypass that queue entirely. New reference number will be TX-20240315-92A."
+        },
+        {
+            "role": "Customer",
+            "content": "And this will actually fix it this time? Because I maybe need to pay rent, you know?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely fixing it. So basically—no wait, let me be specific. Your federal withholding, errr, should update to single-zero exemptions, effective next pay period March 22nd. State stays at standard 9.3%."
+        },
+        {
+            "role": "Customer",
+            "content": "March 22nd? That's two weeks away, I think that's kind of unacceptable actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ooh, yeah that's... hmm. Tell you what. I can push through an off-cycle correction for March 15th using override code OVR-881-X. Means you'd get the adjustment sooner."
+        },
+        {
+            "role": "Customer",
+            "content": "I've heard that before, probably going to be another glitch or delay or something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, so like... once I enter OVR-881-X, it's locked in. Can't be reversed or delayed. Your next check on the 15th will show, uh, let me calculate... $487.23 additional federal withholding."
+        },
+        {
+            "role": "Customer",
+            "content": "Four eighty-seven twenty-three, I sort of need to write this down, can you repeat that maybe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sure! $487.23 federal adjustment. And errr, your year-to-date will correct to... what am I looking at... $2,847.15 total federal withheld. Reference number TX-20240315-92A for your records."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine, I think I'll believe it when I see it honestly, this is kind of exhausting."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, I get it. Actually when I was a server, our payroll system messed up my tips reporting? Took three months to fix. So like, what I'm gonna do is—ahh, set a reminder flag RMD-0315 on your account so I personally follow up."
+        },
+        {
+            "role": "Customer",
+            "content": "You'll personally follow up? That's what they all say, probably won't happen but whatever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look, my badge number's 4481. Call back Monday if you want, ask for me directly. The correction with code OVR-881-X processes tonight at, ehh... midnight Eastern. You'll see it confirmed in your portal by morning."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "7fe54224_script.json",
+    "professionalism": "casual",
+    "scenario": "nanny, nervous about asking how to fix a payroll tax withholding error",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "seething_controlled",
+                "skeptical_guarded"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "hedge_words"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "triumphant_problem_solver",
+                "humanizing_personal"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching",
+                    "filled_pauses"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        }
+    }
+}

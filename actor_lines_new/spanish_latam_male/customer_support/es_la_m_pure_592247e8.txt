@@ -1,0 +1,93 @@
+=== Source: 592247e8_script.json ===
+Language: Latin American Spanish
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: wanting to dispute a chargeback that was filed against them
+
+=== Translated Dialogue ===
+
+Customer [pure]: Buenos días, necesito disputar un contracargo que me metieron ayer a mi cuenta comercial, es de la transacción que termina en 4782.
+
+Customer Support [pure]: Con mucho gusto le ayudo con esa disputa del contracargo. Déjeme buscar ahorita mismo la transacción MT-4782 en el sistema para revisar los detalles.
+
+Customer [pure]: Mire, el cliente dice que no recibió nada, pero yo tengo prueba de entrega con firma y todo del 8 de noviembre.
+
+Customer Support [pure]: Aquí veo el contracargo por $847.50 bajo el código de razón 30, que efectivamente es por mercancía no recibida. La buena noticia es que la confirmación de entrega con firma es justamente lo que necesitamos para este tipo de disputa.
+
+Customer [pure]: Perfecto. A ver, ¿qué documentación necesito mandar y cuánto se tarda en resolverse?
+
+Customer Support [pure]: Va a necesitar enviar la información del rastreo, la confirmación de entrega y la factura original por nuestro portal de disputas dentro de 7 días hábiles, o sea antes del 22 de noviembre. La red de tarjetas normalmente responde entre 10 y 14 días después de que mandemos su documentación.
+
+Customer [pure]: Eh... ¿me puede explicar los requisitos específicos del formato para los documentos?
+
+Customer Support [pure]: Por supuesto. La confirmación de entrega tiene que mostrar el número de rastreo completo, en este caso veo que usó FedEx 7744 9821 3456, la dirección de entrega que coincida con la de facturación, y la firma con la hora exacta. La factura debe incluir su número de orden y el detalle de los productos.
+
+Customer [pure]: ¡Ah! También tengo correos donde el cliente confirma que recibió el paquete. ¿Los incluyo?
+
+Customer Support [pure]: Absolutamente, eso fortalece muchísimo su caso. Por favor incluya toda la correspondencia por email con las fechas y horas visibles. Estoy anotando en el caso CB-98745-MT que tiene confirmación del cliente de que recibió todo, lo cual normalmente resulta en un resultado favorable.
+
+Customer [pure]: Oiga, y ¿qué pasa si el cliente le sigue dando hasta después de que yo mande toda la documentación?
+
+Customer Support [pure]: Si proceden al pre-arbitraje, tenemos 10 días para responder con su paquete de evidencia. Nuestro porcentaje de éxito con confirmación de entrega firmada y confirmación del cliente es aproximadamente del 94 por ciento, así que su posición está bastante fuerte.
+
+Customer [pure]: Qué bueno saberlo. Una preguntita... ¿hay algún costo por meter esta disputa?
+
+Customer Support [pure]: No hay ningún costo por la respuesta inicial de la disputa. Pero si escala a arbitraje, hay una cuota de $500 que usted recupera si gana el caso.
+
+Customer [pure]: Bueno, quiero mandar todo ahorita. ¿Se puede quedar en línea mientras subo los documentos?
+
+Customer Support [pure]: Con gusto me quedo en la línea. Una vez que esté en el portal, navegue al caso de disputa CB-98745-MT y va a ver tres secciones para subir la prueba de entrega, la factura y evidencia adicional.
+
+Customer [pure]: Ya, ya estoy subiendo... espéreme tantito. El sistema muestra que se recibieron los tres documentos. ¿Me puede confirmar de su lado?
+
+Customer Support [pure]: Perfecto, le confirmo que recibí los 3 documentos con un total de 2.4 megabytes. Su paquete de disputa está completo y lo estoy enviando ahorita mismo a la red de tarjetas.
+
+Customer [pure]: ¿Cuándo me llega la confirmación y cómo le doy seguimiento al estatus?
+
+Customer Support [pure]: Le va a llegar la confirmación por correo en las próximas 2 horas a su email registrado. Puede darle seguimiento en tiempo real usando el número de caso CB-98745-MT en su portal de comerciante, y yo personalmente voy a estar monitoreando este caso las próximas 72 horas para asegurarme de que avance como debe.
+
+
+=== Original (English) ===
+
+Customer: I need to dispute a chargeback that was filed against my merchant account yesterday for transaction ID ending in 4782.
+
+Customer Support: I'll be glad to assist you with that chargeback dispute. Let me pull up transaction MT-4782 in our system right away to review the details.
+
+Customer: The customer claimed non-receipt, but I have proof of delivery with signature confirmation from November 8th.
+
+Customer Support: I see the chargeback here for $847.50 filed under reason code 30, which is indeed for non-receipt of merchandise. The good news is that signed delivery confirmation is exactly what we need for this dispute type.
+
+Customer: Excellent. What documentation do I need to provide and what's the timeline for resolution?
+
+Customer Support: You'll need to submit the tracking information, delivery confirmation, and original invoice through our dispute portal within 7 business days, which would be by November 22nd. The card network typically responds within 10 to 14 days after we submit your documentation.
+
+Customer: Can you walk me through the specific format requirements for the documentation?
+
+Customer Support: Certainly. The delivery confirmation must show the full tracking number, in this case I see you used FedEx 7744 9821 3456, the delivery address matching the billing address, and the signature with timestamp. The invoice should include your order number and itemized products.
+
+Customer: I also have email correspondence where the customer confirmed receiving the package. Should I include that?
+
+Customer Support: Absolutely, that strengthens your case significantly. Please include all email correspondence with timestamps visible. I'm noting in case CB-98745-MT that you have customer acknowledgment of receipt, which typically results in a favorable outcome.
+
+Customer: What happens if the customer escalates this even after I provide the documentation?
+
+Customer Support: If they proceed to pre-arbitration, we'll have 10 days to respond with your evidence package. Our success rate with signed delivery confirmation and customer acknowledgment is approximately 94 percent, so your position is quite strong.
+
+Customer: Good to know. Is there a fee for filing this dispute?
+
+Customer Support: There's no fee for the initial dispute response. However, if it escalates to arbitration, there's a $500 fee that you'll recover if you win the case.
+
+Customer: I want to submit everything today. Can you stay on while I upload the documents?
+
+Customer Support: I'd be happy to stay on the line. Once you're in the portal, navigate to dispute case CB-98745-MT and you'll see three upload sections for delivery proof, invoice, and additional evidence.
+
+Customer: I'm uploading now. The system shows all three documents received. Can you confirm on your end?
+
+Customer Support: Perfect, I can confirm receipt of all 3 documents totaling 2.4 megabytes. Your dispute package is complete and I'm submitting it to the card network right now.
+
+Customer: When will I receive confirmation and how will I track the status?
+
+Customer Support: You'll receive email confirmation within 2 hours to your registered address. You can track real-time updates using case number CB-98745-MT in your merchant portal, and I'll personally monitor this case for the next 72 hours to ensure it's progressing properly.
+

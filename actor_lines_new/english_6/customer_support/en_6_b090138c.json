@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling about an unexpected charge on my credit card from your service that I need addressed immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for contacting us. I understand your concern about an unexpected charge. Let me pull up your account information to investigate this matter. May I have your email address or account number to locate your records?"
+        },
+        {
+            "role": "Customer",
+            "content": "The email is j.morrison@techcorp.com. The charge was for three hundred forty-nine dollars yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account under customer ID CUS-892341-MN. I can see the charge of $349.00 processed on November 14th for your annual Professional Plus subscription renewal. Let me review your account history to understand the situation better."
+        },
+        {
+            "role": "Customer",
+            "content": "I specifically remember canceling that subscription two months ago. This shouldn't have renewed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your frustration, and I sincerely apologize for this situation. I'm reviewing your account activity now, and I do see a modification request submitted on September 15th under ticket number TKT-45892-QR. Let me examine what happened with that cancellation request."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. I have the confirmation email from that cancellation right here in front of me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the issue now. The cancellation request TKT-45892-QR was marked as pending but never fully processed due to a system error on our end. This is absolutely our mistake, and I take full responsibility for ensuring we resolve this immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "This is completely unacceptable. What are you going to do to fix this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right to be upset. I'm initiating a full refund immediately under refund authorization REF-2024-78234-XK. The $349.00 will be credited back to your card within 3-5 business days, and I'm also applying a courtesy credit of $50 to your account for this inconvenience."
+        },
+        {
+            "role": "Customer",
+            "content": "I need written confirmation of this refund and the cancellation of my subscription."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm sending you a detailed confirmation email to j.morrison@techcorp.com right now with reference number DOC-892341-A containing the refund details, cancellation confirmation, and the $50 courtesy credit. You should receive it within the next five minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. And I want assurance this won't happen again next year."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I've permanently removed your payment method from file and added a do-not-renew flag DNR-2024-1115 to your account. Your subscription will fully terminate on December 14th, giving you one month of complimentary access, and there's no possibility of future charges."
+        },
+        {
+            "role": "Customer",
+            "content": "Why do I still have access for another month if I'm getting a refund?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's our standard practice when we've made an error. Since this was our mistake, you receive the full refund plus retention of service through the original term. It's coded as compensation package COMP-782-MNQ in our system."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. Can you confirm the total amount I'll be receiving back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. You'll receive the full refund of $349.00 to your original payment method, plus the $50 courtesy credit will be applied as a statement credit, for a total recovery of $399.00 under transaction ID TRX-991234-BBC."
+        },
+        {
+            "role": "Customer",
+            "content": "I expect to see that confirmation email immediately. This has been incredibly inconvenient."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration, and again, I sincerely apologize for our error. The confirmation email has just been sent with timestamp 14:42:31 EST. Is there anything else I can assist you with today to ensure this matter is fully resolved to your satisfaction?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b090138c_script.json",
+    "actor": 6,
+    "scenario": "complaining about unexpected auto-renewal charges",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

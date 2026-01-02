@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[freezing mid-motion] Oh my God. It's you. After all these years, you're just... standing here at my school, picking up a child like nothing ever happened."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confused] I'm sorry, do we know each other? I'm just here for my daughter Emma, she's in third grade, and, uh, I don't think we've met before."
+        },
+        {
+            "role": "Character 1",
+            "content": "Tucson, 2009. The detention center. You probably don't remember every family you processed, but I remember you because you, um, you were the one who took my father away. [voice shaking]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[stiffening] Look, I was doing my job back then, following protocols that were, you know, established by people way above my pay grade. That was a different time."
+        },
+        {
+            "role": "Character 1",
+            "content": "A different time? My father died in Mexico three months after you sent him back, and my mother, she never recovered from being separated from us for those two weeks. [bitter laugh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "I don't—I can't—"
+        },
+        {
+            "role": "Character 1",
+            "content": "[steadier now] Your daughter Emma, she's a sweet kid, always says please and thank you in the lunch line, and I give her extra fruit sometimes because she reminds me of my little sister at that age."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensively] Are you threatening my daughter? Because if you're trying to make some kind of point here, I need you to understand that I won't tolerate any—"
+        },
+        {
+            "role": "Character 1",
+            "content": "Threatening? No, God no, I'm just saying that I see her every day and I treat her with kindness, the same kindness you couldn't show my family when we needed it most."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quieter] You were the girl with the, uh, with the pink backpack. You wouldn't let go of it even when they were processing your mother. Jesus, I do remember you now. [exhales]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Maria Esperanza Rodriguez."
+        },
+        {
+            "role": "Character 2",
+            "content": "Maria. Right."
+        },
+        {
+            "role": "Character 1",
+            "content": "[trembling] Right."
+        },
+        {
+            "role": "Character 2",
+            "content": "I have nightmares sometimes, about some of the things I had to do back then, the families I had to, um, to separate. It wasn't right, I know that now."
+        },
+        {
+            "role": "Character 1",
+            "content": "But you still wear the uniform. You still do the same job, just maybe with, what, more compassion now? How does that work exactly? [voice cracking]"
+        },
+        {
+            "role": "Character 2",
+            "content": "It's complicated."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] No, it's really not. You either believe families should be torn apart at the border or you don't. There's no middle ground when you're the one holding the keys."
+        },
+        {
+            "role": "Character 2",
+            "content": "You're right, and I've been trying to, uh, make changes from the inside, training newer agents differently, pushing back when I can, but I know that doesn't undo what happened to your family."
+        },
+        {
+            "role": "Character 1",
+            "content": "Emma's waiting for you by the playground. She made a turkey craft today in art class, and, um, she's really proud of it. [pause] Don't let her down."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hoarsely] Maria, I'm sorry. I know it doesn't mean anything now, but I'm sorry for what I did to your family, for what the system did, for all of it."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "a6e90d74_scenario.json",
+    "actor": 2,
+    "scenario": "A school cafeteria worker recognizes a border patrol agent picking up his daughter as the same officer who detained and separated her family at the border fifteen years ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "school cafeteria worker",
+    "character_2_role": "border patrol agent",
+    "selected_tones": [
+        "genuine",
+        "gripping",
+        "awkward"
+    ]
+}

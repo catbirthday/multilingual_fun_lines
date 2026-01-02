@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Okay so here's the thing, I manage a ticket office all day long but somehow I can't get my own concert refund processed, isn't that just perfect?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, that is pretty ironic! Let me pull up your account here... okay so I'm seeing transaction ID TXN-4892-BQL from October 15th for the cancelled show, is that the one we're looking at?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes exactly that one! October fifteenth, hundred and sixty dollars, two tickets, cancelled show, should be simple right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically what I'm finding here is... that's weird actually, the refund request RFQ-7261-XMP shows it was initiated on October 20th but it's stuck in this pending verification status, which honestly shouldn't happen."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm wait what if it's because I used two different cards, would that mess things up somehow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Let me see here... you're absolutely right, I'm showing payment method PM-A ends in 4782 and PM-B ends in 9301, and the system's trying to process the full refund to just the first card."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means they're trying to put a hundred sixty on a card with only a fifty dollar limit?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly."
+        },
+        {
+            "role": "Customer",
+            "content": "Well that explains it! Let me see here, can we just split it back the way it came, fifty and hundred ten?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's where it gets a bit... *sigh* I'm really sorry but once a refund enters verification status code VST-99, we can't modify the payment distribution without cancelling and restarting the whole process."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait I'm confused, cancelling means starting over from scratch or cancelling means I lose the refund?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no, sorry, I should've been clearer—so basically we'd cancel this stuck request and immediately create a new one with reference number REF-3847-NVZ that properly splits between your two cards."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm okay but then how long, because I process refunds all day and ours take forever?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me think, our system takes five to seven days, so yours probably... wait no that can't be right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So... *exhale* I'm gonna be totally honest here, standard processing is seven to ten business days, but like, given that this has already been stuck since October 20th, I'm putting priority flag PF-EXPEDITE on your case."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means what, three days, five days, I'm just trying to understand the timeline here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "With the expedite code, you're looking at two to three business days max, and I'm also adding a note here that you work in ticketing yourself so you know how these systems can be."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh that's actually really helpful, thank you! Hmm what if it gets stuck again though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically if you don't see movement by Thursday, reference this case number CSE-8924-TQM when you call back, and any rep will see my notes about the dual payment method issue and the priority status, which should prevent another verification loop."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b2feb3f4_script.json",
+    "actor": 6,
+    "scenario": "ticket office manager, ironic that she deals with tickets all day but can't fix her own refund",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

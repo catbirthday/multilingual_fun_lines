@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi, yeah, I'm calling about—*exhales*—claim denied? For my dog? I'm actually a vet tech myself so, uh, this is pretty ironic."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I see. Let me pull up your account... *inhales* okay, what's your policy number? Should start with PET and then some numbers."
+        },
+        {
+            "role": "Customer",
+            "content": "Right, it's um, PET-7792-BK. Real quick—er, I know you're just doing your job here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for that. I really appreciate it... So I'm looking at claim CLM-9982741-X here. For a torn ACL surgery? *exhales* And it shows... denied on November 3rd. Due to pre-existing condition classification."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah but—*sharp inhale*—that's not right! Um, we just got him. Six months ago. No prior issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, I understand. So here's what I'm seeing... The denial code is E47-PRE. Which means. *sighs* They flagged something in his initial exam. From when you first enrolled him on May 15th?"
+        },
+        {
+            "role": "Customer",
+            "content": "But that was just—uh, routine stuff! Normal exam! I did it myself actually, er, at my clinic."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, okay so... Actually, wait. You said you're a vet tech? *inhales* That's interesting because... Let me check something else here. Sometimes when the policyholder works in veterinary services... The system flags things differently."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales hard* Oh great. So um, being a vet tech hurts my case? That's—wow. Really appreciate that, guys."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, actually it might help... See, there's a form. VET-PROF-22A. For veterinary professionals disputing denials? Most people don't know about this. You'd need to submit it within 30 days though..."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? Um, that's—thank you! Seriously! Er, how do I get that form?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I can email it right now. To the address on file? *exhales* And between you and me... The system is ridiculous sometimes. A vet tech can't get coverage for their own dog? Come on."
+        },
+        {
+            "role": "Customer",
+            "content": "*laughs* Right? Uh, yes please, email's perfect. God, thank you so much for this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sending now... Should arrive in about 5 minutes. Reference number REF-445821-VPA. And honestly? When you submit it... Mention your AVMA certification number. That usually helps."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh smart, yeah. Um, you're being incredibly helpful here. Like, er, really above and beyond."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Just doing what I can... *sighs* The form needs documentation though. Your original exam notes from May 15th? And any x-rays from before August 20th. If you have those..."
+        },
+        {
+            "role": "Customer",
+            "content": "Have them all! Digital files! Uh, perks of working at the clinic, right? *nervous laugh*"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. So submit everything together... Use tracking code TRK-VET-903. And look. I've seen these approved in like 72 hours. When professionals submit them properly? The review team takes them seriously."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Honestly? You just—um, saved my day. My week. Er, probably my bank account too."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, I get it. Our pets are family... And the fact that someone who saves animals for a living. Can't get coverage for their own dog? *sighs* That's just wrong. Call back if you need anything. Ask for extension 4412. That's my direct line."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b9476847_script.json",
+    "actor": 6,
+    "scenario": "veterinary tech, upset that pet insurance denied coverage for her own dog",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

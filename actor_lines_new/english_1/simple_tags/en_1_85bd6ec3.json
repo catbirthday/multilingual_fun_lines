@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[quietly] Seven years, Marcus. Seven years I've been tracking you across three continents, and here you are in a hospice bed looking like death already claimed half of you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warm] Hello, Jackson. [coughs] I wondered if you'd make it before the cancer finished its work. Please, sit down, there's a chair by the window with a decent view of the garden."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confused] You knew I was coming? [pause] The bounty on your head is two million dollars, and you're just lying there offering me a seat like we're old friends catching up."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very sincerely] We were friends once, before everything went wrong. [shaky voice] I've been expecting you for months now, kept telling the nurses someone important would visit before the end."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Friends don't sell out their unit to enemy forces. [frustrated] Fourteen good soldiers died because of your intel, Marcus, fourteen families destroyed because you wanted a payday."
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] It wasn't about money, Jackson, though I know that's what everyone believes. [sighs] They had my daughter, threatened to sell her to traffickers if I didn't give them the patrol routes."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stunned] Your daughter? [long pause] You never mentioned having a kid, not once in all those years we served together, all those nights playing cards in the barracks."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Her mother never told me until she was dying herself, begged me to protect our little girl. [clearing throat] I had exactly three weeks with her before they took her."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] So you traded fourteen lives for one? That's your justification for becoming the most wanted traitor in military history, for making me spend seven years hunting you?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] I traded everything for her. [coughs] My honor, my friends, my soul."
+        },
+        {
+            "role": "Character 1",
+            "content": "[conflicted] Where is she now, this daughter you burned the world down to save? Did she even survive whatever deal you made with those monsters?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[smiling speaking] She's a doctor now, working in refugee camps near the Syrian border. [warmly] Goes by her mother's name, doesn't know anything about me or what I did."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angry] You think that makes it right? [speeding up] Those fourteen soldiers had children too, had lives and futures that you stole from them with one encrypted message."
+        },
+        {
+            "role": "Character 2",
+            "content": "I think about them every single day, Jackson. Their names are carved into my memory deeper than this disease eating through my bones."
+        },
+        {
+            "role": "Character 1",
+            "content": "[coldly] The bounty says dead or alive, you know. [pause] Most hunters would have put a bullet in you from the doorway, collected their money, and been done with it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[peacefully] But you're not most hunters, are you? [coughs] You came here for answers, not just for the money, because you need to understand why I did it."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] I need to know if any part of the man I called brother is still in there."
+        },
+        {
+            "role": "Character 2",
+            "content": "[trembling] He died the moment I sent that message, but he wanted you to know he was sorry. [trailing off] God, Jackson, I've been so sorry for so long..."
+        },
+        {
+            "role": "Character 1",
+            "content": "[resigned] The official report will say you died of natural causes before I arrived. [slowly] The bounty can rot in hell along with everything else from that war."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Thank you, brother. [very softly] Will you stay, just until the morphine takes me under again? I don't want to face the darkness alone anymore. [pause] Please."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "85bd6ec3_scenario.json",
+    "actor": 1,
+    "scenario": "A bounty hunter finally corners the traitor who sold out their shared military unit years ago, only to discover they're dying from a terminal illness.",
+    "type": "scenario_conversation",
+    "character_1_role": "bounty hunter",
+    "character_2_role": "traitor",
+    "selected_tones": [
+        "submitting",
+        "lingering",
+        "polite"
+    ]
+}

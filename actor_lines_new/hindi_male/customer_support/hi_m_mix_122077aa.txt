@@ -1,0 +1,93 @@
+=== Source: 122077aa_script.json ===
+Language: Hindi
+Gender: male
+Mode: mix
+Content Type: customer_support
+Professionalism: casual
+Scenario: angry because this is the fifth time they've called about the same issue
+
+=== Translated Dialogue ===
+
+Customer [mix]: Fifth call hai yaar. वही issue, बिल्कुल shocking है।
+
+Customer Support [mix]: Okay, let me see here... मैं आपका account pull up कर चुका हूँ और मुझे पिछले चार tickets दिख रहे हैं, REF-2847-A से REF-2851-D तक। इस बार service interruption के साथ क्या problem आ रही है?
+
+Customer [mix]: Same—no wait—exact same चीज़ हो रही है। Internet 3PM पे drop हो जाता है। हर रोज़, भाई, हर single दिन।
+
+Customer Support [mix]: Hmm, that's interesting... 3PM exactly? October 22 से हर दिन, ये notes में लिखा है। पता है क्या, मुझे लगता है मुझे पता है ये क्या है। आपका modem model, वो XR-450, उसमें एक firmware bug है जिसके बारे में कोई actually...
+
+Customer [mix]: Oh great, एक bug. वाह, perfect हो गया।
+
+Customer Support [mix]: No no, hear me out though. XR-450 में जो firmware version 2.1.6 है ना, वो हमारे node updates के साथ conflict करता है जो अम्म, 3:00PM local time पे run होते हैं। लेकिन एक beta firmware 2.2.0-BETA है जो इसे completely fix कर देता है, मुझे बस authorization code AUTH-9K-TECH चाहिए इसे push करने के लिए।
+
+Customer [mix]: Wait, आप actually—सच में कोई fix है?
+
+Customer Support [mix]: Oh absolutely. बस मैं अभी... okay तो मैं आपके device पे firmware 2.2.0-BETA push कर रहा हूँ right now, करीब 45 seconds लगेंगे update cycle complete होने में।
+
+Customer [mix]: I'm sorry—nobody else even—वो सब बस कहते रहे "अपना modem restart करो।"
+
+Customer Support [mix]: Yeah, I mean, वो standard troubleshooting flowchart है लेकिन... बात ये है कि जब आप पाँच बार call कर चुके हों? तो deeper जाना पड़ता है। Update अभी 73% पे है, बस होने वाला है।
+
+Customer [mix]: This is—wow. सच में fix हो रहा है।
+
+Customer Support [mix]: Complete! आपका modem अब 2.2.0-BETA run कर रहा होना चाहिए। असली test तो कल 3PM पे होगा, लेकिन मैं आपके account पे monitoring tag MON-847X add कर रहा हूँ ताकि मैं personally connection logs check कर सकूँ।
+
+Customer [mix]: You're kidding. कोई सच में check करने वाला है?
+
+Customer Support [mix]: Well, um, मुझे unsolved puzzles से नफरत है, especially वो जो exactly 3:00PM पे हर दिन होते हैं। ये random नहीं है, ये systematic है। मैंने अपने लिए कल 3:15PM का reminder set कर लिया है आपका connection stable रहा या नहीं verify करने के लिए।
+
+Customer [mix]: I don't—ये calls आम तौर पे ऐसे नहीं जाती हैं।
+
+Customer Support [mix]: Also credited your account $47.50 for the service interruptions, credit code CRD-5X-TECH है, और अगर कल का test fail हो जाता है—जो नहीं होगा—लेकिन अगर होता है...
+
+Customer [mix]: There's more? सच में और भी कुछ है?
+
+Customer Support [mix]: I'll overnight you our new XR-500 model, बिल्कुल free। लेकिन honestly? Beta firmware से solve हो जाना चाहिए। ये XR-450 units में जो bug है वो सिर्फ 2% customers को affect करता है, आप बस unlucky निकले।
+
+Customer [mix]: I can't believe someone finally—thank you. सच में, दिल से शुक्रिया।
+
+Customer Support [mix]: Hey, that's what I'm here for. कल 3:01PM पे अपना connection check करना और अगर एक भी blip दिखे, तो ticket reference करना TKT-2852-PRIORITY और directly मुझसे बात करने को बोलना। लेकिन मुझे लगता है आप pleasantly surprised होने वाले हैं।
+
+
+=== Original (English) ===
+
+Customer: Fifth call. Same issue. Shocking.
+
+Customer Support: Okay, let me see here... I've got your account pulled up and I can see the previous four tickets, REF-2847-A through REF-2851-D. What's happening this time with the service interruption?
+
+Customer: Same—no wait—exact same thing. Internet drops at 3PM. Every. Single. Day.
+
+Customer Support: Hmm, that's interesting... 3PM exactly? Every day since October 22nd according to these notes. You know what, I think I might actually know what this is. Your modem model, the XR-450, has this firmware bug that nobody really...
+
+Customer: Oh great. A bug. Perfect.
+
+Customer Support: No no, hear me out though. The XR-450 has firmware version 2.1.6 that conflicts with our node updates that run at, um, 3:00PM local time. But there's a beta firmware 2.2.0-BETA that fixes it completely, I just need authorization code AUTH-9K-TECH to push it through.
+
+Customer: Wait. You actually—there's actually a fix?
+
+Customer Support: Oh absolutely. Let me just... okay so I'm pushing firmware 2.2.0-BETA to your device right now, should take about 45 seconds to complete the update cycle.
+
+Customer: I'm sorry—nobody else even—they kept saying "restart your modem."
+
+Customer Support: Yeah, I mean, that's the standard troubleshooting flowchart but... the thing is, once you've called five times? Time to dig deeper. Update's at 73% now, almost there.
+
+Customer: This is—wow. Okay. Actually fixing it.
+
+Customer Support: Complete! Your modem should be running 2.2.0-BETA now. The real test will be tomorrow at 3PM, but I'm adding monitoring tag MON-847X to your account so I can personally check the connection logs.
+
+Customer: You're kidding. Someone's actually gonna check?
+
+Customer Support: Well, um, I hate unsolved puzzles, especially ones that happen at exactly 3:00PM every day. That's not random, that's systematic. I've set myself a reminder for tomorrow at 3:15PM to verify your connection stayed stable.
+
+Customer: I don't—this is not how these calls usually go.
+
+Customer Support: Also credited your account $47.50 for the service interruptions, credit code CRD-5X-TECH, and if tomorrow's test fails—which it won't—but if it does...
+
+Customer: There's more? Seriously?
+
+Customer Support: I'll overnight you our new XR-500 model, no charge. But honestly? The beta firmware should solve it. These XR-450 units with the bug only affect about 2% of customers, you just got unlucky.
+
+Customer: I can't believe someone finally—thank you. Really.
+
+Customer Support: Hey, that's what I'm here for. Check your connection tomorrow at 3:01PM and if you see even a blip, reference ticket TKT-2852-PRIORITY and ask for me directly. But I think you're gonna be pleasantly surprised.
+

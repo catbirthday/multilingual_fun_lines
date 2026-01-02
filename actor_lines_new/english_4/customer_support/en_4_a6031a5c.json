@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I was promised a callback yesterday regarding my warranty claim, but no one contacted me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for that oversight. Let me pull up your account immediately. May I have your claim number or the phone number associated with your account?"
+        },
+        {
+            "role": "Customer",
+            "content": "The claim number is 882-9047. This is the second time I've had to call about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your claim WRN-882-9047-A here, submitted on November 8th for your dishwasher unit. I see a callback was scheduled for yesterday at 2:00 PM but wasn't completed."
+        },
+        {
+            "role": "Customer",
+            "content": "Correct. I rearranged my schedule to be available and this is unacceptable."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration, and you're absolutely right to be upset. The technician assigned to your case, ID TEC-4492, had an emergency and the handoff wasn't properly managed."
+        },
+        {
+            "role": "Customer",
+            "content": "I need this resolved today. What can you do for me right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm escalating this immediately to our priority queue under ticket PRI-20241112-507. You'll receive a callback within the next two hours from our senior warranty specialist."
+        },
+        {
+            "role": "Customer",
+            "content": "How can I be sure this callback will actually happen this time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. I'm personally scheduling this with supervisor override code SUP-7821-OVERRIDE, which means it cannot be rescheduled without director approval. Additionally, I'm setting up an automatic SMS confirmation to 555-0142."
+        },
+        {
+            "role": "Customer",
+            "content": "I also want compensation for the inconvenience and my wasted time yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm authorized to apply a $75 service credit to your account, reference credit CRD-991205, and I'm expediting your warranty replacement parts with free overnight shipping."
+        },
+        {
+            "role": "Customer",
+            "content": "When will the parts arrive and what about the installation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The parts will ship today via tracking number FDX-7829104455 for delivery tomorrow before noon. Installation is scheduled for Thursday, November 14th, between 8:00 AM and 12:00 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "I need written confirmation of everything we've discussed, including the credit and scheduling."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm sending a detailed confirmation email now to your registered address. You'll also receive text confirmations for both the callback today and Thursday's installation appointment."
+        },
+        {
+            "role": "Customer",
+            "content": "If the callback doesn't happen within two hours, who should I contact directly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "My direct extension is 4521, and my supervisor Linda Harrison is at extension 4500. Your case reference is now CSE-20241112-HIGH-PRIORITY, which gives you immediate queue access if you call back."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. This should have been handled correctly the first time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right, and I apologize again for our failure to meet your expectations. I've documented everything in your account and personally flagged it for quality assurance review to prevent this from happening again."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a6031a5c_script.json",
+    "actor": 4,
+    "scenario": "complaining that promised callback never came",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

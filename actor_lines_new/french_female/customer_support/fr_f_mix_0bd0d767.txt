@@ -1,0 +1,93 @@
+=== Source: 0bd0d767_script.json ===
+Language: French
+Gender: female
+Mode: mix
+Content Type: customer_support
+Professionalism: casual
+Scenario: confused about the difference between pending and posted transactions
+
+=== Translated Dialogue ===
+
+Customer [mix]: *exhales* Écoute. Écoute. Ça fait 15 ans que je suis cliente ici. Et personne—personne peut m'expliquer pourquoi mon solde change tout le temps?
+
+Customer Support [mix]: Oh mon dieu, je suis vraiment—attendez—je suis vraiment désolée que vous viviez cette confusion, euh, avec votre compte BAL-4829-JK qui affiche des montants différents. Alors ce qui se passe c'est—euh, actually let me pull up your specific transactions here first.
+
+Customer [mix]: Ça dit négatif. Puis positif. Puis—puis négatif encore. Je... *sharp inhale* Comment?
+
+Customer Support [mix]: D'accord, bon alors—hmm, je comprends pourquoi c'est frustrant. Ce que vous voyez c'est, euh, basically there's pending transactions—non attendez, laissez-moi mieux expliquer—donc quand vous passez votre carte, cette charge apparaît immédiatement comme en attente, transaction type PTX-102, mais elle n'a pas encore vraiment quitté votre compte.
+
+Customer [mix]: *exhales* En attente. Comptabilisée. Peu importe. Mon chèque de loyer a rebondi. 15 ans que je suis...
+
+Customer Support [mix]: Oh non, je suis—je suis vraiment désolée pour ce chèque sans provision. Laissez-moi voir, euh, check number CHK-7739... d'accord alors ce qui s'est passé c'est que trois charges en attente ont été comptabilisées d'un coup le 15, which dropped your available balance below the $1,200 rent amount.
+
+Customer [mix]: Trois charges. D'un coup. Bien sûr qu'elles l'ont fait. Et personne n'a pensé à...
+
+Customer Support [mix]: Je sais, c'est—c'est vraiment un timing malheureux. Alors voici ce que je peux faire—attendez en fait, je vois que vous êtes admissible à notre plan de protection contre les découverts ODP-500, which would've prevented this, et je vais aller de l'avant et—hmm, laissez-moi m'assurer que ça aide pour la prochaine fois.
+
+Customer [mix]: La prochaine fois? Il ne devrait pas—il ne devrait pas y avoir de prochaine fois. C'est basique. Des services bancaires basiques.
+
+Customer Support [mix]: Vous avez absolument raison, et je—écoutez, je me sens vraiment mal pour ça. Cette histoire de charges en attente versus comptabilisées, c'est, euh, c'est confus et on devrait mieux l'expliquer. Your pending charges in category CAT-retail usually post within 48-72 hours, mais les charges de restaurant, celles-là peuvent prendre jusqu'à 5 jours ouvrables.
+
+Customer [mix]: 5 jours. Cinq. *exhales* Okay okay d'accord. Juste. Arrangez ça.
+
+Customer Support [mix]: Bien sûr, absolument.
+
+Customer [mix]: Et les frais? Les—les frais de découvert?
+
+Customer Support [mix]: Ah oui, alors je—laissez-moi juste—je suis en train d'annuler ces frais de découvert de 35$ maintenant, numéro de référence REF-9982-XM. Et, euh, ce que je fais aussi c'est configurer des alertes, so basically you'll get a text when any pending charge over $50 is about to post.
+
+Customer [mix]: *sharp inhale* On aurait dû avoir ça. Depuis le début. 15 ans...
+
+Customer Support [mix]: Je sais, et—mon dieu, vous avez raison, on aurait dû vous offrir ça plus tôt. Donc j'ajoute aussi, euh, une note à votre compte, priority tag P1-loyal, que vous êtes une cliente de longue date valorisée qui a besoin d'une meilleure visibilité des transactions.
+
+Customer [mix]: Valorisée. C'est ça. Juste... c'est réglé?
+
+Customer Support [mix]: Oui, c'est fait—enfin, je veux dire—les frais sont annulés, ça va apparaître immédiatement, et j'ai activé les alertes SMS sur la ligne SMS-447-enable. Plus, hmm, I'm also gonna send you our quick reference guide PDF-2024-transactions qui montre vraiment des exemples de comment les charges en attente fonctionnent.
+
+Customer [mix]: *exhales* Bon. Peu importe. Je suis juste... je suis fatiguée.
+
+Customer Support [mix]: Je comprends complètement, et—écoutez, je vais m'assurer que ça n'arrive plus. Your account now has enhanced monitoring level MON-3, et, euh, mon poste direct c'est le 4829 si vous voyez encore quelque chose de confus. On va—je vais personnellement m'assurer que vous êtes bien prise en charge.
+
+
+=== Original (English) ===
+
+Customer: *exhales* Look. Look. I've been banking here. Fifteen years. And nobody—nobody can explain why my balance keeps changing?
+
+Customer Support: Oh gosh, I'm so—let me just—I'm really sorry you're experiencing that confusion, um, with your account BAL-4829-JK showing different amounts. So what happens is—er, actually let me pull up your specific transactions here first.
+
+Customer: It says negative. Then positive. Then—then negative again. I just... *sharp inhale* How?
+
+Customer Support: Right, okay so—hmm, I can see why that's frustrating. What you're seeing is, uh, basically there's pending transactions—no wait, let me explain this better—so when you swipe your card, that charge shows up immediately as pending, transaction type PTX-102, but it hasn't actually left your account yet.
+
+Customer: *exhales* Pending. Posted. Whatever. My rent check bounced. Fifteen years I've been...
+
+Customer Support: Oh no, I'm—I'm really sorry about that bounced check. Let me see, uh, check number CHK-7739... okay so what happened was three pending charges posted all at once on the 15th, which dropped your available balance below the $1,200 rent amount.
+
+Customer: Three charges. At once. Of course they did. And nobody thought to...
+
+Customer Support: I know, I—this is, er, really unfortunate timing. So here's what I can do—actually wait, I'm seeing you qualify for our overdraft protection plan ODP-500, which would've prevented this, and I'm gonna go ahead and—hmm, let me make sure this helps for next time.
+
+Customer: Next time? There shouldn't—shouldn't be a next time. This is basic. Basic banking.
+
+Customer Support: You're absolutely right, and I'm—look, I feel terrible about this. The pending versus posted thing, it's, um, it's confusing and we should explain it better. Your pending charges in category CAT-retail usually post within 48-72 hours, but restaurant charges, those can take up to 5 business days.
+
+Customer: Five days. Five. *exhales* Okay okay okay. Just. Fix it.
+
+Customer Support: Of course, absolutely.
+
+Customer: And the fee? The—the overdraft fee?
+
+Customer Support: Right, yes, so I'm—let me just—I'm reversing that $35 overdraft fee right now, reference number REF-9982-XM. And, uh, what I'm also doing is setting up alerts, so basically you'll get a text when any pending charge over $50 is about to post.
+
+Customer: *sharp inhale* Should've had that. From the start. Fifteen years...
+
+Customer Support: I know, and—gosh, you're right, we should've offered that sooner. So I'm also, er, I'm adding a note to your account, priority tag P1-loyal, that you're a valued long-term customer who needs clearer transaction visibility.
+
+Customer: Valued. Right. Just... is it fixed?
+
+Customer Support: It is, yeah—well, I mean—the fee is reversed, that'll show immediately, and I've activated the SMS alerts on line item SMS-447-enable. Plus, hmm, I'm also gonna send you our quick reference guide PDF-2024-transactions that actually shows examples of how pending charges work.
+
+Customer: *exhales* Fine. Whatever. I'm just... I'm tired.
+
+Customer Support: I completely understand, and—look, I'm gonna make sure this doesn't happen again. Your account now has enhanced monitoring level MON-3, and, uh, my direct extension is 4829 if you ever see anything confusing again. We'll—I'll personally make sure you're taken care of.
+

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I got this notice. Class action. You probably sent thousands out wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Oh! A settlement notice, yes yes yes, let me—let me pull that right up for you. What's the case number on the notice you received? Should be like CAL-2024 something?"
+        },
+        {
+            "role": "Customer",
+            "content": "CAL-2024-889TX. My attorney says I should've heard months ago."
+        },
+        {
+            "role": "Customer Support",
+            "content": "CAL-2024-889TX, perfect perfect. Okay so—so this is actually really interesting, this is the data breach settlement from last year, and um, you're showing as eligible for tier 2 compensation which is $147.50!"
+        },
+        {
+            "role": "Customer",
+            "content": "Tier 2? That's it? I think there's been some mistake here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, let me—let me dig deeper into this. Your account shows... oh wait wait wait, I see what's happening! You actually have TWO claims, the second one is pending review under reference SR-90412-B."
+        },
+        {
+            "role": "Customer",
+            "content": "Two claims. Right. So what's the holdup exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So the the second claim, it needs identity verification, just—just standard procedure but I can actually handle that right now if you have like thirty seconds?"
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. But this better not take long. I've got calls."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely absolutely! Super quick, I promise. Can you verify the last four of your social? Just need to match it to what's in claim SR-90412-B."
+        },
+        {
+            "role": "Customer",
+            "content": "7829. This is probably why everything's delayed, your system."
+        },
+        {
+            "role": "Customer Support",
+            "content": "7829, yep yep that matches! Oh this is—this is great actually, your second claim qualifies for tier 1, which is $450.00, so combined you're looking at $597.50 total!"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Well. That's... that's sort of more reasonable I guess."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? Right? And here's the—here's the really good news, both payments can be expedited! Instead of waiting 60-90 days, we can process them together with code FASTTRACK-2X and you'll have them in 10 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Ten days. Okay. But if this doesn't arrive, I'm calling legal."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally totally understand! I'm—I'm putting a priority flag on both claims right now, reference numbers PY-88291-A and PY-88291-B, and honestly our settlement team is really good about these expedited ones."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. Send confirmation to my email. The premium account one."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course of course! Sending to the email ending in @platinumexec.net, correct? Should hit your inbox in—in about two minutes with all the the details and tracking info."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Next time maybe send the right notice first try."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I—I hear you on that. Oh! Before you go though, I just noticed your account qualifies for our settlement alert service, basically basically any future settlements you're eligible for get flagged immediately, want me to—to activate that real quick?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b8457ed5_script.json",
+    "actor": 6,
+    "scenario": "asking about a class action settlement they received notice for",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

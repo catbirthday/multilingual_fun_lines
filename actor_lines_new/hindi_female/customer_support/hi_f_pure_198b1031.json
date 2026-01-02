@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "मैं उस claim DCL-8947 के बारे में call कर रही हूं। एक client ने मुझपर furniture के damage के charges लगाए हैं जो पहले से ही टूटा हुआ था।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, thank you उस claim के बारे में call करने के लिए। मेरे पास आपकी file है DCL-8947, जिसमें November 12 को antique furniture damage की reported incident है। मैं documentation check करती हूं ताकि situation को बेहतर समझ सकूं।"
+        },
+        {
+            "role": "Customer",
+            "content": "वो dresser में पहले से ही पानी का damage था और joints ढीले थे, मैंने उसे छुआ भी नहीं था। मैंने सब कुछ photos के साथ document किया है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं देख रही हूं आपने सत्रह pre-move photos upload की हैं जो loading date पर सुबह 8:47 AM की timestamped हैं। ये बहुत अच्छा documentation है आपकी तरफ से, और मुझे clearly वो water stains और structural issues दिख रहे हैं जिनका आपने जिक्र किया।"
+        },
+        {
+            "role": "Customer",
+            "content": "इतने evidence के बावजूद, वो मुझसे आठ सौ डॉलर charge करने की कोशिश कर रहे हैं। ये मेरी job पर असर डाल रहा है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं आपकी concern पूरी तरह समझ रही हूं। आपके supervisor ने इसे priority review case PR-2847 के रूप में flag किया है, और मैं देख रही हूं कि बयालीस महीनों की service में आपका record एकदम साफ है, zero previous incidents। मैं इसे immediately escalate करती हूं।"
+        },
+        {
+            "role": "Customer",
+            "content": "Review में कितना time लगेगा? मेरा next performance evaluation आने वाला है और ये resolve होना जरूरी है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल।"
+        },
+        {
+            "role": "Customer",
+            "content": "क्या आप guarantee दे सकती हैं कि investigation के दौरान ये मेरे permanent record में नहीं आएगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं इस claim पर तुरंत administrative hold लगा रही हूं, reference number है AH-5923-TK। इससे अगले seventy-two hours में जब तक हमारी investigation team evidence review करती है, तब तक आपकी employment file में कोई negative reporting नहीं होगी।"
+        },
+        {
+            "role": "Customer",
+            "content": "ये अच्छा है। मेरा case strong करने के लिए मुझसे और क्या चाहिए?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "आपका documentation तो comprehensive है, लेकिन मैं recommend करूंगी कि अगर आपके पास client का original inventory form INV-4785 है तो वो submit कर दीजिए। हमारे records में दिख रहा है कि उन्होंने pre-move walkthrough के दौरान सुबह 7:15 AM पर उस dresser को \"fair condition\" में mark किया था।"
+        },
+        {
+            "role": "Customer",
+            "content": "वो form मेरे पास है। कहां भेजूं और specifically मेरा case कौन handle कर रहा है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect। Please इसे claims.review@movingsolutions.net पर email कीजिए, subject line में case number DCL-8947 डालिए। Senior investigator Patricia Chen को assign किया गया है और वो personally Thursday को शाम 4:00 PM Eastern तक सब कुछ review करेंगी।"
+        },
+        {
+            "role": "Customer",
+            "content": "Patricia मुझसे directly contact करेंगी, या मुझे किसी से follow up करना चाहिए?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी हां।"
+        },
+        {
+            "role": "Customer",
+            "content": "मैं आपकी help के लिए शुक्रगुजार हूं। ये situation incredibly stressful और unfair रही है deal करने के लिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं पूरी तरह समझ सकती हूं आपकी frustration इस situation से। आपने सब कुछ सही किया है, thoroughly document करके, और हमारी team ये recognize करती है—साढ़े तीन साल का perfect record है आपका। Patricia आपको directly call करेंगी उस number पर जो 7749 पर खत्म होता है।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा। क्या आप मुझे आज की सारी discussion की written confirmation भेज सकती हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जरूर। मैं अगले पंद्रह minutes में आपकी file वाली email पर detailed summary भेज रही हूं, confirmation number होगा CS-9847-MNK। इसमें administrative hold, Patricia Chen को आपका case assignment, और resolution के लिए सारी relevant timeline information होगी।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling about claim DCL-8947. A client filed damage charges against me for furniture that was already broken."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for calling about that claim. I have your file DCL-8947 here showing a reported incident from November 12th involving antique furniture damage. Let me review the documentation to understand the situation better."
+        },
+        {
+            "role": "Customer",
+            "content": "The dresser had water damage and loose joints before I even touched it. I documented everything with photos."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see you uploaded seventeen pre-move photos timestamped at 8:47 AM on the loading date. That's excellent documentation on your part, and I can clearly see the existing water stains and structural issues you mentioned."
+        },
+        {
+            "role": "Customer",
+            "content": "Despite that evidence, they're trying to charge me eight hundred dollars. This is affecting my employment status."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern completely. Your supervisor flagged this as priority review case PR-2847, and I can see your exemplary record with zero previous incidents in forty-two months of service. Let me escalate this immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "How long will the review take? My next performance evaluation is coming up and this needs to be resolved."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you guarantee this won't appear on my permanent record while it's being investigated?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm placing an administrative hold on this claim effective immediately with reference number AH-5923-TK. This prevents any negative reporting to your employment file while our investigation team reviews the evidence within the next seventy-two hours."
+        },
+        {
+            "role": "Customer",
+            "content": "That helps. What else do you need from me to strengthen my case?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your documentation is comprehensive, but I'd recommend submitting the client's original inventory form INV-4785 if you have it. Our records show they marked that dresser as \"fair condition\" during the pre-move walkthrough at 7:15 AM."
+        },
+        {
+            "role": "Customer",
+            "content": "I have that form. Where should I send it and who's handling my case specifically?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Please email it to claims.review@movingsolutions.net with case number DCL-8947 in the subject line. Senior investigator Patricia Chen has been assigned and will personally review everything by Thursday at 4:00 PM Eastern."
+        },
+        {
+            "role": "Customer",
+            "content": "Will Patricia contact me directly, or should I follow up with someone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate your help. This situation has been incredibly stressful and unfair to deal with."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration with this situation. You've done everything right by documenting thoroughly, and our team recognizes that with your perfect record spanning three and a half years. Patricia will call you directly at the number ending in 7749."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you send me written confirmation of everything we've discussed today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm sending a detailed summary to your email on file within the next fifteen minutes with confirmation number CS-9847-MNK. This will include the administrative hold, your case assignment to Patricia Chen, and all relevant timeline information for resolution."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "198b1031_script.json",
+    "professionalism": "professional",
+    "scenario": "moving company driver, stressed about a damage claim filed against him for something pre-existing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "calmly_frustrated",
+                "graciously_disappointed"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "reassuringly_calm",
+                "graciously_accommodating"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

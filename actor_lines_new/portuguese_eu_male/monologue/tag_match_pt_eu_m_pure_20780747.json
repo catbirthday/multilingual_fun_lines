@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[amargo] Agora andam a chamar-me herói. Primeira página do Público, \"O Homem Que Mudou Tudo.\" Vinte anos a lutar, e finalmente ganhámos. [pausa] A fábrica vai fechar, a limpeza dos resíduos tóxicos começa no mês que vem, e aquelas famílias—aqueles miúdos com cancro—vão receber a indemnização. [baixinho] Eu devia sentir algo mais do que isto, não é? Uma espécie de... sei lá, triunfo? [suspiro] Mas só consigo pensar na mensagem de voz da Emma. Disse que não vem no Natal. [triste] Disse que já não sabe quem eu sou. Que escolhi estranhos em vez da minha própria família. E o Ben, ele—ele nem sequer me atende as chamadas. [arrependido] O Marcus assinou os papéis na semana passada. 22 anos, assim... acabou. Disse que eu nunca estava presente mesmo quando estava em casa. [pausa] Talvez tenha razão. Todas aquelas noites nas reuniões da câmara, os protestos, as batalhas legais—[voz desvanecendo] Fogo, perdi tantos aniversários. [muito triste] Tantas peças de teatro da escola. [fungar] Fico a dizer a mim mesmo que valeu a pena. Que aquelas famílias precisavam de alguém que lutasse por elas. Que o que fizemos importou. [chorando enquanto fala] Mas os meus filhos também precisavam de mim, não precisavam? E agora sou um herói para toda a gente menos para as pessoas que realmente—[voz embargada] que realmente me amavam."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[bitter] They're calling me a hero now. Front page of the Times, \"The Woman Who Changed Everything.\" Twenty years of fighting, and we finally won. [pause] The factory's closing, the toxic waste cleanup starts next month, and those families—those kids with cancer—they're getting their settlement. [quietly] I should feel something more than this, right? Some kind of... I don't know, triumph? [sigh] But all I can think about is Emma's voicemail. She said she's not coming to Thanksgiving. [sad] Said she doesn't know who I am anymore. That I chose strangers over my own family. And Ben, he—he won't even return my calls. [regretful] Marcus signed the papers last week. Twenty-two years, just... done. He said I was never really there anyway, even when I was home. [pause] Maybe he's right. All those nights at city council meetings, the protests, the legal battles—[trailing off] God, I missed so many birthdays. [very sad] So many school plays. [sniffle] I keep telling myself it was worth it. That those families needed someone to fight for them. That what we did mattered. [crying while speaking] But my kids needed me too, didn't they? And now I'm a hero to everyone except the people who actually—[voice breaking] who actually loved me."
+        }
+    ],
+    "language": "portuguese_eu",
+    "language_name": "European Portuguese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "20780747_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your activist victory coming at the cost of your marriage and relationship with your children",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

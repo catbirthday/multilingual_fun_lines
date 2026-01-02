@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I submitted a priority service request yesterday and need to know my current queue position."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for contacting technical support. I'll be happy to check on your service request status. May I have your ticket number or the email address associated with the request?"
+        },
+        {
+            "role": "Customer",
+            "content": "The ticket number is SRV-892743. This is time-sensitive for our quarterly audit."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm pulling up ticket SRV-892743 now in our system. I can see this was submitted yesterday at 2:47 PM Eastern Time and is marked as priority status for audit compliance."
+        },
+        {
+            "role": "Customer",
+            "content": "Correct. When can I expect someone to begin working on this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your request is currently number 7 in our priority queue. Based on our current processing rate of approximately 3 priority tickets per hour, you should have a specialist assigned within the next 2 to 3 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Is there any way to expedite this further? Our audit deadline is tomorrow at noon."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the urgency. Let me review your account status and available options. I see you have platinum support level SLA-PLAT-2024, which allows for one emergency escalation per quarter."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, and I haven't used any escalations this quarter. Please apply it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm applying your emergency escalation now, which moves your ticket to position 2 in the queue. You should receive a call from a specialist within the next 30 to 45 minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will they call my direct line or the main company number?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "According to your account profile, they'll call your direct line ending in 4782. I'm also adding a note that you're available immediately and updating your mobile number as a secondary contact option."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Can you confirm who will be handling my case?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your case will be assigned to one of our senior audit specialists from Team Alpha-7. The likely assignee is Patricia Chen, who has extensive experience with quarterly compliance audits similar to yours."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Will I receive an email confirmation of this escalation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll receive an automated confirmation email within the next 5 minutes to your registered address, and Patricia or the assigned specialist will send a detailed action plan once they begin working on ticket SRV-892743."
+        },
+        {
+            "role": "Customer",
+            "content": "One more question. If I don't hear back within 45 minutes, what should I do?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "If you haven't been contacted by 11:30 AM Eastern, please call our priority hotline at 1-800-555-9823 and reference escalation code ESC-110524-KM. I'll be monitoring your ticket personally and can also be reached at extension 4410."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very helpful. I appreciate your thorough assistance with this urgent matter."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've documented everything in your ticket and set a follow-up reminder for myself. Your audit deadline is clearly noted, and our team will ensure you receive the support you need before tomorrow's noon deadline."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I submitted a priority service request yesterday and need to know my current queue position."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for contacting technical support. I'll be happy to check on your service request status. May I have your ticket number or the email address associated with the request?"
+        },
+        {
+            "role": "Customer",
+            "content": "The ticket number is SRV-892743. This is time-sensitive for our quarterly audit."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm pulling up ticket SRV-892743 now in our system. I can see this was submitted yesterday at 2:47 PM Eastern Time and is marked as priority status for audit compliance."
+        },
+        {
+            "role": "Customer",
+            "content": "Correct. When can I expect someone to begin working on this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your request is currently number 7 in our priority queue. Based on our current processing rate of approximately 3 priority tickets per hour, you should have a specialist assigned within the next 2 to 3 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Is there any way to expedite this further? Our audit deadline is tomorrow at noon."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the urgency. Let me review your account status and available options. I see you have platinum support level SLA-PLAT-2024, which allows for one emergency escalation per quarter."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, and I haven't used any escalations this quarter. Please apply it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm applying your emergency escalation now, which moves your ticket to position 2 in the queue. You should receive a call from a specialist within the next 30 to 45 minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will they call my direct line or the main company number?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "According to your account profile, they'll call your direct line ending in 4782. I'm also adding a note that you're available immediately and updating your mobile number as a secondary contact option."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Can you confirm who will be handling my case?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your case will be assigned to one of our senior audit specialists from Team Alpha-7. The likely assignee is Patricia Chen, who has extensive experience with quarterly compliance audits similar to yours."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Will I receive an email confirmation of this escalation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll receive an automated confirmation email within the next 5 minutes to your registered address, and Patricia or the assigned specialist will send a detailed action plan once they begin working on ticket SRV-892743."
+        },
+        {
+            "role": "Customer",
+            "content": "One more question. If I don't hear back within 45 minutes, what should I do?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "If you haven't been contacted by 11:30 AM Eastern, please call our priority hotline at 1-800-555-9823 and reference escalation code ESC-110524-KM. I'll be monitoring your ticket personally and can also be reached at extension 4410."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very helpful. I appreciate your thorough assistance with this urgent matter."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've documented everything in your ticket and set a follow-up reminder for myself. Your audit deadline is clearly noted, and our team will ensure you receive the support you need before tomorrow's noon deadline."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "17ed86e6_script.json",
+    "professionalism": "professional",
+    "scenario": "asking about their position in queue or expected wait time",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "respectfully_urgent",
+                "patiently_persistent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "precisely_technical",
+                "crisply_business_like"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

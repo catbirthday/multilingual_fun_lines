@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "They told me you were captured near the eastern checkpoint, but, um, your accent—that's not from across the border, is it? That's from Kravina village."
+        },
+        {
+            "role": "Character 2",
+            "content": "[coldly] Kravina doesn't exist anymore, Colonel. You should know that better than anyone since your people, ahh, redrew the maps six months ago and renamed everything."
+        },
+        {
+            "role": "Character 1",
+            "content": "[leaning forward] My grandmother was born in Kravina, used to make this specific bread with caraway seeds that I can still smell sometimes, and now you're sitting here wearing their uniform? [bitter laugh]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Your grandmother would probably understand why some of us chose differently when the annexation happened, when we had to pick between, um, keeping our homes or keeping our principles."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] You know what they're calling people like you back home? Traitors who sold their birthright for foreign promises that'll never materialize once this war ends."
+        },
+        {
+            "role": "Character 2",
+            "content": "[steady] And what do they call people like you who arrest their own cousins and neighbors for refusing to sign loyalty oaths to a flag that wasn't theirs six months ago? Patriots?"
+        },
+        {
+            "role": "Character 1",
+            "content": "I'm trying to, erhm, understand how someone from our soil, our blood, ends up pointing rifles at us. Help me understand that logic."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] Logic? You want logic? Your nation swallowed my home, demanded we forget our language, our customs, and when we resisted, you called us insurgents. [sighs heavily] Where's the logic in that?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated growl] We offered citizenship, protection, prosperity—everything your previous government couldn't provide, and this is how you repay that generosity? By joining them?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Generosity. [hollow laugh] That's what you're calling it when soldiers kicked down doors at three in the morning looking for anyone who wouldn't hang your flag?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Those were necessary security measures during the transition period, and, look, I'm not proud of everything that happened, but stability required certain, um, certain unfortunate actions."
+        },
+        {
+            "role": "Character 2",
+            "content": "[voice rising] Unfortunate actions? My brother disappeared during your 'transition period,' and his wife still doesn't know if he's in some detention camp or just, just gone."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] Every revolution, every unification has casualties—people who can't adapt to progress, who cling to old divisions that only weaken us all. Your brother chose his side."
+        },
+        {
+            "role": "Character 2",
+            "content": "He chose to keep speaking our dialect at the market, that's all. [voice breaking] That was his revolutionary act that threatened your glorious unified state so much."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softer] Listen, I can, maybe I can check the detention records, see if he's—but you have to give me something first. The supply routes your unit uses."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitterly] Ahhh, there it is. The nationalist's bargain—betray everyone else I care about for a chance to maybe learn about one. Some things don't change."
+        },
+        {
+            "role": "Character 1",
+            "content": "This is bigger than your village grudges, don't you see that? We're building something that'll last generations, something our grandchildren will thank us for. [pleading slightly]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly defiant] My grandchildren, if I ever have any, will know I stood against an occupation, not for some grand vision built on, um, on conquered villages and disappeared brothers."
+        },
+        {
+            "role": "Character 1",
+            "content": "[standing abruptly] You have until morning to reconsider. After that, well, enemy combatants who refuse cooperation don't usually get second chances in this facility. [pause] Think about your brother."
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned whisper] I am."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "a8804488_scenario.json",
+    "actor": 3,
+    "scenario": "A captured enemy soldier is interrogated by a nationalist military officer who discovers the prisoner is actually from his grandmother's annexed village.",
+    "type": "scenario_conversation",
+    "character_1_role": "foe",
+    "character_2_role": "nationalist",
+    "selected_tones": [
+        "threatening",
+        "somber",
+        "seeking"
+    ]
+}

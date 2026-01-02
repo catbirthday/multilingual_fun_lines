@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hören Sie, ich arbeite in der Apotheke. Ich weiß, wie das läuft. Wo ist mein Rezept?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh interessant okay also Sie sind vom Fach das hilft tatsächlich lassen Sie mich mal Ihr Konto aufrufen hier mit Sendungsnummer RX-4429-TN und—Moment das ist komisch da steht zugestellt letzten Dienstag aber Sie sagen Sie haben's nie bekommen?"
+        },
+        {
+            "role": "Customer",
+            "content": "Zugestellt? Nein. Nein nein nein. Schauen Sie nochmal. Das stimmt nicht."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay okay also ich sehe—nein warte mal—äh doch hier haben wir's Ihre richtige Sendungsnummer ist TRK-8837-QP2 und die zeigt unterwegs aber die hängt seit dem 14. in unserem Verteilzentrum fest was definitiv nicht normal ist."
+        },
+        {
+            "role": "Customer",
+            "content": "Woher weiß ich, dass Sie sich die Nummern nicht einfach ausdenken?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja ja das versteh ich völlig also was ich machen kann ich schick Ihnen jetzt sofort einen Screenshot von der Sendungsverfolgung an Ihre registrierte Email die auf @walgreens.com endet und dann sehen Sie genau denselben Bildschirm wie ich mit Zeitstempel und allem."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, mal sehen... Okay hab's. Da steht Anlagenverzögerung."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ja das ist—das ist echt komisch eigentlich weil Anlagenverzögerungen klären sich normalerweise innerhalb von 24-48 Stunden maximal aber Ihre hängt da jetzt was 6 Tage fest also da stimmt definitiv was nicht lass mich mal tiefer in die Systemprotokolle gucken."
+        },
+        {
+            "role": "Customer",
+            "content": "Ich brauch—ich brauch halt meine Medikamente. Das ist das ist nicht optional."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolut."
+        },
+        {
+            "role": "Customer",
+            "content": "Also was wenn... was wenn's tatsächlich verloren ist?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Also ich denk mir—ne eigentlich—wissen Sie was ich umgeh jetzt einfach mal den normalen Prozess und erstelle eine Notfallbestellung EO-9924-XK sofort für Expresslieferung morgen ohne Aufpreis weil ehrlich das ist lächerlich Sie sollten nicht so lange warten müssen schon gar nicht bei Medikamenten."
+        },
+        {
+            "role": "Customer",
+            "content": "Moment Sie können das? Einfach... alles überspringen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bin seit vier Jahren hier also ja ich kenn die Abkürzungen außerdem Ihre Zuzahlung war 18,50 Euro bei der ursprünglichen Bestellung die erlass ich Ihnen auch weil dieses ganze Chaos ist unser Fehler und die neue Sendungsnummer wird NYT-4485-PP2 kommt morgen vor 12 Uhr."
+        },
+        {
+            "role": "Customer",
+            "content": "Das... okay also das heißt morgen sicher?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Morgen garantiert und ich leg auch noch einen Untersuchungsfall IC-7731-MQ für das verschwundene Paket an also kriegen Sie innerhalb von 3-5 Werktagen eine volle Rückerstattung dafür obwohl wir den Ersatz kostenlos schicken."
+        },
+        {
+            "role": "Customer",
+            "content": "Das weiß ich echt zu schätzen. Wirklich. Niemand sonst hat überhaupt versucht zu helfen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aber natürlich!"
+        },
+        {
+            "role": "Customer",
+            "content": "Danke, dass Sie mir nicht tausend Hürden in den Weg gelegt haben."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey Sie arbeiten in der Apotheke Sie haben schon genug mit dem Krankenkassen-Wahnsinn zu tun oder also checken Sie Ihre Emails für die Bestätigungsnummer CNF-8845-TK2 und falls morgen irgendwas schiefgeht was nicht passieren wird aber falls doch dann rufen Sie wieder an und fragen direkt nach mir ich bin Jordan Personalnummer 44782."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I work in pharmacy. I know how this works. Where's my prescription?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh interesting okay so you're in the field that actually helps let me pull up your account here with tracking number RX-4429-TN and—wait that's weird it shows delivered last Tuesday but you're saying you never got it?"
+        },
+        {
+            "role": "Customer",
+            "content": "Delivered? No. No no no. Check again. That's not right."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay okay so I'm seeing—no wait let me—actually here we go your actual tracking is TRK-8837-QP2 and that one shows in transit but it's been sitting at our distribution center since the 14th which is definitely not normal."
+        },
+        {
+            "role": "Customer",
+            "content": "How do I know you're not just making numbers up?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right I get that completely so what I can do is email you the tracking screenshot right now to your registered email ending in @walgreens.com and you'll see the exact same screen I'm looking at with timestamps and everything."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, let me see here... Okay got it. Says facility delay."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah that's—that's really strange actually because facility delays usually clear within 24-48 hours max but yours has been stuck there for what like 6 days now so something's definitely wrong let me dig deeper into the system logs."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—I just need my medication. It's it's not optional."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "So what if... what if it's actually lost?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I'm thinking—no actually—let me just bypass the normal process here and create emergency order EO-9924-XK right now for overnight delivery at no charge because honestly this is ridiculous you shouldn't have to wait this long especially when it's medication."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait you can do that? Just... override everything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Been here four years so yeah I know the shortcuts plus your copay was $18.50 on the original order so I'm waiving that too because this whole mess is on us and the new tracking will be NYT-4485-PP2 arriving tomorrow before noon."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... okay so that means tomorrow for sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tomorrow guaranteed and I'm also filing investigation case IC-7731-MQ on the missing package so you'll get a full refund for that one within 3-5 business days even though we're sending the replacement free."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate this. Really. Nobody else even tried to help."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course!"
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for not making me jump through hoops."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey you work pharmacy you deal with enough insurance nonsense already right so check your email for confirmation number CNF-8845-TK2 and if anything goes wrong tomorrow which it won't but if it does you call back and ask for me specifically I'm Jordan employee ID 44782."
+        }
+    ],
+    "language": "german",
+    "language_name": "German",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "82e29604_script.json",
+    "professionalism": "casual",
+    "scenario": "pharmacy tech, frustrated that her own prescription delivery is a week late",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "genuinely_grateful"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "hedge_words",
+                    "vocalized_thinking",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "troubleshooting_curious",
+                "veteran_efficient"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts",
+                    "self_corrections",
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

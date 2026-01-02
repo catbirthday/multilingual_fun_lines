@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to speak with someone about my payment processor holding twenty thousand dollars for two weeks without notice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the severity of this situation and I sincerely apologize for the inconvenience. Let me pull up your merchant account immediately. May I have your merchant ID number or the business name registered with us?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's Riverside Boutique. The merchant ID is RB-4521."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your account here, merchant ID RB-4521-MERCH-US, and I can see the hold was placed on October 12th for exactly $20,847.36. Let me review the specifics of why this occurred."
+        },
+        {
+            "role": "Customer",
+            "content": "This has seriously impacted my ability to pay suppliers and make payroll."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the critical nature of cash flow for your business operations. The hold was triggered by our automated risk management system due to a 340% increase in transaction volume compared to your typical weekly processing of $4,200."
+        },
+        {
+            "role": "Customer",
+            "content": "We had a promotional event. Surely someone could have called before freezing everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right, and I apologize that our communication failed you. According to your file, notification attempts were sent to the email address admin@riverside-boutique-2019.com, but I see those messages bounced back as undeliverable."
+        },
+        {
+            "role": "Customer",
+            "content": "That email was decommissioned months ago. We updated our contact information in August."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the issue now. Your contact update from August 15th was processed for your customer notifications but wasn't properly synced to our risk management department's database, reference ticket UPD-8915-CONTACT-X7."
+        },
+        {
+            "role": "Customer",
+            "content": "So this entire situation could have been avoided with proper internal communication?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "When can these funds be released?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm escalating this immediately to our senior review team with priority code PRI-RELEASE-7K9M2. Given the documentation error on our end, I can authorize an expedited release within 2 to 4 business hours instead of the standard 48-hour review period."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful, but what about the damage this has already caused?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. I'm authorized to waive your processing fees for the next three months, valued at approximately $1,247.50, and I'll ensure your account receives our premium merchant support tier at no additional cost."
+        },
+        {
+            "role": "Customer",
+            "content": "Will this type of hold happen again if we run another promotion?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "To prevent future occurrences, I'm adding a verified promotion flag to your account with authorization code PROMO-VERIFIED-2024-Q4, which pre-approves transaction increases up to 500% of your baseline for planned events you register 48 hours in advance."
+        },
+        {
+            "role": "Customer",
+            "content": "I need written confirmation of everything we've discussed today, including the release timeline."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a detailed summary to your corrected email address right now with case number CS-20241028-RB4521-PRIORITY. You'll also receive direct contact information for myself and my supervisor, along with our executive escalation line at 888-542-7700 extension 4019."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to speak with someone about my payment processor holding twenty thousand dollars for two weeks without notice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the severity of this situation and I sincerely apologize for the inconvenience. Let me pull up your merchant account immediately. May I have your merchant ID number or the business name registered with us?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's Riverside Boutique. The merchant ID is RB-4521."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your account here, merchant ID RB-4521-MERCH-US, and I can see the hold was placed on October 12th for exactly $20,847.36. Let me review the specifics of why this occurred."
+        },
+        {
+            "role": "Customer",
+            "content": "This has seriously impacted my ability to pay suppliers and make payroll."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the critical nature of cash flow for your business operations. The hold was triggered by our automated risk management system due to a 340% increase in transaction volume compared to your typical weekly processing of $4,200."
+        },
+        {
+            "role": "Customer",
+            "content": "We had a promotional event. Surely someone could have called before freezing everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right, and I apologize that our communication failed you. According to your file, notification attempts were sent to the email address admin@riverside-boutique-2019.com, but I see those messages bounced back as undeliverable."
+        },
+        {
+            "role": "Customer",
+            "content": "That email was decommissioned months ago. We updated our contact information in August."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the issue now. Your contact update from August 15th was processed for your customer notifications but wasn't properly synced to our risk management department's database, reference ticket UPD-8915-CONTACT-X7."
+        },
+        {
+            "role": "Customer",
+            "content": "So this entire situation could have been avoided with proper internal communication?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "When can these funds be released?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm escalating this immediately to our senior review team with priority code PRI-RELEASE-7K9M2. Given the documentation error on our end, I can authorize an expedited release within 2 to 4 business hours instead of the standard 48-hour review period."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful, but what about the damage this has already caused?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. I'm authorized to waive your processing fees for the next three months, valued at approximately $1,247.50, and I'll ensure your account receives our premium merchant support tier at no additional cost."
+        },
+        {
+            "role": "Customer",
+            "content": "Will this type of hold happen again if we run another promotion?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "To prevent future occurrences, I'm adding a verified promotion flag to your account with authorization code PROMO-VERIFIED-2024-Q4, which pre-approves transaction increases up to 500% of your baseline for planned events you register 48 hours in advance."
+        },
+        {
+            "role": "Customer",
+            "content": "I need written confirmation of everything we've discussed today, including the release timeline."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a detailed summary to your corrected email address right now with case number CS-20241028-RB4521-PRIORITY. You'll also receive direct contact information for myself and my supervisor, along with our executive escalation line at 888-542-7700 extension 4019."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1ca34cc1_script.json",
+    "professionalism": "professional",
+    "scenario": "small business owner, furious that her payment processor held funds for two weeks",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "graciously_disappointed",
+                "matter_of_fact"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "formally_courteous",
+                "patiently_methodical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}
