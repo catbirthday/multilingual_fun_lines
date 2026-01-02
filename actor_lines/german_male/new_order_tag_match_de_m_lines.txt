@@ -41,13 +41,13 @@ Character 1: [leise] Du meinst, andere Kids sind von dort abgehauen? [zitternd] 
 # --- CUSTOMER_SUPPORT ---
 Customer: Ich hab vor drei Wochen eine Bestellung storniert und mein Geld ist immer noch nicht zurück.
 16. Verstanden. Lassen Sie mich... das mal aufrufen. Kontonummer endet auf 4782, und ich sehe hier die stornierte Bestellung vom 15. Oktober, Referenznummer CAN-9847-XL22.
-Customer: *exhales* Ja, genau die. Das war für den Geburtstag meiner Tochter.
+Customer: [exhales] Ja, genau die. Das war für den Geburtstag meiner Tochter.
 17. Gut gut. Also ich schaue mal—warte, nein das—Entschuldigung, ich gucke jetzt auf den Erstattungsstatus. Das System zeigt, dass es am 18. bearbeitet wurde auf die Karte mit Endung 6634.
 Customer: Aber da ist nie was angekommen. Ich checke das jeden einzelnen Tag.
 18. Hmm. Lass mich mal tiefer graben—manchmal ist die Bank—ach warte, ich sehe hier was. Ihre Rückerstattung von 247,89 Euro ist am 20. Oktober zurückgesprungen wegen eines Problems bei der Kartenverifizierung.
-Customer: *sharp inhale* Was? Mir hat keiner gesagt, dass da was zurückgesprungen ist.
+Customer: [sharp inhale] Was? Mir hat keiner gesagt, dass da was zurückgesprungen ist.
 19. Ich weiß, ich weiß. Hätten wir—wir hätten Ihnen eine Mail schicken müssen. Moment mal... die Benachrichtigungsliste zeigt fehlgeschlagene Zustellung an Ihre E-Mail mit @gmail.com am 21.
-Customer: Das ist meine alte E-Mail. *sighs* Ich brauchte das Geld wirklich für ihr neues Geschenk.
+Customer: Das ist meine alte E-Mail. [sighs] Ich brauchte das Geld wirklich für ihr neues Geschenk.
 20. Okay okay okay. Also machen wir Folgendes. Ich muss das manuell neu bearbeiten auf Ihre aktuelle Karte, die mit Endung 8851, die Sie am 9. September benutzt haben.
 # --- MONOLOGUE ---
 21. [erleichtert] Wir haben's geschafft. Wir haben's tatsächlich... wir haben's wirklich geschafft. [pause] Drei Jahre lang gegen die gekämpft und jetzt sind sie endlich—Gott, Tausende von Menschen. [zittrige stimme] Das sagen die Schätzungen, oder? Tausende von Leben. [seufzen] Ich muss immer an die Johnsons denken, weißt du? Ihre Tochter wäre jetzt, ähm... sie wäre jetzt 17. Und all diese Familien, die mich weinend angerufen haben, die gesagt haben, dass niemand ihnen zuhört. [sehr leise] Niemand hat ihnen geglaubt. [pause] Aber wir haben jedes Dokument aufbewahrt, every single email where they knew—die WUSSTEN es—und haben sich trotzdem für den Profit entschieden. [wütend] 4 Dollar. Das ist alles, was es gekostet hätte pro Einheit, um es sicher zu machen. 4 Dollar. [pause] Und jetzt ist es... hmm, es ist komisch, ich dachte, ich würde mich mehr, ich weiß nicht, triumphierend fühlen? Aber ich bin einfach... [erschöpft] Ich bin so müde. Und erleichtert. And honestly just kind of numb. [langsam] Meine Mutter hat vorhin angerufen, sie hat geweint. Freudentränen aber. Sie sagte, Papa wäre stolz gewesen. [zittrige stimme] Er hat immer gesagt, wenn du Menschen helfen kannst, dann hilfst du ihnen. Egal wie lange es dauert. [pause] Ich wünschte nur, ähm... ich wünschte, wir hätten das tun können, bevor jemand verletzt wurde. [sehr leise] But at least no one else will get hurt now.
@@ -828,15 +828,15 @@ Character 1: [nervös] The security guard downstairs thinks we're doing an envir
 Character 1: [wehmütig] Strange to think that tomorrow this whole building will be gone, replaced by luxury condos. [bitter] All these dreams and plans crushed to make room for another glass tower nobody asked for.
 406. [accepting] Change is inevitable.
 # --- CUSTOMER_SUPPORT (continued) ---
-Customer: *exhales slowly* Morgen ist meine Miete fällig und ich zähle auf diese Erstattung.
+Customer: [exhales slowly] Morgen ist meine Miete fällig und ich zähle auf diese Erstattung.
 407. Bearbeite jetzt. Transaktions-ID RTN-5599-QM88 initiiert um 15:47 Uhr. Normalerweise dauert's 3-5 Werktage aber ich markiere das als Priorität.
-Customer: Drei bis fünf Tage? *breath catches* Ich hab buchstäblich nur noch zwölf Euro auf dem Konto.
+Customer: Drei bis fünf Tage? [breath catches] Ich hab buchstäblich nur noch zwölf Euro auf dem Konto.
 408. Warte warte warte. Lass mich—sorry, ich check noch was anderes. Ich kann das durch unseren Express-Kanal schieben, Code EXP-7734, sollte bis 23:59 Uhr heute Nacht auf Ihrem Konto sein.
-Customer: *exhales* Sind Sie sicher? Weil ich kann meinem Vermieter nicht noch einen Scheck platzen lassen.
+Customer: [exhales] Sind Sie sicher? Weil ich kann meinem Vermieter nicht noch einen Scheck platzen lassen.
 409. Absolut sicher. Referenznummer für die heutige Einzahlung ist DEP-8827-TK44, und ich überwache das persönlich. Sie kriegen eine SMS-Bestätigung an Ihre Nummer mit Endung 3928.
-Customer: *long breath* Danke. Ich war so gestresst wegen der ganzen Situation.
+Customer: [long breath] Danke. Ich war so gestresst wegen der ganzen Situation.
 410. Verstehe ich. Die Bestätigungs-SMS kommt von der Kurzwahl 77462 innerhalb der nächsten Stunde, und das Geld erscheint als "HÄNDLER-ERSTATTUNG ADJ-8827" auf Ihrem Kontoauszug.
-Customer: Okay. *inhale* Okay, ich bin Ihnen echt dankbar, dass Sie das für mich regeln.
+Customer: Okay. [inhale] Okay, ich bin Ihnen echt dankbar, dass Sie das für mich regeln.
 411. Aber natürlich. Behalten Sie die Referenznummer DEP-8827-TK44 für alle Fälle, aber Sie sollten—es ist alles erledigt bis Mitternacht. Kann ich Ihnen heute noch mit was anderem helfen?
 Customer: Also ich brauch halt meine Rückerstattung. Von Order 4421. Die ihr storniert habt.
 412. Lass mich das mal aufrufen... ähm, Order 4421-BC... okay ich seh hier, dass das am 14. storniert wurde, und normalerweise werden Rückerstattungen innerhalb von 3-5 Werktagen bearbeitet, aber bei dir zeigt's einen Hold Code RF-227.
@@ -1178,41 +1178,41 @@ Customer: I want written confirmation of this removal and the steps you've taken
 580. Of course. I'll send a detailed confirmation to your email within the hour, including case number CS-2024-112384, all affected list IDs, and timestamps of each removal action.
 Customer: Good. And if I receive even one more marketing email after today?
 581. Should that occur, contact us immediately with reference number PRI-ESCALATE-8847. You'll be connected directly to our compliance team, and we'll implement additional remediation including potential compensation up to $500 under our service guarantee policy SG-2024-15.
-Customer: *sharp inhale* Ich muss wissen, was das mit der Vertragsauflösung ist, also, was für Gebühren da anfallen, weil ich vielleicht umziehen muss und—
+Customer: [sharp inhale] Ich muss wissen, was das mit der Vertragsauflösung ist, also, was für Gebühren da anfallen, weil ich vielleicht umziehen muss und—
 582. Oh Mann, Vorfälligkeitsentschädigung, ja die sind echt übel, ähm, lass mich mal schnell dein Konto aufrufen—was ist deine Kundennummer? Warte mal, ich kann ja über die Telefonnummer suchen, äh, 555-7823 stimmt's? Perfekt, also du hast den Premium24-Tarif, der im März 2024 angefangen hat.
-Customer: Warte, März? *exhale* Scheiße, das heißt ich bin erst 6 Monate dabei? Das ist ja noch schlimmer als gedacht.
+Customer: Warte, März? [exhale] Scheiße, das heißt ich bin erst 6 Monate dabei? Das ist ja noch schlimmer als gedacht.
 583. Ja also, äh, ganz ehrlich? Die Gebühren sind echt brutal. Du schaust auf 450 Euro Grundgebühr plus, ähm, 20 Euro für jeden verbleibenden Monat, also bei 18 Monaten macht das—moment, das sind 810 Euro insgesamt. Ich weiß, ist total bescheuert, diese Verträge sind halt dafür gemacht, die Leute in die Falle zu locken.
-Customer: Achthundert— *sharp breath* Das kann ich mir nicht leisten, wirklich nicht, und der Umzug steht noch nicht mal fest, aber vielleicht hab ich keine andere Wahl und—
+Customer: Achthundert— [sharp breath] Das kann ich mir nicht leisten, wirklich nicht, und der Umzug steht noch nicht mal fest, aber vielleicht hab ich keine andere Wahl und—
 584. Okay okay warte mal, ähm, lass mich mal was checken—manchmal gibt's da Spielraum. Also du hast gesagt Umzug? Wenn's beruflich ist, haben wir diese Regelung, äh, Code REL-WORK-2024, da werden bis zu 50 Prozent erlassen, wenn du mehr als, ähm, 75 Kilometer wegen nem Job umziehst.
-Customer: Es ist aber nicht beruflich, es ist... *long exhale* es ist kompliziert, Familiensache, ich weiß einfach nicht, was ich machen soll.
+Customer: Es ist aber nicht beruflich, es ist... [long exhale] es ist kompliziert, Familiensache, ich weiß einfach nicht, was ich machen soll.
 585. Verstehe verstehe, Familiensachen sind hart. Hmm, warte mal—ich seh hier was Interessantes. Du bist seit, äh, 2019 bei uns? 5 Jahre insgesamt über verschiedene Tarife? Damit hast du Legacy-Status, was, äh, eigentlich keiner weiß, aber das eröffnet dir einige Optionen.
-Customer: *breath* Legacy-Status? Was soll das denn sein? Davon hat mir keiner was erzählt.
+Customer: [breath] Legacy-Status? Was soll das denn sein? Davon hat mir keiner was erzählt.
 586. Genau genau genau, die bewerben das nicht, weil sie, ähm, ehrlich gesagt nicht wollen, dass die Leute das nutzen. Aber im Grunde mit Legacy Stufe 3, wofür du seit September 2024 qualifiziert bist, kannst du einmalig den Vertrag pausieren für bis zu, äh, 6 Monate. Bleibt technisch gesehen aktiv, aber keine monatlichen Kosten, verlängert nur dein Enddatum.
-Customer: Also ich könnte den einfach... pausieren? *sharp inhale* Aber was ist, wenn ich danach doch kündigen muss?
+Customer: Also ich könnte den einfach... pausieren? [sharp inhale] Aber was ist, wenn ich danach doch kündigen muss?
 587. Ja also hier ist die Sache, äh, und ich sollte dir das vermutlich nicht sagen, aber egal—wenn du jetzt pausierst und dann im siebten Monat kündigst? Das System berechnet die Gebühren nur ab dem Pausierungsdatum, nicht ab dem ursprünglichen Start. Also statt 18 verbleibenden Monaten zeigt's dann, ähm, einen Monat. Das wären dann so, äh, 470 Euro insgesamt statt 810.
-Customer: *exhale* Das ist immer noch viel, aber... okay warte, woher weiß ich, dass das wirklich funktioniert?
+Customer: [exhale] Das ist immer noch viel, aber... okay warte, woher weiß ich, dass das wirklich funktioniert?
 588. Total berechtigte Frage. Ich mach gerade ne Notiz in deiner Akte, Referenznummer REF-88K-PAUSE-091324, die dokumentiert unser ganzes Gespräch. Außerdem, ähm, schick ich dir die Legacy-Programmbedingungen an deine hinterlegte E-Mail—sollte in etwa, äh, 2 Minuten in deinem Posteingang sein. Die Pausierungsoption ist auf Seite 12 versteckt, Abschnitt 4B.
-Customer: *breath catches* Seite 12? Mein Gott, ich kann gerade nicht mal klar genug denken, um Rechtsdokumente zu lesen, ich kann einfach...
+Customer: [breath catches] Seite 12? Mein Gott, ich kann gerade nicht mal klar genug denken, um Rechtsdokumente zu lesen, ich kann einfach...
 589. Ne ne, ich versteh das total, der Kram ist absichtlich verwirrend. Weißt du was, äh, du musst dich heute nicht entscheiden. Die Pausierung kann bis zu, ähm, 30 Tage rückdatiert werden. Also atme mal durch, lies alles in Ruhe durch, wenn du soweit bist, und wenn du vor dem 13. Oktober zurückrufst, können wir das rückwirkend anwenden.
-Customer: 13. Oktober. *long exhale* Okay. Okay, das gibt mir... ja, etwas Zeit, die Sache zu klären.
+Customer: 13. Oktober. [long exhale] Okay. Okay, das gibt mir... ja, etwas Zeit, die Sache zu klären.
 590. Genau genau. Oh und, ähm, kleiner Tipp? Wenn du zurückrufst, frag direkt nach der Kundenbindungsabteilung, nicht den allgemeinen Support. Nenn diese REF-88K-Nummer, die ich dir gegeben hab. Die haben viel mehr Spielraum, um, äh, mit solchen Situationen umzugehen. Manche Sachbearbeiter streichen sogar die 70 Euro Bearbeitungsgebühr, die ich eigentlich erwähnen müsste, aber, hmm, praktischerweise vergessen hab.
-Customer: *sharp inhale* Es gibt auch noch ne Bearbeitungsgebühr? Natürlich. Ich... danke, dass du so ehrlich bist mit allem.
+Customer: [sharp inhale] Es gibt auch noch ne Bearbeitungsgebühr? Natürlich. Ich... danke, dass du so ehrlich bist mit allem.
 591. Hey, wir versuchen doch alle nur irgendwie klarzukommen, ne? Die Firma macht diese Verträge absichtlich unmöglich, aber, ähm, wenigstens kennst du jetzt die Schlupflöcher. Diese Referenznummer REF-88K-PAUSE-091324 ist dein Ass im Ärmel—jeder halbwegs fähige Mitarbeiter in der Kundenbindung wird, äh, genau wissen, was damit anzufangen ist. Halt die Ohren steif, okay?
-Customer: *sharp inhale* Woher weiß ich, dass Sie da nicht mit drinhängen? Jemand hat meine Karte belastet. War ich nicht.
+Customer: [sharp inhale] Woher weiß ich, dass Sie da nicht mit drinhängen? Jemand hat meine Karte belastet. War ich nicht.
 592. Oh! Nicht autorisierte Abbuchung. Ja. Lass mich das aufrufen—warte, ich meine—lass mich dein Konto holen. Brauche deine Karte, die endet auf? Die letzten vier Ziffern?
-Customer: *exhales* Es ist 7829. Hör zu, ich mähe Rasen. Keine Ahnung, wie Widersprüche funktionieren.
+Customer: [exhales] Es ist 7829. Hör zu, ich mähe Rasen. Keine Ahnung, wie Widersprüche funktionieren.
 593. Hab's, hab's. 7829. Perfekt. Also hier ist was passiert—ich kann die Belastung sehen. $487.92 von VendorTech Solutions LLC. Posted yesterday at 3:47 PM Eastern. Du sagst. Nicht deins?
 Customer: VendorTech? Nie gehört. Ist das irgendein Betrug?
 594. Okay also. Hier ist das Ding. Ich liebe sowas. Wie Puzzles. Deine Karte wurde getroffen von IP-Adresse 192.168.44.102. Das ist—nein warte—sorry. Externe IP. 74.125.224.18. Kalifornien. Du bist in... Michigan?
-Customer: *sharp breath* Ja. Michigan. Wie haben die meine Karte bekommen?
+Customer: [sharp breath] Ja. Michigan. Wie haben die meine Karte bekommen?
 595. Richtig, richtig. Also. Unter uns gesagt? Das passiert. Oft. Öfter als wir zugeben. Ich reiche Widerspruchsformular DSP-2025-94471 ein. Vorläufige Gutschrift. Innerhalb von 24 Stunden. Vielleicht früher.
 Customer: Vorläufig? Was heißt das genau? Will nicht schwierig sein.
 596. Oh! Gute Frage. Also im Grunde—ich meine—wir geben dir die $487.92 zurück. Morgen wahrscheinlich. While we investigate. Dauert insgesamt 5 bis 7 Werktage. Volle Untersuchung.
-Customer: *sigh* Und wenn die sich wehren? Die Vendor-Leute?
+Customer: [sigh] Und wenn die sich wehren? Die Vendor-Leute?
 597. Werden sie nicht. Glaub mir. Diese Typen? VendorTech? Wir haben 47 Widersprüche gegen die. Diesen Monat. Die sind auf unserer Liste—ich sollte das nicht sagen, aber. Überall Betrugsmarker.
 Customer: Hör zu, ich weiß, das ist nicht deine Schuld. Brauche nur mein Geld zurück.
 598. Nein, nein, du bist okay! Versteh ich total. Okay also. Neue Karte. Expressversand an 8847 Oak Street? That's your address, right? Sollte ankommen. Dienstag. Mittwoch spätestens.
-Customer: *exhale* Ja, stimmt. Die können die neue Karte nicht belasten?
+Customer: [exhale] Ja, stimmt. Die können die neue Karte nicht belasten?
 599. Unmöglich. Neue Nummer. CVV-883. Warte, nein—sorry, das ist. Schreib das nicht auf. Dein neuer CVV. Andere Nummer. Alte Karte ist tot. Hab sie schon gekillt.
 Customer: Gut. Ähm, sorry, dass ich vorhin so paranoid war.
 600. Machst du Witze? Sei paranoid! Das ist clever. Referenznummer für das alles. RFN-20250114-MICH-7829. Mach einen Screenshot. Email kommt auch. An deine... Yahoo-Adresse?

@@ -39,13 +39,13 @@ Character 1: [very sincerely] I've spent twenty years studying antique firearms 
 15. [anxious] The vault entrance should be right here according to the sketches, beneath where the main gallery would have been. [exhales] Do you think they were trying to hide it from someone that night?
 # --- CUSTOMER_SUPPORT ---
 Customer: Hey there! So um, funny story... My package never arrived. Again. For the third time actually.
-16. Oh no, I—I'm so sorry to hear that. Let me pull up your account right away... *exhales* okay, what's your order number? I actually had something similar happen to me last month with my daughter's birthday gift.
+16. Oh no, I—I'm so sorry to hear that. Let me pull up your account right away... [exhales] okay, what's your order number? I actually had something similar happen to me last month with my daughter's birthday gift.
 Customer: It's ORD-4428-NX. Look I'm trying really hard not to... you know what, never mind.
 17. Got it got it, pulling that up now. Er, so I can see the tracking shows delivered yesterday at 2:47 PM to your front door, but—hmm, you're saying it's not there? I totally get how frustrating this is.
 Customer: Yeah no, it's hilarious actually. My front door. Which doesn't exist because I live in an apartment...
-18. *sharp inhale* Oh jeez, that's—okay so the driver marked it as unit 1A but your account shows unit 14A. That's definitely our mistake. Um, let me check with the delivery team real quick, see if we can track down where it actually went.
+18. [sharp inhale] Oh jeez, that's—okay so the driver marked it as unit 1A but your account shows unit 14A. That's definitely our mistake. Um, let me check with the delivery team real quick, see if we can track down where it actually went.
 Customer: You know what would be great? If just once something could just... sorry, I'm being unfair.
-19. No no no, you're—you're absolutely right to be upset. *sighs* Alright so, uh, the package is showing as unrecoverable, which means—I mean basically it's gone. But here's what I can do for you right away.
+19. No no no, you're—you're absolutely right to be upset. [sighs] Alright so, uh, the package is showing as unrecoverable, which means—I mean basically it's gone. But here's what I can do for you right away.
 Customer: Gone. Of course it's gone. My nephew's birthday is tomorrow and I just...
 20. Okay listen, I—I have kids too, right? So here's what we're gonna do. The item PSU-8827-G is actually in stock at our express warehouse just 47 miles from you. If I process this as code RUSH24, er, you'll have it by 10 AM tomorrow guaranteed.
 # --- MONOLOGUE ---
@@ -828,15 +828,15 @@ Character 1: [hesitantly] Your producer just happens to have FBI cooperation agr
 406. [warmly] Then you walk away, and in two weeks you'll watch your life implode on national television while I provide color commentary. But somehow, I don't think that's what you're going to do.
 # --- CUSTOMER_SUPPORT (continued) ---
 Customer: Wait really? That would actually... oh thank God. You have no idea how much I...
-407. Absolutely, I'm—I'm doing it right now. *exhales* The new total is gonna be $0.00 because obviously we're covering everything, shipping included. Should take about, hmm, 30 seconds to process here.
+407. Absolutely, I'm—I'm doing it right now. [exhales] The new total is gonna be $0.00 because obviously we're covering everything, shipping included. Should take about, hmm, 30 seconds to process here.
 Customer: You're literally saving my life. My sister would've killed me if I showed up empty-handed again...
-408. *soft laugh* Trust me, I—I get it. My brother still brings up the time I forgot his kid's present from like three years ago. Alright so confirmation number is CNF-9902-441-XK and you'll get an email in about 2 minutes.
+408. [soft laugh] Trust me, I—I get it. My brother still brings up the time I forgot his kid's present from like three years ago. Alright so confirmation number is CNF-9902-441-XK and you'll get an email in about 2 minutes.
 Customer: I could cry. Seriously. After the week I've had this is just...
 409. Hey hey, it's—it's all good now, okay? Er, actually wait, let me also add a $25 credit to your account for future orders. Code GFT-2534-M. Consider it an early birthday gift for your nephew from us.
 Customer: Stop, you're being too nice! Now I feel bad for being all passive aggressive earlier...
-410. Oh please, you were—you were fine! Honestly, if someone lost my package three times I'd probably, uh... well, let's just say you handled it better than I would've. *nervous laugh*
+410. Oh please, you were—you were fine! Honestly, if someone lost my package three times I'd probably, uh... well, let's just say you handled it better than I would've. [nervous laugh*
 Customer: Well thanks for being so human about this. Most reps would've just read the script and...
-411. Yeah no, scripts are—they're not really my thing. *exhales* Anyway, your nephew's gonna love that robot kit. My daughter has the same one, she built it in like 2 hours flat. Call us at 800-555-2847 if you need anything else, okay?
+411. Yeah no, scripts are—they're not really my thing. [exhales] Anyway, your nephew's gonna love that robot kit. My daughter has the same one, she built it in like 2 hours flat. Call us at 800-555-2847 if you need anything else, okay?
 Customer: Let me see here... so you're telling me. I need seventeen different forms. For one warranty claim?
 412. Right right. Yeah. I get it. Look, it's not ideal. But the warranty division at 2244 Industrial Park needs everything documented. For the claim number WR-9982-TK to process. They're strict.
 Customer: I've been doing this for fifteen years. Fifteen. Never had to jump through these hoops before.
@@ -1038,19 +1038,19 @@ Customer: That's exactly what I needed to hear. Is there a specific person or de
 Customer: This has been incredibly helpful. You've addressed everything clearly. Thank you for taking the time to properly escalate this issue.
 511. You're very welcome. I've documented everything we've discussed in your account under reference number CALL-892347-RESOLVED. Jennifer Walsh will contact you within 48 hours, and you'll receive my summary email within the next 30 minutes. Is there anything else I can help you with today?
 Customer: Sorry to bother you but... what's the word... my account balance. It says zero?
-512. Oh wow, okay, let me pull that up for you right away—zero balance, that's definitely not right. *sharp inhale* So I'm looking at account ending in 4792, and yeah, I see exactly what you're seeing here, which is, frankly, alarming because this shouldn't happen.
+512. Oh wow, okay, let me pull that up for you right away—zero balance, that's definitely not right. [sharp inhale] So I'm looking at account ending in 4792, and yeah, I see exactly what you're seeing here, which is, frankly, alarming because this shouldn't happen.
 Customer: I know it's not your fault. There was... um... fifteen hundred in there yesterday.
 513. No no, you're absolutely right to be concerned about this—I mean, I'd be freaking out too if my balance just vanished. Let me check the transaction history here, uh, starting from yesterday at 11:59 PM... okay so there's a debit for exactly $1,547.82 marked as "system adjustment," which honestly makes zero sense.
 Customer: System adjustment? That's what they said last time. About the... er... the recurring fee thing.
-514. Wait, this happened before? *exhales* Okay that's—sorry, I mean that's completely unacceptable. Let me look at your case history... hmm, I see ticket #TK-8829-QX from last month about unauthorized deductions, and it shows resolved but clearly, um, something's still broken in our system.
+514. Wait, this happened before? [exhales] Okay that's—sorry, I mean that's completely unacceptable. Let me look at your case history... hmm, I see ticket #TK-8829-QX from last month about unauthorized deductions, and it shows resolved but clearly, um, something's still broken in our system.
 Customer: Look I just... I need that money. Rent's due tomorrow.
 515. Absolutely, we're fixing this today—not tomorrow, today. So what I'm doing right now is, uh, initiating an emergency reversal for transaction ID RV-1547-82-XKL, and normally this takes 3-5 days but—no wait, that's not gonna work for you—let me escalate this differently.
 Customer: Three to five days? They promised me... what was it... immediate resolution last time.
-516. Yeah I know, those timeline promises are, frankly, ridiculous when people have real bills to pay. *sharp breath* Alright, so here's what I'm actually going to do—I'm marking this as a critical error code CE-9981, which triggers our same-day correction protocol, meaning the $1,547.82 should post back within four hours.
+516. Yeah I know, those timeline promises are, frankly, ridiculous when people have real bills to pay. [sharp breath] Alright, so here's what I'm actually going to do—I'm marking this as a critical error code CE-9981, which triggers our same-day correction protocol, meaning the $1,547.82 should post back within four hours.
 Customer: Four hours. Okay. Will it actually... um... stick this time?
 517. I hear the skepticism and honestly, you have every right to doubt this given what happened before. But I'm also—wait, let me just—I'm adding a permanent block on your account against these "system adjustments," code BLOCK-ADJ-7792, so this literally cannot happen again.
 Customer: That's a thing? You can just... block it?
-518. *exhales* It is, but most reps don't know about it or don't—sorry, they're not trained on it properly, which is honestly frustrating. The block code went live in our system January 15th, but they barely told anyone about it, er, typical communication issues here.
+518. [exhales] It is, but most reps don't know about it or don't—sorry, they're not trained on it properly, which is honestly frustrating. The block code went live in our system January 15th, but they barely told anyone about it, er, typical communication issues here.
 Customer: Okay so... four hours. And this block thing is... permanent?
 519. Yes, completely permanent unless you personally call and provide verification code VER-REMOVE-8827 to lift it, which you'd never need to do. And look, I'm putting my direct extension in your file—4789—so if this isn't fixed by, hmm, let's say 2 PM, you call me directly.
 Customer: You're giving me your actual extension? That's... I mean... they never do that.

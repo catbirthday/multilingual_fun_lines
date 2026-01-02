@@ -215,7 +215,7 @@ Character 1: Perfeito. Há mais alguma coisa que eu precise de fazer?
 Character 1: [very loudly] I just lost three thousand dollars on the election markets! Can you believe this?
 97. [amargo] Oh god, another one. Look, I've been getting calls like this all day and, honestly, the markets were showing clear signals that— wait, sorry, that's not helpful. Three thousand, that's, um, that's rough. Which platform were you using?
 Character 1: Polymarket. Everyone said it was a sure thing.
-98. Ah, yeah, Polymarket. Okay so, here's the thing about prediction markets—they're not actually about what's gonna happen, they're about what people *think* is gonna happen, which is, like, a totally different animal. You feeling okay about the loss or is it, uh, is it hitting hard?
+98. Ah, yeah, Polymarket. Okay so, here's the thing about prediction markets—they're not actually about what's gonna happen, they're about what people [think] is gonna happen, which is, like, a totally different animal. You feeling okay about the loss or is it, uh, is it hitting hard?
 Character 1: [gasp softly] Wait, you're not going to lecture me?
 99. Lecture you? No, no, I mean, what good would that do now? You're already feeling it, right? Look, I've, um, I've been there myself—not with three grand, but enough to sting. The real question is what you want to do next, like, are you trying to understand what went wrong or just need to vent?
 Character 1: I guess I want to understand. Everyone seemed so confident.
@@ -951,25 +951,25 @@ Customer: E isto... ahm... não vai afetar a minha avaliação de desempenho nem
 447. De maneira nenhuma. Assim que a reversão for aprovada, o que espero que aconteça até às 18h00 de hoje tendo em conta as provas fotográficas claras, o seu registo vai mostrar caso arquivado com o código de causa NC-14, ou seja, sem culpabilidade determinada.
 Customer: Ótimo, pronto. Então se faz favor, mande toda a documentação para o meu email profissional que têm em arquivo.
 448. Agendei o envio do pacote de documentação para o seu email registado que termina em @premiervalet.com até às 18h30 de hoje, incluindo a confirmação da reversão, o estado atualizado da reclamação com o código de resolução CLR-9847-NC, e uma carta para os seus registos.
-Customer: *exhales* Olha, desculpa estar a chatear-te com isto, mas estou completamente perdida com estes registos de pagamentos.
+Customer: [exhales] Olha, desculpa estar a chatear-te com isto, mas estou completamente perdida com estes registos de pagamentos.
 449. Ah não te preocupes nada! Fico feliz em ajudar. Então. Deixa-me só. Puxar aqui a tua conta. Hum, estou a ver que estás registada como Captain's Choice Charters, número de conta CC-7742-M. E estás com problemas com—desculpa, qual é mesmo o problema com os pagamentos?
-Customer: *sharp inhale* Está a mostrar que tenho tipo três mil em pagamentos digitais que não consigo corresponder às minhas reservas.
+Customer: [sharp inhale] Está a mostrar que tenho tipo três mil em pagamentos digitais que não consigo corresponder às minhas reservas.
 450. Ok ok. Então. Hmm. Deixa-me ver aqui o teu registo de transações. Consigo ver. Ah. Tens dezassete transações nos últimos trinta dias. E o teu sistema de referências de reservas mostra—espera não é—na verdade deixa-me verificar o teu processador de pagamentos. Está a mostrar terminal ID POS-8891-X para a maioria destas...
-Customer: *sighs* Pois, eu normalmente recebo em dinheiro, por isso esta coisa toda digital é... Sinto-me estúpida só de estar a ligar por causa disto.
+Customer: [sighs] Pois, eu normalmente recebo em dinheiro, por isso esta coisa toda digital é... Sinto-me estúpida só de estar a ligar por causa disto.
 451. Não não não! Não te sintas assim de todo. A sério. Hum. Muitos negócios têm exatamente este problema. Então o que estou a ver é. Ah. A tua conta Stripe STR-9264-KL está a receber pagamentos. Mas não estão a sincronizar com o teu software de reservas. O que é. Na verdade. Bastante comum quando tens múltiplos canais de pagamento...
-Customer: *exhales slowly* Certo. Então como é que resolvo isto?
+Customer: [exhales slowly] Certo. Então como é que resolvo isto?
 452. Ah! Na verdade. Acho que. Estou a ver o que se está a passar. Pronto. As tuas reservas manuais. Aquelas em que as pessoas pagam em dinheiro. Estão a criar IDs de transação provisórios tipo CASH-0001. Mas. Quando alguém paga digitalmente através do teu site. Gera uma referência diferente. Tipo esta. WEB-4429-JK. E não estão a comunicar uma com a outra...
-Customer: *inhale* Fogo, isto é tão frustrante. Eu só quero fazer passeios de pesca.
+Customer: [inhale] Fogo, isto é tão frustrante. Eu só quero fazer passeios de pesca.
 453. Percebo perfeitamente. Mesmo. Hum. Aqui está o que podemos fazer. Posso. Na verdade deixa-me—desculpa. Posso juntar estes sistemas para ti. O teu software de contabilidade. Versão 4.2.1. Tem esta ferramenta de reconciliação. Onde basicamente. Podes corresponder transações em massa usando os nomes dos clientes...
-Customer: Espera, há uma ferramenta para isto? *sharp exhale* Porque é que ninguém me disse?
+Customer: Espera, há uma ferramenta para isto? [sharp exhale] Porque é que ninguém me disse?
 454. Ah! Pois. Então. É que está meio. Escondida no menu de relatórios? Em. Hmm. Ferramentas Financeiras. Depois Reconciliação Avançada. Código de referência REC-TOOL-7. Eu sei. Não é super óbvio. Mas quando sabes onde está...
-Customer: *breath* Ok. Ferramentas Financeiras. Estou a ver. Não vejo nada sobre reconciliação.
+Customer: [breath] Ok. Ferramentas Financeiras. Estou a ver. Não vejo nada sobre reconciliação.
 455. Ah! Pois pois. É. Talvez precises de. Atualizar primeiro? A tua versão. Deixa-me verificar. Sim estás na 4.0.3. Então. A atualização para 4.2.1. É o pacote de atualização UP-8823-A. Deve demorar. Sei lá. Cinco minutos a instalar...
-Customer: *controlled exhale* Claro que preciso duma atualização. Porque nada pode simplesmente. Funcionar. Não é?
+Customer: [controlled exhale] Claro que preciso duma atualização. Porque nada pode simplesmente. Funcionar. Não é?
 456. Heh. Pois. Eu sei. Tecnologia né? Mas. A boa notícia é. Quando atualizares. Todas essas transações órfãs. As que totalizam. Ah. Três mil cento e quarenta e sete euros. Vão automaticamente corresponder usando o algoritmo. Confiança de correspondência de padrão de noventa e dois por cento...
-Customer: *sharp inhale* Espera, consegues ver o valor exato? Isso está mesmo certo.
+Customer: [sharp inhale] Espera, consegues ver o valor exato? Isso está mesmo certo.
 457. Sim! Então. Estou a ver. Lote de transações TB-9901-X até TB-9947-X. Quarenta e sete pagamentos no total. E. Ah espera. Acabei de reparar. Vinte e três deles. Já têm correspondências parciais no teu sistema. Só não estão. Totalmente reconciliadas? Por isso na verdade. Estamos só a falar de uns. Mil e cem em pagamentos verdadeiramente órfãos...
-Customer: *long exhale* Ah graças a Deus. Ok. Então atualizo, depois uso esta ferramenta?
+Customer: [long exhale] Ah graças a Deus. Ok. Então atualizo, depois uso esta ferramenta?
 458. Exatamente! Atualiza primeiro. Pacote UP-8823-A. Depois. Reconciliação Avançada. E na verdade. Ah. Se quiseres. Posso ficar na linha enquanto fazes? Para ter a certeza. Que tudo sincroniza bem. O teu ID de comerciante MER-5542-QV deve preencher automaticamente. Quando a ferramenta abrir...
 Customer: Cancelei a subscrição dos vossos emails de marketing há três semanas, mas continuo a receber cinco ou seis emails por dia.
 459. Obrigada por nos contactar. Peço imensa desculpa por esta situação. Deixe-me já aceder à sua conta e verificar as suas preferências de email. Pode dar-me o endereço de email que está a receber estas mensagens?
@@ -1052,25 +1052,25 @@ Customer: I need the email confirmation sent to my address on file. Is that stil
 Customer: Perfect. I expect this to be handled correctly this time. Thank you for your assistance.
 498. You have my personal assurance this will be resolved today. I'll monitor case PRI-8847-URGENT myself, and if you have any concerns, please reference my agent ID SR-4429 when calling back.
 Customer: So basically we're a distillery. Tipo, destilados, percebes? E o sistema continua a pôr-nos como... fabricante de cerveja?
-499. *exhales* Oh that's... interesting. Deixa-me ver a vossa conta. *inhales* Qual é o vosso número de contribuinte?
+499. [exhales] Oh that's... interesting. Deixa-me ver a vossa conta. [inhales] Qual é o vosso número de contribuinte?
 Customer: It's um 84-7761902. Então todos os meses, a mesma coisa, taxas de cerveja.
-500. Okay I see it here. Conta 84-7761902. *sighs* Hmm, isto é estranho, o vosso código NAICS mostra 312120 que é cervejarias. Mas vocês estão registados como... espera. Há aqui uma nota de 15 de março, alguém corrigiu e depois voltou ao que estava?
+500. Okay I see it here. Conta 84-7761902. [sighs] Hmm, isto é estranho, o vosso código NAICS mostra 312120 que é cervejarias. Mas vocês estão registados como... espera. Há aqui uma nota de 15 de março, alguém corrigiu e depois voltou ao que estava?
 Customer: Yes! Like exactly! Então nós arranjamos isto, e pronto, cerveja outra vez. É completamente insano.
-501. *exhales* Right so. Aqui está o que eu estou a ver, a vossa candidatura original de 8 de janeiro tem-vos classificados corretamente como 312140, que é destilados. Mas depois... hmm, cada renovação automática volta ao default. Isso definitivamente não devia acontecer.
+501. [exhales] Right so. Aqui está o que eu estou a ver, a vossa candidatura original de 8 de janeiro tem-vos classificados corretamente como 312140, que é destilados. Mas depois... hmm, cada renovação automática volta ao default. Isso definitivamente não devia acontecer.
 Customer: So basically I've called. Eh... quatro vezes? Cinco? Sinceramente já perdi a conta.
-502. *inhales sharply* Oh wow. Pois, estou a ver, 3 de fevereiro, 28 de fevereiro, 15 de março, 30 de março, e 11 de abril. Cinco chamadas, cada uma marcada como resolvida. *sighs* Mas obviamente, não resolvida. Deixa-me investigar melhor aqui.
+502. [inhales sharply] Oh wow. Pois, estou a ver, 3 de fevereiro, 28 de fevereiro, 15 de março, 30 de março, e 11 de abril. Cinco chamadas, cada uma marcada como resolvida. [sighs] Mas obviamente, não resolvida. Deixa-me investigar melhor aqui.
 Customer: Can we just. Arranjar isto de vez? Por favor? As penalizações estão a matar-nos.
-503. Absolutely. Então o que eu vou fazer, *exhales* vou escalar isto para a nossa equipa de classificação fiscal. Número de caso TC-9847-XK. Eles tratam da codificação backend, deve prevenir a reversão. Demora umas 48 horas.
+503. Absolutely. Então o que eu vou fazer, [exhales] vou escalar isto para a nossa equipa de classificação fiscal. Número de caso TC-9847-XK. Eles tratam da codificação backend, deve prevenir a reversão. Demora umas 48 horas.
 Customer: Forty-eight hours. Ótimo, então entretanto ainda somos cerveja?
 504. Well actually. Não, estou a aplicar um override temporário agora mesmo. Código TMP-3847. Isso vai manter-vos na classificação correta, até à correção permanente no dia 22 de abril. Devem ver o ajustamento... dentro de... talvez... duas horas?
 Customer: Oh. Ah, ok então isso realmente ajuda, tipo imediatamente?
-505. *exhales* Yeah exactly. A vossa próxima declaração vai mostrar a taxa adequada de 21% em vez daquela taxa de cerveja de 16.8%. E honestamente, olhando para a vossa conta, devemos-vos uns $3,400 em créditos de pagamento excessivo, daquelas penalizações incorretas.
+505. [exhales] Yeah exactly. A vossa próxima declaração vai mostrar a taxa adequada de 21% em vez daquela taxa de cerveja de 16.8%. E honestamente, olhando para a vossa conta, devemos-vos uns $3,400 em créditos de pagamento excessivo, daquelas penalizações incorretas.
 Customer: Wait seriously? Então vamos receber dinheiro de volta?
-506. *inhales* Oh definitely. A nota de crédito CM-7799-B está a processar agora, deve chegar à vossa conta até 20 de abril. E já agora, estou a pôr uma flag de prioridade, código PRI-847, em toda a vossa conta. Qualquer problema futuro, vocês saltam a fila.
+506. [inhales] Oh definitely. A nota de crédito CM-7799-B está a processar agora, deve chegar à vossa conta até 20 de abril. E já agora, estou a pôr uma flag de prioridade, código PRI-847, em toda a vossa conta. Qualquer problema futuro, vocês saltam a fila.
 Customer: That's. Nossa, então basicamente este pesadelo está mesmo a acabar?
-507. *sighs with relief* It really is. O vosso caso TC-9847-XK vai direto para a equipa técnica sénior, eles vão codificar permanentemente a vossa classificação. Sem mais reversões. Já vi este bug duas vezes antes, nas duas vezes, a correção permanente funcionou.
+507. [sighs with relief] It really is. O vosso caso TC-9847-XK vai direto para a equipa técnica sénior, eles vão codificar permanentemente a vossa classificação. Sem mais reversões. Já vi este bug duas vezes antes, nas duas vezes, a correção permanente funcionou.
 Customer: Honestly I'm just. Aliviada, tipo tão aliviada. Obrigada.
-508. *exhales* Hey you've been incredibly patient. Cinco chamadas é... duro. O vosso número de confirmação é CFM-8827-XK41. Vai-vos chegar um email em breve, tudo o que discutimos, mais a minha extensão direta, 4782. Se acontecer alguma coisa estranha, liguem-me diretamente.
+508. [exhales] Hey you've been incredibly patient. Cinco chamadas é... duro. O vosso número de confirmação é CFM-8827-XK41. Vai-vos chegar um email em breve, tudo o que discutimos, mais a minha extensão direta, 4782. Se acontecer alguma coisa estranha, liguem-me diretamente.
 Customer: Preciso de fazer o downgrade da minha subscrição do plano Premium Plus para o Standard.
 509. Claro, vou já tratar disso. Deixe-me só abrir aqui a sua conta. Pode dar-me o número de conta ou o email associado à subscrição?
 Customer: O email é robert.chen@stratosventures.com e a conta deve estar em nome da Stratos Ventures LLC.
@@ -1211,25 +1211,25 @@ Customer: Quinta dá bem. Obrigada por—por não me obrigares a reiniciar aquil
 577. Ah! Oh pá, pois o clássico "desliga e volta a ligar". Olha, com o problema conhecido KI-5589, reiniciar não ia ajudar de qualquer forma. O teu tracking vai ser TRK-90554-KLMN quando gerar.
 Customer: Agradeço mesmo. A sério. Este dia todo tem sido... já não aguentava outro menu telefónico.
 578. Percebo perfeitamente. Ei aliás—espera, antes de desligares. A tua conta diz que estás no código postal 94107? Há um, hum, há mesmo um centro de reparações no local RC-SF-03 que faz trocas no próprio dia se quinta for tarde demais.
-Customer: *exhale* Pronto, eu mudei o meu plano na semana passada, e agora a fatura está completamente errada.
+Customer: [exhale] Pronto, eu mudei o meu plano na semana passada, e agora a fatura está completamente errada.
 579. Ai não, deixa-me—deixa-me ver isso—lamento tanto que estejas a lidar com esta confusão na faturação. Então posso ver aqui que mudaste do plano Basic para o Premium no dia 14 de dezembro, and that would create pro-rated charges for the remaining 17 days of your billing cycle.
-Customer: *sigh* Claro que há taxas extra. Então são... dezassete dias de quê exatamente?
+Customer: [sigh] Claro que há taxas extra. Então são... dezassete dias de quê exatamente?
 580. Certo, então—na verdade deixa-me explicar isto melhor—desculpa, é um bocado complicado. When you upgrade mid-cycle, you pay $12.47 for the remaining Premium days through December 31st, mais a tua taxa normal de janeiro do Premium de $29.99, portanto a próxima fatura mostra $42.46 no total.
 Customer: Espera, quarenta e dois dólares? But Premium is twenty-nine ninety-nine.
 581. Eu sei, eu sei—é mesmo confuso e peço desculpa por isso. Os $42.46 são só para este mês de transição, because it includes both the pro-rated December upgrade and the full January Premium charge.
-Customer: *sharp inhale* Então estou a pagar dezembro E janeiro? Isso não pode estar certo.
+Customer: [sharp inhale] Então estou a pagar dezembro E janeiro? Isso não pode estar certo.
 582. Na verdade—não espera, deixa-me clarificar—só pagas pelos dias que realmente usas. Portanto 14 a 31 de dezembro no Premium, são os $12.47, depois 1 a 31 de janeiro, that's the regular $29.99.
 Customer: Mas eu já paguei dezembro. Quando tinha o Basic.
 583. Ah sim! Tens—tens toda a razão, desculpa, devia ter mencionado isso. Já pagaste $14.99 pelo Basic em dezembro, so we credited back $7.82 for the unused Basic days from December 14th to 31st.
-Customer: *exhale* Então há um crédito? Why am I still paying forty-two dollars then?
+Customer: [exhale] Então há um crédito? Why am I still paying forty-two dollars then?
 584. Eu percebo a frustração, mesmo. Então a matemática—deixa-me só—a tua fatura de 1 de dezembro foi $14.99 para o Basic, depois creditámos $7.82 de volta, mas adicionámos $12.47 para o upgrade do Premium, plus the full January Premium at $29.99.
 Customer: Isso é... crédito de sete e oitenta e dois, taxa de doze e qualquer coisa, vinte e nove para janeiro?
 585. Exatamente, sim.
-Customer: *sigh* E isto acontece sempre que mudo de plano? Que... ótimo.
+Customer: [sigh] E isto acontece sempre que mudo de plano? Que... ótimo.
 586. Na verdade não—e lamento que isto seja tão confuso—isto só acontece quando mudas a meio do ciclo de faturação. If you'd switched on January 1st, it would've been a clean $29.99 charge with no pro-rating needed.
 Customer: Então espera, primeiro de janeiro. O meu ciclo de faturação começa no dia primeiro?
 587. É isso mesmo.
-Customer: *exhale* Fantástico. Ninguém mencionou isso quando fiz o upgrade.
+Customer: [exhale] Fantástico. Ninguém mencionou isso quando fiz o upgrade.
 588. Eu—lamento mesmo isso, deviam ter explicado o pro-rating. Mas daqui para a frente, a partir de 1 de fevereiro, you'll just see the regular $29.99 monthly charge, sem mais confusões ou taxas divididas, prometo.
 # --- MONOLOGUE (continued) ---
 589. [sussurrando] Oh my God. Did he just... did Marcus just raise his hand? [pausa] He's actually volunteering to solve it. The kid who told me math was pointless, who sat in the back corner for three months refusing to even pick up a pencil. [gasp softly] And he's—wait, he's getting it right. He's explaining it to the class and he's... [voz trémula] Holy shit, he's actually getting it right. [riso] Six months of me staying after school with him, six months of "I can't do this, Miss Chen, I'm too stupid," and now he's up there teaching the other kids how to factor polynomials. Look at his face, he's, um... he's actually proud of himself. [muito baixinho] When he turned around just now and saw me nodding, that little smile—God, that's what I became a teacher for. [fungar] All those nights I went home thinking maybe I wasn't reaching him, maybe I was pushing too hard, and... [caloroso] Jeez, I think I might actually cry. He just told Sarah, "No, look, it's actually pretty easy once you get it." Marcus said math was easy. [chorando ao falar] I need to, uh, I need to text his mom after class. She's been so worried about him, and now... now he believes he can do this.
