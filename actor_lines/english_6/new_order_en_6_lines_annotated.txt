@@ -6,19 +6,18 @@
 # Use these to select lines by category.
 #
 # === CONTENT TYPE ===
-# customer_support: 1-200  # 200 lines
-# dialogue: 201-400  # 200 lines
-# general_tags: 401-499  # 99 lines
-# monologue: 500-519  # 20 lines
-# simple_tags: 520-609  # 90 lines
+# dialogue: 1-5, 22-216  # 200 lines
+# general_tags: 6-10, 217-310  # 99 lines
+# simple_tags: 11-15, 311-395  # 90 lines
+# customer_support: 16-20, 396-590  # 200 lines
+# monologue: 21, 591-609  # 20 lines
 #
 # === PROFESSIONALISM (customer_support only) ===
-# casual: 21-30, 61-70, 81-90, 101-130, 141-160, 171-180, 191-200  # 100 lines
-# professional: 1-20, 31-60, 71-80, 91-100, 131-140, 161-170, 181-190  # 100 lines
+# casual: 411-420, 451-460, 471-480, 491-520, 531-550, 561-570, 581-590  # 100 lines
+# professional: 16-20, 396-410, 421-450, 461-470, 481-490, 521-530, 551-560, 571-580  # 100 lines
 #
 # TOTAL: 609 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [dialogue] [short pause] She's actually four, but yeah, it still catches me off guard sometimes. She'll switch languages mid-sentence depending on who walks in the room. My mother-in-law thinks it's the most natural thing in the world.
 2. [dialogue] No secret really, just constant exposure from birth. Kids don't think about language as something to learn—they just absorb it like they absorb everything else. The brain's doing all this incredible neural pathway construction without any conscious effort.

@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "21-30, 41-60, 111-130, 150-159, 170-179, 210-239, 300-319, 330-349, 360-369, 390-399, 450-469, 512, 514-515, 517-518, 520-529, 560-569"  # 205 lines,
-    "mix": "31-40, 71-80, 200-209, 240-249, 270-279, 320-329, 350-359, 370-379, 420-439, 502, 505-507, 511, 516, 600-619"  # 126 lines,
-    "pure": "1-20, 61-70, 81-110, 131-149, 160-169, 180-199, 250-269, 280-299, 380-389, 400-419, 440-449, 470-501, 503-504, 508-510, 513, 519, 530-559, 570-599"  # 288 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "11-20, 61-90, 101-120, 141-189"  # 109 lines,
-    "professional": "1-10, 21-60, 91-100, 121-140, 190-199"  # 90 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-199"  # 199 lines,
-    "dialogue": "200-399"  # 200 lines,
-    "general_tags": "400-499"  # 100 lines,
-    "monologue": "500-519"  # 20 lines,
-    "simple_tags": "520-619"  # 100 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 619 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [mix] Franchement, le messaging actuel est un peu sensible. On a évité les vrais problèmes trop longtemps, and now there's some serious decay in our market perception.
 2. [mix] [laugh hysterically] Oh mon Dieu, probablement 2 ans? Peut-être 3? Je sais que je devrais le faire chaque trimestre mais bon, things just get so busy, et avant que tu t'en rendes compte...

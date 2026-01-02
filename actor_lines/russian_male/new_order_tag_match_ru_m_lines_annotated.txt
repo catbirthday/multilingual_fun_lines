@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "11-20, 31-40, 101-110, 201-210, 221-240, 281-290, 361-370, 421-430, 441-470, 504, 506-507, 510, 521-540, 561-570, 591-600"  # 164 lines,
-    "mix": "21-30, 41-50, 111-130, 151-160, 181-190, 211-220, 261-280, 321-330, 371-390, 471-480, 491-502, 514, 516, 551-560, 571-580"  # 164 lines,
-    "pure": "1-10, 51-100, 131-150, 161-180, 191-200, 241-260, 291-320, 331-360, 391-420, 431-440, 481-490, 503, 505, 508-509, 511-513, 515, 517-520, 541-550, 581-590, 601-620"  # 292 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "11-30, 41-50, 61-70, 91-100, 111-140, 151-190"  # 120 lines,
-    "professional": "1-10, 31-40, 51-60, 71-90, 101-110, 141-150, 191-200"  # 80 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-200"  # 200 lines,
-    "dialogue": "201-400"  # 200 lines,
-    "general_tags": "401-500"  # 100 lines,
-    "monologue": "501-520"  # 20 lines,
-    "simple_tags": "521-620"  # 100 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 620 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [en] Oh come on, it's not rigged, you just, um, you mistimed it like four times in a row. Look, the secret is to hit it when the blade is at, uh, eleven o'clock, not twelve—gives you that extra millisecond of clearance.
 2. [en] Well yeah, I mean, it's hard not to when you're, like, aggressively muttering "stupid windmill" every single time. Plus you're holding up the family of seven behind us who are, mmm, starting to look pretty murderous honestly.

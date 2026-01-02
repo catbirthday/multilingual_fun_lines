@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "1-10, 41-50, 81-120, 131-140, 151-160, 191-200, 221-230, 261-270, 321-330, 381-390, 451-480, 512, 516, 521-530, 571-580, 591-610"  # 202 lines,
-    "mix": "11-20, 51-70, 121-130, 161-170, 391-400, 411-420, 481-490, 501, 505, 518, 520, 541-550, 561-570"  # 104 lines,
-    "pure": "21-40, 71-80, 141-150, 171-190, 201-220, 231-260, 271-320, 331-380, 401-410, 421-450, 491-500, 502-504, 506-511, 513-515, 517, 519, 531-540, 551-560, 581-590, 611-620"  # 314 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "11-20, 61-70, 81-90, 111-120, 151-180"  # 70 lines,
-    "professional": "1-10, 21-60, 71-80, 91-110, 121-150, 181-200"  # 130 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-200"  # 200 lines,
-    "dialogue": "201-400"  # 200 lines,
-    "general_tags": "401-500"  # 100 lines,
-    "monologue": "501-520"  # 20 lines,
-    "simple_tags": "521-620"  # 100 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 620 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [pure] Programação, de longe. Passei 6 meses só a olhar para mensagens de erro a pensar se era fundamentalmente burro. Depois um dia fez-se luz e de repente conseguia pensar em código.
 2. [pure] Comecei com tutoriais do YouTube às 2 da manhã porque não conseguia dormir. É engraçado como a insónia me levou a mudar de carreira—às vezes as piores noites levam às melhores decisões.

@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "1-10, 71-80, 131-140, 211-230, 261-270, 506-507, 510, 512, 516, 521-530, 611-620"  # 85 lines,
-    "mix": "11-20, 51-60, 81-90, 101-110, 141-150, 161-180, 201-210, 341-350, 431-440, 451-460, 491-500, 505, 513, 519, 581-590"  # 133 lines,
-    "pure": "21-50, 61-70, 91-100, 111-130, 151-160, 181-200, 231-260, 271-340, 351-430, 441-450, 461-490, 501-504, 508-509, 511, 514-515, 517-518, 520, 531-580, 591-610"  # 402 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "1-10, 31-40, 51-70, 81-90, 111-160"  # 100 lines,
-    "professional": "11-30, 41-50, 71-80, 91-110, 161-200"  # 100 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-200"  # 200 lines,
-    "dialogue": "201-400"  # 200 lines,
-    "general_tags": "401-500"  # 100 lines,
-    "monologue": "501-520"  # 20 lines,
-    "simple_tags": "521-620"  # 100 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 620 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [mix] Ich hab mir gestern tatsächlich das ganze Deck angeschaut. Die Insights zu unseren Receiving Workflows sind echt aufschlussreich—die User verbringen viel mehr Zeit mit manueller Eingabe als wir gedacht hatten, especially during peak hours.
 2. [mix] Ihre Automatisierungsvorschläge machen auf dem Papier Sinn, aber sie übersehen komplett die Realität unserer Lagerbeschränkungen. Wir können nicht einfach überall Barcode-Scanner einführen, wenn die Hälfte unserer Lieferanten immer noch mit handgeschriebenen Labels verschickt—that's a fundamental disconnect in their recommendations.

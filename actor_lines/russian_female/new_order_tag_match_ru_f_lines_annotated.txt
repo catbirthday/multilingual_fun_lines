@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "11-20, 41-50, 71-80, 171-180, 191-210, 251-260, 371-380, 451-460, 491-500, 503, 511, 514, 518, 521-530, 561-590"  # 144 lines,
-    "mix": "81-90, 101-150, 181-190, 211-220, 271-290, 361-370, 391-400, 411-420, 431-440, 481-490, 501-502, 506-508, 519, 531-540, 551-560, 591-620"  # 206 lines,
-    "pure": "1-10, 21-40, 51-70, 91-100, 151-170, 221-250, 261-270, 291-360, 381-390, 401-410, 421-430, 441-450, 461-480, 504-505, 509-510, 512-513, 515-517, 520, 541-550"  # 270 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "1-30, 51-70, 81-120, 131-180"  # 140 lines,
-    "professional": "31-50, 71-80, 121-130, 181-200"  # 60 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-200"  # 200 lines,
-    "dialogue": "201-400"  # 200 lines,
-    "general_tags": "401-500"  # 100 lines,
-    "monologue": "501-520"  # 20 lines,
-    "simple_tags": "521-620"  # 100 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 620 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [en] I'm fine, just caught the tip on my shoulder. The padding absorbed most of it, though I have to say fencing is quite different from navigating underwater currents—at least down there you have three dimensions to work with.
 2. [en] Actually, sharks are incredibly predictable once you understand their behavior patterns. Most species avoid humans entirely, whereas here your opponent is actively trying to strike you with a metal blade.

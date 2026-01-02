@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "61-90, 111-130, 161-170, 211-220, 261-270, 291-310, 341-350, 371-380, 431-450, 491-500, 502, 509, 511-512, 517, 520-530"  # 166 lines,
-    "mix": "1-10, 91-100, 141-150, 221-230, 241-250, 311-320, 331-340, 421-430, 461-470, 503, 505-507, 510, 515-516, 541-550, 591-600"  # 117 lines,
-    "pure": "11-60, 101-110, 131-140, 151-160, 171-210, 231-240, 251-260, 271-290, 321-330, 351-370, 381-420, 451-460, 471-490, 501, 504, 508, 513-514, 518-519, 531-540, 551-590, 601-610"  # 327 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "31-40, 51-70, 81-90, 101-120, 131-150, 161-170"  # 90 lines,
-    "professional": "1-30, 41-50, 71-80, 91-100, 121-130, 151-160, 171-200"  # 110 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-200"  # 200 lines,
-    "dialogue": "201-400"  # 200 lines,
-    "general_tags": "401-500"  # 100 lines,
-    "monologue": "501-520"  # 20 lines,
-    "simple_tags": "521-610"  # 90 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 610 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [pure] Te estaba explicando que llegamos a la roca madre mucho antes de lo que indicaba el estudio. En vez de 2.5 metros de profundidad como decía el reporte de suelos, estamos viendo como un metro en algunos lugares, así que hay que replantear todo el plan de excavación.
 2. [pure] Depende de cómo lo veas. Bueno para la estabilidad estructural porque estás construyendo sobre roca sólida, pero malo para el presupuesto porque ahora necesitamos un martillo rompedor para atravesarla en lugar de solo sacar tierra.

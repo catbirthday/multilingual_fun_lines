@@ -6,19 +6,18 @@
 # Use these to select lines by category.
 #
 # === CONTENT TYPE ===
-# customer_support: 1-200  # 200 lines
-# dialogue: 201-400  # 200 lines
-# general_tags: 401-499  # 99 lines
-# monologue: 500-519  # 20 lines
-# simple_tags: 520-609  # 90 lines
+# dialogue: 1-5, 22-216  # 200 lines
+# general_tags: 6-10, 217-310  # 99 lines
+# simple_tags: 11-15, 311-395  # 90 lines
+# customer_support: 16-20, 396-590  # 200 lines
+# monologue: 21, 591-609  # 20 lines
 #
 # === PROFESSIONALISM (customer_support only) ===
-# casual: 31-40, 71-90, 101-110, 121-160, 181-190  # 90 lines
-# professional: 1-30, 41-70, 91-100, 111-120, 161-180, 191-200  # 110 lines
+# casual: 421-430, 461-480, 491-500, 511-550, 571-580  # 90 lines
+# professional: 16-20, 396-420, 431-460, 481-490, 501-510, 551-570, 581-590  # 110 lines
 #
 # TOTAL: 609 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [dialogue] [shaky voice] Oh, these old things? Well, um, honestly they're my pride and joy—I've been collecting them for, gosh, maybe fifteen years now? Each one has this incredible story, and I mean, your phone probably takes better pictures than most of these, but there's something about the, uh, the history, you know?
 2. [dialogue] Oh no no, you'd be surprised! I started with, like, a five-dollar camera from a garage sale that didn't even work properly. The thing is, collecting isn't really about money—it's more about, mmm, finding what speaks to you and just slowly building from there, one little piece at a time.

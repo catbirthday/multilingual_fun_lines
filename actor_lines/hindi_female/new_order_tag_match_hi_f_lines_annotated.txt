@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "1-10, 21-30, 71-80, 121-160, 191-210, 231-240, 291-320, 351-370, 381-390, 421-430, 441-450, 481-490, 501-502, 505, 507, 510, 512, 514, 516, 531-540, 551-560, 581-590"  # 228 lines,
-    "mix": "101-110, 211-220, 241-250, 271-280, 371-380, 411-420, 461-470, 503-504, 506, 509, 521-530, 541-550, 561-570, 601-610"  # 114 lines,
-    "pure": "11-20, 31-70, 81-100, 111-120, 161-190, 221-230, 251-270, 281-290, 321-350, 391-410, 431-440, 451-460, 471-480, 491-500, 508, 511, 513, 515, 517-520, 571-580, 591-600"  # 268 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "41-50, 61-70, 81-90, 101-110, 141-150, 161-180"  # 70 lines,
-    "professional": "1-40, 51-60, 71-80, 91-100, 111-140, 151-160, 181-200"  # 130 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-200"  # 200 lines,
-    "dialogue": "201-400"  # 200 lines,
-    "general_tags": "401-500"  # 100 lines,
-    "monologue": "501-520"  # 20 lines,
-    "simple_tags": "521-610"  # 90 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 610 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [en] That's me! I've got the whole lineup right here. What's your daughter's studio name? We've got about fifty groups performing today, so it's quite the production.
 2. [en] Elite Motion Academy is number twenty-seven. They're in the junior contemporary category, performing right after lunch break. Your daughter picked a great studio—they always bring something special to the stage.

@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "11-20, 61-70, 121-130, 141-150, 201-220, 251-260, 271-310, 321-330, 431-440, 451-460, 481-490, 502-503, 508, 510, 515, 518, 520, 571-580, 611-620"  # 177 lines,
-    "mix": "41-50, 71-80, 161-170, 241-250, 311-320, 351-360, 381-390, 461-470, 491-500, 504, 507, 509, 521-530, 591-610"  # 123 lines,
-    "pure": "1-10, 21-40, 51-60, 81-120, 131-140, 151-160, 171-200, 221-240, 261-270, 331-350, 361-380, 391-430, 441-450, 471-480, 501, 505-506, 511-514, 516-517, 519, 531-570, 581-590"  # 320 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "31-40, 71-90, 111-120, 161-190"  # 70 lines,
-    "professional": "1-30, 41-70, 91-110, 121-160, 191-200"  # 130 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-200"  # 200 lines,
-    "dialogue": "201-400"  # 200 lines,
-    "general_tags": "401-500"  # 100 lines,
-    "monologue": "501-520"  # 20 lines,
-    "simple_tags": "521-620"  # 100 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 620 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [en] I was saying how strange it is that we spend so much time analyzing everyone else's motivations but rarely examine our own. Like how people dissect every move Elon Musk makes but can't explain why they scrolled Twitter for three hours.
 2. [en] [bored] You're literally proving my point right now. We're talking about self-awareness and you're bouncing between Silicon Valley headlines like a pinball. When's the last time you actually sat with your own thoughts without checking Reuters or Bloomberg?

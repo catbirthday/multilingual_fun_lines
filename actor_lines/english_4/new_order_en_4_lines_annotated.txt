@@ -6,19 +6,18 @@
 # Use these to select lines by category.
 #
 # === CONTENT TYPE ===
-# customer_support: 1-200  # 200 lines
-# dialogue: 201-400  # 200 lines
-# general_tags: 401-500  # 100 lines
-# monologue: 501-520  # 20 lines
-# simple_tags: 521-620  # 100 lines
+# dialogue: 1-5, 22-216  # 200 lines
+# general_tags: 6-10, 217-311  # 100 lines
+# simple_tags: 11-15, 312-406  # 100 lines
+# customer_support: 16-20, 407-601  # 200 lines
+# monologue: 21, 602-620  # 20 lines
 #
 # === PROFESSIONALISM (customer_support only) ===
-# casual: 1-10, 21-60, 71-100, 121-130, 151-160, 191-200  # 110 lines
-# professional: 11-20, 61-70, 101-120, 131-150, 161-190  # 90 lines
+# casual: 16-20, 407-411, 422-461, 472-501, 522-531, 552-561, 592-601  # 110 lines
+# professional: 412-421, 462-471, 502-521, 532-551, 562-591  # 90 lines
 #
 # TOTAL: 620 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [dialogue] Seven years professionally, but honestly I've been hypervigilant about danger my whole life. Turns out childhood trauma makes you really good at spotting potential threats. Silver lining, I guess.
 2. [dialogue] [cry loudly] Sorry, sorry. Sometimes it still hits me weird. I've been in therapy for three years now and still can't talk about the useful parts without feeling guilty for finding any value in it.

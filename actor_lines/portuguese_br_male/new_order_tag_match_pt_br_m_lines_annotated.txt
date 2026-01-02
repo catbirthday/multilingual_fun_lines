@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "11-30, 91-110, 121-140, 171-180, 211-220, 241-250, 291-300, 361-370, 381-390, 401-420, 441-450, 471-480, 501, 509-511, 518, 571-590"  # 185 lines,
-    "mix": "201-210, 221-240, 251-260, 311-320, 351-360, 371-380, 461-470, 504, 508, 516-517, 601-610"  # 94 lines,
-    "pure": "1-10, 31-90, 111-120, 141-170, 181-200, 261-290, 301-310, 321-350, 391-400, 421-440, 451-460, 481-500, 502-503, 505-507, 512-515, 519-570, 591-600, 611-620"  # 341 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "21-60, 81-90, 101-110, 121-150, 161-170, 181-200"  # 120 lines,
-    "professional": "1-20, 61-80, 91-100, 111-120, 151-160, 171-180"  # 80 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-200"  # 200 lines,
-    "dialogue": "201-400"  # 200 lines,
-    "general_tags": "401-500"  # 100 lines,
-    "monologue": "501-520"  # 20 lines,
-    "simple_tags": "521-620"  # 100 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 620 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [mix] Ah não, isso é, é... definitivamente não é bom. Deixa eu abrir o sistema aqui pra ver o que tá rolando—você tá recebendo alguma mensagem de erro específica ou só tá, tipo, travando quando você tenta fazer query?
 2. [mix] Ah, tá, connection timeout geralmente significa que o servidor tá sobrecarregado ou tem algum problema de rede em algum lugar. Hum, deixa eu checar o status do servidor rapidinho—é, tô vendo um uso de CPU bem alto no nosso primary node, actually.

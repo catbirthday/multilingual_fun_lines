@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "41-50, 121-140, 161-170, 231-240, 281-290, 351-380, 431-440, 450-459, 470-479, 512-513, 515, 519, 540-549, 590-599, 610-619"  # 154 lines,
-    "mix": "11-20, 61-70, 181-200, 221-230, 251-270, 291-310, 411-430, 441-449, 490-499, 501-502, 504, 506-508, 510-511, 518, 520-529, 580-589, 600-609"  # 168 lines,
-    "pure": "1-10, 21-40, 51-60, 71-120, 141-160, 171-180, 201-220, 241-250, 271-280, 311-350, 381-410, 460-469, 480-489, 500, 503, 505, 509, 514, 516-517, 530-539, 550-579"  # 297 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "11-20, 31-40, 51-60, 101-110, 141-150, 171-180"  # 60 lines,
-    "professional": "1-10, 21-30, 41-50, 61-100, 111-140, 151-170, 181-200"  # 140 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-200"  # 200 lines,
-    "dialogue": "201-400"  # 200 lines,
-    "general_tags": "401-499"  # 99 lines,
-    "monologue": "500-519"  # 20 lines,
-    "simple_tags": "520-619"  # 100 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 619 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [pure] [बुदबुदाते हुए] अरे, मेरा मतलब है, concrete operational stage तो अभी भी cultures में remarkable consistency दिखाता है। हाँ, timing vary करता है लेकिन, अम्म, जो fundamental cognitive shifts Piaget ने identify किए थे, वो development समझने के लिए अभी भी valid frameworks हैं।
 2. [pure] [सुड़कना] बात actually Piaget के गलत होने की नहीं है, ये उन contextual factors की है जो हमने शुरू में account नहीं किए थे। Vygotsky का zone of proximal development actually इन stages को beautifully complement करता है जब आप scaffolding variations को consider करते हैं।

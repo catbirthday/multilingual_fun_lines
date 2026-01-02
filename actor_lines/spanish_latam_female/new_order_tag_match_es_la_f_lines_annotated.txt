@@ -4,33 +4,14 @@
 ============================================================
 
 # LINE INDEX
-# Use these dictionaries to select lines by category.
+# Use these to select lines by category.
 #
-# === MODE (language selection) ===
-# mode_ranges = {
-    "en": "51-60, 91-100, 151-160, 191-200, 221-230, 311-320, 431-440, 461-470, 507-508, 510, 516, 518-519, 541-550, 561-570, 581-590"  # 116 lines,
-    "mix": "21-50, 61-70, 81-90, 171-190, 201-210, 231-240, 261-270, 301-310, 341-360, 371-390, 401-410, 421-430, 471-490, 505, 521-530"  # 201 lines,
-    "pure": "1-20, 71-80, 101-150, 161-170, 211-220, 241-260, 271-300, 321-340, 361-370, 391-400, 411-420, 441-460, 491-504, 506, 509, 511-515, 517, 520, 531-540, 551-560, 571-580, 591-620"  # 303 lines
-}
+# === CONTENT TYPE ===
 #
-# === PROFESSIONALISM (tone/style) ===
-# professionalism_ranges = {
-    "casual": "1-30, 41-50, 81-120, 141-150, 161-180, 191-200"  # 120 lines,
-    "professional": "31-40, 51-80, 121-140, 151-160, 181-190"  # 80 lines
-}
-#
-# === CONTENT TYPE (source material) ===
-# content_type_ranges = {
-    "customer_support": "1-200"  # 200 lines,
-    "dialogue": "201-400"  # 200 lines,
-    "general_tags": "401-500"  # 100 lines,
-    "monologue": "501-520"  # 20 lines,
-    "simple_tags": "521-620"  # 100 lines
-}
+# === PROFESSIONALISM (customer_support only) ===
 #
 # TOTAL: 620 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [mix] Ay, qué desgaste honestamente. ¿Estás haciendo esto sola o alguien más entiende cuánto trabajo implica esto realmente? Yo me pasé 3 meses en las rúbricas de nuestro departamento el año pasado, and nobody even uses them properly.
 2. [mix] Por supuesto que no. Déjame adivinar—¿vienen a las reuniones, asienten con la cabeza, y después desaparecen cuando hay que hacer trabajo de verdad? What criteria are you prioritizing for creative writing anyway?

@@ -6,19 +6,18 @@
 # Use these to select lines by category.
 #
 # === CONTENT TYPE ===
-# customer_support: 1-200  # 200 lines
-# dialogue: 201-400  # 200 lines
-# general_tags: 401-500  # 100 lines
-# monologue: 501-520  # 20 lines
-# simple_tags: 521-620  # 100 lines
+# dialogue: 1-5, 22-216  # 200 lines
+# general_tags: 6-10, 217-311  # 100 lines
+# simple_tags: 11-15, 312-406  # 100 lines
+# customer_support: 16-20, 407-601  # 200 lines
+# monologue: 21, 602-620  # 20 lines
 #
 # === PROFESSIONALISM (customer_support only) ===
-# casual: 31-40, 51-70, 81-90, 131-150  # 60 lines
-# professional: 1-30, 41-50, 71-80, 91-130, 151-200  # 140 lines
+# casual: 432-441, 452-471, 482-491, 532-551  # 60 lines
+# professional: 16-20, 407-431, 442-451, 472-481, 492-531, 552-601  # 140 lines
 #
 # TOTAL: 620 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [dialogue] Oh yeah, I've been, uhh, completely hooked for like six years now. Started with just one league with coworkers but now I'm in, hmm, four different ones? It's basically taken over my Sundays, which my partner finds both amusing and slightly concerning.
 2. [dialogue] Honestly? Spreadsheets and, er, way too much time on Reddit. The trick is having different draft strategies for each one—like, I'll go running back heavy in one, then literally do zero-RB in another just to, you know, hedge my bets.

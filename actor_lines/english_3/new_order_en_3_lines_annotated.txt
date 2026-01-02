@@ -6,19 +6,18 @@
 # Use these to select lines by category.
 #
 # === CONTENT TYPE ===
-# customer_support: 1-199  # 199 lines
-# dialogue: 200-399  # 200 lines
-# general_tags: 400-499  # 100 lines
-# monologue: 500-519  # 20 lines
-# simple_tags: 520-619  # 100 lines
+# dialogue: 1-5, 22-216  # 200 lines
+# general_tags: 6-10, 217-311  # 100 lines
+# simple_tags: 11-15, 312-406  # 100 lines
+# customer_support: 16-20, 407-600  # 199 lines
+# monologue: 21, 601-619  # 20 lines
 #
 # === PROFESSIONALISM (customer_support only) ===
-# casual: 1-20, 31-40, 51-60, 111-130, 151-159  # 69 lines
-# professional: 21-30, 41-50, 61-110, 131-150, 160-199  # 130 lines
+# casual: 16-20, 407-421, 432-441, 452-461, 512-531, 552-560  # 69 lines
+# professional: 422-431, 442-451, 462-511, 532-551, 561-600  # 130 lines
 #
 # TOTAL: 619 speaker lines
 #
-
 # --- DIALOGUE ---
 1. [dialogue] Oh man, okay, so the new Black Ops series is actually, um, pretty sick—they've basically redesigned the whole flex pattern and, er, made them way more playful without sacrificing stability, which is kind of impressive honestly.
 2. [dialogue] Well, I mean, if you're getting the Black Ops with Look Pivot 15s, then yeah, you're looking at, uh, easily two grand, but honestly those bindings alone are like six hundred bucks because they're basically bombproof.
