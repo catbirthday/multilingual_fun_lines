@@ -726,33 +726,6 @@ Character 1: [遠くを見るように] 毎週火曜の朝7時30分に来るん�
 354. [温かく] 火曜の朝って、実は予備調査をする時間帯なんだ。[そっとくすくす笑う] 次の何回かは午後に回すよ、君の時間を邪魔しないように。
 Character 1: [震えながら] それは...ありがたい。[長い間] 仕事に戻らせてしまって、測定とか計算とか、ここをどう解体するか決めることに。
 355. [思いやりを持って] 今日はゆっくりしていって。[静かに] 今週まだ6つ橋を見なきゃいけないし、正直、この報告書はあと1時間くらい待てるから。君の時間を大切にして。
-raw: {
-    "conversation": [
-        {"role": "Character 1", "content": "[ためらいながら] I know this might seem unusual, a critic like me coming to a salvage yard, but I heard about the cargo you pulled from that German transport last month. [間] The manifest suggests there might be something extraordinary in those crates."},
-        {"role": "Character 2", "content": "[好奇心を持って] You're talking about the U-boat supply ship off the Carolina coast? [困惑して] Most of what we recovered was machine parts and rotted provisions, nothing that would interest someone from the art world."},
-        {"role": "Character 1", "content": "[とても誠実に] The Nazis moved stolen art through submarine supply routes when the Allies started intercepting their surface ships. [静かに] Three Vermeers and a Caravaggio went missing from Amsterdam in 1943, never recovered."},
-        {"role": "Character 2", "content": "[ゆっくりと] There were some sealed containers in the officer's quarters, waterproofed better than anything else on that wreck. [ためらいながら] My crew thought they were personal effects, maybe documents or photographs."},
-        {"role": "Character 1", "content": "[興奮して] That's exactly how they would have packed them—double-sealed containers with false markings. [共感的に] I understand you have salvage rights, but these pieces belong to families who lost everything during the occupation."},
-        {"role": "Character 2", "content": "Look, I've been diving wrecks for twenty years, and half the time people come claiming treasure that turns out to be worthless junk. [ため息] What makes you so certain about this one?"},
-        {"role": "Character 1", "content": "[自信を持って] Because I've spent fifteen years tracking Nazi loot through shipping records and survivor testimonies. [情熱的に] The submarine route matches perfectly with the timeline of the Amsterdam heist."},
-        {"role": "Character 2", "content": "[温かく] You really care about this stuff, don't you? [くすくす笑い] Most people who come here just want to make a quick fortune selling whatever we've hauled up."},
-        {"role": "Character 1", "content": "[苦々しく] Art isn't just canvas and paint—it's memory, culture, identity. [とても静かに] My grandmother's family had their entire collection seized in 1942, never saw a single piece again."},
-        {"role": "Character 2", "content": "[申し訳なさそうに] I didn't realize this was personal for you. [間] The containers are in our climate-controlled storage, haven't even been opened yet because we were waiting for the insurance assessment."},
-        {"role": "Character 1", "content": "[安堵して] Thank God."},
-        {"role": "Character 2", "content": "[親しげに] Tell you what—I'll take you to see them myself, but you need to understand something about salvage work. [きっぱりと] We risk our lives going down to these wrecks, dealing with unexploded ordnance and structural collapses."},
-        {"role": "Character 1", "content": "[好奇心を持って] Of course."},
-        {"role": "Character 2", "content": "[情熱的に] Every dive is a gamble between preserving history and becoming part of it. [とても誠実に] So if there's art down there, real art that matters to people, I want to make sure it's handled right."},
-        {"role": "Character 1", "content": "[共感的に] You're not just a treasure hunter—you're more like an underwater archaeologist. [温かく] I misjudged you, and I apologize for assuming you wouldn't understand the significance."},
-        {"role": "Character 2", "content": "Most of what I pull up is rust and regret, but sometimes you find something that reminds you why the past matters. [息を吐く] These containers felt different from the moment we brought them up."},
-        {"role": "Character 1", "content": "[不安そうに] Different how? [素早く] Was there something about their weight, the way they were sealed, any markings you remember?"},
-        {"role": "Character 2", "content": "[ゆっくりと] The seals had a double-headed eagle stamp, and the weight distribution was all wrong for documents. [思慮深く] Too heavy on one side, like something solid was packed in layers of protective material."},
-        {"role": "Character 1", "content": "[とても興奮して] That's the Reichsadler mark they used for cultural artifacts! [震え声で] After all these years of dead ends and false leads, this might actually be real."},
-        {"role": "Character 2", "content": "Come on, let's go open those containers together and find out if your grandmother's paintings made it through seventy years underwater. [温かく] Maybe we can finally bring something home."
-    ],
-    "scenario": "A prestigious art critic seeks out a salvage diver who recently recovered sealed crates from a WWII German transport ship rumored to contain stolen masterpieces.",
-    "selected_tones": ["approaching", "understanding"],
-    "type": "scenario_conversation"
-}
 Character 1: [きっぱりと] いいか、その医療物資の輸出許可、来週じゃなくて今日中に出してもらわないと困るんだ。[苛立って] こっちが書類がどうこう言ってる間に、難民キャンプでは子供たちが死んでいってるんだぞ。
 356. [専門的に] 緊急性は本当に理解してます、本当に。でもこの二重用途の抗生物質は国務省の審査が必要なんです。[申し訳なさそうに] 規制には理由があって—あなたが誰だからって、それを無視するわけには...
 Character 1: [怒って] 誰だからって？[苦々しく] 俺はあの山岳地帯で3年間、あの人たちの自由のために仲間が死ぬのを見てきたんだ。それなのに薬も送れないって言うのか？

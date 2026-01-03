@@ -504,33 +504,6 @@ Character 1: [murmure stupéfait] Oh mon Dieu. Tu savais. Tout ce temps tu savai
 240. [rudement] De la même façon que toi tu vas le faire—en sachant que pousser trop fort sans preuves solides aurait fait rejeter l'affaire complètement, et là toute chance de justice aurait disparu pour de bon. Parfois attendre, c'est la seule option qui garde l'espoir en vie.
 Character 1: [épuisé] J'en peux plus de tout ça.
 241. Y a une enquêtrice aux affaires classées qui me doit un service, et elle est très douée pour trouver des choses qui ont été, bon, négligées la première fois. [prudemment] Si t'es prêt à être patient, vraiment patient, je pourrais peut-être l'intéresser au dossier.
-raw: {
-    "conversation": [
-        {"role": "Character 1", "content": "[surpris] Attends, c'est—Alex? Alex Chen du lycée Kennedy? J'arrive pas à croire que c'est vraiment toi après, quoi, quinze ans depuis le bac?"},
-        {"role": "Character 2", "content": "[se raidissant] Ah. Ouais, c'est moi. Écoute, je sais ce que tu penses—major de promo devenu père au foyer, c'est ça? Répare juste le câblage s'il te plaît, avant que mon conjoint rentre."},
-        {"role": "Character 1", "content": "Mais non, c'est pas du tout ce que je pensais, franchement. J'étais juste surpris parce que j'avais entendu dire que t'étais parti à Polytechnique et après, plus personne avait de nouvelles."},
-        {"role": "Character 2", "content": "[défensivement] Ben voilà, la vie, quoi. On peut pas tous parcourir le pays en faisant exactement ce qu'on avait prévu. Y en a qui ont eu des obligations familiales, des problèmes de santé, des trucs qui ont fait dérailler la trajectoire parfaite que tout le monde attendait."},
-        {"role": "Character 1", "content": "[doucement] Hé, je suis juste là pour m'assurer que la chambre de ton bébé a pas de dangers électriques. L'installation des prises ici est vraiment dangereuse—on dirait que quelqu'un a fait du bricolage qui aurait pu foutre le feu."},
-        {"role": "Character 2", "content": "C'était moi, en fait. [voix brisée] Ça fait des semaines que j'essaie de tout faire parfaitement, je regarde des vidéos YouTube à trois heures du mat' parce qu'on peut pas se permettre de faire venir des pros pour tout, et maintenant tu me dis que j'ai failli cramer la chambre de mon bébé?"},
-        {"role": "Character 1", "content": "[doucement] C'est réparable. Tout est réparable."},
-        {"role": "Character 2", "content": "Ah ouais? Parce que j'ai l'impression de déjà foirer et le bébé est même pas encore là. [expire] Mon conjoint bosse soixante heures par semaine, mes parents pensent que j'ai gâché mes études, et je suis même pas foutu de câbler une putain de veilleuse correctement."},
-        {"role": "Character 1", "content": "[chaleureusement] Tu sais, je pensais que réussir ça voulait dire avoir ma propre boîte d'électricité maintenant, mais au lieu de ça je roule d'état en état, je vis dans des motels, je répare les conneries des autres. Des fois, le chemin où on est, c'est exactement là où on doit être."},
-        {"role": "Character 2", "content": "[rire amer] Facile à dire quand t'as pas un être humain qui grandit en toi et que t'as la trouille de décevoir de la même façon que t'as déçu tous les autres."},
-        {"role": "Character 1", "content": "Ma fille a douze ans maintenant. Elle vit avec sa mère à Nantes parce que j'ai choisi le boulot plutôt que d'être présent, je pensais que subvenir aux besoins c'était plus important qu'être là, tout simplement. Crois-moi, la déception, je connais."},
-        {"role": "Character 2", "content": "[plus doucement] Je savais pas que t'avais une gamine. Putain, on a vraiment perdu contact avec tout le monde de l'époque, hein?"},
-        {"role": "Character 1", "content": "[travaillant en parlant] Le truc avec les bébés, c'est qu'ils s'en foutent de ton diplôme ou de ton titre ou de si t'as bien câblé leur veilleuse. Ils ont juste besoin que tu sois là et que tu les aimes, même quand t'as la trouille."},
-        {"role": "Character 2", "content": "Ma mère arrête pas de demander quand je retourne bosser, genre faire grandir un humain et se préparer à l'élever c'est pas du travail. [soupire] Elle a vraiment utilisé le mot 'gâchis' la semaine dernière."},
-        {"role": "Character 1", "content": "[fermement] Ta mère a tort. Bon, j'ai presque fini là—toutes tes prises seront sécurisées, bien mises à la terre, et je vais t'installer un variateur gratos parce que toute chambre de bébé a besoin d'un bon éclairage modulable."},
-        {"role": "Character 2", "content": "[voix tremblante] Pourquoi t'es si sympa avec moi? Au lycée, on se parlait à peine sauf quand t'avais besoin d'aide en maths, et maintenant t'es là à réparer mes conneries et tu m'offres du travail gratuit?"},
-        {"role": "Character 1", "content": "Parce que je me souviens que tu m'as donné des cours pendant trois mois sans prendre un centime, alors que je savais que ta famille avait besoin de cet argent. Y a des dettes qu'on garde avec soi."},
-        {"role": "Character 2", "content": "[doucement] J'avais oublié ça. On dirait la vie de quelqu'un d'autre, quelqu'un qui avait vraiment ses affaires en main et qui savait des trucs."},
-        {"role": "Character 1", "content": "[rassurant] Tu sais toujours des trucs, Alex. Tu apprends juste des trucs différents maintenant, des trucs importants qu'on peut pas t'enseigner dans une salle de classe à Polytechnique."},
-        {"role": "Character 2", "content": "[enfin détendu] Ouais. T'as peut-être raison."
-    ],
-    "scenario": "A journeyman electrician arrives to fix dangerous wiring in a nursery and discovers the expecting parent is their high school valedictorian who tutored them years ago.",
-    "selected_tones": ["releasing", "comforting", "defensive"],
-    "type": "scenario_conversation"
-}
 Character 1: [surpris] Putain, tu m'as fait peur—écoute, on est fermé, le bâtiment ouvre pas avant... attends, mais comment t'as fait pour passer les portiques de sécurité en bas?
 242. J'ai toujours mon badge de 2018, quand je comptais encore ici, quand les gens me rappelaient. [rire amer] Marrant comme personne a pensé à le désactiver après que tout soit parti en vrille.
 Character 1: [prudemment] Monsieur, il faut que vous partiez tout de suite ou j'appelle la sécurité—c'est de l'effraction, peu importe votre badge.

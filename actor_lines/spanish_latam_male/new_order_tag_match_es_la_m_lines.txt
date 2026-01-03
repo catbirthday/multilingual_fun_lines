@@ -786,33 +786,6 @@ Character 1: [tose] Terminal diagnosis.
 385. [voz temblorosa] No, no you don't get to do this, no puedes aparecer después de 15 años y soltarme eso como si fuera a arreglar todo. [louder] ¡Eso es manipulación emocional, no magia!
 Character 1: [muy sinceramente] The tank needs to be perfect because I want to leave something behind, algo que pruebe que pude crear algo duradero, algo que no desapareciera, algo que mi hijo construyó con sus propias manos que nos va a sobrevivir a los dos.
 386. [llorando mientras habla] I'll build your damn tank. [pausa] Pero cuando estés adentro haciendo tu estúpido acto de escape, recuerda que yo también aprendí a aguantar la respiración bajo el agua, esperando que regresaras. [muy bajito] 3 minutos y 47 segundos, ese es mi récord.
-raw: {
-    "conversation": [
-        {"role": "Character 1", "content": "[demasiado cortés] Ah, entonces usted es el famoso Sr. Peterson que Rebecca siempre menciona, el que diseña todos esos sistemas de automatización de punta. [risa nerviosa] Tengo que admitir que su trabajo está... bueno, está causando bastante revuelo en el sector manufacturero."},
-        {"role": "Character 2", "content": "[formal] Así es, dirijo la división de automatización en Syntech Industries. [pausa] Rebecca me comentó que trabajas en relaciones públicas, aunque no especificó en qué firma."},
-        {"role": "Character 1", "content": "[rápidamente] En realidad, ahorita estoy entre trabajos, explorando oportunidades en gestión de marcas de lujo. [carraspea] Pero quería preguntarle sobre su proyecto reciente en la planta de Cleveland, ese que optimizó las operaciones tan eficientemente."},
-        {"role": "Character 2", "content": "[con confianza] La implementación en Cleveland superó todas las métricas de rendimiento, sí. [orgullosamente] Logramos un aumento del 47 por ciento en productividad mientras reducimos los costos operativos casi un tercio."},
-        {"role": "Character 1", "content": "[amargamente] Qué maravilloso para los accionistas. [pausa] Mi hermano trabajó en control de calidad ahí por 12 años antes de que sus máquinas lo dejaran sin trabajo el mes pasado."},
-        {"role": "Character 2", "content": "La transición afectó a muchos trabajadores, eso lo entiendo. Pero el progreso tecnológico es inevitable, y las empresas que no se adaptan simplemente no van a sobrevivir en el mercado global. [suspira]"},
-        {"role": "Character 1", "content": "[sarcásticamente] Claro, la supervivencia del más apto y toda esa cosa. [fuerte] Supongo que es fácil hablar del progreso inevitable cuando eres el que diseña las máquinas, no el que está siendo reemplazado por ellas."},
-        {"role": "Character 2", "content": "[frustrado] Mire, yo no tomo estas decisiones en el vacío. [firmemente] Cada sistema que diseño incluye recomendaciones integrales de recapacitación, pero la gerencia rara vez las implementa por los costos."},
-        {"role": "Character 1", "content": "[animadamente] Ah, ¿entonces te lavas las manos una vez que el plano sale de tu escritorio? [exhala] Qué conveniente que puedas mantener tu conciencia limpia mientras las familias pierden su sustento."},
-        {"role": "Character 2", "content": "[enojado] Eso no es justo y lo sabes. [muy fuerte] ¡He pasado años abogando por programas de transición laboral, pero soy ingeniero, no legislador!"},
-        {"role": "Character 1", "content": "Tienes razón, solo estás siguiendo órdenes. [risa amarga] ¿Dónde he escuchado eso antes?"},
-        {"role": "Character 2", "content": "[severo] Si vas a comparar la automatización industrial con crímenes de guerra, esta conversación se acabó. [fríamente] Creo que deberías considerar si salir con mi hija es realmente por ella o por acercarte lo suficiente para ajustar estas cuentas particulares."},
-        {"role": "Character 1", "content": "[defensivamente] Eso no es—"},
-        {"role": "Character 2", "content": "[fuerte] Rebecca merece alguien que la vea como algo más que una conexión conveniente para saldar deudas. [pausa] Te he visto hacer networking en cada reunión familiar, coleccionando tarjetas de presentación como si fueran estampitas."},
-        {"role": "Character 1", "content": "[molesto] ¡No sabes nada de mis sentimientos por Rebecca! [voz temblorosa] Sí, hago networking, porque así es como la gente sin títulos de ingeniería y fondos fiduciarios sobrevive en esta ciudad."},
-        {"role": "Character 2", "content": "[en voz baja] Y sin embargo aquí estás confrontándome sobre automatización en lugar de hablar con Rebecca sobre tu hermano. [suspira] ¿Qué es exactamente lo que esperas lograr con esta conversación?"},
-        {"role": "Character 1", "content": "[vacilante] Quería entender cómo te lo justificas a ti mismo, crear sistemas que destruyen comunidades. [perdiendo la voz] Tal vez pensé que si podía entender eso, podría entender cómo seguir con Rebecca a pesar de..."},
-        {"role": "Character 2", "content": "[con empatía] A pesar de odiar lo que su padre hace para ganarse la vida. [pausa larga] Mira, yo diseño sistemas que hacen la producción más segura y eficiente, pero tienes razón en que el costo humano es real."},
-        {"role": "Character 1", "content": "[muy bajito] Mi hermano no ha salido de su departamento en 3 semanas. [llorando mientras habla] Él entrenaba a otros muchachos en ese piso, era su mentor, y ahora siente que toda su carrera no valió nada."},
-        {"role": "Character 2", "content": "Dile que me llame."}
-    ],
-    "scenario": "A social climber discovers that their new romantic partner's father is the industrial engineer who designs automation systems that just eliminated thousands of jobs including the social climber's brother's position.",
-    "selected_tones": ["engaged", "irritating"],
-    "type": "scenario_conversation"
-}
 Character 1: [vacilante] Entonces, este, la cava. [suspira] Escuché que alguien salió bastante herido cuando se vino abajo, y pues, eh, estoy aquí para averiguar qué falló con los soportes estructurales.
 387. [fríamente] Sí, uno de nuestros meseros tiene la clavícula rota y tres costillas fracturadas. [pausa] La aseguradora insistió en una evaluación independiente, y aparentemente tú eres, bueno, eres el mejor carpintero de la ciudad.
 Character 1: [amargamente] Claro, el mejor. [en voz baja] Pero no lo suficientemente bueno para algunas cosas, supongo. Mira, ¿me puedes mostrar dónde empezó el colapso? Necesito, este, revisar si las vigas de carga se instalaron correctamente.

@@ -31,33 +31,6 @@ Character 1: Riverside? That's where he said he had those weekend contracting jo
 [ansioso] God, what if I mess up? What if my cut is off and the whole wheel fails because of me? [breve pausa] No, no, can't think like that. Focus. Measure twice, cut once, like always. Except this time it's, um... it's measure five times, check the calibration again, then cut. [sollevato] There. Perfect edge. Smooth as glass.
 
 [caloroso] My kids don't believe me when I tell them daddy's making spaceship parts. They think I'm joking. But one day, when that rover sends back pictures, I'll point at the screen and say "see those wheels? I made those." [excited] I literally touched something that's going to touch Mars. [ridacchia] How many people can say that?
-raw: {
-    "conversation": [
-        {"role": "Character 1", "content": "[esitante] So I know we've been planning this trip for three months, and I was supposed to fly out tomorrow morning, but [sospira] something just came up at work that I can't ignore."},
-        {"role": "Character 2", "content": "[molto piano] You're canceling again. [pausa] The hotel's non-refundable, we already rearranged my entire work schedule, and you're telling me this twelve hours before your flight?"},
-        {"role": "Character 1", "content": "[velocemente] It's not like I planned this—we just detected indicators of a state-sponsored attack targeting critical infrastructure, and the signatures match something I've been tracking for months. [frustrato] If I don't handle this now, thousands of people could lose power or water access."},
-        {"role": "Character 2", "content": "[amaro] There's always something, isn't there? Last time it was ransomware at a hospital, before that it was election security, and each time it's absolutely critical that only you can handle it."},
-        {"role": "Character 1", "content": The attack vectors are using a zero-day vulnerability I discovered last week, and I'm literally the only person who understands the exploitation chain well enough to build effective countermeasures before they pivot."},
-        {"role": "Character 2", "content": "[arrabbiato] Do you even hear yourself right now? [ad alta voce] You're explaining network protocols while I'm sitting here in an empty apartment I cleaned for your visit, with concert tickets I bought for your birthday that's tomorrow!"},
-        {"role": "Character 1", "content": "[apologetic] Look, I understand you're upset, but this is genuinely a matter of national security—I have Homeland Security breathing down my neck and [si affievolisce] I mean, surely you can understand that some things are bigger than us?"},
-        {"role": "Character 2", "content": "[voce tremante] Bigger than us. [pausa] That's exactly the problem—everything is always bigger than us, more important than this relationship we're supposedly building across three thousand miles."},
-        {"role": "Character 1", "content": "[sulla difensiva] That's not fair, you knew what my job was when we started this, and I've made it work for two years despite the distance and the classified nature of everything I do."},
-        {"role": "Character 2", "content": "[molto piano] Made it work? [ride] We've seen each other four times in the last year, and you've canceled six other visits."},
-        {"role": "Character 1", "content": "[frustrato] I don't control when foreign actors decide to launch cyber attacks! [sospira] This isn't some corporate IT job where I can just delegate or postpone—lives are literally at stake when these systems go down."},
-        {"role": "Character 2", "content": "[piangendo mentre parla] What about my life? What about the life we keep saying we're going to build together once things settle down, once you get through this crisis or that threat assessment?"},
-        {"role": "Character 1", "content": "[piano] I never wanted it to be like this. [lunga pausa] Every time I have to make this choice, I tell myself it's the last time, but then another attack happens and I'm the only one who sees the patterns in the code."},
-        {"role": "Character 2", "content": You're not the only analyst in the entire intelligence community who can stop cyber attacks, you just can't let go of being the hero."},
-        {"role": "Character 1", "content": "[analytical] The specific polymorphic malware strain they're using incorporates techniques from three different APT groups I've been tracking since [espira] look, you're right, I'm doing it again, hiding behind the technical details."},
-        {"role": "Character 2", "content": "[esausto] At least you recognize it this time. [pausa] But recognition doesn't change the fact that I'm always going to come second to whatever crisis crosses your desk."},
-        {"role": "Character 1", "content": "[disperatamente] After this operation, I could request a transfer to a less critical position, maybe something in security education or policy review where the hours are more predictable and the stakes aren't so immediate."},
-        {"role": "Character 2", "content": "[triste] We both know you'd be miserable doing that, sitting in meetings about compliance frameworks while real attacks are happening that you could be stopping. [sospira] Maybe we need to admit this isn't working."},
-        {"role": "Character 1", "content": "[voce tremante] Please don't say that, not tonight, not when I'm about to spend the next seventy-two hours in a SCIF trying to save strangers while losing the only person who actually matters to me."},
-        {"role": "Character 2", "content": "[molto piano] I'll leave your birthday present with the doorman. [pausa] Good luck with the attack."}
-    ],
-    "scenario": "A threat intelligence analyst video calls their partner late at night after discovering evidence of a major cyber attack that will require them to cancel their long-awaited reunion trip tomorrow.",
-    "selected_tones": ["unintentional", "analytical", "decreasing"],
-    "type": "scenario_conversation"
-}
 Character 1: [scioccato] Mi hai trovata qui? Come hai fatto? [piano] Questo posto doveva essere sicuro, i federali mi avevano promesso che nessuno del mio vecchio mondo avrebbe mai potuto rintracciarmi.
 11. [freddamente] I soldi aprono tutte le porte, anche quelle federali. [pausa] L'azienda di imballaggi della tua famiglia sta perdendo un sacco di soldi senza di te, e il mio studio è pronto a fare un'offerta molto generosa.
 Character 1: Generosa? Ma per favore! Solo l'anno scorso avete distrutto 3 aziende, licenziato metà dei dipendenti e venduto i pezzi come avvoltoi su una carcassa.
