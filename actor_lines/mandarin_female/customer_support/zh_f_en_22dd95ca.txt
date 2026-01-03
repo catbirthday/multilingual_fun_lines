@@ -1,0 +1,93 @@
+=== Source: 22dd95ca_script.json ===
+Language: Mandarin Chinese
+Gender: female
+Mode: en
+Content Type: customer_support
+Professionalism: casual
+Scenario: reporting issues with two-factor authentication not sending codes
+
+=== Translated Dialogue ===
+
+Customer [en]: Look, I'm—I'm trying to log in. And it says—no wait. Are you even really tech support?
+
+Customer Support [en]: Oh absolutely, I understand your concern! Let me, um... what's the word... authenticate myself for you. I'm employee ID TSR-8924-JL with the security team, and I can see your account ending in 4782 called us at 2:47 PM today.
+
+Customer [en]: Okay. Okay okay. So the—let me just—the codes aren't coming. At all.
+
+Customer Support [en]: Alright, so let me pull up your security settings here... hmm, interesting. Your two-factor is set to SMS to the number ending in 6439, and it shows we've sent, er, three codes in the last hour but none were completed. Can you verify that phone number for me?
+
+Customer [en]: That's—that's my number. But nothing. Zero. This feels like—how do I know you're not hacking me?
+
+Customer Support [en]: Oh that's totally valid to worry about! So here's what I can tell you - I can see your last successful login was November 2nd from IP address 72.194.55.101, and you purchased, uh... let me see... a wireless mouse, order MOU-7263-XK. Does that sound right?
+
+Customer [en]: I did—I did buy that. Yeah. Okay. But still. No codes. Nothing.
+
+Customer Support [en]: Got it, got it. So what I'm thinking is, erhm... sometimes carriers block these automated messages as spam. Let me try something different - I can generate a backup code BKP-429-887-651 that'll work just this once, or we could switch to, like... what's it called... an authenticator app instead?
+
+Customer [en]: Wait wait wait. Backup code? That's—no, that sounds. Suspicious. Really suspicious.
+
+Customer Support [en]: Oh gosh, yeah I see how that sounds! Okay so, mm, let me explain better - this code is showing on my screen in our verified system, ticket number TKT-88290-QM, and it's only valid for the next, er, fifteen minutes. You'd enter it where you normally put the SMS code, but honestly if you're not comfortable we can try something else entirely.
+
+Customer [en]: I just—I just need to check my account. That's all. Nothing fancy.
+
+Customer Support [en]: Absolutely, I hear you. Alright, so what if we, hmm... actually, I'm looking at your carrier here and it's showing as Verizon, account suffix 8827. Have you maybe blocked short codes or marketing messages recently? Because that sometimes blocks our authentication system too.
+
+Customer [en]: Oh. OH. Yeah I—wait I think—I did block spam texts. Last week.
+
+Customer Support [en]: Ah perfect! That's probably it then! So basically you'll need to text START to 78429 to unblock those, and then, uh... wait let me double-check... yep, once you do that, our system reference SYS-4419-BC should be able to send codes again within about five minutes.
+
+Customer [en]: Okay so—so I text that? And then. Then it works? You're sure?
+
+Customer Support [en]: Yeah exactly! And actually, you know what? I'm gonna stay on the line with you while you do it, because, er... sometimes it takes a couple tries. My system shows you've been a customer since 2019, account creation date March 14th, so I definitely want to make sure we get this working for you.
+
+Customer [en]: That's—okay that's actually. Really nice. Sending it. Now.
+
+Customer Support [en]: Right right.
+
+Customer [en]: It says—it says confirmed! Wait let me—let me try logging in. Oh my God. The code. The code came through!
+
+Customer Support [en]: Oh fantastic! Yeah, those spam filters can be, uhh... what's the word... overzealous sometimes. Your authentication is showing as successful on my end too, session ID LOG-9982-4K-VALID, so you should be all set now. Is there anything else I can help you with while I have you?
+
+
+=== Original (English) ===
+
+Customer: Look, I'm—I'm trying to log in. And it says—no wait. Are you even really tech support?
+
+Customer Support: Oh absolutely, I understand your concern! Let me, um... what's the word... authenticate myself for you. I'm employee ID TSR-8924-JL with the security team, and I can see your account ending in 4782 called us at 2:47 PM today.
+
+Customer: Okay. Okay okay. So the—let me just—the codes aren't coming. At all.
+
+Customer Support: Alright, so let me pull up your security settings here... hmm, interesting. Your two-factor is set to SMS to the number ending in 6439, and it shows we've sent, er, three codes in the last hour but none were completed. Can you verify that phone number for me?
+
+Customer: That's—that's my number. But nothing. Zero. This feels like—how do I know you're not hacking me?
+
+Customer Support: Oh that's totally valid to worry about! So here's what I can tell you - I can see your last successful login was November 2nd from IP address 72.194.55.101, and you purchased, uh... let me see... a wireless mouse, order MOU-7263-XK. Does that sound right?
+
+Customer: I did—I did buy that. Yeah. Okay. But still. No codes. Nothing.
+
+Customer Support: Got it, got it. So what I'm thinking is, erhm... sometimes carriers block these automated messages as spam. Let me try something different - I can generate a backup code BKP-429-887-651 that'll work just this once, or we could switch to, like... what's it called... an authenticator app instead?
+
+Customer: Wait wait wait. Backup code? That's—no, that sounds. Suspicious. Really suspicious.
+
+Customer Support: Oh gosh, yeah I see how that sounds! Okay so, mm, let me explain better - this code is showing on my screen in our verified system, ticket number TKT-88290-QM, and it's only valid for the next, er, fifteen minutes. You'd enter it where you normally put the SMS code, but honestly if you're not comfortable we can try something else entirely.
+
+Customer: I just—I just need to check my account. That's all. Nothing fancy.
+
+Customer Support: Absolutely, I hear you. Alright, so what if we, hmm... actually, I'm looking at your carrier here and it's showing as Verizon, account suffix 8827. Have you maybe blocked short codes or marketing messages recently? Because that sometimes blocks our authentication system too.
+
+Customer: Oh. OH. Yeah I—wait I think—I did block spam texts. Last week.
+
+Customer Support: Ah perfect! That's probably it then! So basically you'll need to text START to 78429 to unblock those, and then, uh... wait let me double-check... yep, once you do that, our system reference SYS-4419-BC should be able to send codes again within about five minutes.
+
+Customer: Okay so—so I text that? And then. Then it works? You're sure?
+
+Customer Support: Yeah exactly! And actually, you know what? I'm gonna stay on the line with you while you do it, because, er... sometimes it takes a couple tries. My system shows you've been a customer since 2019, account creation date March 14th, so I definitely want to make sure we get this working for you.
+
+Customer: That's—okay that's actually. Really nice. Sending it. Now.
+
+Customer Support: Right right.
+
+Customer: It says—it says confirmed! Wait let me—let me try logging in. Oh my God. The code. The code came through!
+
+Customer Support: Oh fantastic! Yeah, those spam filters can be, uhh... what's the word... overzealous sometimes. Your authentication is showing as successful on my end too, session ID LOG-9982-4K-VALID, so you should be all set now. Is there anything else I can help you with while I have you?
+

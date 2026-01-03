@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, um, I got this notice about—er, my credit limit? Let me see here... it says it dropped?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah, those notices can be pretty alarming. Actually happened to me once with my own card, scared the heck out of me. Let me pull up your account real quick, what's the last four of your card?"
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, 7829. I'm sorry, I'm just—I probably missed a payment or something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, account ending in 7829... hmm, okay so I'm seeing the limit went from $8,500 to $3,200 last Tuesday. But wait, that's not—sorry, I mean your payment history is actually perfect here."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. So I didn't—okay so that means... why did they lower it then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what, this is kinda weird. Your credit score shows 742 which is really good, and you've never missed a payment in, er... what's that... six years with us. Let me dig deeper."
+        },
+        {
+            "role": "Customer",
+            "content": "I think—no wait, actually—did I not use it enough maybe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, checking that... nah you've got regular activity, about $400-600 monthly. Honestly this reminds me of when they did a whole batch of reductions during—hang on, let me check something else..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if it's because I closed that other account? Er, back in October?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ooh good thinking. Yeah closing accounts can sometimes... but no, that would've shown up differently in the system code here, this shows as REV-2024-BATCH-47A which is... huh."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I'm just tired of dealing with—is it fixable at least?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely fixable. So here's what happened, and this is gonna sound dumb but they ran this automated review on accounts in certain zip codes, basically a risk assessment thing for areas with high, uh... how do I put this... economic volatility indicators?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait so it's just—let me think—because of where I live?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Pretty much. Which is ridiculous because your individual metrics are all green, like literally every indicator shows low risk at 0.12 probability score."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so how do I—what's the process to get it back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I can submit what's called a manual override request, takes about 72 hours to process. The reference number would be OVR-8829-MNK and based on what I'm seeing here, there's like a 95% chance it gets approved back to your original $8,500."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank God. Er, sorry for being—I thought I'd messed something up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, don't even apologize! This is on us, not you. The algorithm basically just... well it's kinda like when GPS tells you to drive through a lake, you know?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ha, yeah. Okay so just... wait three days and it should be fixed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, should process by Friday at 5PM Eastern. I'm putting a note in here too that says \"customer maintains excellent payment history, automated reduction appears to be error\" so if anyone else looks at this they'll know what's up immediately."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, um, I got this notice about—er, my credit limit? Let me see here... it says it dropped?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh yeah, those notices can be pretty alarming. Actually happened to me once with my own card, scared the heck out of me. Let me pull up your account real quick, what's the last four of your card?"
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, 7829. I'm sorry, I'm just—I probably missed a payment or something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, account ending in 7829... hmm, okay so I'm seeing the limit went from $8,500 to $3,200 last Tuesday. But wait, that's not—sorry, I mean your payment history is actually perfect here."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. So I didn't—okay so that means... why did they lower it then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what, this is kinda weird. Your credit score shows 742 which is really good, and you've never missed a payment in, er... what's that... six years with us. Let me dig deeper."
+        },
+        {
+            "role": "Customer",
+            "content": "I think—no wait, actually—did I not use it enough maybe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, checking that... nah you've got regular activity, about $400-600 monthly. Honestly this reminds me of when they did a whole batch of reductions during—hang on, let me check something else..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if it's because I closed that other account? Er, back in October?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ooh good thinking. Yeah closing accounts can sometimes... but no, that would've shown up differently in the system code here, this shows as REV-2024-BATCH-47A which is... huh."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I'm just tired of dealing with—is it fixable at least?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely fixable. So here's what happened, and this is gonna sound dumb but they ran this automated review on accounts in certain zip codes, basically a risk assessment thing for areas with high, uh... how do I put this... economic volatility indicators?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait so it's just—let me think—because of where I live?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Pretty much. Which is ridiculous because your individual metrics are all green, like literally every indicator shows low risk at 0.12 probability score."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, okay so how do I—what's the process to get it back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I can submit what's called a manual override request, takes about 72 hours to process. The reference number would be OVR-8829-MNK and based on what I'm seeing here, there's like a 95% chance it gets approved back to your original $8,500."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank God. Er, sorry for being—I thought I'd messed something up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, don't even apologize! This is on us, not you. The algorithm basically just... well it's kinda like when GPS tells you to drive through a lake, you know?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ha, yeah. Okay so just... wait three days and it should be fixed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, should process by Friday at 5PM Eastern. I'm putting a note in here too that says \"customer maintains excellent payment history, automated reduction appears to be error\" so if anyone else looks at this they'll know what's up immediately."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "04c92645_script.json",
+    "professionalism": "casual",
+    "scenario": "trying to understand why their credit limit was reduced",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "exhausted_worn"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts",
+                    "vocalized_thinking",
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "humanizing_personal",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching",
+                    "self_corrections",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[controlled fury] 价值300万美金的心脏监护仪现在就卡在海关，我刚发现你用的CE证书六个月前就过期了！"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] 那些证书应该是通过欧洲办公室自动续期的，上周我递交文件的时候，I had every reason to believe they were current."
+        },
+        {
+            "role": "Character 1",
+            "content": "自动续期？什么时候监管证书能自动续期了？你明明知道FDA要求每一批医疗器械进口都要手动验证，especially Class II equipment. [sharp exhale]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[speeding up] 听着，我每周要处理40批货，across seventeen different regulatory jurisdictions，有时候欧洲团队说他们已经处理了续期，我只能相信他们。"
+        },
+        {
+            "role": "Character 1",
+            "content": "[incredulous] 相信他们？你的工作就是在任何东西过境之前验证文件。这可能会引发FDA对我们整个供应链的全面审查。"
+        },
+        {
+            "role": "Character 2",
+            "content": "销售团队标记这批货是紧急的，说医院库存严重不足。[exhales] 我只有24小时把三个集装箱通关。"
+        },
+        {
+            "role": "Character 1",
+            "content": "[icy] 所以你就因为销售部门给你压力，拿我们的合规状态去赌？That's exactly how companies end up with consent decrees and import bans."
+        },
+        {
+            "role": "Character 2",
+            "content": "整个周末我需要澄清新的MDR要求的时候你都不接电话，what was I supposed to do, 让病人因为等文件而死吗？"
+        },
+        {
+            "role": "Character 1",
+            "content": "[building rage] 你敢把责任推到我身上？我去参加那个监管会议，你几个月前就知道的，and you have my emergency protocols for exactly these situations."
+        },
+        {
+            "role": "Character 2",
+            "content": "[rattling off quickly] 你的紧急协议说要先联系法务，但是法务审查国际货运最少要三天，by then we'd have breach of contract penalties on top of everything else."
+        },
+        {
+            "role": "Character 1",
+            "content": "违约金总比因为进口不合规医疗器械被刑事起诉强。你明白我们两个现在面临的个人责任吗？[voice rising]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[grimly] 我当然明白，每份报关单上都有我的名字，every FDA filing, 每份现在显然已经作废的合格证明。"
+        },
+        {
+            "role": "Character 1",
+            "content": "[suddenly quieter] 过去六个月，你用这些过期证书推进了多少批货？"
+        },
+        {
+            "role": "Character 2",
+            "content": "就这一批从汉堡工厂来的，我发誓，everything else has been triple-checked since we had that close call with Brazilian customs in January."
+        },
+        {
+            "role": "Character 1",
+            "content": "[suspicious] Triple-checked?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] 对，三重检查。巴西那次之后我建了一整套验证矩阵，cross-referencing every certificate against the regulatory databases. 这批漏掉是因为汉堡那边换了系统。[sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[measured] 好，我们现在这么做，立刻向FDA提交自愿披露，before customs escalates this to enforcement."
+        },
+        {
+            "role": "Character 2",
+            "content": "[urgently] 自愿披露意味着承认过错，which could jeopardize our trusted trader status with CBP，会影响我们以后处理的每一批货。"
+        },
+        {
+            "role": "Character 1",
+            "content": "[decisively] 你有更好的主意吗？"
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] 没有。但我们必须完美协调口径，one inconsistency and they'll assume we're hiding more. 我去调出过去一年的所有文件，你负责FDA申报。[pause] 要么一起解决这个问题，要么一起完蛋。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "[controlled fury] Three million dollars worth of cardiac monitors are sitting in customs right now, and I just found out you've been using CE certificates that expired six months ago."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Those certificates were supposed to be auto-renewed through our European office—I had every reason to believe they were current when I filed the paperwork last week."
+        },
+        {
+            "role": "Character 1",
+            "content": "Auto-renewed? Since when do regulatory certificates auto-renew? You know the FDA requires manual verification for every single medical device import, especially Class II equipment. [sharp exhale]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[speeding up] Look, I handle forty shipments a week across seventeen different regulatory jurisdictions—sometimes the European team says they've handled renewals and I have to trust them."
+        },
+        {
+            "role": "Character 1",
+            "content": "[incredulous] Trust them? Your job is literally to verify documentation before anything crosses a border. This could trigger a full FDA audit of our entire supply chain."
+        },
+        {
+            "role": "Character 2",
+            "content": "The shipment was flagged as urgent by the sales team, they said hospitals were running critically low. [exhales] I had twenty-four hours to move three containers through customs clearance."
+        },
+        {
+            "role": "Character 1",
+            "content": "[icy] So you gambled with our compliance status because sales was breathing down your neck? That's exactly how companies end up with consent decrees and import bans."
+        },
+        {
+            "role": "Character 2",
+            "content": "You weren't answering your phone all weekend when I needed clarification on the new MDR requirements—what was I supposed to do, let patients die waiting for paperwork?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[building rage] Don't you dare put this on me. I was at the regulatory conference you knew about for months, and you have my emergency protocols for exactly these situations."
+        },
+        {
+            "role": "Character 2",
+            "content": "[rattling off quickly] Your emergency protocols say to contact legal first, but legal takes three days minimum to review international shipments, and by then we'd have breach of contract penalties on top of everything else."
+        },
+        {
+            "role": "Character 1",
+            "content": "Better contract penalties than criminal charges for importing non-compliant medical devices. Do you understand the personal liability we're both facing here? [voice rising]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[grimly] Of course I understand—my name is on every customs declaration, every FDA filing, every certificate of conformity that's apparently now worthless."
+        },
+        {
+            "role": "Character 1",
+            "content": "[suddenly quieter] How many other shipments have you pushed through in the last six months using these expired certificates?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Just this one series from the Hamburg facility, I swear—everything else has been triple-checked since we had that close call with Brazilian customs in January."
+        },
+        {
+            "role": "Character 1",
+            "content": "[suspicious] Triple-checked?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Yes, triple-checked. I built an entire verification matrix after Brazil, cross-referencing every certificate against the regulatory databases. This one slipped through because Hamburg switched systems. [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[measured] Alright, here's what we're going to do—we file a voluntary disclosure with the FDA immediately, before customs escalates this to enforcement."
+        },
+        {
+            "role": "Character 2",
+            "content": "[urgently] A voluntary disclosure means admitting fault, which could jeopardize our trusted trader status with CBP and affect every future shipment we handle."
+        },
+        {
+            "role": "Character 1",
+            "content": "[decisively] Got a better idea?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] No. But we need to coordinate our story perfectly—one inconsistency and they'll assume we're hiding more. I'll pull every document from the last year, you handle the FDA filing. [pause] We fix this together or we both go down."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "general_tags",
+    "source_file": "2b95adab_scenario.json",
+    "scenario": "During a crucial shipment of medical devices stuck at customs, the regulatory affairs specialist discovers their import/export colleague has been using expired documentation that could trigger a massive FDA investigation.",
+    "type": "scenario_conversation",
+    "character_1_role": "regulatory affairs specialist",
+    "character_2_role": "import/export specialist",
+    "selected_tones": [
+        "bold",
+        "suspicious",
+        "speeding"
+    ],
+    "tone_options": [
+        "funny",
+        "refreshing",
+        "uplifting",
+        "lucid",
+        "phony",
+        "diplomatic",
+        "unpleasant",
+        "bold",
+        "suspicious",
+        "speeding"
+    ]
+}

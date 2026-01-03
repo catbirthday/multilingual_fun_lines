@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[颤抖的声音] 天哪，我们真的做到了。[停顿] 三年。整整三年啊，他们一直说我疯了，说这只是巧合，说我就是想找个人来怪罪，结果呢... [松了口气] 召回令通过了。[笑] 我都不知道该— [清嗓子] 不好意思，我就是... 嗯，我也不知道自己以为会是什么感觉？[激动] 我女儿下个月就... 就该23岁了。[停顿] 现在因为这个，成千上万的家庭不用再经历我们— [哭] 天啊，对不起。[抽鼻子] 就是突然一下子涌上来了，你懂吗？那些听证会上，他们基本上就是说我歇斯底里。[苦涩] \"悲伤的母亲无法接受现实。\" [停顿] 结果呢，现实是11000个有缺陷的产品，可能会要人命的... [声音渐弱] 我是说，这数字简直... [不知所措] 而且他们知道的。[愤怒] Emma死之前两年他们就知道了，但是他们什么都没做，因为这要花他们— [声音哽咽] 多少来着，1200万？[苦笑] 1200万块钱，跟多少条人命比？[疲惫] 我真的好累。但同时又... 莫名其妙地亢奋？[困惑] 这正常吗？同时感受到所有情绪？[轻声] 不过她会为我骄傲的。[温暖] Emma总说我固执得要命。[轻笑] 看来她说对了。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] Oh my God, we actually did it. [pause] Three years. Three years of them telling me I was crazy, that it was just a coincidence, that I was looking for someone to blame and... [relieved] The recall went through. [laugh] I can't even— [clearing throat] Sorry, I'm just... hmm, I don't know what I expected to feel? [emotional] My daughter would've been twenty-three next month. [pause] And now, because of this, thousands of families won't have to go through what we— [cry] God, I'm sorry. [sniffle] It's just hitting me, you know? All those depositions where they basically called me hysterical. [bitter] \"Grieving mother can't accept reality.\" [pause] Well, turns out reality was eleven thousand defective units that could've killed... [trailing off] I mean, the numbers are just... [overwhelmed] And they knew. [angry] They knew for two years before Emma died and they did nothing because it would've cost them— [voice breaking] what was it, twelve million? [laugh bitterly] Twelve million dollars versus how many lives? [exhausted] I'm so tired. But also, like... weirdly energized? [confused] Is that normal? To feel everything at once? [quietly] She'd be proud though. [warm] Emma always said I was too stubborn for my own good. [chuckle] Guess she was right about that."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "0d181dd0_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your product liability case just resulted in a recall that will save thousands of lives",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

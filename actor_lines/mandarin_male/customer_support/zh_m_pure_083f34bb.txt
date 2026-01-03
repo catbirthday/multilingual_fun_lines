@@ -1,0 +1,93 @@
+=== Source: 083f34bb_script.json ===
+Language: Mandarin Chinese
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: trying to recover funds from a cancelled order
+
+=== Translated Dialogue ===
+
+Customer [pure]: 喂，您好。我打电话是想问一下，那个订单TRN-8847-MZ，上周取消的，但是退款到现在还没到账呢。
+
+Customer Support [pure]: 您好，感谢您的来电。我这就帮您查一下这笔退款。让我先调出TRN-8847-MZ这个订单看看。
+
+Customer [pure]: 好的，谢谢。那个订单是312块钱，10月28号取消的。
+
+Customer Support [pure]: 嗯，我这边看到了，订单总额312块4毛7，10月28号取消的没错。根据我们的记录，退款当天就发起了，交易编号是REF-9923847-K。
+
+Customer [pure]: 对对对，就是这个。但是我每天都查信用卡账单，到现在都没看到入账。
+
+Customer Support [pure]: 我理解您的担心。让我查一下支付处理商那边的状态。嗯...我看到退款已经从我们系统成功发出了，但是11月2号显示还在您的发卡行那边等待处理。
+
+Customer [pure]: 那个...是不是你们那边有什么问题导致延迟啊？这次好像比平时慢了点儿。
+
+Customer Support [pure]: 嗯，我看看啊...
+
+Customer [pure]: 麻烦您告诉我大概什么时候能解决，我真的挺着急的。
+
+Customer Support [pure]: 这个...我看到的情况是这样，就是说，延迟好像是在我们支付网关和您的发卡行之间。正常是5到7个工作日，但您这笔退款已经在路上8个工作日了。
+
+Customer [pure]: 哎呀，那现在怎么办？我周五之前真的需要这笔钱啊。
+
+Customer Support [pure]: 我完全理解您的急迫。您别着急，我现在就给您提交一个加急追踪申请，编号是TRC-4428-XP91，而且我趁您还在线上，直接联系您发卡行的商户服务部门。
+
+Customer [pure]: 太好了。那我是不是也应该从我这边给信用卡公司打个电话？
+
+Customer Support [pure]: 对，那样肯定能加快进度。您打电话的时候，就说我们的商户号是MER-7739821，还有10月28号的那个具体交易REF-9923847-K。
+
+Customer [pure]: 好的，我记下来。要是他们说没收到怎么办？
+
+Customer Support [pure]: 要是真的出现这种情况，我已经准备好备用方案了。我们可以开张应急支票隔夜快递给您，或者办理电汇，虽然电汇通常要收15块手续费，但鉴于这种情况我们会免掉的。
+
+Customer [pure]: 您考虑得真周到。那个追踪申请什么时候能有回复，我怎么知道呢？
+
+Customer Support [pure]: 您会每4个小时收到一封自动更新的邮件，直到问题解决。而且我已经把这个案子分配给我们的升级处理团队了，优先级代码是P1-HIGH，保证2小时内有专人审核。
+
+Customer [pure]: 太好了。能不能把咱们今天说的这些都给我发个书面确认啊？包括所有的参考编号什么的。
+
+Customer Support [pure]: 当然可以。我现在就给您备案邮箱发一份详细总结，案件编号是CSE-7748921-A。5分钟内您就能收到，里面会包含所有参考编号、下一步操作，还有我的直线分机4477，您随时可以打给我跟进。
+
+
+=== Original (English) ===
+
+Customer: Good afternoon. I'm calling about order TRN-8847-MZ that was cancelled last week. The refund hasn't appeared in my account yet.
+
+Customer Support: Good afternoon, and thank you for calling. I'll be happy to help you track down that refund. Let me pull up order TRN-8847-MZ in our system right now.
+
+Customer: Thank you. The order was for three hundred twelve dollars and was cancelled on October twenty-eighth.
+
+Customer Support: I have your order here showing a total of $312.47 cancelled on October 28th. According to our records, the refund was initiated that same day through transaction ID REF-9923847-K.
+
+Customer: That's correct. However, I've checked my credit card statement daily and nothing has posted.
+
+Customer Support: I understand your concern. Let me check the status with our payment processor. I can see the refund left our system successfully, but it appears to be pending with your card issuer as of November 2nd.
+
+Customer: Is there anything that would cause a delay on your end? This seems longer than usual.
+
+Customer Support: Certainly.
+
+Customer: I'd appreciate any information you can provide about the expected timeline for resolution.
+
+Customer Support: Based on what I'm seeing, the delay appears to be between our payment gateway and your card issuer. The standard processing time is 5-7 business days, but your refund has been in transit for 8 business days now.
+
+Customer: What steps can we take to expedite this? I need these funds available by Friday.
+
+Customer Support: I completely understand the urgency. I'm going to file an expedited trace request with reference number TRC-4428-XP91 and contact your card issuer's merchant services department directly while you're on the line.
+
+Customer: That would be excellent. Should I also contact my credit card company from my end?
+
+Customer Support: That would definitely help accelerate the process. When you call them, reference our merchant ID MER-7739821 and the specific transaction REF-9923847-K from October 28th.
+
+Customer: Perfect. I'll document those numbers. What happens if they claim they haven't received it?
+
+Customer Support: If that occurs, I've already prepared a backup solution. We can issue an emergency check via overnight delivery or process a wire transfer for an additional fee of $15, which we'd waive given the circumstances.
+
+Customer: I appreciate you having alternatives ready. How will I know when the trace request gets a response?
+
+Customer Support: You'll receive automated updates via email every 4 hours until resolution, and I'm personally assigning this case to our escalation team with priority code P1-HIGH, guaranteeing a human review within 2 hours.
+
+Customer: Excellent. Can you send me written confirmation of everything we've discussed today, including all reference numbers?
+
+Customer Support: Absolutely. I'm sending a detailed summary to your email on file right now with case number CSE-7748921-A. You should receive it within 5 minutes, and it will include all reference numbers, next steps, and my direct extension 4477 for follow-up.
+

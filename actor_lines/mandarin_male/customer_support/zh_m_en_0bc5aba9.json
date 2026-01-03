@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I received a charge for $89.99 on my account. Your sales representative explicitly told me this service would be complimentary."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me pull up your account right away. May I have your account number or the email address associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account email is jackson.miller@techcorp.com. I have the conversation transcript from October 15th if needed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account, number ACC-45782-JM. I can see the $89.99 charge posted on October 28th for our Premium Support package."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly the issue. During onboarding, I was promised three months of Premium Support at no charge."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the notation here. You're absolutely right. There's a promotional code PSF-OCT-3M that should have been applied to waive the first three months, totaling $269.97 in value."
+        },
+        {
+            "role": "Customer",
+            "content": "So this was a billing error on your end. How do we correct this situation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm initiating an immediate refund of $89.99 which will appear in your account within 2-3 business days, confirmation number REF-92847-TK."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Will the next two months also be automatically waived, or will I face this issue again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. I'm applying the promotional code retroactively now. Your November and December invoices will show $0.00 for Premium Support, with regular billing resuming January 15th, 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Can you send me written confirmation of these adjustments to my email address?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm generating a detailed confirmation now that includes your refund reference REF-92847-TK and the promotional period ending January 14th, 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "While we're resolving this, I'd like to understand how this error occurred in the first place."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. The sales team correctly noted the promotion in your account, but the code wasn't properly linked to your billing profile during the system migration we completed October 20th."
+        },
+        {
+            "role": "Customer",
+            "content": "I see. What measures are in place to prevent this from happening to other customers?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "We've identified 47 affected accounts from that migration and are proactively correcting them. Additionally, we're implementing a dual-verification process for all promotional codes effective November 1st."
+        },
+        {
+            "role": "Customer",
+            "content": "That's reassuring. I trust this won't affect my service quality or any other account features?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all. Your Premium Support remains fully active with 24/7 access to our technical team at 1-800-555-8200, and all features continue uninterrupted."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for the swift resolution. This level of accountability is exactly what I expect from your organization."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I appreciate your professionalism and patience. You'll receive the confirmation email within 15 minutes, and I've added a $25.00 account credit as an apology for the inconvenience."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I received a charge for $89.99 on my account. Your sales representative explicitly told me this service would be complimentary."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me pull up your account right away. May I have your account number or the email address associated with your service?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account email is jackson.miller@techcorp.com. I have the conversation transcript from October 15th if needed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account, number ACC-45782-JM. I can see the $89.99 charge posted on October 28th for our Premium Support package."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly the issue. During onboarding, I was promised three months of Premium Support at no charge."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the notation here. You're absolutely right. There's a promotional code PSF-OCT-3M that should have been applied to waive the first three months, totaling $269.97 in value."
+        },
+        {
+            "role": "Customer",
+            "content": "So this was a billing error on your end. How do we correct this situation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm initiating an immediate refund of $89.99 which will appear in your account within 2-3 business days, confirmation number REF-92847-TK."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Will the next two months also be automatically waived, or will I face this issue again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. I'm applying the promotional code retroactively now. Your November and December invoices will show $0.00 for Premium Support, with regular billing resuming January 15th, 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Can you send me written confirmation of these adjustments to my email address?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm generating a detailed confirmation now that includes your refund reference REF-92847-TK and the promotional period ending January 14th, 2025."
+        },
+        {
+            "role": "Customer",
+            "content": "While we're resolving this, I'd like to understand how this error occurred in the first place."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. The sales team correctly noted the promotion in your account, but the code wasn't properly linked to your billing profile during the system migration we completed October 20th."
+        },
+        {
+            "role": "Customer",
+            "content": "I see. What measures are in place to prevent this from happening to other customers?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "We've identified 47 affected accounts from that migration and are proactively correcting them. Additionally, we're implementing a dual-verification process for all promotional codes effective November 1st."
+        },
+        {
+            "role": "Customer",
+            "content": "That's reassuring. I trust this won't affect my service quality or any other account features?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all. Your Premium Support remains fully active with 24/7 access to our technical team at 1-800-555-8200, and all features continue uninterrupted."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for the swift resolution. This level of accountability is exactly what I expect from your organization."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I appreciate your professionalism and patience. You'll receive the confirmation email within 15 minutes, and I've added a $25.00 account credit as an apology for the inconvenience."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "0bc5aba9_script.json",
+    "professionalism": "professional",
+    "scenario": "confused about why they were charged when they were told it would be free",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "professionally_assertive",
+                "graciously_disappointed"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "graciously_accommodating",
+                "crisply_business_like"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

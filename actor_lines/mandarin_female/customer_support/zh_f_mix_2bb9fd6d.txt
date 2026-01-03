@@ -1,0 +1,93 @@
+=== Source: 2bb9fd6d_script.json ===
+Language: Mandarin Chinese
+Gender: female
+Mode: mix
+Content Type: customer_support
+Professionalism: professional
+Scenario: frustrated but apologetic because they know it's not the agent's fault
+
+=== Translated Dialogue ===
+
+Customer [mix]: Good morning, I need help with a recurring billing issue. 這個問題已經發生三次了，真的很困擾。
+
+Customer Support [mix]: Good morning, and thank you for reaching out to us. 我很樂意馬上幫您調查這個重複出現的問題。請問可以提供您的帳號嗎？我需要查看完整的帳單記錄。
+
+Customer [mix]: It's account number 558921. 我知道聽起來有點沮喪，不好意思，但這對我的生意來說真的變成一個大問題了。
+
+Customer Support [mix]: I completely understand your frustration, 我也很感謝您的耐心。我這邊可以看到您的帳戶 558921，您說得完全正確——過去六十天內確實有三筆重複收費，每筆都是 $1,247.50。
+
+Customer [mix]: Exactly, that's the problem. 我知道這不是您個人的錯，但我今天真的需要徹底解決這個問題。
+
+Customer Support [mix]: Thank you for your understanding, 我向您保證今天一定會完全解決。我現在看到根本原因了——您的帳戶被錯誤地標記了 billing code B7-DUPLICATE，所以系統才會觸發這些錯誤收費。
+
+Customer [mix]: Can you explain why that code was applied? 我想了解是什麼造成的，這樣才能防止以後再發生。
+
+Customer Support [mix]: Certainly, let me explain. 10月12日我們系統遷移的時候，大概有400個帳戶包括您的，因為有多個授權用戶，被錯誤地標記了 B7-DUPLICATE code，導致系統對每個用戶分別收費，而不是每個帳戶只收一次。
+
+Customer [mix]: That makes sense now. 那你們現在採取什麼步驟來修復這個問題，確保不會再發生呢？
+
+Customer Support [mix]: I'm removing that code right now, 同時給您的帳戶加上修正標記 FX-2943-RESOLVED。另外，我正在啟動立即退款，三筆重複收費總共 $3,742.50，會在24小時內退回到您的帳戶。
+
+Customer [mix]: Thank you for handling this. 我會收到這些退款和帳戶修正的確認嗎？
+
+Customer Support [mix]: Absolutely, you'll receive confirmation. 十五分鐘內您會收到確認郵件 REF-20241127-558921，裡面會詳細列出所有三筆退款交易，我還會加上永久豁免註記，防止以後任何遷移錯誤。
+
+Customer [mix]: I appreciate your thorough approach. 我要怎麼確認這個修正已經正確應用到我的帳戶了？
+
+Customer Support [mix]: Excellent question, let me show you. 在您的帳戶入口網站的 Billing Settings 下面，您現在會看到狀態碼 PROTECTED-ACCOUNT-V2，這表示您的帳戶有加強監控，會防止任何重複收費嘗試，如果系統有變更也會標記為人工審核。
+
+Customer [mix]: That's reassuring to hear. 如果儘管有這些保護措施，這個問題還是發生了，有直接聯繫方式嗎？
+
+Customer Support [mix]: Yes, I'm assigning your account to Priority Support. 這給您直撥專線 800-555-7823 分機 4491，我個人會是您的指定帳戶專員，我的 ID 是 TSR-8847-MW。
+
+Customer [mix]: Thank you for taking ownership of this. 我下一個正常的帳單週期會正常進行嗎？
+
+Customer Support [mix]: Your next billing date is December 15th, 您的標準月費 $415.83，是的，會正常處理。我還給您的帳戶加了 $100.00 的補償金，代碼是 GOODWILL-CR-2024，為您經歷的不便致歉。
+
+Customer [mix]: I genuinely appreciate how professionally you've handled this. 謝謝您的耐心和細心。
+
+Customer Support [mix]: It's been my pleasure to assist you today, 也謝謝您在整個過程中的理解。您的案例參考編號是 CS-2024-11-27-0847，請保留這個記錄，如果您需要任何其他幫助，請隨時直接聯繫我。
+
+
+=== Original (English) ===
+
+Customer: Good morning. I need help with a recurring billing issue that's happened three times now.
+
+Customer Support: Good morning, and thank you for reaching out to us. I'd be happy to investigate this recurring issue for you right away. May I have your account number to pull up your complete billing history?
+
+Customer: It's account number 558921. I apologize for sounding frustrated, but this is becoming quite problematic for my business.
+
+Customer Support: I completely understand your frustration, and I appreciate your patience with us. I can see your account 558921 here, and you're absolutely right—there have been three duplicate charges of $1,247.50 in the past sixty days.
+
+Customer: Exactly. I know this isn't your fault personally, but I really need this resolved permanently today.
+
+Customer Support: Thank you for your understanding, and I assure you we'll get this resolved completely today. I can see the root cause now—your account was incorrectly flagged with billing code B7-DUPLICATE in our system, which triggered these erroneous charges.
+
+Customer: Can you explain why that code was applied? I'd like to understand what caused this to prevent future issues.
+
+Customer Support: Certainly. During our system migration on October 12th, approximately 400 accounts including yours were mistakenly tagged with the B7-DUPLICATE code when they had multiple authorized users, causing the system to bill each user separately instead of once per account.
+
+Customer: That makes sense. What steps are you taking to fix this and ensure it doesn't happen again?
+
+Customer Support: I'm removing that code right now and applying correction flag FX-2943-RESOLVED to your account. Additionally, I'm initiating immediate refunds totaling $3,742.50 for all three duplicate charges, which will appear in your account within 24 hours.
+
+Customer: Thank you. Will I receive confirmation of these refunds and the account correction?
+
+Customer Support: Absolutely. You'll receive confirmation email REF-20241127-558921 within the next fifteen minutes detailing all three refund transactions, and I'm also adding a permanent exemption note to prevent any future migration errors.
+
+Customer: I appreciate your thorough approach. How can I verify the correction has been properly applied to my account?
+
+Customer Support: Excellent question. In your account portal under Billing Settings, you'll now see status code PROTECTED-ACCOUNT-V2, which means your account has enhanced monitoring that prevents any duplicate billing attempts and flags it for manual review if system changes occur.
+
+Customer: That's reassuring. Is there a direct contact if this somehow happens again despite these safeguards?
+
+Customer Support: Yes, I'm assigning your account to our Priority Support tier, which gives you access to direct line 800-555-7823 extension 4491, and I'll personally be your designated account specialist with ID TSR-8847-MW.
+
+Customer: Thank you for taking ownership of this. Will my next regular billing cycle proceed normally?
+
+Customer Support: Your next billing date is December 15th for your standard monthly charge of $415.83, and yes, it will process normally. I've also applied a courtesy credit of $100.00 to your account for the inconvenience you've experienced with code GOODWILL-CR-2024.
+
+Customer: I genuinely appreciate how professionally you've handled this. Thank you for your patience and thoroughness.
+
+Customer Support: It's been my pleasure to assist you today, and thank you for your understanding throughout this process. Your case reference number is CS-2024-11-27-0847 for your records, and please don't hesitate to contact me directly if you need anything else.
+

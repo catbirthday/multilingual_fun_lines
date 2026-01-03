@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "终于接通了！你们的网站已经崩溃一个多小时了，I'm just trying to place an order."
+        },
+        {
+            "role": "Customer Support",
+            "content": "非常抱歉给您带来这么多困扰。我现在直接帮您处理订单，请问您的account email是什么？"
+        },
+        {
+            "role": "Customer",
+            "content": "是robert.chen@techcorp.com。我购物车里有东西，但是checkout的时候一直显示error messages。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "谢谢您，Chen先生。我找到您尾号7234的账户了，看到您的购物车里有4件商品，总共$892.47。我们IT部门正在处理网站问题，but I can process your order directly through our system right now."
+        },
+        {
+            "role": "Customer",
+            "content": "太好了。这些东西需要在周五之前送到我们Boston办公室，we have a client presentation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "没问题。我选择快递服务，保证10月13号周五送达。Tracking number会是EXP-4521-BOS开头的，一小时内您就会收到确认邮件。"
+        },
+        {
+            "role": "Customer",
+            "content": "运费怎么算？网站崩溃之前显示standard shipping是免费的。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "考虑到您遇到的不便，我把$47.99的快递费给您免了。您只需要付原来购物车的金额，and I'm also applying a 10% courtesy discount因为技术故障的关系。"
+        },
+        {
+            "role": "Customer",
+            "content": "这样很好。你能确认这4件商品都有货吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "当然可以。我现在查一下库存。WP-3000无线演示器有47台，CS-500会议电话有23台，both cable sets都有足够的库存可以立即发货。"
+        },
+        {
+            "role": "Customer",
+            "content": "好的。我需要这些东西一起到，don't ship them separately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "明白了。我给这个订单标记了CON-892-A的合并代码，确保所有商品从我们Newark的主要配送中心一起发货。They'll arrive in a single delivery周五的时候。"
+        },
+        {
+            "role": "Customer",
+            "content": "我会收到发票吗？I need to forward it to our accounting department."
+        },
+        {
+            "role": "Customer Support",
+            "content": "当然。发票编号INV-2023-10-8847会随货物一起寄出，我也会在30分钟内把PDF版本发到您的邮箱，for your accounting records."
+        },
+        {
+            "role": "Customer",
+            "content": "还有一件事。你们网站不接受我的corporate discount code，TECH-CORP-15。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "我看到这个代码在系统里是有效的。我现在帮您应用，courtesy discount后是$803.22，再加上您15%的企业折扣，最终是$682.74。"
+        },
+        {
+            "role": "Customer",
+            "content": "很好。跟我算的一样，please process the order with those adjustments."
+        },
+        {
+            "role": "Customer Support",
+            "content": "订单已经完成了。您的确认号是ORD-10847-BCX，$682.74会从您尾号8923的公司信用卡扣款。You'll receive the email confirmation很快就会收到所有详情。"
+        },
+        {
+            "role": "Customer",
+            "content": "谢谢你这么高效地处理这件事。网站问题什么时候能解决？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "我们技术团队预计2到3小时内会完全恢复。不过我在您的账户里记录了您遇到的问题，I've added priority status code PRI-500以备您将来需要任何技术支持。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Finally got through to someone. Your website has been crashing repeatedly for the past hour while I'm trying to place an order."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for the frustration you've experienced with our website. Let me assist you directly with your order right now. May I have your account email address so I can access your profile?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's robert.chen@techcorp.com. I had items in my cart but kept getting error messages at checkout."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you, Mr. Chen. I've located your account ending in 7234 and I can see your saved cart with four items totaling $892.47. Our IT team is actively addressing the website issues, but I'll process your order directly through our system right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I need these items shipped to our Boston office by Friday for a client presentation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm selecting our express shipping option with guaranteed delivery by Friday, October 13th. The tracking number will begin with EXP-4521-BOS and you'll receive confirmation within the hour."
+        },
+        {
+            "role": "Customer",
+            "content": "What about the shipping cost? Standard shipping was showing as free before the site crashed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Given the inconvenience you've experienced, I'm waiving the express shipping fee of $47.99. You'll only be charged the original cart total, and I'm also applying a 10% courtesy discount for the technical difficulties."
+        },
+        {
+            "role": "Customer",
+            "content": "That's appreciated. Can you confirm all four items are actually in stock?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm verifying inventory now. The wireless presenter model WP-3000 shows 47 units available, the conference speakerphone CS-500 has 23 units, and both cable sets show adequate stock levels for immediate shipment."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. I also need these items to arrive together, not in separate shipments."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Understood. I've flagged this order with consolidation code CON-892-A to ensure all items ship together from our primary distribution center in Newark. They'll arrive in a single delivery on Friday."
+        },
+        {
+            "role": "Customer",
+            "content": "Will I receive an invoice that I can forward to our accounting department?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. The invoice number INV-2023-10-8847 will be included with your shipment, and I'll also email a PDF copy to your address on file within the next thirty minutes for your accounting records."
+        },
+        {
+            "role": "Customer",
+            "content": "One more thing. Your website wouldn't accept my corporate discount code TECH-CORP-15."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see that code in our system and it's fully active. I'm applying it now, which brings your total from $803.22 after the courtesy discount to $682.74 with your additional corporate 15% savings."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. That matches what I calculated. Please process the order with those adjustments."
+        },
+        {
+            "role": "Customer Support",
+            "content": "The order is now complete. Your confirmation number is ORD-10847-BCX and the total charge of $682.74 will appear on your corporate card ending in 8923. You'll receive email confirmation shortly with all details."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for handling this efficiently. When will your website issues be resolved?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Our technical team estimates full functionality will be restored within 2-3 hours. However, I'm noting in your account that you experienced these difficulties, and I've added priority status code PRI-500 for any future technical support needs you might have."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "048563b2_script.json",
+    "professionalism": "professional",
+    "scenario": "relieved to finally reach someone after the website kept crashing",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "businesslike_direct",
+                "professionally_assertive"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "confidently_authoritative",
+                "diplomatically_firm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

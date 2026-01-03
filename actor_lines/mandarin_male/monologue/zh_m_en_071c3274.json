@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very quietly] Three years. [pause] I keep thinking about that first stone, you know? How I... hmm, how I held it in my hands for like twenty minutes before I even started carving. [bitter] And now they're gonna tear it down for a parking lot. [laugh] A parking lot! Can you believe that? [sigh] \n\n[angry] I mean, what am I supposed to— [trailing off] Sorry, I just... [very sad] Every single piece was hand-selected. Every curve, every joint, I... I obsessed over them. Late nights in the workshop, my back killing me, dust in my lungs, and I kept thinking, \"This is it, this is my legacy,\" you know? [sarcastic] But hey, at least people will have somewhere convenient to park their SUVs.\n\n[whispering] My daughter drew me a picture of it last week. [pause] Put it on the fridge. \"Daddy's wall,\" she called it. [shaky voice] How do I tell her it's... [sigh] I don't know, maybe it was always meant to be temporary. Nothing lasts, right? [very melancholic] All that limestone, all those perfect mortar joints, they'll just be rubble by Friday. [long pause] Three years of my life, and by Friday it'll be like it never existed."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[very quietly] Three years. [pause] I keep thinking about that first stone, you know? How I... hmm, how I held it in my hands for like twenty minutes before I even started carving. [bitter] And now they're gonna tear it down for a parking lot. [laugh] A parking lot! Can you believe that? [sigh] \n\n[angry] I mean, what am I supposed to— [trailing off] Sorry, I just... [very sad] Every single piece was hand-selected. Every curve, every joint, I... I obsessed over them. Late nights in the workshop, my back killing me, dust in my lungs, and I kept thinking, \"This is it, this is my legacy,\" you know? [sarcastic] But hey, at least people will have somewhere convenient to park their SUVs.\n\n[whispering] My daughter drew me a picture of it last week. [pause] Put it on the fridge. \"Daddy's wall,\" she called it. [shaky voice] How do I tell her it's... [sigh] I don't know, maybe it was always meant to be temporary. Nothing lasts, right? [very melancholic] All that limestone, all those perfect mortar joints, they'll just be rubble by Friday. [long pause] Three years of my life, and by Friday it'll be like it never existed."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "071c3274_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The stonemason project you spent three years on is being demolished for a parking lot",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

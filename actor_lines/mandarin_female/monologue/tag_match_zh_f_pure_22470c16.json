@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[焦虑地] 这不是—这不是我们来这儿要做的事啊。我就想举个牌子，你知道吧？就安安静静地站在那儿然后... 天哪，刚才有人扔了块砖。[惊慌地] 我们得赶紧离开这儿但是—但是根本没地方跑，两边都被堵死了。一边是警察，另一边是，呃，那些砸窗户的人。[颤抖的声音] 我真不敢相信会变成这样。我们就是在喊口号，很和平的，然后突然冒出来这些人—我都不知道他们从哪儿钻出来的。[沮丧地] 现在所有人都会觉得是我们在搞暴力！觉得是我们—[倒吸气] 卧槽，催泪弹。他们在朝我们发催泪弹。[哭着说] 我眼睛疼得要命，根本—根本看不清往哪儿跑。这本来是为了正义，为了，呃，为了用正当的方式让大家听到我们的声音。[沮丧地] 但现在我们都成了... 在他们眼里我们都是罪犯，对吧？每个拿手机的人都在拍我们，好像我们才是问题所在。[停顿] 我只是想让事情有所改变。[非常轻声] 不是这样的。绝对不是这样的。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[anxious] This isn't—this isn't what we came here for. I just wanted to hold my sign, you know? Just stand there peacefully and... oh God, someone just threw a brick. [panicked] We need to get out of here but there's—there's nowhere to go, they've got us surrounded on both sides. The cops on one end and the, um, the people breaking windows on the other. [shaky voice] I can't believe this is happening. We were chanting, we were peaceful, and then these other people showed up with—I don't even know where they came from. [frustrated] And now everyone's gonna think we're the violent ones! That we're the ones who— [gasp] Oh shit, tear gas. They're shooting tear gas at us. [crying while speaking] My eyes are burning and I can't—I can't see where to run. This was supposed to be about justice, about, um, about making our voices heard the right way. [upset] But now we're all just... we're all criminals to them, aren't we? Everyone with a phone is filming us like we're the problem. [pause] I just wanted things to change. [very quietly] Not like this. Never like this."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "22470c16_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Being forced to participate as a rioter when you just wanted peaceful protest",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

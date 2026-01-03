@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "我这个网络老是断线，一天断好几次。这个...已经三天了，真是受不了了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "感谢您联系技术支持。这个问题我肯定能帮您解决。我先用您的服务地址调一下您的账户信息。"
+        },
+        {
+            "role": "Customer",
+            "content": "河滨路1847号，3B室。就是说...网络每隔几个小时就完全断掉。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "好，我这边看到您的账户了，您用的是我们的高级套餐，500兆的，是2023年6月15号开通的。嗯...我能看到过去72小时内确实有多次断线记录。"
+        },
+        {
+            "role": "Customer",
+            "content": "对对对，就是这样。这个严重影响我在家办公啊。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "我完全理解您的急迫心情。您的调制解调器显示从周一开始有14次断线，昨天下午2点15分那次最长，断了37分钟。"
+        },
+        {
+            "role": "Customer",
+            "content": "没错。我已经重启过好几次调制解调器了，一点用都没有。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "您的排查方向是对的。我现在正在远程诊断您的设备，型号是XR7000-A，嗯...我检测到3到8频道的信号有衰减现象。"
+        },
+        {
+            "role": "Customer",
+            "content": "那这个问题要怎么解决？我真的需要马上就能稳定使用的网络。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "完全理解。"
+        },
+        {
+            "role": "Customer",
+            "content": "技术人员什么时候能上门彻底解决这个问题？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "我给您安排优先上门服务。明天上午8点到12点之间有空，或者周四下午2点到6点。"
+        },
+        {
+            "role": "Customer",
+            "content": "明天上午可以。他们能在那次上门就修好吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "能的，技术人员会带着替换设备，包括新款的XR9000-B调制解调器，还有所有必要的线缆，保证一次上门就完全解决问题。"
+        },
+        {
+            "role": "Customer",
+            "content": "好。那明天技术人员来之前，我需要准备什么吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "请确保调制解调器位置和线缆入口都能方便进入。技术人员会在到达前30分钟左右发短信到469-555-8827通知您。"
+        },
+        {
+            "role": "Customer",
+            "content": "太好了。我会收到这次预约的确认信息吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "当然会的。"
+        },
+        {
+            "role": "Customer",
+            "content": "如果明天上门之后问题还是存在，那我还有什么办法？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "我们保证在首次上门服务后48小时内解决问题。如果问题持续，我们会每天给您账户返还50块钱直到完全修好，并且会上报给高级技术管理部门处理。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm experiencing repeated internet disconnections throughout the day. This has been happening for three days now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for contacting technical support. I can definitely help resolve your connectivity issues. Let me pull up your account using your service address."
+        },
+        {
+            "role": "Customer",
+            "content": "It's 1847 Riverside Drive, apartment 3B. The service completely drops every few hours."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I have your account here, showing you're on our Premium 500 Mbps plan activated on June 15, 2023. I can see multiple disconnection events logged in the past 72 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, exactly. This is seriously impacting my ability to work from home."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the urgency. Your modem shows 14 disconnection events since Monday, with the longest lasting 37 minutes yesterday at 2:15 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. I've already tried restarting the modem multiple times without success."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good troubleshooting on your part. I'm running a remote diagnostic now on your equipment, model XR7000-A, and I'm detecting signal degradation on channels 3 through 8."
+        },
+        {
+            "role": "Customer",
+            "content": "What does that mean for fixing this issue? I need reliable service immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely understood."
+        },
+        {
+            "role": "Customer",
+            "content": "When can a technician come out to resolve this permanently?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm scheduling a priority technician visit. We have an opening tomorrow between 8:00 AM and 12:00 PM, or Thursday from 2:00 PM to 6:00 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow morning works. Will they be able to fix it during that visit?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, the technician will arrive with replacement equipment including the newer XR9000-B modem and all necessary cabling to ensure complete resolution in a single visit."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Should I prepare anything specific before the technician arrives tomorrow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Please ensure clear access to your modem location and any cable entry points. The technician will text you at 469-555-8827 approximately 30 minutes before arrival."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will I receive a confirmation of this appointment?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And if the problem persists after tomorrow's visit, what recourse do I have?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "We guarantee resolution within 48 hours of the initial service call. If issues continue, we'll credit your account $50 per day until fully resolved and escalate to senior technical management."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2588c1db_script.json",
+    "professionalism": "professional",
+    "scenario": "complaining that their internet service keeps dropping",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "calmly_frustrated",
+                "respectfully_urgent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "precisely_technical",
+                "confidently_authoritative"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

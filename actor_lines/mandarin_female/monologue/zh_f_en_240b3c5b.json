@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[anxious] Okay okay okay, let me think... the primary link's showing green but we're still getting packet loss. Um, maybe it's the—wait, hold on. [frustrated] Of course it's during state testing, of course. Three hundred kids waiting to log in and I've got, what, twenty minutes before they start? [muttering] Alright, so if the fiber's good then it's gotta be... hmm... actually could be the edge router. [quickly] Let me just remote in real quick and—oh come on, authentication timeout? Really? [groan] This ancient equipment, I swear. Okay, err... secondary credentials, where did I—got it. [focused] Right, so CPU's at ninety percent, that's not normal. Something's flooding the... oh. Oh wow. [relieved] It's the content filter. Someone pushed a policy update at, uh, seven-forty-five this morning and it's scanning every single packet twice. [laugh] Are you kidding me? [typing sounds] Disable, apply, and... there we go. Bandwidth's clearing up, latency's dropping. [exhale] Yeah, we're back. [warmly] Those kids are gonna get their tests done. God, I remember taking these tests on paper when I was their age. [chuckle] Now if the internet goes down for five minutes everyone panics. [satisfied] But hey, that's why they pay me, right? Problem solved."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[anxious] Okay okay okay, let me think... the primary link's showing green but we're still getting packet loss. Um, maybe it's the—wait, hold on. [frustrated] Of course it's during state testing, of course. Three hundred kids waiting to log in and I've got, what, twenty minutes before they start? [muttering] Alright, so if the fiber's good then it's gotta be... hmm... actually could be the edge router. [quickly] Let me just remote in real quick and—oh come on, authentication timeout? Really? [groan] This ancient equipment, I swear. Okay, err... secondary credentials, where did I—got it. [focused] Right, so CPU's at ninety percent, that's not normal. Something's flooding the... oh. Oh wow. [relieved] It's the content filter. Someone pushed a policy update at, uh, seven-forty-five this morning and it's scanning every single packet twice. [laugh] Are you kidding me? [typing sounds] Disable, apply, and... there we go. Bandwidth's clearing up, latency's dropping. [exhale] Yeah, we're back. [warmly] Those kids are gonna get their tests done. God, I remember taking these tests on paper when I was their age. [chuckle] Now if the internet goes down for five minutes everyone panics. [satisfied] But hey, that's why they pay me, right? Problem solved."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "240b3c5b_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your network engineer troubleshooting restored internet to a rural school during state testing",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

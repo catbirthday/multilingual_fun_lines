@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[bitter] 天哪，我花了那么多年撒谎，隐瞒自己的出身。编各种故事解释为什么我的手那么粗糙，为什么一摸番茄就知道熟没熟。[pause] 我记得，嗯⋯⋯记得14岁的时候，学校有个女生问我为什么我妈英语说得那么差，我说她是出国留学的，没敢说她从9岁就开始摘草莓了。[regretful] 真是扯淡。\n\n现在你看看我。[laugh] 那些美食评论家啊，一个劲儿地夸我跟土地有\"真正的联系\"，说我有\"祖传的农耕智慧\"。[sarcastic] 是啊，祖传智慧，来自那些他们曾经看不起的土包子。\n\n我是说，菜单上的所有东西—真的是所有东西—都是我们因为没钱才吃的。[increasingly passionate] 腌菜是因为必须保存起来。骨头汤是因为动物的每个部分都不能浪费。野菜是因为，那个，不要钱啊。\n\n[warm] 我奶奶要是看到有人花40块钱吃她的穷人饭，肯定会笑死的。[pause] 其实不对，她会⋯⋯我觉得她会很骄傲的。[emotional] 真的会很骄傲，因为我不—因为我终于不再感到羞耻了。[quietly] 因为这一切都有了意义。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[bitter] God, I spent so many years lying about where I came from. Making up stories about why my hands were so rough, why I knew exactly when tomatoes were ripe just by touching them. [pause] I remember being, um... being fourteen and this girl at school asked why my mom's English was so broken and I said she was studying abroad, not that she'd been picking strawberries since she was nine. [regretful] Such bullshit.\n\nAnd now look at me. [laugh] The food critics can't stop raving about my \"authentic connection to the land\" and my \"generational farming wisdom.\" [sarcastic] Yeah, generational wisdom from people they would've called backwards. \n\nI mean, everything on that menu—everything—is what we ate because we couldn't afford anything else. [increasingly passionate] Pickled vegetables because we had to preserve them. Bone broths because we used every single part of the animal. Wild herbs because, well, they were free. \n\n[warm] My grandmother would've laughed so hard seeing people pay forty dollars for her poverty meals. [pause] Actually no, she would've been... I think she would've been proud. [emotional] Really proud that I'm not—that I'm finally not ashamed anymore. [quietly] That it all meant something."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "1d902f38_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The peasant roots you were ashamed of just became the foundation for your successful farm-to-table restaurant",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

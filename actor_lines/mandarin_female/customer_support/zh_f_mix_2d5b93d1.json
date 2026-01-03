@@ -1,0 +1,225 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "所以我在想也许。能不能找个supervisor来看一下？因为我们一直在绕圈子，nothing's getting resolved."
+        },
+        {
+            "role": "Customer Support",
+            "content": "我完全理解，关于ticket TKT-9482-LM这个问题，我肯定可以帮您联系supervisor。在我转接之前，能再确认一下您今天具体想要什么样的结果吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "就是找个能真正。解决问题的人。Someone who can actually make a decision maybe."
+        },
+        {
+            "role": "Customer Support",
+            "content": "当然，当然可以。让我现在就查一下账户ACC-7739-QN的supervisor availability。I want to make sure you get connected with someone who has the authority to address this properly."
+        },
+        {
+            "role": "Customer",
+            "content": "有没有...怎么说来着...等待时间？For supervisors?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "目前显示case CSE-2847-PX的supervisor callback大概需要12到15分钟。您想要callback还是愿意在线等待？"
+        },
+        {
+            "role": "Customer",
+            "content": "我就等着吧。If that's okay. 不好意思给您添麻烦了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "不不不，千万别道歉。这就是我们的工作，而且我在您的file FID-3392-TK里看到，you've been incredibly patient through this whole process already."
+        },
+        {
+            "role": "Customer",
+            "content": "可能是我没说清楚。这个问题。It keeps happening over and over."
+        },
+        {
+            "role": "Customer Support",
+            "content": "您说得很清楚，真的。这个recurring charge RCH-5581-WZ的问题在这里记录得很详细，I completely understand why you need someone with more authority to look at this."
+        },
+        {
+            "role": "Customer",
+            "content": "好吧。那就好。That's something at least."
+        },
+        {
+            "role": "Customer Support",
+            "content": "对对。在等supervisor的时候，我正在给reference REF-6623-DM添加详细的备注，so they'll have the full context immediately when they pick up."
+        },
+        {
+            "role": "Customer",
+            "content": "他们通常。Supervisors一般能解决这些...怎么说呢...系统方面的问题吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "根据我的经验，像您这种在protocol PRT-4419-BS下的case，supervisors have significantly more override capabilities，通常能实施我们前线客服没有权限做的解决方案。"
+        },
+        {
+            "role": "Customer",
+            "content": "听起来有希望？应该吧？Sorry我知道我很difficult."
+        },
+        {
+            "role": "Customer Support",
+            "content": "您一点都不difficult。真的。在多次尝试后要求escalation是完全合理的，and ticket TKT-9482-LM shows you've given us every opportunity to resolve this at the standard level."
+        },
+        {
+            "role": "Customer",
+            "content": "Supervisor会有。所有的信息吗？All the previous calls?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "绝对会有的。They'll have your complete history under customer profile CPF-8847-JN，包括之前的5次联系，最初的问题日期，还有我们尝试过的每一个troubleshooting步骤。"
+        },
+        {
+            "role": "Customer",
+            "content": "那好吧。我就。在这儿等着。Hope this works out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "完美。请保持在线，您会短暂听到等待音乐，then the supervisor will pick up directly. 您这次escalation的参考编号是ESC-3009-VT，我真心希望他们今天能帮您彻底解决这个问题。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I was hoping maybe. A supervisor could take a look? Since we've been going in circles."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely, and I can definitely connect you with a supervisor regarding ticket TKT-9482-LM. Before I do that, could I just verify one more time what specific outcome you're looking for today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Just someone who can actually. Fix this. Make a decision maybe."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, of course. Let me pull up supervisor availability for account ACC-7739-QN right now. I want to make sure you get connected with someone who has the authority to address this properly."
+        },
+        {
+            "role": "Customer",
+            "content": "Is there... what's the word... a wait time? For supervisors?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Currently showing about twelve to fifteen minutes for supervisor callback on case CSE-2847-PX. Would you prefer a callback or would you like to stay on the line?"
+        },
+        {
+            "role": "Customer",
+            "content": "I'll wait. If that's okay. Sorry for the trouble."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, please don't apologize at all. This is exactly what we're here for, and I can see in your file FID-3392-TK that you've been incredibly patient through this whole process already."
+        },
+        {
+            "role": "Customer",
+            "content": "Maybe I'm not explaining it right. The problem. It keeps happening."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're explaining it perfectly fine, truly. The issue with recurring charge RCH-5581-WZ is documented clearly here, and I completely understand why you need someone with more authority to look at this."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Good. That's... that's something at least."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. While we're waiting for the supervisor, I'm adding detailed notes to reference REF-6623-DM so they'll have the full context immediately when they pick up."
+        },
+        {
+            "role": "Customer",
+            "content": "Do they usually. Can supervisors usually fix these... what would you call them... system things?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "In my experience with cases like yours under protocol PRT-4419-BS, supervisors have significantly more override capabilities and can often implement solutions that frontline agents simply don't have access to."
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds promising? I think? Sorry I'm being difficult."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're not being difficult whatsoever. Honestly. Requesting escalation after multiple attempts is completely reasonable, and ticket TKT-9482-LM shows you've given us every opportunity to resolve this at the standard level."
+        },
+        {
+            "role": "Customer",
+            "content": "The supervisor will have. Everything? All the previous calls?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. They'll have your complete history under customer profile CPF-8847-JN, including all five previous contacts, the original issue date, and every troubleshooting step we've attempted."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay then. I'll just. Wait here. Hope this works out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Stay on the line and you'll hear hold music briefly, then the supervisor will pick up directly. Your reference number for this escalation is ESC-3009-VT, and I genuinely hope they can get this resolved for you today."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2d5b93d1_script.json",
+    "professionalism": "casual",
+    "scenario": "asking for a supervisor after agent couldn't resolve issue",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "cautiously_hopeful",
+                "self_deprecating_fumbling"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        },
+        "support": {
+            "emotions": [
+                "carefully_diplomatic",
+                "awkwardly_apologetic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

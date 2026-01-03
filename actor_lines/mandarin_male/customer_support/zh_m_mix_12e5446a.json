@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "我跟你说，我都是你们的客户多久了……十二年？不对，actually thirteen years，十三年了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*sharp inhale* 哇，十三年啊。好的。*exhale* 让我调一下你的账户……尾号7429的账户。今天是什么问题呢？"
+        },
+        {
+            "role": "Customer",
+            "content": "我的咖啡机坏了。就在warranty过期两天后，这个……我是说……"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* 啊，两天。这个……嗯，你具体是什么时候买的？让我在系统里查一下……好，我看到了，2023年10月15日购买的。Warranty expired October 15th, 2024。"
+        },
+        {
+            "role": "Customer",
+            "content": "对的。然后17号就坏了。10月17号。多巧啊，是吧？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*inhale* 你知道吗？跟你说实话……我看到这种情况，其实很多的。*exhale* Model number KM-5500-X，对吧？这批机器确实有点……怎么说呢，we've had some feedback。"
+        },
+        {
+            "role": "Customer",
+            "content": "所以你们知道有问题？但还是……对不起，我只是想搞清楚……"
+        },
+        {
+            "role": "Customer Support",
+            "content": "听着。*exhale* 我跟你直说了。Our warranty team？他们很严格的。但是。*inhale* 你从2011年就是我们客户了……我看看有没有wiggle room。等我一下。"
+        },
+        {
+            "role": "Customer",
+            "content": "等等，你真的能做点什么？因为昨天的客服，basically told me……"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* 对，tier one support。他们不行。But I'm tier three。*inhale* 而且看你的购买记录……lifetime value八千七百四十二块……嗯。让我试试看。Authorization code……正在输入。"
+        },
+        {
+            "role": "Customer",
+            "content": "八千……我都没意识到我花了……哇，好吧，这确实……"
+        },
+        {
+            "role": "Customer Support",
+            "content": "是吧？*soft exhale* 好，good news。我刚刚用了exception code EX-2024-1019。基本上呢？We're treating this as a warranty claim。虽然，technically，已经过期了。"
+        },
+        {
+            "role": "Customer",
+            "content": "你开玩笑吧。你就能……我是说，that's amazing，但这怎么能……"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*inhale* 你想想。10月17号对10月15号？两天？That's nothing。*exhale* 你的replacement明天就发货。Tracking number……让我生成一下……TRK-98234-KLM-7。应该周五前能到。"
+        },
+        {
+            "role": "Customer",
+            "content": "这个……说实话，我本来都准备换品牌了。我真的很frustrated，但现在……"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* 嘿，十三年啊？That means something。至少对我来说是这样。*inhale* 你的新机器……serial number是SN-2024开头的……this batch is solid。质量好多了。"
+        },
+        {
+            "role": "Customer",
+            "content": "我真的很感谢。大部分公司都会……well，他们不会这样做的……"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* 说真的？2011年开始的客户，zero returns until now？*inhale* 这太难得了。哦！差点忘了。我再给你加三个月。你的新warranty。So you'll have until January 15th, 2026。"
+        },
+        {
+            "role": "Customer",
+            "content": "2026年1月。这个……这真的很generous。谢谢你。真心的。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* 不客气。真的。这个reference number？REF-10192024-EXEMPT。存好。Just in case。*inhale* 还有，谢谢你。All those years，一直支持我们。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I've been a customer for... what, twelve years? No wait, thirteen years actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*sharp inhale* Oh wow. Thirteen years. Okay. *exhale* Let me pull up your account here... account number ending in 7429. What seems to be the issue today?"
+        },
+        {
+            "role": "Customer",
+            "content": "My coffee maker just died. Two days after the warranty expired, which is... I mean..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* Ah. Two days. That's... hmm, when did you purchase it exactly? Let me check the system here... okay I see it, purchased October 15th, 2023. Warranty expired October 15th, 2024."
+        },
+        {
+            "role": "Customer",
+            "content": "That's right. And it breaks on the seventeenth. October seventeenth. How convenient, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*inhale* You know what? Between you and me... I see this happen. A lot actually. *exhale* Model number KM-5500-X, right? These particular units have been, well... let's just say we've had some feedback."
+        },
+        {
+            "role": "Customer",
+            "content": "So you know there's a problem with them? And you're still... sorry, I'm just trying to understand here..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen. *exhale* I'm gonna level with you. Our warranty team? They're strict. But. *inhale* Since you've been with us since 2011... I might have some wiggle room here. Give me a second."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, you can actually do something? Because customer service yesterday, they basically told me..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* Yeah, tier one support. They can't. But I'm tier three. *inhale* And looking at your purchase history... $8,742 lifetime value... hmm. Let me try something. Authorization code... entering it now."
+        },
+        {
+            "role": "Customer",
+            "content": "Eight thousand... I didn't realize I'd spent... wow, okay, that's actually..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? *soft exhale* Okay so. Good news. I just applied exception code EX-2024-1019. Basically? We're treating this as a warranty claim. Even though. Technically. It expired."
+        },
+        {
+            "role": "Customer",
+            "content": "You're kidding. You can just... I mean, that's amazing, but how does that even..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*inhale* Look. October 17th versus October 15th? Two days? That's nothing. *exhale* Your replacement ships tomorrow. Tracking number will be... let me generate it... TRK-98234-KLM-7. Should arrive by Friday."
+        },
+        {
+            "role": "Customer",
+            "content": "This is... honestly, I was ready to switch brands. I was so frustrated, but now..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* Hey. Thirteen years? That means something. To me anyway. *inhale* Your new unit... serial number starting with SN-2024... this batch is solid. Much better build."
+        },
+        {
+            "role": "Customer",
+            "content": "I really appreciate this. Most companies would just... well, they wouldn't do this..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* Between us? Customer since 2011 with zero returns until now? *inhale* That's golden. Oh! Almost forgot. I'm adding. Three month extension. To your new warranty. So you'll have until January 15th, 2026."
+        },
+        {
+            "role": "Customer",
+            "content": "January 2026. That's... that's really generous. Thank you. Seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* My pleasure. Really. Reference number for all this? REF-10192024-EXEMPT. Save that. Just in case. *inhale* And hey. Thanks for sticking with us. All those years."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "12e5446a_script.json",
+    "professionalism": "casual",
+    "scenario": "upset because the product broke right after the warranty expired",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "indignant_righteous",
+                "warming_up"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "self_corrections",
+                    "trailing_off"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        },
+        "support": {
+            "emotions": [
+                "playfully_conspiratorial",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        }
+    }
+}

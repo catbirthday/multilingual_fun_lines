@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "听着，我需要—不对，让我重新说—你知道我买这东西花了多少钱吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "好好好，我肯定能帮您解决。让我就—让我先调出您的账户信息。能给我您的订单号或者邮箱吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "我不应该还要—算了行吧，james.wellington@executivecorp.com"
+        },
+        {
+            "role": "Customer Support",
+            "content": "好的好的，收到了。嗯，我看到您10月份的购买记录...行政系列的EX-7750-PRO型号。请问这个产品出什么问题了？"
+        },
+        {
+            "role": "Customer",
+            "content": "它就是停了—不对其实也不是—昨天屏幕完全黑了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "哎呀这可不行啊。让我看看...保修期到2025年10月，您肯定还在保修期内。我就是需要核实—呃，先走一下基本的故障排查流程。"
+        },
+        {
+            "role": "Customer",
+            "content": "你认真的吗？我—听着，我是我们公司的运营副总。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "对对对，我理解。就是—系统要求我必须把这些步骤记录在保修申请WRN-4482-XL9里。很快的—您试过长按电源键15秒吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "显然我—呃其实不是，我还没试过那个具体的—好吧我试了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "嗯嗯，还是没反应？好的那...让我查查这批产品有没有已知的问题。序列号应该在底部—是SN开头的？"
+        },
+        {
+            "role": "Customer",
+            "content": "我看不—等下让我叫助理来—算了，是SN-7739-QKM-2024"
+        },
+        {
+            "role": "Customer Support",
+            "content": "收到收到。嗯，有意思...这个型号确实有个服务公告FB-2024-0892。看起来是生产缺陷。我可以—我现在就能给您办理快速更换。"
+        },
+        {
+            "role": "Customer",
+            "content": "终于。那什么时候—不是，你们最快能多快送到？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "让我看看有什么选择...好好，那用优先处理码PRI-8827-XX，我能给您...周四送到？如果升级到隔夜快递的话周三。"
+        },
+        {
+            "role": "Customer",
+            "content": "周三的话—我是说如果这是你们能做到最快的那就这样吧。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "诶等一下，让我试试别的...如果我把这个标记为企业账户CA-5529-CORP...对，可以周二送达，不加钱。"
+        },
+        {
+            "role": "Customer",
+            "content": "哦。那—好吧这确实挺有帮助的。抱歉我就是—这周真的是疯了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "没事没事，完全理解。这种事总是在最糟糕的时候发生，对吧？我就确认一下—送货地址还是行政广场4500号800室吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "对那是—等等不对，我们搬了—现在是1200室。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "好的，更新了。您的更换产品追踪号是TRK-9938-XLMN-42。一小时内应该会收到邮件。今天还有其他需要帮助的吗？"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I need—no wait, let me start over—do you know how much I paid for this thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, I can definitely help with that. Let me just—let me just pull up your account here real quick. Can I get your order number or email?"
+        },
+        {
+            "role": "Customer",
+            "content": "I shouldn't have to—actually fine, it's james.wellington@executivecorp.com"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, got it. Hmm, I see the purchase here from October... executive series model EX-7750-PRO. What seems to be the issue with it?"
+        },
+        {
+            "role": "Customer",
+            "content": "It just stopped—no actually that's not even—the screen went completely black yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's not good. Let me see here... warranty shows active til October 2025, so you're you're definitely covered. I just need to verify—er, run through some quick troubleshooting steps first."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you serious? I'm—look, I'm the VP of Operations at my company."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, I understand. It's just—the system requires me to log these steps for warranty claim WRN-4482-XL9. Real quick—have you tried holding the power button for fifteen seconds?"
+        },
+        {
+            "role": "Customer",
+            "content": "Obviously I—well actually no, I haven't tried that specific—yeah okay I tried that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mm-hmm, and nothing? Okay so... let me check if there's any known issues with this batch. Serial number should be on the bottom—starts with SN?"
+        },
+        {
+            "role": "Customer",
+            "content": "I can't—wait let me get my assistant to—never mind, it's SN-7739-QKM-2024"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it. Hmm, interesting... there's actually a service bulletin FB-2024-0892 for this exact model. Looks like a manufacturing defect. I can—I can process an express replacement right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Finally. So when—no, how fast can you get it to me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me check what's available... okay okay, so with priority handling code PRI-8827-XX, I can have a replacement unit to you by... Thursday? Wednesday if I upgrade to overnight."
+        },
+        {
+            "role": "Customer",
+            "content": "Wednesday would be—I mean I guess that's acceptable if that's the best you can do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually wait, let me try something else here... if I flag this under corporate account CA-5529-CORP... yeah, I can get Tuesday delivery, no extra charge."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. That's—okay that's actually really helpful. Sorry I'm just—this week has been insane."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally understand. These things always happen at the worst time, right? I just need to confirm—shipping address is still 4500 Executive Plaza, Suite 800?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that's—wait no, we moved—it's Suite 1200 now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, updated. Your replacement tracking will be TRK-9938-XLMN-42. Should get an email within the hour. Anything else I can help with today?"
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2100977a_script.json",
+    "professionalism": "casual",
+    "scenario": "trying to get a replacement for a product still under warranty",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "demanding_entitled",
+                "apologetic_embarrassed"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

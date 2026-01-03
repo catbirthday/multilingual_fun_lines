@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[惊讶] 诶，等等，她真的去了？Sarah昨晚给我打电话，然后...哇。她说她终于去参加那个社区剧团的试镜了，就因为我。[温暖] 这个，嗯，还挺神奇的，因为我都不知道我帮了什么忙？[停顿] 我是说，上周我们就是一起吃午饭，然后她提到自己特别怕上台表演，我好像就跟她说了说我第一次参加开放麦的事儿。就是怎么说呢，我当时就想，最坏的结果...其实也没那么糟，真的。[轻笑] 但我也没想要去激励谁什么的。[沉思] 我就是实话实说，说我也害怕过。可能这正是她需要听到的吧？就是害怕也没关系，照样可以去做。[轻声] 她说看我对冒险这么淡定，让她意识到自己想太多了。说来好笑的是，嗯...其实我内心一点都不淡定。[轻笑] 我只是学会了不让恐惧的声音盖过内心的渴望，你懂我意思吗？[真诚地] 但是听说我竟然帮到了她，她还拿到了那个角色...哎呀。这种感觉比我自己得到任何掌声都要好。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[surprised] Wait, she actually did it? Sarah called me last night and... wow. She said she finally auditioned for that community theater thing because of me. [warm] Which is, um, kind of amazing because I didn't even know I was helping? [pause] I mean, we were just talking at lunch last week and she mentioned being terrified of performing, and I guess I told her about my first open mic night. How I just, you know, decided the worst thing that could happen was... not that bad, really. [chuckle] But I wasn't trying to be inspirational or anything. [thoughtful] I was just being honest about being scared too. Maybe that's what she needed to hear though? That it's okay to be afraid and do it anyway. [quietly] She said watching me be so calm about taking risks made her realize she was overthinking everything. Which is funny because, um... I don't feel calm inside. [laugh softly] I just learned to not let the fear be louder than the wanting, you know? [sincerely] But hearing that I helped her somehow, that she got the part... man. That feels better than any applause I've ever gotten myself."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "0b347738_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your quiet confidence inspiring someone else to try something they were afraid to do",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

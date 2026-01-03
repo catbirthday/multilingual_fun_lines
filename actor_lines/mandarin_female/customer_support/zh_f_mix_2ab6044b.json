@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "你看，我的—我的保费突然就涨了，no warning, nothing，我—我是Uber司机，这是我的工作啊。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "哎呀不是吧，好我马上调出你的保单—哎等等，让我先进对的系统，policy number P8827-AUTO-394，我看到了...嗯，确实10月12号有个调整，你的保费涨了很多，honestly this shouldn't happen without notification，让我再深入查一下是什么触发的。"
+        },
+        {
+            "role": "Customer",
+            "content": "就是—他们总是这么说，\"我们会调查的\"，然后什么都没有，nothing nothing nothing changes。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "不不不，我完全理解你的心情，actually let me just pull up your full history here，因为这确实不对劲，your account ID is ACC-7739824，我看到你在我们这三年了，零理赔，付款记录完美，从$187跳到$291，这绝对不正常，so I'm going to get to the bottom of this right now，就在你电话上的时候。"
+        },
+        {
+            "role": "Customer",
+            "content": "等等，多—多少？291？我以为—不，that can't be right。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "对，不幸的是显示$291，从你10月续保日期生效，但是我现在—哎让我查个东西，I'm seeing a code RCL-886 attached to your account，这个不应该在这，那通常是给高风险商业车辆的，但你这边显示的是网约车补充保险，which is totally different，所以这可能是分类错误。"
+        },
+        {
+            "role": "Customer",
+            "content": "所以你是说—等等，someone screwed up? 你们那边的人？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "看起来是这样，我—说实话我自己都挺生气的，this never should've happened，所以我现在做的是，立即标记这个给主管复审，case number CSE-449217，而且我会亲自确保这个得到纠正和回溯，so you get refunded for any overpayment。"
+        },
+        {
+            "role": "Customer",
+            "content": "我听过—我听过这些话太多次了，how do I know know it'll actually happen？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "对对，完全合理的质疑，所以我告诉你具体会发生什么—I'm putting a priority flag PF-2847 on your account，意思是必须在48小时内解决，否则自动升级到我们区域经理，plus I'm giving you my direct extension 4406，如果周四前还没修好，你可以直接打给我。"
+        },
+        {
+            "role": "Customer",
+            "content": "你的直线—等等，you're giving me your actual number? 不是什么什么客服队列？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "绝对的，extension 4406直接到我的桌机，而且我—你看，I've been doing this for eight years，当我看到这么离谱的错误，我会take it personally，所以我现在也申请一个临时信用额度$104，authorization code AUTH-7792-TEMP，我们处理这个问题的同时，which should post to your account within the hour。"
+        },
+        {
+            "role": "Customer",
+            "content": "哦，哇，我没想到—这真的...啊，you're really doing this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "已经办好了！Transaction ID TXN-883924501 for the credit，而且我—哎你知道吗，since you drive for Uber，我也在查你是否符合我们的网约车折扣项目，不知为什么没人给你申请过，that's program code RIDE-DISC-22，往后还能再省15%。"
+        },
+        {
+            "role": "Customer",
+            "content": "从来没人—没人提过，three years and nobody said anything。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "对这完全不能接受，我—唉，I'm adding notes to your file about this，因为从第一天就应该给你提供的，但好消息是我可以回溯六个月，under exception code EXC-1147，意思是你会收到额外退款支票，probably around $180。"
+        },
+        {
+            "role": "Customer",
+            "content": "这—我是说你真的在帮忙，like really really helping here。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "当然了！这就是我的—哦还有一件事，我看到你的自付额设在$1000，but with your perfect record，你符合我们的忠诚层级，tier code LT-4，可以降到$500不加保费，要不要我现在就申请？"
+        },
+        {
+            "role": "Customer",
+            "content": "要！天哪当然要，why—why hasn't anyone done this before？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "说实话我也不知道，但我今天确保所有事都解决，so you're all set，confirmation number CNF-20847-FULL for all these changes，记得extension 4406，如果你需要任何帮助，actually我在日历上设了提醒，周五跟进你，just to make sure everything processed correctly。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, my—my premium just jumped. No warning. Nothing. I'm—I'm an Uber driver, this is my job."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, okay let me pull up your policy right away—actually wait, let me get into the right system here, policy number P8827-AUTO-394, and I'm seeing... hmm, yeah there was definitely an adjustment on October 12th that increased your premium by quite a bit, and honestly this shouldn't happen without notification so let me dig deeper into what triggered this."
+        },
+        {
+            "role": "Customer",
+            "content": "That's what they—they always say that. \"We'll look into it.\" Then nothing nothing nothing changes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, I hear you completely and I'm—actually let me just pull up your full history here because something's not right, your account ID is ACC-7739824 and I can see you've been with us for three years with zero claims, perfect payment history, and this jump from $187 to $291 is absolutely not normal so I'm going to get to the bottom of this right now while you're on the line."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait it's—it's how much? Two ninety? I thought—no that can't be right."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah unfortunately it shows $291 effective as of your October renewal date, but here's what I'm—actually let me check something because I'm seeing a code RCL-886 attached to your account which shouldn't be there, that's usually for high-risk commercial vehicles but you're listed as rideshare supplemental coverage which is totally different so this might be a classification error."
+        },
+        {
+            "role": "Customer",
+            "content": "So you're saying—wait, someone screwed up? On your end?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's looking that way and I'm—honestly I'm pretty upset about this myself because this never should've happened, so what I'm doing right now is flagging this for immediate supervisor review under case number CSE-449217, and I'm also going to personally make sure we get this corrected and backdated so you get refunded for any overpayment."
+        },
+        {
+            "role": "Customer",
+            "content": "I've heard—I've heard all this before though. How do I know know it'll actually happen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, totally fair question, so here's exactly what's going to happen—I'm putting a priority flag PF-2847 on your account which means it has to be resolved within 48 hours or it automatically escalates to our regional manager, plus I'm giving you my direct extension 4406 and you can call me personally if this isn't fixed by Thursday."
+        },
+        {
+            "role": "Customer",
+            "content": "Your direct—wait you're giving me your actual number? Not just some some queue?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, extension 4406 goes straight to my desk, and I'm—look I've been doing this for eight years and when I see something this wrong I take it personally, so I'm also applying a temporary credit of $104 right now under authorization code AUTH-7792-TEMP while we sort this out, which should post to your account within the hour."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Wow. I wasn't—that's actually... huh. You're really doing this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already done! Transaction ID TXN-883924501 for the credit, and I'm—actually you know what, since you drive for Uber I'm also checking if you qualify for our rideshare discount program which somehow nobody applied to your account, that's program code RIDE-DISC-22 which could save you another fifteen percent going forward."
+        },
+        {
+            "role": "Customer",
+            "content": "Nobody ever—ever mentioned that. Three years and nobody said anything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah that's completely unacceptable and I'm—ugh, I'm adding notes to your file about this because you should've been offered this from day one, but the good news is I can backdate it for six months under exception code EXC-1147 which means you'll get an additional refund check probably around $180."
+        },
+        {
+            "role": "Customer",
+            "content": "This is—I mean you're actually helping. Like really really helping here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! That's what I'm—oh and one more thing, I'm seeing your deductible is set at $1000 but with your perfect record you qualify for our loyalty tier, tier code LT-4, which drops it to $500 with no premium increase, should I go ahead and apply that too?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! God yes. Why—why hasn't anyone done this before?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly I don't know but I'm making sure everything's fixed today, so you're all set with confirmation number CNF-20847-FULL for all these changes, and remember extension 4406 if you need anything at all, and actually I'm putting a reminder in my calendar to follow up with you on Friday just to make sure everything processed correctly."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "2ab6044b_script.json",
+    "professionalism": "casual",
+    "scenario": "uber driver, upset that his car insurance premium jumped without any explanation",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "skeptical_guarded",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "conversational_natural"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nurturing_protective",
+                "determined_advocate"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts"
+                ],
+                "elongation": "natural_length",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

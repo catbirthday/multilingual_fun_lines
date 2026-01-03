@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] 23年了。我...我开这个店都23年了。[pause] 现在就—全没了。什么都没了。那些举升机，诊断设备，还有我给Miller修的那台老Arctic Cat... [bitter] 你知道最惨的是什么吗？我三个月前把保险停了。三个月前。我想着，呃...想着淡季过了就能补上。[laugh] 天哪，我真是个白痴。\n\n[angry] 所有人都跟我说—\"Jack，你得买保险啊，万一出事怎么办？\"我还说，哎呀，不会出事的，我到处都放了灭火器。[sigh] 是啊。灭火器。凌晨3点墙里的电线起火，灭火器顶个屁用。\n\n[very sad] 我爸的工具都在里面。他给我开店时留下的那些。70年代的老Snap-On，那种...唉，现在根本造不出那种质量的了。[trailing off] 还有客人的雪地车，我得告诉12个人，他们的车现在都...烧成灰了。\n\n[exhausted] 我都不知道从哪儿开始。我是说，真的，当你奋斗了一辈子的东西就这么...[long pause] 也许我该收手了。也许这就是老天爷告诉我，趁还能走得动，赶紧退出吧。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] Twenty-three years. That's... that's how long I've been building that shop. [pause] And now it's just—it's gone. All of it. The lifts, the diagnostic equipment, that vintage Arctic Cat I was restoring for Miller... [bitter] You know what the worst part is? I let the insurance lapse. Three months ago. Thought I could, um... thought I could catch up after the slow season. [laugh] God, I'm such an idiot.\n\n[angry] Everyone kept telling me—\"Jack, you need coverage, what if something happens?\" And I'd say, oh, nothing's gonna happen, I've got fire extinguishers everywhere. [sigh] Yeah. Fire extinguishers. Against an electrical fire that started in the walls at 3 AM.\n\n[very sad] My dad's tools were in there. The ones he gave me when I opened the place. Those old Snap-Ons from the seventies that... mmm, they don't even make them like that anymore. [trailing off] And the customer sleds, I have to tell twelve people their machines are just... ash now.\n\n[exhausted] I don't even know where to start. Like, literally, where do you even begin when everything you've worked for is just... [long pause] Maybe I'm done. Maybe this is the universe saying get out while you can still walk away."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "24ee42b5_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your snowmobile mechanic shop losing everything in a fire with no insurance coverage",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

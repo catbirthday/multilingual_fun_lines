@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So I'm—wait no—I'm a freelance writer, right? Can't update payment. Site's broken."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I see, let me let me pull up your account here... hmm, what's happening when you try to update? Is it giving you an error message or just not saving the changes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Error. Red box. Says—no wait, it's \"invalid format\" but that's wrong, it's a real card!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so that error code usually means, er, there might be a browser issue. Let me check your account first though—can you give me the email address you use to log in?"
+        },
+        {
+            "role": "Customer",
+            "content": "sarah.chen at—sorry, no—sarahc.writes at gmail. Been a customer three years. THREE."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, I've got your account pulled up here, Sarah. You've been with us since March 2021, and hmm, I can see there was a payment attempt at 2:47 PM today that didn't go through. What browser are you using?"
+        },
+        {
+            "role": "Customer",
+            "content": "Chrome. Always Chrome. Look, I've got deadlines—wait, five actually—five articles due tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand the urgency here. So what we're gonna do is, uh, I'm going to walk you through a quick fix that works about 90% of the time. First, can you clear your cache? That's Control-Shift-Delete on Windows."
+        },
+        {
+            "role": "Customer",
+            "content": "Did that already. Twice. Also tried Firefox—no wait, Safari. Nothing works. Nothing!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah okay, you've already tried the basics, good good. Let me check something else... interesting, your account shows a security flag from IP address 192.168.1.47. Have you been traveling or using a VPN by any chance?"
+        },
+        {
+            "role": "Customer",
+            "content": "VPN! Yes! Work requires—sorry, client requires it. Security thing. That's the problem?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's exactly it! So basically when our system sees a payment update from a VPN, um, it triggers this protection protocol. Here's what I'm I'm going to do—I'll temporarily whitelist your account for the next 30 minutes so you can update it."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank God. Wait—do I turn off—should I disconnect the VPN first?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, definitely disconnect first, then, er, give it about 10 seconds and try again. I'm adding note CAS-4429-B to your file so if this happens again, the next agent will know exactly what's going on."
+        },
+        {
+            "role": "Customer",
+            "content": "This is—I mean—every month I pay! Every single month! Loyal customer here!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're absolutely right to be frustrated. Actually, let me set up something better for you—I'm enabling our trusted user bypass, code TUB-8827-X, which means even with your VPN on, you won't hit this wall again."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? That's—wait that's permanent? Forever? You can do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, permanent fix! Takes about 5 minutes to activate but once it does, you're all set. Your next billing date is November 15th at $49.99, so we definitely want this working smoothly before then."
+        },
+        {
+            "role": "Customer",
+            "content": "You just—honestly—saved my entire week. Seriously. Five deadlines! You saved them!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw, I'm so glad I could help! Just remember if you have any other issues, reference ticket number TKT-20241030-8291 and mention the VPN bypass. We're here 24/7, and honestly, helping writers like you keep working is why I love this job."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I'm—wait no—I'm a freelance writer, right? Can't update payment. Site's broken."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I see, let me let me pull up your account here... hmm, what's happening when you try to update? Is it giving you an error message or just not saving the changes?"
+        },
+        {
+            "role": "Customer",
+            "content": "Error. Red box. Says—no wait, it's \"invalid format\" but that's wrong, it's a real card!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, so that error code usually means, er, there might be a browser issue. Let me check your account first though—can you give me the email address you use to log in?"
+        },
+        {
+            "role": "Customer",
+            "content": "sarah.chen at—sorry, no—sarahc.writes at gmail. Been a customer three years. THREE."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, I've got your account pulled up here, Sarah. You've been with us since March 2021, and hmm, I can see there was a payment attempt at 2:47 PM today that didn't go through. What browser are you using?"
+        },
+        {
+            "role": "Customer",
+            "content": "Chrome. Always Chrome. Look, I've got deadlines—wait, five actually—five articles due tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand the urgency here. So what we're gonna do is, uh, I'm going to walk you through a quick fix that works about 90% of the time. First, can you clear your cache? That's Control-Shift-Delete on Windows."
+        },
+        {
+            "role": "Customer",
+            "content": "Did that already. Twice. Also tried Firefox—no wait, Safari. Nothing works. Nothing!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah okay, you've already tried the basics, good good. Let me check something else... interesting, your account shows a security flag from IP address 192.168.1.47. Have you been traveling or using a VPN by any chance?"
+        },
+        {
+            "role": "Customer",
+            "content": "VPN! Yes! Work requires—sorry, client requires it. Security thing. That's the problem?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's exactly it! So basically when our system sees a payment update from a VPN, um, it triggers this protection protocol. Here's what I'm I'm going to do—I'll temporarily whitelist your account for the next 30 minutes so you can update it."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank God. Wait—do I turn off—should I disconnect the VPN first?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, definitely disconnect first, then, er, give it about 10 seconds and try again. I'm adding note CAS-4429-B to your file so if this happens again, the next agent will know exactly what's going on."
+        },
+        {
+            "role": "Customer",
+            "content": "This is—I mean—every month I pay! Every single month! Loyal customer here!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're absolutely right to be frustrated. Actually, let me set up something better for you—I'm enabling our trusted user bypass, code TUB-8827-X, which means even with your VPN on, you won't hit this wall again."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? That's—wait that's permanent? Forever? You can do that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, permanent fix! Takes about 5 minutes to activate but once it does, you're all set. Your next billing date is November 15th at $49.99, so we definitely want this working smoothly before then."
+        },
+        {
+            "role": "Customer",
+            "content": "You just—honestly—saved my entire week. Seriously. Five deadlines! You saved them!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw, I'm so glad I could help! Just remember if you have any other issues, reference ticket number TKT-20241030-8291 and mention the VPN bypass. We're here 24/7, and honestly, helping writers like you keep working is why I love this job."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1ff4eab7_script.json",
+    "professionalism": "casual",
+    "scenario": "freelance writer, frustrated that the website won't let her update payment information",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "manic_oversharing",
+                "indignant_righteous"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "self_corrections",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "patient_teacher",
+                "nurturing_protective"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

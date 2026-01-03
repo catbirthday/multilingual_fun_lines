@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "下午好。我打电话是想问一下，我发现我账户上三个月前有笔账单对不上。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "下午好，感谢您的来电。我很乐意帮您查一下这个账单问题。请问能提供一下您的账户号码，或者账户关联的电话号码吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "我的账户号是40298756。相关的费用和日期我这边都记录好了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "好的好的，谢谢您。我现在调出40298756这个账户。系统加载的时候，您能先跟我说说具体是哪笔费用有问题吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "就是说吧，9月份的时候，我被收了247块5的高级服务套餐费，但我8月份就已经取消了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "哎，我完全理解您的情况。让我查一下您8月和9月的账户记录。嗯...我这边看到您在8月14号提交了取消申请，确认号是CAN-2024-08-14-9982。"
+        },
+        {
+            "role": "Customer",
+            "content": "对对对，就是这个。我这边确认信都存着呢。按照你们的条款，取消应该立即生效的。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "您说得完全正确。根据我们的记录，8月14号取消确实处理成功了，工单号是TKT-445892，但是我看到9月3号的账单上还是出现了247块5的高级服务费。"
+        },
+        {
+            "role": "Customer",
+            "content": "就是这个问题。那个...今天能处理好吗？能退款吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "没问题，这就办。"
+        },
+        {
+            "role": "Customer",
+            "content": "太好了。我能收到书面的调整确认吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "当然可以。我现在就处理247块5的全额退款，调整编号是ADJ-2024-12-08-3376。您在半小时内会收到邮件确认，退款会在3到5个工作日内到账。"
+        },
+        {
+            "role": "Customer",
+            "content": "谢谢。这个是出现在下期账单上，还是单独的退款？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "退款会在您下期账单上显示，项目代码是CR-247.50-REF，账单是15号生成的。另外呢，我给您的账户加了个备注，编号是NOTE-788231，把这整个问题都记录下来了，我们质量保证团队会看到的。"
+        },
+        {
+            "role": "Customer",
+            "content": "您考虑得真周到，谢谢。我这边还需要做什么吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "您什么都不用做。不过呢，因为给您带来不便，我想给您加个25块的补偿金，代码是COURTESY-CC-9945。这个也会出现在您下期账单上。"
+        },
+        {
+            "role": "Customer",
+            "content": "哎，太贴心了，谢谢啊。能确认一下调整后我的账户余额吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "当然可以。"
+        },
+        {
+            "role": "Customer",
+            "content": "好的好的。最后问一下—以后怎么避免这种情况再发生？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "嗯，您问得好。我已经给您的账户加了优先标记PRI-5524，我们的账单审核团队每月都会检查的。另外呢，您像现在这样保存取消确认是对的，我们2025年1月要上线的新系统会自动发送所有账户变更的确认信息。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling about a billing discrepancy I discovered from three months ago on my account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for calling. I'll be happy to investigate that billing issue for you. May I please have your account number or the phone number associated with your account?"
+        },
+        {
+            "role": "Customer",
+            "content": "My account number is 40298756. I've documented all the relevant charges and dates."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, thank you. I'm pulling up account 40298756 now. While the system loads, could you please describe the specific discrepancy you've identified?"
+        },
+        {
+            "role": "Customer",
+            "content": "In September, I was charged $247.50 for a premium service package that I had canceled in August."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern completely. Let me review your account history for August and September. I can see here that you submitted a cancellation request on August 14th with confirmation number CAN-2024-08-14-9982."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. I have that confirmation saved. The cancellation should have taken effect immediately according to your terms."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely correct. According to our records, the cancellation was processed successfully on August 14th under ticket number TKT-445892, but I can see the premium charge of $247.50 still appeared on your September 3rd statement."
+        },
+        {
+            "role": "Customer",
+            "content": "That's precisely the issue. Can this be corrected and refunded today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Will I receive written confirmation of this adjustment?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm processing a full refund of $247.50 right now under adjustment reference ADJ-2024-12-08-3376. You'll receive an email confirmation within the next thirty minutes, and the credit will appear on your account within three to five business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Should I expect this on my next statement or as a separate credit?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The credit will appear as line item CR-247.50-REF on your next statement, which generates on the 15th. Additionally, I'm adding a note to your account with reference number NOTE-788231 documenting this entire issue for our quality assurance team."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the thoroughness. Is there anything else I need to do on my end?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No action required from you. However, I'd like to apply a courtesy credit of $25.00 for the inconvenience under code COURTESY-CC-9945. This will also appear on your next statement."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very considerate, thank you. Can you confirm my current balance after these adjustments?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. One last question - how can I prevent this from happening again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. I've flagged your account with priority code PRI-5524 for our billing audit team to review monthly. Additionally, I recommend keeping your cancellation confirmations, as you've done, and our new system upgrade launching January 2025 will send automatic confirmations for all account changes."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "187c8ff2_script.json",
+    "professionalism": "professional",
+    "scenario": "wanting to report a billing error from months ago",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "patiently_persistent",
+                "cordially_concerned"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "patiently_methodical",
+                "reassuringly_calm"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

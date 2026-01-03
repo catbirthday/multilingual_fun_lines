@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "呃，我需要查一下我订的安全设备的情况。这边车流量特别大，我可能会让您重复一下，不好意思啊。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "完全理解。我会说得清楚一点，您需要我重复什么都可以。请问您能提供一下订单号，或者是学区的账户号码吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "账户号是Riverside学区的。我记得是RSD开头的，但是后面的...呃...看不太清楚了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "好的。我查到您的账户了，RSD-7294-B。我这边显示有一个11月8号下的待处理订单，订的是安全背心和停车指示牌，订单号是ORD-8847-QM。您查的是这个订单吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "对对对，就是这个。什么时候能到啊？我们下周一就要开始冬季作息时间了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "我明白您时间比较紧。您的订单显示目前正在运送途中，追踪号是TRK-55429-XL，预计这周五，就是11月15号中午前送达。"
+        },
+        {
+            "role": "Customer",
+            "content": "周五可以。能不能大声点说一下送货地址？刚才有辆校车经过。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "当然可以。存档的送货地址是枫叶街4421号，Riverside小学，收件部门是交通部。需要改成其他地址吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "不用，这个没错。送货的时候需要有人签收吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "是的，这批货值847.50美元，需要签收。快递员需要授权员工签字，我建议您准备好采购单PO-2784以备查验。"
+        },
+        {
+            "role": "Customer",
+            "content": "我会通知办公室的人知道的。那个，要是错过了送货怎么办？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "如果第一次送货没成功，快递公司会再尝试送两次。或者您也可以用我刚才给您的追踪号，去他们在工业路788号的站点自取。"
+        },
+        {
+            "role": "Customer",
+            "content": "知道了。有没有办法指定上午送货？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "完全可以。我现在就能给您的货件加上上午送货的备注。这样能确保在早上8点到中午12点之间送达。因为您的订单超过500美元，所以不用加钱。"
+        },
+        {
+            "role": "Customer",
+            "content": "那太好了，麻烦您了。那天我要在路口执勤到10点半。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "已经办好了。我已经把您的送货时间更新为11月15号早上8点到中午。您会在一小时内收到确认邮件，发到账户RSD-7294-B的存档邮箱。"
+        },
+        {
+            "role": "Customer",
+            "content": "谢谢。能给我发个总结邮件吗？这边车越来越多了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "当然可以。我现在就发一份详细的总结给您，包括订单号ORD-8847-QM，追踪号TRK-55429-XL，还有所有的送货细节。今天还有什么需要我帮您的吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "没有了，都解决了。您真的很有帮助，也很有耐心。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "感谢您的惠顾。您的安全设备会在周五上午按时送达。祝您今天执勤平安，如果还需要任何协助，请随时拨打800-555-4782。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to check on my safety equipment order. There's heavy traffic here so I might ask you to repeat things."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. I'll speak clearly and can repeat anything you need. May I have your order number or the account number associated with your school district?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is with Riverside School District. I believe it starts with RSD but I can't read the rest clearly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I have your account here, RSD-7294-B. I show one pending order placed on November 8th for safety vests and stop signs, order number ORD-8847-QM. Is this the order you're checking on?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, that's correct. When will it arrive? We're starting winter hours next Monday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the urgency with your timeline. Your order shows it's currently in transit with tracking number TRK-55429-XL and is scheduled for delivery this Friday, November 15th, before noon."
+        },
+        {
+            "role": "Customer",
+            "content": "Friday works. Can you speak up about the delivery location? A bus just passed."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The delivery address on file is 4421 Maple Street, Riverside Elementary School, attention Transportation Department. Should I update this to a different location?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, that's correct. Will someone need to sign for the delivery?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, signature is required for this shipment valued at $847.50. The driver will need an authorized staff member to sign, and I recommend having purchase order PO-2784 available for reference."
+        },
+        {
+            "role": "Customer",
+            "content": "I'll make sure someone from the office knows. What happens if we miss the delivery?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "If the first delivery attempt is unsuccessful, the carrier will make two additional attempts. Alternatively, you can pick up the package at their facility at 788 Industrial Drive using the tracking number I provided."
+        },
+        {
+            "role": "Customer",
+            "content": "Good to know. Is there any way to get a morning delivery specifically?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I can add a morning delivery request to your shipment right now. This will ensure delivery between 8:00 AM and 12:00 PM. There's no additional charge since your order exceeds $500."
+        },
+        {
+            "role": "Customer",
+            "content": "Please do that. I'll be at the crossing until ten thirty that day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done. I've updated your delivery window to 8:00 AM to noon on November 15th. You'll receive an email confirmation within the hour to account RSD-7294-B at the address we have on file."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Can you email me a summary? The traffic is getting worse here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a detailed summary now including order ORD-8847-QM, tracking number TRK-55429-XL, and all delivery specifications. Is there anything else I can help you with today?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, that covers everything. You've been very helpful and patient."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for your business. Your safety equipment will arrive Friday morning as scheduled. Have a safe rest of your shift, and please call us at 800-555-4782 if you need any further assistance."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "282ef637_script.json",
+    "professionalism": "professional",
+    "scenario": "crossing guard, elderly and having trouble hearing the agent over traffic noise",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "matter_of_fact",
+                "respectfully_urgent"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "warmly_professional",
+                "briskly_efficient"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

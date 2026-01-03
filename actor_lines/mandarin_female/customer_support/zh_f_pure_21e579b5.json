@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "所以我有这个—等等。这是在录音吗？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "对对，为了质量和培训目的，绝对是标准流程，那个那个让我调出您的账户，您有会员ID吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "行。好吧。反正肯定在卖我的数据。随便了。交易卡住了。三天了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "好好好，三天还在pending，这这肯定不正常，让我查查您的账户活动，交易代码TRX-4492-BNK7，我现在看到是hold状态。"
+        },
+        {
+            "role": "Customer",
+            "content": "Hold状态。什么hold。没人跟我说过什么hold啊。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "对对，就是说有时候支付处理器会标记某些交易需要需要验证，特别是超过500美元的，您这笔显示847.23美元，从周二下午2:47东部时间开始pending。"
+        },
+        {
+            "role": "Customer",
+            "content": "我怎么知道—我是说。这感觉就像。你们扣着我的钱不放。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "不不不，我完全理解您的顾虑，这笔钱绝对绝对是您的，只是卡在处理环节了，让我现在就把这个升级到我们的解决团队RES-TEAM-04。"
+        },
+        {
+            "role": "Customer",
+            "content": "升级。好啊。那就是还要继续等呗。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "其实其实，我可以我可以自己推进这个，只需要验证尾号8829的卡的后四位，还有还有账单邮编，这是安全协议SEC-VER-221。"
+        },
+        {
+            "role": "Customer",
+            "content": "行。8829。邮编是—不对等等。你要这个干嘛？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "这这是标准验证程序，我保证我真的在帮您，系统不让我解除hold，除非完成表格FRM-2847-RELEASE，这些安全检查其实是在保护您。"
+        },
+        {
+            "role": "Customer",
+            "content": "保护我拿不到自己的钱？有点—这逻辑反了吧。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "我懂我懂，确实让人烦，您看您看我现在手动用主管代码SUP-OVERRIDE-K94覆盖这个，应该在接下来10到15分钟内就能清除。"
+        },
+        {
+            "role": "Customer",
+            "content": "十分钟。还是十五分钟。到底是哪个？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "这个这个系统显示优先释放的平均清除时间是12分钟，案例号CSE-98412-PMT您记一下，绝对绝对在您那边3:45 PM之前。"
+        },
+        {
+            "role": "Customer",
+            "content": "要是没有呢？然后怎么办—再等三天？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "不不，如果到时候还没清除，直接打回来转分机4412，直接找我，工号EMP-7739-TC，我会我会亲自立刻处理。"
+        },
+        {
+            "role": "Customer",
+            "content": "好吧。估计根本就不会—算了。我等着吧。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "太好了太好了，您还会收到确认邮件到您的注册邮箱，追踪号TRK-EMAIL-8829X，说真的说真的要是有任何问题，我今天在这儿到下午6点。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I have this—wait. Is this being recorded?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes yes, for quality and training purposes, absolutely standard practice here, so so let me pull up your account real quick if you have your member ID?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Sure. Probably selling my data. Whatever. Transaction stuck. Three days."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, three days pending, that's that's definitely not normal, let me check check your account activity here with transaction code TRX-4492-BNK7, and I'm seeing the hold status right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Hold status. What hold. Nobody told me about any hold."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so sometimes the payment processor flags certain transactions for for verification, especially with amounts over $500, yours is showing $847.23 pending since Tuesday at 2:47 PM Eastern."
+        },
+        {
+            "role": "Customer",
+            "content": "How do I know—I mean. This feels like. You're keeping my money."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, I completely understand that concern, the funds are are definitely yours, just stuck in processing limbo, let me escalate this to our resolution team RES-TEAM-04 right now actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Escalate. Great. So more waiting then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually actually, I can I can push this through myself, just need to verify the last four of the card ending in 8829 and and the billing zip code for security protocol SEC-VER-221."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. 8829. Zip is—no wait. Why do you need that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's it's standard verification, I promise I'm trying to help here, the system won't let me release the hold without completing form FRM-2847-RELEASE, these security checks protect you actually."
+        },
+        {
+            "role": "Customer",
+            "content": "Protect me from getting my own money? Kind of—that's backwards."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I get it I get it, frustrating situation, look look I'm manually overriding this now with supervisor code SUP-OVERRIDE-K94, should clear within the next 10 to 15 minutes maximum."
+        },
+        {
+            "role": "Customer",
+            "content": "Ten minutes. Or fifteen. Which is it exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The the system shows average clear time at 12 minutes for priority releases like this one, case number CSE-98412-PMT for your records, definitely definitely by 3:45 PM your time."
+        },
+        {
+            "role": "Customer",
+            "content": "And if it's not? Then what—another three days?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, if it's not cleared by then call back directly to extension 4412, ask for me personally, badge number EMP-7739-TC, and I'll I'll handle it myself immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "Sure. Probably won't even—whatever. I'll wait."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, you'll also get confirmation email to your registered address with tracking number TRK-EMAIL-8829X, and honestly honestly if there's any issue at all, I'm here until 6 PM today."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "21e579b5_script.json",
+    "professionalism": "casual",
+    "scenario": "asking for help with a transaction that's stuck pending",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "panicked_spiral"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "hedge_words",
+                    "breath_catches",
+                    "false_starts"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "nervously_thorough",
+                "burned_out_but_trying"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        }
+    }
+}

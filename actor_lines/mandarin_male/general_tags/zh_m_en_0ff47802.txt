@@ -1,0 +1,92 @@
+=== Source: 0ff47802_scenario.json ===
+Language: Mandarin Chinese
+Gender: male
+Mode: en
+Content Type: general_tags
+Scenario: An integration manager meets with an AMI analyst after a major smart meter deployment failure that affected thousands of customers, discovering the analyst had predicted the exact failure mode three months earlier but was overruled.
+
+=== Translated Dialogue ===
+
+Character 1 [en]: [carefully] So, I've been going through the post-mortem reports from last week's deployment failure, and your name keeps coming up in the preliminary warnings from three months ago.
+
+Character 2 [en]: [measured] Yeah, the meter firmware incompatibility issue with the legacy transformers in districts four through seven—I flagged that exact scenario in March. [quiet exhale]
+
+Character 1 [en]: [softer] I just read your analysis from back then, and honestly, you predicted almost exactly what happened, down to the cascade failure pattern and the estimated affected customer count.
+
+Character 2 [en]: Twenty-three thousand customers lost power for eighteen hours because someone decided my 'theoretical concerns' weren't worth delaying the rollout schedule by six weeks. [bitter laugh]
+
+Character 1 [en]: [regretfully] That decision came from above my level, but I should've pushed harder when you brought it to the integration team—I remember you seemed really worried about it at the time.
+
+Character 2 [en]: Really worried.
+
+Character 1 [en]: [earnestly] Look, I know this doesn't fix what happened, but I'm restructuring how we handle risk assessments going forward, and I need someone who actually understands these systems at a granular level.
+
+Character 2 [en]: You're asking me to help redesign the process that ignored my warnings in the first place? That's, [sighs], that's a hard sell, honestly.
+
+Character 1 [en]: [firmly] I'm asking you to help me make sure this never happens again, because clearly the current structure failed both of us and definitely failed those customers sitting in the dark.
+
+Character 2 [en]: [considering] The integration protocols would need a complete overhaul, especially the validation checkpoints between the AMI network and the distribution management system—we're talking months of work here. [pause]
+
+Character 1 [en]: Months of work that could prevent years of these kinds of failures, and I've already gotten approval for a dedicated task force with actual decision-making authority this time.
+
+Character 2 [en]: [warming slightly] Actual authority, meaning when I say a deployment needs to stop for safety verification, it actually stops instead of getting escalated to someone who's never touched a meter?
+
+Character 1 [en]: [steadily] That's exactly what I mean—technical veto power stays with technical experts, and I'll back you up when the executives start complaining about timeline delays.
+
+Character 2 [en]: [thoughtfully] We'd need to rebuild the entire testing framework from scratch, implement proper staging environments that actually mirror our field conditions. [building momentum]
+
+Character 1 [en]: [encouragingly] Whatever you need to make it work right—I'm tired of being the person who has to explain to the media why our smart grid isn't actually that smart.
+
+Character 2 [en]: Three months.
+
+Character 1 [en]: [curious] Three months for the framework, or three months before you trust that I'll actually follow through on these promises when corporate starts pushing back?
+
+Character 2 [en]: Both, probably, but I meant three months to build something that won't embarrass us again—assuming you can keep the suits from interfering while we work.
+
+Character 1 [en]: Then we start Monday?
+
+Character 2 [en]: [finally committed] Monday it is, but I'm bringing my whole March presentation to our first meeting—we're going through every warning I gave, just so we're clear on what we're preventing. [determined]
+
+
+=== Original (English) ===
+
+Character 1: [carefully] So, I've been going through the post-mortem reports from last week's deployment failure, and your name keeps coming up in the preliminary warnings from three months ago.
+
+Character 2: [measured] Yeah, the meter firmware incompatibility issue with the legacy transformers in districts four through seven—I flagged that exact scenario in March. [quiet exhale]
+
+Character 1: [softer] I just read your analysis from back then, and honestly, you predicted almost exactly what happened, down to the cascade failure pattern and the estimated affected customer count.
+
+Character 2: Twenty-three thousand customers lost power for eighteen hours because someone decided my 'theoretical concerns' weren't worth delaying the rollout schedule by six weeks. [bitter laugh]
+
+Character 1: [regretfully] That decision came from above my level, but I should've pushed harder when you brought it to the integration team—I remember you seemed really worried about it at the time.
+
+Character 2: Really worried.
+
+Character 1: [earnestly] Look, I know this doesn't fix what happened, but I'm restructuring how we handle risk assessments going forward, and I need someone who actually understands these systems at a granular level.
+
+Character 2: You're asking me to help redesign the process that ignored my warnings in the first place? That's, [sighs], that's a hard sell, honestly.
+
+Character 1: [firmly] I'm asking you to help me make sure this never happens again, because clearly the current structure failed both of us and definitely failed those customers sitting in the dark.
+
+Character 2: [considering] The integration protocols would need a complete overhaul, especially the validation checkpoints between the AMI network and the distribution management system—we're talking months of work here. [pause]
+
+Character 1: Months of work that could prevent years of these kinds of failures, and I've already gotten approval for a dedicated task force with actual decision-making authority this time.
+
+Character 2: [warming slightly] Actual authority, meaning when I say a deployment needs to stop for safety verification, it actually stops instead of getting escalated to someone who's never touched a meter?
+
+Character 1: [steadily] That's exactly what I mean—technical veto power stays with technical experts, and I'll back you up when the executives start complaining about timeline delays.
+
+Character 2: [thoughtfully] We'd need to rebuild the entire testing framework from scratch, implement proper staging environments that actually mirror our field conditions. [building momentum]
+
+Character 1: [encouragingly] Whatever you need to make it work right—I'm tired of being the person who has to explain to the media why our smart grid isn't actually that smart.
+
+Character 2: Three months.
+
+Character 1: [curious] Three months for the framework, or three months before you trust that I'll actually follow through on these promises when corporate starts pushing back?
+
+Character 2: Both, probably, but I meant three months to build something that won't embarrass us again—assuming you can keep the suits from interfering while we work.
+
+Character 1: Then we start Monday?
+
+Character 2: [finally committed] Monday it is, but I'm bringing my whole March presentation to our first meeting—we're going through every warning I gave, just so we're clear on what we're preventing. [determined]
+

@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically. 我的工资单，又错了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... 我先要你的员工ID，然后我们可以从系统PAY-7745-B调出你的工资条，看看到底怎么回事。"
+        },
+        {
+            "role": "Customer",
+            "content": "It's like—sorry, hold on—4-4-8-2。不对等等，4-4-2-8。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. 嗯，好的，这样调出了你的档案EMP442867，我能看到你最近三个工资周期的记录。我们要查哪个日期的？"
+        },
+        {
+            "role": "Customer",
+            "content": "This Friday's. 就是刚刚，你知道的，刚发的那个。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. 让我调出那个具体的工资条...PST-11152024-A显示税前收入是$1,847，但你实际到手只有$1,243。跟我说说哪里不对？"
+        },
+        {
+            "role": "Customer",
+            "content": "They didn't pay my overtime. 又是这样，所以。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so according to timesheet TS-8829-NOV，你那个周期记录了47.5小时。系统显示...嗯，只算了40小时。这确实不对。"
+        },
+        {
+            "role": "Customer",
+            "content": "Right. 就像我说的，第三次了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... 我需要查一下，你的经理应该在系统OTA-3384里批准加班的，但是没有授权码。他们有提过批准的事吗？"
+        },
+        {
+            "role": "Customer",
+            "content": "Chef said—no he told me—对不起，太吵了—他说他已经录入了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, what if... 好的，我看到经理尝试过覆盖MAN-7745-C，但是周二晚上11:47被工资系统拒绝了。根本没通过。"
+        },
+        {
+            "role": "Customer",
+            "content": "So basically what now? 我需要那笔钱，房租要交了。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. 那我们这么办，我创建一个优先调整单ADJ-9982-PRIORITY，标记为立即处理。应该24小时内就到你账户了。"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? 他们真的能，搞定？这么快？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. 这个调整会通过系统PAY-RAPID-7处理，可以绕过正常的3天等待期。你会收到短信确认，发到尾号4429的手机。"
+        },
+        {
+            "role": "Customer",
+            "content": "I mean. 好吧，那—嗯，那样就行。"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me also... 嗯，我加个备注NTE-88429来防止这个再次发生。你们主厨需要培训一下加班提交门户OTS-2000的使用。我会安排的。"
+        },
+        {
+            "role": "Customer",
+            "content": "So like Tuesday I'll have it? 肯定能到账？"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Monday actually. 调整单ADJ-9982-PRIORITY周末就会处理。你会看到$371.42入账，那是缺的加班费加上$15的系统错误补偿。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically. My check. It's wrong again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... I'll need your employee ID first, then we can pull up your pay stub from system PAY-7745-B and figure out exactly what happened."
+        },
+        {
+            "role": "Customer",
+            "content": "It's like—sorry, hold on—4-4-8-2. No wait. 4-4-2-8."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Hmm, okay so that brings up your profile EMP442867 and I can see your last three pay periods here. Which date are we looking at?"
+        },
+        {
+            "role": "Customer",
+            "content": "This Friday's. The one that just. You know. Happened."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Let me pull that specific stub... PST-11152024-A shows gross earnings of $1,847 but your net came to $1,243. Walk me through what seems off?"
+        },
+        {
+            "role": "Customer",
+            "content": "They didn't pay my overtime. Again. So."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so according to timesheet TS-8829-NOV you logged 47.5 hours for that period. System shows... hmm. Only credited for 40. That's definitely not right."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Like I said. Third time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me see here... I need to check something. Your manager should've approved overtime in system OTA-3384 but there's no authorization code. Did they mention anything about approval?"
+        },
+        {
+            "role": "Customer",
+            "content": "Chef said—no he told me—sorry, it's loud—he said he put it in."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, what if... okay I'm seeing manager override attempt MAN-7745-C but it got rejected by payroll system at 11:47 PM on Tuesday. Never went through."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically what now? I need that money. Rent's due."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So here's what we'll do. I'm creating priority adjustment ticket ADJ-9982-PRIORITY that flags for immediate processing. Should hit your account within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? They can actually. Fix it? That fast?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. The adjustment processes through system PAY-RAPID-7 which bypasses the normal 3-day hold. You'll get text confirmation to number ending in 4429."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean. Okay. That's—yeah that would work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me also... hmm. I'm adding note NTE-88429 to prevent this recurring. Your chef needs training on the overtime submission portal OTS-2000. I'll schedule that."
+        },
+        {
+            "role": "Customer",
+            "content": "So like Tuesday I'll have it? For sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Monday actually. Adjustment ADJ-9982-PRIORITY processes over the weekend. You'll see $371.42 deposited, which is the missing overtime plus the system error credit of $15."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "25b0b592_script.json",
+    "professionalism": "casual",
+    "scenario": "line cook, frustrated and calling from a loud kitchen about a paycheck discrepancy",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "resigned_going_through_motions",
+                "cautiously_hopeful"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses",
+                    "self_corrections"
+                ],
+                "elongation": "natural_length",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "patient_teacher",
+                "awkwardly_apologetic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

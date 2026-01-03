@@ -1,0 +1,93 @@
+=== Source: 04181f78_script.json ===
+Language: Mandarin Chinese
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: locked out of their account after too many failed password attempts
+
+=== Translated Dialogue ===
+
+Customer [pure]: 我今天早上输错3次密码，现在账号被锁了。
+
+Customer Support [pure]: 我理解您的焦急。我马上帮您恢复访问权限。请问您账号关联的邮箱地址是？
+
+Customer [pure]: 是那个robert.chen@techforge.com。我今天有客户演示，急需登录进去。
+
+Customer Support [pure]: 好的，陈先生。我找到您的账号了，ID是ACC-89234-RC。在解锁之前呢，我需要验证一下您的身份，要问您两个安全问题。
+
+Customer [pure]: 嗯，当然了。我很感谢你们这么重视安全措施。
+
+Customer Support [pure]: 非常好。第一个问题：请问您账户里登记的付款方式，最后4位数字是？
+
+Customer [pure]: 呃，应该是7823，我们公司的美国运通卡。
+
+Customer Support [pure]: 很好，跟尾号7823的卡匹配上了。第二个问题：您账户关联的账单邮编是多少？
+
+Customer [pure]: 账单邮编是94105，就是我们旧金山总部的地址。
+
+Customer Support [pure]: 谢谢您的确认。身份验证成功了。我现在就给您解锁账户，参考号是REF-2024-11-15-KC892。您马上就会收到重置密码的链接。
+
+Customer [pure]: 诶，要多久才能收到重置链接？我40分钟后就要开始做演示了。
+
+Customer Support [pure]: 邮件会在2到3分钟内发到robert.chen@techforge.com。这个重置链接30分钟内有效，您演示前绝对来得及。
+
+Customer [pure]: 这个...会不会影响我保存的偏好设置和最近的项目文件啊？
+
+Customer Support [pure]: 完全不会。您所有的数据，包括您保存的47个项目和自定义的仪表板设置，都会保持原样。您只是在创建一个新密码而已。
+
+Customer [pure]: 哦，那就好。对了，为什么只试了3次就锁定了？
+
+Customer Support [pure]: 您的账户因为是企业订阅，所以有SEC-LEVEL-3的增强安全级别。这个级别在60分钟内只允许失败3次，这样能最大程度保护账户安全。
+
+Customer [pure]: 哦，这样啊。那我们能不能在保证安全的情况下，把次数调高一点？
+
+Customer Support [pure]: 我可以提交一个安全修改申请，编号SMR-4521，把次数调到5次。不过这个需要您公司管理员在企业门户里批准才行。
+
+Customer [pure]: 嗯，这样挺合理的。麻烦你帮我提交一下吧。
+
+Customer Support [pure]: 好的，没问题。我已经提交了申请，您会在邮箱收到确认信。关于账户访问这块儿，今天还有什么其他需要我帮助的吗？
+
+
+=== Original (English) ===
+
+Customer: I've been locked out of my account after entering the wrong password three times this morning.
+
+Customer Support: I understand your frustration. Let me help you regain access right away. May I have your email address associated with the account?
+
+Customer: It's robert.chen@techforge.com. I need access urgently as I have client presentations today.
+
+Customer Support: Thank you, Mr. Chen. I've located your account ID ACC-89234-RC. Before we proceed with the unlock, I need to verify your identity with two security questions.
+
+Customer: Of course. I appreciate you taking the security measures seriously.
+
+Customer Support: Excellent. First question: What are the last four digits of the payment method on file?
+
+Customer: That would be 7823, my corporate American Express card.
+
+Customer Support: Perfect, that matches card ending in 7823. Second question: What's the billing zip code associated with your account?
+
+Customer: The billing zip code is 94105, our San Francisco headquarters address.
+
+Customer Support: Thank you for confirming. Your identity has been verified successfully. I'm now initiating an account unlock with reference number REF-2024-11-15-KC892. You'll receive a password reset link momentarily.
+
+Customer: How long before I receive the reset link? I have a presentation starting in forty minutes.
+
+Customer Support: The email will arrive within 2-3 minutes to robert.chen@techforge.com. The reset link remains active for 30 minutes, giving you plenty of time before your presentation.
+
+Customer: Will this affect my saved preferences and recent project files in the system?
+
+Customer Support: Absolutely not. All your data, including your 47 saved projects and custom dashboard settings, remains intact. You're simply creating a new password for access.
+
+Customer: Good to know. What caused the lockout after only three attempts?
+
+Customer Support: Your account has enhanced security tier SEC-LEVEL-3 due to your enterprise subscription. This limits failed attempts to three within a 60-minute window for maximum protection.
+
+Customer: I see. Can we increase that limit while maintaining security?
+
+Customer Support: I can submit a security modification request SMR-4521 to increase it to five attempts. Your account administrator would need to approve this change within your company portal.
+
+Customer: That's reasonable. Please go ahead and submit that request for me.
+
+Customer Support: Certainly. I've submitted the request and you'll receive confirmation at your email. Is there anything else I can assist you with today regarding your account access?
+

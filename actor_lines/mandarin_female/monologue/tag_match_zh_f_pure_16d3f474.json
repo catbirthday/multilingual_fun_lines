@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[苦涩地] 他们说是陈列的问题。[停顿] 我的陈列。[叹气] 好像我靠几个模特儿和橱窗设计就能搞垮整间店似的。[沮丧地] 我是说，好吧，行，那个夏季系列的事儿是...呃，那个是挺糟的。[轻声地] 10月份摆泳装，我懂。[防备地] 但他们批准了啊！[声音颤抖] 他们看了我的方案说\"可以做\"，现在突然全变成我的错了？[长停顿]\n\n[焦虑地] 不过...嗯，也许他们说得对。[悲伤地] 我那个节日陈列之后的客流量，那个...数据挺惨的。[懊悔地] 掉了20%。[抽鼻子] 而且我还一直坚持说我们要更前卫一点，更，怎么说呢，艺术化？[咕哝着] 人家街对面的Target就是...老老实实卖东西。[停顿]\n\n[哭着说] 32个人要失业了。[轻声倒吸气] 就因为我以为自己是什么，零售界的毕加索？[非常悲伤] 配饰部的Sarah，她有三个孩子。[声音哽咽] 还有Marcus，他刚...刚买了房。[哭]\n\n[疲惫地] 我合同周五到期。[非常轻声] 店下个月就关了。[声音渐弱] 每次路过我设计的那些破橱窗，我就..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[bitter] They said it was the displays. [pause] My displays. [sigh] Like I single-handedly brought down an entire store with some mannequins and window arrangements. [frustrated] I mean, yeah, okay, the summer collection thing was... erhm, that was bad. [quietly] The beachwear in October, I get it. [defensive] But they approved it! [voice shaking] They looked at my plans and said \"go ahead\" and now suddenly it's all my fault? [long pause] \n\n[anxious] Except... hmm, maybe they're right. [sad] The foot traffic numbers after my holiday display were, um... they were pretty devastating. [regretful] Twenty percent drop. [sniffle] And I kept insisting we needed to be more avant-garde, more, I don't know, artistic? [mumbling] While Target down the street was just... selling things. [pause]\n\n[crying while speaking] Thirty-two people are losing their jobs. [gasp softly] Because I thought I was some kind of, what, retail Picasso? [very sad] Sarah from accessories, she's got three kids. [voice breaking] And Marcus, he just... he just bought a house. [cry] \n\n[exhausted] My contract ends Friday. [very quietly] The store closes next month. [trailing off] And every time I walk past those stupid windows I designed, I just..."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "16d3f474_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your visual merchandiser contract ended because the store is closing due to your display failures",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

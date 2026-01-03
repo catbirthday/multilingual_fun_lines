@@ -1,0 +1,93 @@
+=== Source: 00b2d979_script.json ===
+Language: Mandarin Chinese
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: confused because two different agents gave them completely different information
+
+=== Translated Dialogue ===
+
+Customer [pure]: 诶，我想问一下啊，关于我那个保修申请的事儿。昨天两个客服跟我说的完全不一样，我现在都搞不清楚了。
+
+Customer Support [pure]: 哎呀，真不好意思给您造成困扰了。那个，我这就调出您的账户看看具体情况。麻烦您告诉我一下申请编号？
+
+Customer [pure]: WRN-4582-QM。就是说，一个客服说通过了，另一个又说被拒了。
+
+Customer Support [pure]: 好的，我现在看到WRN-4582-QM这个申请了，嗯，确实昨天下午2点15和4点47有两条记录，内容还真是相互矛盾的。
+
+Customer [pure]: 就是啊。所以到底是什么情况？我得知道要不要自己先找人修。
+
+Customer Support [pure]: 我完全理解您的心情。这个，根据我们保修部门下午5点23分的最终审核结果，您的申请已经通过了，电机更换费用可以报销到2850块。
+
+Customer [pure]: 那为什么还有人跟我说因为没有保养记录被拒了呢？
+
+Customer Support [pure]: 哦，我看出问题在哪儿了。第一个客服查的时候，系统里还没有您2023年3月上传的保养文件，但其实那些文件在通话之后就收到并处理了。
+
+Customer [pure]: 所以说批准是确定的了，是吧？我想要个书面确认，这样我才敢往下进行。
+
+Customer Support [pure]: 那当然。您的批准编号是APR-7829-WRN-4582，我现在就给您生成一份正式的授权书，10分钟内就会发到您邮箱。
+
+Customer [pure]: 好。那哪些维修点可以用？第一个客服说有个特定名单。
+
+Customer Support [pure]: 好的，关于这个呢—
+
+Customer [pure]: 而且第二个客服又说任何有认证的技师都行。到底哪个对？
+
+Customer Support [pure]: 准确的信息是这样的，您可以去我们在您那个地区的47家授权服务中心的任何一家，或者呢，任何有ASE认证的技师也行，但需要先填PRE-821这个预审批表。
+
+Customer [pure]: 那行，我需要那个预审批表。我的技师有ASE认证，但不在你们的名单上。
+
+Customer Support [pure]: 没问题。我现在就把PRE-821表发到您邮箱，您的技师填完第3A部分的报价后，24小时内提交就能得到批准。
+
+Customer [pure]: 那自付额呢？两个人报给我的数也不一样。
+
+Customer Support [pure]: 这个当然—
+
+Customer [pure]: 一个说200，另一个说500。这个必须搞清楚。
+
+Customer Support [pure]: 您的自付额确定是200块，这是根据您2022年1月15号签的WP-GOLD-2022保修计划来的，我已经在保单文件里确认过了，这个也会在授权书里注明。
+
+
+=== Original (English) ===
+
+Customer: I need clarification on my warranty claim. Two agents gave me completely contradictory information yesterday.
+
+Customer Support: I apologize for the confusion. Let me pull up your account and review the claim details. May I have your claim number?
+
+Customer: It's WRN-4582-QM. One agent said it was approved, another said it was denied.
+
+Customer Support: Thank you. I'm reviewing claim WRN-4582-QM now, and I can see there were two interactions logged yesterday at 2:15 PM and 4:47 PM with conflicting notes.
+
+Customer: Exactly. What's the actual status? I need to know if I should arrange repairs myself.
+
+Customer Support: I understand completely. According to our warranty department's final review at 5:23 PM, your claim has been approved for coverage up to $2,850 for the motor replacement.
+
+Customer: Then why was I told it was denied due to lack of maintenance records?
+
+Customer Support: I see the issue now. The first agent reviewed an incomplete file missing your uploaded maintenance documents from March 2023, but those were actually received and processed after that call.
+
+Customer: So the approval stands? I want this confirmed in writing before I proceed.
+
+Customer Support: Absolutely. Your approval reference is APR-7829-WRN-4582, and I'm generating an official authorization letter right now that will be emailed to you within 10 minutes.
+
+Customer: Good. Which repair facilities are authorized? The first agent mentioned a specific list.
+
+Customer Support: Certainly.
+
+Customer: And the second agent said I could use any certified technician. Which is correct?
+
+Customer Support: The accurate information is that you can use any of our 47 authorized service centers in your region, or any ASE-certified technician with our pre-approval form PRE-821.
+
+Customer: I'll need that pre-approval form then. My technician is ASE-certified but not on your list.
+
+Customer Support: Perfect. I'm sending form PRE-821 to your email now, and once your technician completes section 3A with the estimate, you can submit it for approval within 24 hours.
+
+Customer: What about the deductible? I was quoted two different amounts.
+
+Customer Support: Of course.
+
+Customer: One agent said two hundred, another said five hundred. This needs to be clear.
+
+Customer Support: Your deductible is definitively $200 under warranty plan WP-GOLD-2022, which I've confirmed in your policy documents dated January 15th, 2022, and this will be noted in your authorization letter.
+

@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] I just got off the phone with Mrs. Chen and I... 我真不敢相信她跟我说的。[pause] She said her settlement was only twelve hundred dollars. [confused] 1200块！脑外伤让她没法工作了啊。[angry] And I saw the paperwork—我们申请的是15万！\n\n[frustrated] God, how many times did he tell me about fighting for the little guy? [bitter] 那些关于正直的大道理，说什么我们是受害者最后的防线。[laugh] 哈，真是个笑话。I mean, I trusted him with everything. [upset] 他教我怎么当律师的，天哪！\n\n[very quietly] The Johnsons, the Nguyens, that teenager who lost his leg... [gasp softly] 我的天，有多少案子？[speeding up] How many people did he screw over while I was sitting there, 做笔记，还以为他是什么英雄？[furious] And the whole time he was just—what—用本该给坐轮椅的人的钱买他第三辆奔驰？\n\n[very sad] I feel so stupid. [sigh] 那些一起加班的夜晚，我还以为我们...我不知道，我以为那代表着什么。[regretful] Twenty-three cases I referred to him this year. [crying while speaking] 23个家庭，我亲口向他们保证他会照顾好他们的。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shaky voice] I just got off the phone with Mrs. Chen and I... I can't believe what she told me. [pause] She said her settlement was only twelve hundred dollars. [confused] Twelve hundred. For a traumatic brain injury that left her unable to work. [angry] And I saw the paperwork—we filed for a hundred and fifty thousand! \n\n[frustrated] God, how many times did he tell me about fighting for the little guy? [bitter] All those lectures about integrity, about how we're the last line of defense for people who've been hurt. [laugh] Ha. What a joke. I mean, I trusted him with everything. [upset] He taught me how to practice law, for Christ's sake!\n\n[very quietly] The Johnsons, the Nguyens, that teenager who lost his leg... [gasp softly] Oh my God, how many cases? [speeding up] How many people did he screw over while I was sitting there, taking notes, thinking he was some kind of hero? [furious] And the whole time he was just—what—buying his third Mercedes with money that should've gone to people in wheelchairs?\n\n[very sad] I feel so stupid. [sigh] All those late nights we worked together, I thought we were... I don't know, I thought it meant something. [regretful] Twenty-three cases I referred to him this year. [crying while speaking] Twenty-three families I personally promised he would take care of."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "196f0f13_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Finding out your personal injury attorney mentor has been settling cases for pennies and pocketing the difference",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

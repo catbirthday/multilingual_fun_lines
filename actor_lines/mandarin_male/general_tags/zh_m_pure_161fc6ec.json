@@ -1,0 +1,215 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[surprised] 哎，Alex？"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] 没想到这么晚还有人在，特别是你，你不是一般都在那个咖啡店复习有机化学吗，还是什么别的变态难的课。"
+        },
+        {
+            "role": "Character 1",
+            "content": "我就是路过，看你门开着，走廊里堆了这么多箱子，觉得挺奇怪的，现在才3月，我们5月才搬走啊。"
+        },
+        {
+            "role": "Character 2",
+            "content": "[measured] 我要走了，真的要走了，不是换宿舍也不是休学一学期，是真的退学回家。"
+        },
+        {
+            "role": "Character 1",
+            "content": "[stunned] 等等，什么？你是我们这届最厉害的人之一啊，你不是拿到陈教授的研究职位了吗，上个月你还在跟我说你的论文proposal呢。"
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] 厉害有什么用啊，当你根本付不起学费的时候，我爸失业了，我妈的医药费又一直在涨，那点部分奖学金根本就不够用。"
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperately] 但是应该有办法的吧？财务援助办公室，紧急基金，勤工俭学—总有什么能让你留下来把学位读完吧。"
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter laugh] 我什么都试过了，在财务援助办公室待了好几个星期，填表格，写申请，但说实话他们能做的就那么多，根本不够。差得远呢。"
+        },
+        {
+            "role": "Character 1",
+            "content": "[pleading] 这不公平啊，你比谁都努力，比我认识的任何人都努力，在图书馆熬到凌晨4点，每学期都超修学分。"
+        },
+        {
+            "role": "Character 2",
+            "content": "生活本来就不公平，我也累了，不想再假装努力就够了，这个系统本来就是给那些不用在课本和吃饭之间做选择的人设计的。[sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "我现在觉得自己好没用。"
+        },
+        {
+            "role": "Character 2",
+            "content": "[softer] 你不是没用，你在当朋友，说真的，自从大家知道我要走之后，你比大多数人做得都多。"
+        },
+        {
+            "role": "Character 1",
+            "content": "其他人就是不知道该说什么吧，可能因为我们心里都明白，随便一个家庭危机或者医疗事故，我们谁都可能变成你这样。"
+        },
+        {
+            "role": "Character 2",
+            "content": "[wistful] 还记得大一的时候吗，我们以为大学最难的就是过微积分，或者在食堂找到能吃的东西？天啊，我们那时候真是太天真了。"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] 你会回来的，对吧？可能不是下学期，也不是明年，但总有一天你会找到办法回来完成你在这里开始的一切。"
+        },
+        {
+            "role": "Character 2",
+            "content": "我以前也这么想，但现在我不确定回来还是不是我想要的了，看到一切能崩塌得这么快之后。[exhales]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly insistent] 答应我你不会完全放弃你的梦想，就算不在昂贵学费的教室里，你也会继续学习，继续成长。"
+        },
+        {
+            "role": "Character 2",
+            "content": "梦想这东西吧，当现实狠狠打击你的时候就会改变，也许这也不总是坏事，也许这就是成长吧。"
+        },
+        {
+            "role": "Character 1",
+            "content": "[voice breaking] 我会想你的，想我们一起熬夜复习，想你对我那些烂论文毫不留情的吐槽，想你就在隔两个门的地方。"
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] 嘿，我们会保持联系的，谁知道呢，说不定哪天你拿着化学学位进了什么厉害的公司，还能雇我呢。"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "[surprised] Oh, hey Alex."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] I didn't expect anyone to be here this late, especially not you since you're usually at that coffee shop studying for organic chemistry or whatever impossible class you're taking this semester."
+        },
+        {
+            "role": "Character 1",
+            "content": "Yeah, well, I was just walking by and saw your door open with all these boxes stacked in the hallway, which seemed weird since it's only March and we don't move out until May."
+        },
+        {
+            "role": "Character 2",
+            "content": "[measured] I'm leaving, actually, like permanently leaving, not just switching dorms or taking a semester off but actually dropping out and going home."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stunned] Wait, what? You're one of the smartest people in our entire year, you got that research position with Professor Chen, you were literally just telling me about your thesis proposal last month."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] Being smart doesn't mean anything when you can't afford to be here anymore, when your dad loses his job and your mom's medical bills keep piling up and suddenly that partial scholarship isn't nearly enough."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperately] But there are resources, right? Financial aid office, emergency funds, work-study programs—there has to be something that can help you stay and finish your degree."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter laugh] I've tried everything, spent weeks in that financial aid office filling out forms and appeals, but the truth is they can only do so much and it's not enough. Not even close."
+        },
+        {
+            "role": "Character 1",
+            "content": "[pleading] This isn't fair, you've worked so hard to get here, harder than anyone I know, staying up until four in the morning in the library, taking extra credits every semester."
+        },
+        {
+            "role": "Character 2",
+            "content": "Life isn't fair, and I'm tired of pretending that hard work is enough when the system is designed for people who don't have to choose between textbooks and groceries. [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "I feel so useless right now."
+        },
+        {
+            "role": "Character 2",
+            "content": "[softer] You're not useless, you're being a friend, which is honestly more than most people have done since word got out that I'm leaving."
+        },
+        {
+            "role": "Character 1",
+            "content": "Everyone else just doesn't know what to say, probably because we all know deep down that any of us could be in your position with one family crisis or medical emergency."
+        },
+        {
+            "role": "Character 2",
+            "content": "[wistful] Remember freshman year when we thought the hardest thing about college would be passing calculus or finding decent food in the dining hall? God, we were so naive."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] You're going to come back, right? Maybe not next semester or even next year, but eventually you'll find a way back to finish what you started here."
+        },
+        {
+            "role": "Character 2",
+            "content": "I used to think that too, but now I'm not sure if coming back is even what I want anymore, after seeing how quickly everything can fall apart. [exhales]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly insistent] Promise me you won't give up on your dreams completely, that you'll keep learning and growing even if it's not in a classroom with expensive tuition attached."
+        },
+        {
+            "role": "Character 2",
+            "content": "The thing about dreams is they change when reality hits you hard enough, and maybe that's not always a bad thing, maybe it's just growing up."
+        },
+        {
+            "role": "Character 1",
+            "content": "[voice breaking] I'm going to miss having you around, miss our late-night study sessions and your brutal honesty about my terrible essay drafts and just knowing you're two doors down."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] Hey, we'll stay in touch, and who knows, maybe someday you'll be the one hiring me at whatever amazing company you end up working for with that chemistry degree."
+        }
+    ],
+    "language": "mandarin",
+    "language_name": "Mandarin Chinese",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "general_tags",
+    "source_file": "161fc6ec_scenario.json",
+    "scenario": "A domestic student runs into their casual friend from freshman year while clearing out their dorm room after deciding to drop out of college.",
+    "type": "scenario_conversation",
+    "character_1_role": "casual friend",
+    "character_2_role": "domestic student",
+    "selected_tones": [
+        "lost",
+        "truthful",
+        "independent"
+    ],
+    "tone_options": [
+        "centralized",
+        "erratic",
+        "organized",
+        "arrogant",
+        "wasteful",
+        "lost",
+        "agreeable",
+        "truthful",
+        "decreasing",
+        "independent"
+    ]
+}
