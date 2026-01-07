@@ -1,0 +1,48 @@
+=== Source: ee9232ac_script.json ===
+Actor: english_2
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking about compensation for service outage
+
+=== Dialogue ===
+
+Customer: I'm calling about the service outage we experienced last week. We need to discuss compensation.
+
+Customer Support: I understand your concern. Let me pull up your account details. May I have your account number or the business name associated with the service?
+
+Customer: Our account number is 78924. We lost service for nearly fourteen hours on Tuesday.
+
+Customer Support: Thank you. I have your account here, number 78924, showing you're on our Enterprise Plus plan. I can see the outage occurred from 8:47 AM to 10:38 PM on Tuesday the 12th.
+
+Customer: That's correct. This disrupted our entire operation and we incurred significant losses.
+
+Customer Support: I completely understand the impact this had on your business. According to our system logs, the outage was caused by a fiber optic cable failure in sector B7-North affecting multiple enterprise clients.
+
+Customer: I appreciate the explanation, but we need to address the financial impact on our company.
+
+Customer Support: Absolutely. Per your Enterprise Plus service level agreement, you're entitled to service credits for any downtime exceeding 99.9% uptime. The fourteen-hour outage represents a credit of $2,847.50 based on your monthly rate.
+
+Customer: That barely covers our losses. We had to redirect staff and lost several client transactions.
+
+Customer Support: I understand your position. Let me escalate this to our Enterprise Compensation Team who can review additional remediation options beyond the standard SLA credits.
+
+Customer: When can I expect to hear from them? We need this resolved quickly.
+
+Customer Support: Certainly.
+
+Customer: And will they have full authority to negotiate appropriate compensation?
+
+Customer Support: Yes, they have expanded authority for enterprise accounts. I'm assigning this to senior specialist Marcus Chen, ID MSC-4019, who handles high-priority compensation cases and can authorize amounts up to $25,000.
+
+Customer: Good. I'll also need documentation of the outage cause and your remediation steps.
+
+Customer Support: I'll include that in the case file. You'll receive the full incident report, reference number INC-20241012-B7N, detailing the cable failure, our response timeline, and the infrastructure improvements we're implementing.
+
+Customer: What specific improvements are being made to prevent this from happening again?
+
+Customer Support: We're installing redundant fiber paths for all B7 sector connections, scheduled for completion by December 31st. Additionally, we're upgrading to automatic failover systems that can reroute traffic within 30 seconds of any cable disruption.
+
+Customer: I expect the compensation team to factor in our long-standing relationship and perfect payment history.
+
+Customer Support: I've noted that in your case file under priority flag PF-7721. Marcus Chen will contact you within two business hours, and I'm sending you a confirmation email now with all the details we've discussed.
+

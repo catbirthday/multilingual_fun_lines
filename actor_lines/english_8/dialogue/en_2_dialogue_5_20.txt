@@ -1,0 +1,46 @@
+=== Source: dialogue5_20.txt ===
+Actor: english_2
+Content Type: dialogue
+
+=== Dialogue ===
+
+Character 1: Why the hell did you push that build to production without running it past me?
+
+Character 2: [playful] Well hello to you too. Look, I understand you're upset, but we had a critical security patch that needed to go out immediately. The vulnerability was already being exploited in the wild.
+
+Character 1: [pause] You broke three customer integrations.
+
+Character 2: I'm aware. We're rolling back the affected services right now. The security team made the call that patching the vulnerability outweighed the integration risk, and honestly, I agreed with them.
+
+Character 1: This is the third time this quarter you've done this.
+
+Character 2: [bitter] That's not entirely fair. The first two times were approved emergency releases with VP sign-off. You were copied on both email chains, though I realize you probably didn't see them until after the fact.
+
+Character 1: I don't care about email chains. I care about our SLAs.
+
+Character 2: Our SLAs are still intact. We've got four minutes before we breach the response time threshold, and the rollback will complete in two. I've been doing this for eight years—I know how to manage the metrics.
+
+Character 1: The clients are already calling me directly.
+
+Character 2: I sent personalized notifications to all affected accounts fifteen minutes ago. If they're calling you, it's because they want to vent to someone with authority, not because they lack information about the situation.
+
+Character 1: You should have waited for the maintenance window.
+
+Character 2: The maintenance window is Thursday. The exploit was actively being used to exfiltrate customer data as of 3 AM this morning. Would you prefer I explain to legal why we sat on a known vulnerability for three days?
+
+Character 1: There are procedures for this exact scenario.
+
+Character 2: Yes, and I followed them to the letter. Emergency release protocol, section 4.2. Security patches with active exploitation get expedited deployment. I have the approval signatures from InfoSec and the on-call engineering lead.
+
+Character 1: Why wasn't I in that approval chain?
+
+Character 2: Because you're not listed as a required approver for security patches. You're only mandatory for feature releases and infrastructure changes. We updated that policy six months ago after the ransomware incident.
+
+Character 1: This conversation isn't over.
+
+Character 2: I figured as much. Look, I get that you're frustrated about being out of the loop. How about we schedule a proper post-mortem for Monday and figure out if we need to adjust the notification process?
+
+Character 1: [curious] Did we lose any data?
+
+Character 2: No data loss confirmed. The exploit was attempting exfiltration but our monitoring caught it before any successful transfers. The logs are clean, and the security team is running a full audit just to be absolutely certain.
+

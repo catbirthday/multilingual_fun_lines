@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'd like to speak with a supervisor about my experience with agent Marcus Thompson yesterday afternoon."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for calling. I'm the floor supervisor, and I'd be happy to discuss your experience with Agent Thompson, employee ID TMP-8847. May I have your account number to pull up the interaction record?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's account 447-829-1156. Marcus resolved a complex billing issue that three previous agents couldn't fix."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I can see your account and the ticket number SR-20241109-4521 from yesterday's call at 2:47 PM. I appreciate you taking the time to provide feedback about Agent Thompson's performance."
+        },
+        {
+            "role": "Customer",
+            "content": "He deserves recognition. He spent forty-five minutes untangling six months of incorrect charges and actually fixed everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's wonderful to hear. I'm documenting this in our recognition system under reference code COMP-11092024-MT-01, which goes directly to his performance file and our management team."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Does this kind of feedback actually impact employee evaluations or compensation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you be more specific about how positive feedback is utilized in your organization?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Customer commendations are weighted at 35% in our quarterly performance metrics, tracked through our system code QPS-2024-Q4. They directly influence merit increases, bonuses, and our Employee Excellence Award program."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Marcus also proactively applied three months of retroactive credits without me having to ask."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That demonstrates exceptional service initiative. I'm adding that specific detail to the commendation form under category code EXC-PROACTIVE-01, which qualifies him for our Above and Beyond recognition tier this month."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will Marcus be informed about this feedback, and will I receive any confirmation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes on both counts. Marcus will receive notification through his dashboard by end of business today, and you'll receive confirmation email REF-COMP-447829 within the next hour documenting your feedback submission."
+        },
+        {
+            "role": "Customer",
+            "content": "One more thing. Marcus mentioned he's been with your company for eight years. Is tenure considered?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Indeed it is. Our Long Service Excellence program, code LSE-8YR-2024, provides additional weight to commendations for employees with over five years of service, increasing their quarterly bonus potential by 15%."
+        },
+        {
+            "role": "Customer",
+            "content": "That's impressive. Your company clearly values both employees and customer feedback. This was worth my time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you so much for this feedback. I've marked Marcus for our monthly Team Lead Recognition Meeting on November 15th, case reference TLRM-1115-2024, where exceptional service examples are shared company-wide."
+        },
+        {
+            "role": "Customer",
+            "content": "Outstanding. This is exactly the follow-through I wanted to see. Thank you for taking this seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's my pleasure. Your commendation has been fully processed under tracking number FB-POSITIVE-20241109-8847, and Marcus will definitely know how much his efforts were appreciated. Is there anything else I can help you with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "d03242a0_script.json",
+    "actor": 2,
+    "scenario": "grateful because the last agent was so helpful and wants to give a compliment",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

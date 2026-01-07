@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So okay. Loyalty program. Points. I need to know—wait. Do they expire? Because last time..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh hey there! Let me—let me pull up our loyalty program details for you, um, gimme just a sec here... okay okay, so you're asking about point expiration?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Exactly. Also. Wait. Can I use them online? In store? Both? I just—there's so many rules and..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, so—hmm, let me see here—your points, they're good for 18 months from earning date, and yeah you can use them anywhere! Online, in-store, even our app. Actually wait, no sorry, the app checkout uses code LOYAL-2024 for the discount conversion."
+        },
+        {
+            "role": "Customer",
+            "content": "Eighteen months. Okay. Good. But how do I even—I mean. Where do I check? The balance?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so you've got—er, three ways actually. Website under account ID ACC-94782-VIP section, our mobile app, or just text POINTS to 77429. I personally? I just use the text thing, super quick."
+        },
+        {
+            "role": "Customer",
+            "content": "Text thing. Yes. Perfect. And earning? Like. One dollar one point? Or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh it's—it's better than that! So basically every dollar gets you 1.5 points, but here's the thing, um, on Tuesdays? Double points. And your birthday month, which shows here as March 2024 in your profile, triple points all month."
+        },
+        {
+            "role": "Customer",
+            "content": "Triple! Oh. Wow. That's actually—wait no. Is there a cap? Maximum?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, technically yeah but it's—let me check the exact—okay so 50,000 points annual maximum which equals about $33,333 in purchases, so unless you're like, buying a car from us, you're good!"
+        },
+        {
+            "role": "Customer",
+            "content": "Ha! Right. Car. Um. Tiers? Like silver gold whatever?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah yeah! So—actually wait, I'm looking at your account MEM-7829-GOLD and you're already Gold tier! That's, uh, that's actually why you get the 1.5 multiplier. Silver's just one-to-one."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm gold? Since when? Nobody told me this..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let's see, upgraded September 15, 2024! Honestly? Our notification system is—hmm, not great. I had the same thing happen to me actually, found out I was Platinum tier like three months late."
+        },
+        {
+            "role": "Customer",
+            "content": "Platinum exists? What. How much spending? I need details. All of them."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ooh okay so Platinum's at $5,000 annual spend, currently you're at $3,847.22 for 2024, and Platinum gets you, er, two times points base rate plus—oh this is cool—exclusive access code PLAT-EXCLUSIVE for special releases."
+        },
+        {
+            "role": "Customer",
+            "content": "Two thousand more. Hmm. Black Friday. Maybe. Returns count? Against me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So returns—returns do subtract from your tier progress unfortunately, but exchanges don't! That's, uh, that's the loophole. Exchange keeps your status tracking at $3,847.22 intact."
+        },
+        {
+            "role": "Customer",
+            "content": "Loophole. Yes. Good. Expiring points warning? Email? Something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Definitely! You'll get—hmm, actually let me set this up for you right now—there. Email alerts at 30 days, 7 days, and 24 hours before expiration to address on file ending in @gmail.com. Nobody loses points on my watch!"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "d601e5ab_script.json",
+    "actor": 2,
+    "scenario": "asking about loyalty program terms and conditions",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

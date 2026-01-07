@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitant] Baron, I, um... I found something behind the wallpaper in the east wing, and I think you should probably see this before I continue with the work."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh? What sort of something? Is it damage to the walls, or, uhh, perhaps old insulation that needs replacing? I hope it won't delay the renovation schedule too much."
+        },
+        {
+            "role": "Character 1",
+            "content": "[nervously] No, sir, it's... well, it's letters actually, quite old ones, and they appear to be, err, rather personal in nature."
+        },
+        {
+            "role": "Character 2",
+            "content": "Letters? How peculiar. [chuckles] My father did love to hide things away, always was rather secretive about his affairs—I mean, his business matters, of course."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] Baron, these letters mention my grandmother's name, Eleanor Hartley, and they're signed by your father, so I thought maybe you should, um, read them yourself. [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "Eleanor Hartley? That's... hmm, that's quite impossible, surely. My father was devoted to my mother, absolutely devoted, and I can't imagine why he'd be corresponding with—wait, your grandmother?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[carefully] Yes, sir. She worked here as a seamstress in the 1960s, and these letters, they're, uhh, they're love letters, Baron. Dozens of them."
+        },
+        {
+            "role": "Character 2",
+            "content": "[stiffening] I see. Well, that's, err, that's certainly unexpected news to receive on a Tuesday morning, isn't it? May I... may I see one of these supposed letters?"
+        },
+        {
+            "role": "Character 1",
+            "content": "Of course, here—this one's dated 1963, and it talks about meeting in the rose garden at midnight, about how he couldn't bear to be apart from her. [softer] There's poetry too."
+        },
+        {
+            "role": "Character 2",
+            "content": "[reading quietly] \"My dearest Eleanor, every moment without you is agony...\" [exhales sharply] This is definitely his handwriting, I'd recognize it anywhere. Good God, all those years and Mother never knew."
+        },
+        {
+            "role": "Character 1",
+            "content": "Should I just... put them back?"
+        },
+        {
+            "role": "Character 2",
+            "content": "No, no, that would be, uhh, rather pointless now, wouldn't it? [sighs] Tell me, did your grandmother ever speak of my father, or of her time working here at the estate?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[thoughtfully] She used to tell stories about the grand parties here, about the beautiful gowns she'd help mend, but she never mentioned your father specifically, which seems, mmm, deliberate now, doesn't it?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Quite deliberate, yes. [pause] You know, I'm looking at you now and I can see it—you have the same eyes as my father, that particular shade of green. How terribly awkward."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shocked] Wait, are you suggesting that we might be... that your father and my grandmother could have... oh God, I mean, that would make us—"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] Half-cousins, potentially, yes, which is, err, rather a shock for both of us, I imagine. Though it would explain why you got this particular job despite several other contractors bidding lower."
+        },
+        {
+            "role": "Character 1",
+            "content": "You knew? When you hired me, did you already know about this, about the possibility that we might be, uhh, related? Because that seems like something you might've mentioned."
+        },
+        {
+            "role": "Character 2",
+            "content": "I suspected something, perhaps—your surname, your grandmother's connection to the estate, the way my father's will specifically mentioned preserving the east wing wallpaper until, and I quote, \"the right time.\" [wryly] Apparently, this was the right time."
+        },
+        {
+            "role": "Character 1",
+            "content": "[dazed] So he planned this, your father planned for me to find these letters, to discover all of this while I was working here? That's... that's absolutely mad."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] Rather theatrical of him, yes, but then he always did have a flair for the dramatic. Listen, we should probably, err, sit down and read through these properly—and perhaps I should pour us both a rather large brandy first. [lighter] Family tradition, after all."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "d636c042_scenario.json",
+    "actor": 2,
+    "scenario": "A wallpaper hanger discovers century-old love letters behind the wallpaper while renovating a baron's estate, revealing the baron's late father had an affair with the wallpaper hanger's grandmother.",
+    "type": "scenario_conversation",
+    "character_1_role": "wallpaper hanger",
+    "character_2_role": "baron",
+    "selected_tones": [
+        "polite",
+        "anxious",
+        "deferential"
+    ]
+}

@@ -1,0 +1,48 @@
+=== Source: c7975430_script.json ===
+Actor: english_1
+Content Type: customer_support
+Professionalism: professional
+Scenario: young professional, anxious about a credit card charge from a store she's never visited
+
+=== Dialogue ===
+
+Customer: Good afternoon. I'm calling about an unauthorized charge on my credit card from a retailer I've never visited.
+
+Customer Support: Good afternoon. I'd be happy to investigate that charge for you immediately. May I have your card number ending in the last four digits and the transaction date?
+
+Customer: The card ends in 7842. The charge posted yesterday for $247.89 from something called Meridian Home Goods.
+
+Customer Support: Thank you. I'm pulling up that transaction now in our system. The charge from Meridian Home Goods posted on October 23rd at 3:47 PM Eastern, transaction ID MHG-89234-TXN. Do you recall making any online purchases recently?
+
+Customer: I haven't made any online purchases in the past week. This genuinely appears to be fraudulent activity.
+
+Customer Support: I understand your concern completely. Let me run a verification check on this merchant. Meridian Home Goods operates both physical locations and an online marketplace at meridian-hg.com with merchant code 5712. Have you perhaps authorized any recurring subscriptions or placed any pre-orders in the past?
+
+Customer: Absolutely not. I've never heard of this company before seeing this charge on my statement.
+
+Customer Support: Understood. I'm immediately flagging this transaction for our fraud prevention team. The charge will be temporarily reversed within 24 hours while we investigate, and you'll receive a provisional credit of $247.89 to your account.
+
+Customer: That's reassuring. What steps should I take to protect my account going forward?
+
+Customer Support: Excellent question. First, I'm issuing you a new card number which will arrive via expedited shipping to your address on file, ZIP code 10016, within two business days. Your new card will end in 9367 and all legitimate recurring charges will transfer automatically.
+
+Customer: Perfect. Will I need to update my payment information with my regular merchants?
+
+Customer Support: Our system will handle most major merchants automatically through our Visa Account Updater service. However, I recommend updating any smaller vendors or local services manually. You'll receive a detailed email to your registered address showing which merchants were notified.
+
+Customer: That's very helpful. How long will the fraud investigation take to complete?
+
+Customer Support: Certainly.
+
+Customer: I appreciate the quick response. Should I file a police report as well?
+
+Customer Support: The formal investigation typically completes within 5-7 business days, case reference FRD-2024-78456. While a police report isn't required for this amount, having one can expedite the process if you'd like to file one with your local precinct.
+
+Customer: I'll consider that. Can you confirm my other recent transactions haven't been compromised?
+
+Customer Support: I'm reviewing your last ten transactions now. Everything else appears consistent with your normal spending pattern at recognized merchants. I see CVS Pharmacy for $18.42, Whole Foods for $67.23, and your Netflix subscription for $15.99, all matching your typical activity profile.
+
+Customer: Good. Please ensure I receive written confirmation of everything we've discussed today.
+
+Customer Support: Absolutely. You'll receive a comprehensive summary email within the hour to your address on file, including your case number FRD-2024-78456, the provisional credit confirmation, and your new card tracking number. Is there anything else I can assist you with regarding your account security today?
+

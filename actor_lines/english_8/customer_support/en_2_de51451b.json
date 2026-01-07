@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Sorry to bother you. Um, I keep getting texts? Need them to stop."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, let me help with that! So you're getting—you're getting text messages. Hmm, interesting. Let me pull up your account here. What's... what's the phone number receiving them?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's, er, wait—no that's wrong. Sorry. 555-0142."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, got it. Okay okay, so I'm seeing here... that's weird. Your account ID #847291 shows you're already opted out of SMS. But you're still—you're still getting them?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Three today. I think? Or maybe yesterday too."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Huh. That shouldn't be happening. Let me check something else here... oh wait. I see what's going on. There's actually, um, two different systems. Marketing texts and transactional texts. The ones you're getting—are they like promotions or more like \"your order shipped\"?"
+        },
+        {
+            "role": "Customer",
+            "content": "Uh, sales mostly. Though I'm probably confusing them."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're right to be confused! It's—it's honestly kind of a mess on our end. So what I need to do is... let me find the right screen here... there's like a master preference center. Code MPC-7789-B. Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "Look, I know this isn't your fault. Systems are weird."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh you're sweet to say that! Okay so. Here's what I'm seeing. You're opted out of email marketing as of 2:47 PM yesterday. But SMS is still active. And there's also, er... push notifications? Do you want those off too?"
+        },
+        {
+            "role": "Customer",
+            "content": "Push? Like on my phone? Um, probably yes. All of it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah yeah, let's just. Clean slate. Turn it all off. So I'm updating your preferences now... account QRX-55281... and actually, hmm, there's one thing. Order confirmations—those have to stay on. Like legally. But everything else I can absolutely remove."
+        },
+        {
+            "role": "Customer",
+            "content": "That's fine. Wait—including the, er, birthday ones?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Birthday... let me see what category those fall under. Oh those are interesting, they're in a, uh... what's the word... promotional segment? Yeah. Code PROMO-BD-2024. Those will stop too. Should take effect within 24 to 48 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry, 48 hours? Not now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, frustrating right? The system—the system processes these in batches. Runs at midnight EST. So technically you might get one or two more before it fully kicks in. But after that, radio silence. Promise."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. I think I get it. Maybe. Thanks for explaining."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! Oh actually, one more thing. If you do get any after Thursday—which would be the 15th—call us back. Reference number is TKT-9982-QM7. That way we know something's genuinely broken."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Thursday. The, um, 15th. Got it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. And just so you know... if you ever want to re-enable anything, it's super easy. Just log into your account. Or call us. Whatever's easier. But for now—all marketing comms are officially off as of batch process 11:59 PM tonight!"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "de51451b_script.json",
+    "actor": 2,
+    "scenario": "wanting to opt out of marketing communications",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

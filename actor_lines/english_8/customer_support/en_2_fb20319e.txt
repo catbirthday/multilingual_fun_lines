@@ -1,0 +1,48 @@
+=== Source: fb20319e_script.json ===
+Actor: english_2
+Content Type: customer_support
+Professionalism: professional
+Scenario: confused about pro-rated charges after plan change
+
+=== Dialogue ===
+
+Customer: I received my bill and I'm confused about the pro-rated charges after switching to the Professional plan last month.
+
+Customer Support: I understand your concern about the billing. Let me pull up your account and review those charges in detail for you.
+
+Customer: My account number is 447829. I upgraded on October 15th but the charges don't match what I expected.
+
+Customer Support: Thank you. I have your account here showing the upgrade from Basic at $49.99 to Professional at $89.99 on October 15th, and I can explain exactly how the pro-rated charges were calculated.
+
+Customer: That would be helpful. I want to make sure I'm being charged correctly going forward.
+
+Customer Support: Absolutely. Since you upgraded mid-cycle, you received a pro-rated credit of $24.99 for the unused portion of your Basic plan and a pro-rated charge of $44.99 for the Professional plan covering October 15th through October 31st.
+
+Customer: I see those amounts on my bill. How did you calculate the exact pro-rated amounts?
+
+Customer Support: Certainly.
+
+Customer: And my regular billing cycle starts on the first of each month?
+
+Customer Support: That's correct. Your billing cycle runs from the 1st through the 31st, so we calculated 16 days remaining when you upgraded, which is 51.6% of the billing period.
+
+Customer: So the credit is half of my old plan and the charge is half of the new plan?
+
+Customer Support: Precisely. The Basic plan credit is $49.99 multiplied by 0.516, giving you $25.79, which we rounded to $25.99 in your favor, and the Professional charge is $89.99 multiplied by 0.516, totaling $46.43.
+
+Customer: Your numbers are slightly different from what's on my bill. Can you check again?
+
+Customer Support: Of course.
+
+Customer: The bill shows a credit of $24.99 and a new charge of $44.99.
+
+Customer Support: You're absolutely right, and I apologize for the confusion. The system used 15 days for the calculation instead of 16, making it exactly 50% of the month, which explains the $24.99 credit and $44.99 charge you're seeing.
+
+Customer: That makes more sense. Will November's bill just show the regular Professional plan rate?
+
+Customer Support: Exactly. Your November 1st bill and all future bills will show the standard Professional plan rate of $89.99 with no pro-rated adjustments unless you make another plan change.
+
+Customer: Perfect. Thank you for breaking that down clearly. I understand the charges now.
+
+Customer Support: I'm glad I could clarify that for you. I've also sent a detailed billing summary to your email address on file for your records, and please don't hesitate to contact us if you have any other questions about your account.
+

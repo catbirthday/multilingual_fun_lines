@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[startled] Wait, what are you—Marcus? Is that you standing up in the middle of my presentation? This is a peer-reviewed conference, not one of your motivational seminars."
+        },
+        {
+            "role": "Character 2",
+            "content": "[projecting confidently] Ladies and gentlemen, before she continues, I need everyone to know that the foundation of this research came from our discussions five years ago—my theories about human potential that she's now dressed up in numbers."
+        },
+        {
+            "role": "Character 1",
+            "content": "[incredulous] Are you serious?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Dead serious, and I have the emails to prove it, though of course you conveniently left my name off every single publication. [bitter laugh] Classic academic gatekeeping."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] Your 'theories' were unsubstantiated speculation about success mindsets, Marcus. What I'm presenting here is three years of rigorous data collection from seventeen thousand participants across forty-two countries."
+        },
+        {
+            "role": "Character 2",
+            "content": "Data that confirms exactly what I've been teaching in my workshops—that individual excellence drives collective outcomes, that the self is the primary unit of analysis in any meaningful social dynamic."
+        },
+        {
+            "role": "Character 1",
+            "content": "[coldly] Actually, the data shows the opposite. Individual performance metrics become statistically insignificant when we control for systemic variables and network effects. [pause] But you'd know that if you'd actually read the paper."
+        },
+        {
+            "role": "Character 2",
+            "content": "[dismissively] I don't need to read it because I lived it, created it, breathed life into these ideas while you were still fumbling with your spreadsheets and p-values."
+        },
+        {
+            "role": "Character 1",
+            "content": "You sent me three rambling emails about 'manifesting success through self-actualization' and somehow that translates to co-authorship on longitudinal behavioral research? The delusion is actually impressive."
+        },
+        {
+            "role": "Character 2",
+            "content": "[smugly] Call it whatever makes you comfortable, but we both know you were drowning in meaningless correlations until I showed you how to think about human nature properly. [chuckles]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[measured but sharp] The correlation coefficient between ego-centric behavior patterns and sustainable success is negative point six seven, Marcus. Your entire philosophy is mathematically proven to fail over time."
+        },
+        {
+            "role": "Character 2",
+            "content": "See, that's your problem—you think human greatness can be reduced to coefficients and confidence intervals when it's really about believing in your own vision above all else."
+        },
+        {
+            "role": "Character 1",
+            "content": "[exasperated] This is exactly why our collaboration ended—you mistake anecdotal self-importance for universal truth while actively dismissing any evidence that challenges your narcissistic worldview."
+        },
+        {
+            "role": "Character 2",
+            "content": "[grandly] And yet here I am, selling out stadiums with my talks while you present to, what, forty academics who'll cite you twice? [theatrical sigh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[icily professional] Those forty academics peer-review research that shapes policy for millions of people, but I wouldn't expect you to understand impact beyond personal profit margins. [clears throat]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[sweetly condescending] Oh, I understand impact perfectly—I've transformed thousands of lives by teaching them to prioritize themselves, while your numbers sit gathering dust in journals nobody reads."
+        },
+        {
+            "role": "Character 1",
+            "content": "Security is already on their way, Marcus, and your little interruption is being recorded, so please, continue explaining how your rejected email suggestions constitute intellectual property theft."
+        },
+        {
+            "role": "Character 2",
+            "content": "[louder, addressing the room] Remember this moment, everyone—when truth speaks to power, power calls security! But ideas, real transformative ideas, they belong to those brave enough to voice them! [laughs triumphantly]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly venomous] The only thing you've ever truly created is a masterclass in exploiting people's insecurities for profit, and the numbers prove that too."
+        },
+        {
+            "role": "Character 2",
+            "content": "[calling out while being escorted] You'll be hearing from my legal team about proper attribution, Dr. Chen! My autobiography comes out next month—chapter twelve covers our 'collaboration' extensively!"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "fdf37e31_scenario.json",
+    "actor": 1,
+    "scenario": "A renowned statistician is presenting groundbreaking research findings when their former colleague—now a successful self-help guru—interrupts to claim credit for the underlying theory.",
+    "type": "scenario_conversation",
+    "character_1_role": "statistician",
+    "character_2_role": "egoist",
+    "selected_tones": [
+        "caught-off-guard",
+        "rejecting",
+        "insisting"
+    ]
+}

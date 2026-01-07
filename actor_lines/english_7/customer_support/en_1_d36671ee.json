@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, yeah, I'm having trouble with the—the website thing. It's not... I don't know."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem at all! So let me pull up your account here... hmm, what's the email you used to sign up?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's jsmith47 at gmail. Er, I keep clicking but nothing nothing happens."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, okay so I'm seeing account JSM-4728-A here, created October 23rd. Now when you say nothing happens, are you—sorry, which button exactly are you clicking?"
+        },
+        {
+            "role": "Customer",
+            "content": "The blue one? Wait no, purple. Uh, it says checkout but I just—I just can't get past that page."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah okay, so the checkout... let me see what's... hmm, interesting. Your cart shows 2 items, order pending since 11:47 AM, but there's no payment method saved yet."
+        },
+        {
+            "role": "Customer",
+            "content": "Payment method? Um, I typed my card number already. Three times actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Right right, so—and I'm really sorry about this confusion—after you enter the card number, there's actually a... what's the word... a verification step that pops up in a new window?"
+        },
+        {
+            "role": "Customer",
+            "content": "New window? I didn't—wait, how do I know this isn't some scam thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Totally understand that concern! So your bank, er, they require something called 3D Secure—basically code VER-8829-SEC—which means they text you a 6-digit number to confirm it's really you making the purchase."
+        },
+        {
+            "role": "Customer",
+            "content": "I got got a text but, uh, where do I put it? This is so exhausting honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, tech can be really... Anyway! So there should be a small white box, probably says \"Enter verification code\" right below where you typed the card?"
+        },
+        {
+            "role": "Customer",
+            "content": "Below? Hmm. Oh oh oh wait, I have to scroll down?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep yep yep!"
+        },
+        {
+            "role": "Customer",
+            "content": "Okay I'm—no wait, it disappeared. The box. Er, where'd it go now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah that happens when the session times out after... looks like 5 minutes? But here's what we'll do—between you and me, I can process this manually using reference MAN-PROCESS-7792 if you'd rather just give me the details over the phone?"
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? Um, is that... how do I know that's safe though?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Completely fair question! So I'm employee ID CS-4419-B, and actually this whole call is recorded for security—transaction log TRX-20241107-8823—but if you prefer, we could also just walk through the website together step by step?"
+        },
+        {
+            "role": "Customer",
+            "content": "Ugh, let's just—let's do the phone thing. I'm too tired for this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, no worries at all! So I'll need the 16-digit card number first, and then we'll get order ORD-9847-PENDING processed in about... mmm, thirty seconds tops."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "d36671ee_script.json",
+    "actor": 1,
+    "scenario": "embarrassed to admit they don't understand technology very well",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

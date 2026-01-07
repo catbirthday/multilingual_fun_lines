@@ -1,0 +1,87 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[curious] What exactly happened to your server last night?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[sniffle] Oh god, it was... it was a complete nightmare, honestly. The whole RAID array just, like, decided to corrupt itself at 3 AM, and I'm getting these panic alerts on my phone while I'm dead asleep."
+        },
+        {
+            "role": "Character 1",
+            "content": "Did you lose everything?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, see, that's where it gets interesting. We had backups running every six hours, but, um, the last successful one was from Tuesday, so we're looking at maybe four days of data just... gone."
+        },
+        {
+            "role": "Character 1",
+            "content": "Four days seems substantial."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sleepily] Yeah, I mean, it's... it's pretty bad. Most of our clients are understanding, but there's this one company that, uh, they had their entire quarterly report drafts on there, which is basically catastrophic timing."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] Can you recover any of it through forensic methods?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Mmm, we're trying. Got a specialist coming in tomorrow who supposedly can pull fragments from damaged sectors, but honestly? The way the controller failed, I'm not, like, super optimistic about recovering anything meaningful."
+        },
+        {
+            "role": "Character 1",
+            "content": "How much will that specialist cost?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[sigh] Oof, starting rate is eight hundred an hour, minimum five hours. And that's just for the evaluation—actual recovery could run us, I don't know, probably fifteen to twenty thousand if we're lucky."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] The client with the quarterly reports. Are they threatening legal action?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Not yet, but I can feel it coming, you know? Their CEO called me personally at 6 AM, and he was... eerily calm, which somehow feels worse than if he'd just screamed at me."
+        },
+        {
+            "role": "Character 1",
+            "content": "[formal] What does your service agreement stipulate regarding data loss?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Right right."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gasp] Wait. You don't have liability coverage?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh no, we do! We absolutely do. It's just, um, there's this clause about \"reasonable backup intervals\" that's kind of vague, and their lawyers are definitely going to argue that six hours isn't reasonable for critical financial data."
+        },
+        {
+            "role": "Character 1",
+            "content": "When did you last test your backup restoration process?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Errr, that's the really embarrassing part. We test monthly in theory, but the last actual test was, like, maybe October? And it only covered database backups, not the full file system, which is obviously a massive oversight now."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] This must be incredibly stressful for you."
+        },
+        {
+            "role": "Character 2",
+            "content": "Ha, yeah, I haven't... I haven't really slept since it happened. Just been mainlining coffee and staring at recovery logs, hoping something magical appears, but at this point I'm basically just waiting for the other shoe to drop, you know?"
+        }
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue4_27.txt",
+    "actor": 2
+}

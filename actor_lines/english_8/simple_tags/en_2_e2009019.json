@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[very quietly] David? Is that you sitting out here? [pause] I'm sorry, I don't mean to intrude, I just came up to grab something from my storage unit and I saw you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[monotone] Yeah, it's me. [sighs] Couldn't sleep so I thought I'd sit out here for a while where the walls don't feel like they're closing in on me."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] I know we've been neighbors for three years but barely talk beyond mail mix-ups and hallway hellos. [very quietly] But something tells me you're not okay right now, and sitting alone on cold stairs at two in the morning isn't helping."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Not okay is an understatement. [exhales] Got a call from my doctor six hours ago with test results I've been dreading, and now I can't stop calculating how many months I might have left."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] That's an impossible weight to carry alone, especially in these first hours when everything feels surreal and overwhelming. [very softly] I won't pretend to know exactly what you're feeling, but I've sat with many people receiving similar news."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] Six to eight months."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] Those numbers must be screaming in your head right now, drowning out everything else. [pause] But right now, in this moment, you're here, you're breathing, and you don't have to process this alone if you don't want to."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] I haven't told anyone yet, not my sister, not my ex-wife, nobody. [sniffles] You're literally the first person I've said the words out loud to, and we barely know each other."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] Sometimes it's easier to speak the hardest truths to someone without all the complicated history and expectations. [very quietly] There's no performance required here, no need to be strong or optimistic or anything other than exactly what you are right now."
+        },
+        {
+            "role": "Character 2",
+            "content": "I keep thinking about all the stupid stuff I worried about yesterday, like my quarterly report and whether to refinance my mortgage. [bitter laugh] God, what a waste of mental energy on things that don't matter anymore."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very sincerely] Those things mattered yesterday because you were living a different life yesterday, one where the future stretched out predictably. [sighs] It's not stupid to have cared about normal things before your world shifted."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispering] I'm scared of the pain, but more than that, I'm terrified of becoming a burden, of losing myself piece by piece while everyone watches. [voice breaking] My dad went through this and it was horrible."
+        },
+        {
+            "role": "Character 1",
+            "content": "Watching someone you love go through this shapes how you imagine your own journey, I understand that fear completely. [empathetically] But your story doesn't have to be his story, and there are more resources and support options now than even five years ago."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] I should probably try to sleep, process this when my brain isn't running on fumes and shock. [pause] Thank you for stopping, for not just walking past like this was none of your business."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] My door is literally fifteen feet from yours, and I mean this sincerely when I say you can knock anytime, day or night. [very quietly] Processing this will take time, and you shouldn't have to do it in isolation."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] You're a therapist, right? I've seen your mail, doctor something-or-other. [sighs] This must be like bringing your work home in the worst possible way."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] Right now I'm just your neighbor who couldn't walk past someone in pain. [pause] The professional boundaries and ethical considerations are something I can navigate, but basic human compassion doesn't clock out at five."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Would you sit with me for a few more minutes? [shaky voice] I'm not ready to go back to my apartment where everything looks exactly the same even though nothing is."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softly] Of course I'll sit with you. [pause] We can sit here as long as you need, in silence or talking, whatever feels right."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispering] Thank you."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "e2009019_scenario.json",
+    "actor": 2,
+    "scenario": "A therapist discovers their normally reserved next-door neighbor sitting on their shared apartment building stairwell at 2 AM, having just received news of a terminal diagnosis.",
+    "type": "scenario_conversation",
+    "character_1_role": "professional",
+    "character_2_role": "neighbor",
+    "selected_tones": [
+        "delicate",
+        "withdrawn",
+        "quiet"
+    ]
+}

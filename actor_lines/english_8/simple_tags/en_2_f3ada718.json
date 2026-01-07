@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[quietly] I need to ask you something about the Meridian acquisition, but I need to know this stays between us. The numbers aren't adding up, and I found something in their server logs that doesn't make sense."
+        },
+        {
+            "role": "Character 2",
+            "content": "You've been looking at server logs? [pause] That's outside your usual scope. What exactly did you find?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] There's a pattern of data exfiltration starting three months ago, right when the merger talks began. [clears throat] Someone's been siphoning financial projections, but the timestamps match internal access codes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] I've been tracking that same pattern for two weeks now. The breach originates from inside our executive team—someone with C-suite clearance is feeding information to Meridian's competitors."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] Jesus Christ, you're telling me this is corporate espionage? [exhales] We're supposed to present the final merger recommendation to the board tomorrow morning."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] We can't let this deal go through without exposing what's happening. The financial damage alone could destroy both companies, but there's something else—the threat actor is still active."
+        },
+        {
+            "role": "Character 1",
+            "content": "[whispering] Who else knows about this? Because if we're the only two people aware of what's happening, we need to be extremely careful about our next move."
+        },
+        {
+            "role": "Character 2",
+            "content": "[cautiously] Just us for now, but I've been building a forensic trail that's ironclad. [sighs] The problem is, one of the three people who could be doing this signs our paychecks."
+        },
+        {
+            "role": "Character 1",
+            "content": "Thompson, Martinez, or Chen—those are the only executives with that level of access. [long pause] My money's on Martinez; he's been pushing this merger harder than anyone."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] Actually, the digital signatures point to Chen's credentials, but that's what bothers me. It's too clean, too obvious—like someone wants us to think it's him."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] God, this is insane."
+        },
+        {
+            "role": "Character 2",
+            "content": "Welcome to my world. [chuckles]"
+        },
+        {
+            "role": "Character 1",
+            "content": "What's our move here?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[assertive] We document everything tonight, create redundant backups off-site, and then we go to the SEC first thing in the morning. [pause] Internal channels are compromised if one of them is involved."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Thank God you know what you're doing."
+        },
+        {
+            "role": "Character 2",
+            "content": "I've got protocols for this, but I need your financial analysis to prove the damage. Can you quantify what this breach has cost us so far?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[warming] Based on the leaked projections and market movements, we're looking at approximately forty-seven million in lost valuation. [sighs] That's conservative—could be double that if they acted on all the intelligence."
+        },
+        {
+            "role": "Character 2",
+            "content": "[grimly] Then we're not just stopping a bad merger; we're preventing a complete hostile takeover. They're positioning to buy us at a massive discount once the deal fails and our stock crashes."
+        },
+        {
+            "role": "Character 1",
+            "content": "We need to work all night. [determinedly] Coffee?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] Coffee sounds great, and yes, I'm staying until we solve this. That's the difference between a fourth-quarter save and watching everything burn."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "f3ada718_scenario.json",
+    "actor": 2,
+    "scenario": "During a critical merger analysis, the business analyst discovers their threat intelligence colleague has been investigating suspicious activity that could derail the entire deal—and they might be the only two people in the company who know.",
+    "type": "scenario_conversation",
+    "character_1_role": "business analyst",
+    "character_2_role": "threat intelligence analyst",
+    "selected_tones": [
+        "cautious",
+        "revealing",
+        "developing"
+    ]
+}

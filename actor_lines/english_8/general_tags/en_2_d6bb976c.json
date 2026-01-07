@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "I found the manifests, Tommy—the real ones, not the doctored versions you've been filing with customs for the past three years."
+        },
+        {
+            "role": "Character 2",
+            "content": "You shouldn't have come aboard, especially not in the middle of the night like this, not when we're twelve hours from international waters."
+        },
+        {
+            "role": "Character 1",
+            "content": "Twelve hours from what?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] From where corporate jurisdiction ends and maritime law begins, where your spreadsheets and quarterly reports mean absolutely nothing anymore."
+        },
+        {
+            "role": "Character 1",
+            "content": "[incredulous] You're actually threatening me? Your own sister? The one who covered for you when you flunked out of business school to chase this salt water fantasy?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] That fantasy built our father's empire into something real, something that actually moves through the world instead of just existing in portfolios and hedge funds."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter laugh] Built it on what exactly? Because those containers marked 'agricultural equipment' sure as hell aren't carrying tractors, and we both know it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[steadying himself] Sometimes keeping a company alive means navigating waters you never planned to enter—you'd understand that if you ever left your corner office."
+        },
+        {
+            "role": "Character 1",
+            "content": "Don't lecture me about survival when you're the one who's been systematically destroying everything Dad stood for, everything he believed this company could be."
+        },
+        {
+            "role": "Character 2",
+            "content": "[simmering] Dad's dead, Maria. [exhales] He's been dead for five years, and his principles died with him when the banks started circling like sharks."
+        },
+        {
+            "role": "Character 1",
+            "content": "[voice cracking] He trusted you with the fleet, trusted you to keep the family legacy clean, and this is what you've done with that faith?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] I kept us afloat when your brilliant financial strategies would have seen every ship impounded and every crew member on the breadline."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperately] There are other ways, Tommy—legal ways that don't involve smuggling God knows what for people who probably have blood on their hands."
+        },
+        {
+            "role": "Character 2",
+            "content": "Legal ways. [hollow laugh] Like the bankruptcy filing you've been secretly preparing? Yeah, I know about that too—we both have our secrets, apparently."
+        },
+        {
+            "role": "Character 1",
+            "content": "[pleading] That was a contingency plan, a last resort if we couldn't restructure the debt, but we still have options if you just stop this insanity."
+        },
+        {
+            "role": "Character 2",
+            "content": "Stop? [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[shakily] The authorities already know something's wrong—they've been asking questions about our routing patterns, about why we keep changing our navigation logs at the last minute."
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] Then you'd better decide quickly whether you're going to turn in your own brother or help me navigate us through this storm we're both caught in now."
+        },
+        {
+            "role": "Character 1",
+            "content": "[whispered] How did we get here, Tommy? How did we go from Sunday dinners at Dad's house to me standing on your bridge, begging you not to destroy us?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[softly] We got here one compromise at a time, one impossible choice after another, until the only way forward was through waters neither of us wanted to sail. [pause] But we're still family, Maria—that has to count for something."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "d6bb976c_scenario.json",
+    "actor": 2,
+    "scenario": "A CFO boards her brother's cargo ship after discovering their family's shipping company has been smuggling contraband alongside legitimate cargo for years.",
+    "type": "scenario_conversation",
+    "character_1_role": "CFO",
+    "character_2_role": "marine navigator",
+    "selected_tones": [
+        "simmering",
+        "faith-filled",
+        "liquid"
+    ]
+}

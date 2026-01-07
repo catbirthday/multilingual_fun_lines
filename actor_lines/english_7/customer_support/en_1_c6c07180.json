@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So I try explain—no wait—the email say one thing but website show different thing, why always like this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay, um, I can definitely help sort that out. Let me just... hmm... pull up your account here. Can you give me your order number or email address so I can see what's going on?"
+        },
+        {
+            "role": "Customer",
+            "content": "Email is—how I say—M-A-R-T-A dot seven three at gmail, of course system probably lose it already."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, MARTA73@gmail.com... er, okay I'm seeing your account here. So there's actually—wait, that's interesting—I'm showing two different orders, one is ORD-9847-XL and another one that's... uh... ORD-9852-XL from yesterday?"
+        },
+        {
+            "role": "Customer",
+            "content": "Two order? No no I make—wait I click twice maybe—stupid website make me click hundred time nothing work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Yeah so, mmm, what happened is the system... it's showing both orders went through. The first one for $47.99 and the second for the same amount. Were you trying to order just one item?"
+        },
+        {
+            "role": "Customer",
+            "content": "One item yes! See this always—no I mean—they take money twice now great perfect typical."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I totally understand the frustration. Alright so... er... what I can do right now is cancel that duplicate order, ORD-9852-XL, and process the refund immediately. Should hit your account in, uh, about 3-5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Three five days? But they take money instant fast no problem, refund is—how you say—like pulling teeth yes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I know, it's... hmm... it's honestly one of those banking things that's out of our control. But let me—actually wait—I might be able to... yeah, I can issue you a instant credit code, RFD-7823-COMP, that you can use right away."
+        },
+        {
+            "role": "Customer",
+            "content": "Credit code sure sure last person say this too—wait no—code never work email never come what's different now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No I hear you. Look, I'm... I'm putting this code directly in your account right now. Not emailing it. It's showing active in our system as of... er... 2:47 PM Eastern. You should see it under \"My Credits\" when you log in."
+        },
+        {
+            "role": "Customer",
+            "content": "My credits where—I look before—nothing there empty like always why I even bother trying honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mm-hmm. So if you're... oof, okay I see the issue. Your account region is set to EU but you're shopping on the US site. That's why things aren't... hmm... syncing up properly. Need to switch you to US region, postal code 94102, is that right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Nine four one—yes yes San Francisco—so this whole time wrong region nobody tell me this of course."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly it's... it's a really common issue that our system should catch better. Alright, region updated. Now you should—er, actually let me just verify—yep, credit's showing, $47.99 available, and your original order ORD-9847-XL is set to ship tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow ship? Email say—no wait let me check—email say two weeks delivery this make no sense typical."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's... sheesh, that's the standard shipping estimate but I'm actually seeing here that it got upgraded to priority. Tracking number is 1Z999AA10123456784. Should be... mmm... let me calculate... Monday latest, possibly Saturday."
+        },
+        {
+            "role": "Customer",
+            "content": "Saturday Monday—I mean okay fine—you actually fix something maybe or system just lie again probably right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well look, I've... I've added a note to your account, reference number CASE-2847-SPT, so if anything goes sideways, any rep can see exactly what we discussed. And honestly? Call back if it doesn't show by Monday. Ask for tier 2 support, mention that case number, they'll make it right."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "c6c07180_script.json",
+    "actor": 1,
+    "scenario": "confused because English isn't their first language and they're struggling to explain",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

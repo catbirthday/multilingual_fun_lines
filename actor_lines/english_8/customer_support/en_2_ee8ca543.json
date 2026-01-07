@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I've been charged for six months. Six. For something I'm not even using."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, let me pull up your account here... okay so I'm seeing subscription ID PRM-4472-NK9, and it looks like—oh wow, yeah, you're right, there's been no activity since March."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly! I mean, I kind of forgot about it but that's not—shouldn't there be reminders?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right, there should be. Let me see here... what's the word... the notification settings show as, er, inactive? That's odd. I'm looking at your account ending in 8829, and hmm, something definitely went wrong with our reminder system."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been a customer for, um, three years. This is just—it's ridiculous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I completely understand your frustration. Okay so that means... actually, I can see you've been with us since 2021, account creation date shows February 14th, and you know what? Let me check with my supervisor about getting you a full refund for those inactive months."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? I thought—er, I mean, I probably should've noticed sooner."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look, these things happen, especially with, uh... let me think... recurring subscriptions that don't send proper alerts. Your registered email is the one ending in @dentalcare.net, right? I'm going to make sure this gets fixed properly."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that's right. Um, honestly I feel kind of dumb for not catching it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh please don't—no, this is on us. Hmm, what if we... actually, I'm seeing here that I can process refunds for up to 180 days, which covers all six months at $14.99 each, so that's $89.94 total coming back to your card ending in 7761."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh wow. I wasn't expecting—that's actually really great."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so... er, let me just get this processed. Your reference number is going to be REF-20241209-KX8, and basically you should see that refund within 3-5 business days on your statement."
+        },
+        {
+            "role": "Customer",
+            "content": "This is, uh, way better service than I expected. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, that's what I'm here for! Now, um, regarding the subscription itself—did you want to keep it active or should I go ahead and cancel? The system shows it's the Premium Wellness Plan, product code WP-PREM-Q4."
+        },
+        {
+            "role": "Customer",
+            "content": "Cancel it. Definitely. I haven't used it since, er, probably February?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done! Cancelled as of... let's see... 11:42 AM Pacific Time today. Oh and I'm also adding a note to your account—customer ID 559284—about the notification failure so our tech team can investigate what went wrong there."
+        },
+        {
+            "role": "Customer",
+            "content": "You've been really helpful. Sorry I was kind of, um, harsh at first."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, please, you had every right to be upset! Hmm, before you go though—I'm putting in a ticket, number TK-88291-B, to make sure you get an email confirmation of everything we discussed today, including that refund amount."
+        },
+        {
+            "role": "Customer",
+            "content": "That's perfect. Yeah, I really appreciate you sorting this out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely my pleasure! And hey, if you need anything else, our direct line is 1-800-924-7735, just reference today's case number CS-1209-4K when you call. Take care!"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "ee8ca543_script.json",
+    "actor": 2,
+    "scenario": "dental hygienist, embarrassed she forgot to cancel a subscription for six months",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

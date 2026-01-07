@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[warily] Look, I came here because you said you had documents about the Riverside Bridge project from 1952, something about my grandfather Frank Morrison, but I'm not sure what you're trying to accomplish here."
+        },
+        {
+            "role": "Character 2",
+            "content": "Please, sit down, and I want you to know that what I'm about to share isn't meant to hurt you or your family's legacy—it's just that the truth has been buried for seventy years. [clears throat]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] My grandfather built half the bridges in this state with his crew, saved dozens of men's lives with his safety protocols, so whatever revisionist history you're peddling, I've heard it all before from people trying to make names for themselves."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] I understand your skepticism, truly I do, and that's exactly why I asked you here instead of publishing this first—these are his own work logs, in his handwriting, documenting the steel gauge substitutions."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stunned] Where did you—those should have been destroyed in the company fire, everyone knows the records were lost, that's why the investigation never found anything conclusive about the collapse."
+        },
+        {
+            "role": "Character 2",
+            "content": "Your grandmother kept them in a safety deposit box for sixty years, then donated them to the university archives when she passed, probably thinking no one would ever look through boxes of old construction paperwork. [sighs] But I did."
+        },
+        {
+            "role": "Character 1",
+            "content": "She knew? My grandmother knew about this the whole time and never said anything, not even when they named that memorial park after him?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[carefully] Based on her margin notes, she discovered the logs after the collapse, after the funerals, after your grandfather took his own life—what would revealing them have accomplished except destroying more families?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[voice breaking] Thirteen people died when that walkway fell, including two kids on a school field trip, and you're telling me he knew the steel wasn't rated for the load."
+        },
+        {
+            "role": "Character 2",
+            "content": "The company was pressuring all the foremen to cut costs, threatening layoffs if they didn't meet the new budgets, and according to these notes, he thought the safety margins were excessive anyway. [pause] He was wrong."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter laugh] So that's why he started drinking, why he'd wake up screaming about falling angels—Mom always said it was from the war, but it was guilt eating him alive."
+        },
+        {
+            "role": "Character 2",
+            "content": "[softly] I've spent two years verifying every detail, cross-referencing with supply records and testimonies, because I wanted to be absolutely certain before bringing this to light—this isn't about destroying anyone's memory."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] Then what is it about?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[measured] Three of the victims' families are still fighting for compensation, still being told it was an act of God, unavoidable, while the construction company's successor corporation posts billion-dollar profits. They deserve the truth."
+        },
+        {
+            "role": "Character 1",
+            "content": "[resigned] My whole life I've worked iron because of him, telling every apprentice about Frank Morrison's legacy, about doing things right even when it's harder and costs more. [exhales heavily] God, what a joke."
+        },
+        {
+            "role": "Character 2",
+            "content": "[compassionately] But you did learn that lesson, even if it came from tragedy rather than virtue—every bridge you've built has exceeded safety standards, your reputation speaks for itself, completely separate from his."
+        },
+        {
+            "role": "Character 1",
+            "content": "When this comes out, and I know it has to, they'll tear down his statue at the union hall, probably rename the scholarship fund, erase him like he never existed at all."
+        },
+        {
+            "role": "Character 2",
+            "content": "[thoughtfully] Or they could add a plaque acknowledging the full history, the pressures and failures and consequences, make it a real memorial to everyone affected—sometimes the most important monuments are to our mistakes. [pause] That's your call to make."
+        },
+        {
+            "role": "Character 1",
+            "content": "[weary] I need copies of everything, the logs, your research, all of it, because if we're going to do this, we're going to do it right—no sensationalism, no speculation, just facts."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Thank you."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "eab31ea0_scenario.json",
+    "actor": 2,
+    "scenario": "An ironworker visits a heterodox historian who claims to have evidence that the worker's grandfather, celebrated for building a famous bridge, was actually responsible for cutting corners that led to a deadly collapse decades later.",
+    "type": "scenario_conversation",
+    "character_1_role": "ironworker",
+    "character_2_role": "heterodox",
+    "selected_tones": [
+        "exhuming",
+        "hesitant",
+        "tactful"
+    ]
+}

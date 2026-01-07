@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Gift card. Shows zero. But I just... hmm, what if it's—no, I checked twice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay let me—actually wait, let me pull that up for you. Do you have the gift card number? It'll be like sixteen digits starting with 4."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... 4829. Then, uh. 5517? Wait no, 5571. 0034. 2901."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, so that's 4829-5571-0034-2901, and I'm—hmm, I'm seeing it was actually used yesterday at 3:47 PM for a purchase of $127.83. But I understand—er, I mean, if you didn't make that purchase, we definitely need to look into this."
+        },
+        {
+            "role": "Customer",
+            "content": "Yesterday? That's not—I mean the card was... Okay so that means someone else?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so unfortunately I can—no wait, let me check something first. The transaction shows it was used online from IP address 192.168.1.42, which is... oof, that's not matching your account location at all. I really wish I could just reverse this instantly but I'll need to file a fraud report."
+        },
+        {
+            "role": "Customer",
+            "content": "Do you know who I am? My company spends... never mind. This is ridiculous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely—look, I get it, this is incredibly frustrating. What I can do—er, actually, let me escalate this right now to our fraud team at extension 7829. They have more tools than I do, though honestly even they might need 24-48 hours to investigate."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty four to... that's Tuesday, wait no, Wednesday. Unacceptable."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, I know, it's—honestly I hate having to say that timeline. Let me try—no, hmm, actually hang on. Your account shows platinum status since 2019. That might give us some options here."
+        },
+        {
+            "role": "Customer",
+            "content": "Finally. Someone notices. So you'll fix it now then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I wish I could—okay so, er, here's what I can do immediately. I'm issuing a temporary credit of $127.83 to your account while we investigate, reference number TMP-8827-QXR. It's not perfect but at least you're not out the money."
+        },
+        {
+            "role": "Customer",
+            "content": "Temporary? Meaning what exactly... if that makes sense, I mean..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so—gosh, I should explain better. Basically once our fraud team at department code FRD-7 confirms it wasn't you, which, um, given the IP location in Nevada when you're in Maine, should be straightforward, it becomes permanent."
+        },
+        {
+            "role": "Customer",
+            "content": "Nevada. I'm in Maine. Obviously fraud then... or wait, could it be..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly, yeah, it's—look, between the location mismatch and the timing at 3:47 PM when your account shows you're usually inactive, it's pretty clear cut. Though I'm limited in what I can guarantee until the review."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if my son... he's visiting Vegas. No that's—sorry, next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, hmm—actually that's good to check. The purchase was at GamerStop location 4421, if that helps narrow it down? But like you said, if he's not there yet then, er, definitely not him."
+        },
+        {
+            "role": "Customer",
+            "content": "GamerStop. In Vegas. Definitely not—I mean... just fix this please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, so you're all set with that temporary credit, and, uh, the fraud team will call from 888-555-0147 within two business days. It's going to be okay—I know this is a pain but these cases usually resolve pretty smoothly."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "d21c7b9a_script.json",
+    "actor": 2,
+    "scenario": "asking why their gift card balance shows zero",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

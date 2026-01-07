@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Is that you? [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Nathan. [clearing throat] I didn't know you still lived in town, or that you'd be coming here today."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Yeah, well, I've been living here the whole time you've been gone. [firmly] I need to pick up a birthday cake for my mom—for Linda, the order should be under Thompson."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Right, the chocolate raspberry with buttercream roses. [slowly] I actually decorated it myself this morning, didn't realize it was for... [trailing off]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[coldly] She's been more of a parent to me than you ever were, so yeah, I make sure her birthdays are special. [pause] Can you just get the cake please?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] Nathan, I know you probably don't want to hear this, but I think about you every single day. [sighs] Working here, starting over, it's all been about trying to get my life together."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sarcastically] How nice for you. [angry] Five years of silence and now you want credit for decorating a cake? [quietly] Do you have any idea what you put me through?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] I left because I was destroying everything I touched—the drinking, the gambling, all of it. [very quietly] Your mother was right to keep me away until I could prove I'd changed."
+        },
+        {
+            "role": "Character 1",
+            "content": "[furiously] Don't."
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] I've been sober for three years now, Nathan. [hesitantly] I kept every school photo your grandmother sent me, every report card she managed to sneak to me before she passed."
+        },
+        {
+            "role": "Character 1",
+            "content": "[upset] Grandma was sending you updates? [bitter] Of course she was, always trying to fix everything for everyone. [exhales] She never could accept that some things can't be fixed."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] She used to come here every Thursday for her sourdough, and she'd tell me how proud you made her—the robotics team, the scholarship offers. [pause] Said you got into MIT early admission."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] Stop acting like you know me. [firmly] You know facts about me, statistics that someone else collected, but you don't actually know who I am or what I've been through."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very sad] You're right, I don't know you anymore. [quietly] But I remember the kid who used to help me build model planes in the garage, who'd stay up past bedtime asking me about the constellations."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] That kid waited by the window for six months thinking you'd come back. [angry] He made up stories about why you left, each one more elaborate than the last, because the truth was too pathetic."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] I wrote you letters every week that first year, but your mother sent them all back unopened. [hesitantly] I kept writing them anyway, they're in a box in my apartment if you ever—"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] I don't want your letters or your explanations or your three years of sobriety. [exhausted] I just want the cake so I can go celebrate with my actual family."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] I put an extra layer of ganache in the middle, the way you used to like it. [pause] And there's no charge—consider it a late birthday present for all the ones I missed. [trailing off]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] My birthday was two weeks ago. [very quietly] But thanks for the cake, I guess, and for not making this worse than it had to be."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispering] Happy birthday, Nathan."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "fcf2683e_scenario.json",
+    "actor": 1,
+    "scenario": "A teenage stepson encounters his estranged biological father, who now works at the local bakery, while buying his stepmom's birthday cake—the first time they've seen each other in five years.",
+    "type": "scenario_conversation",
+    "character_1_role": "stepson",
+    "character_2_role": "bakery counter worker",
+    "selected_tones": [
+        "aware",
+        "diplomatic",
+        "unappreciative"
+    ]
+}

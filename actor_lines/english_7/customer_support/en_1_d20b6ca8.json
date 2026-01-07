@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Okay so... I don't—I don't really know how this works. Need help with something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all, you're in the right place! Let me just pull up your account real quick here, um, can I get your email or phone number that you might've used with us before, and then we'll figure out exactly what's going on and get you sorted?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's under... hmm. Maybe the Gmail? Sorry, I'm bad at this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey no problem whatsoever, happens all the time actually—er, I mean people have multiple emails these days right? So let me try a different approach here, do you happen to have an order number, starts with like ORD dash and then some numbers, or maybe you know roughly when you placed the order?"
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... ordered Tuesday. Or Wednesday. Don't have the number."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, that helps narrow it down, so I'm looking at orders from September 3rd through September 4th, and hmm, what I can do is—actually wait, what product were you ordering? That'll help me find it faster in our system here."
+        },
+        {
+            "role": "Customer",
+            "content": "The—the blue one. Headphones. [sharp inhale] Should I have written this down?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh you're totally fine, don't even worry about it! Okay so blue headphones ordered early this week, let me just... ah there we go, I think I found it, order ORD-9847-BH3, delivering to a Chicago address, zip code starts with 606, does that sound right to you?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah yeah yeah. That's it. So it's... something's wrong with them?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright so, er, looking at your order status here, everything shipped out fine from warehouse WH-7 on Wednesday, tracking number is TRK-88291-QQX if you need it, but um, what kind of issue are you experiencing with them exactly?"
+        },
+        {
+            "role": "Customer",
+            "content": "They just—they just stop. Music cuts out. Thought I broke them already."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ohh okay I see what's happening, so that's actually—hmm, probably either a Bluetooth connectivity thing or, uh, could be the firmware, but let's start simple here, have you tried resetting them by holding the power button for about fifteen seconds until you see the LED flash red three times?"
+        },
+        {
+            "role": "Customer",
+            "content": "Holding it now. Okay okay there's the red. Now what?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So basically what we've done is cleared the pairing memory, now you'll want to—actually wait, first delete them from your phone's Bluetooth settings, then we'll re-pair them fresh, and er, while you're doing that, I'm gonna check if there's a firmware update available for model BH-447X."
+        },
+        {
+            "role": "Customer",
+            "content": "Gone from phone. This is—I'm probably doing something wrong here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, you're doing great actually, really! Okay so turn them back on, should see a blue light flashing, that means they're in pairing mode, and then just, you know, go to your Bluetooth settings and they should pop up as Audio Pro 447X or something similar?"
+        },
+        {
+            "role": "Customer",
+            "content": "Got it. Connected. [exhale] Will they keep doing this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's the thing, I just checked and there is a firmware update from August 28th that specifically fixes intermittent connection drops, version 2.4.1, and what I can do is email you the super easy update instructions to your address on file, takes maybe two minutes tops?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Sure. Sorry for... not knowing stuff."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh my gosh please don't apologize, honestly you did everything right! Called us when something wasn't working, had your order info basically ready to go, followed the troubleshooting perfectly, like you're easier to work with than ninety percent of my calls today, and hey if it acts up again, reference number is REF-QX7739 and we'll get you a replacement no questions asked, sound good?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "d20b6ca8_script.json",
+    "actor": 1,
+    "scenario": "nervous first-time caller who isn't sure how to explain their problem",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

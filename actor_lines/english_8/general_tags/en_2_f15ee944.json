@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[surprised] You're the new janitor? But I've seen your handwriting on those supply request forms—that's classical Arabic calligraphy, the kind they don't teach anymore."
+        },
+        {
+            "role": "Character 2",
+            "content": "Most people here just see a mop and bucket, not the hands that hold them. Yes, I studied calligraphy back home, among other things that don't matter much now."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] They matter. I teach linguistics here, and that script you write—it's beautiful, almost poetic in its precision. Where did you learn such formal techniques?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Damascus University, though that feels like someone else's life entirely. [soft laugh] I taught literature there for fifteen years before the war made poets into refugees and professors into janitors."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stunned] You were a literature professor? My God, and here you are emptying my trash while I complain about freshman essays. This is—this is completely backwards."
+        },
+        {
+            "role": "Character 2",
+            "content": "Backwards, forwards, these directions lose meaning when you're grateful just to be alive and working. [sighs] Your trash can doesn't judge my accent or question my credentials."
+        },
+        {
+            "role": "Character 1",
+            "content": "Your credentials are probably more impressive than half our faculty's. Look, I know the department has some adjunct positions opening up, maybe we could find a way to—"
+        },
+        {
+            "role": "Character 2",
+            "content": "[wistful] You're kind, but my degrees are ashes now, literally burned with the university library. Here, I'm nobody's colleague, just Ahmad who cleans well and stays quiet."
+        },
+        {
+            "role": "Character 1",
+            "content": "That's not true. Knowledge doesn't burn, Ahmad. If you taught literature for fifteen years, that expertise is still there, still valuable, still needed."
+        },
+        {
+            "role": "Character 2",
+            "content": "Needed? [bitter laugh] I've sent over two hundred applications using my real qualifications. The only callback I got was for this janitor position."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] Then the system is broken, not you. Would you consider guest lecturing in my comparative literature seminar? Just one class, talking about Arabic poetry, paid of course."
+        },
+        {
+            "role": "Character 2",
+            "content": "You want me to stand before your students? They'll see a janitor playing professor, not a scholar sharing knowledge. [quieter] I'm not sure I remember how to be that person anymore."
+        },
+        {
+            "role": "Character 1",
+            "content": "You never stopped being that person. Every note you leave in perfect calligraphy, every time you reorganize my scattered books by linguistic origin—you're still teaching, just differently."
+        },
+        {
+            "role": "Character 2",
+            "content": "[slowly warming] You noticed the book organizing? I couldn't help myself; seeing Rumi next to automotive manuals physically hurt me."
+        },
+        {
+            "role": "Character 1",
+            "content": "[chuckles] I thought I was going crazy! But it made so much more sense your way. Please, one guest lecture. Let me introduce you properly to the academic community here."
+        },
+        {
+            "role": "Character 2",
+            "content": "One lecture. [exhales] But I choose the topic—not refugee poetry or war literature. I want to teach them about Al-Mutanabbi, about beauty that existed before everything burned."
+        },
+        {
+            "role": "Character 1",
+            "content": "Absolutely, whatever you want to teach. We'll start with one class and see what happens. Sometimes the smallest door opens onto the largest room."
+        },
+        {
+            "role": "Character 2",
+            "content": "[voice lifting] There's an old saying—'The ink of scholars is holier than the blood of martyrs.' Perhaps some ink remains in these janitor's hands after all."
+        },
+        {
+            "role": "Character 1",
+            "content": "More than remains, Ahmad. [warmly] It's been waiting to flow again. How's next Thursday at 2 PM? I'll make sure the department knows exactly who they're hearing from."
+        },
+        {
+            "role": "Character 2",
+            "content": "[genuinely moved] Thursday at 2 PM. I'll be there, and for once, I won't be carrying a mop. Thank you for seeing what others choose not to see."
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "f15ee944_scenario.json",
+    "actor": 2,
+    "scenario": "A linguistics professor discovers that the university's new janitor is actually a former literature professor from Damascus, now working the only job his refugee status allows.",
+    "type": "scenario_conversation",
+    "character_1_role": "professor",
+    "character_2_role": "refugee",
+    "selected_tones": [
+        "understanding",
+        "welcoming",
+        "uncovering"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I received my statement and the three hundred dollar credit from last month wasn't applied to my primary account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for that error. Let me pull up your account information. May I have your primary account number ending in the last four digits?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 7842. The credit should have gone there but somehow ended up elsewhere."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I see your primary account ending in 7842 and I can confirm the $300 credit was mistakenly applied to your secondary account ending in 3961."
+        },
+        {
+            "role": "Customer",
+            "content": "That's disappointing. I specifically requested it go to the primary account when I spoke with someone last month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration. I can see the original request in our system dated November 3rd with reference number TKT-982547, which clearly specified the primary account."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. How quickly can this be corrected? I need this resolved before my next billing cycle."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm initiating an immediate transfer of the $300 credit from account 3961 to account 7842, which will complete within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Will I receive confirmation when the transfer is complete?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll receive an email confirmation to your registered address once the transfer completes, showing transaction ID CRD-445892-R for your records."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Can you also note why this error occurred so it doesn't happen again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "And please ensure my account preferences are updated to default all credits to the primary account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've updated your account preferences right now. All future credits will automatically route to account 7842 unless you specifically request otherwise during a transaction."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. What's the timeline if I need to dispute this further?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The transfer will complete by tomorrow at 3PM Eastern. If there are any issues, I've flagged your case as priority with tracking number PRI-7739824."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the quick response. Please send me a summary of these changes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm sending a detailed summary now to your email on file, which includes the transfer confirmation, preference updates, and case number PRI-7739824 for reference."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for handling this efficiently. That's everything I needed today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. The credit transfer is processing and you'll receive all confirmations within 24 hours. Thank you for bringing this to our attention so we could correct it promptly."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "d9c1c0e4_script.json",
+    "actor": 1,
+    "scenario": "asking why their credit wasn't applied to the correct account",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

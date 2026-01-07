@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[freezing mid-cut] Oh my god. Sarah? Is that... is that really you standing there? I mean, after all these years, I never thought—Jesus, you're actually here."
+        },
+        {
+            "role": "Character 2",
+            "content": "Tommy. Yeah, it's, um... it's me. I heard you worked here but I kept telling myself it was probably a different Thomas Martinez, you know? [nervous laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[setting down knife slowly] Seven years, Sarah. Seven goddamn years without a word, and now you just walk into my shop like you're ordering, what, hot dogs for your scout troop?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensively] Actually, yes. That's exactly what I'm doing."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter laugh] Right, of course. Business as usual. Look, I've got, uh, I've got packages for groups—how many kids we talking about here?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] Twelve. Plus three adults. Listen, Tommy, I know this is, mmm, incredibly awkward, but I didn't know where else to go for quality meat on short notice."
+        },
+        {
+            "role": "Character 1",
+            "content": "[working mechanically] Sure, sure. So that's, let's see... probably need about eight pounds of ground beef, couple packs of hot dogs, maybe some chicken for variety? When's the trip?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved at the practical talk] This weekend, actually. We're heading up to Pine Ridge for three nights. The kids are really excited about learning outdoor cooking skills and, um, proper food safety."
+        },
+        {
+            "role": "Character 1",
+            "content": "Pine Ridge, huh? [softer] Remember when Dad used to take us up there? Before everything went to shit? Man, we must've burned through a hundred marshmallows every trip."
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, I... I actually take my troops there specifically because of those memories. It's the one place that still feels, I don't know, untouched by all the family drama. [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[abruptly] Why'd you leave, Sarah?"
+        },
+        {
+            "role": "Character 2",
+            "content": "You know why, Tommy."
+        },
+        {
+            "role": "Character 1",
+            "content": "[wrapping meat forcefully] Mom's drinking. Dad's gambling. The constant fighting. Yeah, I get it. But I was still here, you know? Your little brother, dealing with all that shit alone."
+        },
+        {
+            "role": "Character 2",
+            "content": "I was nineteen, Tommy! I was drowning and nobody, literally nobody in that house even noticed I was struggling because everyone was so wrapped up in their own disasters. [voice cracking] I had to save myself."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quieter] And you did. Got your life together, became this, uhh, pillar of the community with your scout troop and everything. Good for you, seriously. Meanwhile, I learned to cut meat."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] Hey, this is a good shop, Tommy. Really good, actually. Mrs. Chen down the street raves about your ribeyes, and she's basically impossible to impress, so that's saying something."
+        },
+        {
+            "role": "Character 1",
+            "content": "Yeah, well, turns out I'm pretty good with a knife. [pause] Dad died two years ago, by the way. Liver finally gave out. Mom's in assisted living now."
+        },
+        {
+            "role": "Character 2",
+            "content": "[stunned] I... Jesus, Tommy, I didn't know. I mean, I heard rumors but I thought maybe people were just, um, exaggerating or mixing up stories. I'm so sorry."
+        },
+        {
+            "role": "Character 1",
+            "content": "[matter-of-fact] Your order's ready. That'll be eighty-seven fifty. And Sarah? The kids'll love Pine Ridge. Take them to that clearing by the creek—best spot for stargazing, if you remember."
+        },
+        {
+            "role": "Character 2",
+            "content": "Tommy, wait. I know I can't just waltz back in and fix seven years of silence, but maybe we could, I don't know, grab coffee sometime? Start somewhere? [hopeful but uncertain]"
+        }
+    ],
+    "content_type": "general_tags",
+    "source_file": "da1a6f35_scenario.json",
+    "actor": 1,
+    "scenario": "A local scout troop leader visits their regular meat cutter to order provisions for a camping trip, only to discover the butcher is their estranged sibling.",
+    "type": "scenario_conversation",
+    "character_1_role": "meat cutter",
+    "character_2_role": "scout",
+    "selected_tones": [
+        "down-to-earth",
+        "dreading",
+        "ready"
+    ]
+}
