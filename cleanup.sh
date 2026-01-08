@@ -7,7 +7,7 @@ if [ ! -d "$BASE_DIR" ]; then
     exit 1
 fi
 
-echo "Starting cleanup..."
+echo "Starting cleanup!"
 
 for actor_dir in "$BASE_DIR"/*/; do
     dir_name=$(basename "$actor_dir")
