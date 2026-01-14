@@ -4,9 +4,8 @@ Remove tags at end of lines that are NOT in the allowed list.
 Logs all removals to address_number_removed_tags_end.txt
 
 Searches files matching:
-  - /workspace/multilingual_fun_lines/actor_lines/english_{I}/new_order_en_{I}_lines_numbered.txt
-  - /workspace/multilingual_fun_lines/actor_lines/french_female_2/new_order_fr_f_lines_numbered.txt
-  - Similar patterns (numbered.txt but NOT tag_match)
+  - /workspace/multilingual_fun_lines/actor_lines/english_{I}/new_order_en_{I}_lines.txt
+  - Similar patterns (_lines.txt but NOT _lines_numbered.txt and NOT tag_match)
 """
 
 import re
@@ -49,16 +48,17 @@ ALLOWED_TAGS_LOWER = {tag.lower() for tag in ALLOWED_TAGS}
 
 
 def find_target_files(base_path="/workspace/multilingual_fun_lines/actor_lines"):
-    """Find all target files matching the pattern (numbered.txt but not tag_match)."""
+    """Find all target files matching the pattern (_lines.txt but not _lines_numbered.txt and not tag_match)."""
     target_files = []
     
-    # Search for all *_lines_numbered.txt files recursively
-    pattern = os.path.join(base_path, "**", "*_lines_numbered.txt")
+    # Search for all *_lines.txt files recursively
+    pattern = os.path.join(base_path, "**", "*_lines.txt")
     all_files = glob.glob(pattern, recursive=True)
     
-    # Filter out files with "tag_match" in the name
+    # Filter out files with "tag_match" in the name or "_lines_numbered" in the name
     for f in all_files:
-        if "tag_match" not in os.path.basename(f):
+        basename = os.path.basename(f)
+        if "tag_match" not in basename and "_lines_numbered" not in basename:
             target_files.append(f)
     
     return sorted(target_files)
@@ -73,9 +73,17 @@ def extract_end_tag(line):
     return None
 
 
+def extract_dialogue_number(line):
+    """Extract dialogue number from start of line (e.g., '1.', '2.', '376.')"""
+    match = re.match(r'^(\d+)\.\s', line)
+    if match:
+        return match.group(1)
+    return None
+
+
 def remove_end_tag(line):
     """Remove tag at end of line and return cleaned line."""
-    # Remove [something] at the very end of the line (and any trailing whitespace)
+    # Remove [something] at the very end of the line (and any trailing whitespace before it)
     cleaned = re.sub(r'\s*\[([^\]]+)\]\s*$', '', line)
     return cleaned
 
@@ -85,7 +93,7 @@ def process_file(filepath):
     Process a single file:
     - Find unlisted end tags
     - Remove them from lines
-    - Return list of (line_num, tag) for removed tags
+    - Return list of (file_line_num, dialogue_num, tag) for removed tags
     """
     removed = []
     modified_lines = []
@@ -94,15 +102,16 @@ def process_file(filepath):
         with open(filepath, 'r', encoding='utf-8') as f:
             lines = f.readlines()
         
-        for line_num, line in enumerate(lines, 1):
+        for file_line_num, line in enumerate(lines, 1):
             line_stripped = line.rstrip('\n')
             tag = extract_end_tag(line_stripped)
             
             if tag and tag.lower() not in ALLOWED_TAGS_LOWER:
                 # Tag is NOT allowed - remove it
+                dialogue_num = extract_dialogue_number(line_stripped)
                 cleaned_line = remove_end_tag(line_stripped)
                 modified_lines.append(cleaned_line + '\n')
-                removed.append((line_num, tag))
+                removed.append((file_line_num, dialogue_num, tag))
             else:
                 # Keep line as-is
                 modified_lines.append(line)
@@ -130,7 +139,7 @@ def main():
     output_file = "address_number_removed_tags_end.txt"
     
     print(f"Searching for files in: {base_path}")
-    print(f"Looking for *_lines_numbered.txt files (excluding tag_match)")
+    print(f"Looking for *_lines.txt files (excluding tag_match and _lines_numbered)")
     print("-" * 60)
     
     target_files = find_target_files(base_path)
@@ -148,13 +157,13 @@ def main():
     print("-" * 60)
     
     # Collect all removed tags
-    all_removed = []  # List of (filepath, line_num, tag)
+    all_removed = []  # List of (filepath, file_line_num, dialogue_num, tag)
     tag_counts = {}   # Count of each unique removed tag
     
     for filepath in target_files:
         removed = process_file(filepath)
-        for line_num, tag in removed:
-            all_removed.append((filepath, line_num, tag))
+        for file_line_num, dialogue_num, tag in removed:
+            all_removed.append((filepath, file_line_num, dialogue_num, tag))
             tag_counts[tag] = tag_counts.get(tag, 0) + 1
     
     # Output results
@@ -182,17 +191,19 @@ def main():
         f.write("\n" + "=" * 60 + "\n\n")
         
         # Detailed locations
-        f.write("## DETAILED LOCATIONS (file, line number, removed tag):\n\n")
+        f.write("## DETAILED LOCATIONS:\n")
+        f.write("# Format: File path | File line | Dialogue # | Removed tag\n\n")
         
         # Group by file
         by_file = defaultdict(list)
-        for filepath, line_num, tag in all_removed:
-            by_file[filepath].append((line_num, tag))
+        for filepath, file_line_num, dialogue_num, tag in all_removed:
+            by_file[filepath].append((file_line_num, dialogue_num, tag))
         
         for filepath in sorted(by_file.keys()):
             f.write(f"### {filepath}\n")
-            for line_num, tag in sorted(by_file[filepath]):
-                f.write(f"  Line {line_num}: {tag}\n")
+            for file_line_num, dialogue_num, tag in sorted(by_file[filepath]):
+                dialogue_str = f"Dialogue {dialogue_num}" if dialogue_num else "N/A"
+                f.write(f"  Line {file_line_num} | {dialogue_str} | {tag}\n")
             f.write("\n")
     
     print(f"\nRemoval log written to: {output_file}")
