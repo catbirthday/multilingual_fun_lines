@@ -172,7 +172,7 @@
 159. Right, I hear what you're saying. The enhancements aren't just visual polish, they're meaningful improvements to functionality—like adding client-side validation to forms or implementing smooth scrolling or dynamic content loading. Each enhancement respects what the user's device and connection can handle.
 160. That's exactly what I've been describing though. Building resilient experiences means your core functionality works even when JavaScript fails, CSS doesn't load, or someone's on a 2G connection. The whole philosophy is about creating systems that gracefully degrade rather than catastrophically fail.
 161. You're absolutely right about that distinction. Graceful degradation starts with the full experience and removes features for less capable browsers, while progressive enhancement starts simple and adds complexity. It's a fundamental difference in mindset and implementation strategy.
-162. [pause] That's actually a really good point I hadn't considered fully. Progressive enhancement does give users more control—they can disable JavaScript if they want, use reader modes, or interact with content however works best for them. The layered approach preserves that flexibility.
+162. That's actually a really good point I hadn't considered fully. Progressive enhancement does give users more control—they can disable JavaScript if they want, use reader modes, or interact with content however works best for them. The layered approach preserves that flexibility.
 163. You're right, there's definitely an ethical component here. We're talking about ensuring equal access to information and services regardless of someone's device, connection speed, or abilities. It's about digital equity as much as it's about clean architecture.
 164. Well, in an ideal world, yes, but there are trade-offs. Some applications genuinely need JavaScript to function—think real-time collaboration tools or complex data visualizations. The key is being intentional about when and why you're requiring certain technologies.
 165. Fair point, absolutely fair. Even JavaScript-heavy apps could provide meaningful fallback content explaining what the application does and maybe offering alternative ways to access the service. A blank page with a spinning loader is never the only option.
@@ -260,9 +260,9 @@
 246. [conflicted] Mr. Harrison, I, uh, I technically shouldn't even have access to this. It's a huge privacy breach, and if my company finds out, I mean, this whole project could get shut down. But seeing your face right now... [sighs heavily]
 247. [quietly determined] You're right. Screw it. Let me, um, let me pull up the full file directory. There's about six hours of audio from that room over those final two days. Should I start from the beginning?
 248. Actually, I think I do. My grandmother had Alzheimer's, and I designed this whole app because I wished I'd recorded more of her stories before she forgot them. [soft smile] Here, I'll sit with you while we listen, if that's okay.
-249. [pressing play] Okay, here we go. And Mr. Harrison? If you want, I can, uh, I can make you a private copy of all of this. Off the books, just... just between us. [pause] Everyone deserves to keep their love stories.
+249. Okay, here we go. And Mr. Harrison? If you want, I can, uh, I can make you a private copy of all of this. Off the books, just... just between us. [pause] Everyone deserves to keep their love stories.
 250. [whispering] The audio quality is actually incredible for an old intercom system. Want me to clean it up a bit, reduce the background noise? I can do that in real-time without losing any of her voice.
-251. [nodding] Of course, yeah, that makes sense. Um, Mr. Harrison? Thank you for trusting me with this. [emotional] I came here to test an app, but this is... this is so much more important than anything I was trying to build.
+251. Of course, yeah, that makes sense. Um, Mr. Harrison? Thank you for trusting me with this. [emotional] I came here to test an app, but this is... this is so much more important than anything I was trying to build.
 252. [defensive] Well, I haven't exactly been working for the past three years, you know? I was basically, err, supporting David's career while he climbed the ladder at his firm.
 253. [bitterly] Try explaining that to a hiring manager when your resume has a giant gap and your ex-husband's lawyer is arguing you don't need spousal support because you're 'employable.'
 254. Fifteen thousand? That's, I mean, that sounds like a lot to ask for when I'm already grateful they're even considering me after being out of the workforce.
@@ -291,7 +291,7 @@
 277. [exhausted] I've already maxed out two credit cards trying to keep the lights on here, literally, because the venue wanted payment upfront after hearing about the investor.
 278. [drained] The marketing's already out there showing the elaborate Victorian setting, and critics are expecting what we promised—we'd look like complete amateurs trying to spin this.
 279. [hopelessly] Even if we manage that, we still need someone to run the lighting board since Marcus quit yesterday when he found out about the money.
-280. [staring at the half-built set] Twenty-three investors said no, twenty-three, and the one who said yes pulled out after his lawyers reviewed our financials.
+280. Twenty-three investors said no, twenty-three, and the one who said yes pulled out after his lawyers reviewed our financials.
 281. [barely audible] At least we tried, right? [long pause] That has to count for something when everyone's asking what went wrong.
 282. [quietly firm] The BPA levels are seventeen times the legal limit, and these are packages for sippy cups and teething rings that babies put directly in their mouths every single day.
 283. How am I supposed to look at my own grandkids knowing I helped poison an entire generation of children because I was too scared to speak up?
