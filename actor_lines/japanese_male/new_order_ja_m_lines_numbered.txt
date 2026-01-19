@@ -88,7 +88,7 @@
 75. Ahh, that's probably using MPI for distributed rendering across multiple nodes. See how the transformation is happening in chunks? Each section is being processed by a different compute node and then, um, stitched together in real-time.
 76. I mean, yeah, absolutely. When you understand how OpenMP can parallelize a simple loop across sixteen cores, or how Metal Performance Shaders can process millions of vertices simultaneously... it's basically magic that we've somehow made real, you know?
 77. Oh that's fascinating! What's driving that decision? Are you feeling burnt out or is it more about pursuing other interests? I've been reading all these studies about the four-day workweek experiments in Iceland and Belgium.
-78. [relieved] Thank god someone else is finally saying this! But wait, how does your company feel about that? Are they supportive or are you worried about career implications? Most places still have this toxic productivity culture.
+78. Most places still have this toxic productivity culture.
 79. You should definitely prepare a solid proposal. What percentage pay cut are you willing to take? Or are you hoping to maintain the same salary? Some companies actually keep full pay because productivity stays the same or even increases.
 80. [excited] There's so much to consider! What would you do with that extra day? Have you mapped out how you'd restructure your existing workdays? Would you work longer hours Monday through Thursday or keep standard hours?
 81. Rest is crucial, absolutely crucial. But have you thought about whether pure rest is what you need versus active recovery? Like, would you pursue hobbies or literally just decompress? What does rest even mean to you?
