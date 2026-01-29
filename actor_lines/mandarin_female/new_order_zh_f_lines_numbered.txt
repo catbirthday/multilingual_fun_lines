@@ -479,7 +479,7 @@
 463. Okay okay, so that error code usually means, er, there might be a browser issue. Let me check your account first though—can you give me the email address you use to log in?
 464. Perfect, I've got your account pulled up here, Sarah. You've been with us since March 2021, and hmm, I can see there was a payment attempt at 2:47 PM today that didn't go through. What browser are you using?
 465. Totally understand the urgency here. So what we're gonna do is, uh, I'm going to walk you through a quick fix that works about 90% of the time. First, can you clear your cache? That's Control-Shift-Delete on Windows.
-466. Ah okay, you've already tried the basics, good good. Let me check something else... interesting, your account shows a security flag from IP address 192.168.1.47. Have you been traveling or using a VPN by any chance?
+466. Ah okay, you've already tried the basics, good good. Let me check something else... interesting, your account shows a security flag from IP address 192.168.1.40.7. Have you been traveling or using a VPN by any chance?
 467. That's exactly it! So basically when our system sees a payment update from a VPN, um, it triggers this protection protocol. Here's what I'm I'm going to do—I'll temporarily whitelist your account for the next 30 minutes so you can update it.
 468. Yes, definitely disconnect first, then, er, give it about 10 seconds and try again. I'm adding note CAS-4429-B to your file so if this happens again, the next agent will know exactly what's going on.
 469. No no, you're absolutely right to be frustrated. Actually, let me set up something better for you—I'm enabling our trusted user bypass, code TUB-8827-X, which means even with your VPN on, you won't hit this wall again.
