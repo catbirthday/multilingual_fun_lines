@@ -1,0 +1,48 @@
+=== Source: cfc8bdc4_script.json ===
+Actor: english_7
+Content Type: customer_support
+Professionalism: casual
+Scenario: asking for help with a transaction that's stuck pending
+
+=== Dialogue ===
+
+Customer: So I have this, um, what's the word... pending charge that's just stuck there?
+
+Customer Support: Oh let me—actually wait, let me pull that up for you. What's what's the amount showing? Sometimes these get stuck in our system for like 72 hours but between you and me, there's usually a trick to unstick them.
+
+Customer: It's for $127.50, and I know this probably isn't your fault.
+
+Customer Support: Okay okay, I see it here—transaction ID TRX-9841-MZ showing pending since, hmm, Tuesday at 3:47 PM. So here's here's what I think happened—the merchant's processor got hung up, but don't worry, I've got a backdoor way to push this through.
+
+Customer: I'm probably doing something wrong, like, did I not confirm it right?
+
+Customer Support: No no no, you're totally fine! This is—actually let me check something—yeah this is 100% on their end. See, when the authorization code A77-K2M doesn't complete within 48 hours, it just sits there. But lucky for you, I know exactly how to fix this.
+
+Customer: Oh good, because basically I was starting to worry it would double-charge me.
+
+Customer Support: Gotcha gotcha.
+
+Customer: So should I, er, call my bank or wait it out?
+
+Customer Support: Honestly? Neither—I'm gonna I'm gonna handle this right now for you. What I'm doing is sending a manual release request, reference number REL-5592-QN, and between us? This usually clears in about 15 minutes instead of the normal 3-5 business days they tell people.
+
+Customer: Wait really? That's... I mean, you don't have to do that for me.
+
+Customer Support: Are you kidding? This is—look, I hate when this happens to people. The pending amount of $127.50 will either complete or drop off within the hour, and I'm putting a note on your account ACC-8847291 so if there's any issue, whoever you talk to next will see exactly what we did.
+
+Customer: You're being so helpful, like, I really appreciate this.
+
+Customer Support: Oh stop stop, this is literally my job! Though I will say—and don't tell my supervisor—I'm expediting this through priority channel PC-7 which technically requires manager approval but, uh, what they don't know won't hurt them, right?
+
+Customer: Haha, your secret's safe. So basically it'll just disappear?
+
+Customer Support: It'll either—hmm, let me explain this better. So so either the $127.50 completes and becomes a real charge, or it drops off completely. Based on error code E-4419 I'm seeing, my money's on it dropping off, then you can just redo the transaction fresh.
+
+Customer: That makes sense. I feel stupid for panicking about this.
+
+Customer Support: Absolutely not!
+
+Customer: Well thanks for, um, making this so easy.
+
+Customer Support: Anytime, seriously! Oh and—actually wait, before you go—I'm adding a $15 courtesy credit, code CRT-9928-LP, to your account for the hassle. Should show up in about 2 hours. Sometimes the system just needs a little human touch, you know?
+

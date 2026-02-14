@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I know this is. Um. Probably annoying but I just—I just need to understand what's covered."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, not annoying at all! *exhales* Honestly, insurance plans are confusing for everyone—I deal with them all day and still get mixed up sometimes. Let me pull up your policy number, it's showing as POL-4482-NK9, and we can go through everything together."
+        },
+        {
+            "role": "Customer",
+            "content": "Thanks. Sorry it's—wait no, I mean—I'm just. Really tired of not knowing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, I completely understand that exhaustion. So looking at your plan here... *soft breath* okay, you've got our Silver Plus coverage which has a $2,500 deductible, and then after that we cover 80% of most services until you hit your out-of-pocket maximum."
+        },
+        {
+            "role": "Customer",
+            "content": "The the maximum is? God I should—sorry, I should know this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, no need to apologize—seriously, this stuff is intentionally complicated. Let me see here... your out-of-pocket max is $7,150 for the year, and hmm, looks like you've already met $1,823 of that so far."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay okay okay. So dental—no wait, is dental? Is dental part of this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*sharp inhale* Ah, so dental is where it gets tricky. Your plan code SLV-PLUS-24 includes preventive dental only—so cleanings twice a year, basic X-rays—but fillings, crowns, that kind of thing would need separate coverage. What were you hoping to get done?"
+        },
+        {
+            "role": "Customer",
+            "content": "I think—no actually—just. Just a cleaning. Maybe."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so that's good news then! Cleanings are fully covered, no copay. Hmm, and I can see... yeah, you haven't used either of your preventive visits this year, so you could schedule one anytime before December 31st."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. And vision is—sorry, the other—is vision separate too?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* Yeah, vision is also separate unfortunately. Let me check what you have... okay so your employer added basic vision as rider VIS-098, which gives you one exam per year plus $150 toward frames or contacts."
+        },
+        {
+            "role": "Customer",
+            "content": "That's Tuesday—wait no, Wednesday. Wednesday they said something about mental health?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ooh yes, mental health—that's actually where your plan is pretty decent. So with your coverage tier, therapy sessions have a $25 copay after you meet your deductible, and there's no visit limit which, honestly, is rare these days."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry you have to. To explain all this. It's it's not your fault it's confusing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw, you're really kind to say that. *breath* Look, between you and me? I think the whole system is backwards—we spend more time decoding coverage than actually helping people get care. Your confirmation number for this call is CNF-7739-XM if you need to reference anything we discussed."
+        },
+        {
+            "role": "Customer",
+            "content": "Thanks. Um. Prescriptions. Are those?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh right, prescriptions! Let me see here... you've got a three-tier formulary, so generics are $10, preferred brands are $35, and non-preferred run about $75, though some specialty meds need prior auth through form PA-2847."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. I just—I just want to. To know I'm covered if something happens."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*long exhale* I hear you, and that worry is so valid. Hmm, what if I email you a simplified breakdown? Not the legal document but like, a real person's guide to your coverage with our direct line 888-424-0931 if questions come up? Would that help ease some of that exhaustion?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "5080cdee_script.json",
+    "actor": 3,
+    "scenario": "trying to understand their coverage and what's included",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

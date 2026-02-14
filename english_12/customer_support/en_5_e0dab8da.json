@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Sorry, quick question—I got this call—no, voicemail about my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, so basically I can help verify that for you. What exactly did the message say, and did they happen to leave any reference numbers or case IDs?"
+        },
+        {
+            "role": "Customer",
+            "content": "Said something about suspicious activity. I'm probably overreacting here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're absolutely right to check. So we've had reports of scam calls lately, and basically what I need is... Can you tell me what number they called from?"
+        },
+        {
+            "role": "Customer",
+            "content": "It was 800—wait no, 888-4921. That's not you guys?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "I knew it. God, I'm so stupid. Almost called them back."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So that's definitely not one of our numbers—ours always start with 800-5544, and basically any legitimate call would reference your account number ending in 7823. You did exactly the right thing calling us first."
+        },
+        {
+            "role": "Customer",
+            "content": "They said to press 1 immediately. Sounded real official."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry, wasting your time with this. Should've known better."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I'm going to do... I'm adding a security flag SF-9012-AA to your account, which basically means any actual issues would trigger a secure message through our app, not a phone call."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—sorry, that's really helpful. Appreciate it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "And between you and me? These scammers are getting really sophisticated lately. We had someone yesterday who almost sent their entire savings to what they thought was our fraud department."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh god. Okay, feeling less dumb now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah."
+        },
+        {
+            "role": "Customer",
+            "content": "Should I report this somewhere? Or just—no, forget it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So actually, yes—if you could forward that voicemail to our fraud team at report@secure.net, reference number FRD-2847-QX92, that would help us track these... It's getting ridiculous how many we're seeing."
+        },
+        {
+            "role": "Customer",
+            "content": "Done. Sorry again for the paranoia."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? Being paranoid about this stuff is smart. We'd rather have you call and check ten times than fall for one of these scams even once, so... yeah, you handled this perfectly."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "e0dab8da_script.json",
+    "actor": 5,
+    "scenario": "wanting to verify legitimacy of a call they received",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

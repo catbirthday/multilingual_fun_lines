@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[exhausted] My hands are still shaking from carrying his coffin. [very quietly] Tommy said you'd be here, that you never left after the accident, just been sleeping on his couch for the past three weeks."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] I couldn't leave, not after what happened. [pause] Every morning I wake up on this couch and for about two seconds I forget, and then it all comes rushing back."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] You should have been the one driving that night. [firmly] He only got behind the wheel because you were too drunk to take your own car home from the bar."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] Don't you think I know that? [gasps] I've replayed that night a thousand times, wishing I'd just called an Uber instead of asking him to pick me up."
+        },
+        {
+            "role": "Character 1",
+            "content": "He always did that for everyone. [trailing off]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] His mom came by yesterday to get some of his things. [hesitantly] She couldn't even look at me, just stood in the doorway while Tommy packed up the boxes."
+        },
+        {
+            "role": "Character 1",
+            "content": "[slowly] Six of us carried him today. [sighs] His brother Jake, his cousin Mike, the guys from work, and me. [very quietly] The weight of it, it wasn't just physical, you know?"
+        },
+        {
+            "role": "Character 2",
+            "content": "I should have been there. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] No, you shouldn't have. [firmly] His family didn't want you there, and honestly, neither did I. [exhales] But here you are anyway, haunting his apartment like some kind of penance."
+        },
+        {
+            "role": "Character 2",
+            "content": "[desperately] Where else am I supposed to go? [shaky voice] My whole life was built around our friend group, and now everyone looks at me like I'm a murderer."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] You're not a murderer. [long pause] You're just someone who made a stupid, selfish decision that ended with our best friend wrapped around a telephone pole."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] I keep thinking if I stay here long enough, he'll walk through that door. [sniffles] Tell me it was all just a terrible nightmare, that we can go back to how things were."
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted] Tommy wants to sell the place, you know. [firmly] Says he can't keep paying rent on a ghost's apartment, especially not with you living here rent-free. [sighs]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] I offered to pay, multiple times. [quickly] But he won't take my money, says it would be like blood money or something."
+        },
+        {
+            "role": "Character 1",
+            "content": "[slowly] The priest today talked about forgiveness. [bitter] Said we need to let go of anger, that holding onto it would dishonor his memory."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Do you think you ever could? [very quietly] Forgive me, I mean. Because I sure as hell can't forgive myself."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] He would have. [sighs] That's the worst part, he would have forgiven you in a heartbeat, probably would have blamed himself somehow for not being careful enough."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] I found his journal yesterday, tucked behind the couch cushions. [crying while speaking] The last entry was about how excited he was for that promotion, how he was finally going to propose to Sarah."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] Sarah was at the funeral. [slowly] She put the engagement ring he'd already bought into the coffin with him. [pause] Said yes to a question he never got to ask."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispering] I'm going to leave tomorrow. [firmly] Pack up what little I have and just go somewhere, anywhere that doesn't have his ghost in every corner. [exhales] Maybe that's the only real apology I can give."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "b344ba38_scenario.json",
+    "actor": 4,
+    "scenario": "A pallbearer arrives at his ex-roommate's apartment after carrying their mutual friend's coffin, only to discover the couch surfer who indirectly caused the accident is still living there.",
+    "type": "scenario_conversation",
+    "character_1_role": "pallbearer",
+    "character_2_role": "couch surfer",
+    "selected_tones": [
+        "genuine",
+        "uneven",
+        "attached"
+    ]
+}

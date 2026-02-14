@@ -1,0 +1,46 @@
+=== Source: dialogue6_25.txt ===
+Actor: english_1
+Content Type: dialogue
+
+=== Dialogue ===
+
+Character 1: We're thinking about implementing single sign-on for our company. What's your take on it?
+
+Character 2: Oh boy, um, single sign-on. Look, I've seen this go wrong so many times. The promise is great—one password for everything—but the reality is, uh, it becomes this massive single point of failure that keeps everyone awake at night.
+
+Character 1: [slurring] But wouldn't it improve security by reducing password fatigue?
+
+Character 2: [laugh] That's what they tell you! But here's the thing—when that one account gets compromised, boom, everything's gone. Plus the integration costs are, mmm, absolutely brutal. We're talking six figures easy for a decent-sized company.
+
+Character 1: What about user experience though?
+
+Character 2: Yeah okay, users love it initially, sure. But then your identity provider goes down and suddenly nobody can access anything—email, files, payroll, nothing. I've seen entire companies grind to a halt for hours.
+
+Character 1: Are there good providers at least?
+
+Character 2: Okta, Auth0, Azure AD—they're all fine until they're not. Remember when Okta got breached? Twice? Their whole business model is being the keys to your kingdom and they, uh, couldn't even protect themselves properly.
+
+Character 1: We have so many password reset tickets though.
+
+Character 2: Right, I get it, but you're trading password resets for a whole different nightmare. Now you need dedicated SSO admins, SAML debugging expertise, and honestly? Half your legacy apps won't even support it properly.
+
+Character 1: What about compliance requirements?
+
+Character 2: [anxious] Oof, compliance actually gets worse sometimes. Auditors start asking about your identity provider's certifications, their data residency, their breach history... it opens up this whole can of worms you weren't even thinking about before.
+
+Character 1: [cough] Could we do a partial rollout?
+
+Character 2: Partial rollouts are the worst of both worlds, seriously. You're maintaining two authentication systems, users get confused about which apps use which login, and your help desk tickets actually increase for like the first year.
+
+Character 1: Is the vendor lock-in that bad?
+
+Character 2: Mmm, it's absolutely terrible. Once you're integrated, switching providers means retooling every single application. I've seen companies stuck paying triple their original contract because migration would cost even more than the price hike.
+
+Character 1: But everyone's moving to SSO, right?
+
+Character 2: Just because everyone's doing it doesn't mean it's smart. I mean, sure, big enterprises with dedicated teams can maybe handle it, but for most companies? It's basically paying tons of money to create new vulnerabilities.
+
+Character 1: [anxious] So you'd recommend against it entirely?
+
+Character 2: Look, if you absolutely have to do it, at least keep critical systems separate. But honestly? Good password managers and proper 2FA training would solve most of your problems for, uh, like a tenth of the cost and hassle.
+

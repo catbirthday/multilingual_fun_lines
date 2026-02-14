@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[confused] You're not what I expected to find at the summit. Where's the beast that's been burning villages for three months straight? I came here prepared for battle, not to meet some child in ceremonial robes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[calmly] The one you call beast sent me to speak in her stead, believing that perhaps words might succeed where centuries of bloodshed have failed. [pause] She's willing to negotiate terms that could end this conflict permanently."
+        },
+        {
+            "role": "Character 1",
+            "content": "Negotiate? After what that monster did to Westmarch, reducing three hundred homes to ash while people slept inside them? You want me to sit here and discuss terms like this is some border dispute?"
+        },
+        {
+            "role": "Character 2",
+            "content": "She deeply regrets Westmarch, though I know those words mean nothing to you now. The hunters from that village had been stealing eggs from her nest for decades, selling them to alchemists for gold."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] So she burns children alive because someone took her eggs? That's the justification you're offering me? I've spent twenty years of my life hunting dragons, and every single one has some sob story to tell."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Those weren't just eggs, they were her last viable offspring after eight hundred years of life. [quietly] Imagine if someone kept stealing human infants from their cribs, grinding them into powder for potions."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] Don't you dare compare dragon spawn to human children! I've seen what those creatures grow into, the devastation they cause. Every dead dragon means hundreds of human lives saved over the centuries to come."
+        },
+        {
+            "role": "Character 2",
+            "content": "[passionately] And every dead human settlement means another generation of dragons raised on stories of your cruelty, trained from birth to fear and hate your kind! [sighs] This cycle has to end somewhere, doesn't it?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[slowly] You speak as if you've lived among them, not just as their messenger. How long have you been serving as this creature's voice? What hold does she have over you?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Seven years. She saved me from the ruins of Westmarch when I was eleven, pulled me from the flames her own rage had created. [pause] I've lived with that irony every single day since."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shocked] You're a survivor of Westmarch? And you stand here defending the very creature that destroyed your family? [exhales] Either you're under some spell or you've lost your mind completely."
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] I've seen both sides of this war now, lived in both worlds, and I'm telling you that neither species is the monster the other believes. She mourns every death, even as she causes them in her grief and fury."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sarcastically] How touching, a remorseful dragon who just can't help murdering innocents. Tell me, does her mourning bring back the dead? Does it rebuild what she's burned?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] No, but your vengeance won't either, will it? You could kill her today and another dragon will rise to avenge her, just as you rose to avenge Westmarch. [speeding up] How many more generations will we feed to this hatred?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] What exactly is she proposing? And don't give me vague promises about peace and understanding. I need concrete terms if I'm even going to consider walking away from this fight."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] Complete withdrawal to the Northern Wastes, no human settlements attacked for one hundred years, and she'll enforce this treaty among her kind. In exchange, humans cease all dragon hunting and egg harvesting immediately and permanently."
+        },
+        {
+            "role": "Character 1",
+            "content": "[skeptical] One hundred years. She'll be alive long after I'm dust, long after anyone who remembers this agreement is gone. [pause] What's to stop her from breaking her word when there's no one left to hold her accountable?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] Me. I'll live those hundred years as her proxy, aging as slowly as she does now that I carry her mark. [very quietly] I'll be the living memory of this treaty, the bridge between our kinds."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stunned] You've bound yourself to her completely then. A human lifespan stretched across centuries, all to maintain a peace that might not even last. [sighs] That's either the noblest or most foolish thing I've ever heard."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sincerely] Perhaps it's both, but someone has to be the first to lower their sword, don't they? [softly] Will you at least meet her, see for yourself that she's more than the monster you've imagined?"
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "fe4206bd_scenario.json",
+    "actor": 6,
+    "scenario": "A veteran dragon slayer arrives at a remote temple to find not the ancient dragon they expected, but a young proxy who speaks on the dragon's behalf, offering a final negotiation before war.",
+    "type": "scenario_conversation",
+    "character_1_role": "dragon slayer",
+    "character_2_role": "proxy",
+    "selected_tones": [
+        "calculated",
+        "contrasting",
+        "seeking"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] So, um, the realtor called me back about the property and she's saying we could list it next week if we both agree to the price. [clearing throat] I mean, I know we said we'd wait until after the holidays but honestly, the market's pretty good right now and I think we should just, you know, get this over with."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] Yeah, sure, whatever you think is best. [pause] I already signed the papers you sent over, didn't really read them that carefully but I trust you're not trying to screw me over or anything."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] Come on, Sam, that's not fair. [firmly] I've been completely transparent about everything, sent you all the comps, the inspection reports, even that estimate for fixing the roof that we never got around to. I mean, this whole thing would be easier if you'd actually engage instead of just, I don't know, floating through it like you're not even here."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Engage? Like how I engaged when you spent every weekend at union meetings instead of working on our marriage?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensively] Those meetings were about protecting people's livelihoods, Sam. [passionately] We were fighting for healthcare benefits, for overtime pay, for basic human dignity in the workplace. I thought you understood that, I thought you actually believed in something bigger than just our little bubble."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] I did believe in it, Marcus, I really did. [sighs] But somewhere along the way, fighting for everyone else became more important than fighting for us, and I just got so tired of always coming second to whatever cause you were championing that week."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angrily] That's such bullshit and you know it. [voice shaking] Every single thing I did was for our future, so we could live in a world where working people actually have a voice, where our kids—if we'd ever had them—wouldn't have to beg for scraps from corporate overlords."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] We never had kids because you were too busy organizing strikes to even discuss it properly."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stunned] That's... wow. [long pause] You really think that's why? Because from where I'm sitting, every time I brought up starting a family, you'd change the subject to renovating that damn rental property or planning another vacation we couldn't afford."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sadly] Maybe we both had our ways of avoiding the real conversations. [trailing off] I guess it doesn't matter now anyway, we're just two people dividing up assets and pretending the last eight years didn't mean anything..."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] They meant something, Sam. They meant everything, actually."
+        },
+        {
+            "role": "Character 2",
+            "content": "Then why are we here, Marcus? Why are we sitting in this stupid coffee shop talking about square footage and closing costs instead of, I don't know, actually trying to fix this?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[regretfully] Because you already moved to Portland, remember? [bitter] You took that job without even discussing it with me, just announced it at dinner one night like it was already decided, like my whole life here, my work with the union, meant absolutely nothing."
+        },
+        {
+            "role": "Character 2",
+            "content": "Your work with the union was the only thing that ever mattered! [crying while speaking] Every conversation somehow became about workers' rights or corporate greed or some new organizing campaign, and I just wanted to talk about us, about our plans, about something that wasn't always a fight against the system."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] Fighting the system is how we protect people like us, Sam. [passionately] It's how we make sure nobody else has to choose between their job and their family, between healthcare and rent, between dignity and a paycheck."
+        },
+        {
+            "role": "Character 2",
+            "content": "But you chose, Marcus. Every single day, you chose the fight over me, and now here we are, dividing up the only thing we managed to build together."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] I never wanted it to be a choice. [sighs] I thought I could have both, thought you understood that the work I was doing was for us too, for our future, but I guess I was wrong about a lot of things."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispering] So was I. [pause] Look, let's just list it at three-fifty like the realtor suggested and split everything down the middle, okay? I can't keep doing this, having these conversations that go nowhere."
+        },
+        {
+            "role": "Character 1",
+            "content": "[resigned] Yeah, okay, three-fifty works. [clearing throat] I'll, um, I'll call her tomorrow and get everything started, and then I guess that's it, right? Eight years wrapped up in a real estate transaction."
+        },
+        {
+            "role": "Character 2",
+            "content": "[standing up] Pretty much, yeah. [very quietly] Take care of yourself, Marcus, and keep fighting your fights, I know they matter to you more than anything else ever will. [trailing off] They always have..."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "a455b7bc_scenario.json",
+    "actor": 1,
+    "scenario": "A union steward meets their separated spouse at a coffee shop to discuss selling their jointly-owned rental property, but the conversation reveals deeper conflicts about their failed marriage and opposing life priorities.",
+    "type": "scenario_conversation",
+    "character_1_role": "union steward",
+    "character_2_role": "separated spouse",
+    "selected_tones": [
+        "progressive",
+        "withdrawn",
+        "crashing"
+    ]
+}

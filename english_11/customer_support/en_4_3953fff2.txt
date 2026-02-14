@@ -1,0 +1,48 @@
+=== Source: 3953fff2_script.json ===
+Actor: english_4
+Content Type: customer_support
+Professionalism: professional
+Scenario: worried about their elderly parent's account and calling on their behalf
+
+=== Dialogue ===
+
+Customer: Good afternoon. I'm calling about my mother's account. She's received several charges she doesn't recognize and I'm quite concerned.
+
+Customer Support: Thank you for reaching out. I understand your concern and I'm here to help. Let me pull up the account. May I have the account number or the primary phone number associated with it?
+
+Customer: The account number is listed on her statement here. It's showing as seven-seven-four-nine-two.
+
+Customer Support: Perfect. I have the account pulled up now. For security purposes, I'll need to verify some information. Are you listed as an authorized user on account 77492, or do you have power of attorney documentation?
+
+Customer: Yes, I have power of attorney. I can provide the documentation number if that helps.
+
+Customer Support: Excellent. Please provide that documentation number and I'll add it to our system. Once verified, I can discuss all account details with you and we'll investigate those charges immediately.
+
+Customer: The POA reference number is LG-four-five-six-eight-three. It was filed with you last March.
+
+Customer Support: Thank you. I've located document LG-45683 in our system, filed March 22nd. You're now verified as the authorized representative. I can see there are 4 charges posted between October 28th and November 2nd that appear unusual.
+
+Customer: Those are exactly the ones. She hasn't made any online purchases and these look like internet transactions.
+
+Customer Support: I see what you're referring to. There are 3 charges from Digital Marketplace LLC totaling $247.89 and one from StreamPlus Entertainment for $49.99. These weren't authorized by your mother?
+
+Customer: Absolutely not. She doesn't use the internet and her card should only be used for groceries and pharmacy purchases.
+
+Customer Support: I understand completely. I'm immediately flagging these as fraudulent. I'll initiate the dispute process for all 4 transactions totaling $297.88, and we'll need to secure the account to prevent further unauthorized use.
+
+Customer: Thank you. What steps do we need to take to protect her account going forward?
+
+Customer Support: I'm implementing several protective measures. First, I'm canceling the current card ending in 8834 effective immediately. A replacement card will arrive within 5 to 7 business days via priority mail to her registered address.
+
+Customer: That's perfect. Will the new card have different numbers for her automatic bill payments?
+
+Customer Support: Yes, it will have a completely new number. I show 3 automatic payments on file: electric utility, prescription service, and supplemental insurance. Would you like me to send you the merchant update forms to provide them with the new information?
+
+Customer: Please do. Can you also add extra security to prevent online transactions entirely?
+
+Customer Support: Absolutely. I'm placing an e-commerce block on the new card, effective immediately upon activation. This means it can only be used for in-person transactions with PIN verification, blocking all online, phone, and mail-order purchases.
+
+Customer: That's exactly what we need. When can we expect the fraud credits to appear?
+
+Customer Support: The provisional credits for $297.88 will post to the account within 24 to 48 hours, by end of business Thursday. The final resolution typically completes within 10 business days, and I'll send confirmation to both your email and your mother's address.
+

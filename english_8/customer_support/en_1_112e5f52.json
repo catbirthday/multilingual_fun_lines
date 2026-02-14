@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically I'm trying to close my account but like... where is that even?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, I totally understand the frustration here—our account closure option is, hmm, honestly kind of buried in the settings which I know is super annoying. Let me pull up your account real quick, um, what's the email address on file?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's j.martinez at... wait, or was it martinez.j? No, first one."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, got it! Okay so I'm looking at account ID ACC-49281-MZ here and, uh, I can definitely help you close this out. Can I ask though—and totally no pressure—but is there anything specific that made you want to leave? Sometimes there's stuff I can fix that people don't even know we can adjust."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean... that's what the last person said though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oof, yeah, I hear you on that one. Look, I'm not gonna give you the runaround here—if you want to close it, we'll close it, done deal. But just so you know, er, looking at your usage pattern USG-7749-K, you've barely touched any of the premium features you're paying for. Would dropping you to the free tier maybe work better?"
+        },
+        {
+            "role": "Customer",
+            "content": "There's a free tier? So why am I paying then if there's..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? It's honestly kind of ridiculous how we don't make that clearer! The free tier launched, hmm, about three months ago—reference code TIER-FREE-2024—and it includes basically everything except the advanced analytics and priority support. You'd keep all your data, all your basic features, just no monthly charge."
+        },
+        {
+            "role": "Customer",
+            "content": "But then how do I... do I still close it or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I can do—actually let me think through this properly... okay, I can either process the full closure right now with confirmation number starting with CLS, or I can switch you to free tier effective immediately, which would be under modification code MOD-8823-FT, and then you can always close it later if you want, no hassle."
+        },
+        {
+            "role": "Customer",
+            "content": "That's what they said last time and then somehow I'm still getting charged so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, that is so frustrating, I'm really sorry that happened. Let me see here... yep, I can see the previous interaction ticket TKT-3928-B where they said they'd switch you but, ugh, it never got processed properly. Tell you what—I'm gonna do this while we're on the phone together and give you a confirmation email right now so you have proof."
+        },
+        {
+            "role": "Customer",
+            "content": "So wait, I'd get the email like... now? While we're talking?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly! I'm actually filling out the form as we speak—just submitted it with batch ID BTH-20241-X and... boom, check your inbox, should be there in literally five seconds. It'll show the zero dollar monthly rate and everything."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Huh. Yeah it's... okay so it says zero dollars starting..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Starting today! And, er, here's the really good news—since we messed up before, I'm putting through a refund for the last two months under credit authorization CRD-6672-RF. Should hit your card in three to five business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? So I get money back and keep using it for free?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! I mean, we dropped the ball here, right? This is the least we can do. Your refund of $47.98 is locked in with transaction ID TXN-884429, and you're on free tier permanently unless you specifically choose to upgrade. No sneaky reactivations or anything like that."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay that's... actually yeah, that works."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! And hey, I'm putting a note in your account—note ID NOTE-7749-SP—that says you've been through this before, so if anything weird happens with billing again, any rep who pulls this up will immediately see the full history and fix it. Is there anything else I can help with while I've got everything pulled up?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "112e5f52_script.json",
+    "actor": 1,
+    "scenario": "trying to close their account but can't find the option",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

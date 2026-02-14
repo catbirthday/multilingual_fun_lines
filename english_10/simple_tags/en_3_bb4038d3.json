@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[bitter] Oh, you're the one who stood up at every meeting cheering for the new shopping complex. [pause] The one who said displaced families were a necessary sacrifice for progress."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Look, I supported the development because the economic projections showed it would bring hundreds of jobs to the area and increase property values for everyone who—"
+        },
+        {
+            "role": "Character 1",
+            "content": "[angry] For everyone who still has property, you mean. [laughs bitterly] My family lived in that house for forty-seven years, three generations under one roof."
+        },
+        {
+            "role": "Character 2",
+            "content": "[formal] The city offered fair market value compensation, and there were relocation assistance programs available to help families transition to new housing situations. [clears throat]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[very loudly] Fair market value? They gave us sixty percent of what similar houses sold for two blocks away because ours was suddenly in a blighted zone!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] The area was deteriorating, the infrastructure was failing, and without development, the whole neighborhood would have continued to decline indefinitely."
+        },
+        {
+            "role": "Character 1",
+            "content": "[mocking] Deteriorating? We had a community garden, a daycare center my grandmother founded, and neighbors who actually knew each other's names. [pause]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[condescending] Those are nice sentiments, but nostalgia doesn't fix broken sewage systems or bring sustainable employment to struggling communities. [sighs]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[furious] You sat there in your suburban home googling statistics while we were packing up photo albums and trying to explain to our kids why we had to leave!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] I understand this is emotional for you, but progress requires difficult decisions, and the greater good sometimes means individual sacrifices have to be made."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sarcastic] The greater good. [exhales] Tell me, how many times have you driven past that shiny new complex you fought so hard for?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] I drive past it on my commute every day actually, and the parking lot is always full, the stores are thriving, people are working there. [pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] People like my daughter."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confused] Your daughter works at the complex? But I thought you were against—"
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] She stocks shelves at the grocery store that replaced our home. [laughs bitterly] Minimum wage, no benefits, but hey, at least she contributed to those employment numbers you love."
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] I didn't realize the personal impact was so—I mean, the reports and projections don't really capture these individual stories, do they?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] No, they don't capture my mother crying when the bulldozer hit our porch, or my son's nightmares about losing his room. [trailing off]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] Maybe I should have visited the neighborhood before speaking at those meetings, actually met the families instead of just reviewing development proposals. [long pause]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted] It's too late for maybe, but there's another eminent domain hearing next month for the east side. Those families deserve better advocates than they got."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very sincerely] Would you be willing to help me understand what questions I should be asking, what the reports don't show? [pause] I want to do better."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "bb4038d3_scenario.json",
+    "actor": 3,
+    "scenario": "A citizen who lost their home to eminent domain confronts an audience member at a city council meeting who vocally supported the development project that displaced them.",
+    "type": "scenario_conversation",
+    "character_1_role": "citizen",
+    "character_2_role": "audience member",
+    "selected_tones": [
+        "antagonizing",
+        "disrespecting",
+        "provoking"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "Hey, is anyone sitting here? The place is packed today."
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh no, go ahead! I was actually just, uh, reading this article about ACL injuries and, wow, the recovery times are way longer than I thought they'd be."
+        },
+        {
+            "role": "Character 1",
+            "content": "[overly polite] Oh I'm so sorry, I didn't mean to interrupt your reading! I can find another spot if you'd prefer."
+        },
+        {
+            "role": "Character 2",
+            "content": "No no, honestly it's fine! I'm kind of procrastinating anyway—supposed to be studying for my sports medicine boards but, er, this seemed more interesting than memorizing muscle insertions for the hundredth time."
+        },
+        {
+            "role": "Character 1",
+            "content": "Wait, you're in sports medicine? That's amazing! I actually just tore my meniscus playing soccer."
+        },
+        {
+            "role": "Character 2",
+            "content": "Ooh, yikes, meniscus tears are tricky. The thing is, like, depending on where exactly the tear is, you might not even need surgery—the outer third has decent blood supply so it can actually heal on its own sometimes."
+        },
+        {
+            "role": "Character 1",
+            "content": "Really? My doctor said I might need arthroscopy."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Well, I mean... okay so arthroscopy used to be the go-to for basically everything, but recent studies are showing that, um, physical therapy alone can be just as effective for certain types of tears."
+        },
+        {
+            "role": "Character 1",
+            "content": "How do you know which type you have?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[slowly] So basically the MRI would show the location and pattern of the tear. If it's a degenerative horizontal tear versus, say, a bucket handle tear, the treatment approach is gonna be completely different, you know?"
+        },
+        {
+            "role": "Character 1",
+            "content": "My MRI report said something about a Grade 2 tear. Is that bad?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Mmm, Grade 2 is like, moderate—you've got signal changes that reach the surface but it's not a complete tear. Honestly, that's actually pretty manageable with the right rehab protocol and, uh, maybe some PRP injections if you're into that sort of thing."
+        },
+        {
+            "role": "Character 1",
+            "content": "PRP? What's that?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh right, so PRP is platelet-rich plasma—they basically spin your own blood to concentrate the healing factors and then inject it back into the injury site. It's kind of controversial still, like, some swear by it but the research is, er, pretty mixed."
+        },
+        {
+            "role": "Character 1",
+            "content": "Have you seen it work for people?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah actually, I've seen some really impressive results, especially with tendon stuff. But then again, I've also seen people drop thousands of dollars on it and get, well, basically nothing, so it's really hit or miss."
+        },
+        {
+            "role": "Character 1",
+            "content": "Thousands? Jesus, that's expensive!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[cough] Right? Insurance usually won't cover it either since they consider it experimental. But hey, if you're looking for something more affordable, there's actually some fascinating research on blood flow restriction training for rehab that's, um, way cheaper and showing great results."
+        },
+        {
+            "role": "Character 1",
+            "content": "Blood flow restriction? That sounds dangerous!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[over confidently] Oh no, it's totally safe when done properly—you're just using these specialized cuffs to partially restrict blood flow during exercise which tricks your muscles into thinking they're working harder than they actually are, so you get strength gains with way lighter weights!"
+        }
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue2_28.txt",
+    "actor": 7
+}

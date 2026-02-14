@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm probably being really dumb but, um, I got charged forty-seven dollars extra on my card?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no worries at all! Let me—actually wait—let me pull up your account. What's your order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... it's, uh, ORD-2947-BK. I think maybe I clicked something wrong?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. Pulling that up now. So I can—hmm—okay I see what happened. You purchased from our UK store. The charge. It's showing £285.00 which converted to $337.47."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, I sort of thought it was in dollars already? God, I'm so stupid."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no! Not stupid. At all. This happens—er—let me check something. The UK site. It doesn't always. Show the conversion clearly."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... wait, there's another fee too, right? I'm looking at my statement."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So your bank—they charged—hang on. Yes. $12.50 for the foreign transaction. On top of the conversion. I'm gonna make sure. We get you a credit for that."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh you don't have to, I mean, this is probably my fault for not reading properly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Stop that! Not your fault. Look I'm—actually no—I'm applying. Store credit. Code CRD-9847-X. Worth $15.00. To cover that bank fee."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, but what if I order internationally again? Like, maybe I should just learn how this works?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Smart thinking. So here's—okay—here's what I'll do. Setting up. An alert. On your account. Profile code INT-ALERT-7. Anytime you're on a foreign site. Big warning. Shows exact USD conversion."
+        },
+        {
+            "role": "Customer",
+            "content": "That's really nice but, er, I feel bad taking credits when I probably should've known better."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen. The system—it should be—look it's not clear enough. That's on us. Your new total. After credit. It's $334.97. Already processed."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so wait, let me think... if the original was three thirty-seven, then... oh God, there's tax too isn't there?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no. International orders. No additional tax. The £285.00. That included. UK VAT already. Twenty percent. Built in."
+        },
+        {
+            "role": "Customer",
+            "content": "Jesus, twenty percent? Erhm, sorry, now I'm worried about my other order from Germany."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me—hold on—checking your history. I see it. Order GMY-4429-Q. That one. Already shipped. Total was €189.00. Converted to $206.71. No surprises there."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh thank God. Okay so basically just, um, always check the currency symbol, right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly. But also. The alert I set up. It'll catch it. Every time. Promise. You're protected now."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a9aaa7b3_script.json",
+    "actor": 2,
+    "scenario": "trying to understand international transaction fees",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

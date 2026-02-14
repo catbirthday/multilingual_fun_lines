@@ -1,0 +1,48 @@
+=== Source: 768da8eb_script.json ===
+Actor: english_3
+Content Type: customer_support
+Professionalism: casual
+Scenario: panicked because their account shows a zero balance when it should have money
+
+=== Dialogue ===
+
+Customer: I'm looking at my account. It says zero. That's not right.
+
+Customer Support: Oh no, that must be so unsettling to see. I completely understand why you'd be concerned. Let me pull up your account right away—can you give me the last four digits of your account number or the card ending?
+
+Customer: It's 3847. I think there should be... maybe two thousand? Sort of around there.
+
+Customer Support: Perfect, thank you. I'm pulling up account ending in 3847 right now and... okay I'm seeing some activity here that might explain what's happening. There was a hold placed at 11:47 PM last night for the full balance, transaction ID TRX-9K4M-8821. I know how alarming this must look...
+
+Customer: A hold. Of course. What kind of hold.
+
+Customer Support: I'm so sorry you're dealing with this. It looks like... well, it's showing as a merchant authorization from Pacific Gas & Electric for $2,127.43, which would be your entire balance. That seems unusually high for a utility payment...
+
+Customer: That's not. I don't. My bill is like a hundred dollars.
+
+Customer Support: Right, exactly, that doesn't make any sense at all. I've seen this happen before with utility companies where their system requests the wrong amount. Let me check something... your normal PG&E payments show as $97 monthly. This is definitely an error on their end.
+
+Customer: So my money is just. Gone. Until when exactly.
+
+Customer Support: I know this is incredibly frustrating. The hold should automatically release within 3-5 business days if PG&E doesn't collect it, but honestly... we don't need to wait that long. I can file an immediate dispute with reference number DSP-7QR9-CC42 and we should have this reversed within 24 hours...
+
+Customer: Twenty four hours. I have bills today. This is... I can't...
+
+Customer Support: Oh, I hear you, I really do. This is affecting your immediate needs. Let me... okay, I'm looking at what else we can do here. You've been a customer since 2019, perfect payment history...
+
+Customer: I just need. Some of it. Probably like three hundred? Maybe?
+
+Customer Support: Absolutely.
+
+Customer: You can do that?
+
+Customer Support: I'm already working on it. I'm issuing a provisional credit for $500 to your account, authorization code AUTH-8MK2-PP91, which will post within the next two hours. The full $2,127.43 will be restored once we complete the dispute investigation, but this gets you immediate access to funds...
+
+Customer: Okay. That's. Thank you. I sort of didn't expect anything.
+
+Customer Support: Listen, I've been doing this for eight years and these automated holds are... they're the worst part of electronic banking. Nobody should have to deal with their money just disappearing. The provisional credit will show as pending in about fifteen minutes, fully available by 2 PM today...
+
+Customer: Two PM. Okay. And the rest is probably... when?
+
+Customer Support: So the full dispute resolution for case DSP-7QR9-CC42 typically completes within 48 hours for merchant errors like this. But between you and me? PG&E usually releases these failed authorizations by tomorrow morning. Either way, your money's coming back. I promise you that.
+

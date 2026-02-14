@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "I already told the MPs everything I saw that night, three different times actually, and now you're dragging me away from my job site to go through it all again. [frustrated] My crew's behind schedule because of this."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Mr. Kowalski, this is a formal Article 32 hearing, not a casual interview. [pause] Your testimony could determine whether Sergeant Williams faces twenty years in military prison for sabotage and desertion."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] Look, I was just running my bulldozer near the motor pool around 2300 hours like the contract specified. [sighs] Night work pays better and there's less brass around asking questions about every little thing."
+        },
+        {
+            "role": "Character 2",
+            "content": "[stern] The surveillance footage shows you stopped your equipment at 2317 hours and walked toward Building 42. [slowly] That's the same building where the explosive devices were later discovered."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angry] I stopped because I saw someone in ACUs carrying something heavy toward that building! [loudly] What was I supposed to do, just keep grading dirt while watching potential theft on a military installation?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[calmly] Please describe exactly what you observed about this individual's appearance and behavior. [formally] Remember, you're under oath and perjury carries serious consequences even for civilian contractors."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] The guy was maybe five-ten, moving real careful like he didn't want to be seen. [pause] He kept looking over his shoulder every few steps, had a duffel bag that seemed way too heavy for normal gear."
+        },
+        {
+            "role": "Character 2",
+            "content": "Did you recognize this person as Sergeant Williams, whom you'd seen multiple times during your three months working on base? [waiting] The prosecution claims you positively identified him to investigators."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] I said it looked like Williams, but the lighting was terrible and he had his patrol cap pulled low. [exhales] I'm not going to sit here and swear a man's life away based on a shadow I saw for thirty seconds."
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] Mr. Kowalski, I understand your reluctance, but we need clarity here. [firmly] Did you or did you not tell Staff Sergeant Chen that you were \"ninety percent sure\" it was Williams?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Ninety percent sure."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] That's a yes then. [formally] Now, you mentioned in your second statement that you heard Williams arguing with Lieutenant Morrison earlier that day about deployment orders, is that correct?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[reluctantly] Yeah, they were going at it near the equipment shed while I was doing maintenance on my excavator. [sighs] Williams kept saying something about not abandoning his sick kid for another tour."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sympathetically] His daughter has leukemia, that's in his personnel file. [pause] But personal hardship doesn't justify sabotaging military vehicles that other soldiers depend on for their safety."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] I'm not defending what he allegedly did, Judge, but I've been around desperate people before. [quietly] When you're backed into a corner watching your kid suffer, rational thinking goes out the window."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] That's for the panel to consider during sentencing if he's convicted. [formally] Right now, I need to know if you saw anyone else in that area between 2300 and 2400 hours."
+        },
+        {
+            "role": "Character 1",
+            "content": "[thoughtfully] There was a maintenance truck that drove past around 2340, but it had its lights on and was moving at normal speed. [remembering] Nothing suspicious about it, just routine night shift from what I could tell."
+        },
+        {
+            "role": "Character 2",
+            "content": "[curious] Did you happen to note the vehicle number or recognize the driver? [quickly] Every detail matters when we're trying to establish a timeline of events."
+        },
+        {
+            "role": "Character 1",
+            "content": "[tired] Judge, I've been over this so many times I'm starting to doubt my own memory. [sighs] But no, I didn't catch the truck number because I was already walking back to my dozer by then."
+        },
+        {
+            "role": "Character 2",
+            "content": "[reassuringly] Your testimony has been consistent across all interviews, Mr. Kowalski, that speaks to your credibility. [formally] This court appreciates your cooperation despite the inconvenience to your work schedule."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "ed8b0058_scenario.json",
+    "actor": 6,
+    "scenario": "A heavy equipment operator working on a military base construction project must testify before a military judge about what he witnessed the night a soldier went AWOL and allegedly committed sabotage.",
+    "type": "scenario_conversation",
+    "character_1_role": "heavy equipment operator",
+    "character_2_role": "military judge",
+    "selected_tones": [
+        "backward-looking",
+        "reliable",
+        "combative"
+    ]
+}

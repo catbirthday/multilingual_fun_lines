@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling about order number 7834-JK. It shows delivered yesterday at 2:47 PM, but I never received it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for contacting us. I apologize for this situation. Let me pull up order 7834-JK right away and review the delivery details to determine what happened."
+        },
+        {
+            "role": "Customer",
+            "content": "I've been home all day yesterday and today. No package was left at my door or mailbox."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. According to our system, the driver marked it delivered to 4827 Oak Ridge Drive at 2:47 PM yesterday afternoon. Can you confirm this is your correct address?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, that's my address. I've checked everywhere including behind bushes and with my neighbors."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "I have security camera footage from yesterday. There was no delivery driver at my property at that time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's very helpful information. I'm filing an investigation report under case number INV-98234-XM. Our logistics team will review the GPS data from the driver's scanner within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "What happens if they can't locate the package? This was a $450 purchase."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern about this valuable order. We have several resolution options available. Once investigation INV-98234-XM is complete, we can either send a replacement immediately or issue a full refund."
+        },
+        {
+            "role": "Customer",
+            "content": "How long will the investigation take? I need these items for a presentation next Tuesday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "The investigation typically completes within 24 to 48 hours. However, given your Tuesday deadline, I'm escalating this to priority status right now under expedite code EXP-7734."
+        },
+        {
+            "role": "Customer",
+            "content": "If you send a replacement, can you guarantee it arrives before Tuesday?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I can process a replacement order today with overnight shipping at no additional charge. It would ship from warehouse facility 382 tonight and arrive Monday by 10:30 AM."
+        },
+        {
+            "role": "Customer",
+            "content": "That would work. Can you send me written confirmation of this arrangement?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'll send detailed confirmation to your email address on file within the next 15 minutes. The email will include your case number INV-98234-XM and replacement order details."
+        },
+        {
+            "role": "Customer",
+            "content": "I also want to ensure I'm not charged twice if the original package appears."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's already handled. I've placed a hold on any duplicate charges using protection code FIN-8829-PP. If the original arrives, you can keep it with our apologies for the inconvenience."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Please confirm my email address before sending the documentation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your confirmation will be sent to the address ending in @techcorp.com that we have on file. You'll also receive tracking information once the replacement ships tonight from distribution center 382."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "ee85658c_script.json",
+    "actor": 6,
+    "scenario": "reporting that their delivery was marked complete but never arrived",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

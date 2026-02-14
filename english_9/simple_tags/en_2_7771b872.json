@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] Oh my god, Sarah?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Daniel."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxiously] I'm just here to, uh, read the meters for the complex, I didn't know you were living in employee housing now. [clears throat] How long have you been back from, um, was it Singapore?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Three years, actually. [sighs] I transferred back to domestic flights after Mom died, thought maybe being closer would help with, you know, everything that happened."
+        },
+        {
+            "role": "Character 1",
+            "content": "[regretful] I tried calling you after the funeral, left probably a dozen messages over the next few months. [pause] Eventually I just figured you needed space or, I don't know, maybe you blamed me for not being there sooner."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] I changed my number the week after we buried her. [exhales] Couldn't handle all the condolences and the questions about why her son wasn't at the hospital when she passed."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] That's not fair, Sarah."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] You chose work over family, Daniel, just like Dad always did. [sniffles] I was holding her hand for three days while you were out reading meters in some subdivision because overtime pay mattered more than—"
+        },
+        {
+            "role": "Character 1",
+            "content": "[loudly] I was trying to pay for her treatment! [quieter] The hospital bills were crushing us and you were halfway around the world, so yeah, I took every shift I could get."
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] I didn't know about the bills. [slowly] You never told me things had gotten that bad financially, just kept saying everything was handled, that I should focus on my flights."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] That's what big brothers do, right? We handle things. [sighs] Or at least we try to, even when we're drowning."
+        },
+        {
+            "role": "Character 2",
+            "content": "God, we really screwed this up, didn't we? [nervously] Five years of silence over misunderstandings and, um, neither of us brave enough to just pick up the phone."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hopefully] Well, I'm here now, checking meters like always, and you're here. [pause] Maybe that's the universe giving us another shot?"
+        },
+        {
+            "role": "Character 2",
+            "content": "I have a flight to Phoenix in four hours, but, uh, maybe when I get back tomorrow night we could grab coffee? [hesitantly] There's this place near the airport that stays open late."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Yeah, I'd like that. [chuckles] I still have your old number saved in my phone, you know, just in case you ever turned it back on."
+        },
+        {
+            "role": "Character 2",
+            "content": "[tearfully] I kept yours too, Danny. [sniffles] Looked at it probably a hundred times, especially on her birthday, but I could never quite hit call."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] We've got time to fix this, Sarah, all the time we need. [exhales] I'm not going anywhere, and apparently neither are you with this employee housing situation."
+        },
+        {
+            "role": "Character 2",
+            "content": "[laughing] Yeah, the irony isn't lost on me that I travel the world for work but ended up living ten minutes from where we grew up. [softly] Maybe I was hoping to run into you."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very sincerely] I'm glad you did, even if it took five years and me literally showing up at your door with a clipboard. [pause] Text me when you land tomorrow?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] I will, I promise. [quietly] It's good to see you again, Danny, even with everything that's happened between us."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "7771b872_scenario.json",
+    "actor": 2,
+    "scenario": "A meter reader discovers the flight attendant living in the airport employee housing complex he's checking is his estranged sibling whom he hasn't seen since their mother's funeral five years ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "meter reader",
+    "character_2_role": "flight attendant",
+    "selected_tones": [
+        "lost",
+        "attentive",
+        "growing"
+    ]
+}

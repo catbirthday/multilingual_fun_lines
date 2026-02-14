@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[confused] You wanted to meet in person instead of over Slack, which is unusual for you. [pause] Is everything okay with the Q3 customer metrics, or is this about something else entirely?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] The metrics are fine, actually better than fine, we're up thirty percent on retention. [sighs] But I need to tell you something about what's happening with our users, specifically the ones using our mental health tracking features."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] Mental health tracking is our fastest growing segment, the investors are thrilled about the engagement numbers. What could possibly be wrong with a tool that's helping thousands of people monitor their wellbeing?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] I've been getting calls, dozens of them, from family members of users who've been using our predictive mood algorithms. [very quietly] Some of these users have been making irreversible decisions based on our predictions about their future mental states."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] Wait, you're suggesting our product is somehow responsible for people's personal choices? [frustrated] We have disclaimers everywhere stating this isn't medical advice, just data-driven insights to help people understand patterns."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] I know you built this with good intentions."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quickly] Of course I did!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] But intentions don't change outcomes, and I've spent the last three weeks talking to a mother whose seventeen-year-old daughter stopped seeking actual therapy because our app told her she was quote-unquote optimizing successfully. [shaky voice] That girl attempted suicide last Tuesday."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] Oh god, I didn't—is she okay? [pause] Please tell me she survived and is getting real help now."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] She's in treatment now, thankfully her brother found her in time. [sighs] But there are others who weren't as fortunate, and I can't keep supporting a product that's replacing professional mental health care with algorithmic predictions."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] So what are you saying exactly? [trailing off] That we should shut down the entire mental health vertical that's keeping this company afloat, or that you're..."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] I'm leaving, my resignation letter is already with HR."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperate] Sarah, please, we can fix this together—we can add more safeguards, partner with actual therapists, completely redesign the predictive elements to be less definitive about outcomes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warm] You're a brilliant product designer, Marcus, and I genuinely believe you want to help people. [pause] But you've been so focused on the elegance of the algorithm that you've lost sight of the messy reality of human suffering."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Easy for you to say when you're not the one who mortgaged their house to fund this startup. [sighs] But you're right about the human element—I got so caught up in the data that I forgot each data point is someone's life."
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] I'm not leaving to punish you or tank the company. [very sincerely] I'm leaving because I need to be able to sleep at night, and I'm hoping my departure makes you really examine what we've built here."
+        },
+        {
+            "role": "Character 1",
+            "content": "[slowly] Would you consider staying if we pivoted completely—turned it into a tool that connects people with licensed professionals instead of replacing them? [hopeful] Use the data to match users with the right therapists, not to predict their futures?"
+        },
+        {
+            "role": "Character 2",
+            "content": "That's the first genuinely helpful idea I've heard from you in months, but the board would never approve such a fundamental shift away from the AI-first approach they invested in."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confidently] Let me worry about the board—they care about sustainable growth more than any specific technology. If we can show them this pivot reduces liability while opening up partnership revenue streams with healthcare providers, they'll listen."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] You'd really be willing to throw away two years of algorithm development to build something that puts human professionals back at the center? [pause] Because if you're serious about this, really serious, then maybe we have something to discuss after all."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "7304ee9a_scenario.json",
+    "actor": 4,
+    "scenario": "A customer success manager confronts the entrepreneur in residence about their mental health app causing real harm to vulnerable users, leading to a resignation threat and potential company pivot.",
+    "type": "scenario_conversation",
+    "character_1_role": "entrepreneur in residence",
+    "character_2_role": "customer success manager",
+    "selected_tones": [
+        "heartening",
+        "understanding",
+        "firm"
+    ]
+}

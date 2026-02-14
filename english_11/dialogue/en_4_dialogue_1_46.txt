@@ -1,0 +1,46 @@
+=== Source: dialogue1_46.txt ===
+Actor: english_4
+Content Type: dialogue
+
+=== Dialogue ===
+
+Character 1: The OAuth implementation is blocking our entire pipeline. Can you help?
+
+Character 2: [passionately] We need to bypass the standard approval chain here. I can get you direct access to the auth service endpoints, but you'll need to implement refresh token rotation within the next sprint cycle.
+
+Character 1: Wait, bypass? Is that even allowed?
+
+Character 2: [sniffle] Technically it's within guidelines if we document it as a critical path optimization. The authorization server's already configured for JWT validation, we just need to whitelist your service account and enable the accelerated flow.
+
+Character 1: How long would the tokens be valid?
+
+Character 2: Standard fifteen minutes for access tokens, but I can extend refresh tokens to seven days. That should eliminate most of your latency issues while maintaining reasonable security boundaries.
+
+Character 1: What about the compliance team?
+
+Character 2: [belly laugh] They signed off on this pattern three weeks ago! As long as we implement proper token introspection and maintain audit logs, we're golden. The real bottleneck was never compliance, it was the manual review queue.
+
+Character 1: [very slowly] So... we can actually ship this week?
+
+Character 2: Absolutely. I've already provisioned the service principals and configured the scopes. You just need to update your client credentials flow to use the new endpoint I'm sending you.
+
+Character 1: What about rate limiting?
+
+Character 2: Ten thousand requests per minute initially, but that's negotiable once you prove stability. The authorization cache layer can handle way more than that, we're just being conservative with new integrations.
+
+Character 1: [very meekly] Could we... maybe get twelve thousand?
+
+Character 2: Done. I'll update the configuration right now. Your client ID already has elevated privileges anyway since you're on the priority acceleration list.
+
+Character 1: [speeding up] This is happening faster than I expected!
+
+Character 2: That's the whole point of having a progress accelerator. We cut through the bureaucracy and get critical services authorized quickly. Your API gateway should start accepting the new tokens within five minutes.
+
+Character 1: Any gotchas I should know about?
+
+Character 2: Just remember to implement token refresh at eighty percent of expiry, not at actual expiration. The auth service gets cranky if you wait until the last second, and nobody wants to debug intermittent 401 errors.
+
+Character 1: Makes sense. Thanks for fast-tracking this.
+
+Character 2: No problem. Send me your integration metrics once you're live and I'll optimize your token validation path even further. Should shave another twenty milliseconds off each request.
+

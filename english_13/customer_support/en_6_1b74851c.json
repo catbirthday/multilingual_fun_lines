@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I just—I need to deal with this charge. You guys billed me for something I never signed up for."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I can definitely help you with that. Um, let me pull up your account here... I'll need your account number, or actually the email address works too if that's easier?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's dave.miller at gmail. The charge was ninety-seven dollars."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, got it. So I'm seeing the charge here from November 3rd, transaction ID TXN-9847-QM2, and it's showing as, uh, premium support package. Can you tell me a bit more about what happened?"
+        },
+        {
+            "role": "Customer",
+            "content": "I never—look, I don't even know what that is. Premium support for what exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, I totally understand the confusion. So this is kind of interesting actually—the premium support gives you 24/7 phone access and priority ticket routing, but er, looking at your usage metrics here, you've never actually used any of these features. Zero tickets, zero calls before today."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Because I didn't know I had it. So can we just—can you remove it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, yes. What I'm gonna do right now is, um, cancel that subscription effective immediately, and honestly? Between you and me, I think I can probably get you a refund for the last three months too, which would be $291 total."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, three—hold on, you're saying I've been paying for this for three months?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so, hmm, it started September 3rd according to what I'm seeing here. But here's the thing—I can see there was never an explicit opt-in confirmation, which is, well, technically required. Let me process that full refund right now, reference number RFN-2893-XK."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay that's—wait no, actually September, that's when I bought the—did this come bundled with something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Bingo! You got it. Er, so when you purchased the software license, order ORD-7729-BN4, there was apparently a pre-checked box for the premium support trial that converts to paid after 30 days. Super sneaky if you ask me."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—Jesus, that's literally illegal isn't it? Pre-checked boxes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean, technically it's sort of a gray area, but yeah, ethically? Not great. Anyway, I've submitted the refund which should hit your card ending in 4782 within 3-5 business days, and I'm also adding a note to flag this pattern for our product team."
+        },
+        {
+            "role": "Customer",
+            "content": "No wait—actually that's not my card. My card ends in 3901."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Hmm, that's... interesting. Let me check something here real quick. Uh, okay so the 4782 card was used for the original software purchase, but you're right, your current default card is the 3901. Would you prefer the refund to go to the 3901?"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't—God, I don't even remember that other card. Is it expired maybe? This is getting really confusing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, no worries at all, we'll figure this out. So the 4782 card shows as still active in our system, but honestly? I can send the refund to whichever card you prefer. The 3901 might be faster since it's your current default."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah just—let's do the current one. The 3901. I need to check what that other card even is."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, done! Changed it to the 3901, confirmation code CFM-1122-RT9. And honestly, while you're checking on that other card, maybe take a peek at any other subscriptions you might have forgotten about—happens to the best of us. Anything else I can help with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "1b74851c_script.json",
+    "actor": 6,
+    "scenario": "complaining about being charged for a service they never used",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

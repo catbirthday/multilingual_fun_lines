@@ -1,0 +1,48 @@
+=== Source: 6e598fb1_script.json ===
+Actor: english_1
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking why their account verification keeps failing
+
+=== Dialogue ===
+
+Customer: Good morning. I've been trying to verify my account for three days now, but the system keeps rejecting my documents.
+
+Customer Support: Good morning, and thank you for reaching out. I understand how frustrating that must be. Let me pull up your account right away. May I have your email address associated with the account?
+
+Customer: Certainly. It's margaret.chen at techcorp dot com. I've submitted my driver's license four times already.
+
+Customer Support: Thank you, Ms. Chen. I have your account here, reference number ACC-8274-MPC. I can see multiple verification attempts since Monday, October 23rd. Let me review what's causing the rejections.
+
+Customer: I appreciate that. The error message just says verification failed with no specific reason given.
+
+Customer Support: I see the issue now. The system is flagging a resolution problem with your uploaded documents. They need to be at least 300 DPI for our security protocols. The ones you've submitted are showing as 72 DPI.
+
+Customer: That explains it. I've been using my phone camera. What's the best way to proceed?
+
+Customer Support: Absolutely, I can guide you through this. You have two options. First, you can use our mobile app version 4.2.1 or higher, which automatically adjusts image quality. Alternatively, I can send you a secure upload link.
+
+Customer: The secure upload link sounds perfect. Can you send that to my registered email?
+
+Customer Support: Certainly. I'm generating a secure verification link with code VER-9823-XKL right now. This link will remain active for 48 hours and allows direct high-resolution uploads from any device.
+
+Customer: Excellent. Will I need to resubmit both my driver's license and utility bill?
+
+Customer Support: Just the driver's license will be sufficient. I've already validated your utility bill from submission 3 on October 24th. Once you upload the license, verification typically completes within 15 minutes.
+
+Customer: That's very helpful. Should I watch for any particular confirmation once it's processed?
+
+Customer Support: Yes, you'll receive two confirmations. First, an SMS to your registered number ending in 7745, then an email with your permanent verification code starting with PVC. Both should arrive within 20 minutes of successful upload.
+
+Customer: Perfect. I'll handle that right after this call. Is there anything else I should know?
+
+Customer Support: I've added a priority flag to your account, reference note PR-4521-B. This ensures your submission goes to our expedited queue. Also, I'm applying a one-time courtesy credit of $25 for the inconvenience you've experienced.
+
+Customer: That's very considerate, thank you. How long will the secure link take to arrive?
+
+Customer Support: The secure link has just been sent. You should receive it within 2 minutes at margaret.chen at techcorp dot com. The email subject line will be "Secure Verification Portal - Reference VER-9823-XKL."
+
+Customer: I appreciate your thorough assistance today. This has been very helpful.
+
+Customer Support: You're very welcome, Ms. Chen. I'm confident we'll have your account fully verified today. If you encounter any issues with the new upload, please reference case number CS-10276-MC and we'll assist you immediately. Have a wonderful day.
+

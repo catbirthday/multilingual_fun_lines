@@ -1,0 +1,87 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "What exactly is corpus linguistics anyway?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[trailing off] It's the study of language using massive collections of real texts. We analyze millions of words to see patterns in how people actually speak and write, not just how grammar books say they should..."
+        },
+        {
+            "role": "Character 1",
+            "content": "[flirtatious] So you're telling me you spend all day reading other people's conversations?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Pretty much! We use computer programs to search through everything from newspaper articles to Twitter posts. The British National Corpus alone has over 100 million words of text."
+        },
+        {
+            "role": "Character 1",
+            "content": "How do you even organize that much data?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[short pause] Everything gets tagged and categorized. Each word gets labeled with its part of speech, then we can search for patterns like how often \"absolutely\" appears before adjectives versus verbs."
+        },
+        {
+            "role": "Character 1",
+            "content": "[passionately] But language changes constantly! How can you keep up?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] That's exactly why we need corpora! They capture language at specific moments in time. We can actually track how words like \"literally\" changed meaning by comparing corpora from different decades."
+        },
+        {
+            "role": "Character 1",
+            "content": "What's the weirdest thing you've discovered?"
+        },
+        {
+            "role": "Character 2",
+            "content": "The word \"nice\" used to mean stupid or foolish in Middle English. Corpus analysis shows it completely flipped meaning over about 300 years—talk about semantic shift."
+        },
+        {
+            "role": "Character 1",
+            "content": "[laugh hard] Wait, so Shakespeare was insulting people when he called them nice?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Exactly! And get this—the phrase \"the proof is in the pudding\" is actually wrong. The original was \"the proof of the pudding is in the eating,\" but the shortened version took over completely."
+        },
+        {
+            "role": "Character 1",
+            "content": "How big is the biggest corpus out there?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[singing] The Google Books corpus has over 500 billion words! Though the Common Crawl corpus of web pages is even bigger—we're talking petabytes of text data."
+        },
+        {
+            "role": "Character 1",
+            "content": "Can corpora predict future language changes?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Not predict exactly, but we can spot trends early. Like seeing \"because\" becoming a preposition—\"because reasons\"—started in internet speak and now it's spreading to spoken English."
+        },
+        {
+            "role": "Character 1",
+            "content": "Do different countries have their own corpora?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Absolutely. The Corpus of Contemporary American English tracks US usage while the British National Corpus covers UK English. The differences in frequency patterns are fascinating."
+        },
+        {
+            "role": "Character 1",
+            "content": "What software do you use for all this?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very loudly] AntConc is popular for beginners, but serious researchers use tools like Sketch Engine or CQPweb! They can process billions of words in seconds and generate concordances instantly!"
+        }
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue1_2.txt",
+    "actor": 3
+}

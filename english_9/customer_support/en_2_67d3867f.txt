@@ -1,0 +1,48 @@
+=== Source: 67d3867f_script.json ===
+Actor: english_2
+Content Type: customer_support
+Professionalism: professional
+Scenario: wanting to update payment information before next billing cycle
+
+=== Dialogue ===
+
+Customer: Good afternoon. I need to update my payment method before my subscription renews next week.
+
+Customer Support: Good afternoon, I'd be happy to assist you with that. May I have your account number or the email address associated with your subscription?
+
+Customer: The email is jackson.chen@techcorpindustries.com.
+
+Customer Support: Perfect. I've located your account, account number ACC-8294-JTC, showing your premium subscription renews on January 28th with the card ending in 4782. Is this the payment method you'd like to update?
+
+Customer: Yes, that card was compromised last week. I have a new one ready.
+
+Customer Support: I understand completely. Let me open our secure payment portal for you. I'll need the new card number, expiration date, and the three-digit CVV code when you're ready.
+
+Customer: The new card number is 4532-8901-2345-6789, expiring March 2027, CVV 842.
+
+Customer Support: Thank you. I'm updating that information now in our PCI-compliant system SEC-7721. The new card ending in 6789 will be your primary payment method effective immediately.
+
+Customer: Excellent. Will this process automatically for the upcoming renewal?
+
+Customer Support: Absolutely. Your next billing date remains January 28th at 11:59 PM Eastern, and the charge of $149.99 will process automatically using your new card ending in 6789.
+
+Customer: Perfect. Could you also remove the old compromised card from my account entirely?
+
+Customer Support: Certainly.
+
+Customer: I'd also like a confirmation email for my records, if possible.
+
+Customer Support: Of course. I've already queued confirmation number CNF-2024-18943 to send to your email at jackson.chen@techcorpindustries.com. You should receive it within the next five minutes.
+
+Customer: Thank you. One more question—will this affect my auto-renewal discount?
+
+Customer Support: Not at all. Your loyalty discount of 15% remains active, so your renewal will be $127.49 instead of the standard $149.99. This discount code DSC-LOYALTY-15 is permanently attached to your account.
+
+Customer: That's exactly what I needed to confirm. I appreciate your efficiency.
+
+Customer Support: You're very welcome. I've also added a security note SNT-0125-CARD to your account documenting the payment update due to the compromised card, which helps our fraud prevention team monitor for any unusual activity.
+
+Customer: That's thoughtful and thorough. Thank you for handling this so smoothly.
+
+Customer Support: My pleasure. Your account is all set with the new payment information. Is there anything else I can help you with today regarding your subscription or account security?
+

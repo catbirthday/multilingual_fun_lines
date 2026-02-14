@@ -1,0 +1,95 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] You're the one who found him, aren't you? [pause] The harbormaster said it was a fisherman named Jake who radioed it in last Tuesday morning."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] Yeah, that was me. [sighs] Found him tangled in my lines about four miles out, near the shelf where the water gets deep."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Of course he'd go out there alone in that rust bucket of his, probably drunk, definitely not wearing a life jacket. [exhales] Some things never change, even after twenty years."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Your father wasn't drunk, and his boat was in perfect condition. [pause] Whatever you think you know about how he lived these last years, you're wrong."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] Don't pretend you knew him better than his own daughter just because you shared the same harbor. [louder] I grew up in that house, I know exactly what kind of man he was."
+        },
+        {
+            "role": "Character 2",
+            "content": "Maybe you knew who he was twenty years ago, but people change. [sighs] He talked about you sometimes, especially after the diagnosis."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shocked] What diagnosis? [shaky voice] Nobody told me he was sick, not the lawyer, not the harbormaster, nobody mentioned anything about him being ill."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] Pancreatic cancer, stage four, found out three months ago. [quietly] He said he'd rather go out on his own terms than waste away in some hospital bed."
+        },
+        {
+            "role": "Character 1",
+            "content": "[crying while speaking] Oh God."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warm] He left something for you on my boat, said if you ever came back, I should give it to you. [pause] It's a lockbox with some papers and recordings he made."
+        },
+        {
+            "role": "Character 1",
+            "content": "[trembling] Recordings? [exhales] He never said more than ten words to me at a time when I lived here, and now he leaves recordings?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[carefully] He started making them after the diagnosis, sitting out on the dock most evenings with an old cassette recorder. [sighs] Said there were things he needed to explain about why your mother left, why he let you go."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angry] My mother didn't leave, she died in a car accident when I was fifteen. [loudly] Unless that's another lie he told everyone at this harbor."
+        },
+        {
+            "role": "Character 2",
+            "content": "The accident wasn't what you think it was. [very quietly] She was leaving that night, had her bags packed, and he knew but didn't try to stop her."
+        },
+        {
+            "role": "Character 1",
+            "content": "[whispering] You're saying he knew she was driving in that storm, knew she was upset and leaving us, and he just let her go? [voice breaking] That he's known this for twenty years?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] He tried to follow her but his truck wouldn't start, battery was dead from the cold. [pause] By the time he got to a phone, the state police were already at the door."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] So that's why he drank himself stupid every night after, why he could barely look at me. [exhales] It wasn't grief, it was guilt eating him alive."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] He stopped drinking eight years ago, joined AA, started helping other fishermen get sober too. [sighs] Even sponsored a couple guys who'd lost their licenses."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] I spent twenty years hating him for being weak, for choosing bourbon over his own daughter. [crying while speaking] And now you're telling me he changed, got better, and I missed it all because I was too proud to call."
+        },
+        {
+            "role": "Character 2",
+            "content": "[softly] The lockbox is on my boat at slip seven whenever you're ready. [pause] Take your time, the recordings aren't going anywhere, and neither am I."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "5d40433a_scenario.json",
+    "actor": 6,
+    "scenario": "A corporate lawyer returns to their coastal hometown after 20 years to settle their estranged father's estate and encounters the lobster fisherman who found their father's body at sea.",
+    "type": "scenario_conversation",
+    "character_1_role": "defended",
+    "character_2_role": "lobster fisherman",
+    "selected_tones": [
+        "perceptive",
+        "rising"
+    ]
+}

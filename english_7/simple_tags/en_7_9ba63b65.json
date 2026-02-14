@@ -1,0 +1,95 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] I need these glasses replicated exactly, they were my father's and, um, they're all I have left of him really. [pause] He passed three weeks ago and I just... I need to have them remade."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] Of course, I understand completely. Let me take a look at these frames here... [examining] Oh, these are interesting, they're definitely vintage, probably European manufacture from the 1960s, maybe Eastern European actually."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confused] Eastern European? No, that can't be right, my father was born here, he was as American as they come. [firmly] He taught me everything about loving this country, about protecting our values and traditions from outside influence."
+        },
+        {
+            "role": "Character 2",
+            "content": "Well, the markings here are definitely Czech, see this little stamp? [pause] That's a Prague optical house marking from 1962."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] Prague. [long pause] He never mentioned Prague, never mentioned anything about... I mean, he always said his family had been here for generations, that we were, you know, real Americans, not like the people flooding in nowadays."
+        },
+        {
+            "role": "Character 2",
+            "content": "[carefully] Sometimes people have complicated histories they don't share. These glasses, um, they're beautifully crafted, whoever wore them took excellent care of them for over sixty years. [softly] That tells me something about the person."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] Look, there must be some mistake here, okay? My father fought for this country, he believed in strong borders, in preserving our culture. [voice shaking] He couldn't have been... he wouldn't have lied to me about something like that."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sighs] I found something else here, tucked behind the nose pad."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] What is it? What did you find? I don't... I'm not sure I want to know actually, but [exhales] just tell me what you found please."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] It's a tiny photograph, looks like a family portrait from the old country. There's Cyrillic writing on the back and, um, what appears to be a date... 1961. [pause] The man in the photo is wearing these exact glasses."
+        },
+        {
+            "role": "Character 1",
+            "content": "[barely audible] That's him, that's my father but younger, much younger. [trembling] And those people with him, I don't recognize any of them, they must be... oh God, they must be the family he left behind."
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] Would you like me to just make the replica? We don't have to talk about this anymore if you don't want to."
+        },
+        {
+            "role": "Character 1",
+            "content": "[melancholic] He spent forty years at those citizenship ceremonies, giving speeches about American values, about how immigrants needed to assimilate completely, leave their old worlds behind. [laughs bitterly] I guess he was speaking from experience, wasn't he?"
+        },
+        {
+            "role": "Character 2",
+            "content": "People are complicated. [pause] Sometimes the things we rail against the hardest are the things we're trying to forget about ourselves."
+        },
+        {
+            "role": "Character 1",
+            "content": "[slowly] All those times he got quiet when I'd rant about immigration, when I'd say things about people not belonging here... [voice breaking] He'd just look at me with these sad eyes behind these glasses and change the subject."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] The prescription is quite strong, he had severe astigmatism, but I can match it exactly. It'll take about a week, and, um, I can return the photograph with them if you'd like to keep it."
+        },
+        {
+            "role": "Character 1",
+            "content": "[long pause] Yes, I want to keep it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] You know, in all my years making glasses, I've learned that how we see the world depends entirely on what lens we're looking through. [pause] Your father's lenses were shaped by experiences you're only just beginning to understand."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] Everything I believed, everything he taught me to believe about who belongs and who doesn't... [sighs] How do I reconcile that with knowing he was exactly the kind of person I've been fighting against my whole adult life?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[sympathetically] Maybe that's not the question you should be asking right now. Maybe the question is, um, what did he see through these lenses that made him the father you loved? [softly] That's the view worth replicating."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "9ba63b65_scenario.json",
+    "actor": 7,
+    "scenario": "A nationalist brings in their deceased parent's glasses to an optical lab technician to have them replicated, discovering during the examination that the parent was an immigrant who hid their origins.",
+    "type": "scenario_conversation",
+    "character_1_role": "nationalist",
+    "character_2_role": "optical lab technician",
+    "selected_tones": [
+        "melancholic",
+        "discovering"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So. Gift arrived. Smashed. They opened it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, I see exactly what happened here—looking at order GFT-9847-XJ, shipped Tuesday at 3:47 PM, and yeah, there's already a damage report filed by the carrier."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course there is. Why wouldn't there be."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically what I'm going to do is process an immediate replacement with priority shipping code PRI-2234-VM, and we'll have it there tomorrow before noon, plus I'm adding a twenty dollar credit."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow. Great. Birthday was today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know this timing is brutal, and honestly, let me see here... okay so I'm also generating a gift message code MSG-7712-QR that you can send them right now explaining the situation with our apologies."
+        },
+        {
+            "role": "Customer",
+            "content": "A message. To explain. Their broken present."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Look, I've been doing this eight years and birthday disasters are the worst—I'm bumping your replacement to our white glove service WG-445, means it arrives in gift presentation packaging with a handwritten apology card."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—no wait—it was supposed to be perfect. Three weeks planning."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's going to be okay, I promise—your tracking number TRK-8923-KLP shows delivery by 11:30 AM tomorrow, and the presentation upgrade usually makes these situations actually turn out better than the original plan."
+        },
+        {
+            "role": "Customer",
+            "content": "She opened it. In front of everyone. Glass everywhere."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's... okay so that changes things—I'm immediately adding incident report INC-5567-BD for safety concerns, which triggers an additional fifty dollar compensation credit, and our team lead will call within the hour."
+        },
+        {
+            "role": "Customer",
+            "content": "You know what's funny? I actually—I tested the company first. Small order. Perfect."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's exactly why this hurts more—your account history shows seven successful orders since January, customer ID CST-2290-XM, perfect record until today, which is why I'm personally ensuring tomorrow's delivery myself."
+        },
+        {
+            "role": "Customer",
+            "content": "Her mom took photos. For the birthday album. So that's. Permanent now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, here's what we're doing—reference number REF-7734-PP for a professional photo recreation service we partner with, they'll digitally fix those photos for the album, completely free, just forward them the images."
+        },
+        {
+            "role": "Customer",
+            "content": "I can't even—like basically everyone thinks I'm cheap now. Damaged discount gift."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So the replacement invoice INV-4421-GK will show the full premium packaging upgrade and express delivery surcharge, totaling an extra eighty-seven dollars over your original order, which we're covering entirely."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. You're actually. That might work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely it'll work—confirmation email hitting your inbox right now at 4:52 PM with all the reference numbers, and honestly, between the upgrade and the photo service, this story becomes about how the company made it right, not what went wrong."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "888b03c3_script.json",
+    "actor": 7,
+    "scenario": "upset because a gift they ordered arrived damaged and the recipient saw it",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

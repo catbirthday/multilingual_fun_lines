@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[shocked] You can't tear this down, this greenhouse has been here since 1952! [shaky voice] My grandmother built it with her own hands after the war, every pane of glass has a story."
+        },
+        {
+            "role": "Character 2",
+            "content": "Look, I've got a work order signed by the property owner, demolition starts in two hours. The structure's been condemned for safety violations, asbestos in the frame joints."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] The property owner is my uncle who hasn't set foot here in twenty years! [loudly] He doesn't understand that this place holds the last remaining specimens of three extinct orchid varieties."
+        },
+        {
+            "role": "Character 2",
+            "content": "[dismissive] Extinct orchids don't pay property taxes, and sentiment doesn't fix structural damage. [sighs] I've been doing this for fifteen years, buildings come down, life moves on."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperate] Please, just give me forty-eight hours to relocate the plants. [very quietly] Some of these specimens are over seventy years old, they're irreplaceable genetic material."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Not happening."
+        },
+        {
+            "role": "Character 1",
+            "content": "You don't understand what you're destroying here! This isn't just glass and metal, it's a living laboratory that's contributed to three Nobel Prize-winning studies."
+        },
+        {
+            "role": "Character 2",
+            "content": "Nobel Prizes don't change the fact that the roof could collapse any minute. My insurance won't cover delays for plant rescue missions, especially not two-day ones."
+        },
+        {
+            "role": "Character 1",
+            "content": "What if I pay you directly? [speeding up] Double your fee to wait, I'll sign a liability waiver, take full responsibility for any accidents or delays that occur."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Money won't bring back the contracts I'll lose if I don't stay on schedule. [pause] The city's watching this job, one delay and they'll pull my license."
+        },
+        {
+            "role": "Character 1",
+            "content": "[crying while speaking] Fine then."
+        },
+        {
+            "role": "Character 2",
+            "content": "[monotone] Look, I can give you ninety minutes to grab what you can carry. [quietly] That's already risking my crew's overtime and pushing our next site visit."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angry] Ninety minutes to save forty years of research? [laughs bitterly] You might as well hand me a teaspoon and tell me to empty the ocean."
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] It's ninety minutes or nothing, and the clock starts now whether you take it or not. [exhales] My crew's already unloading the equipment."
+        },
+        {
+            "role": "Character 1",
+            "content": "[furious] Your crew can unload all they want, but I'm calling the historical society right now. [shaky voice] This greenhouse is eligible for heritage protection, you'll need court approval."
+        },
+        {
+            "role": "Character 2",
+            "content": "[condescending] Heritage protection requires a sixty-day filing period, which I'm guessing you didn't know about. [slowly] The demolition permit supersedes any application filed after issuance."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defeated] So that's it then, you're just going to destroy everything because some paperwork says you can? [very quietly] My grandmother's ghost will haunt this empty lot."
+        },
+        {
+            "role": "Character 2",
+            "content": "[tired] Ghosts don't bother me anymore, I've demolished three churches, two theaters, and a children's hospital. [sighs] Your greenhouse won't even make my top ten regrets."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] I hope when they tear down something you love, the destroyer is exactly as heartless as you're being right now."
+        },
+        {
+            "role": "Character 2",
+            "content": "Everything I loved was already torn down years ago. [very quietly] That's how I ended up in this business, might as well be the one holding the sledgehammer. [pause] Eighty-five minutes left."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "b32791d9_scenario.json",
+    "actor": 5,
+    "scenario": "A botanist returns to her childhood home to find a demolition expert preparing to destroy the historic greenhouse where her late grandmother taught her everything about plants.",
+    "type": "scenario_conversation",
+    "character_1_role": "botanist",
+    "character_2_role": "destroyer",
+    "selected_tones": [
+        "unsupportive",
+        "demanding",
+        "descending"
+    ]
+}

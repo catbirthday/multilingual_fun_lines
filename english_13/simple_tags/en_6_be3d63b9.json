@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[formally] The international tribunal requested we restore your communication lines before the trial proceedings begin next week. [pause] I'll need access to the main junction box in your east wing, and I'll be working here for the next few hours."
+        },
+        {
+            "role": "Character 2",
+            "content": "So they send a common laborer to wire my prison. [bitter] Twenty years ago, I had thousands of men like you building entire communication networks across this nation, and now you come here to give me a single telephone line."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] I'm just here to do a job, nothing more. [clearing throat] The sooner you show me where the junction box is, the sooner I can leave and you can make whatever calls they're allowing you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[melancholic] Do you know what I used these lines for before? [sighs] I spoke to presidents, to generals who commanded armies, to business titans who moved billions with a single word from me."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] I know what you used them for."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] You know nothing! The Western media feeds you lies about mass graves and torture chambers, but they never mention the hospitals I built, the literacy programs, the fact that we had the lowest infant mortality rate in the region under my leadership."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angry] My brother-in-law disappeared after protesting your grain requisitions in '09. [very quietly] His family still doesn't know where his body is buried, so don't lecture me about your achievements while children went hungry to build your palaces."
+        },
+        {
+            "role": "Character 2",
+            "content": "[dismissive] Sacrifices had to be made for progress. [pause] Your brother-in-law chose the wrong side of history, and history is written by those with the strength to shape it, not by telephone repairmen."
+        },
+        {
+            "role": "Character 1",
+            "content": "[controlled] History's being rewritten right now, isn't it? [sarcastically] You're about to go from 'Supreme Leader for Life' to 'Defendant Number One' in front of the whole world, all broadcast through these very lines I'm installing."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] They can try me, execute me if they wish, but my legacy will outlive their tribunals. [sighs] Monuments fall, but ideas persist, and there are still millions who remember when this country stood for something more than being another Western puppet state."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] Your legacy is mass graves and starving villages! [exhales] But I'm not here to argue politics with a dead man walking, just point me to the junction box."
+        },
+        {
+            "role": "Character 2",
+            "content": "[melancholic] Down the hall, third door on the left, though I doubt you'll find what you're looking for. [quietly] The rats have been at the wiring for years now, just like they've been at everything else in this crumbling palace."
+        },
+        {
+            "role": "Character 1",
+            "content": "[professionally] I've dealt with worse conditions in war zones, which ironically, most of them exist because of men like you who thought they could reshape the world through fear and violence. [pause] The wiring will work when I'm done."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Fear and violence? [laughs] Your democratic heroes drop bombs from drones on wedding parties and call it spreading freedom, but when I maintained order in my own borders, suddenly I'm the monster."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] The difference is accountability, something you're about to learn about firsthand when you're sitting in that defendant's chair. [quietly] Your phones will work perfectly for your lawyer calls, for what good they'll do you."
+        },
+        {
+            "role": "Character 2",
+            "content": "Tell me, lineman, when you're splicing those wires together, do you ever think about how many last words have traveled through copper lines like these? [melancholic] How many final goodbyes, how many pleas for mercy that went unheard?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[coldly] I think about the families who never got to say goodbye because of men like you. [sighs] But today I'm just thinking about doing my job and getting out of here before the stench of this place follows me home."
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] The junction box is actually behind a portrait of my father in the hallway. [very quietly] He was a tyrant too, they say, though he only killed his enemies, not his friends like I learned to do."
+        },
+        {
+            "role": "Character 1",
+            "content": "[level] I'll find it and get the work done within the hour, then you can call whoever still takes your calls. [pause] The guards told me you're allowed three international calls per week now, supervised of course."
+        },
+        {
+            "role": "Character 2",
+            "content": "[melancholic] Three calls to a world that's already forgotten me except as a cautionary tale. [exhales] Fix your wires, lineman, and leave me to practice my defense for judges who've already decided my fate."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "be3d63b9_scenario.json",
+    "actor": 6,
+    "scenario": "A telephone lineman is forced to repair communication lines at the palace of a deposed tyrant who is under house arrest awaiting his war crimes trial.",
+    "type": "scenario_conversation",
+    "character_1_role": "telephone lineman",
+    "character_2_role": "tyrant",
+    "selected_tones": [
+        "melancholic",
+        "level",
+        "unfriendly"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I just... I can't do this anymore. Three agents. Three different answers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no oh no oh no that's absolutely not okay I'm so sorry you've been getting the runaround like that I mean I totally understand why you're frustrated because honestly that's one of my biggest pet peeves too when our system doesn't keep everyone on the same page with account notes and ticket number TKT-4892-JK looks like it's been bounced around way too much here."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... Monday they said refund. Tuesday was store credit. Today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so I'm pulling up all the interactions here and wow yeah I can see exactly what you mean there's agent ID A-7739 saying one thing then B-2841 saying something completely different and I think what probably happened is they were looking at different screens because our legacy system and the new platform don't always sync up properly which I know doesn't help you at all right now but I promise we're going to get this sorted."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... no. Forget it. Too tired."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no please don't give up on me here I really want to help and I know you're exhausted from all this back and forth but I think I can actually fix this right now if you can just hang with me for maybe like five more minutes because I'm seeing your original request from October 15th at 2:47 PM and I have the authority to process whatever resolution works best for you."
+        },
+        {
+            "role": "Customer",
+            "content": "October 15th. Right. That's... that's when this started."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly exactly and that's way too long for anyone to be dealing with this kind of confusion so here's what I'm thinking and please tell me if this sounds good to you but I can process a full refund of $847.92 right now to your original payment method or if you prefer the store credit option we're talking $950 which is basically your refund plus a courtesy credit for all this hassle."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... wait. Are you sure? Really sure?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Because the last person said that too. Then called back. Different story."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man I totally get why you don't trust this and honestly if I were you I'd probably be skeptical too but here's the difference I'm actually processing this right now while we're talking not just making notes so your confirmation number is CNF-8827-XPQ and you'll get an email in about thirty seconds and I'm also putting my direct extension 4471 in your file so if anything weird happens you can bypass the queue and come straight to me."
+        },
+        {
+            "role": "Customer",
+            "content": "Thirty seconds? Not three to five business days?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me check... okay. Email's here. CNF-8827-XPQ. That's real?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes yes yes that's absolutely real and binding and processed and I know this whole experience has probably made you lose faith in our customer service but I promise that confirmation is locked in our system and I'm also sending a follow-up to our resolution team with priority flag RES-PRIORITY-1 just to make triple sure nobody can mess with this."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if someone cancels it tomorrow? I just... I need to know."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So that literally can't happen because once a confirmation number starting with CNF is generated it's immutable in our system sort of like how you can't unring a bell and I'm probably not supposed to tell you this but I also just sent a note to my supervisor with your case details so there's multiple people aware of this resolution and we've got your back."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... done? Actually done? For real?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "For real for real completely done and I'm so sorry it took this long and this many calls to get here but yes your refund of $847.92 is processing and you know what I'm also adding a note that any future orders get our VIP support routing code VIP-7742 because after what you've been through you definitely deserve better treatment than bouncing between three different agents with three different stories."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a488a5f2_script.json",
+    "actor": 4,
+    "scenario": "frustrated about inconsistent information from different agents",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

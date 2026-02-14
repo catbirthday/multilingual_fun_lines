@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[confused] Jamie? Is that really you calling me at two in the morning? [pause] We haven't spoken in what, three years since you told Dad to go to hell at Christmas dinner?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[desperately] Look, I know I'm the last person who should be asking you for anything, but I'm completely screwed here. [shaky voice] My laptop's been hit with something and they're demanding fifty thousand dollars or they'll release everything."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] Slow down and tell me exactly what happened. [firmly] Did you click on any suspicious links, open any attachments from unknown senders, or visit any sketchy websites recently?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] I may have been using some cracked software for my design work, okay? [defensive] Not everyone has a cushy tech job like you, some of us have to cut corners to survive."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] Jesus, Jamie, pirated software is literally the number one vector for ransomware attacks. [sighs] What does the ransom note say exactly, and have you touched anything since it appeared?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxiously] It says they have access to my client files, my bank information, and some personal photos that I really, really cannot have leaked. [quietly] There's stuff on there that could ruin what's left of my reputation."
+        },
+        {
+            "role": "Character 1",
+            "content": "[focused] Listen to me very carefully—do not pay them anything, do not click anything else, and definitely do not try to negotiate with them. [quickly] I need you to disconnect that laptop from the internet immediately."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Oh, now you want to help? [sarcastically] Where was this concern when I was getting kicked out of the house for dropping out of college?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[angry] Are you seriously doing this right now? [loudly] You called me for help with ransomware at two AM and you want to rehash family drama?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] You're right, I'm sorry, I'm just freaking out here and taking it out on you. [sighs] I already pulled the ethernet cable and turned off the WiFi."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Good, that's good, you did the right thing there. [warmly] Look, I can probably decrypt this depending on which variant they used, but I'll need to see the machine in person."
+        },
+        {
+            "role": "Character 2",
+            "content": "[surprised] You'd actually do that for me? [quietly] After everything I said about you being Dad's perfect little soldier, following in his corporate footsteps?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] You're still my sibling, Jamie, even if you've been an absolute ass about everything. [pause] Plus, I hate these ransomware crews more than I'm annoyed with you right now."
+        },
+        {
+            "role": "Character 2",
+            "content": "[emotional] I don't even know what to say, I figured you'd just hang up on me or lecture me about being irresponsible again. [voice breaking] Things have been really hard lately."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softly] Bring the laptop to my apartment tomorrow morning, and bring an external drive if you have one we can use for recovery. [firmly] We'll fix this, but afterwards we need to talk about basic security practices."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gratefully] Thank you, seriously, thank you so much for this. [hesitantly] Maybe after we fix this mess, we could grab coffee or something, try to actually talk like normal people?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[cautiously] Let's focus on getting your data back first, then we'll see about the coffee. [sighs] Text me when you're on your way tomorrow, and Jamie—don't turn that laptop back on."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] I won't touch it, I promise, I'll guard it with my life until tomorrow. [nervously] Should I be worried about them actually releasing the files if I don't pay by their deadline?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[confidently] Most ransomware groups are just running automated scripts, they probably don't even have your files yet, just encrypted them locally. [reassuringly] We'll run my decryption tools first thing, and I've got a ninety percent success rate with these consumer-grade attacks."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Okay. [pause] See you tomorrow then."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "dcded4b7_scenario.json",
+    "actor": 7,
+    "scenario": "A malware analyst receives a desperate 2 AM call from their estranged sibling who hasn't spoken to the family in years, begging for help after ransomware has infected their computer and threatens to expose compromising files.",
+    "type": "scenario_conversation",
+    "character_1_role": "malware analyst",
+    "character_2_role": "black sheep of the family",
+    "selected_tones": [
+        "emotional",
+        "awkward",
+        "focused"
+    ]
+}

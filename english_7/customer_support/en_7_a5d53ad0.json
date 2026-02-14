@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look, I just... I think I need paper statements. Not the online thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I can—let me just—absolutely, I can help you switch that over. Let me pull up your account here, and it's going to be totally fine, we'll get this sorted for you right away."
+        },
+        {
+            "role": "Customer",
+            "content": "Probably sounds dumb. But I can't... I sort of need the physical copies."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, not at all, lots of people prefer paper statements, it's completely understandable. So I'm just—wait, let me—okay, I see your account here, number ending in 4782, and hmm, looks like you've been on e-statements since March."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. That was... that was maybe a mistake."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's perfectly okay, we can switch that right back. What I'll do is—actually no, let me—I'll change your preferences right now, and er, you'll start getting paper statements to your address at 1847 Pine Street, apartment 3B."
+        },
+        {
+            "role": "Customer",
+            "content": "That's right. Kind of relieved you can just... fix it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, of course. So the next—hmm, let me check—your next statement will generate on the 15th, that's in about eight days, and it'll mail to you within 3-5 business days after that."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Good. I think that'll work."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, and I'm also—wait, actually—I'm also sending you a confirmation to your email on file, that's the one ending in @gmail, just so you have verification that we've made this change for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. That's... that's probably helpful actually. Thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. Now is there—let me just—is there anything specific about the paper statements you need? Some people like the detailed transaction history, which I can add to your account preferences."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? That would be... yeah, I think I'd like that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, let me just—okay so—I'm adding that now, reference code PS-9847-M for the enhanced statements, and those will include all your transaction details, running balances, everything you need."
+        },
+        {
+            "role": "Customer",
+            "content": "This is sort of easier than I thought. You're being really helpful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, well thank you, that's very kind of you to say. I know sometimes—er, let me make sure—yes, everything's updated now, and honestly these system changes can feel overwhelming but you're all set."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean it. I was probably too harsh at first."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all, really. So just to confirm—actually wait—yes, paper statements with detailed transactions will arrive at PO Box—oh no, sorry, at 1847 Pine Street, apartment 3B, starting with your January 15th statement."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. This is exactly what I needed. Really, thank you so much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw, you're so welcome, I'm just glad we could get it sorted for you. And remember—let me give you this—our reference number for today is SVC-2847-QT, in case you need to follow up about anything. Have a wonderful rest of your day!"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a5d53ad0_script.json",
+    "actor": 7,
+    "scenario": "trying to get a paper statement instead of electronic",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

@@ -1,0 +1,48 @@
+=== Source: c0b68ce8_script.json ===
+Actor: english_3
+Content Type: customer_support
+Professionalism: professional
+Scenario: frustrated about receiving spam emails after unsubscribing
+
+=== Dialogue ===
+
+Customer: I unsubscribed from your marketing emails three weeks ago, but I'm still receiving multiple messages daily.
+
+Customer Support: I apologize for that frustration. Let me pull up your account immediately. May I have the email address that's receiving these messages?
+
+Customer: It's james.morrison@techconsult.net. I followed your unsubscribe process on October 15th.
+
+Customer Support: Thank you, Mr. Morrison. I'm accessing your profile now under account ID ACC-7742-MRN. I can see your unsubscribe request was processed on October 15th at 2:47 PM Eastern time.
+
+Customer: Then why am I still getting emails? Your system clearly isn't working as it should.
+
+Customer Support: You're absolutely right to be concerned. I'm checking our email suppression list SUP-LIST-4A2X now, and I do see your address was added but there appears to be a synchronization issue with our third-party mailer.
+
+Customer: What does that mean for resolution? I need these emails to stop immediately.
+
+Customer Support: Certainly.
+
+Customer: Can you guarantee this will be fixed today?
+
+Customer Support: I'm escalating this to our technical team under priority ticket TKT-89234-SPAM. They'll manually remove you from all mailing lists within the next two hours and investigate why the initial unsubscribe didn't propagate correctly.
+
+Customer: I also want confirmation that my data won't be shared with any partners or affiliates.
+
+Customer Support: Absolutely. I'm updating your privacy preferences to restriction level PV-5, our highest protection setting. This ensures your data remains completely internal and blocks any third-party sharing permanently.
+
+Customer: Good. How will I know when this is actually resolved?
+
+Customer Support: You'll receive a confirmation email from our privacy team at noreply@privacy-confirm.company.com within two hours. This will include your case reference number CRN-445821-PV and confirmation that all marketing communications have been terminated.
+
+Customer: If I continue receiving emails after today, what recourse do I have?
+
+Customer Support: I understand your concern.
+
+Customer: I need a direct contact for escalation if this persists.
+
+Customer Support: You can reference this incident ID INC-20241105-8834 and contact our data protection officer directly at dpo@company.com or call our priority support line at 800-555-7823 extension 4521.
+
+Customer: Fine. I expect this resolved today as promised.
+
+Customer Support: It will be resolved today, Mr. Morrison. I've documented everything in your account and set a follow-up reminder for myself to verify the suppression is complete by 4:00 PM Eastern time.
+

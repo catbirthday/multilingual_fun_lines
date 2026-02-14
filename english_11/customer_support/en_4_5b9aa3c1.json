@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look. I had an account. Years ago. Need my stuff back."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can—no wait, let me just—okay, I can absolutely help you recover those purchases. Um, do you remember the email address you used for that account? I'll need to verify with our system code VAL-8823."
+        },
+        {
+            "role": "Customer",
+            "content": "It was... what's the word... deactivated? Deleted? Something like that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, hmm, so even if an account was deactivated, your purchase history should still be in our database under reference ID DB-PURCH-7749. Er, when you say deleted though—did you delete it yourself or did we?"
+        },
+        {
+            "role": "Customer",
+            "content": "You did. Said inactive too long. That's what they told me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Ah, yeah, I know, it's ridiculous that we do that. So basically after 24 months of inactivity, the system auto-archives accounts under protocol P-2294, but—and this is important—we can actually still recover everything."
+        },
+        {
+            "role": "Customer",
+            "content": "That's what the last person said. Three calls. Still nothing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ugh, I'm really sorry you've had to call multiple times about this. Let me try—actually, hold on—I'm going to use a different recovery tool, access code REC-TOOL-9B4. Sometimes the standard process just doesn't, um, work properly."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. So what's... what's different about this one?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "Got what? You found something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So I can see—*sharp inhale*—oh wow, I can see your entire purchase history here under legacy account L-88392-KJM. There's, er, quite a bit actually. Would you like me to transfer everything to a new account or reactivate the old one?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. You actually found it? Like... everything's there?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm-hmm, everything. I'm looking at, let's see, 47 digital purchases dating back to 2019, all linked to customer ID C-LEGACY-2847. Honestly? The other reps probably just didn't check the archived database."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so... how do I... what's the process here?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so what I'll do—er, actually, what would work best for you? I could either send a reactivation link to your current email with verification code VER-8829-XK, or I could manually transfer everything right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Transfer. Now. Before something else goes wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Yeah, I don't blame you for wanting it done immediately. Alright, initiating transfer protocol TRN-4498-LIVE, and I'll stay on while it processes, probably about two minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Two minutes. Okay. And then I'll have... everything back?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely everything, yeah. Your new account number will be ACC-NEW-7739-BK, and honestly? I'm also adding a note to prevent any future auto-archiving, because this whole situation is just—it shouldn't have been this hard."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "5b9aa3c1_script.json",
+    "actor": 4,
+    "scenario": "trying to recover access to purchases made on old account",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

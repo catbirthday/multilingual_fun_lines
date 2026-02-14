@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So like I called yesterday and um basically got hung up on so I guess I'm trying again"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, let me pull up your account history here... hmm, I see the disconnected call at 3:47 PM. I'm looking at case number CSE-2847-MJ and it shows, er, technical difficulties on our end."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah so the guy was like really rude and then just click nothing so"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, that's not acceptable at all. What I can do—let me see—I'm flagging this for review under complaint ID CMP-9021-X. Um, was this regarding your order or account issue?"
+        },
+        {
+            "role": "Customer",
+            "content": "Order thing um the laptop that's like basically been lost for two weeks"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, okay so... huh, I'm seeing order ORD-7741-BK22 here. Shows shipped but, er, no tracking updates since December 12th. That's definitely stuck somewhere."
+        },
+        {
+            "role": "Customer",
+            "content": "Right so like yesterday I just wanted answers and the guy was basically—I don't know forget it"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, let's fix this. I'm filing report RPT-3029 for the service issue, and, um, for your actual order—let me check with shipping real quick here."
+        },
+        {
+            "role": "Customer",
+            "content": "Look I'm sorry I'm just frustrated and like tired of calling about this you know"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, totally get it. So shipping shows, erm, package got misrouted to warehouse ZIP 47802. What I'm doing now—submitting reroute request RRQ-5512-AA to get it back on track."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh um okay so it's actually findable? Not just gone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah absolutely findable. Hmm, let me explain what happened—so packages with label prefix LBL-7741 got batch-scanned wrong. Fixable though, er, usually takes 48 hours once I submit this."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry I'm being like short with you you're actually helping unlike yesterday"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all, honestly. So I've put priority flag PRI-8823 on this. Um, also adding credit code CRD-DELAY50 to your account—that's fifty dollars for the hassle."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? I mean I didn't even ask for—that's um that's really nice actually"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Standard for delays over ten days. Let me also, uh—yep, waiving express shipping fee FSH-2901. Should see your laptop by Friday, tracking will update tonight."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so like Friday for sure? Not another maybe date that doesn't happen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Looking at the reroute path... hmm, through hub HUB-47A to your local facility at 2819 Oak Street. Er, barring weather, yes, Friday by 6 PM guaranteed."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry for being difficult earlier I just—yesterday really sucked you know"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Seriously, don't apologize. I've noted everything in case CSE-2847-MJ about yesterday's call. Oh also—sending confirmation email now with reference number REF-1129-QP for all today's updates."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a26a15fd_script.json",
+    "actor": 5,
+    "scenario": "complaining about poor customer service on a previous call",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So they denied it. The warranty. My laptop. Three months old. Still under—no wait, four months. Four."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see you're calling about a warranty claim... Let me pull that up for you. What's your order number or email address?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's just. Ridiculous. The screen went black Tuesday. Nothing. Dead. I didn't drop it or—I mean the cat knocked a pen on it but that's not—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I think I found your account here... Is this for order WRN-4429-TL3? Purchased back in July from our Denver location at 1847 Market Street?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! That's it. Look. I work from home. Need this thing. Can't just—my whole life's on there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, I'm looking at the claim now... So the initial review was completed on October 23rd and... hmm. Let me just—actually, I need to check something in a different system."
+        },
+        {
+            "role": "Customer",
+            "content": "Different system? Great. Always something. They said \"physical damage\" but there's no—I mean look at—sorry, you can't see it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so... I can see the technician's notes here. They documented what they classified as impact damage near the display connector, but I'm sort of noticing something odd about the diagnostic code they used."
+        },
+        {
+            "role": "Customer",
+            "content": "Impact damage. From a pen. A plastic pen. That's their story?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually—no wait, let me... I think there might be—okay, so I've been doing this for probably six years now, and that particular error code DX-778 usually indicates a manufacturing defect, not physical damage."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. What? Manufacturing? So they just—they got it wrong?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I mean, it happens sometimes. The initial review team, they process maybe hundreds of these a day from our service center at 5501 Industrial Way, and occasionally they'll misclassify something."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay. So. Can you fix it? Override them or—I don't know how this works."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So here's what I can do—actually, I'm going to... Let me escalate this directly to our warranty review department. They're based out of our Phoenix office, case number will be ESC-9102-RV4."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? You can do that? Just. Like that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, absolutely. And between you and me, when I flag it with this specific code—let me just—there we go. When they see my override note with reference MW-881, they'll fast-track it. Should hear back within 24 hours instead of the usual 3-5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "That's. Wow. I didn't think—everyone said customer service would just give me the runaround."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I get that a lot, actually. But look, your warranty's valid through January 2025, and based on what I'm seeing here, this should definitely be covered. You'll get an email confirmation in about ten minutes to the address on file."
+        },
+        {
+            "role": "Customer",
+            "content": "This is incredible. Amazing. Thank you. Really. You just saved my whole week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem at all. Just doing my job. The callback number will be 1-800-555-9823 if you need to follow up, but honestly? I think you're all set. They'll probably approve it tomorrow morning."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "870571d1_script.json",
+    "actor": 5,
+    "scenario": "frustrated that their warranty claim was denied",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So my referral bonus. Didn't apply. Of course."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no—I'm so—let me pull that up. Account ending in 4782? I see you referred, um, three people last month. That should've triggered the fifty dollar credit."
+        },
+        {
+            "role": "Customer",
+            "content": "Three people. Fifty bucks. And like... nothing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's—no that's not right at all. I can see why—hmm, wait. Your referral code REF-KMXY-9021 shows active but the credits are stuck in, uh, pending status since October 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "Pending. Great. So basically I did everything right and..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You did! You absolutely—let me just—sorry. This happens sometimes with our system. I'm gonna manually push these through right now, reference ticket TK-890234."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if it just... stays pending forever."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It won't—I promise—actually no, I'm fixing it. Right now. Just processed the first one, transaction ID TX-5567-AAB2."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. You can actually fix it? Like right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already am! Second credit just—there we go—posted. That's, er, another fifty, transaction TX-5568-AAB2. God, I hate when our system does this to people."
+        },
+        {
+            "role": "Customer",
+            "content": "I just. I really need this money. Rent's due."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I get it—trust me—final one processing. There! All three credits, total one-fifty, should hit your account within, um, two to four hours max."
+        },
+        {
+            "role": "Customer",
+            "content": "Two to four hours. Okay so that means... today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Today. Absolutely today. I've also—hang on—added a courtesy credit. Twenty-five dollars for the hassle, confirmation CC-7829-XM."
+        },
+        {
+            "role": "Customer",
+            "content": "You didn't have to... I mean. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Course I did! You referred—actually wait—three friends! That's huge. We should be thanking you."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... so one-seventy-five total?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly. One-seventy-five. I put a rush flag on it too, priority code RUSH-4499, so honestly? Probably gonna hit in like an hour."
+        },
+        {
+            "role": "Customer",
+            "content": "An hour. Okay. Phew. That actually... that works."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good! And hey—I put a note—your next referral? Double bonus. My direct line's 555-0147 extension 882 if you need anything."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "ac66d132_script.json",
+    "actor": 6,
+    "scenario": "asking why their referral bonus wasn't applied",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

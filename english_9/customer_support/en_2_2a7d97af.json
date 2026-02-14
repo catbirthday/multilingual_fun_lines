@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I've been a customer for three years. The service quality has noticeably declined over the past six months."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me pull up your account history. May I have your account number to review your service details?"
+        },
+        {
+            "role": "Customer",
+            "content": "Account number 487-921-LP. Response times have increased and issue resolution quality has dropped significantly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your account here, number 487-921-LP, showing premium tier service since March 2021. Let me review your recent support interactions and service metrics."
+        },
+        {
+            "role": "Customer",
+            "content": "I used to receive responses within two hours. Now it takes twelve to twenty-four hours minimum."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the pattern you're describing. Your last five tickets, references TK-8821 through TK-8825, show average response times of fourteen hours versus your historical two-hour average."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. And the responses are now generic templates that don't address my specific issues."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's unacceptable for a premium account. I'm reviewing ticket TK-8823 specifically, and I can see the initial response didn't address your database connectivity issue properly, requiring three follow-ups."
+        },
+        {
+            "role": "Customer",
+            "content": "What's causing this degradation? I'm paying the same premium rate for inferior service."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "I need to know what concrete steps you'll take to restore my service quality."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm implementing three immediate changes. First, I'm flagging your account 487-921-LP for priority routing, ensuring all future tickets bypass standard queue and go directly to senior specialists."
+        },
+        {
+            "role": "Customer",
+            "content": "That addresses response time. What about the quality of support I receive?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Second, I'm assigning you a dedicated account team, reference team DT-447, consisting of three senior engineers familiar with your infrastructure and historical issues."
+        },
+        {
+            "role": "Customer",
+            "content": "When does this take effect? I have critical deployments scheduled for next week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Effective immediately. Your dedicated team leader is Sarah Chen, direct line 555-0147 extension 221, available Monday through Friday, with weekend emergency coverage through our priority hotline."
+        },
+        {
+            "role": "Customer",
+            "content": "I also want a service credit for the months of substandard support I've received."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely justified. I'm applying a service credit of $1,847.50 to your account, reflecting six months at thirty percent reduction, which will appear as credit memo CM-7726 on your next invoice."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Send me written confirmation of these changes and the credit within the hour."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm sending comprehensive documentation to your registered email immediately, including your new SLA agreement SLA-0947-REV, team contact information, and credit confirmation. You'll receive it within fifteen minutes."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "2a7d97af_script.json",
+    "actor": 2,
+    "scenario": "complaining about quality degradation of service over time",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

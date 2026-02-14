@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm really hoping you can help me because I'm completely lost here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Policy confusion. Love these. Let me pull up. Your account. Real quick. Customer since 2019, account number ACC-4821-JV, and I can already see three orders this year."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah exactly, I've been ordering forever and suddenly everything's different?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So. Big changes. October 15th. New return window dropped from 90 days to 30 days, and the free shipping threshold jumped from $35 to $75."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, thirty days? I literally just tried to return something from September."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah! There it is. Order ORD-9924-LP from September 3rd. Yeah. Under old policy, you'd have until December 2nd. New policy cuts you off at October 3rd. Which was. Two weeks ago."
+        },
+        {
+            "role": "Customer",
+            "content": "This is—I mean, I really needed to return this. My daughter can't even use it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay. Here's what I'm seeing. The item—it's the art tablet for $189.99, right? So technically. Outside window. But. I'm checking your history here."
+        },
+        {
+            "role": "Customer",
+            "content": "Did anyone even announce these changes? Because I check my email constantly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So the announcement. Hmm. Email blast went out September 28th to all active customers, subject line \"Important Account Updates,\" but our system shows only 12% open rate."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course it went to spam or something. This is just—sorry, I'm not mad at you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, totally get it. Listen. I'm gonna—let me just—actually, you know what? Exception code EXC-7744-M lets me override return windows for customers with over 24 months history."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh my god, really? You're actually being so helpful right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Gets better. Since you missed the announcement—not your fault—I'm adding a courtesy credit of $15.00 to offset that new shipping threshold thing. Should post within 48 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, you can just do that? That's incredibly nice of you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Trick is knowing which buttons. Return label RMA-5521-QZ is generating now. Should hit your email in about. Um. Five minutes? Ten max."
+        },
+        {
+            "role": "Customer",
+            "content": "You know what, you've completely turned this day around. Seriously, thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Best part? I'm noting your account so if any other old orders need returning before you knew about changes—just reference case number CSE-8823-YK."
+        },
+        {
+            "role": "Customer",
+            "content": "That's so smart! Honestly, you should train everyone there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ha! Appreciated. But hey. Real quick. Want me to reactivate email notifications? Make sure nothing else sneaks past? Takes literally 30 seconds."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "8fcadb50_script.json",
+    "actor": 4,
+    "scenario": "confused because the company's policies seem to have changed without notice",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

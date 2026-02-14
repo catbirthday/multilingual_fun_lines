@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[exhausted] Thank you for seeing me."
+        },
+        {
+            "role": "Character 2",
+            "content": "[formal] Good morning, Ms. Rodriguez. [pause] I've reviewed your case file regarding the noise violations from unit 4B, and I see there have been six complaints filed over the past three weeks. Can you help me understand the situation from your perspective?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] My daughter has severe colic and she's only seven weeks old. [sighs] The doctor says it could last another two months, and I've tried everything—white noise machines, swaddling, those special bottles that reduce gas, even hired a sleep consultant who cost more than my car payment."
+        },
+        {
+            "role": "Character 2",
+            "content": "[analytically] The complaints indicate noise disturbances primarily between eleven PM and four AM, with decibel readings reaching eighty-five according to one tenant's measurement app. [clearing throat] That's comparable to city traffic levels, which does exceed residential quiet hours standards."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frantically] I know it's loud, God, I know because I'm right there with her every single night! [voice breaking] But what am I supposed to do, put a muzzle on my infant? I walk her around the apartment, I bounce on that stupid yoga ball until my back screams, I even tried driving her around at two AM but my neighbors complained about the car door slamming."
+        },
+        {
+            "role": "Character 2",
+            "content": "Ms. Rodriguez, I need you to understand this isn't a punitive hearing. [warmly] We're trying to find a solution that works for everyone, including you and your daughter."
+        },
+        {
+            "role": "Character 1",
+            "content": "[grateful] Really? Because the management company made it sound like I was one complaint away from eviction. [exhales] They kept sending these formal letters with legal language about 'breach of peaceful enjoyment' and I haven't slept more than two hours straight in weeks, so reading legal threats while covered in spit-up isn't exactly helping my mental state."
+        },
+        {
+            "role": "Character 2",
+            "content": "[thoughtfully] Have you explored medical interventions for the colic beyond what you've mentioned? [pause] Sometimes underlying conditions like reflux or allergies can exacerbate crying episodes, and addressing those can significantly reduce the duration and intensity."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quickly] We've been to three different pediatricians, tried two formulas, eliminated dairy from my diet when I was breastfeeding, got her tongue tie revised, and now we're on prescription reflux medication that costs seventy dollars a bottle. [sighs] My mother keeps saying I cried like this too as a baby, like that's somehow helpful information right now."
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] I can see you're doing everything possible to address this situation. [formally] Let me review the building's covenant regarding infant-related noise—there are actually specific provisions that differ from standard noise violations."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hopefully] There are provisions for babies? [laughs nervously] The property manager made it sound like my daughter was no different than someone blasting music at midnight, just another inconsiderate tenant disturbing the peace."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] Under fair housing regulations, families with children cannot be discriminated against, and normal child-related noise is generally protected. [pause] However, we need to establish that you're taking reasonable measures to minimize the disturbance, which it clearly sounds like you are."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] I've documented everything I've tried in this notebook—see? [quickly] Every feeding time, every soothing technique, how long she cried, what seemed to work even slightly, because I thought maybe there was a pattern I was missing, something I could fix if I just paid closer attention."
+        },
+        {
+            "role": "Character 2",
+            "content": "[impressed] This level of documentation actually works strongly in your favor, Ms. Rodriguez. [analytically] It demonstrates due diligence and good faith efforts to resolve the issue, which is exactly what we look for in these cases."
+        },
+        {
+            "role": "Character 1",
+            "content": "The couple in 5B actually offered to babysit last week so I could sleep. [crying while speaking] Complete strangers who I've only met in the hallway, and they were kinder than the management company who just keeps threatening me with fines I can't afford on top of all these medical bills."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] Based on everything you've presented, I'm prepared to dismiss these violations with prejudice, meaning they cannot be refiled. [pause] Additionally, I'm going to issue a formal finding that any future complaints must account for the temporary nature of infant colic and your documented mitigation efforts."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gasping softly] You're dismissing them? All of them? [gratefully] I came in here with a speech prepared about how I'm not a bad neighbor or a bad mother, how I'm just trying to survive each day, and you're actually, actually helping us?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] Ms. Rodriguez, the system isn't always as heartless as it seems. [chuckle] I'm also going to recommend the building provide you with resources for soundproofing assistance, which they're required to consider as a reasonable accommodation."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stuttering] I—I don't know what to say except thank you, thank you so much. [exhales] I was so scared we'd have to move, and finding another place I can afford near my job, during all this, while she's still crying every night—I couldn't even imagine how we'd manage that."
+        },
+        {
+            "role": "Character 2",
+            "content": "[reassuringly] Keep that notebook going, and if anyone gives you trouble, you have my direct number on this ruling document. [formally] This hearing is concluded, and Ms. Rodriguez, it does get better—both the colic and the sleeping, I promise you that from personal experience."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "e418647e_scenario.json",
+    "actor": 3,
+    "scenario": "A new parent appeals a noise complaint citation from their apartment building after their colicky baby's crying led to multiple violations and potential eviction.",
+    "type": "scenario_conversation",
+    "character_1_role": "new parent",
+    "character_2_role": "hearing officer",
+    "selected_tones": [
+        "analytical",
+        "grateful",
+        "sporadic"
+    ]
+}

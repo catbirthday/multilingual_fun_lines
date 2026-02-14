@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need official documentation showing my account is in good standing for a mortgage application."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I can assist you with that request today. May I have your account number to pull up your records?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 445-8821-90. I need this by tomorrow morning at the latest."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located account 445-8821-90 under your name. I can see you've maintained excellent standing for the past seven years with zero delinquencies."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. I requested this document online three days ago but never received it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for that delay. I see the online request from October 12th that appears to have encountered a processing error in our document generation system."
+        },
+        {
+            "role": "Customer",
+            "content": "This is rather disappointing. I specifically chose the expedited option and paid the fee."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration. The $25 expedited fee will be refunded immediately, and I'm generating your documentation through our priority channel right now using reference number DOC-94521-ST."
+        },
+        {
+            "role": "Customer",
+            "content": "When exactly will I receive this? My loan officer needs it by nine tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "That's cutting it extremely close. Is there any way to get it sooner?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can arrange immediate delivery. Your account verification letter with confirmation code VER-3847-AA will be emailed to you within the next fifteen minutes, digitally signed and notarized."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be much better. Will this include my full payment history?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, the comprehensive report will include your complete payment history, current balance of $2,847.50, credit limit, and account opening date of March 2017."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Can you also send a copy directly to my loan officer?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "Her email is sarah.martinez at firstnational dot com. Please copy me on that transmission."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've noted that email address and will copy you on the secure transmission using our encrypted portal system ENC-7742. Both parties will receive access codes separately for security purposes."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. I appreciate you resolving this quickly despite the initial system failure."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for your patience and understanding. You'll receive both the documentation and your refund confirmation at reference number REF-6829-TK within fifteen minutes. Is there anything else I can assist you with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "3c5c9a78_script.json",
+    "actor": 5,
+    "scenario": "wanting documentation that their account is in good standing",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

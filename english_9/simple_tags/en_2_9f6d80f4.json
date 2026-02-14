@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] So, thank you for coming in today for this interview, I know it must be as awkward for you as it is for me. [pause] The hospital desperately needs someone with your exact skillset, your certifications in both ICD-10 and CPT coding."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] I almost didn't come."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] I'm glad you did though, because honestly, we've interviewed twelve people and none of them have your level of experience with oncology coding. [sighs] The department is drowning without someone who understands the complexity of chemo administration billing."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] You know I specialized in oncology coding because of what happened with Mom, right? [pause] After everything fell apart between us, that work kept me grounded, gave me purpose when I had nothing else."
+        },
+        {
+            "role": "Character 1",
+            "content": "[regretful] I remember sitting with you in the hospital while she went through treatments, watching you take notes about every procedure code. [very quietly] That was before we lost ourselves in all the anger and accusations."
+        },
+        {
+            "role": "Character 2",
+            "content": "The irony isn't lost on me that you're the one offering me this position now. [exhales] Five years ago you said I'd never amount to anything beyond data entry."
+        },
+        {
+            "role": "Character 1",
+            "content": "[apologetic] That was cruel and wrong, and I've regretted those words every single day since. [pause] Your resume speaks for itself—ninety-eight percent accuracy rate, zero compliance violations, three departmental excellence awards."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] This job would mean relocating back here, seeing you in meetings, pretending we're just colleagues. [sighs] I don't know if I can separate the professional from the personal like that."
+        },
+        {
+            "role": "Character 1",
+            "content": "[patiently] We'd mostly work in different buildings, and I could assign another coordinator to handle your onboarding if that helps. [clearing throat] The salary is seventy-five thousand with full benefits, and you'd be saving the cardiac unit from total chaos."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] You always knew how to appeal to my need to fix broken systems. [laughs] Remember when I reorganized your entire filing system during our first year together?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[chuckle] Still use it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[surprised] Really? Even after everything? [pause] I figured you would have burned anything that reminded you of me, including my color-coded organizational charts."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sincerely] Some things are worth keeping regardless of how they ended. [sighs] Your system saved me hours every week, and honestly, it reminds me that we weren't always at each other's throats."
+        },
+        {
+            "role": "Character 2",
+            "content": "[slowly] The truth is I need this job, my current contract ends next month and there's nothing else remotely close to this level. [very quietly] But I need to know this won't become another battlefield between us."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] I promise to keep things professional, to treat you with the respect you deserve as our lead coder. [pause] What happened between us personally doesn't change the fact that you're brilliant at what you do."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhales] Alright, I'll take it, but we need clear boundaries from day one. [hesitantly] Maybe this is our chance to prove we've both grown up since the divorce."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Thank you for trusting me with this, I know it couldn't have been easy. [warmly] HR will send the formal offer tomorrow, and we can discuss start dates that work for your relocation timeline."
+        },
+        {
+            "role": "Character 2",
+            "content": "[softly] You know what's strange? This conversation has been more civil than our last three years of marriage. [sighs] Maybe distance and time really do heal some wounds."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] Maybe they do, or maybe we just finally learned how to listen to each other without trying to win. [pause] Either way, welcome to the team."
+        },
+        {
+            "role": "Character 2",
+            "content": "[smiling speaking] Thanks, boss."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "9f6d80f4_scenario.json",
+    "actor": 2,
+    "scenario": "A recruiting coordinator must interview and potentially hire their ex-spouse from a bitter divorce five years ago, who happens to be the only qualified medical coder for a critical hospital position.",
+    "type": "scenario_conversation",
+    "character_1_role": "recruiting coordinator",
+    "character_2_role": "medical coder",
+    "selected_tones": [
+        "hesitant",
+        "patient",
+        "experienced"
+    ]
+}

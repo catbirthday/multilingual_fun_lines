@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] So the Hartfield Industries account needs their entire retirement portfolio restructured by quarter end, which means we need to coordinate on the contribution limits and—wait. [pause] Mom? Is that really you sitting across from me?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Twenty-three years, and this is how we meet again. [clearing throat] Your assistant scheduled this meeting without mentioning your last name, just said you were the lead AE on the account."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] You recognize me?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Of course I recognize you, Daniel. [shaky voice] You have your father's eyes but that determined set to your jaw, that's all me. Though I suppose you wouldn't want to hear that comparison."
+        },
+        {
+            "role": "Character 1",
+            "content": "[coldly] We should focus on the account restructuring since that's why we're both here. [pause] The client wants to maximize their tax advantages while maintaining liquidity for their senior executives' early retirement options."
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] Right, yes, the business at hand. [sighs] I've reviewed their current allocations and honestly, whoever set up their original plan did them no favors with those fee structures."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] That was actually my predecessor's work, but I'm the one who has to fix it now while keeping them happy. [quietly] Story of my life, really, cleaning up messes other people leave behind."
+        },
+        {
+            "role": "Character 2",
+            "content": "[wincing] Daniel, I know what you're implying, and you have every right to be angry about—well, about everything. [pause] But this account, these people's retirements, they deserve better than our baggage affecting their futures."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sarcastically] How noble."
+        },
+        {
+            "role": "Character 2",
+            "content": "Look, I can recommend moving their assets to a series of index-based target-date funds that would cut their fees by sixty percent. [quickly] It's the right move regardless of who's suggesting it or what you think of me personally."
+        },
+        {
+            "role": "Character 1",
+            "content": "[reluctantly] That would actually solve most of their liquidity concerns too, and the board would love the fee reduction. [exhales] Fine, send me the fund prospectuses and we can present it together next week."
+        },
+        {
+            "role": "Character 2",
+            "content": "[surprised] Together? [nervously] You want to do a joint presentation after this, after finding out who I am and what I did to you and your father?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] I want to keep my biggest client happy and my commission intact, that's what I want. [pause] Whatever else this is, we can deal with after the contract is signed."
+        },
+        {
+            "role": "Character 2",
+            "content": "You're right, of course, the client comes first. [sadly] I just want you to know that I've followed your career, Daniel. Every promotion, every success, I've watched from a distance, proud but knowing I gave up any right to tell you that."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angrily] You looked me up but never reached out? [voice breaking] Not once in twenty-three years, not even when Dad died and I was handling everything alone at seventeen?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] I wrote you letters, dozens of them, but I never sent them because what could I possibly say? [pause] 'Sorry I chose my career over my family' doesn't exactly fit on a Hallmark card."
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted] Just send me those fund options by tomorrow so I can review them before the weekend. [sighs] And include your direct line in case I have questions about the transition timeline."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] I'll have everything in your inbox by close of business today, with my personal cell too. [hesitantly] Daniel, after this deal closes, would you maybe consider having coffee? No expectations, just—"
+        },
+        {
+            "role": "Character 1",
+            "content": "[interrupting] Let's just get through this."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Understood. [pause] I'll make sure this is the smoothest retirement plan transition Hartfield has ever seen. It's the least I can do."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "a71a43ba_scenario.json",
+    "actor": 6,
+    "scenario": "An account executive discovers their biggest client's retirement plan administrator is their estranged mother who abandoned the family twenty-three years ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "account executive",
+    "character_2_role": "retirement plan administrator",
+    "selected_tones": [
+        "resisting",
+        "insecure",
+        "delaying"
+    ]
+}

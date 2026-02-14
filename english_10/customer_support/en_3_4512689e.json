@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Need to downgrade. Current plan's too much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Absolutely. Let me... pull up your account here. I think I can definitely help you find something better. Account number ending in 4782, right? Premium tier at $89.99 monthly?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that's... Look, just need something cheaper."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it! So here's what I'm seeing. We've got three options below your current tier. Standard at $49.99. Basic at $29.99. And then there's... kind of a hidden gem? Legacy Lite at $19.99 that I can probably still activate with code LGC-2024-V3."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. Three options? Site only showed two when I..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right! The Legacy Lite. It's sort of... not advertised anymore? But I can see it's still in our system. Compatible with your account type A-7. You'd keep about 70% of your current features."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventy percent of... Which features exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so. Let me break this down. You'd keep streaming up to 1080p resolution. Storage stays at 100GB. The things you'd lose... mainly the priority support channel. Download speeds cap at 25 Mbps instead of unlimited. And the family sharing drops from 6 profiles to just 2."
+        },
+        {
+            "role": "Customer",
+            "content": "Family sharing drops to two? But I have three kids who..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah!"
+        },
+        {
+            "role": "Customer",
+            "content": "That won't work then. What about the middle one?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The Standard! Yes yes. So that one... I think that might be perfect actually? $49.99 keeps all 6 family profiles. Storage bumps down just slightly to 250GB from your current 500GB. But streaming quality stays at 4K. Speed stays unlimited."
+        },
+        {
+            "role": "Customer",
+            "content": "Two fifty gigs. Is that... I don't even know how much we use now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me check!"
+        },
+        {
+            "role": "Customer",
+            "content": "Just need to know if..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Found it! Your usage report for the last 90 days. You're averaging... 127.3GB monthly. So 250GB would probably give you plenty of cushion? Even with some growth."
+        },
+        {
+            "role": "Customer",
+            "content": "One twenty seven. Okay. So Standard keeps everything except...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mainly just the storage difference. And... let's see. Premium exclusive content library XP-400 series. But that's sort of niche documentaries? International channels drop from 45 to 20. Oh! But you haven't accessed those in... looks like 8 months anyway."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Yeah no, we don't watch those. So forty-nine ninety-nine and we keep..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything you actually use! Family profiles. 4K streaming. Unlimited speeds. I can process this change right now. It'll take effect at your next billing cycle. December 15th. Reference number for this change would be... CHG-8847-WK. Sound good?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "4512689e_script.json",
+    "actor": 3,
+    "scenario": "trying to downgrade their subscription plan",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

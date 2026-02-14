@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "There's a charge. On my card. Don't know what it's for."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, I'm so sorry to hear you're dealing with that—let me, um, let me pull up your account here and we'll get to the bottom of this right away, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "[exhales] Hundred twenty dollars. Says... what's it... \"Premium Service Fee.\""
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so I'm seeing that charge here, reference number TXN-4482-QM91, and it looks like—oh, I'm really sorry about this—it's linked to an auto-renewal that went through on November 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "Auto-renewal. I canceled that. Months ago."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can absolutely understand your frustration, and let me see here... hmm, I'm showing a cancellation request from September 23rd but it looks like it didn't... I mean, the system shows it as pending instead of completed somehow."
+        },
+        {
+            "role": "Customer",
+            "content": "Pending. Since September. [long pause] I just... I can't."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know, this is—I'm really sorry this happened, and honestly I wish I could just reverse it right now but I need to submit this through our disputes department with case number DSP-9021-KL."
+        },
+        {
+            "role": "Customer",
+            "content": "How long."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So typically it takes, um, 5 to 7 business days for them to review everything, and then the refund would post within another 3 to 5 days after approval, which I know isn't ideal but..."
+        },
+        {
+            "role": "Customer",
+            "content": "Two weeks. For your mistake."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right, and I feel terrible about this—let me see if... okay so what I can do right now is apply a $30.00 courtesy credit immediately while we wait for the full refund to process."
+        },
+        {
+            "role": "Customer",
+            "content": "Thirty. Out of one-twenty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know it's not enough, I really do, and if I had the authority to do more... the system only lets me apply credits up to tier 2, which maxes out at thirty dollars without supervisor override."
+        },
+        {
+            "role": "Customer",
+            "content": "[sharp inhale] Fine. Whatever. Just... do it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, I'm processing that right now—credit code CRD-7734-XP is applied, you should see that within 24 hours, and I'm also, um, making sure to properly close out that subscription this time."
+        },
+        {
+            "role": "Customer",
+            "content": "Should've been closed. In September."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're completely right, it should have been, and I'm documenting everything here in ticket REF-5528-QT22 so if anything like this happens again—which it won't, but just in case—we have a full record of this conversation."
+        },
+        {
+            "role": "Customer",
+            "content": "Mm. Anything else or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Just need to confirm your email for the dispute confirmation—is it still the one ending in gmail.com? And, um, again, I'm really sorry we let you down here, I know this isn't how you wanted to spend your time today."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "0d258a56_script.json",
+    "actor": 6,
+    "scenario": "disputing an unexpected charge on their credit card statement",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[angry] You sold facial recognition software to Myanmar? [very loudly] Do you have any idea what they're using it for, Alex? [shaky voice] They're hunting down protesters, kids who just want democracy, and you're giving them the tools to do it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] It's not that simple and you know it. [sighs] We sell enterprise security solutions to legitimate governments, and what they do with the technology after purchase isn't something we can control or monitor without violating sovereignty agreements."
+        },
+        {
+            "role": "Character 1",
+            "content": "[furious] Sovereignty agreements? [laughs] That's what you're hiding behind now? [passionate] Remember when we were kids and Dad got arrested for refusing to name names during the union strike, how proud we were that he stood up to power?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] Of course I remember. [pause] But I also remember us eating canned beans for six months because he couldn't find work after that, Mom crying in the bathroom thinking we couldn't hear her."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] So you decided to become everything we swore we'd fight against? [speeding up] The surveillance state, the corporate machine that grinds people down, the very systems that destroyed our neighborhood when they gentrified it for tech workers like you?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] I employ three hundred people, Sam. [firmly] I provide healthcare, education benefits, and stock options to kids from backgrounds just like ours who never would have gotten these opportunities otherwise."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sarcastically] Oh, how noble of you. [exhales] Meanwhile, your technology is being used to disappear activists in Bangkok, track Uyghurs in Xinjiang, and identify protesters in Hong Kong before they even leave their homes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] You think I don't lose sleep over this? [very quietly] Every single night I question whether the good we're doing outweighs the potential for harm, but the technology exists whether we build it or not."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] That's such a cop-out."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warm] Maybe it is. [sighs] But at least I'm inside the system trying to add ethical guidelines, pushing for transparency reports, fighting for restrictions on how our tools can be used, instead of throwing rocks from the outside."
+        },
+        {
+            "role": "Character 1",
+            "content": "Those rocks you're dismissing have stopped more injustice than your boardroom negotiations ever will. [passionately] Direct action, protests, sabotage even—that's what actually changes things, not your incremental reform bullshit."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] I know you're right about some of it."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softer] Then why keep doing it? [pause] Why not use your money, your influence, your genius brain that used to design those amazing protest apps in college to actually fight back against all of this?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very sincerely] Because I have employees with mortgages, investors with contracts, and honestly? [clears throat] Because I'm terrified that if I walk away, someone much worse takes my place and removes even the minimal safeguards I've managed to implement."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] You sound exactly like every collaborator in history who thought they could change things from within. [sighs] Dad would be so disappointed in both of us—you for selling out, me for not being able to save you from yourself."
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] Dad would understand that the world got more complicated than the simple good versus evil we believed in as kids. [quietly] But yeah, he'd probably hate what I've become too."
+        },
+        {
+            "role": "Character 1",
+            "content": "[passionate] It's not too late, Alex. [quickly] Walk away, blow the whistle, expose everything—I have journalists who would kill for insider information about these contracts, lawyers who could protect you."
+        },
+        {
+            "role": "Character 2",
+            "content": "And then what? I become another cautionary tale while the machine keeps grinding forward without even my small attempts at friction to slow it down?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted] I can't keep having this conversation with you. [very quietly] But I'm not giving up on you, even if you've given up on everything we used to believe in."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] I haven't given up, Sam. [pause] I'm just fighting a different battle than you are, and maybe someday you'll see that both fights matter, even if mine makes me the villain in your story."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "4684174e_scenario.json",
+    "actor": 7,
+    "scenario": "A radical activist discovers their estranged sibling has become a tech entrepreneur whose company's AI surveillance software is being sold to authoritarian governments.",
+    "type": "scenario_conversation",
+    "character_1_role": "radical",
+    "character_2_role": "entrepreneur",
+    "selected_tones": [
+        "hot-headed",
+        "sharing",
+        "delicate"
+    ]
+}

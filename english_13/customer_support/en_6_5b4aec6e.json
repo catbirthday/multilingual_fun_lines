@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I just—wait no—I think I have a subscription? That I forgot about—sorry this is embarrassing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh um, no worries at all. Let me... let me pull that up for you. So basically I'll need your email address, and then, uh, I can check what subscriptions we have under account ID ACC-8924-JV."
+        },
+        {
+            "role": "Customer",
+            "content": "It's j.martinez at gmail—no wait—jmartinez23 at gmail, sorry I always mess that up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it. Okay so... hmm, I'm seeing three active subscriptions here. There's the Premium at $14.99, er, the Storage Plus at $7.99, and then like a third one for... oh this is the Archive Service at $23.50. Which one were you—which one did you want to cancel?"
+        },
+        {
+            "role": "Customer",
+            "content": "Three?! Oh God I'm so stupid—I didn't even—wait all three? Since when?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry sorry I'm just—*sharp inhale*—can you tell me when they started? I feel so dumb."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah absolutely, so the Premium started, uh, back in March with transaction TXN-3041-MM, and then Storage Plus was... hmm, January actually. The Archive one though, that's—that's from 2022. But hey, er, happens all the time, honestly."
+        },
+        {
+            "role": "Customer",
+            "content": "2022?! I've been paying—oh my God okay just cancel everything please, I'm such an idiot."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Sure sure. So what I'll do is, um, I'll process those cancellations right now. Actually wait—let me check something. Looks like you've got, uh, 47GB stored in reference storage unit STG-9982-XL. Did you want to download that first?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh—I didn't even—yes! Yes please, sorry, thank you for catching that!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem! So basically I'm gonna... I'm gonna send you a link. It'll be valid for, er, 72 hours, download code DL-7761-PQ. And then once you've got everything, we can—we can finish the cancellations."
+        },
+        {
+            "role": "Customer",
+            "content": "You're amazing—seriously I would've lost everything—*exhale*—thank you so much for checking!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Actually wait—will I get any money back? Or is it all just—gone?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Yeah so, hmm, let me calculate this. Since we're... since we're mid-billing cycle, you'll get prorated refunds. Looking at... okay so that's roughly $31.24 total, reference number REF-5509-KT, and it'll post in like 3 to 5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Really?! Oh wow okay that's—that's actually great, I thought it was just lost money!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah! And er, just so you know, if you ever want to reactivate, we keep your settings for 90 days under retention policy RET-90-STANDARD. But um, the download link—definitely grab that soon."
+        },
+        {
+            "role": "Customer",
+            "content": "I will I will—right now actually—thank you seriously, you've been incredible!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Happy to help! So I've got all three marked for cancellation, confirmation codes CAN-4421-AA, CAN-4422-BB, and uh, CAN-4423-CC. They'll process once you confirm via the email I just—I just sent. Anything else I can help with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "5b4aec6e_script.json",
+    "actor": 6,
+    "scenario": "trying to cancel a subscription they forgot they signed up for",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

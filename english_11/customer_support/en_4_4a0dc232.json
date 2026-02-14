@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I got this... this letter about a settlement? I just—I just can't deal with another thing right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh. Yeah. Those are—hmm. Actually confusing. I got one last month myself. Scared me half to death. Um. Let me. Pull up our settlement database. What company is it regarding?"
+        },
+        {
+            "role": "Customer",
+            "content": "It says... hold on... Hartley Electronics. Class action. I don't even remember..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hartley! Right right. Big one. So that's—er—case number CAS-2847-HL. Data breach from 2021. Affected like. Hmm. 3.2 million customers. Did you—did you shop there between January and October that year?"
+        },
+        {
+            "role": "Customer",
+            "content": "Maybe? I just... everything's been such a blur. Are you sure this is real?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely. No no. It's real. The settlement fund is—let me see—$47.5 million total. Look. I know these notices seem. Well. Sketchy? But this one's legit. Filed through Northern District Court."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Okay okay. So what... what happens if I just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "If you ignore it? Honestly nothing. But—but here's the thing. You could get. Uhh. Between $125 and $450. Depends on—wait let me—yeah. Depends on if you had documented losses."
+        },
+        {
+            "role": "Customer",
+            "content": "I can't—I don't have documents from... from back then..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No that's—that's fine! Most people don't. So the basic claim. Without docs. Gets you $125. Takes maybe. Er. Five minutes online? Portal's at hartleysettlement.com. Super simple."
+        },
+        {
+            "role": "Customer",
+            "content": "Five minutes. Okay. And and the deadline is... when exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "March 15th. So you've got—hmm—seven weeks. But look. Personal advice? Just. Do it now while you're thinking about it. These things. They slip your mind. You know?"
+        },
+        {
+            "role": "Customer",
+            "content": "I just... are you sure I won't get scammed or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I—I totally get that. Really. But no. The official site ends in dot-com. Not dot-net or anything weird. Your claim ID should be. Uh. Top right corner? Starts with HAR and then eight digits?"
+        },
+        {
+            "role": "Customer",
+            "content": "HAR... yeah. HAR-48829164. That's. That's it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Yeah so—so that's your ticket basically. Just. Enter that. Fill out like. Gosh. Four fields? Name. Address. Last four of social. Whether you want. Uhh. Check or PayPal."
+        },
+        {
+            "role": "Customer",
+            "content": "PayPal's faster right? I just need this done..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Way faster. Checks take—er—twelve to sixteen weeks usually. PayPal's like. Four weeks? Maybe six. Oh also! Important thing. Don't—don't pay anything. Some sites charge $30 to \"help\" file. Total scam."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Okay I think I can... I can handle this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You absolutely can. Look it's—hmm. Been a rough few years for everyone. But hey. Free money from a corporation? Take it. That $125 buys a lot of coffee. Or wine. Whatever helps honestly."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "4a0dc232_script.json",
+    "actor": 4,
+    "scenario": "asking about a class action settlement they received notice for",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

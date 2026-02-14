@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need information about shipping a package to Germany. What international options do you offer?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for contacting us. We offer three international shipping tiers to Germany: Express International arrives in 3-5 business days, Standard International takes 7-10 business days, and Economy International requires 14-21 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "What are the price differences between these options? The package weighs approximately twelve pounds."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. For a 12-pound package to Germany, Express International costs $147.50 with tracking code prefix EXP, Standard International is $89.00 with STD prefix, and Economy International is $42.75 with ECO prefix."
+        },
+        {
+            "role": "Customer",
+            "content": "Those prices seem reasonable. Can you explain what customs fees I should expect?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Customs fees depend on the declared value and contents. Germany typically charges 19% VAT on items over 22 euros, plus potential duty fees ranging from 2% to 12% based on product category HS codes."
+        },
+        {
+            "role": "Customer",
+            "content": "That's quite complex. How do I determine the correct product category for electronics?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Electronics generally fall under HS code chapter 85, with duty rates between 3.7% and 6%. I can email you our International Shipping Guide PDF-2024-v3 which includes a complete category reference table."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes, please send that guide. Also, who handles the customs paperwork on my end?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'll send that immediately to your email on file. With our Express and Standard services, we provide all required customs forms including the CN22 declaration and commercial invoice, pre-filled based on information you provide through our online portal."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful. Is there insurance included with any of these shipping options?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Express International includes $100 automatic coverage under policy INT-100-BASE. Standard includes $50, and Economy has no default coverage. Additional insurance is available at $2.50 per $100 of declared value up to $5000 maximum."
+        },
+        {
+            "role": "Customer",
+            "content": "I need coverage for fifteen hundred dollars. How much would that additional insurance cost?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "And that additional insurance cost would be the same regardless of which shipping tier I select?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "For $1500 coverage, the additional insurance would be $35.00 for Express since it already includes $100, or $37.50 for Standard and Economy tiers, calculated from their base coverage amounts."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for clarifying. What happens if German customs rejects or holds the package?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "If customs holds your package, you'll receive notification via tracking update and email within 24-48 hours. Our International Support Team, available Monday through Friday 8AM-8PM EST at extension 4500, assists with customs resolution and documentation."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I'll take the Express International option with the additional insurance please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent choice. I've initiated your Express International shipment order EXP-7734521-DE with $1500 insurance coverage, totaling $182.50. You'll receive a confirmation email with prepaid shipping label and customs forms within 15 minutes."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "369fd590_script.json",
+    "actor": 7,
+    "scenario": "asking about international shipping options and customs fees",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

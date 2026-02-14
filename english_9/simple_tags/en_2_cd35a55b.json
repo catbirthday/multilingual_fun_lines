@@ -1,0 +1,95 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[formal] The demographic breakdown was exactly what you requested—eighteen to thirty-five, evenly split by gender, diverse backgrounds. [pause] Though I should mention, the responses were more uniformly negative than we typically see for this genre."
+        },
+        {
+            "role": "Character 2",
+            "content": "I watched the whole thing from behind the glass. [quietly] Every uncomfortable shift, every glance at phones, every suppressed yawn during what I thought were the most powerful moments."
+        },
+        {
+            "role": "Character 1",
+            "content": "[monotone] The third act scored particularly low on our engagement metrics. [clearing throat] Several participants used words like 'pretentious' and 'self-indulgent' when describing the dream sequences you spent six months filming in Iceland."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Those weren't just dream sequences, they were metaphorical representations of grief and memory intersecting with— [sighs] Never mind, you wouldn't understand what we were trying to accomplish there."
+        },
+        {
+            "role": "Character 1",
+            "content": "[coldly] I understand perfectly well, Mr. Chen. [pause] I've moderated over three hundred screenings, and artistic intent rarely translates when audiences are checking their watches."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] This film wasn't made for people who check their watches! [frustrated] It was made for anyone who's ever lost someone and felt that peculiar emptiness where love used to live."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] Your target audience is whoever the studio needs to buy tickets, and based on tonight's feedback, that audience found your film inaccessible. The score was forty-two out of one hundred."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] Forty-two. [long pause] Three years of my life, my grandmother's story, everything I had to say about loss and connection, reduced to a number lower than most failing grades."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] Forty-two, yes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] I see."
+        },
+        {
+            "role": "Character 1",
+            "content": "The studio will expect revisions."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] They always do, don't they? [sighs] Cut twenty minutes, add more dialogue, make the ending happier, explain everything twice for the people in the back."
+        },
+        {
+            "role": "Character 1",
+            "content": "[matter-of-factly] Those changes consistently improve test scores by fifteen to twenty points. Your grandmother's story might actually reach people if you make it more accessible."
+        },
+        {
+            "role": "Character 2",
+            "content": "[angry] My grandmother spent four years in a refugee camp, she didn't live an 'accessible' life! [trembling] Her story deserves to be told with the complexity and difficulty that honors her experience."
+        },
+        {
+            "role": "Character 1",
+            "content": "[formal] I'm sure it does, but my job is to report audience reactions, not validate artistic choices. [pause] The written feedback forms are particularly harsh about the pacing."
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] Of course they are."
+        },
+        {
+            "role": "Character 1",
+            "content": "[awkwardly] Look, off the record, I actually found the Iceland sequences quite moving. But that doesn't change what twenty-five strangers thought while eating free popcorn."
+        },
+        {
+            "role": "Character 2",
+            "content": "[surprised] You found them moving? [hesitantly] Even the scene with the empty boat drifting through the ice, because everyone seemed to hate that one the most."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softly] My mother died last year. [pause] That empty boat, the way it kept floating despite having no one to steer it—I understood exactly what you were trying to say."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Then you know why I can't change it. [sighs] You know why cutting those scenes would be like cutting out pieces of the people we've lost all over again."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "cd35a55b_scenario.json",
+    "actor": 2,
+    "scenario": "A film director watches helplessly from behind one-way glass as a focus group moderator leads a brutal feedback session about the director's passion project, before the two finally meet face-to-face afterward.",
+    "type": "scenario_conversation",
+    "character_1_role": "focus group moderator",
+    "character_2_role": "film director",
+    "selected_tones": [
+        "withholding",
+        "distant"
+    ]
+}

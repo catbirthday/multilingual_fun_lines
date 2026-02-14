@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[confused] Mrs. Henderson? I knocked several times but the door was already open, and I noticed all these boxes in the hallway— [pause] Is everything alright with your mother?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] She's upstairs, probably pretending to sleep like she does every morning when she hears someone coming. [bitter] Twelve years I've been doing this dance with her, but not anymore."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] I don't understand, are you moving? [quietly] Your mother never mentioned anything about relocating, and she usually tells me everything during our sessions."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] My mother tells people what she wants them to hear. [sighs] Did she mention the three times she left the stove on last month, or how she accused me of stealing her jewelry that she'd hidden in the freezer?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] No, she didn't."
+        },
+        {
+            "role": "Character 2",
+            "content": "[speaking fast] Of course she didn't, because then you'd have to report it, and then social services would get involved, and God forbid anyone think she's not perfectly capable of living independently."
+        },
+        {
+            "role": "Character 1",
+            "content": "Mrs. Henderson, I've been caring for your mother for two years now, and while she has her moments, I've never seen anything that would suggest— [pause] Are you sure this is the right decision?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[loudly] Right decision? [laugh] I haven't had a full night's sleep since 2012, haven't been on a date in five years, and my entire savings is gone from paying for her care."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] I understand this must be incredibly difficult for you, but moving her into a facility might not be what she needs right now. [gently] She's comfortable here, she knows this house."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] This house is killing both of us. [very quietly] I found her wandering the neighborhood at three in the morning last week looking for my father—he's been dead for fifteen years."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shocked] She was wandering? [concerned] Mrs. Henderson, that's a serious safety issue, why didn't you call me or the agency?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defeated] Because then it becomes real, doesn't it? [sighs] Once you put it in a report, once it's documented, you can't pretend anymore that everything's going to magically get better."
+        },
+        {
+            "role": "Character 1",
+            "content": "Your mother loves you more than anything in this world, she talks about you constantly during our time together. [softly] She's going to feel so abandoned."
+        },
+        {
+            "role": "Character 2",
+            "content": "[angrily] Abandoned? [laughs bitterly] I gave up my career, my marriage, my entire life to take care of her, and she doesn't even remember my name half the time."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] Memory loss doesn't erase love, Mrs. Henderson. [pause] Even if she can't express it the way she used to, somewhere deep inside, she knows you're her daughter."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] That's exactly why I can't do this anymore—watching her disappear piece by piece while I disappear right alongside her. [shaky voice] I need to exist again, I need to breathe."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] When are you planning to move her? [sighs] I should probably say goodbye properly, she's going to notice if I just stop coming."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispering] Tomorrow morning."
+        },
+        {
+            "role": "Character 1",
+            "content": "[slowly] Tomorrow? [upset] That's so soon, she won't have time to process this, to understand what's happening—you can't just rip her away from everything she knows without warning."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] I can. [pause] I am."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "dbe64ceb_scenario.json",
+    "actor": 4,
+    "scenario": "A home health aide arrives for their regular shift to find their elderly patient's daughter packing up the house, having finally decided to place her mother in a care facility after years of caregiving.",
+    "type": "scenario_conversation",
+    "character_1_role": "attending",
+    "character_2_role": "liberated",
+    "selected_tones": [
+        "revealing",
+        "questioning",
+        "defeated"
+    ]
+}

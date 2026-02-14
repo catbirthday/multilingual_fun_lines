@@ -1,0 +1,48 @@
+=== Source: 045f14bb_script.json ===
+Actor: english_3
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking about their position in queue or expected wait time
+
+=== Dialogue ===
+
+Customer: I submitted a priority support ticket this morning. Can you tell me my current position in the queue?
+
+Customer Support: I'd be happy to check that for you. May I have your ticket number or the email address associated with your account?
+
+Customer: The ticket number is TKT-894521. I submitted it at 9:15 this morning for a server connectivity issue.
+
+Customer Support: Thank you. I've located ticket TKT-894521 in our system. You're currently position 7 in our priority queue with an estimated response time of 45 minutes.
+
+Customer: That's longer than expected for priority support. What's causing the delay?
+
+Customer Support: I understand your concern. We're experiencing higher than normal volume today with a 40% increase in tickets due to a widespread authentication server issue affecting multiple clients.
+
+Customer: Is my issue related to that authentication problem? Our employees can't access the shared drives.
+
+Customer Support: Absolutely.
+
+Customer: Can you provide more details about the authentication issue and whether there's a workaround?
+
+Customer Support: Certainly. The authentication server cluster AUT-EAST-03 experienced a certificate expiration at 7:32 AM affecting approximately 1,200 customers. Our team has implemented a temporary bypass that I can enable for your account.
+
+Customer: That would be helpful. How quickly can you implement that bypass?
+
+Customer Support: I can activate the bypass immediately. Your temporary access code will be TEMP-ACCESS-7294 and will remain valid for 48 hours while we complete the permanent fix.
+
+Customer: Perfect. Will this restore full access to all shared resources?
+
+Customer Support: The bypass will restore access to 95% of your resources. Three restricted folders requiring enhanced authentication will remain inaccessible until the permanent fix is deployed tomorrow at 6:00 AM Eastern.
+
+Customer: Which three folders? I need to know if any critical data will be affected.
+
+Customer Support: According to your configuration profile CFG-894521-A, the affected folders are Archive2023, ComplianceAudit, and FinancialReports-Restricted. I can email you a complete list with alternative access methods.
+
+Customer: Please send that email immediately. Also, will we receive compensation for this service disruption?
+
+Customer Support: I've sent the email to your registered address. Regarding compensation, all affected accounts will receive a 15% service credit for this billing period, approximately $847.50 based on your current plan.
+
+Customer: Thank you. Can you confirm the permanent fix timeline and what steps we need to take afterward?
+
+Customer Support: The permanent fix deploys tomorrow at 6:00 AM Eastern with no action required from you. Your ticket TKT-894521 will remain open for 72 hours post-resolution to ensure everything functions correctly.
+

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Just need to know what it costs to cancel."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right okay let me pull up your account real quick what's the phone number on file?"
+        },
+        {
+            "role": "Customer",
+            "content": "Five five five, eight seven two nine."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect got it account ACC-4819-NZ here okay so you're asking about early termination and let me see here you've got seventeen months left on your current agreement AGR-20240315-B which means the fee would be two hundred ninety dollars but wait there might be another option here."
+        },
+        {
+            "role": "Customer",
+            "content": "Two ninety. Course it is."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I know I know it's steep but listen I'm looking at your usage patterns here and you're barely using half your data allowance like consistently under fifty percent for the last six months."
+        },
+        {
+            "role": "Customer",
+            "content": "So?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So what I'm thinking is we could downgrade you to our basic plan PLN-BASIC-45 which would save you thirty-two dollars a month and here's the thing the termination fee on that one is only ninety dollars after we process the change so you're looking at a two hundred dollar difference."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* How long's that take?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm what's the word I'm looking for it's like instantaneous but for billing purposes so basically changes go live immediately but the new termination structure kicks in after one billing cycle which for you would be the fifteenth."
+        },
+        {
+            "role": "Customer",
+            "content": "The fifteenth. That's three weeks away."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right exactly three weeks but let me see here oh wait actually there's a promo code PRM-LOYALTY-Q1 I can apply that'll waive the first month of the new plan so you're saving even more and honestly between you and me the system's been glitchy with these fees lately."
+        },
+        {
+            "role": "Customer",
+            "content": "Glitchy how?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so basically what happens is about thirty percent of the time when we process these downgrades the system just forgets to apply the termination fee at all I mean I'm not saying that'll happen but file reference DOC-7739-X shows it's been happening since December."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* You're telling me it might be free?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm telling you the system has documented issues and if you wait until after the downgrade processes on the fifteenth and then initiate cancellation there's a non-zero chance the fee gets waived entirely but worst case you're still saving two hundred."
+        },
+        {
+            "role": "Customer",
+            "content": "Fine. Do it. The downgrade thing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already processing it confirmation number CNF-9982-RT-55 and you'll get an email about this but just so you know after the fifteenth if you do decide to cancel call back and specifically ask for the retention department they have override codes I don't have."
+        },
+        {
+            "role": "Customer",
+            "content": "Retention. After the fifteenth. Got it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly and just reference this interaction ID INT-20250127-4K9M because I'm putting notes in here about the glitch situation so whoever gets your call will know what's up and honestly you've been with us four years you deserve better than a massive fee just to leave."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "c3761bf8_script.json",
+    "actor": 5,
+    "scenario": "asking about early termination fees for their contract",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

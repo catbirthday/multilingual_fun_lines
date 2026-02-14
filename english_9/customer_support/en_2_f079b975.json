@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I need to discuss an unauthorized rate increase on my account that appeared on this month's bill."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for calling. I'll be happy to review your account and investigate this rate change. May I please have your account number to get started?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 4829-7761-0043. This needs to be resolved today as I'm processing quarterly budgets."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your account 4829-7761-0043 pulled up now, showing you've been with us since March 2021. I can see there was a rate adjustment on your October 15th billing cycle."
+        },
+        {
+            "role": "Customer",
+            "content": "I never received any notification about this increase. My contract specifies thirty days advance notice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern, and you're absolutely right about the notification requirement. Let me check your notification history in our system CRM-7742 to see what correspondence was sent and when."
+        },
+        {
+            "role": "Customer",
+            "content": "Please do. This is a twenty-eight percent increase, which significantly impacts our operating costs."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the issue now. Our system shows a notification was queued for dispatch on September 14th with reference number NTF-89234-QR, but there's a delivery failure flag on your account's email settings."
+        },
+        {
+            "role": "Customer",
+            "content": "That's concerning. We haven't changed our contact information and receive all other correspondence without issue."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're correct to be concerned. I can see all your invoices and service updates have been successfully delivered to the email address ending in -corp.com, but this specific rate notification encountered an error code E-7749."
+        },
+        {
+            "role": "Customer",
+            "content": "What does that mean exactly, and more importantly, how do we fix this situation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "I need this rate reversed until proper notice is given. When can that be processed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand, and given the notification failure on our end, that's a reasonable request. I'm escalating this to our billing adjustment team under case number ADJ-5521-KMP for expedited review within two business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Two business days is acceptable. Will the rate be reversed retroactively to October fifteenth?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, I'm adding that specific request to your case. The adjustment will backdate to October 15th, crediting the difference of $347.82 to your account once approved by the billing team."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Please send me written confirmation of this case and the expected resolution timeline."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for handling this efficiently. I'll watch for that confirmation and the case updates."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've documented everything in case ADJ-5521-KMP and added priority status due to the notification error. You'll receive the confirmation within the hour, and I'll personally monitor this to ensure it's resolved properly."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "f079b975_script.json",
+    "actor": 2,
+    "scenario": "wanting to know why their rate increased without notice",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

@@ -1,0 +1,46 @@
+=== Source: dialogue3_46.txt ===
+Actor: english_1
+Content Type: dialogue
+
+=== Dialogue ===
+
+Character 1: [happy] I heard Nike's been using Vicon systems for their new running shoe line. Is that something you've worked with?
+
+Character 2: [stuttering] Oh, V-Vicon, yeah we actually, um, we just installed their T-Series cameras last month. Eight cameras tracking at 250 fps for gait analysis, though honestly the calibration process is, er, pretty intense compared to OptiTrack.
+
+Character 1: What's the marker placement like for footwear analysis?
+
+Character 2: [regretful] Man, I wish we'd gone with the Helen Hayes protocol from the start. We tried a custom 12-marker setup on the foot alone but the occlusion issues were, uh, basically nightmarish, especially during heel strike phases.
+
+Character 1: Retroreflective markers or active LEDs?
+
+Character 2: Retroreflective all the way. The 14mm spheres work best for, hmm, for foot tracking actually. Active markers generate too much heat and, I mean, when you're testing athletic performance that kind of throws off the whole biomechanical authenticity thing.
+
+Character 1: How do you handle marker dropout during rapid directional changes?
+
+Character 2: [extremely happy] Oh that's where Cortex software absolutely shines! The gap-filling algorithms use cubic spline interpolation and, erm, we can reconstruct up to 10 frames of missing data without noticeable drift in the trajectory calculations!
+
+Character 1: What frame rates do you need for impact analysis?
+
+Character 2: Minimum 500 fps for heel strike, but we're, uhh, we're pushing for 1000. The ground reaction forces peak within 20 milliseconds, so standard 120 fps mocap is essentially useless for understanding cushioning dynamics.
+
+Character 1: Do you sync with force plates?
+
+Character 2: Yeah, two AMTI plates running at 2000 Hz. The synchronization happens through, er, through BNC cables into the Vicon Lock unit, gives us sub-millisecond accuracy between kinematic and kinetic data streams.
+
+Character 1: [smiling speaking] Smart. What about IMU integration for outdoor testing?
+
+Character 2: Mmm, sure. We use Xsens MTw Awinda sensors, seventeen of them actually, but the drift is, oof, it's rough after about three minutes. Indoor optical tracking is still way more reliable for precision work.
+
+Character 1: How many subjects do you typically run per shoe prototype?
+
+Character 2: Usually fifteen to twenty, different foot types, pronation patterns, all that. The, um, the data processing alone takes about four hours per subject when you factor in cleaning, labeling, and inverse kinematics calculations.
+
+Character 1: C3D or FBX for your export format?
+
+Character 2: C3D definitely. It's the biomechanics standard and, I mean, Visual3D reads it natively. FBX is more for, uhh, for animation studios really, not serious gait analysis or footwear development work.
+
+Character 1: Ever tried markerless systems like Theia3D?
+
+Character 2: Tested it last year actually. The AI pose estimation is impressive but, hmm, for shoe design we really need that sub-millimeter precision on foot segments, and markerless just isn't there yet, especially for metatarsal tracking.
+

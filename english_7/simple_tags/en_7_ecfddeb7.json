@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[nervously] You're the technician?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, I'm here to assess the damage and install a new meter. [pause] The police report said it was intentional destruction, spray paint and a baseball bat apparently."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] I'm so sorry about what Tyler did to your equipment. [quietly] I know an apology doesn't fix anything, but I wanted to meet you in person before you started the work, to at least try to explain."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Look, ma'am, I appreciate you coming out here, but this is the third meter I've had destroyed this month. [sighs] Kids think it's funny to mess with utility equipment, not realizing someone has to fix it."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] He's not my biological son, I've only been his stepmother for two years, and honestly, I don't know how to reach him anymore. [voice breaking] His father works overseas contracts, gone eight months out of twelve, and Tyler blames me for everything wrong in his life."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] That meter he destroyed was one I'd just installed last week, took me three hours in ninety-degree heat to get it properly calibrated. [quietly] My supervisor's threatening to dock my pay for the replacement costs since it happened on my route."
+        },
+        {
+            "role": "Character 1",
+            "content": "[apologetic] We'll cover everything, all the costs, your time, whatever penalties there are. [anxiously] I've already talked to our lawyer about restitution, and Tyler's going to work all summer to pay it back, though he doesn't know that yet."
+        },
+        {
+            "role": "Character 2",
+            "content": "[slowly] You know what really gets me? I have a seventeen-year-old son too, and [sighs] last year he got caught shoplifting because his friends dared him to."
+        },
+        {
+            "role": "Character 1",
+            "content": "[surprised] You have a teenager? [empathetically] Then you understand how they can just suddenly become these strangers living in your house, angry at the world and taking it out on anyone nearby."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] The shoplifting wasn't even about the stuff, it was about his mom and me divorcing. [pause] Kids don't know how to process big emotions, so they break things instead."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] That's exactly it, Tyler's mom died three years ago, and his dad remarried me so fast, and now [trembling] I'm trying to parent this kid who sees me as the enemy who replaced his mother."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] My son's doing better now, working part-time, staying out of trouble. Sometimes they just need to hit bottom before they can start climbing back up."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] I keep wondering if I should just leave, let his father deal with this when he gets back from Kuwait, but that feels like abandoning Tyler when [sighs] maybe what he needs is someone who won't give up on him."
+        },
+        {
+            "role": "Character 2",
+            "content": "Ma'am, I'm going to be honest with you, the fact that you're here, talking to me directly instead of just sending a check through your insurance, that says something about the kind of person you are."
+        },
+        {
+            "role": "Character 1",
+            "content": "Tyler doesn't even know I'm here, he'd probably be mortified, but I needed to do this for myself too, to feel like I'm doing something constructive instead of just yelling and grounding him over and over."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Look, I do youth mentoring through my church on weekends. [quietly] If Tyler needs someone to talk to who isn't family, who's been through some stuff, I could give you my card."
+        },
+        {
+            "role": "Character 1",
+            "content": "[crying while speaking] You'd do that? After what he did to your equipment? [gratefully] I don't even know what to say, that's incredibly generous of you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[formal] I need to get this meter installed before my next appointment, but think about it. [warmly] Sometimes kids listen better to strangers than family."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sincerely] Thank you for not just seeing us as another problem household. [pause] I'll talk to Tyler tonight, see if he's open to meeting you properly, under better circumstances."
+        },
+        {
+            "role": "Character 2",
+            "content": "[chuckling] Better circumstances than vandalism? Yeah, that'd be good."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "ecfddeb7_scenario.json",
+    "actor": 7,
+    "scenario": "A stepmother dealing with her teenage stepson's recent arrest for vandalism encounters the meter technician whose electric meter was destroyed in the incident.",
+    "type": "scenario_conversation",
+    "character_1_role": "stepmother",
+    "character_2_role": "meter technician",
+    "selected_tones": [
+        "awkward",
+        "conflicting",
+        "yielding"
+    ]
+}

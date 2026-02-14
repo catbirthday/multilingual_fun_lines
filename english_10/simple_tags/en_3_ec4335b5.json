@@ -1,0 +1,95 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "You people have been trampling through my property for three days, setting up lights and cables like you own the place. [firmly] I want you gone, and I want every piece of equipment off my land within the hour."
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] I understand you're upset, and you have every right to be. We thought we had clearance from the county for this location. [pause] I'm just here to grab our color calibration monitors and the backup drives we left yesterday."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] The county doesn't own this land, I do, and I moved out here specifically to avoid people like you. [loudly] Your cameras, your noise, your constant invasion of spaces that aren't yours to take."
+        },
+        {
+            "role": "Character 2",
+            "content": "[calmly] Look, there's clearly been a miscommunication somewhere. [sighs] I'm not the producer or director, I just manage the digital footage and make sure the colors look right on screen."
+        },
+        {
+            "role": "Character 1",
+            "content": "[coldly] I don't care what your job title is."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Fair enough. [quietly] But while I'm packing up, can I ask why you chose such complete isolation? Most people at least keep a mailbox at the main road."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] Because every interaction, every conversation, every moment of forced social contact takes something from me that I can't get back. [exhales] You wouldn't understand what it's like to feel physically drained by other people's presence."
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] Actually, I might understand more than you think. [slowly] I spend twelve hours a day staring at screens in a dark tent, avoiding the crew's small talk because it breaks my concentration."
+        },
+        {
+            "role": "Character 1",
+            "content": "[suspicious] That's not the same as choosing to live twenty miles from the nearest human being. [firmly] You still go home to civilization, to grocery stores and traffic lights and neighbors who wave at you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] I haven't been home in three months. [sighs] I sleep in the equipment truck between locations because facing an empty apartment feels harder than just staying with the machines."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confused] But you're surrounded by people all day. [pause] How can you be lonely when you're never actually alone?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Being surrounded by people who only see you as a function, not a person, is the worst kind of isolation. [clearing throat] At least you chose your solitude; mine just happened while I was looking at color graphs."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softer] The equipment you're looking for is probably in the clearing by the old oak tree. [hesitantly] Your crew left a mess there yesterday, cables everywhere."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Thank you, I'll clean all of it up, not just our stuff. [pause] And I'll make sure the production company knows this was private property, though I doubt they'll care much."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] They won't care, they never do, which is why I have motion sensors and cameras now. [sighs] Ironic, isn't it, needing surveillance technology to maintain solitude?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[chuckle] If you want, I could adjust your camera settings for better night visibility. [quickly] It would only take a few minutes, and then I'll be gone."
+        },
+        {
+            "role": "Character 1",
+            "content": "[uncertain] Why would you help me? [quietly] I just spent ten minutes telling you to get off my property."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warm] Because I understand wanting to protect your space from intrusion. [very sincerely] And because maybe helping one person who actually chose isolation properly makes up for all of us who just stumbled into it accidentally."
+        },
+        {
+            "role": "Character 1",
+            "content": "[long pause] Fine. [mumbling] But after you fix them, you leave and make sure nobody from your production ever comes back here."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confidently] Deal. And honestly, after I submit my resignation tonight, I won't be anyone from their production anymore anyway. [exhales] Maybe it's time I chose my isolation instead of letting it choose me."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "ec4335b5_scenario.json",
+    "actor": 3,
+    "scenario": "An isolationist living in a remote cabin discovers a film crew has been using their property without permission and confronts the DIT who stayed behind to retrieve forgotten equipment.",
+    "type": "scenario_conversation",
+    "character_1_role": "isolationist",
+    "character_2_role": "DIT (digital imaging technician)",
+    "selected_tones": [
+        "dissenting",
+        "repellent"
+    ]
+}

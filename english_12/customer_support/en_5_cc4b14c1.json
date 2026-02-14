@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm trying to use promotional code SAVE25 at checkout, but it's showing as invalid. This was sent to me yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for bringing this to my attention. Let me access your account and check the status of that promotional code. May I have your email address associated with the account?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's michael.chen@stratosdigital.com. The email clearly states the code is valid through Sunday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, I have your account pulled up. I can see you received our promotional email yesterday at 3:47 PM with code SAVE25 for our premium subscription upgrade. Let me verify why it's not applying correctly."
+        },
+        {
+            "role": "Customer",
+            "content": "I need this resolved quickly. I'm presenting the upgraded features to my team this afternoon."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the urgency. I've identified the issue - the code is specifically linked to annual billing plans, and you're currently attempting to apply it to a monthly subscription option."
+        },
+        {
+            "role": "Customer",
+            "content": "The email doesn't mention that restriction anywhere. Can you point me to where that's stated?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right to question that. I'm reviewing the email template sent from our marketing system, reference ID MKT-8924-Q3, and I can confirm the billing restriction wasn't clearly communicated in yesterday's campaign."
+        },
+        {
+            "role": "Customer",
+            "content": "So how do we resolve this? I need the discount you promised."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And I'm not interested in being locked into an annual plan when the terms weren't disclosed properly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's completely reasonable and I apologize for the confusion. I'm going to create a custom discount code that will apply to your monthly plan, matching the 25% savings you were expecting."
+        },
+        {
+            "role": "Customer",
+            "content": "That works. When will I receive the new code?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm generating it right now. Your new promotional code is MCHEN-7251-SP and it's already active in our system. This code will provide 25% off your monthly premium subscription for the next six months."
+        },
+        {
+            "role": "Customer",
+            "content": "Six months of the discount? That's better than the original offer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Correct. Given the inconvenience and the miscommunication in our marketing email, I've extended the discount period as a courtesy. The code will automatically apply the savings through April 2024."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I just applied it and it's working. Can you email me confirmation of these terms?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm sending a detailed confirmation to michael.chen@stratosdigital.com right now. You'll receive it within the next five minutes with reference number SUP-4082-MC for your records."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent service. Thank you for resolving this professionally and quickly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've also added a note to your account about this interaction and forwarded feedback to our marketing team about the unclear promotional terms. Is there anything else I can assist you with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "cc4b14c1_script.json",
+    "actor": 5,
+    "scenario": "asking why their promotional discount code isn't working",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

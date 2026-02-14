@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need clarification on my service plan upgrade. Two agents gave me completely different information yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for the confusion. Let me pull up your account and review the previous interactions. May I have your account number to ensure I'm looking at the correct profile?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 8847-2901-KL. One agent said the upgrade takes effect immediately, another said next billing cycle."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I have your account here, number 8847-2901-KL, and I can see both interactions from yesterday at 2:15 PM and 4:47 PM. Let me review the notes to understand what happened."
+        },
+        {
+            "role": "Customer",
+            "content": "I need to know the accurate information. This affects my budget planning for this quarter."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I understand the importance. According to our system protocols and your specific plan type, which is our Professional tier 3 package, upgrades take effect at the start of the next billing cycle, which for you is January 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "Then why did the first agent tell me it would be immediate with prorated charges?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the source of confusion now. The agent at 2:15 PM incorrectly referenced our legacy policy LS-2021 which applied to older accounts. Your account, opened in March 2023, follows our current upgrade policy documented in section 4.2 of your service agreement."
+        },
+        {
+            "role": "Customer",
+            "content": "I'd like written confirmation of the correct policy and when my upgrade actually begins."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "Will there be any adjustment for the confusion? I made decisions based on incorrect information."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your frustration. As an apology for the miscommunication, I'm authorized to apply a one-time courtesy credit of $75 to your account, which will appear as adjustment ADJ-94521 on your next statement."
+        },
+        {
+            "role": "Customer",
+            "content": "That's appreciated. Can you also ensure the incorrect information is corrected in my account notes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm updating your account notes right now with clarification memo CM-2024-1208. I'm also flagging the previous interaction for coaching purposes to prevent this from happening to other customers."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. How do I access the written confirmation you mentioned?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The confirmation will be sent to your registered email within the next 30 minutes as document DOC-7745892. It will include your upgrade details, the effective date of January 15th, and reference case number CSE-20241208-447."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Is there a direct line I can use if I have questions about this specific issue?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, you can reference case number CSE-20241208-447 when calling our priority line at extension 4500. Any tier 2 representative or above will have full visibility to today's resolution and can assist you immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for clarifying everything and handling this professionally. I appreciate the thorough response."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've also added a priority flag PF-Gold to your account to ensure consistent service going forward. Is there anything else I can help you with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "6fc24bb2_script.json",
+    "actor": 4,
+    "scenario": "confused because two different agents gave them completely different information",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

@@ -1,0 +1,48 @@
+=== Source: 8e9c00de_script.json ===
+Actor: english_5
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking why their autopay didn't process correctly
+
+=== Dialogue ===
+
+Customer: Good morning. I'm calling about my autopay that failed to process on October 15th. This has never happened before and I need to understand why.
+
+Customer Support: Good morning, and thank you for reaching out about this. I understand your concern about the autopay failure. Let me access your account right away. May I have your account number or the phone number associated with your service?
+
+Customer: The account number is 447-829-3156. I've had autopay set up for three years without any issues.
+
+Customer Support: Thank you. I've located your account 447-829-3156 and I can see you've been a valued customer since 2021. Let me review the payment history and identify exactly what happened with your October 15th autopay attempt.
+
+Customer: I appreciate that. My credit card hasn't expired and there were sufficient funds available.
+
+Customer Support: I can see the attempted charge here. The payment of $189.42 was declined when we processed it at 3:47 AM Eastern on October 15th. The decline code indicates the card issuer flagged it as potentially fraudulent. Have you received any alerts from your bank?
+
+Customer: No alerts at all. I've been using this same card ending in 4782 for all my autopayments.
+
+Customer Support: I understand how frustrating this must be. The card ending in 4782 is still on file and appears valid through 08/2026. Sometimes banks flag recurring charges if there's been unusual activity on the account or if their fraud detection algorithms have been updated.
+
+Customer: What do I need to do to ensure this doesn't happen again? I can't have service interruptions.
+
+Customer Support: Absolutely, let's prevent this going forward. First, I recommend contacting your bank to pre-authorize our merchant ID MER-7829-TELCO for recurring charges. Second, I can process your October payment right now over the phone and add a backup payment method to your account.
+
+Customer: Let's process the payment now. Should I try the same card or would you recommend using a different one?
+
+Customer Support: I'd suggest trying the same card first since you've confirmed there are no issues on your end. If it processes successfully now, we'll know it was just a temporary flag. I'm ready to process the $189.42 payment whenever you're ready.
+
+Customer: Please go ahead and run it. I'm also interested in adding that backup payment method you mentioned.
+
+Customer Support: Processing now. Excellent news—the payment has been approved successfully. Your confirmation number is PAY-102024-8K7M2. Now, for the backup payment method, you can add either another credit card or a bank account for ACH transfers.
+
+Customer: I'll add my checking account as backup. What information do you need from me?
+
+Customer Support: Perfect choice. I'll need your routing number and account number, which you'll find at the bottom of your checks. The routing number is nine digits and starts with either 0, 1, 2, or 3. Once added, this will only be charged if your primary card fails.
+
+Customer: The routing number is 021000021 and the account number is 5589421000. Please confirm you have that correctly.
+
+Customer Support: I've entered routing number 021000021 and account number 5589421000. For security, I'm sending a verification code to your phone ending in 7739. Once you receive it, please provide that code to complete the backup payment setup.
+
+Customer: I just received it. The verification code is 445892.
+
+Customer Support: Perfect, code 445892 is verified. Your backup payment method is now active and I've documented everything in your account notes. You'll receive an email confirmation within five minutes detailing both today's successful payment and your updated autopay settings. Is there anything else I can help you with today?
+

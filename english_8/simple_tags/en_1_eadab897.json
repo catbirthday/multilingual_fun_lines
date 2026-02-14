@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[nervously] So I've reviewed your application for the lab expansion three times now, and, um, there are significant concerns about the proximity to the residential district. The board is leaning toward denial."
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] We've addressed every single environmental concern in that two-hundred-page impact assessment. What more could you possibly need from us at this point?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] It's not just the environmental factors, it's the, uh, the nature of what you're researching. Gene therapy trials make people uncomfortable, especially when they're happening, you know, three blocks from an elementary school."
+        },
+        {
+            "role": "Character 2",
+            "content": "[passionately] Those trials are for pediatric neurological disorders that affect one in ten thousand children. We're literally trying to save kids' lives here, not endanger them. [sighs] This is exhausting."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] I understand the importance of the work, believe me, but my job is to balance community concerns with development needs, and right now the community is, well, they're scared."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Scared of what exactly? That we might accidentally cure something? [pause] Do you know how many families are desperately waiting for these trials to expand?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] Actually, I do know. My wife has been on your waiting list for fourteen months now. Stage three neurodegeneration, same markers you're targeting in your current limited trials."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shocked] Wait, your wife is Sarah Chen? [softly] Oh my god, I've reviewed her case file dozens of times. She's exactly the type of patient we could help if we could just scale up."
+        },
+        {
+            "role": "Character 1",
+            "content": "I can't let that influence—"
+        },
+        {
+            "role": "Character 2",
+            "content": "[urgently] Listen, the expansion isn't just about more space, it's about manufacturing capacity for the treatment compounds. Without it, we're stuck treating twelve patients a year instead of twelve hundred."
+        },
+        {
+            "role": "Character 1",
+            "content": "[struggling] Jesus, I—"
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] You must think I'm trying to manipulate you now, but I swear I had no idea about the connection. Your last name is different from hers, and I never put it together."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] She kept her maiden name professionally. [clears throat] Look, even if I wanted to help, and god knows I do, the board vote is tomorrow and they've already made up their minds."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] What if we modified the proposal? Reduced the footprint by thirty percent, added a community liaison program, maybe even offered free screenings for local families? Would that change anything?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[torn] That might... actually that might work. The board's main concern is community buy-in. If you could guarantee those screenings and maybe, um, add some kind of citizen oversight committee?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[hopeful] We can have a revised proposal to you by tonight. [pause] Can I ask how Sarah's doing? Her last update showed some concerning progression markers."
+        },
+        {
+            "role": "Character 1",
+            "content": "[voice breaking] She's trying to stay positive but we both know the timeline. The doctors say maybe eight months without intervention. [exhales] That's why I've been avoiding your calls, actually. Conflict of interest."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] There's no conflict in wanting to save lives, including your wife's. Let me get that revision to you, and we'll make this work somehow."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] Thank you for understanding why I couldn't say anything initially. This whole situation is just, it's impossibly complicated. [sighs] Send it to my personal email, not the office."
+        },
+        {
+            "role": "Character 2",
+            "content": "[determined] You'll have it by six. And listen, regardless of what happens with the zoning, I'm going to personally review Sarah's case again. Sometimes we can fast-track compassionate use exemptions."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "eadab897_scenario.json",
+    "actor": 1,
+    "scenario": "A pharmaceutical researcher meets with a zoning officer who's about to deny permits for their critical lab expansion, unaware the officer's spouse is enrolled in their waiting list for experimental treatment.",
+    "type": "scenario_conversation",
+    "character_1_role": "pharmaceutical researcher",
+    "character_2_role": "zoning officer",
+    "selected_tones": [
+        "concealing",
+        "delicate",
+        "analytical"
+    ]
+}

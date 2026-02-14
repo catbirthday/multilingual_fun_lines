@@ -1,0 +1,48 @@
+=== Source: 07cff30a_script.json ===
+Actor: english_6
+Content Type: customer_support
+Professionalism: professional
+Scenario: frustrated because they keep getting disconnected every time they're transferred
+
+=== Dialogue ===
+
+Customer: I've been disconnected three times today while being transferred. I need to speak with someone who can actually help me.
+
+Customer Support: I sincerely apologize for that frustrating experience. I'm going to personally handle your entire issue today without any transfers. Your case reference number is CS-892417-M, and I have full authorization to resolve billing, technical, and account matters.
+
+Customer: Thank you. I'm trying to update the payment method on my business account, but it keeps rejecting my corporate card.
+
+Customer Support: I can definitely resolve that for you right now. I'm pulling up your business account ending in 4782, and I see you've had three attempted updates since Monday that were blocked by our security protocols.
+
+Customer: That's correct. Our company just switched to new corporate cards last week.
+
+Customer Support: Understood. The system flagged these as suspicious due to the sudden change. I'm overriding the security hold with authorization code SEC-77291-OVERRIDE, and we can process your new card immediately.
+
+Customer: Excellent. The new card ends in 8823, issued by Chase.
+
+Customer Support: Perfect. I'm entering that information now. For security verification, I'll need the billing ZIP code and the CVV from your new corporate card ending in 8823.
+
+Customer: The ZIP is 10017 and the CVV is 445.
+
+Customer Support: Thank you. I've successfully updated your payment method. Your next automatic billing date is December 15th for $2,847.50, and I'm sending a confirmation to your registered email address.
+
+Customer: Will this card work for all five of our subsidiary accounts as well?
+
+Customer Support: I see you have five linked subsidiary accounts under master account MA-10984-CORP. I can apply this payment method to all of them right now if you'd like, which would save you from updating each one individually.
+
+Customer: Yes, please do that. We need consistent billing across all accounts.
+
+Customer Support: Absolutely. I'm updating all five subsidiary accounts now with batch process ID BP-20241129-K5M. This will take approximately 30 seconds, and each account will receive its own confirmation number.
+
+Customer: I appreciate you handling this efficiently. The previous representatives couldn't access these settings.
+
+Customer Support: I understand your frustration with the earlier calls. I've added priority status flag PRIO-GOLD-2024 to your master account, which means any future calls will route directly to senior support without transfers.
+
+Customer: That's very helpful. Can you email me documentation of all these changes?
+
+Customer Support: Certainly.
+
+Customer: How long until I receive that complete summary?
+
+Customer Support: You'll receive the comprehensive summary within 15 minutes at your primary email address. It will include confirmation numbers SUB-001-CFM through SUB-005-CFM for each subsidiary account, plus instructions for your new priority support access code PSA-7761-EXEC.
+

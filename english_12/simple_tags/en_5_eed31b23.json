@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[confused] Wait, I recognize that nervous habit with your ring—you always twist it counterclockwise when you're about to lie. [pause] Rebecca? Rebecca Thornton from Marks & Associates?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Oh my god, Sandra! [nervous laugh] I didn't realize you'd become a career counselor after everything that happened at the firm."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] After everything that happened? [coldly] You mean after you told the partners I was interviewing with competitors while secretly applying for my promotion yourself?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] That's not exactly how it went down, and you know the partners were already questioning your commitment when you took those mental health days. [defensive] I was just being honest about what I observed."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] Honest? [laugh] You literally edited my presentation slides the night before the client pitch to make yourself look better. I found the version history, Rebecca."
+        },
+        {
+            "role": "Character 2",
+            "content": "[mumbling] I improved them."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sarcastically] Right, improved."
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] Look, it was a competitive environment and we all did what we had to do to survive. [sighs] That's actually why I'm here—karma caught up and now I'm the one who got pushed out."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] So you want career advice from the person whose career you deliberately sabotaged? [pause] The irony is absolutely breathtaking, even for you."
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] I know how this looks, okay? [quietly] But you're the best counselor in the city now, everyone says so, and I genuinely need help rebuilding after what happened to me at Morrison Tech."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] Morrison Tech? [chuckle] Let me guess—someone younger and hungrier played your own game against you, copied your tactics, maybe even perfected them?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] They recorded me badmouthing the CEO at happy hour and anonymously sent it to the board. [bitter] Three weeks later I was escorted out by security with a cardboard box."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] Part of me wants to say you deserved it, but watching anyone go through that kind of humiliation—[sighs] it's brutal, even when there's poetic justice involved."
+        },
+        {
+            "role": "Character 2",
+            "content": "I get it if you want me to leave."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] No, sit down."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confused] What? Why would you help me after everything? I destroyed your trajectory at Marks, and we both know you would've made partner by now."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] Because I'm a professional, and because the best revenge isn't refusing to help you. [pause] It's showing you what actual integrity looks like while you're at your lowest point."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] I don't deserve this kindness, Sandra. [crying while speaking] I've been carrying the guilt for five years, telling myself it was just business, but seeing you now, successful despite what I did—"
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] Stop. [coldly] This isn't about kindness or forgiveness, Rebecca—it's about me being better at my job than you ever were at yours. Now, let's discuss your skill gaps."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very meekly] Okay, yes, let's do that. [pause] I'm ready to actually listen this time, to someone who clearly knows how to build something real instead of just tearing others down."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "eed31b23_scenario.json",
+    "actor": 5,
+    "scenario": "A career counselor realizes during a session that their client is the same 'friend' who sabotaged their own career years ago while pretending to be supportive.",
+    "type": "scenario_conversation",
+    "character_1_role": "career counselor",
+    "character_2_role": "fake friend",
+    "selected_tones": [
+        "sharp",
+        "regretful",
+        "challenging"
+    ]
+}

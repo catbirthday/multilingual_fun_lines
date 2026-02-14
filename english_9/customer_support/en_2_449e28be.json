@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So my friend said—sorry, is this the right number? She basically said you guys are really helpful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely. Yeah yeah yeah. Let me just. Pull up your account here. Hmm, can I get your email or order number to start?"
+        },
+        {
+            "role": "Customer",
+            "content": "I don't have an order yet. That's—sorry, I'm probably doing this wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no, you're fine! So what I can do is. Actually let me. Create a guest profile real quick. I'll assign you customer ID #428916. Alright. What were you hoping to. Er, what can I help you with today?"
+        },
+        {
+            "role": "Customer",
+            "content": "So basically I need. Um. A warranty replacement? Sorry. This is embarrassing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey nothing embarrassing about warranty claims. I do like. Forty of these a day. Okay so. Let me see here. What's the product you need replaced?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's a blender. The—sorry, the model is like. BL4400? I think?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect. BL4400 series. Registered under warranty code WTY-8829-MK. Hmm, when did you. Actually wait. Let me check something. Uh, did you buy this directly from us or through a retailer?"
+        },
+        {
+            "role": "Customer",
+            "content": "Amazon. Sorry. Should I have bought direct? I'm an idiot."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no you're totally fine! Amazon purchases are covered. I just need to. Okay okay. So the thing is. Your purchase date would be logged under reference AMZ-2024-0318. Er, do you happen to have that Amazon order number handy?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah so it's. Hold on. Sorry. 114-8829043-2881028."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Beautiful. Pulling that up now. Huh, okay so. This is interesting. Your warranty expires April 15th but. Oof. Actually no wait. Let me double-check the extended coverage under plan EXT-9902."
+        },
+        {
+            "role": "Customer",
+            "content": "Did I mess something up? I probably filled the form wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're good! So what happened is. Hmm. The system flagged this for manual review because. Well basically. Your serial number SN-44789-XLR shows you got one of our premium units that actually has. Er. Better coverage than standard."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Really? My friend just said—sorry, I didn't know that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah, your friend was right to send you here! So. Let me just. Process this under claim number CLM-7764-RX. What I'm gonna do is. Uhh. Expedite this for you. Should arrive by. Actually no. Let me upgrade you to express shipping code EXPSHIP24."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait you don't have to. I mean. That's really nice though."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Listen. It's no trouble. Your warranty tier VIP-GOLD actually qualifies for it anyway. Mmm, I'm seeing here. Yeah. New unit ships tomorrow. Tracking will be TRK-9847-KLMN. And honestly? This is the easy part of my day."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry for being so. You know. Awkward about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Are you kidding? You're fine! Look. I just had someone yell at me about. Well. Anyway. Your replacement confirmation is CNF-8892-PPQ. Uh, anything else I can help with? Because honestly? You've been. Like. The nicest caller today."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "449e28be_script.json",
+    "actor": 2,
+    "scenario": "hopeful because a friend said customer service was really good here",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

@@ -1,0 +1,48 @@
+=== Source: 10145ab6_script.json ===
+Actor: english_5
+Content Type: customer_support
+Professionalism: professional
+Scenario: wanting to add an authorized user to their account
+
+=== Dialogue ===
+
+Customer: Good morning. I need to add my business partner as an authorized user to our corporate account, please.
+
+Customer Support: Good morning, and thank you for calling. I'd be happy to assist you with adding an authorized user to your account today. May I please have your account number and the primary account holder's name for verification?
+
+Customer: The account number is listed on my statement as 4829-7761-K. My name is Katherine Richardson.
+
+Customer Support: Thank you, Ms. Richardson. I have your account here, showing active since March 2022 with excellent standing. For security purposes, could you please verify the last four digits of the tax ID number associated with this business account?
+
+Customer: Certainly. The last four digits are 8847.
+
+Customer Support: Perfect, thank you for that verification. Your account is now fully authenticated. To add an authorized user, I'll need their full legal name, date of birth, and their relationship to the business.
+
+Customer: His name is Daniel Morrison, born April 15, 1981. He's the Chief Operating Officer and co-owner.
+
+Customer Support: Excellent. I'm entering Mr. Morrison's information now—Daniel Morrison, date of birth 04/15/1981, listed as COO and co-owner. Will Mr. Morrison need full account privileges including the ability to make changes, or would you prefer limited access?
+
+Customer: He should have full privileges, including financial decisions and account modifications, please.
+
+Customer Support: Understood.
+
+Customer: How long will it take for his access to become active?
+
+Customer Support: Mr. Morrison's full access privileges will be active within 2-4 business hours, typically by 3:00 PM Eastern today. He'll receive an email at the address we have on file with his temporary password and login instructions.
+
+Customer: We don't have his email registered yet. Can I provide that now?
+
+Customer Support: Absolutely. Please provide Mr. Morrison's email address, and I'll add it to his authorized user profile immediately.
+
+Customer: His email is d.morrison at Richardson Morrison Enterprises dot com.
+
+Customer Support: Thank you. I've added d.morrison@richardsonmorrisonenterprises.com to his profile. He'll receive a welcome email with verification code RME-8273-DM within the next 15 minutes to complete his setup.
+
+Customer: Perfect. Will he need any additional documentation to verify his identity when he logs in?
+
+Customer Support: Yes, for security compliance, Mr. Morrison will need to upload a photo ID during his first login, and our system will prompt him to create a unique 8-character password with at least one number and special character.
+
+Customer: That sounds thorough. Thank you for handling this efficiently.
+
+Customer Support: You're very welcome, Ms. Richardson. I've also sent you a confirmation email with reference number AUTH-9421-KR documenting today's changes. Is there anything else I can assist you with regarding your account today?
+

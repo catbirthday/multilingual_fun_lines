@@ -1,0 +1,46 @@
+=== Source: dialogue4_46.txt ===
+Actor: english_1
+Content Type: dialogue
+
+=== Dialogue ===
+
+Character 1: Our nonprofit just got hit with a data breach. They accessed volunteer records through an unsecured connection.
+
+Character 2: That's concerning. We should implement a VPN immediately for all remote access. I recommend OpenVPN or WireGuard protocols—they'll encrypt traffic at 256-bit AES minimum and prevent man-in-the-middle attacks on volunteer data.
+
+Character 1: Which provider? The board wants specifics.
+
+Character 2: For nonprofits, I'd suggest NordVPN's nonprofit program or ProtonVPN. Both offer AES-256-GCM encryption, kill switches, and no-logs policies. ProtonVPN actually gives free premium accounts to qualifying organizations through their Visionary program.
+
+Character 1: What about performance overhead?
+
+Character 2: [whispering] WireGuard only adds about 5-10% latency compared to OpenVPN's 15-20%. The kernel-level implementation uses ChaCha20 for encryption and Poly1305 for authentication. It's significantly faster for volunteer database access.
+
+Character 1: How do we handle mobile volunteers?
+
+Character 2: [very loudly] Every device needs the VPN client! Android and iOS both support IKEv2/IPSec natively. We configure split tunneling to route only organizational traffic through the VPN, preserving bandwidth for personal use.
+
+Character 1: Split tunneling sounds risky.
+
+Character 2: It's a calculated trade-off. Full tunnel forces all traffic through our servers, increasing load by 300%. Split tunneling with proper ACLs isolates organizational resources while maintaining 50-60 Mbps throughput for volunteers.
+
+Character 1: What's our failover strategy?
+
+Character 2: Multi-hop configurations with automatic failover. Primary server in Virginia, secondary in Oregon. If latency exceeds 150ms or packet loss hits 2%, the client switches endpoints automatically using OSPF routing metrics.
+
+Character 1: [short pause] The board mentioned SASE frameworks.
+
+Character 2: [shouting] SASE is overkill for our scale! We're talking Zscaler or Prisma Access—enterprise solutions costing $50,000 annually minimum. A properly configured VPN with MFA handles our 200 volunteers perfectly at 5% of that cost.
+
+Character 1: [laugh loudly] Fair point. What about DNS leaks?
+
+Character 2: Configure DNS over HTTPS using Cloudflare's 1.1.1.1 or Quad9. The VPN client must enforce these resolvers. We'll also implement DNSSEC validation to prevent cache poisoning attacks on volunteer lookup queries.
+
+Character 1: How do we audit this?
+
+Character 2: [stern] Weekly penetration tests using Wireshark and tcpdump. Monitor for DNS leaks, WebRTC exposures, and IPv6 bypass attempts. Any volunteer accessing PII without VPN connection gets immediately flagged in our SIEM dashboard.
+
+Character 1: [child-like] Can volunteers pick their own servers?
+
+Character 2: [gasp softly] Absolutely not! Server selection must be automatic based on latency algorithms. Allowing manual selection creates inconsistent security postures and complicates our audit trails. The system chooses optimal endpoints, period.
+

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I got an email saying my account was suspended, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Yes, okay so let me pull that up for you right away—what's the email on the account?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's jmitchell at promail dot com. I don't really..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it, so I'm seeing account ID USR-4492-BNX here, and hmm, let me see here... okay so there's a flag from our security team dated yesterday at 11:47 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Security team? I mean, what did I even..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right so basically what happens is—the system detected unusual activity patterns, and so it triggered an automatic suspension protocol, code SEC-77-ABNORMAL, which is like our standard procedure when we see certain things."
+        },
+        {
+            "role": "Customer",
+            "content": "Unusual activity. Okay. What kind of unusual..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me check the specifics! So the log shows—okay so there were 47 login attempts from different IP addresses within a 3-hour window, all from different countries."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, different countries? That's... are you sure that's my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep yep, definitely your account, USR-4492-BNX, and actually wait—let me see here... were you traveling recently? Or maybe using a VPN?"
+        },
+        {
+            "role": "Customer",
+            "content": "VPN. Yeah, for work. Is that... does that matter?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Okay so that explains it! So basically when you use a VPN it can look like you're logging in from everywhere, and our system sees that as potential unauthorized access."
+        },
+        {
+            "role": "Customer",
+            "content": "So my account got suspended because I was doing my job..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know I know, it's not ideal! But so here's the good news—I can start the reactivation process right now, case number RCT-9981-KLP, takes about 15 minutes to process."
+        },
+        {
+            "role": "Customer",
+            "content": "Fifteen minutes. And then everything's back to normal, or...?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So once it's reactivated—which again, 15 minutes max—you'll get a confirmation email with a temporary password, starts with TMP and then 8 digits, and you'll just need to reset that when you log back in."
+        },
+        {
+            "role": "Customer",
+            "content": "Do I need to do anything special about the VPN situation going forward?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Great question! So basically what I'm gonna do is—let me add a note here... okay so I'm whitelisting your VPN usage pattern under exception code EXC-VPN-APPROVED, which means this shouldn't happen again."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. That's... I guess that works then..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect! So you'll get that email within 15 minutes to jmitchell at promail dot com, and if you have any issues logging back in, just reference case RCT-9981-KLP and we'll sort it right out!"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "bfa7c9c0_script.json",
+    "actor": 3,
+    "scenario": "asking why their account was suspended without warning",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

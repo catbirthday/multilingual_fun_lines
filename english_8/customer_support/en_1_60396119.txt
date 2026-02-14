@@ -1,0 +1,48 @@
+=== Source: 60396119_script.json ===
+Actor: english_1
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking about transferring ownership of an account
+
+=== Dialogue ===
+
+Customer: Good morning. I need to transfer ownership of my business account to our new operations manager, please.
+
+Customer Support: Good morning. I'll assist you with that transfer right away. May I have your account number and the current account holder's full name for verification?
+
+Customer: The account number is 771-294-886. I'm Sarah Mitchell, the current primary account holder.
+
+Customer Support: Thank you, Ms. Mitchell. I've located account 771-294-886 showing you as the primary holder with our Premium Business tier. To proceed with the ownership transfer, I'll need the new account holder's full legal name and their contact information.
+
+Customer: That would be David Chen. I expected this to be a simpler online process, honestly.
+
+Customer Support: I understand your expectation, and I appreciate that feedback. David Chen's contact information would include email address and phone number. Additionally, our security protocol requires verification code TRN-8847-VF to be sent to your registered email address.
+
+Customer: His email is dchen@alphalogistics.com and phone is 415-555-0147. I haven't received any verification code yet.
+
+Customer Support: Perfect. I'm sending the verification code TRN-8847-VF to your registered email sarah.mitchell@alphalogistics.com right now. Once you confirm that code, we'll need Mr. Chen to complete form DOC-5521-A within 48 hours to accept ownership.
+
+Customer: I see the code now. It's TRN-8847-VF. What exactly does David need to do?
+
+Customer Support: Excellent, verified. Mr. Chen will receive an email at dchen@alphalogistics.com with transfer document DOC-5521-A attached. He'll need to provide his tax identification number, sign electronically, and complete identity verification through our secure portal.
+
+Customer: Will our service agreement and pricing remain the same? We have customized terms I'd prefer not to renegotiate.
+
+Customer Support: Absolutely. Your existing service agreement SA-2847-PREM dated March 2023 transfers completely intact, including your negotiated rate of $847.50 monthly and all custom API limits. The only change will be the billing contact and account ownership designation.
+
+Customer: Good. How long does this entire process typically take once David completes his part?
+
+Customer Support: Once Mr. Chen submits form DOC-5521-A, our compliance team processes transfers within 24 business hours. You'll both receive confirmation emails with the updated account documentation showing reference number ACC-TRANS-981247 for your records.
+
+Customer: Please ensure our integration keys and API credentials don't get disrupted during this transition.
+
+Customer Support: Certainly. All technical configurations remain unchanged. Your API keys, webhook endpoints, and the 47 integration tokens currently active on account 771-294-886 will continue functioning without interruption throughout and after the transfer process.
+
+Customer: Thank you. Can you send me written confirmation of everything we've discussed today?
+
+Customer Support: Of course. I'm generating summary document SUM-4485-TC right now containing all transfer details, timeline, and confirmation that technical services remain unaffected. You'll receive this at sarah.mitchell@alphalogistics.com within the next five minutes.
+
+Customer: Perfect. I appreciate your efficiency in handling this. David should complete everything by tomorrow afternoon.
+
+Customer Support: Excellent. Once Mr. Chen completes DOC-5521-A by tomorrow afternoon, the transfer will be finalized by Thursday at latest. Is there anything else I can assist you with regarding account 771-294-886 today, Ms. Mitchell?
+

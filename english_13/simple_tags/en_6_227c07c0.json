@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] So, um, they said someone needed a '59 Gibson repaired for the wedding ceremony, but I didn't expect to find you here in a suit and tie. [pause] Marcus? Is that really you after all these years?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Danny. [clearing throat] Wow, I should've known when they mentioned bringing in the best guitar tech in the city. [nervously] You're still working with instruments then, that's... that's good."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] Still working with them, yeah, just not playing them on stage anymore, you know? [sighs] But look at you, catering sales manager at the Grandview—that's a pretty big deal, I guess."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] It pays the bills, provides health insurance, lets me sleep in the same bed every night instead of, um, crashing on venue floors. [defensively] Some of us had to grow up eventually, Danny."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softly] We both grew up, Marc."
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] Yeah, I suppose we did."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] Do you ever, like, think about what would've happened if you hadn't walked out that night before the label showcase? [exhales] I mean, everything kind of fell apart after that, the whole band just dissolved."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] Every single day, actually, especially when I'm booking these wedding bands who play the same covers we used to mock. [laughs bitterly] Sometimes I hear a guitar being tuned and I literally have to leave the room."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] You know, I kept your old Stratocaster in my shop for probably three years, thinking you'd come back for it. [trailing off] Eventually I sold it to some kid who reminded me of you..."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very melancholic] That Strat was the first real guitar I ever owned, saved up for two summers to buy it. [sighs] But keeping it would've been torture, just sitting there reminding me of everything I gave up."
+        },
+        {
+            "role": "Character 1",
+            "content": "[questioning] But did you really give it up, or did you just, I don't know, redirect it? [thoughtfully] You're still creating experiences for people, making their special days memorable, that's not so different from what we wanted to do with music."
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] Come on, Danny, arranging shrimp towers and wine pairings isn't exactly the same as writing songs that could change someone's life. [pause] We both know that's just something I tell myself to sleep at night."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] Hey, we all tell ourselves things to get through, you know? [softly] I fix broken guitars instead of playing them because I convinced myself it's still being part of the music, but honestly, some days I can barely stand to hear them play."
+        },
+        {
+            "role": "Character 2",
+            "content": "[surprised] You stopped playing? [confused] But you were the best guitarist I ever knew, Danny, you had that thing, that spark that made people stop whatever they were doing just to listen."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Yeah well, turns out that spark doesn't pay rent when your lead singer and best friend disappears two hours before the most important gig of your life. [sighs heavily] Sorry, that wasn't fair."
+        },
+        {
+            "role": "Character 2",
+            "content": "[apologetic] No, it was completely fair, and I deserved that. [very quietly] I panicked, Danny, I saw that A&R guy's card and suddenly all I could think about was becoming another cautionary tale about failed musicians. [exhales] So I ran."
+        },
+        {
+            "role": "Character 1",
+            "content": "You know what the really messed up part is? We probably would've failed anyway, but at least we would've failed together, and maybe that would've been enough somehow."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] There's a piano in the venue's east wing that nobody ever uses, it's perfectly tuned. [hesitantly] I mean, if you have time after fixing the Gibson, maybe we could, um, I don't know, just play something?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[chuckling] Marcus Chen, the man who schedules every minute of every event, suggesting we spontaneously jam? [excited] Yeah, okay, let me just restring this old girl and we'll see if either of us remembers how."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] I remember everything, Danny, every chord change, every harmony we worked out in your garage. [very sincerely] Maybe that's the real torture, having perfect recall of the life you walked away from. [pause] But yeah, let's play."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "227c07c0_scenario.json",
+    "actor": 6,
+    "scenario": "A guitar tech arrives to repair a vintage guitar at a wedding venue, only to discover the catering sales manager is their former bandmate who abandoned their musical dreams for a stable career.",
+    "type": "scenario_conversation",
+    "character_1_role": "guitar tech",
+    "character_2_role": "catering sales manager",
+    "selected_tones": [
+        "discovering",
+        "questioning",
+        "yielding"
+    ]
+}

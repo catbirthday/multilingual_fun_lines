@@ -1,0 +1,13 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "Three weeks. I've been tracking this thing for three weeks and I... [shaky voice] God, I can't believe I missed it. [pause] The signatures were right there, buried in the logs, I just—I thought it was a false positive. [regretful] Should've dug deeper, should've known better. [sigh]\n\nOkay, so, um... the breach happened sometime last Tuesday. [anxious] They got everything—account numbers, routing info, probably social security numbers too. [very quietly] Thousands of customers. Maybe tens of thousands. [groan]\n\nI keep running through it in my head, like, what if I'd caught it Monday? [frustrated] What if I hadn't dismissed that alert as noise? The malware was so... hmm, it was elegant, I'll give them that. [bitter] Polymorphic, constantly shifting its signature. [pause] But that's not an excuse, is it?\n\n[upset] Management's going to want someone to blame. And honestly? They're right to blame me. [shaky voice] All those people who trusted us with their money, their futures, and I—[trailing off]\n\n[angry] No, wait. You know what? We've been asking for better tools for months. [loudly] Begging for more staff! [sigh] But yeah, sure, one analyst covering three shifts worth of data, what could possibly go wrong? [sarcastic] Really great security strategy there.\n\n[exhausted] I need to call the FBI. And the customers... God, the customers."
+        }
+    ],
+    "content_type": "monologue",
+    "source_file": "225895bf_monologue.json",
+    "actor": 6,
+    "type": "emotional_monologue",
+    "subject": "Your malware analyst discovery of the security breach came too late - hackers already stole customer financial data from your bank"
+}

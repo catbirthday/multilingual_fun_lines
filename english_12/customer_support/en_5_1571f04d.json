@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Let me see here... I need to cancel my trial before, um, before it charges tomorrow?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, I can—no wait, let me just pull up your account first. What's the email address associated with the subscription?"
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so it's sarah.chen at gmail. Hmm, wait, what if I used my work email instead?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem, I'll check both. So I'm seeing—er, actually there's two accounts here. One trial started November 3rd at 11:47 PM, and the other's from October 28th. Which service were you looking to cancel?"
+        },
+        {
+            "role": "Customer",
+            "content": "The November one. That's the... what's the word... the premium tier thing?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, got it."
+        },
+        {
+            "role": "Customer",
+            "content": "So this definitely cancels before I get charged, right? Because next time I'm just—sorry, I mean, I don't want any surprises."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. Let me just—hold on, the system's being slow here. Okay so your trial for account ID PRE-7743-NK expires tomorrow at 11:47 PM, and, uh, I'm canceling it now so you won't be charged the $89.99 monthly fee."
+        },
+        {
+            "role": "Customer",
+            "content": "Eighty-nine? I thought it was—no wait, that's the annual price. Okay so that means I'm good?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually I'm—hmm, that's odd. The cancellation button is... what's the word I'm looking for... grayed out? Let me try a different screen."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh great. Let me guess, there's some kind of problem?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, I just need to—er, sorry, wrong menu. Here we go. Sometimes with trials started after 11 PM, the system requires, um, manual override. Bear with me just another second."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, okay but like, this is definitely getting canceled today, right? What if the system charges me anyway?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely not, I won't let that happen. So what I'm doing—actually wait, I need your ZIP code to verify. The one on file ends in 4102?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's the old—sorry, I mean the current one's 94107."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, updating that now. Alright so, uh, here's what's happening. The trial cancellation is processing, confirmation number CAN-8827-XKRM, and it'll be fully canceled within, mmm, about 15 minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Fifteen minutes? Okay so... so that means I should get an email or something?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes exactly. Two emails actually—one right now that says pending, and then the final confirmation by 6:45 PM your time. And honestly, if there's any charge at all, which there won't be, but if somehow there is, reference that CAN-8827-XKRM number and we'll refund immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "Alright, I guess that works. Next time though I'm just, er, not doing free trials at all."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, I really do. These trial periods can be—hmm, frustrating is an understatement. But you're all set, canceled as of 6:31 PM, no charges, and if you ever want to come back, there's a 40% discount code in that confirmation email."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "1571f04d_script.json",
+    "actor": 5,
+    "scenario": "trying to cancel a free trial before being charged",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

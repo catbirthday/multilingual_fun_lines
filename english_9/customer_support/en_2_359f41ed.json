@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I can't—wait, no—I keep trying to log in and the code won't—it's not sending the code."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, that's so frustrating. Let me see here... I'm pulling up your account with the number ending in 4729, and basically what I'm seeing is... yeah, the system's trying to send them."
+        },
+        {
+            "role": "Customer",
+            "content": "But I'm not getting anything! I've tried—no wait—I checked spam, I checked everything."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand. This happens more than it should. So your registered number is (847) 291-3564, right? And like, when did you last get a code successfully?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yesterday morning. Then suddenly nothing works and I need—I have to pay bills today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Okay so... hmm, what if we try sending code XK9-421 to your backup email instead? Sometimes the SMS gateway just..."
+        },
+        {
+            "role": "Customer",
+            "content": "There's no backup email. I never—wait, was I supposed to set one up?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're fine. Let me think... So basically we can bypass this with security questions. Your account shows three verified answers from March 2023."
+        },
+        {
+            "role": "Customer",
+            "content": "Security questions. Of course. Because nothing can just be simple anymore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know, I know. Trust me, I hate this system too. First one's about your first car?"
+        },
+        {
+            "role": "Customer",
+            "content": "It was—no, hold on—did I put the Honda or the Toyota?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Take your time. The verification window stays open for 15 minutes, reference number VRF-8827-QM2."
+        },
+        {
+            "role": "Customer",
+            "content": "Toyota. No wait—actually it was the Corolla. Is that what you need?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Got it. Second question... favorite teacher?"
+        },
+        {
+            "role": "Customer",
+            "content": "Mrs. Anderson. This is ridiculous. Why can't the codes just work like they're supposed to?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right. Look, after we get you in, I'm gonna flag case number 7739821 for our tech team because this shouldn't..."
+        },
+        {
+            "role": "Customer",
+            "content": "Whatever. Just—can you please just get me into my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Almost there. Last question's your first street. And then so... once you're in, we're switching you to backup authentication app, code RX7-W92."
+        },
+        {
+            "role": "Customer",
+            "content": "Maple Street. Two words. And yeah, fine, whatever works at this point."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Beautiful. You're in. Sending setup link to your phone now. Reference TKT-20240115-8827 if you need to call back, and like, genuinely? I'm sorry this happened."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "359f41ed_script.json",
+    "actor": 2,
+    "scenario": "reporting issues with two-factor authentication not sending codes",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

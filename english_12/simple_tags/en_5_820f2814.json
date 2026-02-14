@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] Emma, it's really you standing here weighing apples in this grocery store after all these years. [pause] I've had investigators searching three states, and here you were twenty minutes from the estate."
+        },
+        {
+            "role": "Character 2",
+            "content": "The name's Alex now, and I need you to step back from my station before my manager notices. These organic honeycrisps need to be sorted by four o'clock."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperately] You just disappeared that night after the argument about the development project. [very quietly] Your mother cried herself to sleep for months, wondering if you were even alive."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] She cried about losing her heir, not her child. [coldly] Both of you only ever saw me as an extension of your land empire, another asset to manage and develop."
+        },
+        {
+            "role": "Character 1",
+            "content": "[pleading] That's not true, we wanted you to have everything we never had growing up. [sighs] The properties, the education, the connections—it was all supposed to be yours someday."
+        },
+        {
+            "role": "Character 2",
+            "content": "[monotone] I stack produce for eight dollars an hour, share a studio apartment with two roommates, and eat the bruised fruit nobody else wants. [firmly] This life is more honest than anything you offered."
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] I've kept your room exactly as you left it, even that ridiculous band poster you loved. [pause] The trust fund still has your name on it, untouched, accumulating interest."
+        },
+        {
+            "role": "Character 2",
+            "content": "Money from displacing families, from turning farmland into strip malls, from choosing profit over people every single time. [exhales] I'd rather earn minimum wage than touch those accounts."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defeated] Your grandfather built that company from nothing, worked himself into an early grave establishing something to pass down. [very quietly] Now I'm seventy-three with no one to leave it to."
+        },
+        {
+            "role": "Character 2",
+            "content": "Maybe you should have thought about that before bulldozing the Martinez family orchards where three generations lived. They shop here now, can barely afford groceries."
+        },
+        {
+            "role": "Character 1",
+            "content": "[whispering] I know I made mistakes, terrible choices that hurt people. [clearing throat] But losing you was the only consequence that actually taught me anything about what matters."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] It's been six years, Dad. [sighs] Six years of building a life without your shadow, without feeling guilty for not wanting to be you."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] Just have dinner with us, one meal, let your mother see you're okay. [quickly] After that, if you want us to leave you alone forever, we will."
+        },
+        {
+            "role": "Character 2",
+            "content": "She sent you here alone, didn't she? Too proud to walk into a grocery store herself, too afraid I'd reject her in public."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very meekly] She's in the car outside, has been for two hours working up the courage. [pause] Diabetes took most of her eyesight last year, but she insisted on coming anyway."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] She's blind now? [long pause] Nobody told me, I didn't know she was sick, I would have—no, it doesn't change anything."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] It changes that she can't see the disappointment in your eyes anymore. [sighs] Maybe that's the only reason she's brave enough to try this."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] My shift ends at five-thirty, and there's a diner two blocks north that serves her favorite pie. [very quietly] One hour, that's all you get."
+        },
+        {
+            "role": "Character 1",
+            "content": "[relieved] One hour is more than I dared hope for after all this time. [warmly] Thank you, Emma—I mean Alex, thank you for giving us even that."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] One hour. [pause] That's it."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "820f2814_scenario.json",
+    "actor": 5,
+    "scenario": "A wealthy land baron discovers their estranged child working as a produce clerk at a grocery store after years of searching.",
+    "type": "scenario_conversation",
+    "character_1_role": "land baron",
+    "character_2_role": "produce clerk",
+    "selected_tones": [
+        "defeated",
+        "rejecting",
+        "clutching"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I just... I can't do the full payment right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay, I completely understand, and we can definitely work something out here. Let me pull up your account—can you give me your order number or the phone number associated with it?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's under this number. I'm just... everything's piling up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, so I'm seeing account number ACC-4927-NL here, and the current balance is showing as $847.32, is that what you're calling about today?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. That's—that's the one. I need to... what's the word... spread it out somehow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, we have several payment plan options available. So basically what we can do is split that $847.32 into either three monthly payments of $282.44 each, or we could do six payments of $141.22 if that works better for your situation."
+        },
+        {
+            "role": "Customer",
+            "content": "Six. Six would—I just need breathing room. My hours got cut and I'm just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, I'll set that up right now. Um, for the six-month plan, we'd need the first payment of $141.22 to process today from the card ending in 8924—is that still your current card?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, that one's—no wait, actually—can I use a different card?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! Whenever you're ready, I can take the new card information."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay. It's just—I keep thinking this'll get better but it doesn't."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, and I want you to know there's no judgment here at all—these things happen. So whenever you have that card ready, we'll get this sorted out and you'll have one less thing to worry about, okay?"
+        },
+        {
+            "role": "Customer",
+            "content": "The card is 4782... wait. That's my old—let me just—sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No worries at all, take your time."
+        },
+        {
+            "role": "Customer",
+            "content": "5521. Then 9034. Then... then 2847. Then 1163."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, got it—that's the card ending in 1163. And, um, just to confirm, the billing zip code for that card?"
+        },
+        {
+            "role": "Customer",
+            "content": "48205. Is there—I mean, is there a fee for this? The payment plan?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So there's no setup fee or anything like that, it's just the original balance divided into six equal payments. Your payment dates will be on the 15th of each month, and we'll send confirmation to your email at the address we have on file ending in gmail.com."
+        },
+        {
+            "role": "Customer",
+            "content": "The fifteenth. Okay. That's—that's actually good. After payday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, exactly. So everything's all set up now—your confirmation number is CNF-7823-PMTPLN and you should get an email within the next few minutes with all the details. Your first payment of $141.22 processed successfully, and then you're all set with five more payments on the fifteenth of each month. Is there anything else I can help clarify about the payment plan?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a0db13cf_script.json",
+    "actor": 7,
+    "scenario": "anxious about money and hoping for some kind of payment plan",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

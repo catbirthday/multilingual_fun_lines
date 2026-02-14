@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[urgently] Listen carefully, we have maybe ten minutes before they trace this location through the security cameras. [speaking fast] Everything I taught you about pattern recognition, everything about reading micro-expressions and detecting surveillance, you're going to need it all starting tonight."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxiously] You said this was just a training exercise when you called, but you're bleeding through your jacket and your hands are shaking. [voice breaking] What happened at the facility, and why are they calling you a traitor on every encrypted channel?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] The facility was compromised three weeks ago, but not by foreign agents like they're claiming. [quieter] Our own people orchestrated the breach to cover up what they've been developing in the sub-basement labs, something that violates every treaty we've signed."
+        },
+        {
+            "role": "Character 2",
+            "content": "[confused] That doesn't make sense, Director Morrison signed off on all the lab protocols himself, and he's been with the agency for thirty years. [hesitantly] Are you saying he's part of whatever this conspiracy is?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] Morrison's been running this operation since before you were recruited. [exhales] The man who pinned your badge on you at graduation has been weaponizing cognitive enhancement drugs on unwilling test subjects, mostly prisoners nobody would miss."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispering] No."
+        },
+        {
+            "role": "Character 1",
+            "content": "[speaking fast] I have proof on this drive, medical records, video surveillance, financial transactions linking Morrison to black site facilities in four countries. [pause] But I need you to be the one who exposes it because they'll kill me before I can testify."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] You're asking me to destroy my entire career, to betray everyone I've worked with for the past five years. [frustrated] Even if what you're saying is true, they'll come after me the moment I access those files."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] You're the only one I trained who never lost their moral compass, even when following orders would have been easier. [proudly] That stubborn integrity of yours that used to drive me crazy during training scenarios, that's exactly why I'm trusting you with this."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] How long have you known about this? [accusingly] How many operations did we run together while you were sitting on information about our own agency torturing people?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[regretful] Six months, and every day since I discovered the truth has been a calculation of when to act and who to trust. [sighs] I kept you in the dark to protect you, but now protection means giving you the power to fight back."
+        },
+        {
+            "role": "Character 2",
+            "content": "[desperately] There has to be another way, someone higher up we can report to, maybe the oversight committee or even the press directly. [speaking fast] We could leak it anonymously, keep both our names out of it completely."
+        },
+        {
+            "role": "Character 1",
+            "content": "The oversight committee members are getting kickbacks from the pharmaceutical contracts, and the two journalists who started investigating mysteriously died in separate car accidents last month. [firmly] This has to be done from the inside, with someone they won't immediately suspect."
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] You've already decided you're not coming back from this, haven't you? [voice breaking] This meeting isn't about passing on information, it's you saying goodbye while pretending everything might work out fine."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] I've got three passports, enough cash to last a decade, and a boat waiting at the marina that officially sank two days ago. [chuckles] Remember when you asked why I made you learn sailing during desert warfare training?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] You paranoid bastard, you've been planning an exit strategy this entire time. [laughs] All those crazy survival scenarios you put me through, the dead drops, the emergency protocols, you were preparing me to lose you."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very sincerely] Every mentor's job is to make themselves obsolete eventually, to train someone better than they ever were. [proudly] You're faster, smarter, and most importantly, you still believe this job can mean something good."
+        },
+        {
+            "role": "Character 2",
+            "content": "[determined] Fine, I'll take the drive, I'll find a way to expose Morrison and whoever else is involved. [firmly] But you have to promise me something in return, that you'll send proof of life every six months, even if it's just a blank postcard from nowhere."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] Look for postcards with birds on them, different species each time, and know that your old mentor is somewhere watching the sunrise over water. [pause] They're coming up the stairs now, so you need to go out the back while I buy you time."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quickly] Thank you for choosing me, for seeing something worth saving in a rookie who couldn't even properly clear a room. [emotionally] I won't let you down, I promise you that, and when this is over, when it's safe, I'll find you wherever you're hiding."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "ab7ae7d0_scenario.json",
+    "actor": 1,
+    "scenario": "A former government agent being hunted by their own agency meets with their protégé one last time to pass on crucial information before going into permanent hiding.",
+    "type": "scenario_conversation",
+    "character_1_role": "hunted",
+    "character_2_role": "mentee",
+    "selected_tones": [
+        "commanding",
+        "accelerating",
+        "honoring"
+    ]
+}

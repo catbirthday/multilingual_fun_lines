@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[shocked] Maya? Is that really you standing in my shop after twenty years? [quietly] I thought you were still somewhere in Syria or Afghanistan, chasing stories."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] The chocolate smell hit me two blocks away and I knew you'd kept the place. [pause] Same copper pots in the window, same handwritten menu board."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] You look different, thinner, and there's something in your eyes that wasn't there when you left. [concerned] Are you okay? Really okay, I mean."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] I came back because I needed to see home one more time, needed to taste your salted caramels and pretend we're still twenty-five with our whole lives ahead."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] That's not an answer, Maya. [sighs] You always did deflect with poetry when things got too real."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Six months, maybe eight."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] What do you mean six months? [gasps softly] Maya, what are you talking about?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[calmly] The doctors found it everywhere when I got back from Aleppo last month. [exhales] Lungs, liver, bones. Twenty years of war zones and it's my own cells that declared war."
+        },
+        {
+            "role": "Character 1",
+            "content": "[crying while speaking] You can't just walk in here after two decades and tell me you're dying. [voice breaking] That's not how this was supposed to go."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] I know, but I needed to come home, needed to sit in this shop and watch you work like we used to dream about when we were kids. Remember?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[regretful] I saved your favorite stool at the counter all these years, the one by the window where you'd write while I practiced new recipes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[smiling speaking] You kept it? [laughs softly] Even after I left without saying goodbye, just that stupid note about needing to see the world?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] Of course I kept it. [pause] I kept everything, including that ridiculous journal you left behind with all your plans to change the world through journalism."
+        },
+        {
+            "role": "Character 2",
+            "content": "[melancholic] Did I change anything? [sighs] Thousands of stories filed from dozens of countries, and the wars just kept coming, the suffering never stopped."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] You told their stories, Maya, you made sure the world couldn't look away. That matters more than you know."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] I'm scared, Sam."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] Then stay here with me for whatever time you have. [determined] We'll make chocolates and you'll write and we'll pretend we're kids again every single day."
+        },
+        {
+            "role": "Character 2",
+            "content": "[tearfully] I was hoping you'd say that but didn't want to ask, didn't want to burden you after disappearing for so long. [pause] Do you really mean it?"
+        },
+        {
+            "role": "Character 1",
+            "content": "You were never a burden, not then and not now, and yes, I mean every word. [softly] Welcome home, Maya."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] Thank you for not hating me for leaving, for understanding why I had to go even though it meant leaving everything we'd planned behind. [crying while speaking] Thank you."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "a6acb806_scenario.json",
+    "actor": 1,
+    "scenario": "A renowned chocolate maker receives an unexpected visit from their childhood friend who left to become a war correspondent twenty years ago and is now terminally ill.",
+    "type": "scenario_conversation",
+    "character_1_role": "chocolate maker",
+    "character_2_role": "old friend",
+    "selected_tones": [
+        "quiet",
+        "concealing",
+        "flowing"
+    ]
+}

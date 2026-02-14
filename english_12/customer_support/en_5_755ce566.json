@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "My account balance shows two different amounts. I need clarification on what's actually available to spend today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me access your account and explain the difference between your available balance and posted balance. May I have your account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 445-890-2341. There's a three hundred dollar difference between the two balances shown."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I can see your posted balance is $2,847.50 and your available balance is $2,547.50, which reflects a $300 pending transaction from Hartley Electronics."
+        },
+        {
+            "role": "Customer",
+            "content": "What exactly does pending mean? The purchase was three days ago but it's still not finalized."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "So when will that transaction actually post to my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pending transactions are temporary holds that merchants place on your funds. Most retail transactions like your TRX-884290 from Hartley Electronics typically post within 2-5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "Does the pending amount count against my daily spending limit or overdraft protection?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, pending transactions immediately reduce your available balance to prevent overspending. Your daily limit of $5,000 factors in both posted and pending amounts for real-time accuracy."
+        },
+        {
+            "role": "Customer",
+            "content": "I see another pending charge for seventy-five dollars that I don't recognize."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can see that pending authorization PA-7829-441 for $75.00 from Digital Streaming Services. This appears to be an annual subscription renewal that initiated yesterday at 3:47 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Can pending transactions be cancelled or do I have to wait for them to post first?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "What happens if a pending transaction never posts? I had one disappear last month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pending authorizations automatically expire after their hold period, typically 3-7 business days depending on the merchant category. When authorization AU-9982-KL expired last month, those funds became immediately available again."
+        },
+        {
+            "role": "Customer",
+            "content": "Should I track my spending based on the posted or available balance?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Always use your available balance for spending decisions. This reflects your true purchasing power after accounting for all pending transactions, ensuring you won't overdraft your account."
+        },
+        {
+            "role": "Customer",
+            "content": "That makes sense. Can you send me documentation about how these transactions process?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'll email our transaction processing guide to your registered address within the next hour. Is there anything else regarding your account reference ACC-445890-2341 that I can clarify today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "755ce566_script.json",
+    "actor": 5,
+    "scenario": "confused about the difference between pending and posted transactions",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

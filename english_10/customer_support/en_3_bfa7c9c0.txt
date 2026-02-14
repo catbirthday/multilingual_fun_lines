@@ -1,0 +1,48 @@
+=== Source: bfa7c9c0_script.json ===
+Actor: english_3
+Content Type: customer_support
+Professionalism: casual
+Scenario: asking why their account was suspended without warning
+
+=== Dialogue ===
+
+Customer: I got an email saying my account was suspended, so...
+
+Customer Support: Oh! Yes, okay so let me pull that up for you right away—what's the email on the account?
+
+Customer: It's jmitchell at promail dot com. I don't really...
+
+Customer Support: Got it got it, so I'm seeing account ID USR-4492-BNX here, and hmm, let me see here... okay so there's a flag from our security team dated yesterday at 11:47 PM.
+
+Customer: Security team? I mean, what did I even...
+
+Customer Support: Right so basically what happens is—the system detected unusual activity patterns, and so it triggered an automatic suspension protocol, code SEC-77-ABNORMAL, which is like our standard procedure when we see certain things.
+
+Customer: Unusual activity. Okay. What kind of unusual...
+
+Customer Support: Let me check the specifics! So the log shows—okay so there were 47 login attempts from different IP addresses within a 3-hour window, all from different countries.
+
+Customer: Wait, different countries? That's... are you sure that's my account?
+
+Customer Support: Yep yep, definitely your account, USR-4492-BNX, and actually wait—let me see here... were you traveling recently? Or maybe using a VPN?
+
+Customer: VPN. Yeah, for work. Is that... does that matter?
+
+Customer Support: Oh! Okay so that explains it! So basically when you use a VPN it can look like you're logging in from everywhere, and our system sees that as potential unauthorized access.
+
+Customer: So my account got suspended because I was doing my job...
+
+Customer Support: I know I know, it's not ideal! But so here's the good news—I can start the reactivation process right now, case number RCT-9981-KLP, takes about 15 minutes to process.
+
+Customer: Fifteen minutes. And then everything's back to normal, or...?
+
+Customer Support: So once it's reactivated—which again, 15 minutes max—you'll get a confirmation email with a temporary password, starts with TMP and then 8 digits, and you'll just need to reset that when you log back in.
+
+Customer: Do I need to do anything special about the VPN situation going forward?
+
+Customer Support: Great question! So basically what I'm gonna do is—let me add a note here... okay so I'm whitelisting your VPN usage pattern under exception code EXC-VPN-APPROVED, which means this shouldn't happen again.
+
+Customer: Okay. That's... I guess that works then...
+
+Customer Support: Perfect perfect! So you'll get that email within 15 minutes to jmitchell at promail dot com, and if you have any issues logging back in, just reference case RCT-9981-KLP and we'll sort it right out!
+

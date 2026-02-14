@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[shocked] Tommy? Is that really you living in this old train car? [pause] Mom said you disappeared five years ago after the funeral, and here you are on the back forty acres of Grandpa's property."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Well, look who finally decided to visit the family land after all these years. [quietly] You only show up when there's money involved, don't you, when the lawyers need signatures to sell everything off."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] That's not fair and you know it. [frustrated] I've been working seventy-hour weeks in Chicago trying to keep my practice afloat while you've been out here playing hobo philosopher or whatever this is supposed to be."
+        },
+        {
+            "role": "Character 2",
+            "content": "[calmly] Playing hobo? [laughs] I've been taking care of this place, fixing the fences, keeping vandals away, maintaining the creek beds that Grandpa loved more than any of us ever understood."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confused] You're telling me you've been squatting here for five years as some kind of self-appointed groundskeeper? [sighs] The estate doesn't even know you're here, Tommy, they think this section is completely abandoned."
+        },
+        {
+            "role": "Character 2",
+            "content": "[passionately] Of course they don't know, because none of you ever bothered to actually visit the land you're so eager to sell. [very quietly] This train car was where Grandpa taught us to whittle, remember?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[softly] I remember."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] You were terrible at it, kept cutting toward yourself instead of away, and Grandpa would grab your hands and guide them. [pause] Said you had lawyer hands even at twelve years old."
+        },
+        {
+            "role": "Character 1",
+            "content": "[regretful] He was right about that, wasn't he? [exhales] Look, the buyers are coming Thursday to do their final inspection, and if they find you here, the whole deal falls apart."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] So you want me gone, just like that? [angry] Five years of keeping this place from falling apart, and I'm supposed to vanish because some developer wants to build condos where our grandfather's orchard used to be?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] It's not just condos, it's a whole community center with affordable housing units. [hesitantly] And your share of the sale would be enough to get you back on your feet, maybe get an apartment, start over."
+        },
+        {
+            "role": "Character 2",
+            "content": "[mocking] Start over? [laughs bitterly] I'm not broken, cousin, I chose this life after watching Dad work himself to death trying to be respectable enough for people like you've become."
+        },
+        {
+            "role": "Character 1",
+            "content": "People like I've become? [hurt] We grew up in the same house for three summers straight when your mom was sick, we were practically siblings, and now you act like I'm some stranger who sold out."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] You did sell out, though. [sighs] You sold out the kid who used to spend entire nights out here catching fireflies and making up stories about riding the rails to see America."
+        },
+        {
+            "role": "Character 1",
+            "content": "[emotional] Those were children's dreams, Tommy, and children's dreams don't pay for Mom's dementia care or keep the family from losing everything. [shaky voice] Sometimes growing up means letting go of the fireflies."
+        },
+        {
+            "role": "Character 2",
+            "content": "[gently] But what if the fireflies were the whole point? [pause] What if Grandpa left us this land not for the money it could bring, but for the memories it holds, the possibility of staying connected to something real?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[torn] I can't stop this sale, Tommy, the papers are already filed and the family needs this money. [very quietly] But maybe we could work something out with the developers, a caretaker position or something."
+        },
+        {
+            "role": "Character 2",
+            "content": "[skeptical] A caretaker position? [exhales] You want to make me an employee on land that's been in our family for ninety years, turn me from a free man into someone who needs permission to exist here?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperately] It's better than nothing, isn't it? [pleading] At least you could stay, at least some part of what Grandpa built would continue, even if it's not the way any of us imagined it would be."
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] Maybe you're right, maybe holding on to things is just another way of being trapped. [long pause] But before I decide anything, come with me to the old orchard, there's something you need to see that might change your mind about all of this."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "d1fa4b6c_scenario.json",
+    "actor": 4,
+    "scenario": "A successful cousin encounters their vagabond relative living in an abandoned train car on family property that's about to be sold, forcing them to confront their shared childhood and divergent paths.",
+    "type": "scenario_conversation",
+    "character_1_role": "cousin",
+    "character_2_role": "vagabond",
+    "selected_tones": [
+        "memorable",
+        "intense",
+        "approaching"
+    ]
+}

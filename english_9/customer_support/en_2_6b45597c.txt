@@ -1,0 +1,48 @@
+=== Source: 6b45597c_script.json ===
+Actor: english_2
+Content Type: customer_support
+Professionalism: professional
+Scenario: trying to update contact information across multiple services
+
+=== Dialogue ===
+
+Customer: Good afternoon. I need to update my contact information across all my accounts with your company.
+
+Customer Support: Good afternoon. I'd be happy to assist you with that today. May I have your account number or the email address currently associated with your profile?
+
+Customer: The current email is robert.chen@techglobal.com. I'm relocating and need everything updated.
+
+Customer Support: Thank you, Mr. Chen. I've located your primary account ending in 4782. I can see you have our premium service, the rewards program, and our mobile app subscription all linked to this profile.
+
+Customer: That's correct. I'll need all three updated with my new address and phone number.
+
+Customer Support: Certainly. Let me pull up the comprehensive update form. Please provide your new address and I'll apply it across all services simultaneously.
+
+Customer: It's 2847 Harbor View Lane, Seattle, Washington, 98101.
+
+Customer Support: Perfect. I've entered 2847 Harbor View Lane, Seattle, WA 98101. Now I'll need your new phone number to complete the contact information update.
+
+Customer: The new number is 206-555-8924. Will this affect my two-factor authentication settings?
+
+Customer Support: Excellent question. Yes, updating to 206-555-8924 will trigger a security verification. You'll receive a confirmation code at your current number ending in 3847 before the change takes effect.
+
+Customer: I appreciate the security measure. How long before everything is fully updated?
+
+Customer Support: The address change is immediate across all platforms. The phone number update will complete within 24 hours after you verify the security code, which I'm sending now as verification request VRF-9842-QM.
+
+Customer: I've received the code. It's 847291.
+
+Customer Support: Thank you. I've confirmed code 847291 and your phone number update is now processing. Is the email address robert.chen@techglobal.com still correct, or does that need updating as well?
+
+Customer: Actually, please update that to r.chen@pacificventures.com.
+
+Customer Support: Of course.
+
+Customer: Will I need to sign into the mobile app again after these changes?
+
+Customer Support: Yes, for security purposes you'll need to re-authenticate the mobile app using your new email r.chen@pacificventures.com. Your password remains the same, and all your preferences and saved data will be preserved.
+
+Customer: That works perfectly. Can you send confirmation of all these changes?
+
+Customer Support: Absolutely. I've sent a detailed confirmation to both email addresses showing all updates. Your confirmation number is CNF-2024-78K-5501, and our system shows all three services are now fully updated with your new information.
+

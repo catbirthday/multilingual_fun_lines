@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[sternly] Who's there? This chapel has been closed for fifteen years and you're trespassing on private property. [pause] Come out where I can see you properly, and explain yourself immediately."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] Please, Your Lordship, I meant no harm or disrespect to your family's sacred ground. [quietly] I just needed somewhere dry for the night, and the roof here still holds against the rain."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] That voice, there's something familiar about it, though I can't quite place where I've heard it before. [slowly] Step into the light from the window, let me see your face."
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] I should go now, truly, before I cause any more offense to your noble house. The morning market opens soon anyway, and I might find some work there hauling crates or sweeping floors."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gasps] My God, Master Edmund? [very quietly] Is that really you under all those years and hardship? You taught me Latin in this very chapel when I was seven years old."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Not 'Master' anything anymore, Your Lordship, just Edmund now, or 'old man' to most who bother addressing me at all. [sighs] Yes, it's me."
+        },
+        {
+            "role": "Character 1",
+            "content": "[upset] But you were the most respected tutor in the county, you taught half the nobility their letters and numbers. [long pause] How did you end up sleeping rough in abandoned buildings like this?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[monotone] Times change, patrons die, new families bring their own people. After your father passed, the new appointments went to younger men with connections at court. One by one, my students grew up and forgot their old teacher."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] You made me love books when everyone said I was too slow to learn properly, spent extra hours teaching me when Father wanted to give up on my education entirely. [warmly] I've never forgotten those patient afternoons, never."
+        },
+        {
+            "role": "Character 2",
+            "content": "[smiling speaking] You were never slow, just different, needed stories to make the letters come alive instead of just drilling rules. [chuckles] Remember how you finally learned the alphabet by pretending each letter was a knight in your toy army?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[crying while speaking] I remember everything."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] After the last family dismissed me five winters ago, I sold everything I owned just to eat. [trailing off] First the books, then the furniture, finally even my teaching robes, until there was nothing left to sell but my pride, and that went too eventually..."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] You're coming back to the manor house with me right now, no arguments. We have a whole wing that's barely used, and Mother always asks about you, wondering where her favorite dinner conversation partner disappeared to."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] I'm not looking for charity, Your Lordship, especially not from a student I once made copy sentences about maintaining dignity in all circumstances. [exhales] Some falls are too far to climb back from."
+        },
+        {
+            "role": "Character 1",
+            "content": "[passionately] This isn't charity, it's a debt that's thirty years overdue. You gave me the gift of literacy when my own father thought I was worthless. [very sincerely] Let me at least give you a warm bed and regular meals."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] My own son hasn't spoken to me in three years, ashamed of what I've become. He walks past me in the street like I'm invisible, and perhaps it's better that way for him."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warm] Then you'll be the grandfather my children never had, because Father died before they were born. [confidently] They need someone to teach them that learning is an adventure, not just duty and memorization like their current tutors insist."
+        },
+        {
+            "role": "Character 2",
+            "content": "[whispering] I don't know if I remember how to teach anymore."
+        },
+        {
+            "role": "Character 1",
+            "content": "[gently] The man who taught me that 'knowledge is the only wealth that multiplies when shared' could never forget how to teach. [pause] You wrote that in my first lesson book, and I still have it in my library."
+        },
+        {
+            "role": "Character 2",
+            "content": "[slowly] Perhaps some lessons are worth teaching twice, once to the child and again to the man he becomes. [resigned] Very well, Your Lordship, I accept your offer with what little grace I have left."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "c8714d05_scenario.json",
+    "actor": 1,
+    "scenario": "A baron discovers a homeless man sleeping in his family's abandoned chapel is actually the former tutor who taught him to read thirty years ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "baron",
+    "character_2_role": "nobody",
+    "selected_tones": [
+        "lingering",
+        "understanding",
+        "fair"
+    ]
+}

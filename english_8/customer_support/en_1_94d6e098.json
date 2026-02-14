@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Look. Card declined. Third time. Not your fault but..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Oh okay—let me—actually wait I see what's happening here your account AC-9847-VX2 has a fraud hold that's triggering at exactly $150.00 which is probably why it keeps—yeah there it is!"
+        },
+        {
+            "role": "Customer",
+            "content": "Fraud hold? I shop there. Every week."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right so—um—here's the thing the system flagged three attempts at exactly $150.00 from IP address 74.203.18.92 and it thinks—no wait actually—it thinks someone's testing your card."
+        },
+        {
+            "role": "Customer",
+            "content": "Testing. My card. At the grocery store I..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know I know it's—*exhales*—stupid honestly but I can fix this right now just need to verify your billing zip is still 48226 and then boom fraud department releases it."
+        },
+        {
+            "role": "Customer",
+            "content": "Still 48226. How long. Need groceries. Today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay so I'm—let me just—submitting the override now case number CSE-4492-MNK and it'll be active in, um, approximately 4 to 7 minutes max."
+        },
+        {
+            "role": "Customer",
+            "content": "Four to seven. You sure? Because last time..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely—actually no wait even better—I just got the confirmation code CNF-8823-PP which means it's already processing so maybe like 2 minutes tops."
+        },
+        {
+            "role": "Customer",
+            "content": "Two minutes. Okay. Should I just... wait here or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually you know what—er—refresh your app in exactly 90 seconds and you'll see the hold removed and your available balance should show $1,847.32 again."
+        },
+        {
+            "role": "Customer",
+            "content": "How do you know my exact... Never mind. Fine."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm just—I'm really good at this—um—sorry that sounded weird but I mean I've released probably 200 fraud holds this week alone so I know exactly how long each status code takes."
+        },
+        {
+            "role": "Customer",
+            "content": "Two hundred? This week? That's..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah it's—*sharp inhale*—honestly we had a breach at vendor VND-7734 last month affected about 11,000 cards so we're being super careful but catching some false positives."
+        },
+        {
+            "role": "Customer",
+            "content": "Breach. Great. Should I be... worried or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! No no no—actually wait—your card ending in 4429 wasn't in that batch but, um, if you want I can overnight you a replacement arrives tomorrow by 10:30am just for peace of mind?"
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow. Ten thirty. Sure. Why not..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect expedited order EXP-9901-LK2 is placed and just—er—sorry about all this truly the system's just trying to protect you but I know it's annoying when you're just trying to buy groceries!"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "94d6e098_script.json",
+    "actor": 1,
+    "scenario": "frustrated but apologetic because they know it's not the agent's fault",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

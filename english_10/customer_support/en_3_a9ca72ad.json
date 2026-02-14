@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm sorry, I'm probably just being stupid but I can't... the thing won't work?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! No no no. Not at all. I'm so sorry you're having trouble. Let me... okay. Can you tell me what device we're looking at? And maybe your account number if you have it?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's the new router thing you sent. I think my account is maybe... sorry, let me find..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's totally fine! Take your time. Actually if you... if you look at the box? Should be a sticker. With like ROT-something and numbers. Probably starts ROT-4 or ROT-5."
+        },
+        {
+            "role": "Customer",
+            "content": "ROT-4338? Is that... I mean that's probably not right..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's perfect! ROT-4338-XL. Okay so. I'm looking at your account now. CID-78892-MK. And I see we sent this Tuesday? I'm really sorry if the setup instructions weren't... weren't clear enough."
+        },
+        {
+            "role": "Customer",
+            "content": "No it's just me, I'm not good with these things so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually? Between you and me. These new models are... they're kind of tricky. Even for us. So what exactly happens when you try to connect? Like do any lights come on?"
+        },
+        {
+            "role": "Customer",
+            "content": "There's a blue one? And then it goes red. Which seems bad probably."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Okay so. That's actually... that's telling us something specific. Your modem serial MX-90134-B needs a firmware push. Which sounds complicated but. I can do it from here. Takes maybe three minutes?"
+        },
+        {
+            "role": "Customer",
+            "content": "You can just... fix it? From there?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah! Remotely. Through signal 447-229-8K. It's kind of... I mean technically you're supposed to do it yourself through the app? But honestly. This is easier. For both of us."
+        },
+        {
+            "role": "Customer",
+            "content": "Look I pay quite a bit for this service, shouldn't this stuff just work?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right. And I'm... I'm really sorry. For a premium account like yours. Payment tier PT-3. This should be seamless. Let me just... okay pushing the update now."
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry I didn't mean to snap, I'm just frustrated with myself mostly..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no! Don't apologize. Seriously. These things are designed badly. Firmware FK-2.9.4 updating now... should see the light flash green? Then back to blue?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Yes! It's doing that. So basically now what?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! So now. In about... thirty seconds? It'll restart. Then you can use password TEMP-8827-QM to connect. And then make your own password. Super simple."
+        },
+        {
+            "role": "Customer",
+            "content": "That's it? God I feel silly. I probably should have just..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? You did exactly right calling. That firmware thing? Happens to like. Half our ROT-4000 series. Support ticket ST-90012 if you need reference. But you're all set now!"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "a9ca72ad_script.json",
+    "actor": 3,
+    "scenario": "embarrassed to admit they don't understand technology very well",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

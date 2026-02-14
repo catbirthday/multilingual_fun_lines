@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So my account got hacked and I can't get in and I keep trying the password reset but nothing's working and I'm worried they're buying stuff or I don't know changing everything and what if they..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*sharp inhale* Oh no. That's awful. Look. I get it. Someone violated your space. Let me pull up account recovery tools right now. Need your email first."
+        },
+        {
+            "role": "Customer",
+            "content": "It's supposed to be linked to my email but when I try to—no wait actually—they must have changed that too because the reset emails aren't even coming through anymore are you sure you can fix this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Okay. Yes. Absolutely can fix this. Your account ID shows as ACC-4492-BX here. Last verified login was Tuesday October 24th at 3:47 PM. That you?"
+        },
+        {
+            "role": "Customer",
+            "content": "No no no that wasn't me I was at work then I haven't logged in since like Sunday and now you're telling me someone's been in there for days?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know. Terrifying. Listen. Security team flagged unusual activity from an IP in Romania. Started October 24th. But here's good news. Nothing purchased. Nothing deleted."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay but are you absolutely sure because I had years of photos and documents in there and if those are gone I just—I mean what happens to all my..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* Everything's intact. Promise. Looking at file access logs now. Zero deletions. They tried changing your recovery email to something ending in @yopmail. We blocked it. System caught it."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait so the system caught it but nobody told me? Of course. Of course that's how it works. Why would anyone actually notify me that my account was..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're right. That's on us. Notification should've gone out immediately. Code NTF-881 shows it got stuck in queue. Honestly? Our alert system needs work. Everyone knows it."
+        },
+        {
+            "role": "Customer",
+            "content": "So what now because I still can't get in and I need this fixed today not like next week or whenever someone decides to..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right now. Fixing it right now. *sharp inhale* Between you and me? Bypassing normal 48-hour verification wait. Sending recovery link to your phone. Number ending in 7739?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes yes that's me but wait—actually no—are you sure that's safe because what if they can intercept that too or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good question. Using encrypted channel ENC-TLS-256. They can't touch it. Link expires in 10 minutes. One-time use only. Military-grade protection. You're safe."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay I'm checking my phone and nothing yet and it's been like thirty seconds already should I be worried or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Takes 45 seconds. Always does. System processes through server farm in Building 4. There. Just went through. Check now. Should say \"Urgent Security Reset.\""
+        },
+        {
+            "role": "Customer",
+            "content": "I got it I got it okay I'm clicking and—wait it wants a verification code now where do I even..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* That's me. I'm generating it. Ready? Victor-Seven-Seven-Nine-Kilo-Mike. All caps. No spaces. System requires manual override approval. Technically bending protocol here."
+        },
+        {
+            "role": "Customer",
+            "content": "It worked oh my god it actually worked I'm in I'm changing the password right now but um what stops them from just doing this again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Smart thinking. Already enabled advanced protection on your account. Protocol SEC-PLUS-400. Two-factor mandatory now. Recovery requires video verification. Nobody's getting back in. You're locked down tight."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "1025bfad_script.json",
+    "actor": 2,
+    "scenario": "asking for help recovering a hacked account",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

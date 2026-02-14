@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[shocked] Oh my God, David?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Don't."
+        },
+        {
+            "role": "Character 3",
+            "content": "[hesitantly] What are you doing here? I mean, Jesus, you're sleeping in our parking garage? How long have you, uh, been down here?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Does it matter? Look, I'll leave, alright? Just, um, give me a minute to grab my stuff and you can pretend you never saw me."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] No, wait, that's not—[sighs] David, when did you get out? Mom said the rehab program was ninety days, and that was only, what, two months ago?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Left after three weeks. The whole thing was, I don't know, pointless. [quietly] They wanted me to talk about feelings and childhood trauma and all that crap when really I just needed to get clean."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] You look terrible."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sarcastically] Yeah well, not everyone can afford thousand-dollar suits and, uh, whatever that watch costs. [laughs bitterly] Some of us actually have to live in the real world, not in some glass tower managing other people's retirements."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angrily] Oh, please. Don't give me that class warfare bullshit, David. We grew up in the same house, went to the same schools. The only difference is I didn't, um, throw everything away for—"
+        },
+        {
+            "role": "Character 2",
+            "content": "[shouting] For what? Go ahead, say it! For drugs, for being weak, for being the family disappointment? [shaky voice] You think I don't know what everyone thinks of me?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] That's not what I was going to say. Look, I manage forty billion in pension assets, ensuring thousands of people don't end up homeless in retirement, and here's my own brother literally sleeping on concrete because he won't accept help."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] Your help always comes with strings, Michael. It's never just help, it's, uh, lectures and conditions and making me feel like even more of a failure than I already do."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] When did you last eat something? I mean, an actual meal, not whatever you've been surviving on."
+        },
+        {
+            "role": "Character 2",
+            "content": "Yesterday morning, I think. Maybe the day before. Time gets, um, weird when you're not really sleeping, just kind of existing between being high and being sick."
+        },
+        {
+            "role": "Character 1",
+            "content": "[very quietly] Are you using right now? And please, just be honest with me for once."
+        },
+        {
+            "role": "Character 2",
+            "content": "[pause] Not since Thursday. Ran out of money, ran out of, uh, options. [trembling] That's why I came here, actually. Remembered you mentioning the garage had security cameras turned off at night for some insurance thing."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sadly] You came here hoping I'd find you, didn't you? This wasn't random. [sighs] You knew I always work late on Mondays reviewing the Asian markets."
+        },
+        {
+            "role": "Character 2",
+            "content": "Maybe. I don't know. [very quietly] I'm tired, Michael. Not just, like, physically tired but tired of running, tired of lying, tired of waking up wondering if today's the day I finally OD and honestly not caring either way."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warmly] Come upstairs. My office has a shower in the executive bathroom, and I've got a change of clothes from my gym bag. We'll get you cleaned up, get some food in you, and, um, figure out what comes next. No lectures, I promise."
+        },
+        {
+            "role": "Character 2",
+            "content": "[crying while speaking] I don't deserve this. After everything I've done, the money I stole from Mom, the things I said to you last Christmas. [sniffles] Why would you even want to help me?"
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "d7490833_scenario.json",
+    "actor": 1,
+    "scenario": "A pension fund manager discovers their estranged younger brother sleeping in the parking garage of their office building, having hit rock bottom with his addiction.",
+    "type": "scenario_conversation",
+    "character_1_role": "pension fund manager",
+    "character_2_role": "addict",
+    "selected_tones": [
+        "closing-off",
+        "agitating",
+        "holding"
+    ]
+}

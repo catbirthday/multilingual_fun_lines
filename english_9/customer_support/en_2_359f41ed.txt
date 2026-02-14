@@ -1,0 +1,48 @@
+=== Source: 359f41ed_script.json ===
+Actor: english_2
+Content Type: customer_support
+Professionalism: casual
+Scenario: reporting issues with two-factor authentication not sending codes
+
+=== Dialogue ===
+
+Customer: I can't—wait, no—I keep trying to log in and the code won't—it's not sending the code.
+
+Customer Support: Oh no, that's so frustrating. Let me see here... I'm pulling up your account with the number ending in 4729, and basically what I'm seeing is... yeah, the system's trying to send them.
+
+Customer: But I'm not getting anything! I've tried—no wait—I checked spam, I checked everything.
+
+Customer Support: I completely understand. This happens more than it should. So your registered number is (847) 291-3564, right? And like, when did you last get a code successfully?
+
+Customer: Yesterday morning. Then suddenly nothing works and I need—I have to pay bills today.
+
+Customer Support: Right right. Okay so... hmm, what if we try sending code XK9-421 to your backup email instead? Sometimes the SMS gateway just...
+
+Customer: There's no backup email. I never—wait, was I supposed to set one up?
+
+Customer Support: No no, you're fine. Let me think... So basically we can bypass this with security questions. Your account shows three verified answers from March 2023.
+
+Customer: Security questions. Of course. Because nothing can just be simple anymore.
+
+Customer Support: I know, I know. Trust me, I hate this system too. First one's about your first car?
+
+Customer: It was—no, hold on—did I put the Honda or the Toyota?
+
+Customer Support: Take your time. The verification window stays open for 15 minutes, reference number VRF-8827-QM2.
+
+Customer: Toyota. No wait—actually it was the Corolla. Is that what you need?
+
+Customer Support: Perfect. Got it. Second question... favorite teacher?
+
+Customer: Mrs. Anderson. This is ridiculous. Why can't the codes just work like they're supposed to?
+
+Customer Support: You're absolutely right. Look, after we get you in, I'm gonna flag case number 7739821 for our tech team because this shouldn't...
+
+Customer: Whatever. Just—can you please just get me into my account?
+
+Customer Support: Almost there. Last question's your first street. And then so... once you're in, we're switching you to backup authentication app, code RX7-W92.
+
+Customer: Maple Street. Two words. And yeah, fine, whatever works at this point.
+
+Customer Support: Beautiful. You're in. Sending setup link to your phone now. Reference TKT-20240115-8827 if you need to call back, and like, genuinely? I'm sorry this happened.
+

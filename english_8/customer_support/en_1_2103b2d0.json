@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So I filed a claim weeks ago. Like where is it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay okay, let me—let me pull that up for you. Um, can I get your claim number or the email you used?"
+        },
+        {
+            "role": "Customer",
+            "content": "Basically it's under Thompson. Executive account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. Er, I see several claims here. The most recent one is CL-492-MXKJ from November 12th. That's showing as. Um. Still under review. Which is—which is taking longer than usual."
+        },
+        {
+            "role": "Customer",
+            "content": "Do you know who I am? VP at Nexus Corp?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I—I absolutely see that, Mr. Thompson. Your account status is, uh, definitely noted here as priority tier PLT-GOLD-88. The thing is. Even with priority accounts. Claims involving amounts over ten thousand need. Er. Additional verification. I wish I had better news."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically I'm stuck waiting. Fantastic."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know. I know it's frustrating. What I can—hmm, let me check something. Your claim processor is Agent KXM-7742. They're. Uh. Actually backed up with end-of-year reviews right now."
+        },
+        {
+            "role": "Customer",
+            "content": "This is actually ridiculous. Like genuinely ridiculous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're right. This isn't—this isn't the service level you should expect. Er, what if I. Actually hang on. I could escalate this to rapid review team RRT-ALPHA. They typically process within seventy-two hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Seventy-two hours? That's your solution?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand. That's still. Um. Not ideal. The other option is—is requesting an exception override. Code EXC-9901-OVERRIDE. But that requires. Uh. Director approval. Which could actually take longer."
+        },
+        {
+            "role": "Customer",
+            "content": "Like how is this even legal? Holding my money?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's—it's not about holding funds, Mr. Thompson. The compliance team has to verify. Er. Transaction codes TRX-881 through TRX-894. Federal regulations require. Um. Full documentation for claims of this size. I really—I really wish I could bypass it."
+        },
+        {
+            "role": "Customer",
+            "content": "So get your supervisor. Maybe they're competent."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. Of course. Let me—um, let me connect you with my lead. Supervisor badge SUP-4419-JENKINS. They have. Er. More authority for exceptions. Just—just give me one moment to brief them on your situation."
+        },
+        {
+            "role": "Customer",
+            "content": "Brief them? Like they can't read the screen?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're—you're absolutely right. They can see everything. Case file CLF-492-MXKJ-FULL. I just want to. Uh. Make sure they understand the urgency. The timeline. Everything. So they can actually help."
+        },
+        {
+            "role": "Customer",
+            "content": "Whatever. Just make it happen."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I will. I will. Stay on the line please. Your reference for this escalation is ESC-7729-PRIORITY. My supervisor will. Er. They'll be with you in just—just a moment. Thank you for your patience, Mr. Thompson."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "2103b2d0_script.json",
+    "actor": 1,
+    "scenario": "asking about the status of a previously submitted claim",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

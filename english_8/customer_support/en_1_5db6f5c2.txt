@@ -1,0 +1,48 @@
+=== Source: 5db6f5c2_script.json ===
+Actor: english_1
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking why their service was downgraded without consent
+
+=== Dialogue ===
+
+Customer: I noticed my premium account was downgraded to basic last week. I never authorized this change.
+
+Customer Support: I apologize for the unexpected change to your account. Let me pull up your account details right away to investigate what happened with your service level.
+
+Customer: I've been a premium member for three years. This shouldn't happen without my explicit consent.
+
+Customer Support: You're absolutely right, and I completely understand your concern. I can see your account number is AC-88294-XL and you've indeed maintained premium status since January 2021 without interruption.
+
+Customer: Can you explain what triggered this downgrade? I need to understand the root cause here.
+
+Customer Support: Certainly.
+
+Customer: My automated services stopped working yesterday. That's how I discovered the change.
+
+Customer Support: I've identified the issue now. There was a payment processing error on December 3rd when your card ending in 4782 was declined, which triggered an automatic downgrade after our 7-day grace period.
+
+Customer: That card was replaced due to fraud. I updated my payment information two weeks ago.
+
+Customer Support: I can see you did update to a new card ending in 5923 on November 28th, but unfortunately there was a system synchronization error that prevented the update from applying to your recurring billing profile.
+
+Customer: So this was a technical failure on your end, not a payment issue on mine?
+
+Customer Support: That's correct, and I sincerely apologize for this error. I'm immediately reinstating your premium service with activation code PRM-RESTORE-92847, and you'll have full functionality within the next 15 minutes.
+
+Customer: What about the four days I lost access to premium features?
+
+Customer Support: Excellent question.
+
+Customer: I rely on those automated workflows for my business operations.
+
+Customer Support: I completely understand the impact this has had on your business. I'm applying a service credit of $47.96 to your account, which represents a full month of premium service, and adding a courtesy credit of $25.00 for the inconvenience.
+
+Customer: That's fair. How do we prevent this from happening again?
+
+Customer Support: I've flagged your account with protection code FSP-1147 to prevent automatic downgrades, and I've manually verified your new payment method is properly synchronized across all our billing systems.
+
+Customer: Good. Can you send me written confirmation of everything we discussed today?
+
+Customer Support: Absolutely. I'm sending a detailed summary to your email on file within the next 10 minutes, including your case reference number CS-20241210-KM847 and all applied credits and corrections.
+

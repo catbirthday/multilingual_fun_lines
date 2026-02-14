@@ -1,0 +1,48 @@
+=== Source: 76ab3f6a_script.json ===
+Actor: english_4
+Content Type: customer_support
+Professionalism: professional
+Scenario: angry but trying to stay calm because they know yelling won't help
+
+=== Dialogue ===
+
+Customer: Good afternoon. I need to discuss a recurring billing issue that's been happening for three months now.
+
+Customer Support: Good afternoon, and thank you for reaching out. I understand billing concerns require immediate attention, and I'm here to help resolve this today. May I please have your account number or the email address associated with your account?
+
+Customer: The email is michael.chen@techcorp.com. I've been double-charged for my premium subscription since September.
+
+Customer Support: Thank you, Mr. Chen. I'm pulling up account MTC-89234-PRM right now, and I can see you have our Premium Plus subscription at $149.99 monthly. Let me review your billing history to identify exactly where these duplicate charges are occurring.
+
+Customer: I've contacted support twice before about this. Each time I was promised a resolution that never happened.
+
+Customer Support: I sincerely apologize for the previous unresolved attempts, Mr. Chen. I can see case numbers CS-20231015-447 and CS-20231102-892 in your history, both marked as resolved but clearly the issue persists. I'm escalating this to our billing specialist team immediately and will personally monitor the resolution.
+
+Customer: What specifically went wrong with those previous attempts? I need to understand why this keeps happening.
+
+Customer Support: Absolutely, let me explain what I'm seeing here. The first case on October 15th applied a manual credit but didn't address the duplicate payment method on file. The second case on November 2nd removed one payment method but a system sync error restored it within 48 hours. The root cause is a legacy payment profile that's triggering alongside your current one.
+
+Customer: So there are two payment profiles charging my account? How is that even possible in your system?
+
+Customer Support: Certainly.
+
+Customer: Please explain the technical issue here. I manage IT systems myself and this doesn't make sense.
+
+Customer Support: You're absolutely right to question this, Mr. Chen. When you upgraded from Basic to Premium Plus on August 28th, our system created a new payment profile instead of updating the existing one. Both profiles have remained active with recurring charge dates on the 3rd and 17th of each month, resulting in the duplicate $149.99 charges you've been experiencing.
+
+Customer: I need all incorrect charges refunded immediately. This has cost me almost nine hundred dollars in overcharges.
+
+Customer Support: I completely understand your frustration, and you're absolutely entitled to a full refund. I'm processing a total refund of $899.94 for the six duplicate charges from September 3rd, September 17th, October 3rd, October 17th, November 3rd, and November 17th. The confirmation number for this refund is REF-2023-11-20-KC4521.
+
+Customer: When will I actually see this refund? And how do I know this won't happen again next month?
+
+Customer Support: The refund will be credited to your original payment method within 3-5 business days, and you'll receive an email confirmation within the next 30 minutes. To prevent any future issues, I'm completely removing the legacy profile, implementing a billing lock until December 5th, and setting up monitoring alert BM-7734 on your account.
+
+Customer: What does the billing lock mean? I still need my subscription to remain active for my team.
+
+Customer Support: Great question, Mr. Chen. The billing lock prevents any automatic charges while keeping your Premium Plus subscription fully active and functional. On December 3rd, I'll personally verify the single correct charge of $149.99 processes properly, then remove the lock. Your service continues uninterrupted, and your team maintains full access throughout this protection period.
+
+Customer: I appreciate the thorough explanation. Can you send me documentation of everything we've discussed today?
+
+Customer Support: Absolutely, Mr. Chen. I'm sending a detailed case summary to michael.chen@techcorp.com that includes your case number CS-20231120-001, the refund confirmation REF-2023-11-20-KC4521, the corrective actions taken, and my direct extension 4472 if you need any follow-up. You should receive this documentation within the next 15 minutes, and I'll personally monitor your December billing cycle to ensure everything processes correctly.
+

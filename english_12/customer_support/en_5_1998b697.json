@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Sorry, I'm just—I mean I'm looking at the pricing page—no wait, the features page, and I'm completely lost here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I totally understand the confusion, these pages can be... what's the word... overwhelming, honestly. Let me see here, um, you're looking at our three main tiers, right? There's Basic at $19.99, Professional at $49.99, and then Enterprise at $149.99 per month."
+        },
+        {
+            "role": "Customer",
+            "content": "Right, yeah, but I don't—sorry, what I mean is, what's actually different between them?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mmm, yeah, I hear you completely. So the Basic tier, er, that gives you up to 5 user accounts and 100GB of storage. Hmm, let me pull up the comparison chart... okay so Professional jumps you to 25 users and, uh, 1TB of storage, plus you get the analytics dashboard that shows your usage patterns from the last 30 days."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, the analytics—no, sorry, the storage thing. Is that per user or total?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, great question, that's actually... let me think how to explain this best... it's total storage shared across all users. So with Basic's 100GB, if you have, say, 3 users, they're all pulling from that same pool. I know it seems, well, kind of limited when you think about it that way."
+        },
+        {
+            "role": "Customer",
+            "content": "That's—okay but then how do I know you won't just, like, suddenly change these limits on me?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ooh, I completely get why you'd worry about that. Actually, we lock in your features for, hmm, let me check the terms... yes, minimum 24 months from signup, and any changes require 90 days advance notice sent to your email on file. No surprises, I promise. What if we... actually, are you more concerned about the storage or the user limits?"
+        },
+        {
+            "role": "Customer",
+            "content": "Storage mostly. But wait—I mean pricing. Does that lock in too or just features?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So pricing, er, that's a bit different... Existing customers get grandfathered rates for 12 months, then any increases are capped at 10% annually. Let me see if there's... oh actually, if you sign up before December 31st, there's a promo code SAVE20 that locks your rate for the full 24 months."
+        },
+        {
+            "role": "Customer",
+            "content": "How do I know that's even—sorry, is that code real? Because I've been burned before."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh man, I totally understand that skepticism, believe me. Okay so, um, I'm putting that code into our system right now... yep, SAVE20 shows active through December 31st at 11:59 PM Pacific. Actually, you know what? Let me generate you a personalized link that pre-applies it so you can see the discounted price before you even enter payment info."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—look, which tier do most people actually pick? The real answer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, you want the honest truth? Let me pull up our, uh... okay so 68% of customers start with Basic, but here's the thing—about half upgrade to Professional within 3 months when they hit the storage limit. Personally? I think if you're even slightly worried about storage, Professional at $49.99 makes more sense than paying for overages at $15 per additional 50GB."
+        },
+        {
+            "role": "Customer",
+            "content": "Professional is forty—no wait, you said fifty dollars? The page says something else."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, let me double-check that for you... er, so you're right to catch that. The page shows $54.99, but with the SAVE20 code it drops to $43.99 actually, not fifty—sorry, I was looking at the wrong column in my screen here. That $43.99 rate stays locked for your full 24 months though."
+        },
+        {
+            "role": "Customer",
+            "content": "And the Enterprise one? Actually no—never mind, that's way too much anyway."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well actually, just so you know, Enterprise at $149.99 is really meant for, uhh... companies with like 100-plus employees. Most individuals never need it unless they're doing, hmm, heavy video production or something. Professional honestly covers, I'd say, 95% of our customer needs."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay but hold on—what happens to my files if I downgrade later?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ooh good thinking ahead. So if you downgrade, we give you, let me see... 60 days to get under the new limit, and nothing gets deleted automatically—it just goes read-only until you're back under. Actually wait, that reminds me, we also have a grace period where you can reactivate your old tier within 14 days if you change your mind, no questions asked."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "1998b697_script.json",
+    "actor": 5,
+    "scenario": "confused about different pricing tiers and features",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

@@ -1,0 +1,48 @@
+=== Source: b4bc28b7_script.json ===
+Actor: english_5
+Content Type: customer_support
+Professionalism: professional
+Scenario: wanting confirmation that their request was properly documented
+
+=== Dialogue ===
+
+Customer: I submitted a priority service request yesterday afternoon and need confirmation it was properly documented before our audit.
+
+Customer Support: Absolutely. I can verify that for you right away. May I have your account number and the approximate time you submitted the request?
+
+Customer: Account number 47829. I submitted it around 3:30 PM Eastern through your online portal.
+
+Customer Support: Thank you. I'm pulling up account 47829 now. I can see your priority service request SR-9847-QM was successfully submitted yesterday at 3:27 PM Eastern and has been assigned to our implementation team.
+
+Customer: Perfect. Can you confirm exactly what was documented in that request?
+
+Customer Support: Certainly. The request shows you've asked for an upgrade to your enterprise licensing package from 500 to 750 users, with implementation needed by December 1st, reference number ENT-750-UPG.
+
+Customer: That's correct. Has anyone from implementation acknowledged receipt or provided a timeline?
+
+Customer Support: Yes, I can see that Jennifer Martinez from our implementation team logged acknowledgment at 4:15 PM yesterday. She's scheduled your upgrade for November 28th with ticket number IMP-3298-JM, which gives you three days buffer before your deadline.
+
+Customer: Excellent. Will I receive written confirmation of this scheduling?
+
+Customer Support: You should have already received an automated confirmation to your registered email. Let me verify that went through. I show it was sent to your primary contact email ending in -4521 at 4:18 PM yesterday.
+
+Customer: I haven't seen it. Can you resend that confirmation immediately?
+
+Customer Support: Of course.
+
+Customer: Also, who should I contact if we need to expedite this further?
+
+Customer Support: Jennifer Martinez is your assigned implementation specialist. You can reach her directly at extension 7234 or via email at j.martinez@company.com. Her backup is Thomas Chen at extension 7235.
+
+Customer: Thank you. What's the escalation path if we encounter any delays?
+
+Customer Support: If you experience any delays, contact Jennifer first. If she's unavailable, Thomas can assist. For urgent escalations, call our priority support line at 800-555-9000 and reference your ticket IMP-3298-JM.
+
+Customer: I need all this information documented in writing for our compliance team.
+
+Customer Support: I understand completely. I'm sending you a comprehensive summary now to both your primary and secondary emails on file. This will include all reference numbers, contacts, and the escalation matrix with document ID DOC-8847-CS.
+
+Customer: When will I receive confirmation that the upgrade is actually complete?
+
+Customer Support: On November 28th, you'll receive an automated completion notice immediately when the upgrade finishes. Jennifer will also send a detailed implementation report within 24 hours with verification code VER-2847-NOV for your audit records.
+

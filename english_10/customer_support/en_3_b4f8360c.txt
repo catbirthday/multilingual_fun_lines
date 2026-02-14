@@ -1,0 +1,48 @@
+=== Source: b4f8360c_script.json ===
+Actor: english_3
+Content Type: customer_support
+Professionalism: professional
+Scenario: relieved because they finally found the right department after being transferred five times
+
+=== Dialogue ===
+
+Customer: Thank goodness I've reached the right department. I've been transferred five times already and really need help with my account suspension.
+
+Customer Support: I sincerely apologize for the runaround you've experienced today. Let me pull up your account immediately and we'll get this resolved without any further transfers.
+
+Customer: I appreciate that. My online access was suspended this morning without any warning or explanation.
+
+Customer Support: I see your account here, reference number ACC-894KL-2023, and there's a security flag from our fraud prevention system triggered at 8:47 AM Eastern time today.
+
+Customer: That's concerning. I haven't done anything unusual with my account recently. What triggered the security system?
+
+Customer Support: The system detected three login attempts from IP address 192.168.45.237 in Bangkok, Thailand, while simultaneously showing your regular access from your home location in Portland.
+
+Customer: That definitely wasn't me. I haven't traveled internationally and certainly haven't been to Thailand.
+
+Customer Support: Understood completely.
+
+Customer: What steps do we need to take to secure my account and restore my access?
+
+Customer Support: First, I'm initiating our security protocol SP-7742 which will immediately terminate all active sessions and require a complete password reset using your verified email address.
+
+Customer: Perfect. Will this prevent whoever was trying to access my account from getting in?
+
+Customer Support: Absolutely. The unauthorized IP range has been permanently blocked, and I'm adding two-factor authentication with verification code TFA-8829-SETUP to prevent any future unauthorized access attempts.
+
+Customer: That's exactly what I was hoping for. How long will the restoration process take?
+
+Customer Support: You'll receive the password reset email within the next five minutes to your registered address ending in @techcorp.com, and full access will be restored immediately upon completion.
+
+Customer: Excellent. Can you explain why I was transferred so many times before reaching you?
+
+Customer Support: Of course.
+
+Customer: I'd like to understand the routing issue so I can avoid this situation in the future.
+
+Customer Support: Security-related suspensions require our specialized team, department code SEC-4A, but the initial routing system misclassified your issue as a standard login problem, sending you through billing and technical support first.
+
+Customer: That makes sense now. Is there a direct number I can use if this happens again?
+
+Customer Support: Certainly, for any security-related concerns, please call our direct security line at 1-800-555-9823 extension 4429, which bypasses the general queue entirely and connects you straight to our team.
+

@@ -1,0 +1,48 @@
+=== Source: 2023c637_script.json ===
+Actor: english_7
+Content Type: customer_support
+Professionalism: professional
+Scenario: wanting to dispute a chargeback that was filed against them
+
+=== Dialogue ===
+
+Customer: Good morning. I need assistance with a chargeback that was filed against my business account yesterday.
+
+Customer Support: Good morning. I'll assist you with that chargeback dispute. May I have your merchant account number and the transaction reference code?
+
+Customer: The merchant account is 447829-MX and the transaction was processed on October fifteenth.
+
+Customer Support: Thank you. I'm accessing merchant account 447829-MX now. I can see chargeback case CB-2024-10-8847 for $2,847.50 initiated yesterday at 14:37 EST.
+
+Customer: That's correct. This was a legitimate transaction with signed delivery confirmation. I need this reversed immediately.
+
+Customer Support: I understand the urgency. Let me review the chargeback reason code. I'm seeing this is filed under reason code 4853 for "Goods or Services Not Received."
+
+Customer: The customer absolutely received the merchandise. We have FedEx proof of delivery from October eighteenth.
+
+Customer Support: Excellent. Having proof of delivery strengthens your dispute case significantly. I'll initiate the representment process immediately through our dispute portal DMS-7742.
+
+Customer: How quickly can this be resolved? This impacts our cash flow and our merchant standing.
+
+Customer Support: Understood.
+
+Customer: What documentation do I need to provide beyond the delivery confirmation?
+
+Customer Support: You'll need to submit the signed delivery confirmation, original invoice INV-10152024-3847, any customer communication records, and your terms of service agreement through our secure portal.
+
+Customer: I have all of that ready. Can you walk me through the submission process?
+
+Customer Support: Certainly. I'm sending you a secure link to upload.disputeportal.com/case/CB847MX right now. You'll receive it at the email address ending in @techsolutions.com on file.
+
+Customer: Perfect. What happens after I submit everything? What's the typical timeline?
+
+Customer Support: Once you submit the documentation, our dispute team reviews it within 24 hours. If approved, we submit the representment to the issuing bank within case window RW-72H.
+
+Customer: Is there a fee for disputing this chargeback?
+
+Customer Support: There's a $15 dispute filing fee, reference code DFF-15-STD, which is waived if you win the representment. Your current win rate is 87% based on your merchant history.
+
+Customer: That's encouraging. Will I receive confirmation once everything is submitted?
+
+Customer Support: Absolutely. You'll receive an automated confirmation with tracking number DTR-8847-CB immediately upon submission, and I'll personally monitor this case through resolution.
+

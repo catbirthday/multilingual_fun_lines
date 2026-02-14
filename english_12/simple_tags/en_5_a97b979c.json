@@ -1,0 +1,95 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "What the hell are you doing here, Marcus? Get off this corner right now before I, uh, before I have to sweep around whatever mess you're making."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] Just standing here talking to friends, Uncle Ray. [coughs] Last I checked that wasn't illegal, and you're not a cop anyway, you just clean the streets."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angry] Don't play dumb with me, I saw the handoff from half a block away. [pause] Your mother thinks you're at community college right now, studying for your finals or whatever."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Yeah well, community college doesn't pay for Mom's medication, does it? [quietly] You know how much her prescriptions cost every month? Three hundred dollars we don't have."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] So this is your solution? Standing on corners like some, some stereotype? [sighs] Twenty years I've been cleaning these streets, watching kids like you throw their lives away for quick cash."
+        },
+        {
+            "role": "Character 2",
+            "content": "[impatient] Kids like me? [laughs] You mean kids trying to keep their families from getting evicted? Sorry we can't all be satisfied with minimum wage and a city pension, Uncle."
+        },
+        {
+            "role": "Character 1",
+            "content": "At least I can look your grandmother in the eye at Sunday dinner without lying about where my money comes from, you understand what I'm saying?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[curt] Grandma's dead, remember? [pause] Has been for two years, but you'd know that if you actually came around instead of just preaching at us when it's convenient."
+        },
+        {
+            "role": "Character 1",
+            "content": "[shaky voice] I meant... look, that's not the point here. The point is you're better than this, Marcus. [exhales] Your dad would be rolling in his grave seeing you out here like this."
+        },
+        {
+            "role": "Character 2",
+            "content": "[angry] Don't you dare bring up my father! [voice breaking] He worked himself to death in that warehouse for pennies while people like his bosses got rich off his labor."
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] He worked honest though, kept his dignity intact. [sighs] That means something, or at least it used to mean something to this family before everything went to hell."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitterly] Dignity doesn't keep the lights on, Uncle Ray. [pause] But hey, you keep pushing that broom and telling yourself you're morally superior while we lose the apartment next month."
+        },
+        {
+            "role": "Character 1",
+            "content": "[desperate] Then come work with me! The city's hiring, I can get you in, benefits and everything. It's not glamorous but it's steady, it's real work, legitimate work that won't land you in prison."
+        },
+        {
+            "role": "Character 2",
+            "content": "[sarcastically] Forty hours a week for what you make? [laughs bitterly] I make that in two days out here, sometimes three if it's slow, and nobody's breathing down my neck about attendance."
+        },
+        {
+            "role": "Character 1",
+            "content": "You make that until you're dead or locked up, which at this rate will be what, six months? A year if you're lucky?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] Maybe. [pause] But Mom gets her medicine this month, and that's all I'm thinking about right now, not some hypothetical future where everything magically works out."
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted] I've got two hundred in my truck, take it and get off this corner. [sighs] Tell your boys you're done for the day, family emergency or something, I don't care what."
+        },
+        {
+            "role": "Character 2",
+            "content": "[surprised] I don't need your money, Uncle. [defensive] I'm not some charity case you can just throw cash at to make yourself feel better about abandoning us."
+        },
+        {
+            "role": "Character 1",
+            "content": "Take the damn money!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] Fine. [long pause] But this doesn't change anything, you know that right? Tomorrow I'll be right back here because your two hundred dollars lasts exactly five days in our world."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "a97b979c_scenario.json",
+    "actor": 5,
+    "scenario": "A street sweeper operator encounters their nephew selling drugs on the corner they're about to clean, forcing a confrontation about the path he's chosen.",
+    "type": "scenario_conversation",
+    "character_1_role": "street sweeper operator",
+    "character_2_role": "nephew",
+    "selected_tones": [
+        "curt",
+        "impatient"
+    ]
+}

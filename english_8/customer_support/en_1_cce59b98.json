@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I know this probably isn't your fault, but, um, I noticed my credit didn't go where it should?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm so sorry to hear that! Let me—let me pull up your account right away. Can I get your account number? It should start with ACC and then have 8 digits after that."
+        },
+        {
+            "role": "Customer",
+            "content": "Sure, it's—wait, let me just—ACC-42819573."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, perfect, thank you! So I'm seeing your account here and, hmm, there's a $127.50 credit that was processed on November 3rd, but it looks like it went to... oh interesting, it went to a secondary billing profile instead of your primary."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Yeah, that's exactly the problem. I kind of need that on my main account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, I totally understand why that would be frustrating. So basically what happened is—er, when credits process after midnight EST, our system sometimes defaults to the first account alphabetically, which in your case is the dormant one ending in 7739."
+        },
+        {
+            "role": "Customer",
+            "content": "I mean, I get that systems mess up, but do you know how long I've been a customer?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I do, I do! Actually you've been with us for—wow, 14 years, that's incredible! And honestly, for someone with your history, this shouldn't happen. Let me just—I can definitely fix this right now, we'll move that full $127.50 over immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Okay good. Because I sort of have a payment due tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, got it!"
+        },
+        {
+            "role": "Customer",
+            "content": "Sorry, I don't mean to—I know you're trying to help here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, please don't apologize! This is—this is actually a really common issue and, uh, truthfully we should have better safeguards. So what I'm doing now is transferring credit reference CRD-9281-XK to your primary account, and it'll show within 2 to 4 hours max."
+        },
+        {
+            "role": "Customer",
+            "content": "Two to four hours? I think—no wait—can it be faster maybe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, let me see what I can do here... *pause* ...okay so, if I mark this as priority correction code P47, then basically it should appear within 30 minutes, and like, I'll also add a note to waive any late fees just in case."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... actually really helpful. Thank you. I probably came off harsh there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh, not at all! I mean, when money stuff goes wrong, it's stressful, right? So anyway, your confirmation number for this whole thing is TRN-88412-QM-2024, and er, would you like me to email that to you at the address we have on file?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, please. Though—actually hold on—which email do you have?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So we have sarah.k.martinez at gmail, and then—oh wait, there's also one here that's smartinez at techcorp, um, which would you prefer?"
+        },
+        {
+            "role": "Customer",
+            "content": "The gmail one. And honestly, thanks for being so thorough about this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, absolutely! So that email confirmation just went out, and like I mentioned, 30 minutes max for the credit to appear. Is there, uh, is there anything else I can help you with today? Actually wait—I should also mention we're crediting an additional $15 to your account for the inconvenience, so your new balance will show $142.50 total."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "cce59b98_script.json",
+    "actor": 1,
+    "scenario": "asking why their credit wasn't applied to the correct account",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

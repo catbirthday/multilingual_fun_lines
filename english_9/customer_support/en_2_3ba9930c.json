@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I just... I can't deal with all this right now but I need to know what I still owe on my contract."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand. Let me pull up your account details here... okay, I see your account number is ACC-5847291-B and you're currently on our Premium Plus plan which started January 15th, 2024."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait premium? I thought—no that's not—I just have the basic one probably. Maybe. I don't know anymore."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So... let me clarify this for you. According to what I'm seeing here, you actually upgraded from Basic to Premium Plus on March 3rd, 2024, and that extended your contract term to 24 months total with a remaining balance of $847.92 as of today."
+        },
+        {
+            "role": "Customer",
+            "content": "Eight hundred? That can't—I mean—how is it that much when I barely use anything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, so basically the way our contracts work is... you have monthly service fees of $79.99 plus any equipment lease fees, and with 11 months remaining on your term, that brings us to that total obligation amount."
+        },
+        {
+            "role": "Customer",
+            "content": "Eleven months? But I started—wait when did I—I thought it was almost done."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the confusion. So when you upgraded in March, that actually reset your contract period—the original term from January would have ended next month, but the Premium Plus upgrade created a new 24-month commitment starting March 3rd, 2024."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't remember doing that. I just... everything's been so crazy I probably just clicked something."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Can I just pay it off? Get out? I need to simplify everything right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You can, yes. So there are two options here—you can pay the early termination fee which is $350 flat, or you can pay out the remaining monthly charges which, as I mentioned, totals $847.92 for the full 11 months."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait so it's cheaper to just cancel? That makes no sense. I'm so confused."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know it seems counterintuitive but—let me explain this better. The $350 ETF applies if you cancel service immediately, but if you want to avoid any fees, you'd need to maintain service for those 11 months at $79.99 per month."
+        },
+        {
+            "role": "Customer",
+            "content": "But you just said eight forty seven—no wait—I think I'm mixing things up again sorry."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, you're fine. So basically... if you continue service, you pay $79.99 monthly for 11 months. If you want to cancel now without penalty, you'd need to pay that full amount upfront. Or the third option is just pay the $350 cancellation fee and be done."
+        },
+        {
+            "role": "Customer",
+            "content": "I just want out. The three fifty. Can we do that now please?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'll—let me process that for you right now. I'll need to transfer this to our retention department first per policy R-7742, but I can get you scheduled for a callback within 2 business hours, would that work?"
+        },
+        {
+            "role": "Customer",
+            "content": "No no no I can't—I need this done. Today. Now. Please just let me pay and be done."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, I really do. Let me... okay, I'm putting in an override request under exception code EX-9901-URGENT, and I can actually complete this for you right now—just need to verify the payment method on file ending in 4782, is that still current?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "3ba9930c_script.json",
+    "actor": 2,
+    "scenario": "trying to understand their remaining contract obligations",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

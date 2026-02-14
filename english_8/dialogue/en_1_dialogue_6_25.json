@@ -1,0 +1,87 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "We're thinking about implementing single sign-on for our company. What's your take on it?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Oh boy, um, single sign-on. Look, I've seen this go wrong so many times. The promise is great—one password for everything—but the reality is, uh, it becomes this massive single point of failure that keeps everyone awake at night."
+        },
+        {
+            "role": "Character 1",
+            "content": "[slurring] But wouldn't it improve security by reducing password fatigue?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[laugh] That's what they tell you! But here's the thing—when that one account gets compromised, boom, everything's gone. Plus the integration costs are, mmm, absolutely brutal. We're talking six figures easy for a decent-sized company."
+        },
+        {
+            "role": "Character 1",
+            "content": "What about user experience though?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah okay, users love it initially, sure. But then your identity provider goes down and suddenly nobody can access anything—email, files, payroll, nothing. I've seen entire companies grind to a halt for hours."
+        },
+        {
+            "role": "Character 1",
+            "content": "Are there good providers at least?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Okta, Auth0, Azure AD—they're all fine until they're not. Remember when Okta got breached? Twice? Their whole business model is being the keys to your kingdom and they, uh, couldn't even protect themselves properly."
+        },
+        {
+            "role": "Character 1",
+            "content": "We have so many password reset tickets though."
+        },
+        {
+            "role": "Character 2",
+            "content": "Right, I get it, but you're trading password resets for a whole different nightmare. Now you need dedicated SSO admins, SAML debugging expertise, and honestly? Half your legacy apps won't even support it properly."
+        },
+        {
+            "role": "Character 1",
+            "content": "What about compliance requirements?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] Oof, compliance actually gets worse sometimes. Auditors start asking about your identity provider's certifications, their data residency, their breach history... it opens up this whole can of worms you weren't even thinking about before."
+        },
+        {
+            "role": "Character 1",
+            "content": "[cough] Could we do a partial rollout?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Partial rollouts are the worst of both worlds, seriously. You're maintaining two authentication systems, users get confused about which apps use which login, and your help desk tickets actually increase for like the first year."
+        },
+        {
+            "role": "Character 1",
+            "content": "Is the vendor lock-in that bad?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Mmm, it's absolutely terrible. Once you're integrated, switching providers means retooling every single application. I've seen companies stuck paying triple their original contract because migration would cost even more than the price hike."
+        },
+        {
+            "role": "Character 1",
+            "content": "But everyone's moving to SSO, right?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Just because everyone's doing it doesn't mean it's smart. I mean, sure, big enterprises with dedicated teams can maybe handle it, but for most companies? It's basically paying tons of money to create new vulnerabilities."
+        },
+        {
+            "role": "Character 1",
+            "content": "[anxious] So you'd recommend against it entirely?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Look, if you absolutely have to do it, at least keep critical systems separate. But honestly? Good password managers and proper 2FA training would solve most of your problems for, uh, like a tenth of the cost and hassle."
+        }
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue6_25.txt",
+    "actor": 1
+}

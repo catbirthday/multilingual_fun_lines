@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So... let me see here... my bill is somehow forty dollars higher than usual."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I can—I can definitely help you figure that out let me just pull up your account real quick with your phone number ending in 7734 and I see you recently made a plan change on the 15th which would explain the difference so basically what happens is when you switch plans mid-cycle there's pro-rated charges."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course there are. Hmm, what's the word... hidden fees basically?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no no it's—it's actually not hidden at all I promise so when you upgraded from the basic plan at $49.99 to the premium at $79.99 on October 15th the system calculates exactly how many days you used each plan so you're paying for 15 days of basic and 15 days of premium which comes to approximately $65 total but I—I totally get why that looks confusing on the bill."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. So I'm being... er... double-charged essentially for switching?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh no you're not being double-charged at all so think of it like—like this you only pay for exactly what you use down to the day so those 15 days on basic cost $24.99 and the 15 days on premium cost $39.99 which adds up to $64.98 and actually looking at your account history I can see you've been with us for 4.7 years which means you qualify for a loyalty credit."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, really? Let me think... nobody's ever mentioned that before."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah absolutely so what I can—I can apply a one-time loyalty credit of $25 right now to offset some of this confusion plus going forward your bills will be the standard $79.99 every month no more pro-rating surprises and actually your next billing date is November 1st so everything will be nice and clean from there."
+        },
+        {
+            "role": "Customer",
+            "content": "Huh. Okay so that means... the credit happens right now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes yes yes I'm—I'm applying it as we speak actually there it goes credit confirmation number LYL-2847-9C and your new balance for this month just dropped to $39.98 which is actually less than your old plan used to cost so that's—that's kind of a nice surprise right?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Well that's... hmm, actually helpful. Wasn't expecting that honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know I know these pro-rated charges can look really scary at first but see we—we always try to make it right and just so you know for future reference anytime you change plans the pro-rating formula is printed right on page 3 of your bill with all the calculations and if you ever have questions about charges my direct extension is 4782 though any rep can help you."
+        },
+        {
+            "role": "Customer",
+            "content": "Page three. Right. Er, one more thing... what if I want to change plans again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So if you—if you decide to change again just call us on the 1st of any month and that way there's zero pro-rating it'll be a clean switch and actually looking at your usage data you're using about 47GB per month which fits perfectly in the premium tier you chose so I—I don't think you'll need to change anytime soon."
+        },
+        {
+            "role": "Customer",
+            "content": "Forty-seven gigs? Wow that's... okay so I guess the premium makes sense then."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely you were—you were actually going over your limit on basic by about 17GB every month which was costing you $34 in overage fees so even with the $79.99 premium price you're saving money and getting faster speeds with our 5G ultra network running at 487 megabits in your area code 94107."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait I was paying... overage fees? Every month? Nobody told me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah so the—the system sent alerts to your email on file which is the gmail ending in 823 but I can—I can change your notification preferences right now if you want them as texts instead and honestly most people don't realize they're going over until they look at page 2 of the bill where it breaks down data usage by day but now you're all set with unlimited data."
+        },
+        {
+            "role": "Customer",
+            "content": "Texts would be... yeah actually that'd be great. This is oddly working out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect I'm—I'm switching that over right now confirmation code NPS-6632-4M for the preference change and you'll get a welcome text in about 2 minutes just reply YES to confirm and seriously thank you for being so patient with me explaining all this billing stuff I know it's—it's not the most exciting conversation but you've been really easy to work with today."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "956a54ac_script.json",
+    "actor": 4,
+    "scenario": "confused about pro-rated charges after plan change",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

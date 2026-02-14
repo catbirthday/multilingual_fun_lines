@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[bitter] So you finally agreed to meet. [pause] Three years since you torched everything we built, and now you want to talk about redemption."
+        },
+        {
+            "role": "Character 2",
+            "content": "[quietly] I didn't torch anything, Marcus. [sighs] I exposed what was already burning beneath the surface, the rot you were too comfortable to acknowledge."
+        },
+        {
+            "role": "Character 1",
+            "content": "[angrily] Comfortable? We were managing hostile takeovers, not running a charity! [frustrated] Every deal we structured was legal, every leveraged position documented and filed with the SEC."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Legal doesn't mean ethical. [passionately] Those pension funds you raided to finance acquisitions belonged to people who worked their entire lives for that security."
+        },
+        {
+            "role": "Character 1",
+            "content": "[defensive] And your whistleblowing helped them how exactly? [loudly] Their pensions vanished anyway when the firm collapsed, except now they have nothing instead of reduced benefits!"
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] At least the truth came out. [very quietly] Those executives aren't stripping companies anymore, they're serving time in federal prison where they belong."
+        },
+        {
+            "role": "Character 1",
+            "content": "[exhausted] You destroyed forty thousand jobs to put twelve people behind bars. [sighs] The math doesn't work, and deep down, you know it doesn't."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] Every night I think about those families. [pause] But I also think about the millions more who would have suffered if we'd kept going."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sarcastically] How noble of you to make that choice for everyone. [bitter] Playing God with other people's futures while keeping your own offshore accounts intact."
+        },
+        {
+            "role": "Character 2",
+            "content": "[angry] Don't you dare. I gave everything to the restitution fund, every cent I'd made working with you. [trembling] My kids ask why we live in a one-bedroom apartment now."
+        },
+        {
+            "role": "Character 1",
+            "content": "[softer] I didn't know that."
+        },
+        {
+            "role": "Character 2",
+            "content": "[wearily] There's a lot you don't know, Marcus. [sighs] Like how I tried to fix things internally for two years before going to the authorities."
+        },
+        {
+            "role": "Character 1",
+            "content": "[confused] You never said anything to me. [frustrated] We were partners for fifteen years, and you couldn't trust me enough to have that conversation?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[loudly] Trust you? [laughs bitterly] You were the one teaching junior analysts how to hide debt in subsidiary shell companies!"
+        },
+        {
+            "role": "Character 1",
+            "content": "[defeated] That was standard restructuring practice. [very quietly] Or at least, that's what I told myself every morning when I looked in the mirror."
+        },
+        {
+            "role": "Character 2",
+            "content": "[empathetically] That's the difference between us. [slowly] You could live with the lies, but they were eating me alive from the inside."
+        },
+        {
+            "role": "Character 1",
+            "content": "Maybe you're right. [exhales] Maybe I was too deep in the game to see what we'd become."
+        },
+        {
+            "role": "Character 2",
+            "content": "[warmly] It's not too late, Marcus. [passionately] The SEC offered you immunity in exchange for testimony about the offshore structures. You could still help make this right."
+        },
+        {
+            "role": "Character 1",
+            "content": "[hesitantly] Even if I wanted to, and I'm not saying I do, there are people who would make sure I never made it to that courthouse. [very quietly] You weren't the only one who knew where the bodies were buried."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] Then we do this together. [confidently] I still have contacts in witness protection, and there's a way out of this if you're finally ready to take it."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "8db27681_scenario.json",
+    "actor": 4,
+    "scenario": "A leveraged buyout specialist meets with a former business partner turned corporate whistleblower who destroyed their firm by exposing illegal practices but ruined countless employee pensions in the process.",
+    "type": "scenario_conversation",
+    "character_1_role": "leveraged buyout specialist",
+    "character_2_role": "anti-hero",
+    "selected_tones": [
+        "defeated",
+        "passionate",
+        "decaying"
+    ]
+}

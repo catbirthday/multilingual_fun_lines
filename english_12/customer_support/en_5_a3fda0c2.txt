@@ -1,0 +1,48 @@
+=== Source: a3fda0c2_script.json ===
+Actor: english_5
+Content Type: customer_support
+Professionalism: professional
+Scenario: complaining about difficulty navigating the company website
+
+=== Dialogue ===
+
+Customer: Good morning. I'm calling because I've been having significant trouble navigating your website to find product specifications.
+
+Customer Support: Good morning, and thank you for reaching out about this. I apologize for the difficulty you're experiencing. Let me help you navigate to the information you need while I also document this feedback for our web team.
+
+Customer: I appreciate that. The main issue is that the product comparison tool keeps redirecting me to error pages.
+
+Customer Support: I see the problem. Our comparison tool underwent maintenance between 2:00 AM and 6:00 AM EST this morning, which may be causing those error redirects. Can you tell me which specific products you were trying to compare?
+
+Customer: I was comparing your Enterprise Plan features with the Professional Plan, specifically the API integration options.
+
+Customer Support: Certainly. While I work on resolving the website issue, I can provide that comparison directly. The Enterprise Plan includes unlimited API calls with our REST-API-v3.2 framework, while the Professional Plan allows up to 10,000 calls monthly.
+
+Customer: That's helpful, but I really need to access these details independently for my team's evaluation process.
+
+Customer Support: Absolutely, I understand. Let me provide you with a direct link that bypasses the comparison tool. Please navigate to portal.company.com/plans/direct-compare/ENT-PRO-2024, which will give you the full side-by-side analysis.
+
+Customer: Thank you. Is there a reason why this direct link isn't accessible from the main pricing page?
+
+Customer Support: That's excellent feedback. The direct comparison link is currently only available through our sitemap on page 3, which clearly isn't intuitive. I'm escalating this to our UX team with priority ticket WEB-78432-HIGH.
+
+Customer: I'm glad you're taking this seriously. How long before these navigation issues are typically resolved?
+
+Customer Support: Of course. Based on the priority classification, our web team typically implements navigation fixes within 48 to 72 business hours. You'll receive an email confirmation at your registered address once ticket WEB-78432-HIGH is resolved.
+
+Customer: That sounds reasonable. Can you also help me locate the integration documentation while we're addressing these issues?
+
+Customer Support: Certainly. The integration documentation is available at docs.company.com/integrate/v3-current. Additionally, I'm sending you our PDF quick-start guide, document number DOC-INT-2024-01, which includes all API endpoints and authentication protocols.
+
+Customer: Perfect. Will these resources remain accessible, or might they move during your website updates?
+
+Customer Support: These documentation URLs are permanent and won't be affected by any navigation updates. I've also added your account to our priority notification list under reference NOTIFY-8829-DOCS, so you'll receive alerts about any future structural changes.
+
+Customer: That's very thorough, thank you. One last thing—is there a more reliable way to reach these resources?
+
+Customer Support: Absolutely. I recommend bookmarking our developer portal at dev.company.com/dashboard, which provides stable access to all technical resources. Your login credentials remain the same, and this portal has 99.9% uptime compared to our main site.
+
+Customer: Excellent. I appreciate your help in resolving this efficiently and providing these alternative access methods.
+
+Customer Support: You're very welcome. I've documented all the issues you've raised in our improvement database under case number CASE-45782-WEB. Is there anything else I can help you navigate or clarify before we close this ticket?
+

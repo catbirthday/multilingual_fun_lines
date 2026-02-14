@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "*exhales* I need to speak with someone about your Riverside location. This is completely unacceptable."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay yes absolutely I can help you with that let me just pull up the location details here for Riverside that's store number ST-4829-RV and I'll document everything um what happened there today was there a specific incident or..."
+        },
+        {
+            "role": "Customer",
+            "content": "Do you know how long I waited? *sharp breath* Forty-five minutes. For a pickup order."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow forty-five minutes that's definitely not right at all let me look at your account here and document this properly so what's your order number or phone number so I can pull up the transaction ID and see exactly what happened because that wait time is way outside our service standards I mean we aim for under five minutes for pickups so..."
+        },
+        {
+            "role": "Customer",
+            "content": "*sighs heavily* My husband is on your executive board. Thomas Chen. Perhaps you've heard of him?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh okay let me make sure I'm documenting this correctly then so that's Thomas Chen and you were at Riverside location ST-4829-RV and the incident code I'm generating is INC-77290-EXEC and I'm escalating this right away um can you tell me more about what specifically went wrong because I want to make sure we capture everything if that makes sense..."
+        },
+        {
+            "role": "Customer",
+            "content": "The staff just... *exhales* stood there. Chatting. While I waited."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's really concerning behavior code VIO-892 for staff negligence and I'm adding that to your incident report right now and actually let me check the shift roster real quick to see who was working RST-SHIFT-0923 shows manager Bradley K was on duty so this is definitely something that needs immediate attention and I'm wondering if there were other issues or just mainly the wait time and staff behavior..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm. Well. *breath* You seem to actually be taking this seriously."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely yes!"
+        },
+        {
+            "role": "Customer",
+            "content": "*softer exhale* I suppose... maybe an apology credit would help. If that's possible."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually yes I can definitely do that right away so I'm applying compensation code COMP-5577-XM to your account which is a fifty dollar credit and er also I'm seeing here that you're a platinum member ID PLT-888290 so I should probably bump that up to seventy-five and honestly with the executive connection I think my supervisor would want me to make sure you're completely satisfied so..."
+        },
+        {
+            "role": "Customer",
+            "content": "*small breath* Seventy-five? Well. That's... surprisingly reasonable."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah and actually wait let me check something else here because with incident INC-77290-EXEC tagged as executive escalation I might be able to do even more hang on I'm looking through our compensation matrix and hmm there's a special override code I can use OVR-EXEC-100 that would give you a hundred dollar credit instead would that work better for you because I really want to make this right..."
+        },
+        {
+            "role": "Customer",
+            "content": "*inhale* A hundred dollars. Alright. Yes, that would be acceptable."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect applying that right now!"
+        },
+        {
+            "role": "Customer",
+            "content": "And you'll... *breath* speak to that manager? Bradley, was it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh definitely yes the incident report INC-77290-EXEC goes straight to regional management and er actually since you mentioned Mr. Chen I'm adding a priority flag PRI-001-BOARD which means Bradley's district manager will see this within the hour and they'll have to respond with corrective action plan CAP-4829 within twenty-four hours so this won't just disappear if that's what you're worried about I mean we take these things really seriously..."
+        },
+        {
+            "role": "Customer",
+            "content": "*relieved exhale* Good. Thank you. This has been... surprisingly helpful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw I'm so glad I could help and just to confirm everything the hundred dollar credit with code COMP-EXEC-100 will show up within two to three business days on your account and the incident report is filed and escalated and um is there anything else I can help you with today or any other concerns about that location or..."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "9b4a52e5_script.json",
+    "actor": 2,
+    "scenario": "wanting to report poor service at a specific location",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

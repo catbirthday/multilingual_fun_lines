@@ -1,0 +1,87 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[happy] I heard Nike's been using Vicon systems for their new running shoe line. Is that something you've worked with?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[stuttering] Oh, V-Vicon, yeah we actually, um, we just installed their T-Series cameras last month. Eight cameras tracking at 250 fps for gait analysis, though honestly the calibration process is, er, pretty intense compared to OptiTrack."
+        },
+        {
+            "role": "Character 1",
+            "content": "What's the marker placement like for footwear analysis?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[regretful] Man, I wish we'd gone with the Helen Hayes protocol from the start. We tried a custom 12-marker setup on the foot alone but the occlusion issues were, uh, basically nightmarish, especially during heel strike phases."
+        },
+        {
+            "role": "Character 1",
+            "content": "Retroreflective markers or active LEDs?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Retroreflective all the way. The 14mm spheres work best for, hmm, for foot tracking actually. Active markers generate too much heat and, I mean, when you're testing athletic performance that kind of throws off the whole biomechanical authenticity thing."
+        },
+        {
+            "role": "Character 1",
+            "content": "How do you handle marker dropout during rapid directional changes?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[extremely happy] Oh that's where Cortex software absolutely shines! The gap-filling algorithms use cubic spline interpolation and, erm, we can reconstruct up to 10 frames of missing data without noticeable drift in the trajectory calculations!"
+        },
+        {
+            "role": "Character 1",
+            "content": "What frame rates do you need for impact analysis?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Minimum 500 fps for heel strike, but we're, uhh, we're pushing for 1000. The ground reaction forces peak within 20 milliseconds, so standard 120 fps mocap is essentially useless for understanding cushioning dynamics."
+        },
+        {
+            "role": "Character 1",
+            "content": "Do you sync with force plates?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Yeah, two AMTI plates running at 2000 Hz. The synchronization happens through, er, through BNC cables into the Vicon Lock unit, gives us sub-millisecond accuracy between kinematic and kinetic data streams."
+        },
+        {
+            "role": "Character 1",
+            "content": "[smiling speaking] Smart. What about IMU integration for outdoor testing?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Mmm, sure. We use Xsens MTw Awinda sensors, seventeen of them actually, but the drift is, oof, it's rough after about three minutes. Indoor optical tracking is still way more reliable for precision work."
+        },
+        {
+            "role": "Character 1",
+            "content": "How many subjects do you typically run per shoe prototype?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Usually fifteen to twenty, different foot types, pronation patterns, all that. The, um, the data processing alone takes about four hours per subject when you factor in cleaning, labeling, and inverse kinematics calculations."
+        },
+        {
+            "role": "Character 1",
+            "content": "C3D or FBX for your export format?"
+        },
+        {
+            "role": "Character 2",
+            "content": "C3D definitely. It's the biomechanics standard and, I mean, Visual3D reads it natively. FBX is more for, uhh, for animation studios really, not serious gait analysis or footwear development work."
+        },
+        {
+            "role": "Character 1",
+            "content": "Ever tried markerless systems like Theia3D?"
+        },
+        {
+            "role": "Character 2",
+            "content": "Tested it last year actually. The AI pose estimation is impressive but, hmm, for shoe design we really need that sub-millimeter precision on foot segments, and markerless just isn't there yet, especially for metatarsal tracking."
+        }
+    ],
+    "content_type": "dialogue",
+    "source_file": "dialogue3_46.txt",
+    "actor": 1
+}

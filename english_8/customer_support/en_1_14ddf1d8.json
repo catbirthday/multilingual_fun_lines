@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I've just spent fifteen minutes with your automated system that couldn't understand a simple account number."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for that frustrating experience. Let me assist you directly. May I have your account number and I'll pull up your information immediately?"
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. It's 487-299-5614. I kept saying it clearly but the system kept asking me to repeat it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, I have your account 487-299-5614 right here. I see you're one of our premium members since 2019. How may I assist you today?"
+        },
+        {
+            "role": "Customer",
+            "content": "I need to update my billing address and add authorized users to my account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I can handle both of those updates for you right now. Let me start with the billing address change. What's the new address?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 1847 Westbrook Avenue, Suite 200, Minneapolis, Minnesota 55408."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've updated that to 1847 Westbrook Avenue, Suite 200, Minneapolis, Minnesota 55408. The change takes effect immediately. Now, for the authorized users, I'll need their full names and relationship to the account."
+        },
+        {
+            "role": "Customer",
+            "content": "I need to add Sarah Mitchell, she's my business partner, and Robert Chen, our CFO."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. I've added Sarah Mitchell and Robert Chen as authorized users. They'll each receive a welcome email within the next 30 minutes with their temporary access codes starting with AM7."
+        },
+        {
+            "role": "Customer",
+            "content": "Will they have full account privileges or are there restrictions I should know about?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "By default, they'll have Level 2 access, which includes viewing statements, making payments up to $5,000, and updating contact information. Would you like to modify their permissions?"
+        },
+        {
+            "role": "Customer",
+            "content": "Sarah Mitchell should have full access. Robert Chen's current level is fine."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Done. I've upgraded Sarah Mitchell to Level 1 full administrative access, effective immediately. She'll receive confirmation code SMS-4471-BK within five minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Honestly, this would have been impossible with that automated system."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand completely. I'm noting your feedback about the voice system in ticket REF-2024-1147. Our technical team reviews these weekly, and you're the third report today about recognition issues."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Is there a direct number I can use to bypass the automated system next time?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. For premium members, you can call 888-524-7100 and press star-seven to reach a representative directly. I'll also email you this information along with your confirmation."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I needed. Thank you for handling this so efficiently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've sent the confirmation email with all updates and the direct access number. Is there anything else I can assist you with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "14ddf1d8_script.json",
+    "actor": 1,
+    "scenario": "frustrated because the automated system kept misunderstanding them",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

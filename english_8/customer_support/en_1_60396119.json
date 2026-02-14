@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need to transfer ownership of my business account to our new operations manager, please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning. I'll assist you with that transfer right away. May I have your account number and the current account holder's full name for verification?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is 771-294-886. I'm Sarah Mitchell, the current primary account holder."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you, Ms. Mitchell. I've located account 771-294-886 showing you as the primary holder with our Premium Business tier. To proceed with the ownership transfer, I'll need the new account holder's full legal name and their contact information."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be David Chen. I expected this to be a simpler online process, honestly."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your expectation, and I appreciate that feedback. David Chen's contact information would include email address and phone number. Additionally, our security protocol requires verification code TRN-8847-VF to be sent to your registered email address."
+        },
+        {
+            "role": "Customer",
+            "content": "His email is dchen@alphalogistics.com and phone is 415-555-0147. I haven't received any verification code yet."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I'm sending the verification code TRN-8847-VF to your registered email sarah.mitchell@alphalogistics.com right now. Once you confirm that code, we'll need Mr. Chen to complete form DOC-5521-A within 48 hours to accept ownership."
+        },
+        {
+            "role": "Customer",
+            "content": "I see the code now. It's TRN-8847-VF. What exactly does David need to do?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent, verified. Mr. Chen will receive an email at dchen@alphalogistics.com with transfer document DOC-5521-A attached. He'll need to provide his tax identification number, sign electronically, and complete identity verification through our secure portal."
+        },
+        {
+            "role": "Customer",
+            "content": "Will our service agreement and pricing remain the same? We have customized terms I'd prefer not to renegotiate."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Your existing service agreement SA-2847-PREM dated March 2023 transfers completely intact, including your negotiated rate of $847.50 monthly and all custom API limits. The only change will be the billing contact and account ownership designation."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. How long does this entire process typically take once David completes his part?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Once Mr. Chen submits form DOC-5521-A, our compliance team processes transfers within 24 business hours. You'll both receive confirmation emails with the updated account documentation showing reference number ACC-TRANS-981247 for your records."
+        },
+        {
+            "role": "Customer",
+            "content": "Please ensure our integration keys and API credentials don't get disrupted during this transition."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. All technical configurations remain unchanged. Your API keys, webhook endpoints, and the 47 integration tokens currently active on account 771-294-886 will continue functioning without interruption throughout and after the transfer process."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Can you send me written confirmation of everything we've discussed today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm generating summary document SUM-4485-TC right now containing all transfer details, timeline, and confirmation that technical services remain unaffected. You'll receive this at sarah.mitchell@alphalogistics.com within the next five minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. I appreciate your efficiency in handling this. David should complete everything by tomorrow afternoon."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. Once Mr. Chen completes DOC-5521-A by tomorrow afternoon, the transfer will be finalized by Thursday at latest. Is there anything else I can assist you with regarding account 771-294-886 today, Ms. Mitchell?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "60396119_script.json",
+    "actor": 1,
+    "scenario": "asking about transferring ownership of an account",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

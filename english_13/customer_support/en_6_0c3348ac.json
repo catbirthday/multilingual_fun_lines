@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically someone's been. Having a party. With my credit card."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no, I'm really sorry to hear that! Let me pull up your account right away—what's the... hmm, the card number ending in?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's 4782. Like, three charges I definitely didn't make."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, account ending in 4782, I'm seeing it now. Okay so there's a charge for $89.99 at something called \"GameVault Digital,\" then $156.00 at \"TechnoMart Online,\" and uh... wait, there's another one for $234.50 at \"ElectroHub Pro.\" Are these the ones?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah those those are them. GameVault? Really? What am I, twelve?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I totally understand how frustrating this must be. Let me start the dispute process right away—I'll need to assign case number FRD-2847-XK to this, and um, first thing, have you still got physical possession of your card?"
+        },
+        {
+            "role": "Customer",
+            "content": "I mean. Yeah it's right here. Which is the... what's the word... the weird part."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hmm, that does make it interesting—probably an online breach then. So what I'm gonna do is freeze this card immediately with security code HALT-8829, issue you a new one, and er... the new card will be express shipped, arrival tracking XPS-44921-B."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait wait wait. I need—I need my card though. Tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely, I hear you! The express shipping I mentioned, that's actually overnight delivery—you'll have it by 10 AM tomorrow, guaranteed with that tracking XPS-44921-B."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Okay so that's... sorry, I'm just. This whole thing is stressing me out."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, please don't apologize! This happened to me last year actually—someone bought like $400 worth of, get this, bird supplies? I don't even have a bird! But seriously, we'll get this sorted, and those three charges will be credited back within 24-48 hours under claim CLM-7736-RC."
+        },
+        {
+            "role": "Customer",
+            "content": "Bird supplies? That's... okay that's actually pretty funny."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? Like what were they planning, opening a pet store? Anyway, um, let me just... make sure everything's set here. Your new card ending in 9903 ships tonight, and I'm adding a security alert flag SAF-1122 to your account."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically I don't have to—to pay for any of those charges right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Correct, you're fully protected! Those fraudulent charges totaling $480.49 will be reversed, reference number REV-8827-TM, and you won't be responsible for a single penny."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay. That's. Good. Really good actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Oh, one more thing—I'm setting up text alerts with code TXT-ALRT-5566 so you'll get notified instantly for any transaction over $50. Would that help give you some peace of mind?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that's—sorry I was so. You know. At the beginning there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Are you kidding? You were totally fine! I'd be frustrated too if someone was out there pretending to be a twelve-year-old gamer with my credit card. Your case FRD-2847-XK is all set, and seriously, call us anytime if you need anything else, okay?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "0c3348ac_script.json",
+    "actor": 6,
+    "scenario": "reporting unauthorized transactions on their account",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

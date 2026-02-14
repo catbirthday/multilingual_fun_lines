@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need to add my business partner as an authorized user to our corporate account, please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for calling. I'd be happy to assist you with adding an authorized user to your account today. May I please have your account number and the primary account holder's name for verification?"
+        },
+        {
+            "role": "Customer",
+            "content": "The account number is listed on my statement as 4829-7761-K. My name is Katherine Richardson."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you, Ms. Richardson. I have your account here, showing active since March 2022 with excellent standing. For security purposes, could you please verify the last four digits of the tax ID number associated with this business account?"
+        },
+        {
+            "role": "Customer",
+            "content": "Certainly. The last four digits are 8847."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, thank you for that verification. Your account is now fully authenticated. To add an authorized user, I'll need their full legal name, date of birth, and their relationship to the business."
+        },
+        {
+            "role": "Customer",
+            "content": "His name is Daniel Morrison, born April 15, 1981. He's the Chief Operating Officer and co-owner."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. I'm entering Mr. Morrison's information now—Daniel Morrison, date of birth 04/15/1981, listed as COO and co-owner. Will Mr. Morrison need full account privileges including the ability to make changes, or would you prefer limited access?"
+        },
+        {
+            "role": "Customer",
+            "content": "He should have full privileges, including financial decisions and account modifications, please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Understood."
+        },
+        {
+            "role": "Customer",
+            "content": "How long will it take for his access to become active?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mr. Morrison's full access privileges will be active within 2-4 business hours, typically by 3:00 PM Eastern today. He'll receive an email at the address we have on file with his temporary password and login instructions."
+        },
+        {
+            "role": "Customer",
+            "content": "We don't have his email registered yet. Can I provide that now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Please provide Mr. Morrison's email address, and I'll add it to his authorized user profile immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "His email is d.morrison at Richardson Morrison Enterprises dot com."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've added d.morrison@richardsonmorrisonenterprises.com to his profile. He'll receive a welcome email with verification code RME-8273-DM within the next 15 minutes to complete his setup."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Will he need any additional documentation to verify his identity when he logs in?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, for security compliance, Mr. Morrison will need to upload a photo ID during his first login, and our system will prompt him to create a unique 8-character password with at least one number and special character."
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds thorough. Thank you for handling this efficiently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome, Ms. Richardson. I've also sent you a confirmation email with reference number AUTH-9421-KR documenting today's changes. Is there anything else I can assist you with regarding your account today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "10145ab6_script.json",
+    "actor": 5,
+    "scenario": "wanting to add an authorized user to their account",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Let me see here... Order cancelled. Three weeks ago. Still no refund."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh. Three weeks? That's—*exhales* I'm so sorry. Let me pull this up right away... What's the order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "ORD dash—wait, sorry—eight seven two. Nine. XM."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. ORD-8729-XM... *sharp inhale* Oh. I see what happened here. The refund, er, it got stuck in our payment processing system on November 2nd. That must be so frustrating..."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, stuck. Of course. What if—no. Just tell me when."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right. So. The good news—I mean, I can manually push this through. Takes about, um, 3-5 business days normally. But for you? Let me expedite..."
+        },
+        {
+            "role": "Customer",
+            "content": "Manually. Three to five days. For my own money. Fascinating."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know. I know, it's—*exhales* Look. What I'm doing right now. Case number CSE-4412-B. Priority escalation. Should hit your account in, errr, 24 hours max."
+        },
+        {
+            "role": "Customer",
+            "content": "Twenty four hours. Okay so that means... tomorrow afternoon then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Tomorrow by 3PM Eastern. Absolutely. And I'm—wait no, let me also... adding a $15 credit. For the hassle."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. You're actually—fifteen dollar credit? That's... unexpectedly decent of you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* Listen. Three weeks is inexcusable. The original amount, $287.43, plus that credit. All hitting your card ending in 4782 tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me think... yeah, 4782, that's the right card. Thank you. Genuinely."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! And, uh, here's my direct extension. 5509. If it doesn't show by 3PM tomorrow..."
+        },
+        {
+            "role": "Customer",
+            "content": "Five five zero nine. Got it. You've been—I mean, you actually helped."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's what I'm—I mean, I get it. Money stuck in limbo is... *trails off* Anyway. Is there anything else?"
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if this happens again? With future orders?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So! Good question. I'm flagging your account—code RFP-PRIORITY. Basically ensures faster processing. Any future refunds? 48 hours maximum. No more waiting."
+        },
+        {
+            "role": "Customer",
+            "content": "RFP priority. Okay so that's... permanent? On my account? That's incredibly helpful, actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Permanent. Yes. And, erhm, I put detailed notes. Transaction ID TXN-9982-QV7 has everything documented. Next agent sees this? They'll know exactly what happened."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "8a6dfa0e_script.json",
+    "actor": 4,
+    "scenario": "trying to recover funds from a cancelled order",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

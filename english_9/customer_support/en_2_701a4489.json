@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I've been trying to reach someone for forty minutes. Your automated system keeps sending me in circles with no option for a representative."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I sincerely apologize for that frustrating experience. Let me note your account details and ensure we address both your original concern and this system issue. May I start with your account number?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 847-293-5510. I need to update billing information before tomorrow's automatic payment processes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located account 847-293-5510 and I can see your payment is scheduled for tomorrow at 12:01 AM Eastern. Let me update your billing information right now to prevent any issues."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. The new card number ends in 4782 and expires March 2027."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'll need the complete card number to process this update securely. Our system will automatically encrypt it using AES-256 protocol for your protection."
+        },
+        {
+            "role": "Customer",
+            "content": "The full number is 4532-8901-6745-4782. Should I also provide the security code?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, please provide the three-digit CVV code. I'll also need to verify the billing ZIP code associated with this payment method to complete the update in our system."
+        },
+        {
+            "role": "Customer",
+            "content": "The CVV is 892 and the billing ZIP code is 60614."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent. I've successfully updated your payment method ending in 4782 with expiration 03/27. Your scheduled payment of $89.95 will process using this new card tomorrow as planned."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Can you also document the phone menu issue? This happens every time I call."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "How long has this been a known issue? Other customers must be experiencing this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm documenting this in ticket INC-7829341 for our technical team. We've received similar reports over the past 72 hours, and I can confirm a system update is scheduled for deployment this weekend."
+        },
+        {
+            "role": "Customer",
+            "content": "That's good to hear. Will customers be notified when it's fixed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, we'll send notification to all affected customers via email once the fix is verified. I'm also adding priority code P2-URGENT to your specific case to ensure you receive direct confirmation."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. One more thing—is there a direct number I can use to bypass the menu system?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. For future assistance, you can use our priority support line at 1-888-527-9043 extension 7721. This bypasses the main menu entirely and connects you directly to our tier-two support team."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I needed. Thank you for resolving both issues so efficiently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've emailed confirmation of your payment method update and the priority support number to your address on file. Is there anything else I can assist you with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "701a4489_script.json",
+    "actor": 2,
+    "scenario": "frustrated about circular phone menu with no human option",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

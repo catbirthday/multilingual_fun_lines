@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I'm calling back about. That issue. From Tuesday. Probably should've called sooner."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh hello there! Let me just pull up your account here... I see your reference number was TKT-4821-VM from Tuesday afternoon, and it looks like everything was processed successfully. How has everything been working out for you?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's actually. Perfect. Like exactly what I needed. I feel stupid for not understanding before."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* Not at all, not at all. You know, the system can be really confusing, especially with those verification steps we have to go through. I'm just so glad we got your premium membership activated properly with that 47,500 points bonus applied to your account."
+        },
+        {
+            "role": "Customer",
+            "content": "I wanted to say. What's the word. Appreciation? Thanks. For being patient with me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That is... *small breath* that's really kind of you to call back and say that. You know, most people don't take the time. Your order RMA-9923-KL shipped out yesterday from our Charlotte warehouse, and you should have it by Friday."
+        },
+        {
+            "role": "Customer",
+            "content": "Friday. Good. I kept thinking I'd mess it up somehow. But it all worked."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, you did everything perfectly on your end. *thoughtful pause* Sometimes these systems just need a little nudge from our side. That $127.50 credit has already been applied to your account too, so you'll see that reflected on your next statement."
+        },
+        {
+            "role": "Customer",
+            "content": "The credit showed up. Already. I couldn't believe. Like something actually went right."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft breath* I know that feeling. Hey, while I have you here... let me make a note in your account profile ANP-3847 that you prefer email confirmations over text. That way, next time you won't have to explain your preferences again."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? I always just. Assume. I have to start over each time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely we can do that. *pause* See, once something's in your permanent profile, any agent who pulls up your account will see it right there. Your loyalty tier is Platinum now too, so you get priority routing to senior agents like myself."
+        },
+        {
+            "role": "Customer",
+            "content": "Platinum. Wow. Guess all my... what do you call it... purchases? Orders. They added up."
+        },
+        {
+            "role": "Customer Support",
+            "content": "They really did! You've been with us since 2019, account number ends in 7734. *thoughtful pause* That's a lot of trust you've put in us. I'm just really glad we could make this right for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah well. Usually things don't. Work out. But this time. Surprised me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhale* I understand that completely. You know what though? I'm adding case note CNT-5543-SUCCESS to your file, highlighting how smoothly this resolution went. Sometimes we need those positive examples for training purposes."
+        },
+        {
+            "role": "Customer",
+            "content": "Training? Like you'd use. My case? That's actually. Kind of nice."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*pause* We really would. Good resolutions are just as important as learning from the difficult ones. Your tracking number UPS-1Z847X9 shows delivery confirmed for Friday before 3pm, and if anything changes, you'll get that email notification now."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay. Good. Thanks again. For everything. Still can't believe it worked."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft breath* You're so welcome. Truly. And hey... *pause* next time you need anything, reference this case TKT-4821-VM and ask for Team Delta. We'll take good care of you. You have yourself a wonderful rest of your day, okay?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "b1e05dcf_script.json",
+    "actor": 1,
+    "scenario": "calling back to thank the agent because everything was resolved perfectly",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

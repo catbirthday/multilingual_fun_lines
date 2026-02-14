@@ -1,0 +1,95 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[formal] Mr. Chen, I'm here to investigate your workers compensation claim regarding the amplifier explosion that allegedly damaged your perfect pitch. [pause] The insurance company needs verification of this rather unique injury."
+        },
+        {
+            "role": "Character 2",
+            "content": "[frustrated] Unique? [bitter] Do you know what it's like to hear every note a quarter-tone flat after twenty years of tuning concert pianos? My entire career depends on distinguishing between 440 and 441 hertz."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] The medical reports show no physical damage to your eardrums or cochlear structures. [quickly] How exactly does an amplifier explosion cause selective pitch distortion without any measurable hearing loss?"
+        },
+        {
+            "role": "Character 2",
+            "content": "[passionately] Perfect pitch isn't just physical hearing—it's neurological processing! [loudly] That blast rewired something in my auditory cortex, and now every Steinway I touch sounds like it's been left in the rain for a decade."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curious] You filed for total disability, claiming you can't work at all. [pause] But I have surveillance footage of you tuning the church organ on Maple Street just last Sunday."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] That was volunteer work for my mother's funeral service! [very quietly] I had to use an electronic tuner for the first time in my life because I couldn't trust my ears anymore."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] I'm sorry about your mother. [formal] However, the claim states you were standing fifteen feet from the amplifier when it exploded, but your coworker says you were in the storage room."
+        },
+        {
+            "role": "Character 2",
+            "content": "[angry] Marcus never liked me because I could tune by ear while he needed his precious machines! [exhales] He probably didn't even see where I was when those capacitors blew and sent that sonic wave through the showroom."
+        },
+        {
+            "role": "Character 1",
+            "content": "The store's electrical inspection records show those amplifiers were rated for the voltage they received. [stern] There's no evidence of any power surge or equipment failure that day."
+        },
+        {
+            "role": "Character 2",
+            "content": "[shaky voice] You think I'm making this up? [passionate] I've lost three clients this month because their pianos sound perfect to everyone else but wrong to me—my reputation is crumbling!"
+        },
+        {
+            "role": "Character 1",
+            "content": "[quietly] The security footage does show you covering your ears and stumbling after the explosion. [hesitantly] But it also shows you returning to work normally for two weeks before filing this claim."
+        },
+        {
+            "role": "Character 2",
+            "content": "I thought it would get better! [frustrated] Every morning I'd test myself with tuning forks, hoping my brain would recalibrate, but it only got worse as I realized the damage was permanent."
+        },
+        {
+            "role": "Character 1",
+            "content": "[warm] Have you considered that this might be psychological? [gently] Trauma from the explosion combined with the stress of your mother's illness could manifest as auditory processing changes."
+        },
+        {
+            "role": "Character 2",
+            "content": "[bitter] Psychological? [very loudly] Play me a C-sharp and I'll tell you it's a C even though I know better—that's not anxiety, that's neural damage from acoustic trauma!"
+        },
+        {
+            "role": "Character 1",
+            "content": "[firmly] The company's liability insurance requires proof of negligence or equipment failure. [sighs] Without that, even if your condition is real, the claim would fall under regular medical leave, not workers compensation."
+        },
+        {
+            "role": "Character 2",
+            "content": "[desperately] Regular medical leave pays nothing compared to what I've lost! [quieter] Twenty years building a reputation as the best keyboard tech in the state, and now I can't even trust my own ears."
+        },
+        {
+            "role": "Character 1",
+            "content": "[empathetically] I'm going to recommend a specialized audiological evaluation with Dr. Martinez who studies perfect pitch disorders. [warm] If she confirms neurological changes from the incident, it could support your claim."
+        },
+        {
+            "role": "Character 2",
+            "content": "[relieved] You believe me? [hopeful] Most people think perfect pitch is some kind of party trick, not a professional tool that took decades to refine and can be destroyed in an instant."
+        },
+        {
+            "role": "Character 1",
+            "content": "I believe something happened to you that day. [quietly] Whether it meets the legal threshold for workers compensation is what we need to determine through proper documentation and medical expertise."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exhausted] Fair enough. [sighs] Just know that every piano I walk past now sounds like a beautiful lie, perfectly tuned to everyone else while my brain insists it's wrong. [very quietly] That's my new reality."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "09e32ca7_scenario.json",
+    "actor": 5,
+    "scenario": "A workers comp investigator arrives at a music store to investigate a keyboard technician's claim that an amplifier explosion damaged their perfect pitch ability.",
+    "type": "scenario_conversation",
+    "character_1_role": "workers comp investigator",
+    "character_2_role": "keyboard tech",
+    "selected_tones": [
+        "stubborn",
+        "sharp"
+    ]
+}

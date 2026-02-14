@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I purchased a BlendTech Pro mixer seven months ago and the motor burned out during normal use yesterday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I apologize for that experience. Let me pull up your warranty information and we'll get this resolved. May I have your order number or the email address used for the purchase?"
+        },
+        {
+            "role": "Customer",
+            "content": "The order number is BT-89234-QM. I registered it online when I received it in March."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I've located your order BT-89234-QM from March 18th, showing the BlendTech Pro model BTP-500X with our standard 2-year warranty active until March 18th, 2026."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. I've maintained it according to the manual, so this failure was quite unexpected."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your disappointment. The BlendTech Pro is one of our premium models and shouldn't fail this early. I'm initiating a warranty replacement claim WR-2024-112847 for you right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. What information do you need from me to process this?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "Should I ship the defective unit back first, or will you send the replacement immediately?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "We'll use our advance replacement program. I'm authorizing shipment of your new BlendTech Pro today with tracking number FDX-7749-82634-KL, and you'll have 30 days to return the defective unit using our prepaid label."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very helpful. Will the replacement carry the remainder of my original warranty?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually, it's even better. Your replacement will carry the longer of either your remaining original warranty or 90 days from delivery, so you'll have coverage through at least March 18th, 2026."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. When should I expect the replacement to arrive?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "And you mentioned a prepaid return label. How will I receive that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The return label with RMA number RMA-445892-BTX will be included in the box with your replacement unit, along with detailed packing instructions to ensure safe return shipping of your defective mixer."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the efficiency. Will I receive any confirmation of this warranty claim?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Within the next 15 minutes, you'll receive an email confirmation to your registered address containing claim number WR-2024-112847, tracking information, and return instructions with reference code RTN-8829-QMP."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for handling this so professionally. This level of service makes the warranty worthwhile."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I appreciate your patience and understanding. Your replacement BlendTech Pro will ship today via FedEx Express with delivery by Thursday, November 14th before 3:00 PM, and our quality team will analyze your returned unit to prevent future issues."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "ab35e52f_script.json",
+    "actor": 4,
+    "scenario": "trying to get a replacement for a product still under warranty",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

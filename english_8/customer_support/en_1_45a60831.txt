@@ -1,0 +1,48 @@
+=== Source: 45a60831_script.json ===
+Actor: english_1
+Content Type: customer_support
+Professionalism: professional
+Scenario: trying to understand their itemized bill breakdown
+
+=== Dialogue ===
+
+Customer: I'm reviewing my October statement and frankly, I expected clearer itemization from a company of your caliber.
+
+Customer Support: I understand your concern, and I apologize that the billing format didn't meet your expectations. Let me pull up your account using your customer ID CUS-892745-B and walk you through each line item in detail.
+
+Customer: Thank you. I need this clarified today for our quarterly expense review tomorrow morning.
+
+Customer Support: Certainly, I appreciate the time sensitivity. Your base service plan SRV-PREM-500 shows at $299.99, which includes your premium features package activated on September 15th with the standard corporate discount applied.
+
+Customer: What are these three separate data charges showing different rates?
+
+Customer Support: Excellent question. The first charge of $47.50 is your standard data allocation under plan code DAT-5GB-STD, the second at $22.00 represents peak-hour usage between October 5th and 12th, and the third at $35.75 covers international data roaming from your Toronto trip.
+
+Customer: I wasn't aware peak-hour usage was billed separately from the base plan.
+
+Customer Support: I understand the confusion, and you're right to question this. The peak-hour billing only applies when usage exceeds 150% of your standard allocation threshold, which happened during billing cycle BC-2024-10-A when you reached 7.8GB total usage.
+
+Customer: That's helpful context. Now what about this regulatory compliance fee of seventy-eight dollars?
+
+Customer Support: Of course.
+
+Customer: Is that a new addition? I don't recall seeing it on previous statements.
+
+Customer Support: That fee REG-COMP-2024-Q4 was introduced this quarter following regulatory changes effective October 1st. I can email you the official notice FCC-2024-078 that details the breakdown: $45 for infrastructure compliance, $28 for security audit requirements, and $5 for administrative processing.
+
+Customer: I see. Please send that documentation. What's this equipment protection charge for ninety-nine ninety-five?
+
+Customer Support: That's your comprehensive device protection plan EPP-ULTIMATE-24, which you enrolled in during your August upgrade. It covers accidental damage, theft, and mechanical failure for all three devices registered under your account: DEV-001-iPhone, DEV-002-iPad, and DEV-003-Watch.
+
+Customer: I thought I had declined the protection plan for the tablet specifically.
+
+Customer Support: Let me verify that for you. I'm checking your enrollment form dated August 22nd, reference number ENR-48291-AUG, and you're absolutely right. The iPad should have been excluded, which means you've been overcharged by $25.00 monthly since September.
+
+Customer: I appreciate you catching that. How quickly can we correct this billing error?
+
+Customer Support: I'm processing the adjustment immediately. Credit memo CM-7829-ADJ for $50.00 covering September and October will appear on your next statement, and I've updated your protection plan to exclude device DEV-002-iPad effective immediately.
+
+Customer: Perfect. Can you email me a corrected breakdown showing the adjusted total?
+
+Customer Support: Absolutely. I'm generating a revised statement summary now showing your corrected monthly total of $532.19, and you'll receive it at your registered email address within the next ten minutes along with confirmation number CNF-892745-REV for your records.
+

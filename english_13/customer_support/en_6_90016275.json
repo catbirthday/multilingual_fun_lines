@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Need a transcript. From Tuesday. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh okay—so actually, I just went through this myself last week when I needed my own call records for a dispute, so I totally get it. Let me pull up your account real quick here, and I can see you had a call on Tuesday December 10th at 3:47 PM that lasted about 18 minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "That's the one. Email it. Done with this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, yeah—so the thing is—normally these take 24 to 48 hours to process through our transcript system TRS-9000, but honestly? Since you sound like you really need this, let me see if I can expedite it for you."
+        },
+        {
+            "role": "Customer",
+            "content": "Um... how long then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So basically what I can do—and I'm doing this right now actually—is flag your request as priority code P1 instead of the standard P3, which should get it to you within 2 to 3 hours max."
+        },
+        {
+            "role": "Customer",
+            "content": "Hours? I thought. Minutes maybe. This is ridiculous."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it."
+        },
+        {
+            "role": "Customer",
+            "content": "Is there. Another way. Because I can't wait hours."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You know what—let me try something else. So there's this workaround I discovered when a customer had a similar urgent situation last month. If I access the call through our quality monitoring portal QMP-7.2 instead of the regular system, I can actually generate an instant unofficial transcript."
+        },
+        {
+            "role": "Customer",
+            "content": "Unofficial. What does that even mean."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right—so basically it means it won't have the official case stamp CASE-892041 at the top, but the actual conversation content is identical, word for word, and I can have it in your inbox in literally 5 minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... that's fine. Just need the words."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, doing that now then. Just need to verify your email—is it still the one ending in @techcorp dot com that we have on file from your November 2023 registration?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Same one."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent—so I'm generating it now through QMP, and actually, you know what? Since you've had to jump through hoops here, I'm also gonna include the audio file MP3 format, just in case you need that for reference too."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't need—whatever. Fine. Is it sent?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Just sent it now actually—timestamp 4:23 PM Eastern, should hit your inbox any second. Also threw in the reference number REF-7829-TRANSCRIPT in the subject line so it doesn't get caught in spam filters."
+        },
+        {
+            "role": "Customer",
+            "content": "Got it. Finally. Thank you. Goodbye."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Really glad I could—oh wait, before you go—I added my direct extension 4412 in the email, so if you need anything else from that conversation or run into any issues, just bypass the main queue and call me directly, okay?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "90016275_script.json",
+    "actor": 6,
+    "scenario": "asking for a transcript of a previous support conversation",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

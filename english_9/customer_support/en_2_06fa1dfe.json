@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to update the shipping address for order number 8847-TK. It shipped yesterday to the wrong location."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the urgency of this situation. Let me pull up order 8847-TK right away and check the current status of your shipment to see what options we have available."
+        },
+        {
+            "role": "Customer",
+            "content": "The package is going to my old office. I need it redirected to my home address immediately."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can see your package left our distribution center at 6:47 AM this morning and is currently with carrier facility CF-294 in transit to the original destination."
+        },
+        {
+            "role": "Customer",
+            "content": "What are my options for intercepting it? This contains critical documents I need by Friday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Can you initiate a delivery intercept right now? I have my new address ready to provide."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm initiating the intercept request immediately through our priority system. Please provide your new delivery address, and I'll need to verify it matches the billing address on account 4492-BK7 for security purposes."
+        },
+        {
+            "role": "Customer",
+            "content": "The new address is 4821 Riverside Drive, Suite 200, Portland, Oregon, 97205."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you, I've entered 4821 Riverside Drive, Suite 200, Portland, Oregon 97205 into our system, and the intercept request has been submitted with reference number INT-3847-M92."
+        },
+        {
+            "role": "Customer",
+            "content": "When will I know if the intercept was successful? I need confirmation before end of business today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You'll receive an email confirmation within 2 hours to your registered address, and I'm also scheduling a courtesy callback for 3:30 PM Pacific Time to confirm the intercept status directly."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. What happens if the intercept fails and it delivers to the wrong address?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "If the intercept fails, our recovery team will immediately dispatch a courier to retrieve the package from the original address within 24 hours, and we'll overnight it to your Portland location at no additional charge."
+        },
+        {
+            "role": "Customer",
+            "content": "I need written documentation of this service guarantee. Can you send that with the confirmation?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "Also, please update my default shipping address in your system to prevent this happening again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've updated your default shipping address to the Portland location effective immediately, and this change is reflected across all active subscriptions under account 4492-BK7 as of 11:42 AM today."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Please confirm the total timeframe for delivery to the new address if the intercept succeeds."
+        },
+        {
+            "role": "Customer Support",
+            "content": "With a successful intercept, your package will arrive at 4821 Riverside Drive by Thursday at 5:00 PM, which is one business day later than the original Wednesday delivery to accommodate the rerouting through facility HUB-7X."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "06fa1dfe_script.json",
+    "actor": 2,
+    "scenario": "wanting to update their shipping address for an order already in transit",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I received a notice that my credit limit was reduced from fifteen thousand to eight thousand dollars. I'd appreciate an explanation."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for calling about your account. Let me access your file immediately. May I have your account number or the last four digits of your card?"
+        },
+        {
+            "role": "Customer",
+            "content": "The last four digits are 7829. This change seems quite significant and I'm concerned about the impact."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account ending in 7829, and I can see the adjustment was processed on November 14th through our automated risk assessment system AR-2024-1147. Let me review the specific factors that triggered this change."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. My payment history has been excellent and I've been a customer for six years."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're absolutely right about your payment history. The system flagged a combination of factors including a credit utilization increase to 87% across all tradelines reported to bureau file CBR-445892-Q and two recent hard inquiries within thirty days."
+        },
+        {
+            "role": "Customer",
+            "content": "Those inquiries were for mortgage pre-approvals. Surely that's a reasonable financial activity that shouldn't trigger a reduction."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern, and you make a valid point about mortgage shopping being responsible financial behavior. Let me escalate this to our credit review department for manual reconsideration under case number CRV-2024-88451."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. What's the typical timeframe for this review process and will I be notified of the outcome?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The credit review team typically completes their analysis within 3-5 business days, and you'll receive a detailed decision letter via secure message to your online account portal at message center ID MC-7829-001."
+        },
+        {
+            "role": "Customer",
+            "content": "Will my credit limit remain at eight thousand during the review or is there a temporary accommodation available?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The current limit of eight thousand will remain in effect during the review period. However, I can add priority flag PF-EXEC-2024 to expedite the process to 24-48 hours given your excellent account history."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be helpful. Can you also confirm what documentation might strengthen my reconsideration request?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. Providing your mortgage pre-approval letters and recent pay stubs through our secure upload portal at reference URL portal.card.com/upload/CRV-2024-88451 would significantly support your case, particularly if they show stable or increased income."
+        },
+        {
+            "role": "Customer",
+            "content": "I can provide those documents today. Is there a direct line to check the status without going through the general queue?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, you can call our priority service line at 800-555-2847 extension 4429 and reference your case number CRV-2024-88451 for immediate status updates without any hold time."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. One final question - if the review is approved, will the limit be restored to the original fifteen thousand?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The review team will evaluate for full restoration to fifteen thousand dollars, and based on your profile code PC-PREMIUM-7829, you may actually qualify for an increase up to twenty thousand if your debt-to-income ratio supports it."
+        },
+        {
+            "role": "Customer",
+            "content": "That's encouraging. Thank you for escalating this and providing such clear information about the process."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've documented everything in your case file, added the priority flag, and you'll receive a confirmation email within the hour to address 7829@email.confirmed with all reference numbers and next steps outlined."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "326bb505_script.json",
+    "actor": 6,
+    "scenario": "trying to understand why their credit limit was reduced",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

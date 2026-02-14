@@ -1,0 +1,48 @@
+=== Source: 6d4c68a6_script.json ===
+Actor: english_2
+Content Type: customer_support
+Professionalism: professional
+Scenario: wanting to report a phishing email that looked official
+
+=== Dialogue ===
+
+Customer: I received an email that appeared to be from your company, but I believe it was fraudulent.
+
+Customer Support: Thank you for bringing this to our attention. I take security concerns very seriously. Let me document this in our fraud prevention system under case number SEC-4827-PL. Can you describe what made you suspicious?
+
+Customer: The sender's domain was slightly different, and they requested my password through an external link.
+
+Customer Support: Excellent observation. That's definitely a phishing attempt. Our legitimate emails only come from the domain ending in @securebank.com with verification code VRF-2901 in the header. We never request passwords through email links.
+
+Customer: I expected your email security would have caught this. How did it get through?
+
+Customer Support: I understand your concern. These attackers used a technique called domain spoofing with the address securebank-support.net, which our filters initially marked as suspicious with flag ID FSP-8823-QM. Let me check why it reached your inbox.
+
+Customer: What information could they have accessed if someone had clicked that link?
+
+Customer Support: The link would have directed to a fake login page designed to capture credentials. Our security team has already blocked that site under threat ID TH-5549-XK. Anyone who entered information there should change their password immediately.
+
+Customer: Should I forward this email to you for analysis?
+
+Customer Support: Absolutely. Please forward it to phishing@securebank.com with reference number PHR-7731-NK in the subject line. Our security team will analyze the headers and add it to our threat database.
+
+Customer: How can I better identify these attempts in the future?
+
+Customer Support: Certainly.
+
+Customer: I appreciate that. Will you notify other customers about this particular threat?
+
+Customer Support: We're issuing a security bulletin today with alert code SAL-9902-TM to all account holders. Additionally, I'm enrolling you in our advanced security notifications under profile ASN-4455-RB at no charge.
+
+Customer: That's helpful. Can you confirm my account hasn't been compromised?
+
+Customer Support: I've run a complete security scan on your account with audit number AUD-6621-LP. Everything appears secure with no unauthorized access attempts. Your last legitimate login was yesterday at 2:47 PM from your registered device.
+
+Customer: Good to know. What additional security measures would you recommend?
+
+Customer Support: I recommend enabling our two-factor authentication with security key SK-8834-VN. This adds an extra layer requiring your phone verification even if someone obtains your password. Shall I activate that now?
+
+Customer: Yes, please activate that. And thank you for taking this seriously.
+
+Customer Support: I've activated two-factor authentication on your account with confirmation code TFA-3387-QZ. You'll receive a text shortly to complete setup. Thank you for your vigilance in reporting this. Your proactive approach helps protect our entire customer base.
+

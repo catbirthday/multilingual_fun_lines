@@ -1,0 +1,96 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[anxious] They froze my accounts this morning, all of them, even the ones in the Caymans that weren't supposed to be traceable. [pause] The CFTC investigator called my personal cell at 5 AM asking about the natural gas futures we pushed through last quarter."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] Mine too, and they've subpoenaed eighteen months of trading records from both our desks. [exhales] The compliance team is crawling through every single transaction we've made since we started coordinating the price swings."
+        },
+        {
+            "role": "Character 1",
+            "content": "[frustrated] We were careful though, using different brokers, spreading the trades across multiple exchanges, never communicating through company channels. How did they even connect us to those shell companies in Singapore?"
+        },
+        {
+            "role": "Character 2",
+            "content": "The intern. [pause] Marcus, the intern."
+        },
+        {
+            "role": "Character 1",
+            "content": "[stern] What about him? [speaking fast] He wasn't supposed to have access to any of the real documentation, just dummy spreadsheets and projections that would pass any basic audit."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] He recorded our conversation in the parking garage last Tuesday. [very quietly] The one where you explicitly laid out how we were manipulating the spot prices before the quarterly earnings report."
+        },
+        {
+            "role": "Character 1",
+            "content": "[furious] Are you serious right now? [shaky voice] That kid wore a wire to our private meeting and you're just telling me this now, three days after federal agents seized our computers?"
+        },
+        {
+            "role": "Character 2",
+            "content": "I only found out an hour ago when my lawyer showed me the preliminary evidence list. [sighs] Apparently he's been cooperating with them for two months, trying to get immunity."
+        },
+        {
+            "role": "Character 1",
+            "content": "Two months means they know about Houston, about the pipeline capacity reports we falsified, about everything we did to spike prices during the February freeze. [pause] We're looking at twenty years minimum."
+        },
+        {
+            "role": "Character 2",
+            "content": "My passport's still valid and I've got enough cash stashed to get to a non-extradition country. [quickly] The question is whether we run now or try to cut our own deal."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter] A deal? [loudly] They have recordings, Marcus, actual recordings of us discussing federal crimes while manipulating energy markets that affected millions of people's heating bills."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensively] Everyone was doing it though, the whole trading floor knew what was happening with those artificial shortages. We just happened to be the ones who got caught with actual evidence."
+        },
+        {
+            "role": "Character 1",
+            "content": "That's not a legal defense. [sighs]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[anxious] My kids don't know yet, neither does Rachel, and I keep thinking about having to explain why daddy's going to federal prison. [pause] Maybe if we cooperate fully, give them the bigger fish upstream..."
+        },
+        {
+            "role": "Character 1",
+            "content": "[sarcastically] The bigger fish? [frustrated] We ARE the bigger fish, Marcus. The only people above us are the executives who deliberately looked the other way while collecting their bonuses."
+        },
+        {
+            "role": "Character 2",
+            "content": "[very quietly] They looked the other way because we made them rich. [slowly] Every manipulated spike in prices increased their stock options by millions while regular people couldn't afford to heat their homes."
+        },
+        {
+            "role": "Character 1",
+            "content": "[regretful] I used to think I was just playing the game better than everyone else, that market manipulation was just aggressive trading. Now I'm realizing we crossed lines that can't be uncrossed."
+        },
+        {
+            "role": "Character 2",
+            "content": "[hesitantly] There's a flight to Buenos Aires leaving in four hours from Newark. [pause] My brother has a place there, completely off the grid, where we could disappear for a while."
+        },
+        {
+            "role": "Character 1",
+            "content": "Running makes us look guilty of everything they suspect and probably things they don't even know about yet. [exhales] But staying means trusting a system we've been gaming for years."
+        },
+        {
+            "role": "Character 2",
+            "content": "[resigned] Either way, the life we built is over. [very quietly] The houses, the cars, the kids' college funds—it's all going to be seized as proceeds from criminal activity. We destroyed everything for a few extra million we didn't even need."
+        }
+    ],
+    "content_type": "simple_tags",
+    "source_file": "a17bf797_scenario.json",
+    "actor": 2,
+    "scenario": "Two energy traders meet in secret after discovering federal investigators have uncovered their market manipulation scheme, debating whether to flee the country or face prosecution.",
+    "type": "scenario_conversation",
+    "character_1_role": "energy trader",
+    "character_2_role": "co-conspirator",
+    "selected_tones": [
+        "tensing",
+        "retreating",
+        "aware"
+    ]
+}

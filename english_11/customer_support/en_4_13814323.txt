@@ -1,0 +1,48 @@
+=== Source: 13814323_script.json ===
+Actor: english_4
+Content Type: customer_support
+Professionalism: professional
+Scenario: complaining that the mobile app keeps crashing
+
+=== Dialogue ===
+
+Customer: Good afternoon. I need immediate assistance with your mobile app. It's been crashing repeatedly since this morning's update.
+
+Customer Support: Thank you for contacting us. I understand the frustration this must be causing. Let me pull up your account and review the crash reports. May I have your account email address to access your user profile?
+
+Customer: It's jennifer.chen@stratosventures.com. This is severely impacting my team's productivity today.
+
+Customer Support: I've located your account, ID ACC-892374-JC, and I can see you're on our Enterprise plan. Our system shows twelve crash events logged from your device since 8:47 AM. Let me check which version of the app you're currently running.
+
+Customer: I need this resolved quickly. We have client presentations scheduled for 3 PM that require the app's features.
+
+Customer Support: I completely understand the urgency. Your app version 4.2.1 has a known compatibility issue with iOS 17.2 that was discovered this morning. I'm going to provide you with an immediate workaround while our team deploys the permanent fix, which should be available by 2 PM.
+
+Customer: What's the workaround? And will I lose any of my saved data or configurations?
+
+Customer Support: Absolutely not. Your data is safely stored on our servers under backup ID BKP-20240115-JC892374. The workaround involves rolling back to version 4.1.9, which I can guide you through right now. This will take approximately five minutes and restore full functionality.
+
+Customer: That's acceptable. Please walk me through the process. I'll put you on speaker while I follow along.
+
+Customer Support: Perfect. First, please open your device Settings, then scroll to General, and select iPhone Storage. You'll need to delete the current app, but don't worry—all your data remains intact on our cloud servers with real-time sync enabled.
+
+Customer: I've deleted it. What's the next step?
+
+Customer Support: Excellent. Now open Safari and navigate to our enterprise portal at enterprise.appname.com/rollback. Enter your credentials and you'll see a download link for version 4.1.9 with verification code VER-41900-STABLE. This version has been thoroughly tested with your iOS version.
+
+Customer: I'm downloading it now. The installation prompt just appeared. Should I select "Trust Enterprise Developer"?
+
+Customer Support: Yes, please do. That's certificate CERT-ENT-2024-A1B2C3D4, which is our official enterprise distribution certificate. Once installed, the app will authenticate using your existing credentials and automatically sync all your data from the cloud backup.
+
+Customer: The app is launching. It's requesting my login credentials.
+
+Customer Support: Of course.
+
+Customer: Perfect, I'm logged in. All my projects and data appear to be here. Everything looks functional.
+
+Customer Support: Wonderful. I've added a priority flag PRI-CRITICAL-115JC to your account to ensure you receive version 4.2.2 the moment it's released at 2 PM today. You'll get both an email and push notification. The update will address all stability issues while maintaining compatibility with iOS 17.2.
+
+Customer: Thank you for the quick resolution. Will this temporary version have any limitations I should know about?
+
+Customer Support: Version 4.1.9 has full functionality for all Enterprise features you currently use. The only difference is the absence of the dark mode enhancement introduced this morning. I've also created incident ticket INC-0115-8923 for your records, and a senior technician will follow up via email within the hour to ensure everything continues running smoothly for your presentations.
+

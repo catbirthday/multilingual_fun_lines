@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "*sharp inhale* Never got the callback. Was told Tuesday. It's Thursday."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh geez, I see that note here, um, ticket number CB-4927-XL was supposed to be Tuesday at 2 PM. That's completely on us—er, let me pull up what happened... okay so the system shows it got reassigned but never completed."
+        },
+        {
+            "role": "Customer",
+            "content": "Right. Just... *exhale* ...sitting here waiting and then nothing..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm really sorry about that. So what I can do right now, uh, actually let me check something first... yeah I've got availability in about 15 minutes if that works? Priority escalation code PE-8823."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait. Fifteen minutes? Like today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, today. I'm bumping you straight to tier 3 support, they'll call you at—hmm, what number should they use?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Um, 555—sorry, that's 415-555-8827."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, 415-555-8827. So here's what's gonna happen, er, they'll call within that 15-minute window, reference number is REF-9944-TK, and they have full authority to resolve whatever the original issue was."
+        },
+        {
+            "role": "Customer",
+            "content": "*breath catch* That's... wow. Okay. Really?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. And between you and me, I'm adding a service credit of $47.50 to your account for the inconvenience, should post within 24 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "I didn't expect—I mean, that's great. Thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course! Look, I know waiting around for a call that never comes is, uh... well it's frustrating. The credit code is CR-2847-MM if you need to reference it later."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah, I was pretty—but this is good. Really good actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right."
+        },
+        {
+            "role": "Customer",
+            "content": "Look, I know it's not your fault—the system or whatever..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Ah, I appreciate that, but honestly we should've caught this. The callback queue shows 72 pending calls from this week alone, which is... hmm, not great. But yours is locked in now, confirmation CON-5521-JP."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhale* Okay. Good. Fifteen minutes then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep yep."
+        },
+        {
+            "role": "Customer",
+            "content": "And they'll actually call? Not just... trail off again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "They'll definitely call. I've set it up with priority flag PF-9988, which basically means it bypasses the regular queue entirely, so... yeah, you're golden."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "1649ca77_script.json",
+    "actor": 4,
+    "scenario": "complaining that promised callback never came",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

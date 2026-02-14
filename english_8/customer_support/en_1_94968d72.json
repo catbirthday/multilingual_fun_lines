@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Let me see here... Card won't work. Hmm. Might've done something wrong."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no worries at all, let's figure this out together! So I'm pulling up your account here—wait, sorry, need your member ID first—that's the MID number on your card, starts with MID-4 and then has like eight more digits after that."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so... MID-4892-7736. Think I clicked something. Reset maybe?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, got it! Okay so between you and me? Half the calls I get are about this exact thing, and honestly—no wait, let me check something first—yep, I can see your password reset attempt from yesterday at 3:47 PM, and it looks like the system, er, didn't complete the verification step."
+        },
+        {
+            "role": "Customer",
+            "content": "Knew it. My fault then. What now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Actually no, not your fault at all! See, the verification email went to your old address ending in @hotmail—sorry, I mean, it should've gone to your gmail but the system still had your old one on file, so really that's on us."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, wait... How do I know this isn't... Never gave you my email."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh totally fair question! So I can see here your primary email on account ACC-7829-QM is the gmail one you updated in January, but for some reason the security settings—er, let me rephrase that—the password recovery still points to the hotmail from 2019."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... Still locked out though. Just need in."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me think... Is there a fee? For fixing whatever I broke?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh no, absolutely not! Listen, I'm gonna let you in on something here—this happens literally dozens of times a day, and between you and me? It's a known glitch we haven't fixed yet, so what I'm gonna do is send you a priority reset link to SMS-7736, that's the number on file, and waive any verification holds."
+        },
+        {
+            "role": "Customer",
+            "content": "That's... suspicious. How much info can you see exactly?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Mm, so I can see your last four transactions, your shipping address which is, uh, lemme check—1847 Pine Street, Unit B—and basically just what I need to verify identity and help with account stuff, nothing like, you know, nothing invasive or anything."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm. Fine. Send it then. Hope this works."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already sent! Should hit your phone in about, er, fifteen seconds—no wait, there it is, just went through at 2:47:32 PM, and once you click that link you'll get a temporary password that starts with TEMP- and then some random characters."
+        },
+        {
+            "role": "Customer",
+            "content": "Got it. TEMP-QX9M-2K7L. Now what?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect!"
+        },
+        {
+            "role": "Customer",
+            "content": "Still not working. Let me see... Oh. Caps lock. Never mind."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Happens to the best of us, seriously! Actually, while I have you—since this whole thing was basically our system being weird—I'm adding a courtesy credit of $15 to your account, reference number CRD-2024-8837-B, just as a sorry for the hassle, and I've updated your recovery email so this won't happen again."
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "94968d72_script.json",
+    "actor": 1,
+    "scenario": "embarrassed because they think they might have caused the problem themselves",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So I need—wait, let me see here—I want alerts before anything changes on my account."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely! So I can—no wait, actually—let me pull up your notification settings here, account ending in 4782, and we have several options for advance notifications that I think you'll really like."
+        },
+        {
+            "role": "Customer",
+            "content": "Are you sure? Like what if—hmm, what if someone tries to change my plan?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes! Great question, so we can set up—er, basically for plan changes specifically, you'd get an alert 72 hours before any modification takes effect, and actually you can choose between email, SMS to your number ending in 9021, or both."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means—wait, everything? Even small stuff?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well, let me—hmm, so we have different threshold levels actually, and for changes under $5 monthly you might not want... but honestly most people prefer the comprehensive package which covers literally everything."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes yes yes that one. But hold on—sorry, Tuesday—no Thursday I'm traveling."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Perfect timing then, because these settings take effect immediately, so by Thursday you'll already have full coverage, and uh, the confirmation code I'm seeing here is NOTIF-8K2M which means you're all set for travel notifications too."
+        },
+        {
+            "role": "Customer",
+            "content": "Travel? Wait I didn't—okay so that's automatic too then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, exactly—so when the system detects... er, actually let me explain this better, when you're outside your home zip 94105 for more than 48 hours, it automatically increases security monitoring."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if I don't want—no actually that's good. Really good."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I know right? It's honestly one of my favorite features because—wait, let me also add... there we go, I've just enabled the premium alert package at no charge for the next 6 months, reference number PRM-7741-XK."
+        },
+        {
+            "role": "Customer",
+            "content": "Free? Are you sure? Won't it just—I mean later they'll charge me right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, so what happens is—hmm, after the 6 months on December 15th, you'll get three separate warnings before any billing starts, and if you want to cancel then, it's literally just one click, no hassles."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here—December, that's actually perfect. Okay but text AND email?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely both!"
+        },
+        {
+            "role": "Customer",
+            "content": "Good good good. Wait—backup email too? In case—you know, just in case?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh that's smart thinking! So I can add—actually I'm adding right now—a backup email, and uh, you'll get a verification code in about 30 seconds to whatever address you give me."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so my husband's—no wait, work email—sorry, use djones at techcorp dot com."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect perfect, so djones at techcorp dot com is now set as backup, verification code should arrive any second, and honestly this is probably the most thorough notification setup I've done all week—you're totally covered now!"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "877cbe6c_script.json",
+    "actor": 3,
+    "scenario": "wanting advance notice before any changes to their account",
+    "type": "customer_support_conversation",
+    "professionalism": "casual"
+}

@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I need to transfer my internet and cable service to a new address next month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning! I'd be happy to assist with your service transfer. May I have your account number and the date you'll be moving?"
+        },
+        {
+            "role": "Customer",
+            "content": "My account number is on my bill somewhere. Let me find it. It's 88274-921."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, thank you. I have your account here showing service at 1847 Maple Drive. You've been with us for 3 years and currently have our Premium Plus package at $149.99 monthly. When will you be moving?"
+        },
+        {
+            "role": "Customer",
+            "content": "February fifteenth. I'm concerned about having service ready when we arrive at the new place."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand that concern. Let me check service availability at your new address. Could you provide the full street address including the ZIP code?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's 2510 Riverside Avenue, Apartment 4B, in Westfield. The ZIP is 07090."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent news. I've confirmed full service availability at that location with speeds up to 1.2 Gbps. I can schedule installation for February 15th with appointment windows between 8am-12pm or 1pm-5pm."
+        },
+        {
+            "role": "Customer",
+            "content": "The morning window works better. Will there be any service interruption at my current address?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly."
+        },
+        {
+            "role": "Customer",
+            "content": "And what about the equipment? Should I bring my current modem and cable boxes?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Great question. You'll need to return your current equipment to any of our 47 local service centers before February 28th to avoid a $299 non-return fee. We'll provide new equipment at your new address during installation."
+        },
+        {
+            "role": "Customer",
+            "content": "That makes sense. Are there any transfer fees I should know about?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "There's a standard relocation fee of $49.99 which will appear on your March bill. However, since you've been a customer for over 24 months, I can apply a loyalty credit to waive that fee completely."
+        },
+        {
+            "role": "Customer",
+            "content": "That's wonderful, thank you. Will my current promotional rate continue at the new address?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see you have our promotional rate of $149.99 locked in until August 2025. That rate absolutely transfers with you, along with all your current channel packages including HBO Max and Sports Plus."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Can you email me confirmation of everything we've discussed today?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "One last thing. How do I update my billing address for the February statement?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The billing address automatically updates with your service transfer effective February 15th. Your February statement will generate on the 22nd and will show your new address at 2510 Riverside Avenue, Apartment 4B. Is there anything else I can help you with today?"
+        }
+    ],
+    "content_type": "customer_support",
+    "source_file": "d34747cf_script.json",
+    "actor": 2,
+    "scenario": "wanting to transfer service to a new address",
+    "type": "customer_support_conversation",
+    "professionalism": "professional"
+}

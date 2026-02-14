@@ -1,0 +1,46 @@
+=== Source: dialogue5_25.txt ===
+Actor: english_7
+Content Type: dialogue
+
+=== Dialogue ===
+
+Character 1: [sarcastic] Oh great, another ransomware variant. Just what my Tuesday needed.
+
+Character 2: Mmm, yeah, I saw the alert come through. This one's actually pretty sophisticated—it's using, uh, polymorphic code that rewrites itself every few hours, which makes signature detection basically useless.
+
+Character 1: How'd it get past our sandbox?
+
+Character 2: So the thing is, it has this really clever dormancy period. It checks for virtual environments first, waits exactly 72 hours, then deploys only if it detects genuine user activity patterns.
+
+Character 1: Three days? That's patient.
+
+Character 2: Right? Most malware authors are, like, way too eager. This one though—whoever wrote it understands that, um, patience beats most automated defenses these days.
+
+Character 1: Can you trace the command and control servers?
+
+Character 2: Already on it. The C2 infrastructure is, er, bouncing through about twelve different proxies, but I found something interesting—they're reusing SSL certificates from that breach last month.
+
+Character 1: Wait, the hospital breach?
+
+Character 2: Exactly. Same threat actor, probably. Which means, oh gosh, we're dealing with someone who's been inside healthcare systems for weeks now, learning their, uh, their defensive patterns.
+
+Character 1: That's terrifying. How many systems are infected?
+
+Character 2: [furious] Twenty-seven and climbing! These idiots in accounting clicked through every single warning, every popup, just hammered through like it was nothing!
+
+Character 1: Deep breaths. We've handled worse.
+
+Character 2: Have we though? I mean, this variant's already exfiltrating data while we're sitting here talking. I can see the packets flowing out, but blocking them might trigger the encryption routine.
+
+Character 1: What if we redirect the traffic instead?
+
+Character 2: [very melancholic] That's... that's what I tried at my last job. Lost three weeks of customer data when the malware detected the redirect and went scorched earth.
+
+Character 1: Oh. I didn't know about that.
+
+Character 2: Yeah, well, it's not exactly something you put on your resume, right? But look, I learned from it—this time we could try honeypot servers, basically give it fake data to steal.
+
+Character 1: [regretful] I should've pushed harder for that security training last quarter.
+
+Character 2: Hindsight's rough, but honestly? Training only goes so far when the malware's this sophisticated. We're basically in an arms race where they're, um, always one step ahead because they only need to succeed once.
+

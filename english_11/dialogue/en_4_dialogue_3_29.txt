@@ -1,0 +1,46 @@
+=== Source: dialogue3_29.txt ===
+Actor: english_4
+Content Type: dialogue
+
+=== Dialogue ===
+
+Character 1: What's your take on MVP strategy for enterprise software?
+
+Character 2: The fundamental misconception is that MVP means releasing garbage. What we're actually doing is identifying the smallest possible feature set that validates our riskiest assumptions about value creation—it's about learning velocity, not corner-cutting.
+
+Character 1: How do you determine what's truly minimal?
+
+Character 2: You map your value streams against customer jobs-to-be-done, then ruthlessly prioritize based on which features address the highest-impact pain points. Everything else, no matter how elegant or technically interesting, gets deferred to post-validation iterations.
+
+Character 1: But clients expect polished products.
+
+Character 2: That's where the Kano model becomes critical. You distinguish between basic expectations, performance features, and delighters—your MVP absolutely must nail the basics while strategically choosing one or two performance features that demonstrate core value proposition.
+
+Character 1: [hesitantly] What about technical debt in MVPs?
+
+Character 2: Technical debt isn't inherently evil if it's deliberate and bounded. We're making calculated trade-offs between architectural purity and time-to-market, but you need clear refactoring triggers based on usage metrics and scale thresholds.
+
+Character 1: [child-like] Can you give me a concrete example?
+
+Character 2: Stripe's original MVP literally just wrapped existing payment APIs with cleaner documentation. They didn't build payment infrastructure—they validated that developers would pay for simplicity, then gradually replaced third-party dependencies with proprietary systems as they scaled.
+
+Character 1: How do you handle feature creep during MVP development?
+
+Character 2: You implement a value/effort matrix with strict thresholds. Any feature request gets scored on implementation complexity versus expected impact on your north star metric—if it doesn't move the needle significantly, it waits for v2.
+
+Character 1: [slurring] What metrics actually matter for validation?
+
+Character 2: Forget vanity metrics. You need cohort retention, customer acquisition cost to lifetime value ratios, and most importantly, qualitative feedback on whether you're solving the core problem. Revenue is a lagging indicator—engagement patterns tell you if you're building something sticky.
+
+Character 1: How fast should you iterate post-launch?
+
+Character 2: Iteration cadence depends on your feedback loops. B2B enterprise might be monthly releases, while consumer mobile could be weekly. The key is maintaining continuous deployment infrastructure so you can push fixes without waiting for release windows.
+
+Character 1: When do you know the MVP phase is over?
+
+Character 2: [sad] When you hit product-market fit, which most teams never actually achieve. You'll see organic growth acceleration, unsolicited testimonials, and users hacking your product for use cases you never imagined—that's when you shift from discovery to optimization.
+
+Character 1: What's the biggest MVP mistake you see?
+
+Character 2: [sad] Teams fall in love with their solution instead of the problem. They build beautiful, technically sophisticated products that nobody actually needs, then wonder why their perfectly executed MVP fails to gain traction in the market.
+

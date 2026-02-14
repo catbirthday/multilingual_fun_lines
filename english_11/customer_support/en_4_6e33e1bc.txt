@@ -1,0 +1,48 @@
+=== Source: 6e33e1bc_script.json ===
+Actor: english_4
+Content Type: customer_support
+Professionalism: professional
+Scenario: confused about overlapping subscription periods
+
+=== Dialogue ===
+
+Customer: I'm reviewing my account and it appears I have two active subscriptions running simultaneously. This doesn't seem correct.
+
+Customer Support: Thank you for reaching out about this. Let me access your account immediately to investigate those subscription details. May I have your account number or email address?
+
+Customer: My account email is j.morrison@techcorp.com and I believe the account number is 55274.
+
+Customer Support: Perfect, I have your account here. I can see you have subscription ID SUB-8847-PM starting January 15th and another subscription ID SUB-9102-QX that began February 1st, both showing as active.
+
+Customer: Exactly. Why would I have two overlapping periods? I only need one subscription service.
+
+Customer Support: I understand your concern completely. Let me examine the transaction history to determine exactly what triggered the second subscription on February 1st and why the January subscription wasn't properly transitioned.
+
+Customer: I upgraded my plan in early February. Was that processed as a new subscription instead of modifying the existing one?
+
+Customer Support: Absolutely correct. Your upgrade on February 3rd at 2:47 PM was mistakenly processed as a new subscription rather than a plan modification, which is why you're seeing both SUB-8847-PM and SUB-9102-QX running concurrently.
+
+Customer: So I've been double-charged since February? What's the total overpayment amount?
+
+Customer Support: Yes, unfortunately you have been. The overpayment from February 3rd through today totals $347.82, covering the duplicate basic tier charges while you should have only been paying for the premium tier.
+
+Customer: That's significant. How do we correct this situation and prevent it from happening again?
+
+Customer Support: Certainly.
+
+Customer: And the refund will be processed to my original payment method?
+
+Customer Support: I'll immediately cancel the duplicate subscription SUB-8847-PM, process your full refund of $347.82 which will appear within 3-5 business days, and ensure your account properly reflects only the premium subscription going forward.
+
+Customer: Good. Will I receive confirmation of these changes and the refund processing?
+
+Customer Support: Absolutely. You'll receive an email confirmation within the next 15 minutes showing the cancellation of SUB-8847-PM, the refund authorization number REF-2847-TK91, and your corrected billing statement.
+
+Customer: What about my billing date? Will it remain on the first of each month?
+
+Customer Support: Your billing will continue on the 1st of each month as established with your premium subscription SUB-9102-QX, with your next correct charge of $79.99 occurring on December 1st.
+
+Customer: Perfect. Is there anything else I need to do or watch for on my end?
+
+Customer Support: No action required from you. I've added a note to your account flagging this for our billing team to monitor, and I'll personally follow up once your refund posts to ensure everything has been resolved correctly.
+

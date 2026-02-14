@@ -1,0 +1,48 @@
+=== Source: a648ed72_script.json ===
+Actor: english_7
+Content Type: customer_support
+Professionalism: casual
+Scenario: locked out of their account after too many failed password attempts
+
+=== Dialogue ===
+
+Customer: So. I'm locked out. Too many attempts apparently.
+
+Customer Support: Okay let me—actually wait—let me pull up your account first. Can I get your email address associated with the account?
+
+Customer: It's j.martinez at techcorp. So basically. Five attempts. Then locked.
+
+Customer Support: Got it. Pulling that up now... hmm, okay so I see the lockout triggered at 2:47 PM today. The system shows—let me see here—five failed attempts between 2:43 and 2:47. Standard protocol is a 24-hour lockout but I can—actually, there's something I can do.
+
+Customer: Twenty-four hours? No. That's not happening.
+
+Customer Support: Right right. I understand. Let me see what—okay so there's an override code I can generate. It's a temporary access token, expires in 30 minutes. Would that work?
+
+Customer: So like. I have a presentation. In two hours. All my files.
+
+Customer Support: Oh. Okay that's—let me think—actually yes, the token will work. Your temporary code is TMP-8827-QX94. You'll use that instead of your password, then it'll prompt you to create a new one immediately.
+
+Customer: Fine. Yes. Whatever works.
+
+Customer Support: Alright so—wait, before you go—make sure you're on our main login page, not the mobile app. The token only works on the web version at account.techcorp.com/secure-login.
+
+Customer: This keeps happening. Like every month basically. Your password requirements.
+
+Customer Support: Hmm, I see what you—actually looking at your history here... you've had 3 lockouts since June. That's definitely frustrating. Have you considered using our password manager integration?
+
+Customer: My mother. She's in hospice. So I'm traveling constantly. Different devices.
+
+Customer Support: Oh I'm so—that's really tough. Okay so let me—what if we set up biometric authentication? Works across all devices once enabled, no passwords needed. Takes about 5 minutes to configure.
+
+Customer: Really? That would. Yes. Please.
+
+Customer Support: Absolutely. After you log in with code TMP-8827-QX94, go to Settings, then Security, then you'll see Biometric Options. The setup wizard walks you through it step by step.
+
+Customer: So basically after this. No more lockouts?
+
+Customer Support: Exactly. Once configured—let me check—yes, it works on up to 10 devices. You just need to authenticate once per device using your phone number ending in 4789. Then it's all fingerprint or face recognition.
+
+Customer: Thank you. Like genuinely. This helps.
+
+Customer Support: Of course. I've also—actually just added—put a note on your account about the situation. If you need any help during setup, reference case number CS-20241210-1147 and we'll prioritize it. It's going to be okay.
+

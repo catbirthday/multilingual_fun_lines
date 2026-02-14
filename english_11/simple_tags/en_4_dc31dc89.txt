@@ -1,0 +1,35 @@
+=== Source: dc31dc89_scenario.json ===
+Actor: english_4
+Content Type: simple_tags
+Scenario: order picker and prosthetics artist
+
+=== Dialogue ===
+
+raw: {
+    "conversation": [
+        {"role": "Character 1", "content": "[anxious] I need to talk to you about your order—the silicone molding compounds and titanium joint assemblies that came in from Germany. [pause] There was an incident with the forklift this morning and I'm afraid some of the materials got damaged."},
+        {"role": "Character 2", "content": "[very quietly] Those materials took four months to source. [firmly] I have a seven-year-old girl coming in next week for her final fitting, and her parents have already driven down three times from Vermont."},
+        {"role": "Character 1", "content": "[hesitantly] I know how this looks, and I take full responsibility for what happened. [sighs] The hydraulics failed when I was moving the pallet, and everything just went sideways before I could react."},
+        {"role": "Character 2", "content": "[bitter] You handle medical supplies all day but probably never think about where they end up. [softer] That little girl, Sophia, she's been practicing her ballet routine for months, waiting for a leg that can handle her jumps."},
+        {"role": "Character 1", "content": "[empathetically] My nephew lost his arm in a farming accident two years ago, so believe me, I understand more than you might think. [quietly] I've been working doubles to help pay for his prosthetic because insurance barely covered the basics."},
+        {"role": "Character 2", "content": "[surprised] I didn't realize—I'm sorry for assuming. [pause] Most people in logistics just see boxes and tracking numbers, not the lives those boxes are meant to change."},
+        {"role": "Character 1", "content": "[warm] I've been in this warehouse for eight years, and every single pediatric prosthetics order gets priority handling from me. [clearing throat] Which makes this morning's accident even harder to stomach."},
+        {"role": "Character 2", "content": "[curious] You said the hydraulics failed—was this equipment failure or human error? Because if it's the former, we might be able to file an insurance claim and expedite a replacement order."},
+        {"role": "Character 1", "content": "[relieved] The maintenance logs show that forklift was overdue for service by three weeks. [quickly] I've already documented everything with photos and pulled the security footage showing the malfunction."},
+        {"role": "Character 2", "content": "[thoughtfully] Then we might actually salvage this situation. [animated] I can work with partial materials if needed—I've gotten creative before when supplies run short."},
+        {"role": "Character 1", "content": "[hopefully] About thirty percent of the silicone compounds are still usable, and most of the titanium components survived the fall. [exhales] I spent my lunch break carefully sorting through everything to see what could be saved."},
+        {"role": "Character 2", "content": "[grateful] You didn't have to do that, but thank you. [passionately] Every ounce of material saved means I might still be able to give Sophia her new leg on schedule."},
+        {"role": "Character 1", "content": "[sincerely] I can help."},
+        {"role": "Character 2", "content": "[confused] Help how? [gently] You've already done more than most would by sorting the salvageable materials and documenting everything for insurance."},
+        {"role": "Character 1", "content": "[confidently] I know suppliers."},
+        {"role": "Character 2", "content": "[excited] You mean you have contacts who could get these German compounds faster than the standard four-month wait? [hopefully] Because even cutting it down to two months would make all the difference."},
+        {"role": "Character 1", "content": "[determined] My cousin runs logistics for a medical distributor in Boston, and they keep emergency stock of specialized materials. [pause] I already called him during my break, and he's checking their inventory right now."},
+        {"role": "Character 2", "content": "[very emotionally] This morning I was ready to report you to management, and now you're going above and beyond to fix something that wasn't entirely your fault. [chuckle] I misjudged you completely."},
+        {"role": "Character 1", "content": "Sometimes the best thing about making mistakes is discovering who shows up to help clean up the mess, and honestly, your dedication to that little girl reminds me why I take this job seriously."},
+        {"role": "Character 2", "content": "Let's make this work together."
+    ],
+    "scenario": "An order picker at a medical supply warehouse accidentally damages a crucial shipment of prosthetic materials and must face the artist who's been waiting months for these specialized components.",
+    "selected_tones": ["grounded", "perceptive", "embracing"],
+    "type": "scenario_conversation"
+}
+
