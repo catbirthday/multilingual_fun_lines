@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "नमस्ते जी। मैं एक package के बारे में बात कर रहा हूं जो तीन दिन पहले आना चाहिए था। मेरा order number है 8847-JM-2024।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी नमस्ते, और order number देने के लिए शुक्रिया। मैं अभी आपका account check करता हूं। जी हां, मुझे दिख रहा है order 8847-JM-2024... ये November 12 को deliver होना था, मतलब तीन दिन पहले।"
+        },
+        {
+            "role": "Customer",
+            "content": "जी हां, बिल्कुल। Tracking तब से update नहीं हुई जब से distribution center से निकला है। अभी क्या status है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, मैं समझ सकता हूं आपकी परेशानी। हमारे system के अनुसार, आपका package हमारे Phoenix distribution center से November 11 को शाम 3:47 पर निकला था, लेकिन Las Vegas के regional sorting facility में routing delay हो गया।"
+        },
+        {
+            "role": "Customer",
+            "content": "सुनिए, मुझे ये package Friday को presentation के लिए चाहिए ही चाहिए। क्या आप guarantee कर सकते हैं कि तब तक पहुंच जाएगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी बिल्कुल। मैं अभी इसे तुरंत expedited shipping team को escalate कर रहा हूं। आपका package 4 pounds 7 ounces का है और delay की वजह से आपको guaranteed next-day service मिलेगी, वो भी बिना किसी extra charge के।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा, ये तो अच्छी बात है। जब package फिर से transit में आएगा तो मुझे confirmation मिलेगा ना?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी हां, बिल्कुल। आपको अगले तीस मिनट में email confirmation मिल जाएगा, वो address पर जो 7842 पर खत्म होता है। और मैं priority tracking code EXP-9921-LV assign कर रहा हूं ताकि इस पर तुरंत ध्यान दिया जाए।"
+        },
+        {
+            "role": "Customer",
+            "content": "ठीक है। लेकिन अगर Thursday तक नहीं पहुंचा जैसा आपने कहा, तो फिर क्या होगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अच्छा सवाल है। अगर आपका package Thursday, November 16 को शाम 6:00 बजे तक नहीं पहुंचता, तो आपको shipping costs की पूरी refund मिलेगी और साथ में आपके पूरे order की value जो $347.89 है, उसका 25% credit भी मिलेगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "ये तो reasonable है। क्या आप इस guarantee को मेरे account में document कर सकते हैं, future reference के लिए?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी हां, बिल्कुल।"
+        },
+        {
+            "role": "Customer",
+            "content": "और हां, मैं ये भी समझना चाहता हूं कि ये delay क्यों हुआ। ये मेरा इस साल तीसरा order है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, मैं पूरी तरह समझता हूं कि आप transparency चाहते हैं। देखिए, delay की वजह थी sorting facility LV-204 में equipment malfunction, जिससे November 11 से November 13 के बीच उस hub से गुजरने वाले करीब 1,200 packages affected हुए।"
+        },
+        {
+            "role": "Customer",
+            "content": "तो क्या ये मेरी future deliveries को भी affect करेगा इस address पर? मैं आपसे अक्सर order करता हूं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी नहीं, बिल्कुल नहीं। मैंने आपके account को preferred routing status PRF-2024-11 के साथ flag कर दिया है, जो automatically Las Vegas facility को bypass करके सीधे Denver hub से route करेगा, जिससे transit time में करीब 18 घंटे की कमी आएगी।"
+        },
+        {
+            "role": "Customer",
+            "content": "बहुत बढ़िया। कृपया मुझे updated tracking information और इस call का case reference number भेज दीजिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी बिल्कुल। आपका case reference number है CS-77429-KMN, और मैं अभी आपकी email पर updated tracking details भेज रहा हूं, जिसमें नई estimated delivery window होगी Thursday, November 16, सुबह 9:00 से दोपहर 1:00 बजे के बीच।"
+        },
+        {
+            "role": "Customer",
+            "content": "शुक्रिया, efficiently resolve करने के लिए। मैं confirmation email और tracking updates का इंतज़ार करूंगा।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "आपका स्वागत है जी। मैंने आज की सारी बातचीत आपके account में document कर दी है, और हमारी expedited team अगले 15 मिनट में इस पर काम शुरू कर देगी। आपके धैर्य के लिए और हमारी services choose करने के लिए धन्यवाद।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I'm calling about a package that was supposed to arrive three days ago. My order number is 8847-JM-2024."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for providing that order number. Let me pull up your account right away. I see order 8847-JM-2024 was scheduled for delivery on November 12th, which would have been three days ago."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. The tracking hasn't updated since it left the distribution center. What's the current status?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. According to our system, your package left our Phoenix distribution center on November 11th at 3:47 PM but experienced a routing delay at our regional sorting facility in Las Vegas."
+        },
+        {
+            "role": "Customer",
+            "content": "I need this package for a presentation on Friday. Can you guarantee delivery before then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'm going to immediately escalate this to our expedited shipping team. Your package weighs 4 pounds 7 ounces and qualifies for our guaranteed next-day service at no additional charge due to the delay."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Will I receive confirmation once the package is back in transit?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll receive an email confirmation to the address ending in 7842 within the next thirty minutes, and I'm assigning priority tracking code EXP-9921-LV to ensure this receives immediate attention."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. What happens if it doesn't arrive by Thursday as you mentioned?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I appreciate you asking. If your package doesn't arrive by Thursday, November 16th at 6:00 PM, you'll receive a full refund of your shipping costs plus a 25% credit on your entire order value of $347.89."
+        },
+        {
+            "role": "Customer",
+            "content": "That's reasonable. Can you document this guarantee in my account for future reference?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "I also want to understand why this delay occurred. This is my third order this year."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your desire for transparency. The delay was caused by an equipment malfunction at sorting facility LV-204, which affected approximately 1,200 packages routed through that hub between November 11th and November 13th."
+        },
+        {
+            "role": "Customer",
+            "content": "Will this affect my future deliveries to this address? I order from you frequently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all. I've flagged your account with preferred routing status PRF-2024-11, which automatically bypasses the Las Vegas facility and routes directly through our Denver hub, reducing transit time by approximately 18 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Please send me the updated tracking information and the case reference number for this call."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Your case reference number is CS-77429-KMN, and I'm sending the updated tracking details to your email now, which will include the new estimated delivery window of Thursday, November 16th between 9:00 AM and 1:00 PM."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for resolving this efficiently. I'll watch for the confirmation email and tracking updates."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've documented everything we discussed today in your account, and our expedited team will begin processing this within the next 15 minutes. Thank you for your patience and for choosing our services."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "38316582_script.json",
+    "professionalism": "professional",
+    "scenario": "asking about a delayed package that was supposed to arrive three days ago",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "patiently_persistent",
+                "professionally_assertive"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "patiently_methodical",
+                "formally_courteous"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

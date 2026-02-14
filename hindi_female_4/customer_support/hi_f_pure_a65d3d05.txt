@@ -1,0 +1,93 @@
+=== Source: a65d3d05_script.json ===
+Language: Hindi
+Gender: female
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: disputing an unexpected charge on their credit card statement
+
+=== Translated Dialogue ===
+
+Customer [pure]: नमस्ते। मैं एक unauthorized charge के बारे में बात करना चाहती हूं... 289.99 डॉलर का, जो कल मेरे statement में आया है।
+
+Customer Support [pure]: नमस्ते। जी हां, मैं आपके लिए ये charge check कर सकती हूं। बस आपका account number और वो date बता दीजिए जब ये charge आया था?
+
+Customer [pure]: मेरा account 4782 पे खत्म होता है। ये charge 12 नवंबर को आया था... किसी "TechHub Solutions" नाम की चीज़ से।
+
+Customer Support [pure]: धन्यवाद। मैं अभी आपका account देख रही हूं, जो 4782 पे end होता है। हां, मुझे TechHub Solutions का charge दिख रहा है... 289.99 डॉलर, 12 नवंबर को दोपहर 3:47 PM EST पे आया है।
+
+Customer [pure]: मैंने तो कभी सुना ही नहीं इस company के बारे में... और मैंने बिल्कुल authorize नहीं किया था ये purchase। Please इसे तुरंत हटा दीजिए।
+
+Customer Support [pure]: जी मैं समझ सकती हूं आपकी परेशानी। देखिए, मैं अभी merchant database में vendor ID THB-889542-X check कर रही हूं। ये तो cloud storage services का subscription renewal लग रहा है जो 12 नवंबर 2023 को शुरू हुआ था।
+
+Customer [pure]: मेरे पास तो कोई cloud storage subscription नहीं है। ये तो... ये तो fraud है ना। अब आगे क्या करना होगा?
+
+Customer Support [pure]: बिल्कुल। मैं अभी dispute claim शुरू कर रही हूं... reference number है DSP-2024-11-78234। मैं इस charge को तुरंत freeze कर दूंगी और जब तक investigation चलती है, provisional credit दे रही हूं।
+
+Customer [pure]: धन्यवाद। ये investigation में कितना time लगेगा, और क्या मुझे कोई documentation देनी पड़ेगी?
+
+Customer Support [pure]: आम तौर पर investigation 7 से 10 business days में complete हो जाती है... final resolution 26 नवंबर तक हो जाना चाहिए। मैं आपको form FRM-4521A email कर दूंगी जिसे आपको sign करके 48 घंटे के अंदर वापस भेजना होगा।
+
+Customer [pure]: अरे वाह, perfect। क्या investigation के दौरान मेरी credit limit पर कोई असर पड़ेगा?
+
+Customer Support [pure]: आपका provisional credit... वो 289.99 डॉलर... आज रात 11:59 PM तक post हो जाएगा, तो आपकी पूरी credit limit restore हो जाएगी। Temporary authorization hold भी साथ में ही release हो जाएगा।
+
+Customer [pure]: बहुत बढ़िया। अम्म... वो... और कोई fraudulent charges तो नहीं आएंगे ना मेरे account पे?
+
+Customer Support [pure]: Precaution के तौर पर, मैं आपके account पे security alert लगा रही हूं... अभी से लेकर 12 फरवरी 2025 तक। कोई भी charge जो 100 डॉलर से ज़्यादा हो, उसके लिए additional verification की ज़रूरत होगी... आपके number पे text आएगा जो 8823 पे खत्म होता है।
+
+Customer [pure]: अरे आपने तो पूरा ध्यान रखा है। क्या मुझे नया card number लेना चाहिए... future में unauthorized charges रोकने के लिए?
+
+Customer Support [pure]: हां, मैं recommend करूंगी। मैं expedite कर सकती हूं replacement card... जो 9041 पे end होगा। आपको FedEx से मिलेगा, tracking number है 7729-4456-8821, गुरुवार 16 नवंबर तक पहुंच जाना चाहिए।
+
+Customer [pure]: हां जी, please वो कर दीजिए। क्या आप confirm कर सकती हैं कि मेरा current card अब deactivate हो गया है?
+
+Customer Support [pure]: जी बिल्कुल। आपका current card जो 4782 पे end होता है, वो तब तक active रहेगा जब तक आप नया card activate नहीं करती... जब तक आप चाहें कि मैं अभी deactivate कर दूं। नए card का activation number होगा 1-800-555-CARD।
+
+Customer [pure]: नहीं, active रहने दीजिए जब तक नया नहीं आता। बस आज जो भी बात हुई है, उसका summary मुझे email कर दीजिए please।
+
+Customer Support [pure]: जी ज़रूर। मैं detailed summary भेज रही हूं आपकी email पे जो file में है... dispute reference DSP-2024-11-78234, expected resolution date, और आपकी FedEx tracking information, सब कुछ। और कुछ help चाहिए आज?
+
+
+=== Original (English) ===
+
+Customer: Good afternoon. I'm calling about an unauthorized charge of $289.99 that appeared on my statement yesterday.
+
+Customer Support: Good afternoon. I'd be happy to investigate that charge for you. May I have your account number and the date the charge posted?
+
+Customer: My account ends in 4782. The charge posted on November 12th from something called "TechHub Solutions."
+
+Customer Support: Thank you. I'm pulling up your account now, ending in 4782. I can see the charge from TechHub Solutions for $289.99 posted at 3:47 PM EST on November 12th.
+
+Customer: I've never heard of that company and certainly didn't authorize that purchase. Please remove it immediately.
+
+Customer Support: I understand your concern. Let me check our merchant database for vendor ID THB-889542-X. This appears to be a subscription renewal for cloud storage services initiated on November 12th, 2023.
+
+Customer: I don't have any cloud storage subscriptions. This must be fraudulent. What are the next steps?
+
+Customer Support: Absolutely. I'm initiating a dispute claim under reference number DSP-2024-11-78234. I'll freeze this charge immediately and issue a provisional credit while we investigate.
+
+Customer: Thank you. How long will the investigation take, and will I need to provide any documentation?
+
+Customer Support: The investigation typically completes within 7-10 business days, with a final resolution by November 26th. I'll email you form FRM-4521A which you'll need to sign and return within 48 hours.
+
+Customer: Perfect. Will this affect my available credit limit while you investigate?
+
+Customer Support: Your provisional credit of $289.99 will post by 11:59 PM tonight, restoring your full credit limit. The temporary authorization hold will be released simultaneously.
+
+Customer: Excellent. Should I be concerned about other fraudulent charges appearing on my account?
+
+Customer Support: As a precaution, I'm placing a security alert on your account effective immediately through February 12th, 2025. Any charges over $100 will require additional verification via text to your number ending in 8823.
+
+Customer: That's very thorough. Will I need a new card number to prevent future unauthorized charges?
+
+Customer Support: I recommend it. I can expedite a replacement card with number ending in 9041, which you'll receive via FedEx tracking number 7729-4456-8821 by Thursday, November 16th.
+
+Customer: Yes, please proceed with that. Can you confirm my current card is now deactivated?
+
+Customer Support: Certainly. Your current card ending in 4782 will remain active until you activate the new card, unless you'd prefer immediate deactivation. The new card activation number will be 1-800-555-CARD.
+
+Customer: Keep it active until the new one arrives. Please email me a summary of everything we've discussed today.
+
+Customer Support: Of course. I'm sending a detailed summary to your email on file, including dispute reference DSP-2024-11-78234, expected resolution date, and your FedEx tracking information. Is there anything else I can assist you with today?
+

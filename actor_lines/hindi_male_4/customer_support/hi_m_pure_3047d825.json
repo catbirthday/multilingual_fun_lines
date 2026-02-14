@@ -1,0 +1,229 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "हाँ जी, मुझे एक baby monitor return करना है जो मैंने October में खरीदा था।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अच्छा, ठीक है, मैं अभी check करता हूँ। October की purchase... तो ये... ये तो standard 30 दिन की window से बाहर हो गई है, पर रुकिए मैं आपका order history देखता हूँ और देखते हैं क्या कर सकते हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ मुझे पता है काफी late हो गया है, मेरा बेटा छह हफ्ते NICU में था।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे। अरे बाप रे, अच्छा। सबसे पहले तो, अब सब ठीक है ना? मैं... मैं आपका account देख रहा हूँ, order number ORD-9847-BM22, SafeSleep monitor जो 3 October को लिया था, वही है ना?"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ वही। वो पिछले हफ्ते घर आया है और हमारे पास पहले से hospital का अलग equipment है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हाँ, बिल्कुल समझ रहा हूँ। तो technically—अरे नहीं, छोड़िए ये policy वगैरह की बात। आपकी situation बिल्कुल वैसी है जिसके लिए हमारे पास exception codes हैं। मैं अभी EXC-MED-1147 enter कर रहा हूँ return window को override करने के लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "सच में? बस ऐसे ही?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बस ऐसे ही। देखिए, मैं आठ साल से ये काम कर रहा हूँ, और कुछ... कुछ चीज़ें होती हैं जहाँ rules को bend करना ही पड़ता है। NICU stays definitely qualify करते हैं। मैं अभी आपका return label generate कर रहा हूँ, tracking number RTN-3847-XK।"
+        },
+        {
+            "role": "Customer",
+            "content": "आपको अंदाज़ा नहीं कितना... हम अभी medical bills में डूबे हुए हैं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "समझ सकता हूँ। अरे, रुकिए—मैं आपके लिए कुछ और भी check करता हूँ। आपने इसके $189.99 दिए थे, पर मैं देख रहा हूँ आप हमारे Family Care discount program के लिए eligible हैं, जो 90 दिन तक retroactive होता है।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म, ये क्या है? कभी सुना नहीं इसके बारे में।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ये ज़्यादा advertise नहीं करते, पर basically अगर आपके qualifying medical expenses हुए हैं, तो हम recent purchases पर 15% credit apply कर सकते हैं। Code FCP-2024-8829। इससे आपके करीब अट्ठाईस डॉलर बच जाएंगे इस return पर।"
+        },
+        {
+            "role": "Customer",
+            "content": "सच में? ये तो actually काफी मदद करेगा।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already process कर रहा हूँ। Full refund plus credit आपके account में 3-5 business days में आ जाना चाहिए, reference number REF-7739-CC। और हाँ, मैं आपके account पर आपकी situation के बारे में एक note भी add कर रहा हूँ।"
+        },
+        {
+            "role": "Customer",
+            "content": "Note किसलिए?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बस मतलब अगर आपको कुछ और चाहिए, तो कोई भी दूसरा agent देख लेगा और चीज़ें fast-track कर सकेगा। फिर से explain करने की ज़रूरत नहीं, hold पर wait करने की ज़रूरत नहीं। आपकी customer ID अब priority flag हो गई है, CTR-PRIO-5547।"
+        },
+        {
+            "role": "Customer",
+            "content": "मुझे समझ नहीं आ रहा क्या कहूँ।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "कुछ कहने की ज़रूरत नहीं। बस... बस अपने परिवार पर focus करिए, ठीक है? Return label आपकी email में है, और अगर refund में कोई problem आए, तो आप वापस call करके tier 2 support माँगिए, इस call ID का reference दीजिए CLL-9928-TM।"
+        },
+        {
+            "role": "Customer",
+            "content": "ये... thank you। सच में।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे बिल्कुल। और हाँ, बच्चे के घर आने की बधाई हो। वही... वही तो असली बात है। Take care।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, I need to return a baby monitor I bought in October."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Alright, let me pull that up for you. October purchase... that's that's going to put us outside the standard 30-day window, but let me check your order history here and see what we can do."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah I know it's late, my son was in the NICU for six weeks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh. Oh wow, okay. First off, I hope everything's alright now. Let me... I'm looking at your account here, order number ORD-9847-BM22, the SafeSleep monitor purchased October 3rd, is that the one?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's it. He came home last week and we already have different equipment from the hospital."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right, completely understand. So technically—well, no, let me just skip the policy stuff. Your situation is exactly why we have exception codes. I'm entering EXC-MED-1147 right now to override the return window."
+        },
+        {
+            "role": "Customer",
+            "content": "Really? Just like that?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Just like that. Listen, I've been doing this eight years, and there's there's certain things where the rules just need to bend. NICU stays definitely qualify. I'm generating your return label now, tracking number RTN-3847-XK."
+        },
+        {
+            "role": "Customer",
+            "content": "You have no idea how much... we're drowning in medical bills right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can imagine. Actually, wait—let me check something else for you. You paid $189.99 for this, but I see you're eligible for our Family Care discount program, retroactive up to 90 days."
+        },
+        {
+            "role": "Customer",
+            "content": "Um, what's that? Never heard of it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's not advertised much, but basically if you've had qualifying medical expenses, we can apply a 15% credit to recent purchases. Code FCP-2024-8829. Would save you about twenty-eight bucks on this return."
+        },
+        {
+            "role": "Customer",
+            "content": "Seriously? That would actually help a lot."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Already processing it. The full refund plus the credit should hit your account in 3-5 business days, reference number REF-7739-CC. And hey, I'm also adding a note to your account about your situation."
+        },
+        {
+            "role": "Customer",
+            "content": "A note for what?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Just means if you need anything else, any other agent will see it and can fast-track things. No more explaining, no more waiting on hold. Your customer ID is now flagged as priority, CTR-PRIO-5547."
+        },
+        {
+            "role": "Customer",
+            "content": "I don't even know what to say."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Don't need to say anything. Just... just focus on your family, alright? The return label's in your email, and if anything goes wrong with the refund, you call back and ask for tier 2 support, reference this call ID CLL-9928-TM."
+        },
+        {
+            "role": "Customer",
+            "content": "This is... thank you. Really."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. And hey, congratulations on bringing him home. That's that's what really matters. Take care."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3047d825_script.json",
+    "professionalism": "casual",
+    "scenario": "trying to return an item past the return window",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "vulnerable_trusting",
+                "annoyed_sarcastic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off",
+                    "classic_fillers",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "veteran_efficient",
+                "genuinely_warm"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off",
+                    "self_corrections",
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "deliberate_slow"
+            }
+        }
+    }
+}

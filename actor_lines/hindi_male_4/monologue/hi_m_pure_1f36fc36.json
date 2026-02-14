@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "मुझे अभी फोन आया। [pause] Marcus चला गया। [shaky voice] कल रात overdose हो गया और मैं... मैं समझ ही नहीं पा रहा। [exhausted] हम तो बस Thursday को मिले थे और वो इतना अच्छा कर रहा था, वो—अरे यार, उसने अपना thirty-day chip दिखाया था मुझे। [very sad] कितना proud था वो, पता है? [sniffle] और हमने उसकी नई job के बारे में बात की थी और उसकी बेटी आने वाली थी मिलने और मुझे लगा... [trailing off] सच में लगा था कि अब सब ठीक हो जाएगा। [frustrated] मैं कैसे miss कर गया? मतलब, उसकी आवाज़ में कुछ था क्या या—मैं बार-बार उस बातचीत को याद कर रहा हूं और, अम्म... शायद थोड़ा off लग रहा था? [anxious] पर वो Thursday को हमेशा थोड़ा अजीब लगता था क्योंकि उस दिन उसे अपने parole officer से मिलना पड़ता था। [crying while speaking] मुझे weekend पे check करना चाहिए था उससे। [regretful] मुझे पता था holidays उसके लिए मुश्किल हैं और मैंने बस... नहीं किया। [pause] सात महीने हम साथ काम कर रहे थे। [very quietly] सात महीने Narcan training और safety planning और उसके triggers के बारे में बात करते रहे और मुझे लगा—हाय, मुझे सच में यकीन था कि वो बच जाएगा। [bitter] और अब क्या, मैं बस... किसी नए के साथ शुरू करूं? [upset] ऐसे behave करूं जैसे Marcus matter ही नहीं करता था? [shaky voice] वो matter करता था। [cry] वो सच में matter करता था।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "I just got the call. [pause] Marcus is gone. [shaky voice] He overdosed last night and I... I don't understand. [exhausted] We just met on Thursday and he was doing so well, he was—God, he showed me his thirty-day chip. [very sad] He was so proud of it, you know? [sniffle] And we talked about his new job and his daughter coming to visit and I thought... [trailing off] I really thought we'd turned a corner. [frustrated] How did I miss this? Like, was there something in his voice or—I keep replaying our conversation and, um... maybe he seemed a little off? [anxious] But he always seemed a little off on Thursdays because that's when he had to see his parole officer. [crying while speaking] I should've checked in with him over the weekend. [regretful] I knew the holidays were hard for him and I just... I didn't. [pause] Seven months we've been working together. [very quietly] Seven months of Narcan training and safety planning and talking about his triggers and I thought—God, I really believed he was going to make it. [bitter] And now what, I just... start over with someone new? [upset] Pretend like Marcus didn't matter? [shaky voice] He mattered. [cry] He really mattered."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "1f36fc36_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your overdose prevention client just died after you thought they were making real progress",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": false
+    }
+}

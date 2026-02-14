@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[relieved] God, I can't believe how close that was. [pause] Mom's still shaking, honestly. [bitter] And you know what? Everyone always gives me grief about being \"too negative\" or whatever. [mocking] \"Why can't you just trust people?\" \"You're so paranoid.\" [frustrated] Well guess what? [loudly] That \"paranoid\" attitude just saved us thirty thousand dollars! [exhale] \n\n[anxiously] The whole thing seemed, I don't know, too polished? Like when that guy called about Dad's supposed \"investment opportunity\" and I started asking all my annoying questions—you know the ones—everyone was rolling their eyes at dinner. [sarcastic] Oh there goes skeptical Sarah again, can't let anything be simple. [pause]\n\nBut something was just... off. The urgency, the, um, the way he kept deflecting when I asked for documentation. [quietly] And then when I found those reviews online... [gasp softly] Jesus. [shaky voice] Other families lost everything.\n\n[warm] Dad actually thanked me. Can you believe that? [laugh] He said, \"Your suspicious nature finally paid off, kiddo.\" [trailing off] I mean, I wish I didn't have to be like this all the time but... [sigh] [confidently] Sometimes being the family pessimist has its perks, I guess."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[relieved] God, I can't believe how close that was. [pause] Mom's still shaking, honestly. [bitter] And you know what? Everyone always gives me grief about being \"too negative\" or whatever. [mocking] \"Why can't you just trust people?\" \"You're so paranoid.\" [frustrated] Well guess what? [loudly] That \"paranoid\" attitude just saved us thirty thousand dollars! [exhale] \n\n[anxiously] The whole thing seemed, I don't know, too polished? Like when that guy called about Dad's supposed \"investment opportunity\" and I started asking all my annoying questions—you know the ones—everyone was rolling their eyes at dinner. [sarcastic] Oh there goes skeptical Sarah again, can't let anything be simple. [pause]\n\nBut something was just... off. The urgency, the, um, the way he kept deflecting when I asked for documentation. [quietly] And then when I found those reviews online... [gasp softly] Jesus. [shaky voice] Other families lost everything.\n\n[warm] Dad actually thanked me. Can you believe that? [laugh] He said, \"Your suspicious nature finally paid off, kiddo.\" [trailing off] I mean, I wish I didn't have to be like this all the time but... [sigh] [confidently] Sometimes being the family pessimist has its perks, I guess."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "c1b1c7a8_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "The skeptical attitude that annoys everyone just saved your family from a financial scam",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning, I'm calling about warranty claim WC-8834. कल इसको deny कर दिया गया था और मुझे समझना है कि क्यों।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning sir, I'd be happy to review that claim for you. मैं अभी reference number WC-8834-JT को system में देखता हूं, specific denial reason और available options check करने के लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "The product is only fourteen months old, और clearly इसमें manufacturing defect है। यह cover होना चाहिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can see the claim here in our system. Technician की report TR-2847-A के according, device में liquid damage के signs थे, जो unfortunately standard warranty coverage को void कर देता है, warranty terms के section 4.2 के हिसाब से।"
+        },
+        {
+            "role": "Customer",
+            "content": "That's completely incorrect. Device को कभी भी किसी liquid के पास नहीं ले गया। मुझे यह दोबारा review करवाना है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern completely, sir. मैं इसको अभी warranty review team को escalate करता हूं secondary assessment के लिए। वो 48 से 72 घंटे में एक thorough evaluation करेंगे।"
+        },
+        {
+            "role": "Customer",
+            "content": "I purchased the extended warranty specifically to avoid these situations. क्या आप मेरे coverage details check कर सकते हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, जी बिल्कुल।"
+        },
+        {
+            "role": "Customer",
+            "content": "This device is essential for my business operations. हम इस process को जल्दी करने के लिए क्या कर सकते हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the urgency of your situation. मैं देख रहा हूं कि आपका extended warranty plan EPW-3395-M अगले साल तक active है। मैं आपको अभी escalation specialist से connect करता हूं जो business-critical cases के लिए priority review code PRI-445 arrange कर सकते हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "That would definitely be helpful. Priority review के लिए मुझे कौन से documents provide करने होंगे?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You'll need to submit form WRF-12B, साथ में device की सभी angles से photos, आपकी original purchase receipt, और एक brief written statement जिसमें issue और usage conditions describe हों।"
+        },
+        {
+            "role": "Customer",
+            "content": "I can have everything ready today. मुझे ये documents कहाँ भेजने हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Please upload everything to our secure portal, warranty.company.com/claims पर reference number CLM-8834-JT2 use करके। जैसे ही सारे documents receive होंगे और system में process होंगे, आपको automated confirmation मिल जाएगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "Once I submit everything, क्या कोई मुझे directly contact करेगा next steps के बारे में?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, our senior warranty specialist will call you directly, आपके 4485 में ending number पर, document receipt के 24 घंटे के अंदर। उनके पास full authority होगी initial decision को override करने की अगर warranted हो।"
+        },
+        {
+            "role": "Customer",
+            "content": "Good, that's what I need to hear. मैं initial inspection के बारे में formal complaint भी file करना चाहता हूं। कैसे proceed करूं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly, I can help you with that. मैं अभी complaint case CC-9102-RT initiate कर रहा हूं। हमारी quality assurance team original inspection process और technician notes को review करेगी यह ensure करने के लिए कि सारे protocols correctly follow हुए थे।"
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for your assistance. कृपया मुझे हमारी discussion का summary और सारे reference numbers भेज दीजिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, I'll send that right away. मैं आपकी file में registered email पर comprehensive summary भेज रहा हूं जिसमें reference numbers WC-8834-JT2, CC-9102-RT, और priority code PRI-445 शामिल हैं। आपको अगले पंद्रह minutes में मिल जाना चाहिए।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I'm calling about warranty claim WC-8834. It was denied yesterday and I need to understand why."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning. I'd be happy to review that claim for you. Let me pull up reference number WC-8834-JT in our system to see the specific denial reason and what options we have available."
+        },
+        {
+            "role": "Customer",
+            "content": "The product is only fourteen months old and clearly has a manufacturing defect. This should be covered."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I see the claim here. According to the technician's report TR-2847-A, the device showed signs of liquid damage, which unfortunately voids the standard warranty coverage per section 4.2 of the warranty terms."
+        },
+        {
+            "role": "Customer",
+            "content": "That's incorrect. The device has never been exposed to any liquids. I need this reviewed again."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. Let me escalate this to our warranty review team for a secondary assessment. They'll conduct a more thorough evaluation within 48 to 72 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "I purchased the extended warranty specifically to avoid these situations. Can you check my coverage details?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "This device is essential for my business operations. What can we do to expedite this process?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand the urgency. I'm showing your extended warranty plan EPW-3395-M is active through next year. Let me connect you with our escalation specialist who can arrange priority review code PRI-445 for business-critical cases."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be helpful. What documentation do I need to provide for the priority review?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You'll need to submit form WRF-12B with photos of the device from all angles, your original purchase receipt, and a brief written statement describing the issue and usage conditions."
+        },
+        {
+            "role": "Customer",
+            "content": "I can have that ready today. Where should I send these documents?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Please upload everything to our secure portal at warranty.company.com/claims using reference number CLM-8834-JT2. You'll receive an automated confirmation once all documents are received and processed by our system."
+        },
+        {
+            "role": "Customer",
+            "content": "Once submitted, will someone contact me directly about the next steps?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, our senior warranty specialist will call you directly at the number ending in 4485 within 24 hours of document receipt. They'll have full authority to override the initial decision if warranted."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. I also want to file a formal complaint about the initial inspection. How do I proceed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I'll initiate complaint case CC-9102-RT right now. Our quality assurance team will review the original inspection process and technician notes to ensure all protocols were followed correctly."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you. Please send me a summary of everything we've discussed and all reference numbers."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a comprehensive summary to your email on file including reference numbers WC-8834-JT2, CC-9102-RT, and priority code PRI-445. You should receive it within the next fifteen minutes."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "3fd85aea_script.json",
+    "professionalism": "professional",
+    "scenario": "frustrated that their warranty claim was denied",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "businesslike_direct",
+                "politely_firm"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "confidently_authoritative",
+                "patiently_methodical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+=== Source: 43db5b57_script.json ===
+Language: Hindi
+Gender: male
+Mode: en
+Content Type: customer_support
+Professionalism: casual
+Scenario: complaining that their internet service keeps dropping
+
+=== Translated Dialogue ===
+
+Customer [en]: So I'm probably overreacting but like, my internet keeps cutting out? Sorry, I know you're busy.
+
+Customer Support [en]: Oh no no, please don't apologize! Let me pull up your account here... hmm, I see you're on our fiber plan at 4827 Maple Drive, and wow, I'm actually seeing some concerning patterns in your connection logs from the past 72 hours.
+
+Customer [en]: Wait, patterns? Like what kind of... I mean, is it bad?
+
+Customer Support [en]: So it's dropping, uh, about every 40 minutes which is—yeah that's really frustrating, I can imagine trying to work with that. Your modem ID shows XFR-9982-MK and it's actually reconnecting fine each time, but then just... let me check the node status real quick.
+
+Customer [en]: I think maybe it's my fault? I moved the router last week, so...
+
+Customer Support [en]: Oh honestly? Moving it shouldn't cause this kind of issue at all. What I'm seeing here is, er, your local node NDX-47B is showing intermittent signal degradation, which means—well basically it's on our end, not yours, so please don't feel bad about calling!
+
+Customer [en]: But what if—God, I have a presentation tomorrow and if it drops—
+
+Customer Support [en]: Okay I completely understand that panic. Here's what we can do right now, um... I'm scheduling a priority tech visit for slot T-8AM-921, that's first thing tomorrow morning, and meanwhile let me see if I can... actually, hold on, trying something from my end.
+
+Customer [en]: Tomorrow? That's—wait no, the presentation's at nine! This is—I can't—
+
+Customer Support [en]: I hear you, I really do. Alright, let me... hmm, if I boost your signal strength to level 8 temporarily and reroute you through node NDX-45A instead, that should—yeah, that might just hold you through tomorrow.
+
+Customer [en]: You can do that? Like right now? Sorry, I don't understand the technical—
+
+Customer Support [en]: Absolutely can! So I'm making these changes now, takes about, oh, 3 minutes to propagate through the system, and your new routing code is RT-KLMN-2847 if the tech asks tomorrow.
+
+Customer [en]: I just—thank you. Really. I feel stupid for panicking.
+
+Customer Support [en]: Please don't! I'd be stressed too—actually last month my internet died during my kid's virtual parent-teacher conference, so, er, I get it. The temporary fix should hold, but that tech tomorrow will replace your line tap, part number LTP-3392-X, permanently.
+
+Customer [en]: Okay so basically just... wait? Will I know if it worked?
+
+Customer Support [en]: Yeah exactly, and, uh, you should see your modem lights cycle in about—actually probably happening right now—then stay solid green. Your connection ID after this reconfig will be CNXF-8829-TMP, which the tech needs.
+
+Customer [en]: They're—yeah they're blinking! Green now! Oh thank God.
+
+Customer Support [en]: Perfect! Really glad that worked. Now if it drops again tonight, which—fingers crossed it won't—but if it does, call back with reference number REF-92847-EM and they'll escalate immediately.
+
+Customer [en]: I'm sorry I got so worked up, you've been so patient.
+
+Customer Support [en]: Aw no, you were totally fine! Honestly some days I talk to, mmm, way angrier people about way smaller issues. Good luck with that presentation tomorrow—you're gonna do great!
+
+
+=== Original (English) ===
+
+Customer: So I'm probably overreacting but like, my internet keeps cutting out? Sorry, I know you're busy.
+
+Customer Support: Oh no no, please don't apologize! Let me pull up your account here... hmm, I see you're on our fiber plan at 4827 Maple Drive, and wow, I'm actually seeing some concerning patterns in your connection logs from the past 72 hours.
+
+Customer: Wait, patterns? Like what kind of... I mean, is it bad?
+
+Customer Support: So it's dropping, uh, about every 40 minutes which is—yeah that's really frustrating, I can imagine trying to work with that. Your modem ID shows XFR-9982-MK and it's actually reconnecting fine each time, but then just... let me check the node status real quick.
+
+Customer: I think maybe it's my fault? I moved the router last week, so...
+
+Customer Support: Oh honestly? Moving it shouldn't cause this kind of issue at all. What I'm seeing here is, er, your local node NDX-47B is showing intermittent signal degradation, which means—well basically it's on our end, not yours, so please don't feel bad about calling!
+
+Customer: But what if—God, I have a presentation tomorrow and if it drops—
+
+Customer Support: Okay I completely understand that panic. Here's what we can do right now, um... I'm scheduling a priority tech visit for slot T-8AM-921, that's first thing tomorrow morning, and meanwhile let me see if I can... actually, hold on, trying something from my end.
+
+Customer: Tomorrow? That's—wait no, the presentation's at nine! This is—I can't—
+
+Customer Support: I hear you, I really do. Alright, let me... hmm, if I boost your signal strength to level 8 temporarily and reroute you through node NDX-45A instead, that should—yeah, that might just hold you through tomorrow.
+
+Customer: You can do that? Like right now? Sorry, I don't understand the technical—
+
+Customer Support: Absolutely can! So I'm making these changes now, takes about, oh, 3 minutes to propagate through the system, and your new routing code is RT-KLMN-2847 if the tech asks tomorrow.
+
+Customer: I just—thank you. Really. I feel stupid for panicking.
+
+Customer Support: Please don't! I'd be stressed too—actually last month my internet died during my kid's virtual parent-teacher conference, so, er, I get it. The temporary fix should hold, but that tech tomorrow will replace your line tap, part number LTP-3392-X, permanently.
+
+Customer: Okay so basically just... wait? Will I know if it worked?
+
+Customer Support: Yeah exactly, and, uh, you should see your modem lights cycle in about—actually probably happening right now—then stay solid green. Your connection ID after this reconfig will be CNXF-8829-TMP, which the tech needs.
+
+Customer: They're—yeah they're blinking! Green now! Oh thank God.
+
+Customer Support: Perfect! Really glad that worked. Now if it drops again tonight, which—fingers crossed it won't—but if it does, call back with reference number REF-92847-EM and they'll escalate immediately.
+
+Customer: I'm sorry I got so worked up, you've been so patient.
+
+Customer Support: Aw no, you were totally fine! Honestly some days I talk to, mmm, way angrier people about way smaller issues. Good luck with that presentation tomorrow—you're gonna do great!
+

@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[hesitantly] So I got the job. वो maintenance supervisor की position... hospital में। [short pause] And I keep telling myself it makes sense, right? मेरा मतलब, insurance बेहतर है, घंटे भी ठीक हैं, और मैं वहीं रहूंगा। जहाँ वो है। [bitter] भगवान, जब मैं ये बोलता हूं तो कितना calculated लगता है।\n\n[anxious] But it's not like that, it's... मैं नहीं जानता। जब उन्होंने interview के लिए बुलाया था, मैंने लगभग ना कह दिया था। Because what if people think I'm, um, taking advantage somehow? [sigh] उसकी बीमारी का फायदा उठा रहा हूं job पाने के लिए? ये नहीं—ये वो बात नहीं है।\n\n[quietly] I just want to be close to her. क्या ये इतना गलत है? उस waiting room में घंटों बैठने के बजाय, मैं actually... मैं अपने breaks में जा सकता हूं। उसे देख सकता हूं। [voice breaking] ये ensure कर सकता हूं कि nurses उसके साथ ठीक से पेश आ रही हैं।\n\nAnd honestly? काम मुझे पूरी तरह से टूटने से रोकता है। [sad] Because when I'm fixing a broken elevator or checking the boilers, पांच मिनट के लिए मैं नहीं सोच रहा होता... तीसरी मंज़िल पर क्या हो रहा है। [pause]\n\n[resigned] So yeah. मैं Monday से शुरू करूंगा। मेरी बीवी मर रही है और मैं hall में light fixtures ठीक कर रहा होऊंगा। [trailing off] अब यही मेरी ज़िंदगी है, I guess..."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[hesitantly] So I got the job. The maintenance supervisor position at... at the hospital. [short pause] And I keep telling myself it makes sense, right? I mean, the insurance is better, the hours are actually decent, and I'll be—well, I'll be there. Where she is. [bitter] God, that sounds so calculated when I say it out loud.\n\n[anxious] But it's not like that, it's... I don't know. When they called me for the interview, I almost said no. Because what if people think I'm, um, taking advantage somehow? [sigh] Using her illness to get a job? That's not—that's not what this is. \n\n[quietly] I just want to be close to her. Is that so wrong? Instead of sitting in that waiting room for hours, I can actually... I can pop in during my breaks. Check on her. [voice breaking] Make sure the nurses are treating her right. \n\nAnd honestly? The work keeps me from just, uh, falling apart completely. [sad] Because when I'm fixing a broken elevator or checking the boilers, for like five minutes I'm not thinking about... about what's happening on the third floor. [pause] \n\n[resigned] So yeah. I start Monday. My wife is dying and I'll be fixing light fixtures down the hall. [trailing off] That's my life now, I guess..."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "26179000_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Becoming the maintenance supervisor at the hospital where your spouse is terminally ill",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Okay so I've got three orders—wait, four actually—lemme see here, can you combine those for shipping?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely! Yeah, I just did this myself last week actually... Let me pull up your account real quick. Can you give me the first order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Thank you! It's—hmm, what if—okay first one's BX4921K."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. BX4921K shows processing since 9:47 AM this morning. Still plenty of time to combine... What else you got?"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect, yes, then MQ8832F and—wait that's so helpful—also RZ1147D."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Okay, good news. MQ8832F and RZ1147D are both still in fulfillment stage... I can merge all three into shipment ID SHIP-7764-XK91. Save you about eighteen bucks."
+        },
+        {
+            "role": "Customer",
+            "content": "Eighteen! That's amazing! Oh and the fourth one—lemme think—PL5509W?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "PL5509W... *sharp inhale* Ah. That one already left the warehouse at 6:22 AM. But hey, true story? Same thing happened to me last month and..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Right. Makes sense. Still though, three combined, that's great, really great."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, the three I got merged will arrive together Tuesday. Tracking SHIP-7764-XK91. You know what though... Let me check something for that fourth one..."
+        },
+        {
+            "role": "Customer",
+            "content": "You're being so helpful, seriously, I really appreciate you taking time with this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Found something. Your fourth package, PL5509W? If I reroute it to arrive same day as the others, Tuesday by 3:00 PM, at least they all come together..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Please! That's perfect—okay so that means everything Tuesday then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything Tuesday. Combined shipment SHIP-7764-XK91 and rerouted PL5509W both scheduled for March 19th before 3:00 PM. Saved you money and trips to the door."
+        },
+        {
+            "role": "Customer",
+            "content": "This is exactly what I needed. Thank you. Really. I just... I can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* Hey, I get it. Multiple deliveries are... Listen, I'm adding a note to your account, reference code NOTE-8847-QM, for five dollars credit too."
+        },
+        {
+            "role": "Customer",
+            "content": "Five dollar credit too? You're incredible. Seriously. Thank you so much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Just doing what I'd want someone to do for me, you know? Final confirmation number for all changes is CNF-2298-BK71... Is there anything else that might make this easier?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, this is—you fixed everything. All of it. Tuesday. One day. I'm just... thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good. Really glad we got it sorted... Oh, and satisfaction survey comes through in about ten minutes, reference number SRV-4429-XL. But honestly? Just happy to help."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Okay so I've got three orders—wait, four actually—lemme see here, can you combine those for shipping?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh absolutely! Yeah, I just did this myself last week actually... Let me pull up your account real quick. Can you give me the first order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Thank you! It's—hmm, what if—okay first one's BX4921K."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it. BX4921K shows processing since 9:47 AM this morning. Still plenty of time to combine... What else you got?"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect, yes, then MQ8832F and—wait that's so helpful—also RZ1147D."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Okay, good news. MQ8832F and RZ1147D are both still in fulfillment stage... I can merge all three into shipment ID SHIP-7764-XK91. Save you about eighteen bucks."
+        },
+        {
+            "role": "Customer",
+            "content": "Eighteen! That's amazing! Oh and the fourth one—lemme think—PL5509W?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "PL5509W... *sharp inhale* Ah. That one already left the warehouse at 6:22 AM. But hey, true story? Same thing happened to me last month and..."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. Right. Makes sense. Still though, three combined, that's great, really great."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah, the three I got merged will arrive together Tuesday. Tracking SHIP-7764-XK91. You know what though... Let me check something for that fourth one..."
+        },
+        {
+            "role": "Customer",
+            "content": "You're being so helpful, seriously, I really appreciate you taking time with this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Found something. Your fourth package, PL5509W? If I reroute it to arrive same day as the others, Tuesday by 3:00 PM, at least they all come together..."
+        },
+        {
+            "role": "Customer",
+            "content": "Yes! Please! That's perfect—okay so that means everything Tuesday then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Everything Tuesday. Combined shipment SHIP-7764-XK91 and rerouted PL5509W both scheduled for March 19th before 3:00 PM. Saved you money and trips to the door."
+        },
+        {
+            "role": "Customer",
+            "content": "This is exactly what I needed. Thank you. Really. I just... I can't..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* Hey, I get it. Multiple deliveries are... Listen, I'm adding a note to your account, reference code NOTE-8847-QM, for five dollars credit too."
+        },
+        {
+            "role": "Customer",
+            "content": "Five dollar credit too? You're incredible. Seriously. Thank you so much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Just doing what I'd want someone to do for me, you know? Final confirmation number for all changes is CNF-2298-BK71... Is there anything else that might make this easier?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, this is—you fixed everything. All of it. Tuesday. One day. I'm just... thank you."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good. Really glad we got it sorted... Oh, and satisfaction survey comes through in about ten minutes, reference number SRV-4429-XL. But honestly? Just happy to help."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4be51312_script.json",
+    "professionalism": "casual",
+    "scenario": "trying to combine multiple orders to save on shipping",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "genuinely_grateful",
+                "overwhelmed_shutdown"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        },
+        "support": {
+            "emotions": [
+                "humanizing_personal",
+                "genuinely_warm"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "trailing_off",
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "मैंने तीन दिन पहले आपसे एक laptop खरीदा था और अब देखा कि वो किसी और जगह कम में मिल रहा है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, call करने के लिए धन्यवाद। मैं आज आपकी price match में मदद कर सकता हूँ। कृपया अपना order number और item की details दे सकते हैं?"
+        },
+        {
+            "role": "Customer",
+            "content": "Order number है ORD-8974-LM। ये ProBook X15 model है। मैंने आठ सौ निन्यानवे dollars दिए थे।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बहुत बढ़िया, मेरे पास आपका order आ गया है—ProBook X15, 11 November को $899.99 में खरीदा गया। आपने कहाँ कम price देखी, और कितने की थी?"
+        },
+        {
+            "role": "Customer",
+            "content": "TechWorld पे सात सौ उनचास में listed है, free shipping के साथ। अरे भई, डेढ़ सौ dollar का difference है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, मैं समझ सकता हूँ आपकी concern। मैं वो listing verify कर लेता हूँ। क्या आप specific model number बता सकते हैं, ताकि पक्का हो जाए कि हम same item की बात कर रहे हैं?"
+        },
+        {
+            "role": "Customer",
+            "content": "Model है PBX15-2024R। Same specifications, same warranty। अभी मेरे सामने competitor का ad खुला है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "शुक्रिया confirm करने के लिए। मैं model PBX15-2024R के लिए हमारी price match policy check कर रहा हूँ, TechWorld की current pricing $749.99 के against। हमारा system दिखा रहा है कि उनके पास ये उसी price पे है, standard 5-7 day shipping included।"
+        },
+        {
+            "role": "Customer",
+            "content": "बिल्कुल। आपकी price match policy में लिखा है कि आप किसी भी authorized retailer को match करेंगे। TechWorld qualify करता है ना?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी हाँ, बिल्कुल सही।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा। तो कितनी जल्दी ये adjustment process हो जाएगा और मेरे account में credit आ जाएगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं अभी price adjustment process कर रहा हूँ। आपको $150.00 का credit आपके original payment method पे 3-5 business days में मिल जाएगा, और मैं आपको confirmation number PMC-47821-B अगले कुछ minutes में email कर दूंगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "ठीक है, चलेगा। इससे मेरी warranty या return window पर तो कोई असर नहीं पड़ेगा ना?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल नहीं। आपकी warranty 11 November से पूरे 24 महीने तक active रहेगी, और आपकी 30-day return window भी वैसी ही रहेगी। Price adjustment बस difference को आपके account में credit कर देता है।"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect। क्या आप ये मेरे account में future reference के लिए note भी कर सकते हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी जरूर। मैंने price match को reference number PMC-47821-B के तहत आपके account profile में document कर दिया है। इस order के बारे में या किसी और चीज़ के लिए कुछ और help चाहिए?"
+        },
+        {
+            "role": "Customer",
+            "content": "नहीं, बस इतना ही था। इतनी efficiently handle करने के लिए शुक्रिया।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, कोई बात नहीं।"
+        },
+        {
+            "role": "Customer",
+            "content": "Quick resolution के लिए appreciate करता हूँ। आपका दिन अच्छा रहे।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अपनी technology needs के लिए हमें choose करने के लिए धन्यवाद। आपको वो confirmation email जल्दी ही मिल जाएगा सारी adjustment details के साथ। आपका दिन बहुत अच्छा रहे, और call करने के लिए शुक्रिया।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I purchased a laptop from you three days ago and found it advertised for less at a competitor."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for calling. I'd be happy to help you with a price match today. May I have your order number and the item details?"
+        },
+        {
+            "role": "Customer",
+            "content": "Order number ORD-8974-LM. It's the ProBook X15 model. I paid eight hundred ninety-nine dollars."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, I have your order here for the ProBook X15 purchased on November 11th for $899.99. Where did you find the lower price, and what was the advertised amount?"
+        },
+        {
+            "role": "Customer",
+            "content": "TechWorld has it listed at seven forty-nine with free shipping. That's a hundred fifty dollar difference."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern about the price difference. Let me verify that listing for you. Could you provide the specific model number to ensure we're comparing the exact same item?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's model PBX15-2024R. Same specifications, same warranty. I have the competitor's ad pulled up right now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for confirming. I'm checking our price match policy for model PBX15-2024R against TechWorld's current pricing of $749.99. Our system shows they do have it at that price with standard 5-7 day shipping included."
+        },
+        {
+            "role": "Customer",
+            "content": "Exactly. Your price match policy states you'll match any authorized retailer. TechWorld qualifies, correct?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely correct."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. How quickly can you process the adjustment and credit my account?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'm processing the price adjustment now. You'll receive a credit of $150.00 to your original payment method within 3-5 business days, and I'll email you confirmation number PMC-47821-B within the next few minutes."
+        },
+        {
+            "role": "Customer",
+            "content": "That's acceptable. Will this affect my warranty or return window in any way?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all. Your warranty remains active from November 11th for the full 24 months, and your 30-day return window is unchanged. The price adjustment simply credits the difference to your account."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Can you also note this in my account for future reference?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I've documented the price match under reference number PMC-47821-B in your account profile. Is there anything else I can help you with regarding this order or any other matters?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, that covers everything. Thank you for handling this efficiently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the quick resolution. Have a good day."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for choosing us for your technology needs. You'll receive that confirmation email shortly with all the adjustment details. Have an excellent day, and thank you for calling."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "4085ef92_script.json",
+    "professionalism": "professional",
+    "scenario": "asking about a price match for an item they just bought",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "businesslike_direct",
+                "calmly_frustrated"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "formally_courteous",
+                "steadily_composed"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

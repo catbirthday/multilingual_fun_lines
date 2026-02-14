@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Wait. I just saw. Forty-nine ninety-nine? Monthly? Since when—no wait, let me check—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Okay, I can definitely help you with that cancellation. Let me just pull up your account... hmm, I'm seeing subscription ID SUB-47291-MB here. Started back in March. For the premium streaming package?"
+        },
+        {
+            "role": "Customer",
+            "content": "March? That's—geez. Eight months. Of nothing. I don't even—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*sharp inhale* Yeah, I... I get it. Happens more than you'd think actually. So the system shows, uh, zero usage since May. Which is. Not great. Let me see what options I have for you here."
+        },
+        {
+            "role": "Customer",
+            "content": "Zero usage. Course. So can you just. Kill it? Now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, yes, canceling that right now... *exhales* Done. Effective immediately. Reference number is CAN-8827-XK. The thing is though. Our refund policy only covers thirty days. I wish I had better news on that front."
+        },
+        {
+            "role": "Customer",
+            "content": "Thirty days. Out of eight months. That's. Hmm. Okay so what if—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* Look, I'm... between you and me? I hate this policy. Account's showing $399.92 in charges total. Best I can officially do is that last month. But let me. Actually. Hold on."
+        },
+        {
+            "role": "Customer",
+            "content": "Four hundred—okay wait. You're checking something? Or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So there's this. Uh. Retention credit code, RET-LOYAL-50. Technically for keeping customers but. Since you had zero usage. I could maybe argue this counts as, er, service recovery? Gets you another fifty back."
+        },
+        {
+            "role": "Customer",
+            "content": "Service recovery. Ha. Sure. I mean. Better than nothing right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Right, exactly. So with both credits you'd get $99.98 back. Processing in three to five business days to your card ending in 4429. Not the full amount but. It's something at least."
+        },
+        {
+            "role": "Customer",
+            "content": "Ninety-nine ninety-eight. Out of four hundred. Well. Next time I'll. Actually check my statements."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? Set yourself a reminder. I, um. I learned that the hard way myself actually. Had a gym membership for. *nervous exhale* Fourteen months. Never went once."
+        },
+        {
+            "role": "Customer",
+            "content": "Fourteen months! Okay that's. That makes me feel. Slightly less stupid actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft laugh* Right? The worst part was driving past it every day. Anyway your confirmation email's going to CU47291@gmail. And genuinely, if there's any issue with that refund. Call back, reference CAN-8827-XK."
+        },
+        {
+            "role": "Customer",
+            "content": "Every day. Ouch. Yeah no that's. Thanks though. For the extra fifty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, I just. Wish it could be more, you know? System's already processed the cancellation so. You're all set there. No more charges going forward."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Done. One less thing to. Hmm. Actually quick question—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*inhale* Yeah, shoot. Still got your account up here. What's, uh. What's on your mind?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Wait. I just saw. Forty-nine ninety-nine? Monthly? Since when—no wait, let me check—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Okay, I can definitely help you with that cancellation. Let me just pull up your account... hmm, I'm seeing subscription ID SUB-47291-MB here. Started back in March. For the premium streaming package?"
+        },
+        {
+            "role": "Customer",
+            "content": "March? That's—geez. Eight months. Of nothing. I don't even—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*sharp inhale* Yeah, I... I get it. Happens more than you'd think actually. So the system shows, uh, zero usage since May. Which is. Not great. Let me see what options I have for you here."
+        },
+        {
+            "role": "Customer",
+            "content": "Zero usage. Course. So can you just. Kill it? Now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely, yes, canceling that right now... *exhales* Done. Effective immediately. Reference number is CAN-8827-XK. The thing is though. Our refund policy only covers thirty days. I wish I had better news on that front."
+        },
+        {
+            "role": "Customer",
+            "content": "Thirty days. Out of eight months. That's. Hmm. Okay so what if—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft exhale* Look, I'm... between you and me? I hate this policy. Account's showing $399.92 in charges total. Best I can officially do is that last month. But let me. Actually. Hold on."
+        },
+        {
+            "role": "Customer",
+            "content": "Four hundred—okay wait. You're checking something? Or..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "So there's this. Uh. Retention credit code, RET-LOYAL-50. Technically for keeping customers but. Since you had zero usage. I could maybe argue this counts as, er, service recovery? Gets you another fifty back."
+        },
+        {
+            "role": "Customer",
+            "content": "Service recovery. Ha. Sure. I mean. Better than nothing right?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*exhales* Right, exactly. So with both credits you'd get $99.98 back. Processing in three to five business days to your card ending in 4429. Not the full amount but. It's something at least."
+        },
+        {
+            "role": "Customer",
+            "content": "Ninety-nine ninety-eight. Out of four hundred. Well. Next time I'll. Actually check my statements."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Honestly? Set yourself a reminder. I, um. I learned that the hard way myself actually. Had a gym membership for. *nervous exhale* Fourteen months. Never went once."
+        },
+        {
+            "role": "Customer",
+            "content": "Fourteen months! Okay that's. That makes me feel. Slightly less stupid actually."
+        },
+        {
+            "role": "Customer Support",
+            "content": "*soft laugh* Right? The worst part was driving past it every day. Anyway your confirmation email's going to CU47291@gmail. And genuinely, if there's any issue with that refund. Call back, reference CAN-8827-XK."
+        },
+        {
+            "role": "Customer",
+            "content": "Every day. Ouch. Yeah no that's. Thanks though. For the extra fifty."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course, I just. Wish it could be more, you know? System's already processed the cancellation so. You're all set there. No more charges going forward."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Done. One less thing to. Hmm. Actually quick question—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "*inhale* Yeah, shoot. Still got your account up here. What's, uh. What's on your mind?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "e4bbb7f8_script.json",
+    "professionalism": "casual",
+    "scenario": "trying to cancel a subscription they forgot they signed up for",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "relieved_but_wary",
+                "friendly_chatty"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "false_starts",
+                    "vocalized_thinking",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "staccato_punchy"
+            }
+        },
+        "support": {
+            "emotions": [
+                "regretfully_limited",
+                "humanizing_personal"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

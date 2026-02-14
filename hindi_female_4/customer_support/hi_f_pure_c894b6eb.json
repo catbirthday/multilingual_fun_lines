@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "मुझे एक subscription cancel करनी है जो मेरे credit card पे charge हो रही है। अभी पिछले महीने की statement में देखा है मैंने।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी बिल्कुल, मैं आज ही आपकी ये cancellation में मदद कर दूंगी। क्या आप अपना email address या account number बता सकती हैं ताकि मैं आपकी subscription ढूंढ सकूं?"
+        },
+        {
+            "role": "Customer",
+            "content": "Email है robert.chen@techflow.com। Charge में \"Premium Cloud Services\" लिखा आ रहा है, 49 डॉलर का।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "धन्यवाद। मुझे आपका account मिल गया है, ACC-892745-PCS, जिसमें Premium Cloud Services की active subscription दिख रही है जो 15 मार्च 2023 से शुरू हुई थी। तब से आपको monthly bill आ रहा है।"
+        },
+        {
+            "role": "Customer",
+            "content": "पिछले साल मार्च से? अरे, मुझे तो याद भी नहीं ये service क्या करती है। बता सकती हैं मैं किस चीज़ के पैसे दे रही थी?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी हां। Premium Cloud Services में आपको 2TB encrypted cloud storage मिलता है, automated backup features हैं, और 10 devices तक priority sync की सुविधा है। आपके account में बहुत कम usage दिख रहा है, करीब 12GB total।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा तब समझ आया मुझे क्यों याद नहीं था। जरूर किसी project के दौरान sign up किया होगा जब extra storage चाहिए थी। क्या ये तुरंत cancel हो सकती है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल। मैं अभी cancellation request process कर रही हूं, reference number है CAN-2024-78234। Subscription आपके current billing cycle के अंत में यानी 15 फरवरी को terminate हो जाएगी।"
+        },
+        {
+            "role": "Customer",
+            "content": "क्या इस महीने के बचे हुए charge का कोई refund मिलेगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "चूंकि आप अपनी last billing date के 7 दिनों के अंदर हैं, मैं बाकी 23 दिनों के लिए 38 डॉलर 42 सेंट का prorated refund process कर सकती हूं। ये 3-5 business days में आ जाएगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे वाह, ये तो मेरी उम्मीद से बेहतर है। Termination date से पहले तक मैं अपनी files download तो कर सकूंगी ना?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी हां, 15 फरवरी तक आपको full access रहेगा, और उसके बाद भी 30 दिन तक read-only access रहेगा data retrieval के लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect। कोई specific चीज़ है जो मुझे करनी चाहिए ताकि मेरा सारा data आपके servers से हट जाए?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जब आप अपनी जरूरी files download कर लें, तो अपने account portal से DEL-892745-CONFIRM code use करके permanent deletion की request कर सकती हैं, या फिर cancellation के 60 दिन बाद automatically हो जाएगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "Clear timeline के लिए शुक्रिया। क्या आप मुझे इस cancellation और refund amount की written confirmation भेज सकती हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी बिल्कुल। मैं अभी robert.chen@techflow.com पर detailed confirmation email भेज रही हूं जिसमें cancellation reference CAN-2024-78234 और सारी dates होंगी जिनकी हमने बात की है।"
+        },
+        {
+            "role": "Customer",
+            "content": "बहुत अच्छा। एक आखिरी सवाल—मैंने originally ये कैसे sign up किया था? Future में ऐसी situation से बचना चाहती हूं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "आपके account history के अनुसार, आपने 15 मार्च 2023 को हमारे 30-day free trial promotion से enroll किया था, जो फिर paid subscription में convert हो गया। Initial confirmation आपके email पर भेजा गया था।"
+        },
+        {
+            "role": "Customer",
+            "content": "अब समझ आया। इतनी efficiently handle करने के लिए और refund consider करने के लिए thank you।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "आपका स्वागत है। आपकी cancellation confirm हो गई है, और email confirmation और 38 डॉलर 42 सेंट का refund बताए गए time में मिल जाना चाहिए। कुछ और है जिसमें मैं आज आपकी मदद कर सकूं?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to cancel a subscription that's been charging my credit card. I just noticed it on my statement from last month."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I'd be happy to help you with that cancellation today. May I have your email address or account number so I can locate your subscription?"
+        },
+        {
+            "role": "Customer",
+            "content": "The email is robert.chen@techflow.com. The charge shows as \"Premium Cloud Services\" for forty-nine dollars."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account, ACC-892745-PCS, showing an active Premium Cloud Services subscription initiated on March 15th, 2023. You've been billed monthly since then."
+        },
+        {
+            "role": "Customer",
+            "content": "March of last year? I don't even remember what this service does. Can you explain what I've been paying for?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Premium Cloud Services provides 2TB of encrypted cloud storage, automated backup features, and priority sync across up to 10 devices. Your account shows minimal usage, approximately 12GB total."
+        },
+        {
+            "role": "Customer",
+            "content": "That explains why I forgot about it. I must have signed up during a project that required extra storage. Can we cancel this immediately?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm processing the cancellation request now, reference number CAN-2024-78234. The subscription will terminate at the end of your current billing cycle on February 15th."
+        },
+        {
+            "role": "Customer",
+            "content": "Will I receive any refund for the unused portion of this month's charge?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Since you're within 7 days of your last billing date, I can process a prorated refund of $38.42 for the remaining 23 days of service. This will appear within 3-5 business days."
+        },
+        {
+            "role": "Customer",
+            "content": "That's better than I expected. Will I still have access to download my files before the termination date?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, you'll have full access through February 15th, and we'll maintain read-only access for an additional 30 days after that for data retrieval purposes."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Is there anything specific I need to do to ensure all my data is removed from your servers?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Once you've downloaded any files you need, you can request permanent deletion through your account portal using code DEL-892745-CONFIRM, or it will automatically occur 60 days post-cancellation."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate the clear timeline. Can you send me written confirmation of this cancellation and the refund amount?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course. I'm sending a detailed confirmation email now to robert.chen@techflow.com with cancellation reference CAN-2024-78234 and all the dates we've discussed."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. One last question—how did I originally sign up for this? I want to avoid this situation in the future."
+        },
+        {
+            "role": "Customer Support",
+            "content": "According to your account history, you enrolled through our 30-day free trial promotion on March 15th, 2023, which then converted to paid subscription. The initial confirmation was sent to your email."
+        },
+        {
+            "role": "Customer",
+            "content": "That makes sense now. Thank you for handling this so efficiently and for the refund consideration."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. Your cancellation is confirmed, and you should receive both the email confirmation and the $38.42 refund within the timeframes mentioned. Is there anything else I can assist you with today?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "c894b6eb_script.json",
+    "professionalism": "professional",
+    "scenario": "trying to cancel a subscription they forgot they signed up for",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "calmly_frustrated",
+                "analytically_minded"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "warmly_professional",
+                "briskly_efficient"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

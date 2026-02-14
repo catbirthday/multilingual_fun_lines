@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "अम्म, हेलो। माफ करिये फोन करने के लिए। मेरे पास—मेरे पास कुछ charges आये हैं जो मैंने नहीं किये।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे, यह तो चिंता की बात है। मैं अभी... हम्म, मैं अभी आपका account खोलता हूं। आपका account number क्या है? या actually, रुकिये—I can look it up by phone if that's easier."
+        },
+        {
+            "role": "Customer",
+            "content": "वह वह A-C-4-7-2-9 है। अ, sorry आपको आज यह सब deal करना पड़ रहा है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "नहीं नहीं, please माफी मत मांगिये। ठीक है तो... मुझे account AC-4729-B दिख रहा है। चलिये recent transactions check करते हैं। हम्म। मुझे कल के तीन charges दिख रहे हैं—one for $247.89, another for $512.00, और... अरे बाप रे, $1,823.44. क्या यही वाले हैं?"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ। हाँ हाँ हाँ। अम्म, मुझे पता है कि इसमें आपकी कोई गलती नहीं है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं सच में appreciate करता हूं। देखिये यहाँ... ये सब 2:14 AM और 3:47 AM Pacific time के बीच आये हैं। क्या आप... I mean, obviously आप उस वक्त shopping नहीं कर रहे थे। Let me flag these right away in our fraud system FRD-7."
+        },
+        {
+            "role": "Customer",
+            "content": "तो basically मेरे बच्चे की tuition due है। Like, कल तक।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हाय राम। ठीक है। यह तो situation बदल देता है। हम्म, क्या अगर हम... Actually, मैं यहाँ कुछ करता हूं। I'm initiating an expedited reversal—case number EXP-98234-RT. आम तौर पर 5-7 दिन लगते हैं लेकिन..."
+        },
+        {
+            "role": "Customer",
+            "content": "पांच दिन? मुझे बस—मुझे बस कल तक चाहिए। Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "हाँ हाँ। तो मैं क्या सोच रहा हूं... और यह, well, हमारे बीच की बात है? I can push this through our tier 3 escalation. आपके $2,583.33 वापस 4 घंटे के अंदर आ जाने चाहिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "क्या सच में? हे भगवान। अ, thank you. Thank you so much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं बस... ठीक है तो मुझे कुछ चीजें verify करनी होंगी। The last legitimate purchase—क्या वह Monday को Walgreens पर $43.21 वाली थी?"
+        },
+        {
+            "role": "Customer",
+            "content": "अ हाँ। Monday दोपहर। आप—आप सच में मदद कर रहे हैं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अच्छा, इससे pattern establish करने में मदद मिलती है। हम्म। अब मैं देख रहा हूं... actually यह interesting है। The fraudulent charges all originated from IP block 192.168... मैं कुछ notes बना लेता हूं। आपका नया case fast-track हो रहा है।"
+        },
+        {
+            "role": "Customer",
+            "content": "तो जैसे आगे क्या होगा? क्या मुझे—क्या मुझे कुछ चाहिए?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ठीक है तो। दो चीजें होंगी। First, आपको एक email आएगा—30 minutes के अंदर आना चाहिए—with temporary credit authorization TCA-4492. दूसरा... हम्म, मैं आपके लिए नया card भी order कर रहा हूं, expedited shipping के साथ।"
+        },
+        {
+            "role": "Customer",
+            "content": "अम्म ठीक है। ठीक है ठीक है। और tuition के पैसे?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "वह सबसे पहले restore होंगे। Actually... मैं देखता हूं... मैं manually wait period को override कर रहा हूं। हो गया। आपका available balance आज शाम 6 बजे तक पूरे $2,583.33 credit show करना चाहिए। शायद उससे पहले भी।"
+        },
+        {
+            "role": "Customer",
+            "content": "मैं sorry हूं मैं बस—thank you. सच में। यह पूरी situation बहुत awful रही है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे, बिल्कुल भी माफी मांगने की जरूरत नहीं है। यह... well, यही तो मैं यहाँ हूं। आपका confirmation number है CNF-77529-X. और honestly? अगर कुछ भी चाहिए तो वापस call कर लीजिये। Extension 4421 मांग लीजिये—that's my direct line."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Um, hi. Sorry to call. I've got—I've got charges I didn't make."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh, that's concerning. Let me... hmm, let me pull up your account right away. What's your account number? Or actually, wait—I can look it up by phone if that's easier."
+        },
+        {
+            "role": "Customer",
+            "content": "It's it's A-C-4-7-2-9. Er, sorry you're dealing with this today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no, please don't apologize. Okay so... I'm seeing account AC-4729-B here. Let me check the recent transactions. Hmm. I see three charges from yesterday—one for $247.89, another for $512.00, and... oh wow, $1,823.44. Are these the ones?"
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah. Yeah yeah yeah. Um, I know it's not your fault."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I really appreciate that. Let me see here... these all came through between 2:14 AM and 3:47 AM Pacific time. Were you... I mean, obviously you weren't shopping then. Let me flag these right away in our fraud system FRD-7."
+        },
+        {
+            "role": "Customer",
+            "content": "So basically my kid's tuition is due. Like, tomorrow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh gosh. Okay. That changes things. Hmm, what if we... Actually, let me do something here. I'm initiating an expedited reversal—case number EXP-98234-RT. Normally takes 5-7 days but..."
+        },
+        {
+            "role": "Customer",
+            "content": "Five days? I just—I just need it by tomorrow. Please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right. So here's what I'm thinking... and this is, well, between you and me? I can push this through our tier 3 escalation. Should have the $2,583.33 back within 4 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? Oh God. Er, thank you. Thank you so much."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me just... okay so I need to verify some things first. The last legitimate purchase—was that the $43.21 at Walgreens on Monday?"
+        },
+        {
+            "role": "Customer",
+            "content": "Uh yeah. Monday afternoon. You're—you're really helping here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good, that helps establish the pattern. Hmm. Now I'm seeing... actually this is interesting. The fraudulent charges all originated from IP block 192.168... Let me make some notes. Your new case is being fast-tracked."
+        },
+        {
+            "role": "Customer",
+            "content": "So like what happens next? Do I—do I need anything?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay so. Two things will happen. First, you'll get an email—should arrive within 30 minutes—with temporary credit authorization TCA-4492. Second... hmm, I'm also ordering you a new card, expedited shipping."
+        },
+        {
+            "role": "Customer",
+            "content": "Um okay. Okay okay. And the money for tuition?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That'll be restored first. Actually... let me see here... I'm manually overriding the wait period. There. Your available balance should reflect the full $2,583.33 credit by 6 PM tonight. Maybe sooner."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry I'm just—thank you. Really. This whole thing's been awful."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hey, no need to apologize at all. This is... well, this is exactly why I'm here. Your confirmation number is CNF-77529-X. And honestly? Call back if you need anything. Ask for extension 4421—that's my direct line."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "04238cd4_script.json",
+    "professionalism": "casual",
+    "scenario": "reporting unauthorized transactions on their account",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "empathetic_to_rep",
+                "desperate_pleading"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "classic_fillers",
+                    "filled_pauses",
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "carefully_diplomatic",
+                "playfully_conspiratorial"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking"
+                ],
+                "elongation": "natural_length",
+                "pacing": "halting_uneven"
+            }
+        }
+    }
+}

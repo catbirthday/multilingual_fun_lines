@@ -1,0 +1,228 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So I'm probably overreacting but like, my internet keeps cutting out? Sorry, I know you're busy."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no, please don't apologize! Let me pull up your account here... hmm, I see you're on our fiber plan at 4827 Maple Drive, and wow, I'm actually seeing some concerning patterns in your connection logs from the past 72 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, patterns? Like what kind of... I mean, is it bad?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So it's dropping, uh, about every 40 minutes which is—yeah that's really frustrating, I can imagine trying to work with that. Your modem ID shows XFR-9982-MK and it's actually reconnecting fine each time, but then just... let me check the node status real quick."
+        },
+        {
+            "role": "Customer",
+            "content": "I think maybe it's my fault? I moved the router last week, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh honestly? Moving it shouldn't cause this kind of issue at all. What I'm seeing here is, er, your local node NDX-47B is showing intermittent signal degradation, which means—well basically it's on our end, not yours, so please don't feel bad about calling!"
+        },
+        {
+            "role": "Customer",
+            "content": "But what if—God, I have a presentation tomorrow and if it drops—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay I completely understand that panic. Here's what we can do right now, um... I'm scheduling a priority tech visit for slot T-8AM-921, that's first thing tomorrow morning, and meanwhile let me see if I can... actually, hold on, trying something from my end."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow? That's—wait no, the presentation's at nine! This is—I can't—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, I really do. Alright, let me... hmm, if I boost your signal strength to level 8 temporarily and reroute you through node NDX-45A instead, that should—yeah, that might just hold you through tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? Like right now? Sorry, I don't understand the technical—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely can! So I'm making these changes now, takes about, oh, 3 minutes to propagate through the system, and your new routing code is RT-KLMN-2847 if the tech asks tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—thank you. Really. I feel stupid for panicking."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Please don't! I'd be stressed too—actually last month my internet died during my kid's virtual parent-teacher conference, so, er, I get it. The temporary fix should hold, but that tech tomorrow will replace your line tap, part number LTP-3392-X, permanently."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so basically just... wait? Will I know if it worked?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah exactly, and, uh, you should see your modem lights cycle in about—actually probably happening right now—then stay solid green. Your connection ID after this reconfig will be CNXF-8829-TMP, which the tech needs."
+        },
+        {
+            "role": "Customer",
+            "content": "They're—yeah they're blinking! Green now! Oh thank God."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Really glad that worked. Now if it drops again tonight, which—fingers crossed it won't—but if it does, call back with reference number REF-92847-EM and they'll escalate immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry I got so worked up, you've been so patient."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw no, you were totally fine! Honestly some days I talk to, mmm, way angrier people about way smaller issues. Good luck with that presentation tomorrow—you're gonna do great!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So I'm probably overreacting but like, my internet keeps cutting out? Sorry, I know you're busy."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh no no, please don't apologize! Let me pull up your account here... hmm, I see you're on our fiber plan at 4827 Maple Drive, and wow, I'm actually seeing some concerning patterns in your connection logs from the past 72 hours."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, patterns? Like what kind of... I mean, is it bad?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "So it's dropping, uh, about every 40 minutes which is—yeah that's really frustrating, I can imagine trying to work with that. Your modem ID shows XFR-9982-MK and it's actually reconnecting fine each time, but then just... let me check the node status real quick."
+        },
+        {
+            "role": "Customer",
+            "content": "I think maybe it's my fault? I moved the router last week, so..."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh honestly? Moving it shouldn't cause this kind of issue at all. What I'm seeing here is, er, your local node NDX-47B is showing intermittent signal degradation, which means—well basically it's on our end, not yours, so please don't feel bad about calling!"
+        },
+        {
+            "role": "Customer",
+            "content": "But what if—God, I have a presentation tomorrow and if it drops—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Okay I completely understand that panic. Here's what we can do right now, um... I'm scheduling a priority tech visit for slot T-8AM-921, that's first thing tomorrow morning, and meanwhile let me see if I can... actually, hold on, trying something from my end."
+        },
+        {
+            "role": "Customer",
+            "content": "Tomorrow? That's—wait no, the presentation's at nine! This is—I can't—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I hear you, I really do. Alright, let me... hmm, if I boost your signal strength to level 8 temporarily and reroute you through node NDX-45A instead, that should—yeah, that might just hold you through tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "You can do that? Like right now? Sorry, I don't understand the technical—"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely can! So I'm making these changes now, takes about, oh, 3 minutes to propagate through the system, and your new routing code is RT-KLMN-2847 if the tech asks tomorrow."
+        },
+        {
+            "role": "Customer",
+            "content": "I just—thank you. Really. I feel stupid for panicking."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Please don't! I'd be stressed too—actually last month my internet died during my kid's virtual parent-teacher conference, so, er, I get it. The temporary fix should hold, but that tech tomorrow will replace your line tap, part number LTP-3392-X, permanently."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so basically just... wait? Will I know if it worked?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah exactly, and, uh, you should see your modem lights cycle in about—actually probably happening right now—then stay solid green. Your connection ID after this reconfig will be CNXF-8829-TMP, which the tech needs."
+        },
+        {
+            "role": "Customer",
+            "content": "They're—yeah they're blinking! Green now! Oh thank God."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Really glad that worked. Now if it drops again tonight, which—fingers crossed it won't—but if it does, call back with reference number REF-92847-EM and they'll escalate immediately."
+        },
+        {
+            "role": "Customer",
+            "content": "I'm sorry I got so worked up, you've been so patient."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Aw no, you were totally fine! Honestly some days I talk to, mmm, way angrier people about way smaller issues. Good luck with that presentation tomorrow—you're gonna do great!"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "43db5b57_script.json",
+    "professionalism": "casual",
+    "scenario": "complaining that their internet service keeps dropping",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "apologetic_embarrassed",
+                "panicked_spiral"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses",
+                    "hedge_words",
+                    "breath_catches"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "variable_reactive"
+            }
+        },
+        "support": {
+            "emotions": [
+                "deeply_sympathetic",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "trailing_off"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

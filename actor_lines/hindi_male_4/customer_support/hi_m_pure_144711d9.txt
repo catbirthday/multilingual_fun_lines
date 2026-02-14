@@ -1,0 +1,93 @@
+=== Source: 144711d9_script.json ===
+Language: Hindi
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: professional
+Scenario: asking why their promotional discount code isn't working
+
+=== Translated Dialogue ===
+
+Customer [pure]: अरे भाई, मैं ये SAVE25 वाला promotional code डालने की कोशिश कर रहा हूं अपने order पे, पर... पर system बार-बार reject कर रहा है यार।
+
+Customer Support [pure]: जी, धन्यवाद contact करने के लिए। मैं अभी check करता हूं ये promotional code का issue। अम्म... आपका account का email address बता सकते हैं? जल्दी से आपकी information निकाल लूंगा।
+
+Customer [pure]: जी बिल्कुल। Account है sarah.mitchell@techcorp.com पे registered।
+
+Customer Support [pure]: परफेक्ट। मिल गया आपका account, customer ID है C-482917-M। देख रहा हूं कि आप SAVE25 apply करने की कोशिश कर रहे हैं अपने current cart पे जो कि 347.82 डॉलर का है।
+
+Customer [pure]: हां, बिल्कुल सही। कल जो email आया था उसमें लिखा था कि ये code 31 December तक valid है।
+
+Customer Support [pure]: जी, समझ गया।
+
+Customer [pure]: क्या आप verify कर सकते हैं कि ये code मेरे account के लिए काम करना चाहिए या नहीं?
+
+Customer Support [pure]: मैंने promotion के parameters check किए हैं। ये SAVE25 code के लिए minimum purchase 400 डॉलर चाहिए taxes से पहले, और आपका current subtotal है 347.82 डॉलर, जो कि 52.18 डॉलर कम है threshold से।
+
+Customer [pure]: अरे पर... promotional email में तो कोई minimum purchase requirement की बात ही नहीं थी। मेरे पास अभी है वो email, देख रहा हूं।
+
+Customer Support [pure]: मुझे खेद है इस communication में हुई गलती के लिए। रुकिए, मैं check करता हूं email campaign की settings... वो batch EMC-112023-B7 जो कल आपके segment को भेजा गया था।
+
+Customer [pure]: हां, ये देखिए जरा। इसी promotion की वजह से मैंने आज order करने का decide किया था।
+
+Customer Support [pure]: आप बिल्कुल सही कह रहे हैं। मैंने confirm किया, email template में वाकई minimum purchase का disclaimer नहीं था। ये हमारी गलती थी, और... तो मैं आपके लिए पूरा 25% discount honor करूंगा।
+
+Customer [pure]: शुक्रिया। ये discount कैसे apply होगा मेरे current order पे?
+
+Customer Support [pure]: मैं manual override credit लगा रहा हूं 86.96 डॉलर का आपके order पे, जो कि पूरा 25% discount है। आपका नया total होगा 260.86 डॉलर, 347.82 की जगह।
+
+Customer [pure]: परफेक्ट। क्या मुझे updated order confirmation मिलेगा जिसमें ये adjustment दिखेगा?
+
+Customer Support [pure]: जी बिल्कुल। आपको 5 minute के अंदर updated invoice मिल जाएगा आपके registered email पे। Confirmation number होगा ORD-7849523-WK और adjusted pricing clearly display होगी।
+
+Customer [pure]: बहुत बढ़िया। क्या ये भी ensure कर सकते हैं कि इस issue की वजह से मैं future promotions से exclude ना हो जाऊं?
+
+Customer Support [pure]: बिल्कुल जी। मैंने आपके account पे notation add कर दी है TKT-4421896, जिसमें document है कि ये हमारी error थी। आपका account good standing में है priority status P2 के साथ सभी future promotional offerings के लिए।
+
+Customer [pure]: आपके quick resolution के लिए शुक्रिया। मेरी तरफ से और कुछ करना है क्या?
+
+Customer Support [pure]: नहीं जी, आपकी तरफ से कुछ नहीं चाहिए। Discount applied हो गया है, आपका order कल ship हो जाएगा हमारी standard 2-day service से, और मैंने 500 loyalty points भी credit कर दिए हैं आपके account में इस inconvenience के लिए।
+
+
+=== Original (English) ===
+
+Customer: I'm trying to use promotional code SAVE25 on my order, but the system keeps rejecting it.
+
+Customer Support: Thank you for contacting us. Let me investigate that promotional code issue immediately. May I have your account email address to pull up your information?
+
+Customer: Certainly. The account is registered under sarah.mitchell@techcorp.com.
+
+Customer Support: Perfect. I've located your account, customer ID C-482917-M. I can see you're attempting to apply SAVE25 to your current cart totaling $347.82.
+
+Customer: That's correct. The email I received yesterday said the code was valid through December 31st.
+
+Customer Support: I understand.
+
+Customer: Can you verify whether this code should be working for my account?
+
+Customer Support: I've checked the promotion parameters. The SAVE25 code requires a minimum purchase of $400.00 before taxes, and your current subtotal is $347.82, which is $52.18 below the threshold.
+
+Customer: The promotional email didn't mention any minimum purchase requirement. I have it right here.
+
+Customer Support: I apologize for that oversight in our communication. Let me review the email campaign settings for batch EMC-112023-B7 that was sent to your segment yesterday.
+
+Customer: I'd appreciate that. This promotion influenced my decision to place this order today.
+
+Customer Support: You're absolutely right. I've confirmed the email template didn't include the minimum purchase disclaimer. This was an error on our part, and I'm going to honor the 25% discount for you.
+
+Customer: Thank you. How will you apply the discount to my current order?
+
+Customer Support: I'm applying a manual override credit of $86.96 to your order, which equals the full 25% discount. Your new total will be $260.86 instead of $347.82.
+
+Customer: Perfect. Will I receive an updated order confirmation showing this adjustment?
+
+Customer Support: Certainly. You'll receive an updated invoice within 5 minutes to your registered email. The confirmation number will be ORD-7849523-WK with the adjusted pricing clearly displayed.
+
+Customer: Excellent. Can you also ensure I'm not excluded from future promotions because of this issue?
+
+Customer Support: Absolutely. I've added notation TKT-4421896 to your account documenting this was our error. Your account remains in good standing with priority status P2 for all future promotional offerings.
+
+Customer: I appreciate your quick resolution. Is there anything else I need to do on my end?
+
+Customer Support: Nothing further required from you. The discount is applied, your order will ship tomorrow via our standard 2-day service, and I've credited your account with 500 loyalty points for the inconvenience.
+

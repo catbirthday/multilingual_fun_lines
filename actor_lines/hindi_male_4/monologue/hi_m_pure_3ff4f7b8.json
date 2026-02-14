@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[relieved] हो गए। सारे पांच हज़ार units, एकदम perfect tolerances हर एक में। यार, हाथ अभी भी थोड़े कांप रहे हैं। ये सिर्फ parts नहीं हैं, पता है ना? ये ventilators में जाने वाले हैं। असली ventilators में जो लोगों को सांस दिलाते रहेंगे। [pause] वो margin of error सोचता रहता हूं—point zero zero three millimeters। बस इतना सा। इतना सा फर्क है किसी के फेफड़ों के काम करने या ना करने में। [anxious] ये, अम्म... बहुत pressure है जब ऐसे सोचो तो। मेरा supervisor हमेशा कहता है कि end use के बारे में मत सोचो, बस specs पे focus करो, पर कैसे ना सोचें यार? [slowly] हर एक component जो मैंने आज check किया, वो किसी के सीने में जा सकता है। किसी बच्चे के सीने में शायद। [short pause] पागलपन की बात ये है कि मुझे actually में ये अच्छा लगता है। [warmly] मतलब, घर जाता हूं तो पता होता है कि मेरा काम—मेरी precision—वो सच में matter करती है। हर कोई ये नहीं कह सकता। ज़्यादातर लोग तो कोई widgets वगैरह बनाते हैं, पर ये? [passionate] इसीलिए तो इतने साल certification लेने में लगाए, इसीलिए हर सुबह calibration के पीछे पागल होता हूं। [sniffle] Sorry यार, metal parts के लिए emotional हो रहा हूं, पर ये सिर्फ parts नहीं हैं। ये किसी का कल हैं। किसी की दूसरी ज़िंदगी। [confidently] और ये perfect हैं। एक-एक piece।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[relieved] They're done. All five thousand units, perfect tolerances on every single one. God, my hands are still shaking a little. These aren't just parts, you know? These are going into ventilators. Into actual ventilators that'll keep people breathing. [pause] I keep thinking about that margin of error—point zero zero three millimeters. That's it. That's the difference between someone's lungs working or not. [anxious] It's, um... it's a lot of pressure when you think about it like that. My supervisor always says don't think about the end use, just focus on the specs, but how can you not? [slowly] Every single component I checked today might end up in someone's chest. In a kid's chest maybe. [short pause] The crazy thing is, I actually love it. [warmly] Like, I go home knowing that my work—my precision—that actually matters. Not everyone can say that. Most people make widgets or whatever, but this? [passionate] This is why I spent all those years getting certified, why I obsess over calibration every morning. [sniffle] Sorry, I'm getting all emotional about metal parts, but they're not just parts. They're somebody's tomorrow. Somebody's second chance. [confidently] And they're perfect. Every single one."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "3ff4f7b8_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your die caster precision just created components for life-saving medical devices",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

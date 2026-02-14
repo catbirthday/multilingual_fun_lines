@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "How do I know this isn't fraud? The charge says \"Digital Holdings LLC\" not your company name."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! I see what happened—that's actually our parent company billing code BH-7734. Super common confusion. Let me pull up your account real quick here."
+        },
+        {
+            "role": "Customer",
+            "content": "Parent company? Since when? This is is exactly the kind of thing scammers do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, totally get the concern. We merged back in Q2 2024 with Digital Holdings and they handle all processing through merchant ID DH-90021-X now. Your legitimate charges show under that name."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... wait, how do I verify this? Anyone could just say that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! Smart to verify. Check our website footer—you'll find merger announcement dated April 15th, 2024. Also sending confirmation code VER-8829 to your registered email right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... my bank flagged three charges. All different amounts."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it. Reading your account—transaction TRX-44561 for nineteen ninety-nine, TRX-44598 for forty-seven dollars, and TRX-44612 for nine ninety-nine. Those your subscription renewals from October through December."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... what if someone at Digital Holdings has my card information now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Actually fantastic question. Your card data stays tokenized through our original processor using encryption standard PCI-DSS-4.0. Digital Holdings never sees actual numbers—just receives payment confirmations."
+        },
+        {
+            "role": "Customer",
+            "content": "It's like a... what's the word... a recurring nightmare with online billing these days."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah, billing confusion everywhere lately. Good news though—found something interesting in your account. You've got duplicate protection coverage under plan code PRO-2847-A. Means any unauthorized charges get instant refunds."
+        },
+        {
+            "role": "Customer",
+            "content": "My my mother just had her identity stolen last month. Ten thousand dollars. Gone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow. That's terrifying."
+        },
+        {
+            "role": "Customer",
+            "content": "So I'm just—I just need to know these charges are real. Can you prove it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pulling up your purchase history right now. October nineteenth you bought premium access, November third was cloud storage upgrade SKU-88291-B, December first was annual security package."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay, I remember the security package. But forty-seven dollars?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That one's tricky—let me dig deeper. Ah! Found it. Pro-rated charge for adding two-factor authentication mid-cycle. Invoice INV-55478-QM shows partial month plus setup fee."
+        },
+        {
+            "role": "Customer",
+            "content": "Actually that... yeah, I did add that after Mom's thing happened."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Mystery solved. Want me to add a billing note to flag these as verified? Reference number REF-7749-KL for your records. Also setting up text alerts for any future Digital Holdings charges—code SMS-ALERT-22 activated."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "How do I know this isn't fraud? The charge says \"Digital Holdings LLC\" not your company name."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! I see what happened—that's actually our parent company billing code BH-7734. Super common confusion. Let me pull up your account real quick here."
+        },
+        {
+            "role": "Customer",
+            "content": "Parent company? Since when? This is is exactly the kind of thing scammers do."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, totally get the concern. We merged back in Q2 2024 with Digital Holdings and they handle all processing through merchant ID DH-90021-X now. Your legitimate charges show under that name."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so that means... wait, how do I verify this? Anyone could just say that."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely! Smart to verify. Check our website footer—you'll find merger announcement dated April 15th, 2024. Also sending confirmation code VER-8829 to your registered email right now."
+        },
+        {
+            "role": "Customer",
+            "content": "Let me see here... my bank flagged three charges. All different amounts."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it. Reading your account—transaction TRX-44561 for nineteen ninety-nine, TRX-44598 for forty-seven dollars, and TRX-44612 for nine ninety-nine. Those your subscription renewals from October through December."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, what if... what if someone at Digital Holdings has my card information now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh! Actually fantastic question. Your card data stays tokenized through our original processor using encryption standard PCI-DSS-4.0. Digital Holdings never sees actual numbers—just receives payment confirmations."
+        },
+        {
+            "role": "Customer",
+            "content": "It's like a... what's the word... a recurring nightmare with online billing these days."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah yeah, billing confusion everywhere lately. Good news though—found something interesting in your account. You've got duplicate protection coverage under plan code PRO-2847-A. Means any unauthorized charges get instant refunds."
+        },
+        {
+            "role": "Customer",
+            "content": "My my mother just had her identity stolen last month. Ten thousand dollars. Gone."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh wow. That's terrifying."
+        },
+        {
+            "role": "Customer",
+            "content": "So I'm just—I just need to know these charges are real. Can you prove it?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Pulling up your purchase history right now. October nineteenth you bought premium access, November third was cloud storage upgrade SKU-88291-B, December first was annual security package."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay okay okay, I remember the security package. But forty-seven dollars?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "That one's tricky—let me dig deeper. Ah! Found it. Pro-rated charge for adding two-factor authentication mid-cycle. Invoice INV-55478-QM shows partial month plus setup fee."
+        },
+        {
+            "role": "Customer",
+            "content": "Actually that... yeah, I did add that after Mom's thing happened."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect! Mystery solved. Want me to add a billing note to flag these as verified? Reference number REF-7749-KL for your records. Also setting up text alerts for any future Digital Holdings charges—code SMS-ALERT-22 activated."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "403ff60b_script.json",
+    "professionalism": "casual",
+    "scenario": "confused about charges appearing as a different company name",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "suspicious_paranoid",
+                "vulnerable_trusting"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "word_searching",
+                    "repetition_stutter"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "triumphant_problem_solver",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "repetition_stutter"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

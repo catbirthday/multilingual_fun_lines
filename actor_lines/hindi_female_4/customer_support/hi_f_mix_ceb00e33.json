@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to update the shipping address for an order I placed yesterday. पर वो already shipped दिखा रहा है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the urgency of your situation. मैं अभी आपका account check करती हूँ। क्या आप अपना order number या फिर purchase वाला email address दे सकती हैं?"
+        },
+        {
+            "role": "Customer",
+            "content": "The order number is 445-2891. हम offices shift कर रहे हैं और ये नई location पर चाहिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. मुझे order ORD-445-2891-XK मिल गया है जो कल 3:47 PM Eastern पर place हुआ था। Package अभी हमारे carrier के पास है, tracking number है TRK-9982-7745-MNB और आज सुबह हमारे distribution center से निकल चुका है।"
+        },
+        {
+            "role": "Customer",
+            "content": "What are my options for redirecting it? इसमें बहुत ज़रूरी equipment है जो हमें नए office में चाहिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "I understand the importance. क्या आप वो नया address दे सकती हैं जहाँ ये deliver होना चाहिए?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. नया delivery address है 4500 Corporate Plaza, Suite 200, Arlington, Virginia 22209। मैं carrier के साथ delivery intercept की कोशिश कर सकती हूँ, पर एक बार packages transit में चले जाएं तो success rate vary करता है।"
+        },
+        {
+            "role": "Customer",
+            "content": "What's the likelihood of a successful intercept? और अगर redirect नहीं हो पाया तो क्या होगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Based on the current status showing departure at 6:15 AM from facility DC-847, intercept success rate लगभग 70 percent है। अगर intercept fail हो गया, तो package आपके original address पर Thursday, January 16th को deliver होगा, और हम immediately reshipment arrange कर सकते हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "That's not ideal. क्या कोई तरीका है जिससे guarantee हो कि redirect काम करेगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern about certainty. हालांकि मैं intercept की guarantee नहीं दे सकती, लेकिन अगर fail हो जाता है तो मैं आपको priority overnight reshipment free में offer कर सकती हूँ, जिससे आपके Arlington office में Friday, January 17th को 10:30 AM तक delivery हो जाएगी।"
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that offer. कृपया intercept request के साथ proceed करिए और contingency plan document कर दीजिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. मैं अभी intercept request submit कर रही हूँ, reference number है INT-5574-2891-QRS। आपको अगले 30 minutes में email confirmation मिलेगा जिसमें intercept status और अगर ज़रूरत पड़ी तो guaranteed reshipment authorization दोनों होंगे।"
+        },
+        {
+            "role": "Customer",
+            "content": "Will I be notified immediately if the intercept succeeds or fails?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, absolutely. हमारा system आपके registered email पर real-time updates भेजेगा। Intercept का decision आम तौर पर 4-6 घंटे में हो जाता है, तो आज शाम 5:00 PM Eastern तक आपको पता चल जाना चाहिए कि successful रहा या नहीं।"
+        },
+        {
+            "role": "Customer",
+            "content": "Good. क्या आप ये भी note कर सकती हैं कि future shipments hold करें जब तक मैं अपना default address update नहीं कर देती?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. मैंने आपके account पर तुरंत shipping hold लगा दिया है, note reference है SHP-HOLD-1947। सभी future orders के लिए processing से पहले address verification की ज़रूरत होगी, और मैं आपको default shipping preferences update करने के लिए link भेज रही हूँ।"
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I needed. इतनी efficiently handle करने और clear alternatives देने के लिए धन्यवाद।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. मैंने सब कुछ case number CS-2891-4457-YTM में document कर दिया है आपके records के लिए। क्या इस order या आपके account के बारे में आज कुछ और help चाहिए?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "I need to update the shipping address for an order I placed yesterday. It's already showing as shipped."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the urgency of your situation. Let me pull up your account right away. May I have your order number or the email address associated with the purchase?"
+        },
+        {
+            "role": "Customer",
+            "content": "The order number is 445-2891. I'm relocating offices and need it sent to our new location."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located order ORD-445-2891-XK placed yesterday at 3:47 PM Eastern. The package is currently with our carrier showing tracking number TRK-9982-7745-MNB and left our distribution center this morning."
+        },
+        {
+            "role": "Customer",
+            "content": "What are my options for redirecting it? This contains critical equipment we need at the new office."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely."
+        },
+        {
+            "role": "Customer",
+            "content": "I understand the importance. Can you provide the new address where this needs to be delivered?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. The new delivery address is 4500 Corporate Plaza, Suite 200, Arlington, Virginia 22209. I can attempt a delivery intercept with our carrier, though success rates vary once packages are in transit."
+        },
+        {
+            "role": "Customer",
+            "content": "What's the likelihood of a successful intercept? And what happens if it can't be redirected?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Based on the current status showing departure at 6:15 AM from facility DC-847, intercept success rate is approximately 70 percent. If the intercept fails, the package will deliver to your original address on Thursday, January 16th, and we can arrange immediate reshipment."
+        },
+        {
+            "role": "Customer",
+            "content": "That's not ideal. Is there any way to guarantee the redirect will work?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern about certainty. While I cannot guarantee the intercept, I can offer you priority overnight reshipment at no charge if it fails, ensuring delivery to your Arlington office by Friday, January 17th at 10:30 AM."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that offer. Please proceed with the intercept request and document the contingency plan."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. I'm submitting the intercept request now with reference number INT-5574-2891-QRS. You'll receive an email confirmation within the next 30 minutes showing both the intercept status and our guaranteed reshipment authorization if needed."
+        },
+        {
+            "role": "Customer",
+            "content": "Will I be notified immediately if the intercept succeeds or fails?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yes, absolutely. Our system will send you real-time updates to your email on file. The intercept determination typically occurs within 4-6 hours, so you should know by 5:00 PM Eastern today whether it was successful."
+        },
+        {
+            "role": "Customer",
+            "content": "Good. Can you also add a note to hold any future shipments until I update my default address?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I've placed a shipping hold on your account effective immediately with note reference SHP-HOLD-1947. All future orders will require address verification before processing, and I'm sending you a link to update your default shipping preferences."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I needed. Thank you for handling this efficiently and providing clear alternatives."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've documented everything in case number CS-2891-4457-YTM for your records. Is there anything else I can assist you with regarding this order or your account today?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "ceb00e33_script.json",
+    "professionalism": "professional",
+    "scenario": "wanting to update their shipping address for an order already in transit",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "professionally_assertive",
+                "graciously_disappointed"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "graciously_accommodating",
+                "crisply_business_like"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

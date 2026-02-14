@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "नमस्ते जी। मैंने आज सुबह तीन अलग-अलग orders place किए थे और मैं चाहती हूं कि... वो सब combine हो जाएं ताकि shipping cost कम हो सके।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी नमस्ते, और contact करने के लिए धन्यवाद। मैं आपके orders को consolidate करने में जरूर मदद करूंगी। क्या आप अपना account email address या फिर पहले order का number बता सकती हैं?"
+        },
+        {
+            "role": "Customer",
+            "content": "जी वो... email है sarah.chen@techcorp.com। मैंने ये सब आज सुबह... अम्म... 9 से 10 के बीच में place किए थे।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "धन्यवाद, Ms. Chen। मुझे यहां तीनों orders दिख रहे हैं: ORD-8847-MK21, ORD-8849-MK23, और ORD-8851-MK25, shipping से पहले total 487.50 डॉलर बन रहा है।"
+        },
+        {
+            "role": "Customer",
+            "content": "जी हां, बिल्कुल सही। हर एक पे 12 डॉलर की shipping charge है, जो कि... मेरा मतलब... same address पे जा रहा है सब कुछ, ये तो बेकार है ना।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं आपकी बात पूरी तरह समझ रही हूं। आप बिल्कुल सही कह रही हैं कि इन्हें combine करने से cost कम हो जाएगी। मैं अभी हमारे fulfillment system में हर order का status check कर लेती हूं।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा, thank you। क्या आप बता सकती हैं कि system ने automatically इन्हें combine क्यों नहीं किया?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी बिल्कुल। देखिए, हमारा system orders को individually process करता है जब वो 5 minute से ज्यादा gap में place होते हैं, जो कि यहां हुआ है... आपके timestamps हैं 9:15, 9:32, और 9:48 AM।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा, समझ गई। दरअसल मैं products compare कर रही थी ना... तो जैसे-जैसे decide करती गई, add करती गई। अब क्या कर सकते हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी, good news है। अभी तक कोई भी order fulfillment में नहीं गया है, तो मैं इन तीनों को cancel करके एक single consolidated order बना सकती हूं... 36 डॉलर की जगह सिर्फ 12 डॉलर shipping के साथ।"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे वाह! बिल्कुल यही तो मैं चाहती थी। Items और pricing वही रहेंगे ना?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी हां, बिल्कुल। सारे items और promotional pricing exactly same transfer हो जाएंगे। आपका नया order number होगा ORD-8856-MK30, same 487.50 डॉलर subtotal के साथ।"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect। ये consolidation process में कितना time लगेगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं इसे अभी complete कर सकती हूं जब तक आप line पे हैं। Process में लगभग 2-3 minute लगेंगे, और उसके तुरंत बाद आपको email confirmation मिल जाएगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "बहुत बढ़िया। इससे delivery timeframe पे तो कोई फर्क नहीं पड़ेगा ना?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल नहीं जी। आपका consolidated order कल सुबह ही ship हो जाएगा... FedEx Ground से... tracking number 7734 से start होगा... और Thursday को पहुंचेगा, जैसे originally scheduled था।"
+        },
+        {
+            "role": "Customer",
+            "content": "ये तो perfect है। Future में इस situation को avoid करने का कोई तरीका है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी बिल्कुल। आप हमारे Save Cart feature का use कर सकती हैं time लेकर orders build करने के लिए, या फिर multiple orders place करने के 30 minute के अंदर हमसे contact करें automatic consolidation के लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "ये तो बहुत helpful information है। इतनी efficiently resolve करने के लिए thank you।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "आपका स्वागत है, Ms. Chen। मैंने अभी-अभी order ORD-8856-MK30 के लिए confirmation email भेज दिया है जिसमें आपकी 24 डॉलर की shipping savings दिख रही होगी। क्या आज मैं आपकी और कुछ मदद कर सकती हूं?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good afternoon. I placed three separate orders this morning and I'd like to combine them to reduce shipping costs."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good afternoon, and thank you for contacting us. I'd be happy to help you consolidate those orders. May I have your account email address or the first order number?"
+        },
+        {
+            "role": "Customer",
+            "content": "The email is sarah.chen@techcorp.com. I placed them between nine and ten this morning."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you, Ms. Chen. I can see all three orders here: ORD-8847-MK21, ORD-8849-MK23, and ORD-8851-MK25, totaling $487.50 before shipping."
+        },
+        {
+            "role": "Customer",
+            "content": "That's correct. Each has a twelve dollar shipping charge, which seems inefficient for items going to the same address."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern. You're absolutely right that combining these would reduce costs. Let me check the status of each order in our fulfillment system."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Can you explain why the system didn't automatically combine them?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Our system processes orders individually when placed more than 5 minutes apart, which happened here with timestamps at 9:15, 9:32, and 9:48 AM."
+        },
+        {
+            "role": "Customer",
+            "content": "I see. I was comparing products and adding them as I decided. What can we do now?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I have good news. Since none have entered fulfillment yet, I can cancel these three orders and create a single consolidated order with combined shipping of $12.00 instead of $36.00."
+        },
+        {
+            "role": "Customer",
+            "content": "That's exactly what I was hoping for. Will the items and pricing remain the same?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. All items and promotional pricing will transfer exactly. Your new order number will be ORD-8856-MK30, maintaining the same $487.50 subtotal."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. How long will this consolidation process take?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I can complete it right now while you're on the line. The process takes approximately 2-3 minutes, and you'll receive an email confirmation immediately after."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Will this affect the delivery timeframe at all?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Not at all. The consolidated order will ship tomorrow morning via FedEx Ground, tracking number beginning with 7734, arriving Thursday as originally scheduled."
+        },
+        {
+            "role": "Customer",
+            "content": "That works perfectly. Is there a way to avoid this situation in the future?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. You can use our Save Cart feature to build orders over time, or contact us within 30 minutes of placing multiple orders for automatic consolidation."
+        },
+        {
+            "role": "Customer",
+            "content": "That's helpful information. Thank you for resolving this so efficiently."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome, Ms. Chen. I've just sent the confirmation email for order ORD-8856-MK30 with your $24.00 shipping savings reflected. Is there anything else I can assist you with today?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "cec514c6_script.json",
+    "professionalism": "professional",
+    "scenario": "trying to combine multiple orders to save on shipping",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "graciously_disappointed",
+                "analytically_minded"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "formally_courteous",
+                "precisely_technical"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

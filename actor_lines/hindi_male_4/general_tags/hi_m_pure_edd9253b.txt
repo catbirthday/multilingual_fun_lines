@@ -1,0 +1,72 @@
+=== Source: edd9253b_scenario.json ===
+Language: Hindi
+Gender: male
+Mode: pure
+Content Type: general_tags
+Scenario: chiropractor and piano mover
+
+=== Translated Dialogue ===
+
+raw [pure]: 
+{
+    "conversation": [
+        {"role": "Character 1", "content": "[gently] I can see from how you're holding yourself that you're protecting the L4-L5 region—how long have you been compensating like this, trying to work through the pain?"},
+        {"role": "Character 2", "content": "[strained] Three months, maybe four, but yesterday something just gave out completely when I was guiding a Steinway grand down a narrow staircase, and now I can barely stand up straight."},
+        {"role": "Character 1", "content": "A Steinway grand weighs about eleven hundred pounds, and even with proper lifting mechanics and a team, that's tremendous pressure on your spine after thirty years in your profession."},
+        {"role": "Character 2", "content": "[voice breaking] Thirty-two years actually, since I was eighteen, and my father did it for forty years before me—this work is everything I know."},
+        {"role": "Character 1", "content": "[reassuringly] The MRI shows significant disc herniation but nothing that requires surgery yet, and with the right treatment protocol, we can rebuild your core stability and get you functioning again."},
+        {"role": "Character 2", "content": "Everyone keeps saying 'functioning again' like that means something, but functioning for me means being able to navigate a baby grand up three flights of stairs without my team worrying I'll collapse."},
+        {"role": "Character 1", "content": "[measured] Your body has been telling you for months that something needed to change, and now it's forcing you to listen—that's actually a gift, though I know it doesn't feel like one."},
+        {"role": "Character 2", "content": "[bitter laugh] A gift? My crew chief already replaced me on tomorrow's museum job, the one where we're moving a 1920s Bösendorfer that belonged to Rachmaninoff himself."},
+        {"role": "Character 1", "content": "Tell me about the first piano you ever moved, the one that made you fall in love with this work despite knowing what it did to your father's body."},
+        {"role": "Character 2", "content": "[softly] It was an old upright for a music teacher who'd lost her husband, and she played Chopin for us afterward while we drank lemonade in her kitchen. [pause] She said we'd given her music back."},
+        {"role": "Character 1", "content": "[warmly] That's the real work you do—not just moving instruments but preserving what they mean to people, and that knowledge doesn't live in your back, it lives in your experience."},
+        {"role": "Character 2", "content": "My son keeps saying I should transition to consulting or appraising, but how do you teach someone the feel of a piano's weight shifting, the way it wants to tip at exactly the wrong moment? [sighs]"},
+        {"role": "Character 1", "content": "[firmly] You teach it the same way I'm going to teach you new movement patterns—slowly, deliberately, with respect for what the body can and cannot do."},
+        {"role": "Character 2", "content": "The younger guys on my crew use these hydraulic dollies and powered stair climbers, acting like the old ways don't matter anymore, like muscle memory means nothing."},
+        {"role": "Character 1", "content": "[thoughtfully] Those tools exist because people like you proved the work was worth doing but too costly on the human body—using them isn't betrayal, it's evolution."},
+        {"role": "Character 2", "content": "Evolution. [hollow laugh]"},
+        {"role": "Character 1", "content": "Your expertise isn't in your ability to bear weight—it's in knowing how a piano should be wrapped, which angle prevents damage to the soundboard, where the hidden stress points are that only experience can detect."},
+        {"role": "Character 2", "content": "You sound like you've worked with piano movers before, or maybe you just understand what it's like when your body becomes your biggest liability instead of your greatest tool."},
+        {"role": "Character 1", "content": "[quietly] My mother was a concert pianist until arthritis took that away, and I watched her reinvent herself as a teacher who created more beauty through her students than she ever could alone."},
+        {"role": "Character 2", "content": "[exhales] Maybe I could try."
+    ],
+    "scenario": "A veteran piano mover visits a chiropractor after a devastating back injury that threatens to end their thirty-year career.",
+    "selected_tones": ["gentle", "expert"],
+    "type": "scenario_conversation"
+}
+
+
+
+=== Original (English) ===
+
+raw: 
+{
+    "conversation": [
+        {"role": "Character 1", "content": "[gently] I can see from how you're holding yourself that you're protecting the L4-L5 region—how long have you been compensating like this, trying to work through the pain?"},
+        {"role": "Character 2", "content": "[strained] Three months, maybe four, but yesterday something just gave out completely when I was guiding a Steinway grand down a narrow staircase, and now I can barely stand up straight."},
+        {"role": "Character 1", "content": "A Steinway grand weighs about eleven hundred pounds, and even with proper lifting mechanics and a team, that's tremendous pressure on your spine after thirty years in your profession."},
+        {"role": "Character 2", "content": "[voice breaking] Thirty-two years actually, since I was eighteen, and my father did it for forty years before me—this work is everything I know."},
+        {"role": "Character 1", "content": "[reassuringly] The MRI shows significant disc herniation but nothing that requires surgery yet, and with the right treatment protocol, we can rebuild your core stability and get you functioning again."},
+        {"role": "Character 2", "content": "Everyone keeps saying 'functioning again' like that means something, but functioning for me means being able to navigate a baby grand up three flights of stairs without my team worrying I'll collapse."},
+        {"role": "Character 1", "content": "[measured] Your body has been telling you for months that something needed to change, and now it's forcing you to listen—that's actually a gift, though I know it doesn't feel like one."},
+        {"role": "Character 2", "content": "[bitter laugh] A gift? My crew chief already replaced me on tomorrow's museum job, the one where we're moving a 1920s Bösendorfer that belonged to Rachmaninoff himself."},
+        {"role": "Character 1", "content": "Tell me about the first piano you ever moved, the one that made you fall in love with this work despite knowing what it did to your father's body."},
+        {"role": "Character 2", "content": "[softly] It was an old upright for a music teacher who'd lost her husband, and she played Chopin for us afterward while we drank lemonade in her kitchen. [pause] She said we'd given her music back."},
+        {"role": "Character 1", "content": "[warmly] That's the real work you do—not just moving instruments but preserving what they mean to people, and that knowledge doesn't live in your back, it lives in your experience."},
+        {"role": "Character 2", "content": "My son keeps saying I should transition to consulting or appraising, but how do you teach someone the feel of a piano's weight shifting, the way it wants to tip at exactly the wrong moment? [sighs]"},
+        {"role": "Character 1", "content": "[firmly] You teach it the same way I'm going to teach you new movement patterns—slowly, deliberately, with respect for what the body can and cannot do."},
+        {"role": "Character 2", "content": "The younger guys on my crew use these hydraulic dollies and powered stair climbers, acting like the old ways don't matter anymore, like muscle memory means nothing."},
+        {"role": "Character 1", "content": "[thoughtfully] Those tools exist because people like you proved the work was worth doing but too costly on the human body—using them isn't betrayal, it's evolution."},
+        {"role": "Character 2", "content": "Evolution. [hollow laugh]"},
+        {"role": "Character 1", "content": "Your expertise isn't in your ability to bear weight—it's in knowing how a piano should be wrapped, which angle prevents damage to the soundboard, where the hidden stress points are that only experience can detect."},
+        {"role": "Character 2", "content": "You sound like you've worked with piano movers before, or maybe you just understand what it's like when your body becomes your biggest liability instead of your greatest tool."},
+        {"role": "Character 1", "content": "[quietly] My mother was a concert pianist until arthritis took that away, and I watched her reinvent herself as a teacher who created more beauty through her students than she ever could alone."},
+        {"role": "Character 2", "content": "[exhales] Maybe I could try."
+    ],
+    "scenario": "A veteran piano mover visits a chiropractor after a devastating back injury that threatens to end their thirty-year career.",
+    "selected_tones": ["gentle", "expert"],
+    "type": "scenario_conversation"
+}
+
+

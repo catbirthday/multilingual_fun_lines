@@ -1,0 +1,215 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "मुझे तुमसे Mom की insurance claim के बारे में बात करनी है, और इससे पहले कि तुम कुछ कहो, हाँ, वो deny हो गई है उस coding mistake की वजह से जो 2019 में हुई थी जब तुम clinic में fill in कर रहे थे।"
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] वो चार साल पहले की बात है, मैंने वहाँ exactly तीन हफ्ते काम किया था, और तुम seriously मेरे workplace पे आकर मुझे blame कर रही हो उस चीज़ के लिए जो तब हुई थी जब मैं तुम्हारी maternity leave के दौरान cover कर रहा था?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[matter-of-factly] तुमने उनकी preventive care visit को diagnostic code कर दिया था, जिससे system में pre-existing condition का flag बन गया जो अब उनकी cancer treatment authorization को block कर रहा है।"
+        },
+        {
+            "role": "Character 2",
+            "content": "मैं पाँच मिनट पहले पौधों को पानी दे रहा था, बिल्कुल खुश, और अब तुम यहाँ आकर कह रही हो कि Mom को chemo नहीं मिलने की वजह मैं हूँ? [bitter laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "तुमने जो specific code use किया था वो 99213 था, 99385 की जगह, जो minor लगता है लेकिन इसने fundamentally उनकी medical history को हर insurance database में उस point से change कर दिया।"
+        },
+        {
+            "role": "Character 2",
+            "content": "[coldly] तुमने मुझे exactly दो घंटे की training दी थी अपना बच्चा पैदा करने जाने से पहले, मेरे पास charts का ढेर और तुम्हारे login credentials छोड़ के।"
+        },
+        {
+            "role": "Character 1",
+            "content": "[clipped] Error documented है, timestamped है, और directly तुम्हारी user activity से traceable है March पंद्रह को 2:47 PM पर।"
+        },
+        {
+            "role": "Character 2",
+            "content": "हाँ सही है, क्योंकि यहाँ यही matter करता है ना, timestamp, ये नहीं कि हमारी माँ को treatment चाहिए। [exhales sharply]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[methodically] मैंने बहत्तर घंटे इस appeal को try करने में लगाए हैं, सोलह different forms submit किए हैं, लेकिन audit trail बार-बार उसी single miscoded entry पे वापस आ जाता है।"
+        },
+        {
+            "role": "Character 2",
+            "content": "तो exactly तुम मुझसे क्या चाहती हो, एक apology उस job में perfect नहीं होने के लिए जो मैं कभी चाहता ही नहीं था और सिर्फ तुम्हारी help करने के लिए लिया था? [incredulous]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[flat] इसे ठीक करो।"
+        },
+        {
+            "role": "Character 2",
+            "content": "[harshly] ठीक करो? मैं अब nursery manage करता हूँ, पौधे उगाता हूँ, मेरे पास medical records या insurance systems का access नहीं है अब, obviously।"
+        },
+        {
+            "role": "Character 1",
+            "content": "[pressing] तुम्हारे अभी भी clinic में contacts हैं, और हमें किसी की ज़रूरत है जो administrative correction file करे एक sworn statement के साथ circumstances के बारे में।"
+        },
+        {
+            "role": "Character 2",
+            "content": "एक sworn statement जिसमें admit करूँ कि मैंने error किया है जो अब मेरी माँ को cancer treatment से रोक रहा है, जो मुझे liability के लिए open कर सकता है। [pause] यही माँग रही हो तुम।"
+        },
+        {
+            "role": "Character 1",
+            "content": "[curtly] मैं तुमसे एक बार के लिए responsibility लेने को कह रही हूँ, पौधों के साथ खेलने के लिए भाग जाने की बजाय जब चीज़ें complicated हो जाएँ।"
+        },
+        {
+            "role": "Character 2",
+            "content": "पौधों के साथ खेलना? मैंने ये business zero से बनाया है जबकि तुम अपने cubicle में बैठकर बाकी सबकी mistakes judge करती रही। [seething]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Mom के oncologist कहते हैं हमारे पास शायद दो हफ्ते हैं treatment window close होने से पहले, तो जो भी resentment तुम पाल रहे हो उसे reality के आगे back seat पे जाना होगा।"
+        },
+        {
+            "role": "Character 2",
+            "content": "ठीक है, मैं calls करूँगा, जो भी sign करना है करूँगा, लेकिन इसके बाद, हम दोनों के बीच सब खत्म।"
+        },
+        {
+            "role": "Character 1",
+            "content": "[businesslike] मैंने statement already draft कर दिया है, तुम्हारी email में है, और मुझे ये notarized और submitted चाहिए कल business hours खत्म होने से पहले।"
+        },
+        {
+            "role": "Character 2",
+            "content": "हाँ बिल्कुल, तुमने already draft कर लिया, probably यहाँ आने से पहले ही ready था, exactly पता था कि ये conversation कैसे जाएगी। [resigned exhale]"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "I need to talk to you about Mom's insurance claim, and before you say anything, yes, it got denied because of that coding mistake from 2019 when you were filling in at the clinic."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensive] That was four years ago, I worked there for exactly three weeks, and you're seriously coming to my workplace to blame me for something that happened when I was covering for your maternity leave?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[matter-of-factly] You coded her preventive care visit as diagnostic, which created a pre-existing condition flag in the system that's now blocking her cancer treatment authorization."
+        },
+        {
+            "role": "Character 2",
+            "content": "I was watering seedlings five minutes ago, perfectly content, and now you're here telling me I'm responsible for Mom not getting chemo? [bitter laugh]"
+        },
+        {
+            "role": "Character 1",
+            "content": "The specific code you used was 99213 instead of 99385, which seems minor but it fundamentally changed her medical history in every insurance database from that point forward."
+        },
+        {
+            "role": "Character 2",
+            "content": "[coldly] You trained me for exactly two hours before disappearing to have your baby, left me with a stack of charts and your login credentials."
+        },
+        {
+            "role": "Character 1",
+            "content": "[clipped] The error is documented, timestamped, and directly traceable to your user activity on March fifteenth at 2:47 PM."
+        },
+        {
+            "role": "Character 2",
+            "content": "Right, because that's what matters here, the timestamp, not the fact that our mother needs treatment. [exhales sharply]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[methodically] I've spent seventy-two hours trying to appeal this, submitted sixteen different forms, but the audit trail keeps leading back to that single miscoded entry."
+        },
+        {
+            "role": "Character 2",
+            "content": "So what exactly do you want from me, an apology for not being perfect at a job I never wanted and only took to help you? [incredulous]"
+        },
+        {
+            "role": "Character 1",
+            "content": "[flat] Fix it."
+        },
+        {
+            "role": "Character 2",
+            "content": "[harshly] Fix it? I manage a nursery now, I grow plants, I don't have access to medical records or insurance systems anymore, obviously."
+        },
+        {
+            "role": "Character 1",
+            "content": "[pressing] You still have contacts at the clinic, and we need someone to file an administrative correction with a sworn statement about the circumstances."
+        },
+        {
+            "role": "Character 2",
+            "content": "A sworn statement admitting I made an error that's now preventing my mother from getting cancer treatment, which could open me up to liability. [pause] That's what you're asking."
+        },
+        {
+            "role": "Character 1",
+            "content": "[curtly] I'm asking you to take responsibility for once, instead of running away to play with plants when things get complicated."
+        },
+        {
+            "role": "Character 2",
+            "content": "Playing with plants? I built this business from nothing while you sat in your cubicle judging everyone else's mistakes. [seething]"
+        },
+        {
+            "role": "Character 1",
+            "content": "Mom's oncologist says we have maybe two weeks before the treatment window closes, so whatever resentment you're nurturing needs to take a back seat to reality."
+        },
+        {
+            "role": "Character 2",
+            "content": "Fine, I'll make the calls, I'll sign whatever needs signing, but after this, we're done, you and me."
+        },
+        {
+            "role": "Character 1",
+            "content": "[businesslike] I already drafted the statement, it's in your email, and I need it notarized and submitted by end of business tomorrow."
+        },
+        {
+            "role": "Character 2",
+            "content": "Of course you already drafted it, probably had it ready before you even walked in here, knowing exactly how this conversation would go. [resigned exhale]"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "general_tags",
+    "source_file": "efb9b2a5_scenario.json",
+    "scenario": "A medical coder confronts their estranged sister at her nursery workplace about a coding error she made years ago that's now causing their mother's cancer treatment insurance claim to be denied.",
+    "type": "scenario_conversation",
+    "character_1_role": "medical coder",
+    "character_2_role": "nursery manager",
+    "selected_tones": [
+        "methodical",
+        "concrete",
+        "unpleasant"
+    ],
+    "tone_options": [
+        "uninvolved",
+        "methodical",
+        "hard",
+        "modern",
+        "unpleasant",
+        "insincere",
+        "disciplined",
+        "concrete",
+        "one-sided",
+        "mediocre"
+    ]
+}

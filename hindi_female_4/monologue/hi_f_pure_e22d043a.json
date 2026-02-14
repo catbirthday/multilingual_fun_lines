@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[warm] पता है आज मेरे route पे क्या हुआ? [excited] तो मैं Maple Street पे meters check कर रही थी ना, और मुझे ये... अम्म... म्याऊं-म्याऊं की आवाज़ सुनाई दी Johnsons के पोर्च के नीचे से। [curious] और वहाँ एक नारंगी सी बिल्ली बैठी थी, collar और सब कुछ पहने हुए। [empathetically] बेचारी काँप रही थी। [pause] तो मैं सोच रही हूँ, अच्छा किसी की बिल्ली खो गई होगी, और फिर मैंने सुना—[gasp softly] हे भगवान, सड़क के नीचे कुछ बच्चे बस रो रहे थे। [very sad] मतलब, सच में दिल फाड़ के रो रहे थे। उनकी माँ पोर्च पे खड़ी थी missing cat के posters लेके और मैं जैसे, एक मिनट रुको... [speeding up] ये तो वही बिल्ली है जो photo में थी! [happy] तो मैं वापस गई, और बिल्ली अभी भी वहीं थी, और मैं कोशिश कर रही थी, अ... उसे बाहर निकालने की अपने sandwich से। [chuckle] Tuna fish, यकीन करोगी? [relieved] आखिरकार उसे बाहर निकाला और सड़क के नीचे ले गई, और वो बच्चे बस—[emotional] वो मेरी तरफ़ दौड़े चिल्लाते हुए \"Whiskers!\" [crying while speaking] और उनके छोटे से चेहरे एकदम निराशा से... बस खुशी में बदल गए। [sniffle] उनकी माँ भी रोने लगी, बार-बार thank you कह रही थी। [very sincerely] मेरा मतलब, मैं तो बस meters पढ़ने गई थी, लेकिन पता नहीं कैसे आज उन बच्चों के लिए, क्या कहूँ, कोई hero बन गई।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[warm] You know what just happened on my route today? [excited] So I'm checking the meters on Maple Street, right, and I hear this, um... this meowing coming from under the Johnsons' porch. [curious] And there's this orange tabby just huddled there, collar and everything. [empathetically] Poor thing was shaking. [pause] So I'm thinking, okay, someone's missing their cat, and then I hear—[gasp softly] oh my god, these kids down the street are just sobbing. [very sad] Like, really crying their hearts out. Their mom's on the porch with missing cat posters and I'm like, wait a second... [speeding up] that's the same cat from the photo! [happy] So I go back, and the cat's still there, and I'm trying to, uh, coax it out with my sandwich. [chuckle] Tuna fish, can you believe it? [relieved] Finally got him out and walked him down the street, and these kids just—[emotional] they just ran to me screaming \"Whiskers!\" [crying while speaking] And their little faces went from total despair to just... pure joy. [sniffle] The mom started crying too, thanking me over and over. [very sincerely] I mean, I was just reading meters, but somehow I ended up being, I don't know, some kind of hero to those kids today."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "e22d043a_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your meter reading route led you to discover a lost cat and reunite it with crying children",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

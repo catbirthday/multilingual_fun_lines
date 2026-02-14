@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically I'm locked out and like, I tried my password five times already."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I see, um, let me pull up your account here... hmm, what's the email associated with it?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's sarah.chen at gmail, and like I really need to get in."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, account AC-7742-B. Yeah I can see the lockout here, er, five attempts in... wow, three minutes. Let me check what's the... what's the word... the protocol for this."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Look, basically I just need this fixed fast, I have a meeting."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so the thing is, uh, normally we'd send a reset link to your email but I'm seeing here that your recovery email bounces back—error code E401X—so let me think what else we can... hmm, okay actually I have an idea."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, my recovery email is broken too? Since when?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Shows disconnected as of, er, October 12th. But here's what I can do—I'll verify you through security questions, then basically unlock it right now instead of the usual 24-hour wait period."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Like right now right now? That would actually be amazing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, immediate unlock. So first question, uh, let me see here... what's the name of your first pet?"
+        },
+        {
+            "role": "Customer",
+            "content": "Basically it was Mr. Whiskers, so that's the answer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, and... hmm, your first car make and model?"
+        },
+        {
+            "role": "Customer",
+            "content": "Honda Civic, like the 2012 one."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Great great. Last one—ZIP code when you opened the account in 2019?"
+        },
+        {
+            "role": "Customer",
+            "content": "So that would be... *sharp inhale* oh wait, 94102, yeah definitely."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent! Okay so, um, I'm unlocking it now... just need to... there. Account AC-7742-B is active again. What I'm also gonna do is, er, generate you a temporary password—ready to write this down?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? It's done? Yes yes, so ready for the password!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's TEMP-8847-DELTA-3. All caps except the numbers obviously. You'll need to change it when you log in, but uh, that'll get you in right now."
+        },
+        {
+            "role": "Customer",
+            "content": "This is so much better than I expected, like seriously, thank you!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem! Oh and, hmm, one more thing—I've added a backup authentication method using your phone ending in 7823, just so you don't get locked out again. Should be all set now."
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "So basically I'm locked out and like, I tried my password five times already."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh I see, um, let me pull up your account here... hmm, what's the email associated with it?"
+        },
+        {
+            "role": "Customer",
+            "content": "It's sarah.chen at gmail, and like I really need to get in."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it, account AC-7742-B. Yeah I can see the lockout here, er, five attempts in... wow, three minutes. Let me check what's the... what's the word... the protocol for this."
+        },
+        {
+            "role": "Customer",
+            "content": "*exhales* Look, basically I just need this fixed fast, I have a meeting."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right, so the thing is, uh, normally we'd send a reset link to your email but I'm seeing here that your recovery email bounces back—error code E401X—so let me think what else we can... hmm, okay actually I have an idea."
+        },
+        {
+            "role": "Customer",
+            "content": "Wait, my recovery email is broken too? Since when?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Shows disconnected as of, er, October 12th. But here's what I can do—I'll verify you through security questions, then basically unlock it right now instead of the usual 24-hour wait period."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh! Like right now right now? That would actually be amazing."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yep, immediate unlock. So first question, uh, let me see here... what's the name of your first pet?"
+        },
+        {
+            "role": "Customer",
+            "content": "Basically it was Mr. Whiskers, so that's the answer."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect, and... hmm, your first car make and model?"
+        },
+        {
+            "role": "Customer",
+            "content": "Honda Civic, like the 2012 one."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Great great. Last one—ZIP code when you opened the account in 2019?"
+        },
+        {
+            "role": "Customer",
+            "content": "So that would be... *sharp inhale* oh wait, 94102, yeah definitely."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent! Okay so, um, I'm unlocking it now... just need to... there. Account AC-7742-B is active again. What I'm also gonna do is, er, generate you a temporary password—ready to write this down?"
+        },
+        {
+            "role": "Customer",
+            "content": "Wait really? It's done? Yes yes, so ready for the password!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "It's TEMP-8847-DELTA-3. All caps except the numbers obviously. You'll need to change it when you log in, but uh, that'll get you in right now."
+        },
+        {
+            "role": "Customer",
+            "content": "This is so much better than I expected, like seriously, thank you!"
+        },
+        {
+            "role": "Customer Support",
+            "content": "No problem! Oh and, hmm, one more thing—I've added a backup authentication method using your phone ending in 7823, just so you don't get locked out again. Should be all set now."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "customer_support",
+    "source_file": "12d4cdce_script.json",
+    "professionalism": "casual",
+    "scenario": "locked out of their account after too many failed password attempts",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "surprised_delighted",
+                "frustrated_impatient"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "filled_pauses",
+                    "breath_catches"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "slightly_frazzled",
+                "concentrating_quiet"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching",
+                    "vocalized_thinking"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "measured_steady"
+            }
+        }
+    }
+}

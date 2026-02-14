@@ -1,0 +1,215 @@
+{
+    "conversation": [
+        {
+            "role": "Character 1",
+            "content": "[coldly] Six months and you finally show your face at this site again, probably because corporate forced you to sign off on the repairs."
+        },
+        {
+            "role": "Character 2",
+            "content": "Look, I don't need to explain myself to you—I submitted my designs according to code and if your crew had followed proper lockout procedures, nobody would have gotten hurt."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter laugh] Right, blame the guys who trusted your specs, the ones that said the circuit was rated for half the actual load it was carrying."
+        },
+        {
+            "role": "Character 2",
+            "content": "The specifications were based on the information I was given by project management, and frankly, welders aren't qualified to evaluate electrical load calculations anyway."
+        },
+        {
+            "role": "Character 1",
+            "content": "Marcus lost two fingers, Sandra's got permanent nerve damage in her left arm, and Tommy still wakes up screaming from the nightmares. [quieter] But sure, tell me more about your paperwork."
+        },
+        {
+            "role": "Character 2",
+            "content": "Those injuries are unfortunate, but the investigation cleared me of any wrongdoing—the panel explicitly stated that multiple factors contributed to the incident."
+        },
+        {
+            "role": "Character 1",
+            "content": "[scathing] Multiple factors, yeah, like you cutting corners to meet deadlines and signing off on work you never actually inspected because you were too important to leave your office."
+        },
+        {
+            "role": "Character 2",
+            "content": "I inspected everything that was required by protocol, and I don't appreciate these accusations when you clearly don't understand the complexities of electrical system design."
+        },
+        {
+            "role": "Character 1",
+            "content": "I understand that three people trusted me to keep them safe and I failed them because I believed your signature meant something. [exhales] Won't make that mistake again."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensively] You want someone to blame because you can't accept that accidents happen in dangerous work environments, but targeting me won't change what happened."
+        },
+        {
+            "role": "Character 1",
+            "content": "Accidents happen when equipment fails randomly, not when an engineer specifies 60-amp breakers for a 120-amp load because he couldn't be bothered to verify the actual machinery specs."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] The machinery specifications provided to me indicated 60 amps, and I have the documentation to prove it—if someone changed the equipment later, that's not my responsibility."
+        },
+        {
+            "role": "Character 1",
+            "content": "That documentation you're hiding behind had the model number wrong, which anyone who actually looked at the equipment would have caught immediately."
+        },
+        {
+            "role": "Character 2",
+            "content": "Field verification wasn't part of my contracted scope, and honestly, if you were so concerned about safety, why didn't you raise these issues before the accident?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[seething] Because I trusted that someone with a master's degree and fifteen years of experience would know the difference between a 3-phase and single-phase motor rating."
+        },
+        {
+            "role": "Character 2",
+            "content": "The motor specifications in the database showed single-phase, and without a formal change order indicating otherwise, I had no reason to question it."
+        },
+        {
+            "role": "Character 1",
+            "content": "[flatly] You had no reason."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exasperated] What do you want from me? An apology? An admission of guilt that my lawyers specifically advised against? I followed protocols, documented everything, and the company's insurance covered the damages."
+        },
+        {
+            "role": "Character 1",
+            "content": "I wanted you to care that your mistake destroyed people's lives, but clearly that's too much to ask from someone who thinks human suffering is just an insurance claim. [walking away]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[calling after] You think I don't care? I haven't designed a single system since without triple-checking every specification, but admitting fault means losing my license, my career, everything I've worked for—would that really help your crew?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Character 1",
+            "content": "[coldly] Six months and you finally show your face at this site again, probably because corporate forced you to sign off on the repairs."
+        },
+        {
+            "role": "Character 2",
+            "content": "Look, I don't need to explain myself to you—I submitted my designs according to code and if your crew had followed proper lockout procedures, nobody would have gotten hurt."
+        },
+        {
+            "role": "Character 1",
+            "content": "[bitter laugh] Right, blame the guys who trusted your specs, the ones that said the circuit was rated for half the actual load it was carrying."
+        },
+        {
+            "role": "Character 2",
+            "content": "The specifications were based on the information I was given by project management, and frankly, welders aren't qualified to evaluate electrical load calculations anyway."
+        },
+        {
+            "role": "Character 1",
+            "content": "Marcus lost two fingers, Sandra's got permanent nerve damage in her left arm, and Tommy still wakes up screaming from the nightmares. [quieter] But sure, tell me more about your paperwork."
+        },
+        {
+            "role": "Character 2",
+            "content": "Those injuries are unfortunate, but the investigation cleared me of any wrongdoing—the panel explicitly stated that multiple factors contributed to the incident."
+        },
+        {
+            "role": "Character 1",
+            "content": "[scathing] Multiple factors, yeah, like you cutting corners to meet deadlines and signing off on work you never actually inspected because you were too important to leave your office."
+        },
+        {
+            "role": "Character 2",
+            "content": "I inspected everything that was required by protocol, and I don't appreciate these accusations when you clearly don't understand the complexities of electrical system design."
+        },
+        {
+            "role": "Character 1",
+            "content": "I understand that three people trusted me to keep them safe and I failed them because I believed your signature meant something. [exhales] Won't make that mistake again."
+        },
+        {
+            "role": "Character 2",
+            "content": "[defensively] You want someone to blame because you can't accept that accidents happen in dangerous work environments, but targeting me won't change what happened."
+        },
+        {
+            "role": "Character 1",
+            "content": "Accidents happen when equipment fails randomly, not when an engineer specifies 60-amp breakers for a 120-amp load because he couldn't be bothered to verify the actual machinery specs."
+        },
+        {
+            "role": "Character 2",
+            "content": "[firmly] The machinery specifications provided to me indicated 60 amps, and I have the documentation to prove it—if someone changed the equipment later, that's not my responsibility."
+        },
+        {
+            "role": "Character 1",
+            "content": "That documentation you're hiding behind had the model number wrong, which anyone who actually looked at the equipment would have caught immediately."
+        },
+        {
+            "role": "Character 2",
+            "content": "Field verification wasn't part of my contracted scope, and honestly, if you were so concerned about safety, why didn't you raise these issues before the accident?"
+        },
+        {
+            "role": "Character 1",
+            "content": "[seething] Because I trusted that someone with a master's degree and fifteen years of experience would know the difference between a 3-phase and single-phase motor rating."
+        },
+        {
+            "role": "Character 2",
+            "content": "The motor specifications in the database showed single-phase, and without a formal change order indicating otherwise, I had no reason to question it."
+        },
+        {
+            "role": "Character 1",
+            "content": "[flatly] You had no reason."
+        },
+        {
+            "role": "Character 2",
+            "content": "[exasperated] What do you want from me? An apology? An admission of guilt that my lawyers specifically advised against? I followed protocols, documented everything, and the company's insurance covered the damages."
+        },
+        {
+            "role": "Character 1",
+            "content": "I wanted you to care that your mistake destroyed people's lives, but clearly that's too much to ask from someone who thinks human suffering is just an insurance claim. [walking away]"
+        },
+        {
+            "role": "Character 2",
+            "content": "[calling after] You think I don't care? I haven't designed a single system since without triple-checking every specification, but admitting fault means losing my license, my career, everything I've worked for—would that really help your crew?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "content_type": "general_tags",
+    "source_file": "dd95db37_scenario.json",
+    "scenario": "A welder confronts the electrical engineer whose faulty wiring specifications caused a workplace accident that injured three of the welder's crew members six months ago.",
+    "type": "scenario_conversation",
+    "character_1_role": "welder",
+    "character_2_role": "electrical engineer",
+    "selected_tones": [
+        "cynical",
+        "shutting-out",
+        "wrong"
+    ],
+    "tone_options": [
+        "cold-hearted",
+        "shutting-out",
+        "borrowing",
+        "cynical",
+        "cooperative",
+        "endangering",
+        "outdated",
+        "impractical",
+        "wrong",
+        "phony"
+    ]
+}

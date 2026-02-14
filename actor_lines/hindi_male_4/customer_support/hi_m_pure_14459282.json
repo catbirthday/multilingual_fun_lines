@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "सुनिए, good morning. मैंने पिछले हफ्ते एक wireless headset खरीदा था जो completely defective निकला है। मुझे refund process करना है, please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning जी, और हमसे contact करने के लिए शुक्रिया। आपके headset में जो problem आई है उसके लिए मैं सच में माफी चाहता हूँ। मैं अभी आपका account खोलता हूँ और इसे तुरंत solve करता हूँ। क्या आप अपना order number दे सकते हैं या फिर जिस email address से purchase किया था वो बता सकते हैं?"
+        },
+        {
+            "role": "Customer",
+            "content": "Order number है WRH-8847-LM। मैंने manual में जो भी troubleshooting steps थे, सब try कर लिए हैं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "शुक्रिया। मुझे आपका order WRH-8847-LM मिल गया है जो November 12 को place हुआ था, ProAudio X7 headset के लिए, 189.99 डॉलर का। मैं देख रहा हूँ कि ये November 15 को deliver हो गया था। क्या आप briefly बता सकते हैं कि exact क्या problem आ रही है?"
+        },
+        {
+            "role": "Customer",
+            "content": "Right speaker में बिल्कुल आवाज़ ही नहीं आ रही, और Bluetooth connection हर कुछ minute में drop हो जाता है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं समझ सकता हूँ कितना frustrating होगा ये, खासकर एक premium product के साथ। ये definitely manufacturing defects हैं। मैं अभी immediately full refund authorize कर रहा हूँ, और साथ में आपको एक prepaid return label भी email कर रहा हूँ जिसमें tracking number RMA-5523901 होगा, unit वापस भेजने के लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Item receive करने के बाद refund process होने में कितना time लगेगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जब हमारी facility में item पहुंच जाएगा, तो 189.99 डॉलर का refund 24 घंटे के अंदर process हो जाएगा। उसके बाद आपके account में credit आने में typically 3-5 business days लगते हैं, ये आपके financial institution पर depend करता है।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा, ये बताइए। जब refund initiate होगा तो आप मुझे notify करेंगे?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल जी। आपको हर stage पर email confirmation मिलेगा: जब हमें package मिलेगा, जब refund process होगा जिसका transaction ID REF-2024 से शुरू होगा, और एक final confirmation जब funds आपके payment method में release होंगे।"
+        },
+        {
+            "role": "Customer",
+            "content": "बहुत बढ़िया। क्या मैं इसे किसी भी shipping location पर drop कर सकता हूँ या कोई specific requirements हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "आप किसी भी authorized shipping location पर drop कर सकते हैं। जो prepaid label मैं अभी आपकी email पर भेज रहा हूँ, उसमें barcode PLB-7763294-RT है। बस headset को किसी भी secure box में pack करिए, label चिपकाइए, और drop कर दीजिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "बहुत convenient है। Return के साथ और कुछ include करना होगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी बिल्कुल।"
+        },
+        {
+            "role": "Customer",
+            "content": "मेरा मतलब था कि charging cable और original packaging वगैरह भी भेजनी होगी?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अच्छा, clarify करने के लिए शुक्रिया। जी हाँ, please सारी original accessories जैसे charging cable, carrying case, और documentation अगर आपके पास है तो include कर दीजिए। लेकिन अगर आपने original box फेंक दिया है, तो कोई भी secure packaging चलेगी। आपके label पर जो RMA-5523901 number है, वो सब कुछ identify कर लेगा जो हमें चाहिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "मेरे पास outer box छोड़कर सब कुछ है। मैं इसे securely pack करके आज ही ship कर दूंगा।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल ठीक है। मैंने आपकी return file में note add कर दिया है कि original packaging available नहीं है। क्या इस return के बारे में या किसी और concern के लिए मैं आपकी कोई और मदद कर सकता हूँ?"
+        },
+        {
+            "role": "Customer",
+            "content": "नहीं, आपने सब कुछ thoroughly cover कर लिया है। इस process को इतना straightforward बनाने के लिए शुक्रिया।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "आपका बहुत-बहुत स्वागत है। मैंने आपके registered address पर confirmation email भेज दिया है जिसमें आपके RMA-5523901 की details और prepaid label है। Defective unit से जो inconvenience हुई उसके लिए हम सच में माफी चाहते हैं, और आपके business की हम कदर करते हैं। आपका दिन शुभ रहे।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I purchased a wireless headset last week that's completely defective. I need to process a refund, please."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for contacting us. I sincerely apologize for the issue with your headset. Let me pull up your account and get this resolved immediately. May I have your order number or the email address associated with the purchase?"
+        },
+        {
+            "role": "Customer",
+            "content": "The order number is WRH-8847-LM. I've tried all the troubleshooting steps in the manual."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your order WRH-8847-LM placed on November 12th for the ProAudio X7 headset at $189.99. I can see this was delivered on November 15th. Could you briefly describe the specific issue you're experiencing?"
+        },
+        {
+            "role": "Customer",
+            "content": "The right speaker produces no sound at all, and the Bluetooth connection drops every few minutes."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand how frustrating that must be, especially with a premium product. Those are definitely manufacturing defects. I'm authorizing a full refund immediately, and I'll also email you a prepaid return label with tracking number RMA-5523901 for sending the unit back."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. How long will the refund take to process once you receive the item?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Once we receive the item at our facility, the refund of $189.99 will be processed within 24 hours. The credit typically appears in your account within 3-5 business days after that, depending on your financial institution."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. Will you be notifying me when the refund is initiated?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. You'll receive an email confirmation at each stage: when we receive the package, when the refund is processed with transaction ID beginning with REF-2024, and a final confirmation when the funds are released to your payment method."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Can I drop this off at any shipping location or are there specific requirements?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You can drop it off at any authorized shipping location. The prepaid label I'm sending to your email right now includes barcode PLB-7763294-RT. Just pack the headset in any secure box, attach the label, and drop it off."
+        },
+        {
+            "role": "Customer",
+            "content": "That's very convenient. Is there anything else I need to include with the return?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course."
+        },
+        {
+            "role": "Customer",
+            "content": "I meant should I include the charging cable and original packaging?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you for clarifying. Yes, please include all original accessories like the charging cable, carrying case, and documentation if you still have them. However, if you've discarded the original box, any secure packaging will work. The RMA-5523901 number on your label will identify everything we need."
+        },
+        {
+            "role": "Customer",
+            "content": "I have everything except the outer box. I'll pack it securely and ship it today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "That's perfectly fine. I've added a note to your return file indicating the original packaging isn't available. Is there anything else I can assist you with today regarding this return or any other concerns?"
+        },
+        {
+            "role": "Customer",
+            "content": "No, you've covered everything thoroughly. Thank you for making this process so straightforward."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've sent the confirmation email with your RMA-5523901 details and prepaid label to your registered address. We genuinely apologize for the inconvenience with the defective unit, and we appreciate your business. Have an excellent day."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "14459282_script.json",
+    "professionalism": "professional",
+    "scenario": "requesting a refund for a defective product",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "politely_firm",
+                "businesslike_direct"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "warmly_professional",
+                "graciously_accommodating"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

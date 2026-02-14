@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[hesitantly] मैं... मैं आम तौर पर ऐसा नहीं करता, ये नोट्स छोड़ना वगैरह, लेकिन... कुछ तो कहना ज़रूरी था। [warm] आज आपकी cart service, जिस तरह से आप इतने खुशमिज़ाज थे और सच में मेरी मदद करके खुश लग रहे थे— [pause] ये शायद आपको पता नहीं कितना मायने रखता है। [very sad] सच कहूं तो इस हफ्ते बहुत बुरा चल रहा है। मेरी माँ hospital में हैं और मैं, अम्म... बस किसी तरह खुद को संभाले हुए हूं। [sniffle] और फिर आप थे वहाँ, एकदम genuine खुशी बिखेरते हुए जब मेरी groceries में मदद कर रहे थे। [smiling speaking] आपने वो मज़ाक भी किया ना कि मेरी cart में cereal के डिब्बे आपस में party कर रहे हैं। [chuckle] पता है, क्या, 3 दिन बाद पहली बार मुस्कुराया था मैं। [very sincerely] मुझे पता है ये आपकी job है friendly रहना, लेकिन ये कुछ अलग सा लगा। जैसे आप सच में... पता नहीं यार, जैसे आप सच में चाहते थे कि लोगों का दिन बेहतर हो। [emotional] तो शुक्रिया। Really। [shaky voice] कभी-कभी छोटी-छोटी चीज़ें ही होती हैं जो हमें चलाए रखती हैं, समझ रहे हो ना? वो छोटे से उजाले के टुकड़े जब बाकी सब कुछ, अम्म... impossible सा लगे। [warmly] आज आप मेरे लिए वो उजाला थे।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[hesitantly] I don't usually do this kind of thing, leaving notes and all, but... I just had to say something. [warm] Your cart service today, the way you were so cheerful and actually seemed happy to help me— [pause] it meant more than you probably realize. [very sad] I've been having such a rough week, honestly. My mom's in the hospital and I've been, um... I've been barely keeping it together. [sniffle] And then there you were, just radiating this genuine joy while helping me with my groceries. [smiling speaking] You even made that little joke about the cereal boxes having a party in my cart. [chuckle] It was the first time I'd smiled in, what, three days? [very sincerely] I know it's your job to be friendly, but this felt different somehow. Like you actually... I don't know, like you actually cared about making people's day better. [emotional] So thank you. Really. [shaky voice] Sometimes it's the smallest things that keep us going, you know? The little bright spots when everything else feels, erm... impossible. [warmly] You were my bright spot today."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "62f40d89_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "A customer leaving a note saying your cheerful cart service brightened their difficult day",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

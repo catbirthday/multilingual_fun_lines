@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. मेरा account आज सुबह suspend हो गया है बिना किसी prior notification के, और मेरे पास आज critical client deliverables हैं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning sir. मैं समझ सकता हूं आपकी situation कितनी urgent है। मैं अभी आपका account access करता हूं। क्या आप अपना account number या email address बता सकते हैं जो आपके account से linked है?"
+        },
+        {
+            "role": "Customer",
+            "content": "Email है jmorrison@techventures.com, और मुझे ये जल्दी resolve चाहिए क्योंकि मेरी presentations scheduled हैं आज afternoon में।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you sir. मुझे आपका account मिल गया है, J-Morrison-TV-8847। मैं देख रहा हूं कि suspension 6:47 AM Eastern Time पर trigger हुआ था, हमारे security system ने कुछ unusual activity detect की थी।"
+        },
+        {
+            "role": "Customer",
+            "content": "कौन सी unusual activity? मैंने तो कुछ अलग नहीं किया अपने normal workflow से।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Security log के according, 6:30 से 6:45 AM के बीच 15 मिनट में तीन अलग-अलग IP addresses से 47 login attempts हुए थे।"
+        },
+        {
+            "role": "Customer",
+            "content": "ये कैसे possible है यार। मैं तो six-thirty से अपनी desk पर बैठा हूं same computer use कर रहा हूं जो हमेशा करता हूं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मैं आपकी concern समझता हूं sir। जो IP addresses flag हुए थे वो Singapore, Brazil, और Romania की locations से थे। इससे हमारा automated Protocol 7-A security response trigger हो गया, जो तुरंत account को lock कर देता है unauthorized access prevent करने के लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "वो मैं नहीं हूं। क्या मेरा account compromise हो गया है? मुझे जानना है कि मेरा data secure है या नहीं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "आपका data secure दिख रहा है। Actually suspension ने ही unauthorized access को रोक दिया। हमारे system ने attempt number 12 के बाद सारे login attempts block कर दिए थे, जो 6:41 AM पर हुआ था, उससे पहले कोई data access नहीं हो पाया।"
+        },
+        {
+            "role": "Customer",
+            "content": "चलो, ये तो relief की बात है। अब मेरा account कैसे reinstate करें? मेरे पास client work है जो आज complete करना है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल sir। मैं अभी Priority Restoration Process initiate कर रहा हूं। पहले, मुझे आपकी identity verify करनी होगी हमारे two-factor authentication system से। आपको 7829 में ending phone number पर अगले 30 seconds में एक verification code मिलेगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ, मिल गया। Code है 894521।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Code verified हो गया। मैं अब आपके account credentials reset कर रहा हूं और Enhanced Security Protocol Level 3 implement कर रहा हूं, जो आगे एक additional layer of protection add करेगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "क्या ये मेरे account access को affect करेगा आगे? मुझे सब कुछ smoothly चाहिए अपनी presentations के लिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "आपका regular workflow impact नहीं होगा sir। Enhanced security background में run करती है और सिर्फ तभी activate होती है जब आज सुबह जैसे patterns detect करती है। आपका new temporary password अभी आपकी registered email पर भेजा जा रहा है।"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ, email दिख रहा है। ये temporary password कितने time तक valid है, और मैं अपना permanent कब set कर सकता हूं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Temporary password 24 घंटे के लिए valid है। आप login करने के immediately बाद अपना permanent password set कर सकते हैं। मैंने आपके account में एक security note भी add किया है, case number SEC-2024-11-3847, आज के incident को future reference के लिए document करते हुए।"
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. और कुछ है जो मुझे करना चाहिए ताकि ये दोबारा ना हो?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "जी हाँ। मैं recommend करूंगा कि आप अपनी primary work location के लिए हमारा IP whitelist feature enable करें। मैंने November 30 को 2:00 PM Eastern पर एक follow-up security review schedule किया है, और आपको अगले एक घंटे में additional security best practices के साथ एक email मिलेगा।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. My account was suspended this morning without any prior notification, and I have critical client deliverables due today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning. I understand the urgency of your situation. Let me access your account immediately. May I have your account number or the email address associated with your account?"
+        },
+        {
+            "role": "Customer",
+            "content": "The email is jmorrison@techventures.com, and I need this resolved quickly as I have presentations scheduled for this afternoon."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I've located your account, J-Morrison-TV-8847. I can see the suspension was triggered at 6:47 AM Eastern Time due to unusual activity detected by our security system."
+        },
+        {
+            "role": "Customer",
+            "content": "What unusual activity? I haven't done anything different from my normal workflow."
+        },
+        {
+            "role": "Customer Support",
+            "content": "According to the security log, there were 47 login attempts from three different IP addresses within a 15-minute window between 6:30 and 6:45 AM this morning."
+        },
+        {
+            "role": "Customer",
+            "content": "That's impossible. I've been at my desk since six-thirty using the same computer I always use."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand your concern. The IP addresses flagged were from locations in Singapore, Brazil, and Romania. This triggered our automated Protocol 7-A security response, which immediately locks the account to prevent unauthorized access."
+        },
+        {
+            "role": "Customer",
+            "content": "Those aren't me. Has my account been compromised? I need to know if my data is secure."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your data appears to be secure. The suspension actually prevented any unauthorized access. Our system blocked all login attempts after attempt number 12, which occurred at 6:41 AM, before any data could be accessed."
+        },
+        {
+            "role": "Customer",
+            "content": "That's a relief. How do we get my account reinstated? I have client work that needs to be completed today."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I'm initiating our Priority Restoration Process right now. First, I need to verify your identity with our two-factor authentication system. You should receive a verification code at phone number ending in 7829 within the next 30 seconds."
+        },
+        {
+            "role": "Customer",
+            "content": "I received it. The code is 894521."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Perfect. Code verified. I'm now resetting your account credentials and implementing Enhanced Security Protocol Level 3, which will add an additional layer of protection moving forward."
+        },
+        {
+            "role": "Customer",
+            "content": "Will this affect how I access my account going forward? I need everything to work smoothly for my presentations."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Your regular workflow won't be impacted. The enhanced security runs in the background and only activates if it detects patterns similar to this morning's incident. Your new temporary password is being sent to your registered email now."
+        },
+        {
+            "role": "Customer",
+            "content": "I see the email. How long is this temporary password valid, and when can I set my permanent one?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "The temporary password expires in 24 hours. You can set your permanent password immediately after logging in. I've also added a security note to your account, case number SEC-2024-11-3847, documenting today's incident for future reference."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. Is there anything else I should do to prevent this from happening again?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. I recommend enabling our IP whitelist feature for your primary work location. I've scheduled a follow-up security review for November 30th at 2:00 PM Eastern, and you'll receive an email with additional security best practices within the next hour."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "1a067ffa_script.json",
+    "professionalism": "professional",
+    "scenario": "asking why their account was suspended without warning",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "respectfully_urgent",
+                "matter_of_fact"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "crisply_business_like",
+                "confidently_authoritative"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

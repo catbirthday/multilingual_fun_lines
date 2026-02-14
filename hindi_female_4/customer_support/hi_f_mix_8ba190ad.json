@@ -1,0 +1,213 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning, मैं एक charge के बारे में call कर रही हूँ जो मेरे statement पर \"Zenith Holdings LLC\" से आया है और मैं इसे पहचान नहीं पा रही।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for calling. मैं आपकी मदद करने में खुश हूँ। क्या मैं आपका account number या फिर जिस card की बात है उसके last four digits ले सकती हूँ?"
+        },
+        {
+            "role": "Customer",
+            "content": "The card ends in 4782. Charge 73 dollars का था November 15 को।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. मैं अभी आपका account देख रही हूँ card ending 4782 वाला। मुझे वो charge दिख रहा है जिसके बारे में आप बात कर रही हैं - $73.00 का जो November 15th को post हुआ था। मैं अपने merchant database में check करती हूँ ताकि आपके लिए ये identify कर सकूं।"
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. मैंने कभी Zenith Holdings के बारे में सुना ही नहीं है और मुझे चिंता हो रही है कि कहीं ये fraudulent तो नहीं है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern. मुझे information मिल गई है। Zenith Holdings LLC actually StreamPlus Media Services की parent company billing name है। क्या आपके पास StreamPlus का active subscription है?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh, StreamPlus! हाँ, मेरे पास वो subscription है। लेकिन ये बिल्कुल अलग नाम से क्यों show हो रहा है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. StreamPlus Media Services अपनी parent company Zenith Holdings LLC के through payment processing करती है, इसीलिए आपको statement पर ये नाम दिखता है। उनका merchant identification number है MID-7743-SP21, और सारे StreamPlus charges इसी तरह appear होंगे।"
+        },
+        {
+            "role": "Customer",
+            "content": "That's quite confusing. क्या कोई तरीका है कि ये StreamPlus के नाम से display हो?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the confusion this causes. दुर्भाग्य से, billing descriptor merchant processor level पर set होता है और individually change नहीं हो सकता। लेकिन मैं आपके account profile code AN-9823 में एक permanent note add कर सकती हूँ जो इन charges को verified StreamPlus transactions के रूप में flag करेगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "That would be helpful. क्या आप ये भी बता सकती हैं कि मेरा subscription कब renew होता है और कितने का है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. आपका StreamPlus Premium subscription monthly renew होता है 15th को $73.00 के लिए, जिसमें tax included है। आपकी next billing date है December 15th, 2024, और subscription ID है STP-445-789-021।"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. क्या जब ये charges process हों तो email confirmations मिलने का कोई तरीका है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. मैं आपके account के लिए transaction alerts enable कर सकती हूँ। आपको अपने registered address पर email notifications मिलेंगी $25.00 से ऊपर की हर charge के लिए, including आपके recurring subscriptions। Alert preference code है EP-4412।"
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds ideal. कृपया इसे मेरे लिए set up कर दीजिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've activated the email alerts effective immediately. आपका confirmation number है CNF-8856-2024। आपको notifications मिलेंगी approximately दो घंटे बाद हर transaction process होने के।"
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. एक और सवाल - क्या कोई और services हैं जो different company names से show हो सकती हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me check your account comprehensively. मुझे दिख रहा है कि आपके पास CloudVault Storage भी है जो \"Digital Infrastructure Group\" के नाम से bill करता है $19.99 monthly, reference code DIG-3301। आपके account पर different billing name वाली बस यही एक और service है।"
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for that information. ये मेरे statement को समझने में बहुत helpful रहा है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. मैंने ये सारी information आपके account में document कर दी है case number CS-7749-1122 के under future reference के लिए। क्या आज आपकी billing या account के बारे में कुछ और है जिसमें मैं मदद कर सकती हूँ?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Good morning. I'm calling about a charge on my statement from \"Zenith Holdings LLC\" that I don't recognize."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Good morning, and thank you for calling. I'd be happy to help clarify that charge for you. May I please have your account number or the last four digits of the card ending in question?"
+        },
+        {
+            "role": "Customer",
+            "content": "The card ends in 4782. The charge was for seventy-three dollars on November fifteenth."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Thank you. I'm pulling up your account now with card ending 4782. I can see the charge you're referring to for $73.00 posted on November 15th. Let me check our merchant database to identify this for you."
+        },
+        {
+            "role": "Customer",
+            "content": "I appreciate that. I've never heard of Zenith Holdings before and I'm concerned this might be fraudulent."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I completely understand your concern. I've located the information. Zenith Holdings LLC is the parent company billing name for StreamPlus Media Services. Do you have an active subscription with StreamPlus?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh, StreamPlus! Yes, I do have that subscription. Why would it show up under a completely different name?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Excellent question. StreamPlus Media Services operates under their parent company Zenith Holdings LLC for payment processing, which is why you see that name on your statement. Their merchant identification number is MID-7743-SP21, and all StreamPlus charges will appear this way."
+        },
+        {
+            "role": "Customer",
+            "content": "That's quite confusing. Is there any way to have it display as StreamPlus instead?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "I understand the confusion this causes. Unfortunately, the billing descriptor is set at the merchant processor level and cannot be changed individually. However, I can add a permanent note to your account profile code AN-9823 that will flag these charges as verified StreamPlus transactions."
+        },
+        {
+            "role": "Customer",
+            "content": "That would be helpful. Can you also tell me when my subscription renews and for how much?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Certainly. Your StreamPlus Premium subscription renews monthly on the 15th for $73.00, which includes tax. Your next billing date is December 15th, 2024, and the subscription ID is STP-445-789-021."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Is there a way to get email confirmations when these charges process?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely. I can enable transaction alerts for your account. You'll receive email notifications to your registered address for any charge over $25.00, including your recurring subscriptions. The alert preference code is EP-4412."
+        },
+        {
+            "role": "Customer",
+            "content": "That sounds ideal. Please go ahead and set that up for me."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I've activated the email alerts effective immediately. Your confirmation number for this change is CNF-8856-2024. You'll receive notifications approximately two hours after each transaction processes."
+        },
+        {
+            "role": "Customer",
+            "content": "Excellent. One more question—are there any other services that might show up under different company names?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Let me check your account comprehensively. I can see you also have CloudVault Storage which bills as \"Digital Infrastructure Group\" for $19.99 monthly, reference code DIG-3301. That's the only other service with a different billing name on your account."
+        },
+        {
+            "role": "Customer",
+            "content": "Thank you for that information. This has been very helpful in understanding my statement."
+        },
+        {
+            "role": "Customer Support",
+            "content": "You're very welcome. I've documented all of this information in your account under case number CS-7749-1122 for future reference. Is there anything else I can assist you with today regarding your billing or account?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "mix",
+    "line_modes": [
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix",
+        "mix"
+    ],
+    "content_type": "customer_support",
+    "source_file": "8ba190ad_script.json",
+    "professionalism": "professional",
+    "scenario": "confused about charges appearing as a different company name",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "styles": [
+                "cordially_concerned",
+                "analytically_minded"
+            ],
+            "disfluency": "minimal"
+        },
+        "support": {
+            "styles": [
+                "formally_courteous",
+                "briskly_efficient"
+            ],
+            "disfluency": "minimal"
+        }
+    }
+}

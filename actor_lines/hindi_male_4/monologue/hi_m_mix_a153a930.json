@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shy] I saw you walking over and I just— मुझे आपको रोकना ही पड़ा। [warm] You probably don't even recognize me cleaned up like this, लेकिन मैं वही बंदा हूँ जो Fifth Street के कोने पे बैठता था। [chuckle] The one with the cardboard sign about the cosmic joke, वो याद है ना? [pause] Look, I got housed last week. [very excited] एक असली apartment मिला है, दरवाज़ा भी lock होता है और सब कुछ! [emotional] And I kept thinking about all those lunches you brought me. हर रोज़, बारिश हो या धूप। [shaky voice] You have no idea what that meant. सिर्फ खाना नहीं था, हालांकि भगवान जानता है मुझे उसकी कितनी ज़रूरत थी। [sniffle] It was that someone saw me. जैसे मैं अभी भी एक इंसान था जिसके लिए कोई आए। [pause] There were days when that sandwich was the only reason, बस वही एक वजह थी कि मैंने... पूरी तरह हार नहीं मानी। [clearing throat] I'm working now too— hardware store में part-time, लेकिन अम्म, कुछ तो है ना। [proudly] I even have a little kitchenette, अब मैं खुद अपना lunch बना सकता हूँ। [laugh] Though nothing as good as yours, वो बात अलग है। [hesitantly] I know \"thank you\" doesn't really cover it. ये दो शब्द बहुत छोटे हैं आपने जो किया उसके सामने। [very quietly] You kept me human, जब दुनिया मुझे मिटाने पे तुली थी। [warm] So... thank you. सब कुछ के लिए, सच में।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[shy] I saw you walking over and I just— I had to stop you. [warm] You probably don't even recognize me cleaned up like this, but I'm the guy from the corner of Fifth Street. [chuckle] The one with the cardboard sign about the cosmic joke. [pause] Look, I got housed last week. [very excited] An actual apartment with a door that locks and everything! [emotional] And I kept thinking about all those lunches you brought me. Every single day, rain or shine. [shaky voice] You have no idea what that meant. It wasn't just the food, though God knows I needed it. [sniffle] It was that someone saw me. [very sincerely] Like I was still a person worth showing up for. [pause] There were days when that sandwich was the only reason I didn't just... give up entirely. [clearing throat] I'm working now too— just part-time at the hardware store but it's, um, it's something. [proudly] I even have a little kitchenette where I can make my own lunches. [laugh] Though nothing as good as yours. [hesitantly] I know \"thank you\" doesn't really cover it. Those two words are so small compared to what you did. [very quietly] You kept me human when the world was trying to erase me. [warm] So... thank you. For everything."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "mix",
+    "line_modes": [
+        "mix"
+    ],
+    "content_type": "monologue",
+    "source_file": "a153a930_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "A homeless person you gave your lunch to every day just got housed and wants to thank you",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

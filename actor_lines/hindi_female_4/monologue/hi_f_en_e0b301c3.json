@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[gasp] Oh my God, I got in. I actually—wait, let me read this again. [anxious] \"Congratulations on your acceptance as our diversity initiative candidate for...\" [pause] Diversity initiative. [slowly] Right. That's... that's what this is. I mean, I knew they had the program, but seeing it written like that, it's, um... [sigh] God, why does this feel weird? [frustrated] I worked so hard for this, you know? Like, my grades, my portfolio, everything—it's all there. [defensive] But now everyone's gonna think... [trailing off] Ugh, I can already hear them. [mocking] \"Oh, you only got in because—\" No. [firmly] You know what? No. [confidently] I deserve this. My story matters, my perspective matters, and if they're finally making space for people like me, then... good. [chuckle] Honestly? Screw anyone who has a problem with it. [happy] My mom's gonna cry when I tell her. [laugh] Four generations in this country and I'm the first one to— [emotional] Wow. [pause] I mean, yeah, maybe the door opened differently for me, but I still had to walk through it, right? [excited] Oh my God, I'm actually going! [extremely happy] I'm actually going!"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[gasp] Oh my God, I got in. I actually—wait, let me read this again. [anxious] \"Congratulations on your acceptance as our diversity initiative candidate for...\" [pause] Diversity initiative. [slowly] Right. That's... that's what this is. I mean, I knew they had the program, but seeing it written like that, it's, um... [sigh] God, why does this feel weird? [frustrated] I worked so hard for this, you know? Like, my grades, my portfolio, everything—it's all there. [defensive] But now everyone's gonna think... [trailing off] Ugh, I can already hear them. [mocking] \"Oh, you only got in because—\" No. [firmly] You know what? No. [confidently] I deserve this. My story matters, my perspective matters, and if they're finally making space for people like me, then... good. [chuckle] Honestly? Screw anyone who has a problem with it. [happy] My mom's gonna cry when I tell her. [laugh] Four generations in this country and I'm the first one to— [emotional] Wow. [pause] I mean, yeah, maybe the door opened differently for me, but I still had to walk through it, right? [excited] Oh my God, I'm actually going! [extremely happy] I'm actually going!"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "e0b301c3_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Getting accepted as the target candidate for a prestigious program through affirmative action",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

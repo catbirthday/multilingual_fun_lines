@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] अरे ये... ये क्या है? मैं statement देख रही हूं और ये... ये तो zero दिखा रहा है? ये नहीं—रुको, मैं refresh करके देखती हूं। [pause] नहीं, अभी भी... अच्छा, ये कोई गलती होगी क्योंकि रिचर्ड ने कहा था पिछले महीने सब ठीक है। उसने कहा था portfolio बहुत अच्छा चल रहा है, उसने कहा—[gasps softly] हे भगवान। ये transfers। ये सारे withdrawals, ये सब... ये सब ऐसे accounts में जा रहे हैं जो मैं जानती ही नहीं। [shaky voice] ये तीस साल की बचत है। ये मेरी पूरी—[pause] मैंने उस पर पूरा भरोसा किया था। हम उसके घर dinner पे गए थे! उसके बच्चे मुझे सारा आंटी बुलाते हैं! [angry] उसने मेरे साथ ऐसा कैसे कर सकता है? मैं तिरसठ साल की हूं, मैं अब क्या—[voice breaking] मैं दोबारा शुरू नहीं कर सकती। [crying while speaking] तिरसठ की उम्र में दोबारा शुरू नहीं कर सकती। इतने सालों की कंजूसी, वो सारी छुट्टियां जो मैंने नहीं लीं, घर की मरम्मत जो मैंने टाली क्योंकि मुझे जिम्मेदार बनना था, secure रहना था, और अब... [whispering] सब खत्म हो गया। [furious] उस कमीने ने मेरा पूरा भविष्य चुरा लिया। [very quietly] मैं डेविड को क्या बताऊंगी? मैं कैसे... अपने पति को कैसे बताओगी कि तुमने किसी को सब कुछ चुराने दिया?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[confused] Wait, this can't be right. I'm looking at the statement and it's... it's showing zero? That's not—hold on, let me refresh this. [pause] No, it's still... okay, um, there has to be some mistake here because Richard said everything was fine last month. He said the portfolio was doing great, he said—[gasps softly] Oh my God. The transfers. These withdrawals, they're all... they're all going to accounts I don't recognize. [shaky voice] This is thirty years of savings. This is my entire—[pause] I trusted him with everything. We had dinner at his house! His kids call me Aunt Sarah! [angry] How could he do this to me? I'm sixty-three years old, what am I supposed to—[voice breaking] I can't start over. [crying while speaking] I can't start over at sixty-three. All those years of scrimping and saving, all those vacations I didn't take, the house repairs I put off because I wanted to be responsible, I wanted to be secure, and now... [whispering] It's all gone. [furious] That bastard stole my entire future. [very quietly] What am I going to tell David? How do I even... how do you tell your husband that you let someone steal everything?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "dba36a70_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Discovering your trusted wealth manager embezzled your entire retirement fund",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": false,
+        "start_with_tag": true
+    }
+}

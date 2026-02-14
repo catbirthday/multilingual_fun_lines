@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[exhausted] The lawyer called this morning. We won. Full custody. [pause] I should be celebrating, right? I mean, this is what I fought for. All those months in court, all that money, all those... [bitter] all those ugly things we had to say about each other. [sigh] But when I picked them up from school today, the way Emma looked at me— God, she wouldn't even make eye contact. [sad] And Jake just got in the car without saying anything. Not even his usual complaints about homework or asking what's for dinner. [whispering] They hate me. [regretful] I know they do. Their dad's the fun one, the one who never says no, who lets them stay up late and eat ice cream for breakfast. And I'm the one who, um... I'm the one who took that away. [frustrated] But they don't understand— they can't see what I see. The missed pickups, the empty promises, the— [trailing off] [pause] [very quietly] Maybe I'm just telling myself that to feel better. [crying while speaking] I did this for them. To protect them. But all they know is that Mommy made Daddy go away. [sniffle] How do I fix this? How do I make them understand that sometimes loving someone means being the bad guy?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[exhausted] The lawyer called this morning. We won. Full custody. [pause] I should be celebrating, right? I mean, this is what I fought for. All those months in court, all that money, all those... [bitter] all those ugly things we had to say about each other. [sigh] But when I picked them up from school today, the way Emma looked at me— God, she wouldn't even make eye contact. [sad] And Jake just got in the car without saying anything. Not even his usual complaints about homework or asking what's for dinner. [whispering] They hate me. [regretful] I know they do. Their dad's the fun one, the one who never says no, who lets them stay up late and eat ice cream for breakfast. And I'm the one who, um... I'm the one who took that away. [frustrated] But they don't understand— they can't see what I see. The missed pickups, the empty promises, the— [trailing off] [pause] [very quietly] Maybe I'm just telling myself that to feel better. [crying while speaking] I did this for them. To protect them. But all they know is that Mommy made Daddy go away. [sniffle] How do I fix this? How do I make them understand that sometimes loving someone means being the bad guy?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "female",
+    "mode": "en",
+    "line_modes": [
+        "en"
+    ],
+    "content_type": "monologue",
+    "source_file": "db6d5455_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Winning the custody battle for your kids but knowing they resent you for fighting their other parent",
+    "requirements": {
+        "filler_mode": "light_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}

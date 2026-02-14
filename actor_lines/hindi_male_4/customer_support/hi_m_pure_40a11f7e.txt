@@ -1,0 +1,93 @@
+=== Source: 40a11f7e_script.json ===
+Language: Hindi
+Gender: male
+Mode: pure
+Content Type: customer_support
+Professionalism: casual
+Scenario: complaining about being on hold for over an hour
+
+=== Translated Dialogue ===
+
+Customer [pure]: तो मैं जैसे एक घंटे से hold पे था। बस सोचा किसी को पता तो चले।
+
+Customer Support [pure]: अरे बाप रे। एक घंटा। ये तो बिल्कुल ठीक नहीं है। रुकिये आपका account निकालता हूँ—नाम क्या है आपका?
+
+Customer [pure]: Sarah Chen। देखिये मुझे कुछ नहीं चाहिए। बस बता रहा था।
+
+Customer Support [pure]: Sarah Chen, मिल गया। Account ACC-7294-BX। देख रहा हूँ आपने 2:47pm पे call किया और 3:52pm पे connect हुआ। ये तो बिल्कुल गलत है। किस बारे में call किया था originally?
+
+Customer [pure]: Billing की चीज़ थी। Online ही ठीक कर लिया। अब कोई बात नहीं।
+
+Customer Support [pure]: फिर भी बात तो है। आपका time matter करता है। मैं service credit add कर रहा हूँ—बीस डॉलर—reference code SVC-0318-QM इस wait के लिए। 48 घंटे में दिख जाना चाहिए।
+
+Customer [pure]: अरे नहीं नहीं, आपको ये सब... मैं तो बस ऐसे ही frustration निकाल रहा था। सॉरी।
+
+Customer Support [pure]: सॉरी मत बोलिये। Frustration निकालना तो बनता है। एक घंटा तो हद ही है। आपसे बताऊं तो... पिछले महीने से 30 percent staffing कम कर दी है, तब से hold times बेकार हो गए हैं।
+
+Customer [pure]: ओह। अच्छा... हाँ अब समझ आ रहा है। आप लोग भी परेशान होंगे इससे।
+
+Customer Support [pure]: और भी बुरा है। System दिखा रहा है आपने इस महीने चार बार call किया है। Average wait 47 minutes। ये random bad luck नहीं है—हम fail कर रहे हैं आपको।
+
+Customer [pure]: अरे ठीक है यार। सच में। मुझे lunch time में call ही नहीं करना चाहिए था शायद।
+
+Customer Support [pure]: बस करिये अब। Peak hours हैं 11am से 2pm तक लेकिन आपको अपनी life हमारी staffing problems के हिसाब से नहीं चलानी चाहिए। एक और credit add कर रहा हूँ। Total चालीस हो गया अब।
+
+Customer [pure]: सच में आपको—मेरा मतलब अब तो मुझे शर्म आ रही है कि मैंने complaint भी की।
+
+Customer Support [pure]: शर्म किस बात की? आपने इस महीने 4.2 घंटे दिए हैं सिर्फ़ wait करने में। ये तो आधा workday हो गया। मैं तो गुस्सा हो जाता।
+
+Customer [pure]: जब आप ऐसे बोलते हैं तो... हाँ ठीक है ये actually काफी बुरा है।
+
+Customer Support [pure]: ना? देखिये। आपका account VIP-7294 mark कर रहा हूँ। सब कुछ तो fix नहीं होगा लेकिन priority queue में जाएगा। Wait 10 minutes से कम रहना चाहिए।
+
+Customer [pure]: अरे आप ऐसे कर सकते हैं? मतलब आपको trouble में नहीं पड़ेंगे?
+
+Customer Support [pure]: कैसा trouble? यहाँ लिखा है "agent discretion for service recovery।" आप 2019 से हमारे साथ हैं। पांच साल। Discretion तो बनता है आपका।
+
+Customer [pure]: मैं... thank you। सच में thank you। मुझे तो उम्मीद ही नहीं थी कुछ होगा।
+
+Customer Support [pure]: यही तो problem है। आपको better की उम्मीद करनी चाहिए। हमें better होना चाहिए। Credits CSC-7294-A और CSC-7294-B के नाम से दिखेंगे। और कुछ चाहिए आज?
+
+
+=== Original (English) ===
+
+Customer: So I was on hold for like an hour. Just thought someone should know.
+
+Customer Support: Oh wow. An hour. That's not okay at all. Let me pull up your account—what's your name?
+
+Customer: Sarah Chen. Look I don't need anything. Just letting you know.
+
+Customer Support: Sarah Chen, got it. Account ACC-7294-BX. I see you called at 2:47pm and connected at 3:52pm. That's unacceptable. What were you calling about originally?
+
+Customer: Billing thing. Already fixed it online. Doesn't matter now.
+
+Customer Support: Still matters to me. Your time matters. I'm adding a service credit—twenty dollars—reference code SVC-0318-QM for the wait. Should post within 48 hours.
+
+Customer: You don't have to. I'm just venting I guess. Sorry.
+
+Customer Support: Don't apologize. Venting's valid. An hour's ridiculous. Between you and me? Our hold times have been awful since they cut staffing by 30 percent last month.
+
+Customer: Oh. That's... yeah that makes sense actually. Sorry you're dealing with that.
+
+Customer Support: Gets worse. System shows you've called four times this month. Average wait 47 minutes. That's not random bad luck—that's us failing you.
+
+Customer: It's fine. Really. I shouldn't have called during lunch probably.
+
+Customer Support: Stop that. Peak hours are 11am to 2pm but you shouldn't have to plan your life around our staffing problems. Adding another credit. Forty total now.
+
+Customer: Seriously you don't—I mean I'm embarrassed I even complained now.
+
+Customer Support: Why embarrassed? You gave us 4.2 hours of your time this month just waiting. That's half a workday. I'd be furious.
+
+Customer: When you put it like that... yeah okay that's actually pretty bad.
+
+Customer Support: Right? Look. Marking your account VIP-7294. Won't fix everything but routes you to priority queue. Should keep waits under 10 minutes.
+
+Customer: Wait you can just do that? Like you won't get in trouble?
+
+Customer Support: What trouble? Says here "agent discretion for service recovery." You've been with us since 2019. Five years. You've earned some discretion.
+
+Customer: I... thank you. Actually thank you. Wasn't expecting anything.
+
+Customer Support: That's the problem though. You should expect better. We should be better. Credits'll show as CSC-7294-A and CSC-7294-B. Anything else today?
+

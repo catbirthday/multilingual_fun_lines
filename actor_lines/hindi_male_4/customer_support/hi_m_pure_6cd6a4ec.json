@@ -1,0 +1,227 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "अरे हैलो, अम्म, एक मिनट देखता हूं... दरअसल मैं एक पैकेज के बारे में कॉल कर रहा हूं जो Monday को आना था?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे हाँ हाँ बिल्कुल मैं help कर सकता हूं कोई problem नहीं बस जल्दी से आपका account खोल लेता हूं order number क्या है या फिर phone से भी देख सकते हैं जो आपको आसान लगे?"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा ठीक है तो वो... हम्म, क्या कहूं... tracking में तीन दिन से \"in transit\" दिखा रहा है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "समझ गया समझ गया ठीक है तो मैं अभी देख रहा हूं और मुझे दिख—अरे हाँ ये रहा order PKG-4472-BN91 और आप सही कह रहे हैं ये Monday सुबह से हमारी Memphis facility में अटका है जो कि बिल्कुल normal नहीं है मैं ज़रा और detail में देखता हूं।"
+        },
+        {
+            "role": "Customer",
+            "content": "हम्म, Memphis। तो मतलब... रुकिए, ये actually move हो रहा है या बस वहीं पड़ा है?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "तो basically ये—कैसे explain करूं—ये एक तरह से limbo में है? Scan दिखा रहा है कि Monday को 3:47 AM पे Memphis पहुंचा लेकिन उसके बाद कुछ नहीं जो शायद sorting issue होगा but tension मत लीजिए ऐसा कभी-कभी होता है और हम definitely fix कर सकते हैं।"
+        },
+        {
+            "role": "Customer",
+            "content": "ठीक है तो अगर ये fixable है तो... मेरा मतलब, आपको क्या लगता है कब तक actually पहुंच जाएगा?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "देखिए मैं क्या कर सकता हूं और मुझे लगता है आपको ये पसंद आएगा—मैं अभी एक priority trace request डाल रहा हूं case number TRC-891244 और ये अगले 4 से 6 घंटे में immediately locate हो जाएगा फिर जैसे ही मिलता है बस expedited shipping no charge।"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे ये तो... actually काफी helpful है। वो, मुझे पता है ये शायद आपकी गलती भी नहीं है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे नहीं नहीं आप बिल्कुल ठीक हैं honestly मैं समझ सकता हूं packages का अटकना काफी frustrating होता है लेकिन—अरे रुकिए एक second मुझे कुछ और दिख रहा है ज़रा... हाँ ठीक है तो actually उस facility पे weather delay भी था।"
+        },
+        {
+            "role": "Customer",
+            "content": "अच्छा तो weather की वजह से है। मैं सोच रहा था... अगर trace के बाद भी move नहीं हुआ तो?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बहुत अच्छा सवाल तो अगर—और ये बहुत rare है लेकिन अगर trace 24 घंटे में काम नहीं करता तो हम full refund plus एक credit code CMP-25-DELAY देंगे जो आपके next order पे 25 percent off देगा लेकिन मुझे पूरा confidence है कि उससे बहुत पहले locate हो जाएगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "हम्म ये तो अच्छी बात है। वो... अम्म... actually lost होने versus सिर्फ delayed होने के chances कितने हैं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे बहुत कम जैसे maximum 2 percent? ज्यादातर packages—मेरा मतलब हमारे metrics के according 98.7 percent—जो ये pattern दिखाते हैं वो trace के 72 घंटे के अंदर deliver हो जाते हैं तो Thursday तक latest शायद Wednesday तक भी आ जाए।"
+        },
+        {
+            "role": "Customer",
+            "content": "ठीक है तो Wednesday या Thursday। ये... हाँ actually ये चल सकता है। Thanks ये सब check करने के लिए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे बिल्कुल बिल्कुल और सुनिए मैं आपके account ACC-7829301-B पे एक note भी add कर रहा हूं कि ये weather-related था तो अगर आपको दोबारा call करनी पड़े तो बस ये reference दे दीजिए और कोई भी यहीं से pick up कर लेगा खुद को repeat नहीं करना पड़ेगा।"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे perfect, ये तो thoughtful है। तो मैं बस... trace के kick in होने का wait करूं?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल हाँ और आपको texts आएंगे 415-555-8827 पे—ये वही number है ना file में?—जब भी कोई scan update होगा plus मैं personally अगले कुछ घंटे monitor करूंगा make sure करूंगा कि move हो।"
+        },
+        {
+            "role": "Customer",
+            "content": "हाँ वही मेरा number है। सच में appreciate करता हूं कि आपने time निकाला और जैसे... actually help की।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे बिल्कुल इसीलिए तो मैं यहां हूं और honestly—अरे हाँ actually एक और चीज़ अगर आप हमारी app download करें तो map feature है order tracking code TRK-4472 जहां आप literally real time में देख सकते हैं कि कहां move हो रहा है जो मुझे लगता है काफी cool है शायद waiting में help करे?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, um, let me see here... I'm calling about a package that was supposed to arrive Monday?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Hi there yes absolutely I can help with that no problem let me just pull up your account real quick what's the order number or I can look it up by phone if that's easier?"
+        },
+        {
+            "role": "Customer",
+            "content": "Oh okay so it's... hmm, what's the word... the tracking says \"in transit\" for three days now."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Got it got it okay so I'm pulling that up now and I can see—oh yeah there it is order PKG-4472-BN91 and you're right it's been stuck at our Memphis facility since Monday morning which is definitely not normal let me dig into this."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm, Memphis. So that means... wait, is it actually moving or just sitting there?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right so basically it's—how do I explain this—it's sort of in limbo? The scan shows it arrived at Memphis at 3:47 AM Monday but then nothing after that which probably means there was a sorting issue but don't worry this happens sometimes and we can definitely fix it."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so if it's fixable then... I mean, when do you think it might actually arrive?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Well here's what I can do and I think you'll like this—I'm putting in a priority trace request right now case number TRC-891244 and that'll flag it for immediate location within the next 4 to 6 hours then once we find it boom expedited shipping no charge."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh that's... that's actually really helpful. Er, I know this probably isn't your fault anyway."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no you're totally fine honestly I get it packages getting stuck is super frustrating but—oh wait hang on I'm seeing something else here let me just... yep okay so there was actually a weather delay at that facility too."
+        },
+        {
+            "role": "Customer",
+            "content": "Ahh okay so it's weather. Let me think... what if it doesn't move after the trace?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Great question so if—and this is rare but if the trace doesn't work within 24 hours we'd issue a full refund plus a credit code CMP-25-DELAY for 25 percent off your next order but I'm pretty confident we'll locate it way before then."
+        },
+        {
+            "role": "Customer",
+            "content": "Hmm that's reassuring. What's the... er... the likelihood it's actually lost versus just delayed?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh super low like maybe 2 percent tops? Most packages—and I mean like 98.7 percent according to our metrics—that show this pattern get delivered within 72 hours of the trace so you should have it by Thursday latest probably Wednesday even."
+        },
+        {
+            "role": "Customer",
+            "content": "Okay so Wednesday or Thursday. That's... yeah that could work actually. Thanks for checking all this."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Of course of course and hey I'm also adding a note to your account ACC-7829301-B that this was weather-related so if you need to call back just reference that and anyone can pick up right where we left off no repeating yourself."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh perfect, that's thoughtful. So I just... wait for the trace to kick in then?"
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly yes and you'll get texts to 415-555-8827—that's the number on file right?—every time there's a scan update plus I'm gonna personally monitor this for the next few hours make sure it gets moving."
+        },
+        {
+            "role": "Customer",
+            "content": "Yeah that's my number. I really appreciate you taking the time to sort of... actually help here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely that's what I'm here for and honestly—ooh actually one more thing if you download our app there's a map feature order tracking code TRK-4472 where you can literally watch it move in real time which I think is kinda cool might help with the waiting?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "6cd6a4ec_script.json",
+    "professionalism": "casual",
+    "scenario": "asking about a delayed package that was supposed to arrive three days ago",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "cautiously_hopeful",
+                "empathetic_to_rep"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "word_searching"
+                ],
+                "elongation": "natural_length",
+                "pacing": "measured_steady"
+            }
+        },
+        "support": {
+            "emotions": [
+                "gently_reassuring",
+                "triumphant_problem_solver"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "word_searching",
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

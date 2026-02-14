@@ -1,0 +1,226 @@
+{
+    "conversation": [
+        {
+            "role": "Customer",
+            "content": "हाय, अम्म, मेरी एक अजीब सी situation है delivery ORD-4421-BK के साथ।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अरे हेलो जी हाँ बिल्कुल अभी देखता हूँ आपके लिए ठीक है तो मेरे screen पे order ORD-4421-BK आ गया है और दिख रहा है कि कल 2:47 PM पे delivered mark हो गया था address 8823 Willow Street पे ये सही है ना?"
+        },
+        {
+            "role": "Customer",
+            "content": "Address तो यही है but यहाँ literally कुछ भी नहीं है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "अच्छा अच्छा ठीक है तो देखते हैं क्या scene है—कभी-कभी drivers गलत जगह पे complete mark कर देते हैं या फिर किसी neighbor के पास छोड़ देते हैं unit 8825 या 8821 में आपने check किया क्या आसपास?"
+        },
+        {
+            "role": "Customer",
+            "content": "सब जगह check कर लिया है। देखिए, मुझे पता है आप बस अपना काम कर रहे हैं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "नहीं नहीं मुझे totally समझ आ रहा है ये बहुत frustrating होता है जब system कुछ और बता रहा हो और reality कुछ और हो—रुकिए थोड़ा और deep में देखता हूँ ठीक है तो GPS coordinates show कर रहे हैं delivery latitude 41.8827 longitude negative 87.6233 पे जो आपके exact doorstep पे होना चाहिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "अगर वो invisible नहीं है तो वहाँ नहीं है।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हाँ वो—अच्छा मैं आपसे सच बोलूं तो ये चीज़ जितनी होनी चाहिए उससे ज्यादा होती है और ये थोड़ा ridiculous है but अभी मैं आपके लिए क्या कर सकता हूँ—मैं case number CS-9847-XM22 file कर रहा हूँ और immediate replacement shipment trigger कर रहा हूँ।"
+        },
+        {
+            "role": "Customer",
+            "content": "अरे। ये तो सच में helpful है, thanks।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "बिल्कुल जी तो आपका new tracking होगा TRK-6623-PP91 और honestly आपसे और मुझसे बीच की बात है वो delivery confirmation photos जो उन्हें लेने होते हैं? Driver ने upload ही नहीं किया जो काफी कुछ बता देता है अगर आप मुझसे पूछें तो।"
+        },
+        {
+            "role": "Customer",
+            "content": "Of course नहीं किया। Classic।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "ना? मतलब बस एक button है photo लो but खैर आपका replacement आज ही ship होगा warehouse ZIP 60607 से और मैं signature required mark कर रहा हूँ ताकि ये दोबारा ना हो probably Thursday तक latest आ जाना चाहिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "Signature required smart है। पहली बार में ही करना चाहिए था।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "हाँ मेरा मतलब technically दो सौ से ऊपर के orders पे automatically ये flag आना चाहिए but कभी-कभी system बस—अरे रुकिए actually credit code MISS-DELIV-20 apply कर देता हूँ बीस डॉलर आपकी परेशानी के लिए।"
+        },
+        {
+            "role": "Customer",
+            "content": "आपको ये करने की जरूरत नहीं है but appreciate करता हूँ।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "नहीं नहीं already हो गया दो second लगते हैं और देखिए आप बहुत cool रहे हैं इस पूरी चीज़ के बारे में जबकि honestly ज्यादातर लोग अभी तक मुझ पर चिल्ला रहे होते तो सब कुछ का reference number है REF-3982-QT।"
+        },
+        {
+            "role": "Customer",
+            "content": "Trust me, चिल्लाने से किसी का फायदा नहीं। हम दोनों इस system में फंसे हैं।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "एकदम सही हाँ thank you ये समझने के लिए—ठीक है तो बस wrap up करने के लिए आपका replacement order tracking TRK-6623-PP91 Thursday आएगा signature के साथ case number CS-9847-XM22 अगर follow up करना हो और वो बीस डॉलर credit।"
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect। उम्मीद करते हैं इस बार actually, अ, exist करे जब आए।"
+        },
+        {
+            "role": "Customer Support",
+            "content": "मुझे लगता है करेगा—fingers crossed ना? But seriously अगर इस बार भी कुछ weird हो तो आप वापस call करिए मुझे पूछिए extension 4479 और मैं sort of उस level तक escalate करूंगा जहाँ चीज़ें actually fix होती हैं आप समझ रहे हैं ना मेरी बात?"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Customer",
+            "content": "Hi, um, I've got a weird situation with delivery ORD-4421-BK."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Oh hey there yes absolutely let me pull that right up for you okay so I've got order ORD-4421-BK here on my screen and I can see it was marked delivered yesterday at 2:47 PM to address 8823 Willow Street is that correct?"
+        },
+        {
+            "role": "Customer",
+            "content": "That's the address but there's literally nothing here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right right okay so let me see here what we're looking at—sometimes drivers mark things complete at the wrong spot or maybe left it with a neighbor at unit 8825 or 8821 have you had a chance to check around?"
+        },
+        {
+            "role": "Customer",
+            "content": "Already checked everywhere. Look, I know you're just doing your job here."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no I totally get it this is super frustrating when the system says one thing but reality's different—lemme dig deeper here okay so GPS coordinates show delivery at latitude 41.8827 longitude negative 87.6233 which should be your exact doorstep."
+        },
+        {
+            "role": "Customer",
+            "content": "Well unless it's invisible, it's not there."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah that's—okay I'm gonna level with you this happens more than it should and it's kinda ridiculous but here's what I can do right now today—I'm filing case number CS-9847-XM22 and triggering immediate replacement shipment."
+        },
+        {
+            "role": "Customer",
+            "content": "Oh. That's actually really helpful, thanks."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Absolutely yes so your new tracking'll be TRK-6623-PP91 and honestly between you and me the delivery confirmation photos they're supposed to take? Driver didn't upload one which is pretty telling if you ask me."
+        },
+        {
+            "role": "Customer",
+            "content": "Of course they didn't. Classic."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Right? Like it's one button just take the picture but anyway your replacement ships today from warehouse ZIP 60607 and I'm marking it signature required so this won't happen again probably arrives Thursday latest."
+        },
+        {
+            "role": "Customer",
+            "content": "Signature required is smart. Should've done that the first time."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Yeah I mean technically orders over two hundred automatically should get that flag but sometimes the system just doesn't—hmm wait actually let me apply credit code MISS-DELIV-20 that's twenty dollars for the hassle."
+        },
+        {
+            "role": "Customer",
+            "content": "You don't have to do that but I appreciate it."
+        },
+        {
+            "role": "Customer Support",
+            "content": "No no it's already done takes two seconds and look you've been super cool about this whole thing when honestly most people would be yelling at me right now so reference number for everything is REF-3982-QT."
+        },
+        {
+            "role": "Customer",
+            "content": "Trust me, the yelling doesn't help anyone. We're both stuck with the system."
+        },
+        {
+            "role": "Customer Support",
+            "content": "Exactly yes thank you for getting that—okay so just to wrap up you've got replacement order tracking TRK-6623-PP91 arriving Thursday with signature case number CS-9847-XM22 if you need to follow up and that twenty dollar credit."
+        },
+        {
+            "role": "Customer",
+            "content": "Perfect. Let's hope this one actually, uh, exists when it arrives."
+        },
+        {
+            "role": "Customer Support",
+            "content": "I think it will—fingers crossed right? But seriously if anything goes weird with this one you call back ask for me extension 4479 and I'll sort of escalate it to the level where things actually get fixed you know what I mean?"
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure",
+        "pure"
+    ],
+    "content_type": "customer_support",
+    "source_file": "08970957_script.json",
+    "professionalism": "casual",
+    "scenario": "reporting that their delivery was marked complete but never arrived",
+    "type": "customer_support_conversation",
+    "character_profiles": {
+        "customer": {
+            "emotions": [
+                "empathetic_to_rep",
+                "annoyed_sarcastic"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "classic_fillers"
+                ],
+                "elongation": "natural_length",
+                "pacing": "quick_efficient"
+            }
+        },
+        "support": {
+            "emotions": [
+                "cheerfully_efficient",
+                "commiserating_honest"
+            ],
+            "disfluency": {
+                "hesitation_types": [
+                    "vocalized_thinking",
+                    "hedge_words"
+                ],
+                "elongation": "clipped_short",
+                "pacing": "rapid_fire"
+            }
+        }
+    }
+}

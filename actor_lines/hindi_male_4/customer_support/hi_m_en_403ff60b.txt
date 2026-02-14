@@ -1,0 +1,93 @@
+=== Source: 403ff60b_script.json ===
+Language: Hindi
+Gender: male
+Mode: en
+Content Type: customer_support
+Professionalism: casual
+Scenario: confused about charges appearing as a different company name
+
+=== Translated Dialogue ===
+
+Customer [en]: How do I know this isn't fraud? The charge says "Digital Holdings LLC" not your company name.
+
+Customer Support [en]: Oh! I see what happened—that's actually our parent company billing code BH-7734. Super common confusion. Let me pull up your account real quick here.
+
+Customer [en]: Parent company? Since when? This is is exactly the kind of thing scammers do.
+
+Customer Support [en]: Right right, totally get the concern. We merged back in Q2 2024 with Digital Holdings and they handle all processing through merchant ID DH-90021-X now. Your legitimate charges show under that name.
+
+Customer [en]: Okay so that means... wait, how do I verify this? Anyone could just say that.
+
+Customer Support [en]: Absolutely! Smart to verify. Check our website footer—you'll find merger announcement dated April 15th, 2024. Also sending confirmation code VER-8829 to your registered email right now.
+
+Customer [en]: Let me see here... my bank flagged three charges. All different amounts.
+
+Customer Support [en]: Got it got it. Reading your account—transaction TRX-44561 for nineteen ninety-nine, TRX-44598 for forty-seven dollars, and TRX-44612 for nine ninety-nine. Those your subscription renewals from October through December.
+
+Customer [en]: Hmm, what if... what if someone at Digital Holdings has my card information now?
+
+Customer Support [en]: Oh! Actually fantastic question. Your card data stays tokenized through our original processor using encryption standard PCI-DSS-4.0. Digital Holdings never sees actual numbers—just receives payment confirmations.
+
+Customer [en]: It's like a... what's the word... a recurring nightmare with online billing these days.
+
+Customer Support [en]: Yeah yeah, billing confusion everywhere lately. Good news though—found something interesting in your account. You've got duplicate protection coverage under plan code PRO-2847-A. Means any unauthorized charges get instant refunds.
+
+Customer [en]: My my mother just had her identity stolen last month. Ten thousand dollars. Gone.
+
+Customer Support [en]: Oh wow. That's terrifying.
+
+Customer [en]: So I'm just—I just need to know these charges are real. Can you prove it?
+
+Customer Support [en]: Pulling up your purchase history right now. October nineteenth you bought premium access, November third was cloud storage upgrade SKU-88291-B, December first was annual security package.
+
+Customer [en]: Okay okay okay, I remember the security package. But forty-seven dollars?
+
+Customer Support [en]: That one's tricky—let me dig deeper. Ah! Found it. Pro-rated charge for adding two-factor authentication mid-cycle. Invoice INV-55478-QM shows partial month plus setup fee.
+
+Customer [en]: Actually that... yeah, I did add that after Mom's thing happened.
+
+Customer Support [en]: Perfect! Mystery solved. Want me to add a billing note to flag these as verified? Reference number REF-7749-KL for your records. Also setting up text alerts for any future Digital Holdings charges—code SMS-ALERT-22 activated.
+
+
+=== Original (English) ===
+
+Customer: How do I know this isn't fraud? The charge says "Digital Holdings LLC" not your company name.
+
+Customer Support: Oh! I see what happened—that's actually our parent company billing code BH-7734. Super common confusion. Let me pull up your account real quick here.
+
+Customer: Parent company? Since when? This is is exactly the kind of thing scammers do.
+
+Customer Support: Right right, totally get the concern. We merged back in Q2 2024 with Digital Holdings and they handle all processing through merchant ID DH-90021-X now. Your legitimate charges show under that name.
+
+Customer: Okay so that means... wait, how do I verify this? Anyone could just say that.
+
+Customer Support: Absolutely! Smart to verify. Check our website footer—you'll find merger announcement dated April 15th, 2024. Also sending confirmation code VER-8829 to your registered email right now.
+
+Customer: Let me see here... my bank flagged three charges. All different amounts.
+
+Customer Support: Got it got it. Reading your account—transaction TRX-44561 for nineteen ninety-nine, TRX-44598 for forty-seven dollars, and TRX-44612 for nine ninety-nine. Those your subscription renewals from October through December.
+
+Customer: Hmm, what if... what if someone at Digital Holdings has my card information now?
+
+Customer Support: Oh! Actually fantastic question. Your card data stays tokenized through our original processor using encryption standard PCI-DSS-4.0. Digital Holdings never sees actual numbers—just receives payment confirmations.
+
+Customer: It's like a... what's the word... a recurring nightmare with online billing these days.
+
+Customer Support: Yeah yeah, billing confusion everywhere lately. Good news though—found something interesting in your account. You've got duplicate protection coverage under plan code PRO-2847-A. Means any unauthorized charges get instant refunds.
+
+Customer: My my mother just had her identity stolen last month. Ten thousand dollars. Gone.
+
+Customer Support: Oh wow. That's terrifying.
+
+Customer: So I'm just—I just need to know these charges are real. Can you prove it?
+
+Customer Support: Pulling up your purchase history right now. October nineteenth you bought premium access, November third was cloud storage upgrade SKU-88291-B, December first was annual security package.
+
+Customer: Okay okay okay, I remember the security package. But forty-seven dollars?
+
+Customer Support: That one's tricky—let me dig deeper. Ah! Found it. Pro-rated charge for adding two-factor authentication mid-cycle. Invoice INV-55478-QM shows partial month plus setup fee.
+
+Customer: Actually that... yeah, I did add that after Mom's thing happened.
+
+Customer Support: Perfect! Mystery solved. Want me to add a billing note to flag these as verified? Reference number REF-7749-KL for your records. Also setting up text alerts for any future Digital Holdings charges—code SMS-ALERT-22 activated.
+

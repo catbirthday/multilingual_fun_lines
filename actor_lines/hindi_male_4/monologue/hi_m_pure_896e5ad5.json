@@ -1,0 +1,30 @@
+{
+    "conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] अभी-अभी चाबी मिली है! [laugh] दो साल, यार विश्वास हो रहा है? पूरे दो साल से बस... मैगी और हर चीज़ को ना कहते-कहते। [sniffle] सॉरी यार, मैं बस— [emotional pause] जब तुमने पहली बार कहा था कि सेविंग अकाउंट खोल ले, मुझे लगा था पागल हो गए हो। [chuckle] मतलब, मैं? घर खरीदूं? [warm] पर तुम बोलते रहे \"बस बीस परसेंट, तू कर सकता है बीस परसेंट\" और देखो, मेरा मतलब, हम यहाँ तक पहुँच गए। [gasp softly] अरे याद है जब मैं सारे पैसे उस Vegas ट्रिप पे उड़ाने वाला था? [laugh loudly] तुमने literally मुझे रोका था यार। [grateful pause] और वो सारी spreadsheets जो तुमने बनवाई थी, उफ़, शुरू में कितनी चिढ़ आती थी। [cheerful] पर हर कॉफी, हर बेकार की खरीदारी track करते-करते... सच में काम कर गया। [shaky voice] मम्मी तो रो पड़ेगी जब बताऊंगा। [sniffle] उसे कभी लगा ही नहीं था कि मैं— मतलब, उसे tension थी कि मैं हमेशा किराए पे ही रहूंगा। [excited] पर अब देखो मुझे! [passionately] मेरे पास mortgage है! इतना adult feel हो रहा है कि डर लग रहा है! [laugh] बाथरूम में काम करवाना पड़ेगा और किचन तो, हम्म, एकदम अस्सी के दशक का है, पर मेरा है। [very quietly] सच में मेरा। [cry] थैंक यू यार, तुमने विश्वास किया कि मैं कर सकता हूं जब मुझे खुद... जब मुझे बिल्कुल यकीन नहीं था।"
+        }
+    ],
+    "original_conversation": [
+        {
+            "role": "Speaker",
+            "content": "[extremely happy] I just got the keys! [laugh] Two years, can you believe it? Two whole years of, um... of ramen noodles and saying no to literally everything. [sniffle] Sorry, I'm just— [emotional pause] When you first told me to open that savings account, I thought you were crazy. [chuckle] Like, me? Buying a house? [warm] But you kept saying \"just twenty percent, you can do twenty percent\" and somehow, I mean, here we are. [gasp softly] God, remember when I wanted to blow it all on that Vegas trip? [laugh loudly] You literally talked me off that ledge. [grateful pause] And all those spreadsheets you made me, ugh, I hated those at first. [cheerful] But tracking every coffee, every stupid impulse buy... it actually worked. [shaky voice] My mom's gonna cry when I tell her. [sniffle] She never thought I'd— well, she worried I'd be renting forever. [excited] But look at me now! [passionately] I have a mortgage! That's so adult it's terrifying! [laugh] The bathroom needs work and the kitchen's, hmm, definitely from the eighties, but it's mine. [very quietly] Actually mine. [cry] Thank you for believing I could do this when I, uh... when I really didn't."
+        }
+    ],
+    "language": "hindi",
+    "language_name": "Hindi",
+    "gender": "male",
+    "mode": "pure",
+    "line_modes": [
+        "pure"
+    ],
+    "content_type": "monologue",
+    "source_file": "896e5ad5_monologue.json",
+    "type": "emotional_monologue",
+    "subject": "Your broker client buying their first home after two years of saving with your guidance",
+    "requirements": {
+        "filler_mode": "heavy_natural",
+        "tag_heavy": true,
+        "start_with_tag": true
+    }
+}
