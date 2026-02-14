@@ -62,25 +62,65 @@ def clean_and_merge_lines(input_file, output_file=None):
     print(f"  After merging continuations: {len(merged_lines)}")
     print(f"  Total lines removed/merged: {original_count - len(merged_lines)}")
 
+def process_folder(folder_path):
+    """Process all .txt files in a folder."""
+    if not os.path.isdir(folder_path):
+        print(f"Error: '{folder_path}' is not a valid directory.")
+        sys.exit(1)
+    
+    txt_files = [f for f in os.listdir(folder_path) if f.endswith('.txt')]
+    
+    if not txt_files:
+        print(f"No .txt files found in '{folder_path}'")
+        return
+    
+    print(f"Found {len(txt_files)} .txt file(s) in '{folder_path}'\n")
+    
+    for filename in sorted(txt_files):
+        filepath = os.path.join(folder_path, filename)
+        clean_and_merge_lines(filepath)
+        print()  # Add blank line between files
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Clean up annotated text files by removing blank lines and merging continuation lines."
     )
     parser.add_argument(
         "--file", "-f",
-        required=True,
+        default=None,
         help="Input file to process"
+    )
+    parser.add_argument(
+        "--folder", "-d",
+        default=None,
+        help="Folder to process (will process all .txt files in the folder)"
     )
     parser.add_argument(
         "--output", "-o",
         default=None,
-        help="Output file (if not specified, input file will be overwritten)"
+        help="Output file (if not specified, input file will be overwritten). Only valid with --file."
     )
     
     args = parser.parse_args()
     
-    if not os.path.exists(args.file):
-        print(f"Error: File '{args.file}' not found.")
+    # Validate arguments
+    if args.file and args.folder:
+        print("Error: Cannot specify both --file and --folder. Choose one.")
         sys.exit(1)
     
-    clean_and_merge_lines(args.file, args.output)
+    if not args.file and not args.folder:
+        print("Error: Must specify either --file or --folder.")
+        sys.exit(1)
+    
+    if args.folder and args.output:
+        print("Error: --output cannot be used with --folder (files are overwritten in place).")
+        sys.exit(1)
+    
+    if args.file:
+        if not os.path.exists(args.file):
+            print(f"Error: File '{args.file}' not found.")
+            sys.exit(1)
+        clean_and_merge_lines(args.file, args.output)
+    else:
+        process_folder(args.folder)
